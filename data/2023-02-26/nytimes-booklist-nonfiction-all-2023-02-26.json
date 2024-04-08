@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Prince Harry",
+			"description": "The Duke of Sussex details his struggles with the royal family, loss of his mother, service in the British Army and marriage to Meghan Markle.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593593806.jpg",
+			"name": "SPARE",
+			"publisher": "Random House",
+			"rank": 1
+		},
+		{
+			"author": "by Bessel van der Kolk",
+			"description": "How trauma affects the body and mind, and innovative treatments for recovery.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780670785933.jpg",
+			"name": "THE BODY KEEPS THE SCORE",
+			"publisher": "Penguin",
+			"rank": 2
+		},
+		{
+			"author": "by Jennette McCurdy",
+			"description": "The actress and filmmaker describes her eating disorders and difficult relationship with her mother.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982185824.jpg",
+			"name": "I'M GLAD MY MOM DIED",
+			"publisher": "Simon & Schuster",
+			"rank": 3
+		},
+		{
+			"author": "by Pamela Anderson",
+			"description": "The actress and activist details her childhood, rise to fame and the ways she is reclaiming the narrative of her life.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063226562.jpg",
+			"name": "LOVE, PAMELA",
+			"publisher": "Dey Street",
+			"rank": 4
+		},
+		{
+			"author": "by Michelle Obama",
+			"description": "The former first lady shares personal stories and the tools she uses to deal with difficult situations.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593237465.jpg",
+			"name": "THE LIGHT WE CARRY",
+			"publisher": "Crown",
+			"rank": 5
+		},
+		{
+			"author": "by Mark Pomerantz",
+			"description": "An inside account of the attempt to prosecute former President Trump for financial crimes and the Manhattan district attorney\u2019s refusal to do so.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781668022443.jpg",
+			"name": "PEOPLE VS. DONALD TRUMP",
+			"publisher": "Simon & Schuster",
+			"rank": 6
+		},
+		{
+			"author": "by Mike Pompeo",
+			"description": "The former secretary of state gives his account of his time serving under President Trump, with a focus on an America First approach.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063247444.jpg",
+			"name": "NEVER GIVE AN INCH",
+			"publisher": "Broadside",
+			"rank": 7
+		},
+		{
+			"author": "by Matthew Perry",
+			"description": "The actor, known for playing Chandler Bing on \u201cFriends,\u201d shares stories from his childhood and his struggles with sobriety.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250866448.jpg",
+			"name": "FRIENDS, LOVERS, AND THE BIG TERRIBLE THING",
+			"publisher": "Flatiron",
+			"rank": 8
+		},
+		{
+			"author": "by Brad Meltzer and Josh Mensch",
+			"description": "The story of a Nazi plot to kill President Roosevelt, Joseph Stalin and Winston Churchill.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250777263.jpg",
+			"name": "THE NAZI CONSPIRACY",
+			"publisher": "Flatiron",
+			"rank": 9
+		},
+		{
+			"author": "by bell hooks",
+			"description": "The late feminist icon explores the causes of a polarized society and the meaning of love.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780060959470.jpg",
+			"name": "ALL ABOUT LOVE",
+			"publisher": "Morrow",
+			"rank": 10
+		},
+		{
+			"author": "by Heather Gay",
+			"description": "A star of \u201cThe Real Housewives of Salt Lake City\u201d describes leaving the Mormon Church and finding success as a businesswoman and single mother.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982199531.jpg",
+			"name": "BAD MORMON",
+			"publisher": "Gallery",
+			"rank": 11
+		},
+		{
+			"author": "by Viola Davis",
+			"description": "The multiple award-winning actress describes the difficulties she encountered before claiming her sense of self and achieving professional success.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063037328.jpg",
+			"name": "FINDING ME",
+			"publisher": "HarperOne",
+			"rank": 12
+		},
+		{
+			"author": "by Robin Wall Kimmerer",
+			"description": "A botanist and member of the Citizen Potawatomi Nation espouses having an understanding and appreciation of plants and animals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781571313560.jpg",
+			"name": "BRAIDING SWEETGRASS",
+			"publisher": "Milkweed Editions",
+			"rank": 13
+		},
+		{
+			"author": "by James Patterson and Matt Eversmann with Chris Mooney",
+			"description": "A collection of stories about police officers.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316406604.jpg",
+			"name": "WALK THE BLUE LINE",
+			"publisher": "Little, Brown",
+			"rank": 14
+		},
+		{
+			"author": "edited by Nikole Hannah-Jones, Caitlin Roper, Ilena Silverman and Jake Silverstein",
+			"description": "Viewing America\u2019s entanglement with slavery and its legacy, in essays adapted and expanded from The New York Times Magazine.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593230572.jpg",
+			"name": "THE 1619 PROJECT",
+			"publisher": "One World",
+			"rank": 15
+		}
+	]
+}

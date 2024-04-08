@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Delia Owens",
+			"description": "In a quiet town on the North Carolina coast in 1969, a young woman who survived alone in the marsh becomes a murder suspect.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735219090.jpg",
+			"name": "WHERE THE CRAWDADS SING",
+			"publisher": "Putnam",
+			"rank": 1
+		},
+		{
+			"author": "by Heather Morris",
+			"description": "A concentration camp detainee tasked with permanently marking fellow prisoners falls in love with one of them.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062797155.jpg",
+			"name": "THE TATTOOIST OF AUSCHWITZ",
+			"publisher": "Harper",
+			"rank": 2
+		},
+		{
+			"author": "by Kate Quinn",
+			"description": "A British journalist and a Russian female bomber pilot go after a Nazi war criminal.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062740373.jpg",
+			"name": "THE HUNTRESS",
+			"publisher": "Morrow",
+			"rank": 3
+		},
+		{
+			"author": "by Don Winslow",
+			"description": "The third book in the Power of the Dog series. Art Keller\u2019s fight to keep drugs out of the country has taken a complicated turn.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062664488.jpg",
+			"name": "THE BORDER",
+			"publisher": "Morrow",
+			"rank": 4
+		},
+		{
+			"author": "by James Patterson and Max DiLallo",
+			"description": "Caleb Rooney, a police detective and celebrity food truck chef, must clear his name of murder allegations.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316530002.jpg",
+			"name": "THE CHEF",
+			"publisher": "Little, Brown",
+			"rank": 5
+		},
+		{
+			"author": "by Joanne Fluke",
+			"description": "Hannah Swensen teams up with a former lover to find out who left a dead body in her bedroom.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781496718884.jpg",
+			"name": "CHOCOLATE CREAM PIE MURDER",
+			"publisher": "Kensington",
+			"rank": 6
+		},
+		{
+			"author": "by Alex Michaelides",
+			"description": "Theo Faber looks into the mystery of a famous painter who stops speaking after shooting her husband.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250301697.jpg",
+			"name": "THE SILENT PATIENT",
+			"publisher": "Celadon",
+			"rank": 7
+		},
+		{
+			"author": "by Pam Jenoff",
+			"description": "Grace Healey investigates the fates of 12 women who were sent to occupied Europe to help the resistance during World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780778330271.jpg",
+			"name": "THE LOST GIRLS OF PARIS",
+			"publisher": "Park Row",
+			"rank": 8
+		},
+		{
+			"author": "by Lisa Jackson",
+			"description": "Two stories featuring Denver and Colton McLean: \"Tender Trap\" and \"Aftermath.\"",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781420148213.jpg",
+			"name": "BACKLASH",
+			"publisher": "Zebra",
+			"rank": 9
+		},
+		{
+			"author": "by Gail Honeyman",
+			"description": "A young woman\u2019s well-ordered life is disrupted by the I.T. guy from her office.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735220690.jpg",
+			"name": "ELEANOR OLIPHANT IS COMPLETELY FINE",
+			"publisher": "Penguin",
+			"rank": 10
+		},
+		{
+			"author": "by Susan Mallery",
+			"description": "After getting dumped in the same week, three sisters rebuild their lives.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781488088612.jpg",
+			"name": "CALIFORNIA GIRLS",
+			"publisher": "MIRA",
+			"rank": 11
+		},
+		{
+			"author": "by Penelope Ward",
+			"description": "A college student has feelings for an older man over the course of a summer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781942215936.jpg",
+			"name": "WHEN AUGUST ENDS",
+			"publisher": "Penelope Ward",
+			"rank": 12
+		},
+		{
+			"author": "by Lisa Gardner",
+			"description": "D.D. Warren and Flora Dane investigate whether a pregnant woman shot and killed her husband.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524742096.jpg",
+			"name": "NEVER TELL",
+			"publisher": "Dutton",
+			"rank": 13
+		},
+		{
+			"author": "by Faith Hunter",
+			"description": "The fourth book in the Soulwood novel series. Nell uses her magic to help a group that solves paranormal crimes.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399587955.jpg",
+			"name": "CIRCLE OF THE MOON",
+			"publisher": "Ace",
+			"rank": 14
+		},
+		{
+			"author": "by Greer Hendricks and Sarah Pekkanen",
+			"description": "Jessica Farris\u2019s life unravels when she signs up for Dr. Shields\u2019s psychology study.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250133731.jpg",
+			"name": "AN ANONYMOUS GIRL",
+			"publisher": "St. Martin's",
+			"rank": 15
+		}
+	]
+}

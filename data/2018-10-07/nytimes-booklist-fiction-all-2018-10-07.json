@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Robert Galbraith",
+			"description": "The fourth book in the Cormoran Strike series. Detectives Strike and Ellacott investigate a crime a young man may have witnessed as a child; by J. K. Rowling, writing pseudonymously.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316422741.jpg",
+			"name": "LETHAL WHITE",
+			"publisher": "Mulholland/Little, Brown",
+			"rank": 1
+		},
+		{
+			"author": "by Deborah Harkness",
+			"description": "During his lover's journey to immortality, a vampire's past returns to haunt them both.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399564512.jpg",
+			"name": "TIME'S CONVERT",
+			"publisher": "Penguin",
+			"rank": 2
+		},
+		{
+			"author": "by Dan Brown",
+			"description": "After reconnecting with one of his first students, who is now a billionaire futurist, symbology professor Robert Langdon must go on a perilous quest with a beautiful museum director.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385542692.jpg",
+			"name": "ORIGIN",
+			"publisher": "Doubleday",
+			"rank": 3
+		},
+		{
+			"author": "by James Patterson and Nancy Allen",
+			"description": "Ruby Bozarth defends a college football star charged in a felony case complicated by a second murder.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316474122.jpg",
+			"name": "JUROR #3",
+			"publisher": "Little, Brown",
+			"rank": 4
+		},
+		{
+			"author": "by Kevin Kwan",
+			"description": "A New Yorker gets a surprise when she spends the summer with her boyfriend in Singapore.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345803788.jpg",
+			"name": "CRAZY RICH ASIANS",
+			"publisher": "Anchor",
+			"rank": 5
+		},
+		{
+			"author": "by Susan Mallery",
+			"description": "The cheerful Natalie Kaleta begins an affair with the brooding glass artist Ronan Mitchell during a mudslide.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781488096822.jpg",
+			"name": "WHY NOT TONIGHT",
+			"publisher": "HQN",
+			"rank": 6
+		},
+		{
+			"author": "by Lynsay Sands",
+			"description": "Will Jess give up her current life for the chance to be with Raffaele forever?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062855145.jpg",
+			"name": "VAMPIRES LIKE IT HOT",
+			"publisher": "Avon",
+			"rank": 7
+		},
+		{
+			"author": "by Delia Owens",
+			"description": "In a quiet town on the North Carolina coast in 1969, a young woman who survived alone in the marsh becomes a murder suspect.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735219090.jpg",
+			"name": "WHERE THE CRAWDADS SING",
+			"publisher": "Putnam",
+			"rank": 8
+		},
+		{
+			"author": "by Kevin Kwan",
+			"description": "The second book in the Crazy Rich Asians trilogy. As her wedding draws near, Rachel Chu discovers her birth father.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780804172066.jpg",
+			"name": "CHINA RICH GIRLFRIEND",
+			"publisher": "Anchor",
+			"rank": 9
+		},
+		{
+			"author": "by Heather Morris",
+			"description": "A concentration camp detainee tasked with permanently marking fellow prisoners falls in love with one of them.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062797155.jpg",
+			"name": "THE TATTOOIST OF AUSCHWITZ",
+			"publisher": "Harper",
+			"rank": 10
+		},
+		{
+			"author": "by Sandra Brown",
+			"description": "A pilot navigates treacherous situations when he attempts to deliver a mysterious black box to a doctor in Georgia.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455572168.jpg",
+			"name": "TAILSPIN",
+			"publisher": "Grand Central",
+			"rank": 11
+		},
+		{
+			"author": "by J.D. Robb",
+			"description": "Lieutenant Eve Dallas investigates a mysterious act of terror.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250161581.jpg",
+			"name": "LEVERAGE IN DEATH",
+			"publisher": "St. Martin's",
+			"rank": 12
+		},
+		{
+			"author": "by Clive Cussler and Boyd Morrison",
+			"description": "Juan Cabrillo and his crew fight two destructive adversaries.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735219076.jpg",
+			"name": "SHADOW TYRANTS",
+			"publisher": "Putnam",
+			"rank": 13
+		},
+		{
+			"author": "by Darcey Bell",
+			"description": "A single mother's life is rattled when her best friend disappears.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062878649.jpg",
+			"name": "A SIMPLE FAVOR",
+			"publisher": "Harper",
+			"rank": 14
+		},
+		{
+			"author": "by Kevin Kwan",
+			"description": "The final book in the Crazy Rich Asians trilogy. Rivalries and jealousies arise among privileged families.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385542234.jpg",
+			"name": "RICH PEOPLE PROBLEMS",
+			"publisher": "Anchor",
+			"rank": 15
+		}
+	]
+}

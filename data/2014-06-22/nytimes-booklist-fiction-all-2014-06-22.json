@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Stephen King",
+			"description": "A driver plows into a crowd at a job fair, killing eight. The killer then taunts a suicidal ex-cop, who must stop a deadlier attack.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476754468.jpg",
+			"name": "MR. MERCEDES",
+			"publisher": "Scribner",
+			"rank": 1
+		},
+		{
+			"author": "by Laurell K. Hamilton",
+			"description": "In the ninth Meredith Gentry paranormal romance, Merry must save herself and her triplets from Taranis, King of Light and Illusion.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698146631.jpg",
+			"name": "A SHIVER OF LIGHT",
+			"publisher": "Berkley",
+			"rank": 2
+		},
+		{
+			"author": "by Donna Tartt",
+			"description": "A painting smuggled out of the Metropolitan Museum of Art after a bombing becomes a boy\u2019s prize, guilt and burden.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316248679.jpg",
+			"name": "THE GOLDFINCH",
+			"publisher": "Little, Brown",
+			"rank": 3
+		},
+		{
+			"author": "by Dorothea Benton Frank",
+			"description": "Three generations of women endure a stormy summer in South Carolina\u2019s Lowcountry.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062132529.jpg",
+			"name": "THE HURRICANE SISTERS",
+			"publisher": "Morrow/HarperCollins",
+			"rank": 4
+		},
+		{
+			"author": "by James Patterson and Maxine Paetro",
+			"description": "With the return of a killer who was presumed dead, the San Francisco detective Lindsay Boxer and the Women\u2019s Murder Club take action.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316211291.jpg",
+			"name": "UNLUCKY 13",
+			"publisher": "Little, Brown",
+			"rank": 5
+		},
+		{
+			"author": "by Gillian Flynn",
+			"description": "A woman disappears on the day of her fifth anniversary; is her husband a killer?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307588388.jpg",
+			"name": "GONE GIRL",
+			"publisher": "Crown",
+			"rank": 6
+		},
+		{
+			"author": "by Emily Giffin",
+			"description": "A woman who has grown up and made her life in a small, football-obsessed Texas town begins to expand her horizons.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345546890.jpg",
+			"name": "THE ONE AND ONLY",
+			"publisher": "Ballantine",
+			"rank": 7
+		},
+		{
+			"author": "by Jim Butcher",
+			"description": "The Chicago wizard Harry Dresden is forced to help an enemy break into a high-security vault; the 15th Dresden Files novel.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780451464392.jpg",
+			"name": "SKIN GAME",
+			"publisher": "Roc",
+			"rank": 8
+		},
+		{
+			"author": "by John Sandford",
+			"description": "Lucas Davenport investigates when multiple bodies are found in the middle of the Minnesota cornfields.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101597781.jpg",
+			"name": "FIELD OF PREY",
+			"publisher": "Putnam",
+			"rank": 9
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "As the government hit man Will Robie and his partner, Jessica Reel, prepare for a mission, they face a new adversary.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455521234.jpg",
+			"name": "THE TARGET",
+			"publisher": "Grand Central",
+			"rank": 10
+		},
+		{
+			"author": "by Mary Kay Andrews",
+			"description": "A wedding florist tries to shore up her career with Savannah\u2019s society event of the season. But she has competition, and other complications.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250019684.jpg",
+			"name": "SAVE THE DATE",
+			"publisher": "St. Martin's",
+			"rank": 11
+		},
+		{
+			"author": "by Joanna Wylde",
+			"description": "A member of a rival club has his sights on the daughter of the Reapers' president; a Reapers Motorcycle Club novel.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698144095.jpg",
+			"name": "DEVIL'S GAME",
+			"publisher": "Berkley",
+			"rank": 12
+		},
+		{
+			"author": "by Alan Furst",
+			"description": "A Spanish lawyer working in Paris on the eve of World War II joins a mission to help the Republican troops.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400069491.jpg",
+			"name": "MIDNIGHT IN EUROPE",
+			"publisher": "Random House",
+			"rank": 13
+		},
+		{
+			"author": "by Christina Baker Kline",
+			"description": "A historical novel about orphans swept off the streets of New York and sent to the Midwest in the 1920s.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062101204.jpg",
+			"name": "ORPHAN TRAIN",
+			"publisher": "Morrow/HarperCollins",
+			"rank": 14
+		},
+		{
+			"author": "by Lisa See",
+			"description": "Three Asian-American women meet in San Francisco in 1938 at the Forbidden City nightclub.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812992892.jpg",
+			"name": "CHINA DOLLS",
+			"publisher": "Random House",
+			"rank": 15
+		}
+	]
+}

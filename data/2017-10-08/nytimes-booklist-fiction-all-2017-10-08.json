@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Nelson DeMille",
+			"description": "A Miami lawyer solicits an Army veteran to go on a secret mission to recover $60 million stashed away in Cuba.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501101748.jpg",
+			"name": "THE CUBAN AFFAIR",
+			"publisher": "Simon & Schuster",
+			"rank": 1
+		},
+		{
+			"author": "by Stephen King",
+			"description": "The fears of seven teenagers are rekindled in their adult lives by the terrifying title character. Originally published in 1986.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501141232.jpg",
+			"name": "IT",
+			"publisher": "Scribner",
+			"rank": 2
+		},
+		{
+			"author": "by James Patterson and James O. Born",
+			"description": "A detective from New York takes his family on a vacation in Maine and is enlisted by local cops to help solve a crime in the woods.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316466479.jpg",
+			"name": "HAUNTED",
+			"publisher": "Little, Brown",
+			"rank": 3
+		},
+		{
+			"author": "by Ken Follett",
+			"description": "The lovers Ned Willard and Margery Fitzgerald find themselves on opposite sides of a conflict between English Catholics and Protestants while Queen Elizabeth fights to maintain her throne.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735224476.jpg",
+			"name": "A COLUMN OF FIRE",
+			"publisher": "Viking",
+			"rank": 4
+		},
+		{
+			"author": "by Jan Karon",
+			"description": "The 14th novel in the Mitford series. Three generations of Kavanaghs face changes in their lives.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399183737.jpg",
+			"name": "TO BE WHERE YOU ARE",
+			"publisher": "Putnam",
+			"rank": 5
+		},
+		{
+			"author": "by David Lagercrantz",
+			"description": "Lisbeth Salander teams up with an investigative journalist to uncover the secrets of her childhood. A continuation of Stieg Larsson's Millennium series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780451494337.jpg",
+			"name": "THE GIRL WHO TAKES AN EYE FOR AN EYE",
+			"publisher": "Knopf",
+			"rank": 6
+		},
+		{
+			"author": "by John le Carr\u00e9",
+			"description": "Peter Guillam, formerly of the British Secret Service, is pulled out of retirement to defend intelligence operations during the cold war that resulted in the deaths of people close to him.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735225114.jpg",
+			"name": "A LEGACY OF SPIES",
+			"publisher": "Viking",
+			"rank": 7
+		},
+		{
+			"author": "by Margaret Atwood",
+			"description": "Men and women in a dystopian future. The basis of the Hulu series; originally published in 1985.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780547345666.jpg",
+			"name": "THE HANDMAID'S TALE",
+			"publisher": "Houghton Mifflin Harcourt",
+			"rank": 8
+		},
+		{
+			"author": "by Kyle Mills",
+			"description": "Vince Flynn's character Mitch Rapp leaves the C.I.A. to go on a manhunt when the nephew of a Saudi King finances a terrorist group.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476783543.jpg",
+			"name": "ENEMY OF THE STATE",
+			"publisher": "Atria/Emily Bestler",
+			"rank": 9
+		},
+		{
+			"author": "by Lisa Wingate",
+			"description": "A South Carolina lawyer, researching her grandmother\u2019s past, learns about a Tennessee orphanage that kidnapped children and placed them for adoption with wealthy people. Based on a real-life scandal.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780425284681.jpg",
+			"name": "BEFORE WE WERE YOURS",
+			"publisher": "Ballantine",
+			"rank": 10
+		},
+		{
+			"author": "by Celeste Ng",
+			"description": "An artist with a mysterious past and a disregard for the status quo upends a quiet town outside Cleveland.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735224308.jpg",
+			"name": "LITTLE FIRES EVERYWHERE",
+			"publisher": "Penguin Press",
+			"rank": 11
+		},
+		{
+			"author": "by Heather Graham",
+			"description": "The F.B.I.'s Krewe of Hunters paranormal team is invited to investigate a death in an Edgar Allan Poe-themed restaurant.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781460398852.jpg",
+			"name": "WICKED DEEDS",
+			"publisher": "Mira",
+			"rank": 12
+		},
+		{
+			"author": "by J.D. Robb",
+			"description": "Lt. Eve Dallas investigates the murder of a professional gossip who dabbled in blackmail; by Nora Roberts, writing pseudonymously.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250123152.jpg",
+			"name": "SECRETS IN DEATH",
+			"publisher": "St. Martin's",
+			"rank": 13
+		},
+		{
+			"author": "by Ruth Ware",
+			"description": "A travel writer on a cruise is certain she has heard a body thrown overboard, but no one believes her.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501132940.jpg",
+			"name": "THE WOMAN IN CABIN 10",
+			"publisher": "Scout",
+			"rank": 14
+		},
+		{
+			"author": "by Gabbie Hanna",
+			"description": "A collection of poems by the YouTube comedian.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501178320.jpg",
+			"name": "ADULTOLESCENCE",
+			"publisher": "Atria/Keywords",
+			"rank": 15
+		}
+	]
+}

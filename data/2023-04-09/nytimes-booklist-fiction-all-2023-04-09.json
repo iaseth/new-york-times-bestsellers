@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Colleen Hoover",
+			"description": "In the sequel to \u201cIt Ends With Us,\u201d Lily deals with her jealous ex-husband as she reconnects with her first boyfriend.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781668001226.jpg",
+			"name": "IT STARTS WITH US",
+			"publisher": "Atria",
+			"rank": 1
+		},
+		{
+			"author": "by Bonnie Garmus",
+			"description": "A scientist and single mother living in California in the 1960s becomes a star on a TV cooking show.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385547345.jpg",
+			"name": "LESSONS IN CHEMISTRY",
+			"publisher": "Doubleday",
+			"rank": 2
+		},
+		{
+			"author": "by Taylor Jenkins Reid",
+			"description": "A fictional oral history charting the rise and fall of a \u201970s rock \u2019n\u2019 roll band.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524798628.jpg",
+			"name": "DAISY JONES & THE SIX",
+			"publisher": "Ballantine",
+			"rank": 3
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "A battered wife raised in a violent home attempts to halt the cycle of abuse.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501110375.jpg",
+			"name": "IT ENDS WITH US",
+			"publisher": "Atria",
+			"rank": 4
+		},
+		{
+			"author": "by James Patterson and Brendan DuBois",
+			"description": "A botched field operation and a terrorist plot endanger Amy Cornwall and her family.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316457378.jpg",
+			"name": "COUNTDOWN",
+			"publisher": "Little, Brown",
+			"rank": 5
+		},
+		{
+			"author": "by Harlan Coben",
+			"description": "A man imprisoned for murdering his 3-year-old son becomes convinced his son is still alive and plans an escape.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538748367.jpg",
+			"name": "I WILL FIND YOU",
+			"publisher": "Grand Central",
+			"rank": 6
+		},
+		{
+			"author": "by Ann Napolitano",
+			"description": "In a homage to Louisa May Alcott\u2019s \u201cLittle Women,\u201d a young man\u2019s dark past resurfaces as he gets to know the family of his college sweetheart.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593243732.jpg",
+			"name": "HELLO BEAUTIFUL",
+			"publisher": "Dial",
+			"rank": 7
+		},
+		{
+			"author": "by Taylor Jenkins Reid",
+			"description": "A movie icon recounts stories of her loves and career to a struggling magazine writer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501161933.jpg",
+			"name": "THE SEVEN HUSBANDS OF EVELYN HUGO",
+			"publisher": "Washington Square/Atria",
+			"rank": 8
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "Lowen Ashleigh is hired by the husband of an injured writer to complete her popular series and uncovers a horrifying truth.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781791392796.jpg",
+			"name": "VERITY",
+			"publisher": "Grand Central",
+			"rank": 9
+		},
+		{
+			"author": "by Colleen Hoover and Tarryn Fisher",
+			"description": "Questions arise when a pair of lovers try to uncover why they suddenly became strangers.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781335004888.jpg",
+			"name": "NEVER NEVER",
+			"publisher": "Canary Street",
+			"rank": 10
+		},
+		{
+			"author": "by Laura Dave",
+			"description": "Hannah Hall discovers truths about her missing husband and bonds with his daughter from a previous relationship.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501171345.jpg",
+			"name": "THE LAST THING HE TOLD ME",
+			"publisher": "Marysue Rucci",
+			"rank": 11
+		},
+		{
+			"author": "by Laurell K. Hamilton",
+			"description": "The 29th book in the Anita Blake, Vampire Hunter series. Anita and Jean-Claude get engaged and an ancient evil comes to St. Louis.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984804495.jpg",
+			"name": "SMOLDER",
+			"publisher": "Berkley",
+			"rank": 12
+		},
+		{
+			"author": "by Jacqueline Winspear",
+			"description": "In 1947, Elinor White, a former wartime operative, must face an organized crime gang in London.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062867988.jpg",
+			"name": "THE WHITE LADY",
+			"publisher": "Harper",
+			"rank": 13
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "After an unexpected death prevents her from going to Penn State and and forces her to move in with her absent father, Beyah Grim has a summer fling with the rich guy next door.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781668021910.jpg",
+			"name": "HEART BONES",
+			"publisher": "Atria",
+			"rank": 14
+		},
+		{
+			"author": "by Gabrielle Zevin",
+			"description": "Two friends find their partnership challenged in the world of video game design.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593321201.jpg",
+			"name": "TOMORROW, AND TOMORROW, AND TOMORROW",
+			"publisher": "Knopf",
+			"rank": 15
+		}
+	]
+}

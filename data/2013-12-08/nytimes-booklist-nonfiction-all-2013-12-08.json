@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Charles Krauthammer",
+			"description": "Three decades\u2019 worth of essays from the conservative columnist.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385349178.jpg",
+			"name": "THINGS THAT MATTER",
+			"publisher": "Crown Forum",
+			"rank": 1
+		},
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "The host of \"The O'Reilly Factor\" recounts the events leading up to Jesus' execution.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780805098549.jpg",
+			"name": "KILLING JESUS",
+			"publisher": "Holt",
+			"rank": 2
+		},
+		{
+			"author": "by Glenn Beck with Kevin Balfe and Hannah Beck",
+			"description": "Little-known stories from the American past.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476764757.jpg",
+			"name": "MIRACLES AND MASSACRES",
+			"publisher": "Threshold Editions/Mercury Radio Arts",
+			"rank": 3
+		},
+		{
+			"author": "by Brian Kilmeade and Don Yaeger",
+			"description": "The story of the Culper spy ring, which aided the American cause during the Revolution.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698137653.jpg",
+			"name": "GEORGE WASHINGTON'S SECRET SIX",
+			"publisher": "Sentinel",
+			"rank": 4
+		},
+		{
+			"author": "by Doris Kearns Goodwin",
+			"description": "The relationship between Theodore Roosevelt and William Howard Taft and the activities of the muckraking press, from the author of \u201cTeam of Rivals.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781416547860.jpg",
+			"name": "THE BULLY PULPIT",
+			"publisher": "Simon & Schuster",
+			"rank": 5
+		},
+		{
+			"author": "by Malcolm Gladwell",
+			"description": "How disadvantages can work in our favor; from the author of \"The Tipping Point\" and \"Outliers.\"",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316204361.jpg",
+			"name": "DAVID AND GOLIATH",
+			"publisher": "Little, Brown",
+			"rank": 6
+		},
+		{
+			"author": "by Clint Hill and Lisa McCubbin",
+			"description": "Recollections from the Secret Service agent assigned to President Kennedy in Dallas.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476731513.jpg",
+			"name": "FIVE DAYS IN NOVEMBER",
+			"publisher": "Gallery Books",
+			"rank": 7
+		},
+		{
+			"author": "by Malala Yousafzai with Christina Lamb",
+			"description": "The experience of the Pakistani girl who advocated for women\u2019s education and was shot by the Taliban.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316322409.jpg",
+			"name": "I AM MALALA",
+			"publisher": "Little, Brown",
+			"rank": 8
+		},
+		{
+			"author": "by Ari Shavit",
+			"description": "An Israeli journalist expresses both solidarity with and criticism of his countrymen in this memoir and history.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385521703.jpg",
+			"name": "MY PROMISED LAND",
+			"publisher": "Spiegel & Grau",
+			"rank": 9
+		},
+		{
+			"author": "by Colin Cowherd",
+			"description": "Commentary from an ESPN \u00a0sports analyst.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780804137898.jpg",
+			"name": "YOU HERD ME!",
+			"publisher": "Crown Archetype",
+			"rank": 10
+		},
+		{
+			"author": "by Si Robertson with Mark Schlabach",
+			"description": "Tales from Phil\u2019s youngest brother, retired from the Army, who works in the Duck Commander workshop.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476745398.jpg",
+			"name": "SI-COLOGY 1",
+			"publisher": "Howard Books",
+			"rank": 11
+		},
+		{
+			"author": "by Mark Halperin and John Heilemann",
+			"description": "Insider reporting on the election of 2012 from the authors of \u201cGame Change.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101638705.jpg",
+			"name": "DOUBLE DOWN",
+			"publisher": "Penguin Press",
+			"rank": 12
+		},
+		{
+			"author": "by Ron Burgundy",
+			"description": "A \u201cmemoir\u201d in the voice of Will Ferrell\u2019s anchorman character.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780804139588.jpg",
+			"name": "LET ME OFF AT THE TOP!",
+			"publisher": "Crown Archetype",
+			"rank": 13
+		},
+		{
+			"author": "by Sarah Palin",
+			"description": "The former vice presidential candidate urges Americans to keep Christ in Christmas.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062292889.jpg",
+			"name": "GOOD TIDINGS AND GREAT JOY",
+			"publisher": "Broadside/HarperCollins",
+			"rank": 14
+		},
+		{
+			"author": "by Pat Conroy",
+			"description": "In this memoir, Conroy mourns the abusive father on whom \u201cThe Great Santini\u201d was based.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385530859.jpg",
+			"name": "THE DEATH OF SANTINI",
+			"publisher": "Nan A. Talese/Doubleday",
+			"rank": 15
+		}
+	]
+}

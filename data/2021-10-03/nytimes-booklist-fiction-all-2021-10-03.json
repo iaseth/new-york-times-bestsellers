@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Liane Moriarty",
+			"description": "The Delaney siblings suspect their father of causing the disappearance of their mother.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250220257.jpg",
+			"name": "APPLES NEVER FALL",
+			"publisher": "Holt",
+			"rank": 1
+		},
+		{
+			"author": "by Kyle Mills",
+			"description": "Anthony Cook, an autocratic president, distrusts Mitch Rapp, who is working to uncover a traitor.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982164881.jpg",
+			"name": "VINCE FLYNN: ENEMY AT THE GATES",
+			"publisher": "Emily Bestler/Atria",
+			"rank": 2
+		},
+		{
+			"author": "by Colson Whitehead",
+			"description": "Ray Carney, a family man who sells furniture on 125th Street, gets a new clientele made up of vicious and unsavory characters.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385545136.jpg",
+			"name": "HARLEM SHUFFLE",
+			"publisher": "Doubleday",
+			"rank": 3
+		},
+		{
+			"author": "by Sally Rooney",
+			"description": "A novelist, a warehouse worker, an editorial assistant and a political adviser deal with changes.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780374602604.jpg",
+			"name": "BEAUTIFUL WORLD, WHERE ARE YOU",
+			"publisher": "Farrar, Straus & Giroux",
+			"rank": 4
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "A battered wife raised in a violent home attempts to halt the cycle of abuse.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501110375.jpg",
+			"name": "IT ENDS WITH US",
+			"publisher": "Atria",
+			"rank": 5
+		},
+		{
+			"author": "by Laura Dave",
+			"description": "Hannah Hall discovers truths about her missing husband and bonds with his daughter from a previous relationship.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501171345.jpg",
+			"name": "THE LAST THING HE TOLD ME",
+			"publisher": "Simon & Schuster",
+			"rank": 6
+		},
+		{
+			"author": "by J.D. Robb",
+			"description": "The 53rd book of the In Death series. The property where a decades-old crime occurred belongs to the homicide detective Eve Dallas\u2019s husband.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250272812.jpg",
+			"name": "FORGOTTEN IN DEATH",
+			"publisher": "St. Martin's",
+			"rank": 7
+		},
+		{
+			"author": "by Stephen King",
+			"description": "A killer for hire who only takes out bad guys seeks redemption as he does one final job.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982173616.jpg",
+			"name": "BILLY SUMMERS",
+			"publisher": "Scribner",
+			"rank": 8
+		},
+		{
+			"author": "by Paula Hawkins",
+			"description": "Three women come under scrutiny when a young man is found gruesomely murdered in a London houseboat.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735211230.jpg",
+			"name": "A SLOW FIRE BURNING",
+			"publisher": "Riverhead",
+			"rank": 9
+		},
+		{
+			"author": "by Taylor Jenkins Reid",
+			"description": "A movie icon recounts stories of her loves and career to a struggling magazine writer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501161933.jpg",
+			"name": "THE SEVEN HUSBANDS OF EVELYN HUGO",
+			"publisher": "Washington Square/Atria",
+			"rank": 10
+		},
+		{
+			"author": "by Ali Hazelwood",
+			"description": "A young professor agrees to pretend to be a third-year Ph.D. candidate\u2019s boyfriend.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593336823.jpg",
+			"name": "THE LOVE HYPOTHESIS",
+			"publisher": "Berkley",
+			"rank": 11
+		},
+		{
+			"author": "by Matt Haig",
+			"description": "Nora Seed finds a library beyond the edge of the universe that contains books with multiple possibilities of the lives one could have lived.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525559474.jpg",
+			"name": "THE MIDNIGHT LIBRARY",
+			"publisher": "Viking",
+			"rank": 12
+		},
+		{
+			"author": "by Joe Abercrombie",
+			"description": "The third book in the Age of Madness series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316187244.jpg",
+			"name": "THE WISDOM OF CROWDS",
+			"publisher": "Orbit",
+			"rank": 13
+		},
+		{
+			"author": "by Emily Henry",
+			"description": "Opposites Poppy and Alex meet to vacation together one more time in hopes of saving their relationship.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984806758.jpg",
+			"name": "PEOPLE WE MEET ON VACATION",
+			"publisher": "Berkley",
+			"rank": 14
+		},
+		{
+			"author": "by Jay Kristoff",
+			"description": "Vampires have waged war against humanity during the last 27 years, which have not had a sunrise.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250245281.jpg",
+			"name": "EMPIRE OF THE VAMPIRE",
+			"publisher": "St. Martin's",
+			"rank": 15
+		}
+	]
+}

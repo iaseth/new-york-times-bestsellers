@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Mary L. Trump",
+			"description": "The clinical psychologist gives her assessment of events and patterns inside her family and how they shaped President Trump.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982141462.jpg",
+			"name": "TOO MUCH AND NEVER ENOUGH",
+			"publisher": "Simon & Schuster",
+			"rank": 1
+		},
+		{
+			"author": "by Robin DiAngelo",
+			"description": "Historical and cultural analyses on what causes defensive moves by white people and how this inhibits cross-racial dialogue.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780807047415.jpg",
+			"name": "WHITE FRAGILITY",
+			"publisher": "Beacon Press",
+			"rank": 2
+		},
+		{
+			"author": "by Ibram X. Kendi",
+			"description": "A primer for creating a more just and equitable society through identifying and opposing racism.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525509288.jpg",
+			"name": "HOW TO BE AN ANTIRACIST",
+			"publisher": "One World",
+			"rank": 3
+		},
+		{
+			"author": "by John Bolton",
+			"description": "The former national security advisor gives his account of the 17 months he spent working for President Trump.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982148034.jpg",
+			"name": "THE ROOM WHERE IT HAPPENED",
+			"publisher": "Simon & Schuster",
+			"rank": 4
+		},
+		{
+			"author": "by Glennon Doyle",
+			"description": "The activist and public speaker describes her journey of listening to her inner voice.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984801258.jpg",
+			"name": "UNTAMED",
+			"publisher": "Dial",
+			"rank": 5
+		},
+		{
+			"author": "by Ron Chernow",
+			"description": "A biography of the first Treasury secretary. The basis of the Tony Award-winning Broadway musical.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780143034759.jpg",
+			"name": "ALEXANDER HAMILTON",
+			"publisher": "Penguin",
+			"rank": 6
+		},
+		{
+			"author": "by Eddie S. Glaude Jr.",
+			"description": "An appraisal of the life and work of James Baldwin and their meaning in relation to the Black Lives Matter movement and the Trump presidency.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525575320.jpg",
+			"name": "BEGIN AGAIN",
+			"publisher": "Crown",
+			"rank": 7
+		},
+		{
+			"author": "by Ijeoma Oluo",
+			"description": "A look at the contemporary racial landscape of the United States.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781580056786.jpg",
+			"name": "SO YOU WANT TO TALK ABOUT RACE",
+			"publisher": "Seal",
+			"rank": 8
+		},
+		{
+			"author": "by Richard Rothstein",
+			"description": "An examination of the ways in which the government caused residential segregation through racial zoning and other systemic practices.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781631494536.jpg",
+			"name": "THE COLOR OF LAW",
+			"publisher": "Liveright",
+			"rank": 9
+		},
+		{
+			"author": "by Erik Larson",
+			"description": "An examination of the leadership of the prime minister Winston Churchill.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385348713.jpg",
+			"name": "THE SPLENDID AND THE VILE",
+			"publisher": "Crown",
+			"rank": 10
+		},
+		{
+			"author": "by Colin Jost",
+			"description": "Snippets of the \u201cSaturday Night Live\u201d head writer\u2019s life including growing up on Staten Island, performing in rural college cafeterias and competing in a WrestleMania match.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101906323.jpg",
+			"name": "A VERY PUNCHABLE FACE",
+			"publisher": "Crown",
+			"rank": 11
+		},
+		{
+			"author": "by Michelle Alexander",
+			"description": "A law professor takes aim at the \u201cwar on drugs,\u201d mass incarceration and their impact on Black men.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781595586438.jpg",
+			"name": "THE NEW JIM CROW",
+			"publisher": "New Press",
+			"rank": 12
+		},
+		{
+			"author": "by Layla F. Saad",
+			"description": "Ways to understand and possibly counteract white privilege.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781728209807.jpg",
+			"name": "ME AND WHITE SUPREMACY",
+			"publisher": "Sourcebooks",
+			"rank": 13
+		},
+		{
+			"author": "by Bryan Stevenson",
+			"description": "A law professor and MacArthur grant recipient\u2019s memoir of his decades of work to free innocent people condemned to death.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812994520.jpg",
+			"name": "JUST MERCY",
+			"publisher": "Spiegel & Grau",
+			"rank": 14
+		},
+		{
+			"author": "by Ibram X. Kendi",
+			"description": "Winner of the 2016 National Book Award for nonfiction. A look at anti-Black racist ideas and their effect on the course of American history.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781568584638.jpg",
+			"name": "STAMPED FROM THE BEGINNING",
+			"publisher": "Bold Type",
+			"rank": 15
+		}
+	]
+}

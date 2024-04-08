@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Craig Whitlock",
+			"description": "An investigative reporter for The Washington Post gives an account of how three successive presidents and their military commanders handled America\u2019s invasion of Afghanistan after 9/11.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982159009.jpg",
+			"name": "THE AFGHANISTAN PAPERS",
+			"publisher": "Simon & Schuster",
+			"rank": 1
+		},
+		{
+			"author": "by Mark R. Levin",
+			"description": "The Fox News host gives his take on the Green New Deal, critical race theory and social activism.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501135972.jpg",
+			"name": "AMERICAN MARXISM",
+			"publisher": "Threshold Editions",
+			"rank": 2
+		},
+		{
+			"author": "by Bessel van der Kolk",
+			"description": "How trauma affects the body and mind, and innovative treatments for recovery.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780670785933.jpg",
+			"name": "THE BODY KEEPS THE SCORE",
+			"publisher": "Penguin",
+			"rank": 3
+		},
+		{
+			"author": "by Tucker Carlson",
+			"description": "A collection of previously published essays from 1995 to 2016 by the Fox News host.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501183690.jpg",
+			"name": "THE LONG SLIDE",
+			"publisher": "Threshold Editions",
+			"rank": 4
+		},
+		{
+			"author": "by Roxane van Iperen",
+			"description": "Janny and Lien Brilleslijper from Amsterdam were sent by train to Auschwitz when the Jewish safehouse they created in the woods was discovered.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063097629.jpg",
+			"name": "THE SISTERS OF AUSCHWITZ",
+			"publisher": "Harper",
+			"rank": 5
+		},
+		{
+			"author": "by Matthew McConaughey",
+			"description": "The Academy Award-winning actor shares snippets from the diaries he kept over the last 35 years.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593139134.jpg",
+			"name": "GREENLIGHTS",
+			"publisher": "Crown",
+			"rank": 6
+		},
+		{
+			"author": "by Glennon Doyle",
+			"description": "The activist and public speaker describes her journey of listening to her inner voice.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984801258.jpg",
+			"name": "UNTAMED",
+			"publisher": "Dial",
+			"rank": 7
+		},
+		{
+			"author": "by Isabel Wilkerson",
+			"description": "The Pulitzer Prize-winning journalist examines aspects of caste systems across civilizations and reveals a rigid hierarchy in America today.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593230251.jpg",
+			"name": "CASTE",
+			"publisher": "Random House",
+			"rank": 8
+		},
+		{
+			"author": "by Robin Wall Kimmerer",
+			"description": "A botanist and member of the Citizen Potawatomi Nation espouses having an understanding and appreciation of plants and animals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781571313560.jpg",
+			"name": "BRAIDING SWEETGRASS",
+			"publisher": "Milkweed Editions",
+			"rank": 9
+		},
+		{
+			"author": "by Trevor Noah",
+			"description": "A memoir about growing up biracial in apartheid South Africa by the host of \u201cThe Daily Show.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399588181.jpg",
+			"name": "BORN A CRIME",
+			"publisher": "One World",
+			"rank": 10
+		},
+		{
+			"author": "by Bruce D. Perry and Oprah Winfrey",
+			"description": "An approach to dealing with trauma that shifts an essential question used to investigate it.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250223180.jpg",
+			"name": "WHAT HAPPENED TO YOU?",
+			"publisher": "Flatiron",
+			"rank": 11
+		},
+		{
+			"author": "by Michelle Zauner",
+			"description": "The daughter of a Korean mother and Jewish-American father, and leader of the indie rock project Japanese Breakfast, describes creating her own identity after losing her mother to cancer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525657743.jpg",
+			"name": "CRYING IN H MART",
+			"publisher": "Knopf",
+			"rank": 12
+		},
+		{
+			"author": "by Adam Grant",
+			"description": "An examination of the cognitive skills of rethinking and unlearning that could be used to adapt to a rapidly changing world.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984878106.jpg",
+			"name": "THINK AGAIN",
+			"publisher": "Viking",
+			"rank": 13
+		},
+		{
+			"author": "by Mary L. Trump",
+			"description": "The author of \u201cToo Much and Never Enough\u201d examines potential trauma caused by current and historical events.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250278456.jpg",
+			"name": "THE RECKONING",
+			"publisher": "St. Martin's",
+			"rank": 14
+		},
+		{
+			"author": "by Yuval Noah Harari",
+			"description": "How Homo sapiens became Earth\u2019s dominant species.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062316097.jpg",
+			"name": "SAPIENS",
+			"publisher": "Harper",
+			"rank": 15
+		}
+	]
+}

@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Reza Aslan",
+			"description": "A biography of Jesus of Nazareth presents him in the context of his times as the leader of a revolutionary movement.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400069224.jpg",
+			"name": "ZEALOT",
+			"publisher": "Random House",
+			"rank": 1
+		},
+		{
+			"author": "by Eben Alexander",
+			"description": "A neurosurgeon recounts his near death experience during a coma from bacterial meningitis.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451695199.jpg",
+			"name": "PROOF OF HEAVEN",
+			"publisher": "Simon & Schuster",
+			"rank": 2
+		},
+		{
+			"author": "by Piper Kerman",
+			"description": "A memoir by a Brooklyn woman whose relationship with a drug runner gets her sentenced to a year in prison. The basis for the Netflix series, originally published in 2010.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385530262.jpg",
+			"name": "ORANGE IS THE NEW BLACK",
+			"publisher": "Spiegel & Grau",
+			"rank": 3
+		},
+		{
+			"author": "by Mark Leibovich",
+			"description": "An examination of Washington\u2019s \u201cmedia-industrial complex\u201d by the chief national correspondent for The New York Times Magazine.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399161308.jpg",
+			"name": "THIS TOWN",
+			"publisher": "Blue Rider",
+			"rank": 4
+		},
+		{
+			"author": "by Sheryl Sandberg with Nell Scovell",
+			"description": "The chief operating officer of Facebook urges women to pursue their careers without ambivalence.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385349956.jpg",
+			"name": "LEAN IN",
+			"publisher": "Knopf",
+			"rank": 5
+		},
+		{
+			"author": "by Phil Robertson with Mark Schlabach",
+			"description": "The Duck Commander pays tribute to \u201cfaith, family and ducks.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476726090.jpg",
+			"name": "HAPPY, HAPPY, HAPPY",
+			"publisher": "Howard Books",
+			"rank": 6
+		},
+		{
+			"author": "by Christopher Andersen",
+			"description": "The marriage of Jack and Jackie Kennedy, with emphasis on its final year.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476732343.jpg",
+			"name": "THESE FEW PRECIOUS DAYS",
+			"publisher": "Gallery Books",
+			"rank": 7
+		},
+		{
+			"author": "by Dan Balz",
+			"description": "An account of the election of 2012 by The Washington Post\u2019s chief correspondent combines insider details with an analysis of the forces that are reshaping the electorate.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101622766.jpg",
+			"name": "COLLISION 2012",
+			"publisher": "James H. Silberman/Viking",
+			"rank": 8
+		},
+		{
+			"author": "by Scott Anderson",
+			"description": "A history of the Arab revolt against the Turks in World War I focuses on T.E. Lawrence and other international adventurers.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307476418.jpg",
+			"name": "LAWRENCE IN ARABIA",
+			"publisher": "Doubleday",
+			"rank": 9
+		},
+		{
+			"author": "by Jay W. Richards",
+			"description": "An argument that financial reformers have infiltrated American institutions and are waging war against free enterprise.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780071816953.jpg",
+			"name": "INFILTRATED",
+			"publisher": "McGraw-Hill Education",
+			"rank": 10
+		},
+		{
+			"author": "by Ted Kerasote",
+			"description": "Lessons from a freethinking dog: a nature writer\u2019s tribute to the quirky Labrador mutt he adopted.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780156034500.jpg",
+			"name": "MERLE'S DOOR",
+			"publisher": "Houghton Mifflin Harcourt",
+			"rank": 11
+		},
+		{
+			"author": "by Malcolm Gladwell",
+			"description": "Why some people succeed \u2014 it has to do with luck and opportunities as well as talent. From the author of \"Blink\" and \"The Tipping Point.\"",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316017930.jpg",
+			"name": "OUTLIERS",
+			"publisher": "Little, Brown",
+			"rank": 12
+		},
+		{
+			"author": "by Jeannette Walls",
+			"description": "The author recalls a bizarre childhood during which she was constantly moved from place to place.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780743247542.jpg",
+			"name": "THE GLASS CASTLE",
+			"publisher": "Simon & Schuster",
+			"rank": 13
+		},
+		{
+			"author": "by Laura Hillenbrand",
+			"description": "An Olympic runner\u2019s story of survival as a prisoner of the Japanese in World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400064168.jpg",
+			"name": "UNBROKEN",
+			"publisher": "Random House",
+			"rank": 14
+		},
+		{
+			"author": "by Rebecca Skloot",
+			"description": "The story of a woman whose cancer cells were cultured without her permission in 1951.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400052189.jpg",
+			"name": "THE IMMORTAL LIFE OF HENRIETTA LACKS",
+			"publisher": "Broadway",
+			"rank": 15
+		}
+	]
+}

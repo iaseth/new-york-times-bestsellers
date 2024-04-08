@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "The host of \u201cThe O\u2019Reilly Factor\u201d recounts the strange death of Gen. George S. Patton in December 1945.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780805096699.jpg",
+			"name": "KILLING PATTON",
+			"publisher": "Holt",
+			"rank": 1
+		},
+		{
+			"author": "by Lena Dunham",
+			"description": "A collection of revealing and often humorous personal essays from the creator and star of \u201cGirls.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812995008.jpg",
+			"name": "NOT THAT KIND OF GIRL",
+			"publisher": "Random House",
+			"rank": 2
+		},
+		{
+			"author": "by Daniel James Brown",
+			"description": "The University of Washington\u2019s eight-oar crew and their quest for gold at the 1936 Berlin Olympics.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101622742.jpg",
+			"name": "THE BOYS IN THE BOAT",
+			"publisher": "Viking",
+			"rank": 3
+		},
+		{
+			"author": "by Laura Hillenbrand",
+			"description": "An Olympic runner\u2019s story of survival as a prisoner of the Japanese in World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400064168.jpg",
+			"name": "UNBROKEN",
+			"publisher": "Random House",
+			"rank": 4
+		},
+		{
+			"author": "by Steven Johnson",
+			"description": "A history of innovation focused on the development of six key technologies of modern life; the companion volume to a PBS series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698154506.jpg",
+			"name": "HOW WE GOT TO NOW",
+			"publisher": "Riverhead",
+			"rank": 5
+		},
+		{
+			"author": "by Randall Munroe",
+			"description": "Scientific (but often humorous) answers to hypothetical questions, based in part on the author\u2019s website, xkcd.com.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780544272644.jpg",
+			"name": "WHAT IF?",
+			"publisher": "Houghton Mifflin Harcourt",
+			"rank": 6
+		},
+		{
+			"author": "by Steven Pinker",
+			"description": "The Harvard psychologist and linguist updates the rules of writing with a more relaxed approach to grammar.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780670025855.jpg",
+			"name": "THE SENSE OF STYLE",
+			"publisher": "Viking",
+			"rank": 7
+		},
+		{
+			"author": "by Mitchell Zuckoff with members of the Annex Security Team",
+			"description": "Six C.I.A. contract employees discuss their experience during the attack on the State Department compound and the C.I.A. station called the \u201cannex\u201d in Benghazi in 2012.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455582297.jpg",
+			"name": "13 HOURS",
+			"publisher": "Twelve",
+			"rank": 8
+		},
+		{
+			"author": "by Cheryl Strayed",
+			"description": "A woman\u2019s account of a life-changing 1,100-mile hike along the Pacific Crest Trail during the summer of 1995.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307476074.jpg",
+			"name": "WILD",
+			"publisher": "Knopf",
+			"rank": 9
+		},
+		{
+			"author": "by S. C. Gwynne",
+			"description": "The life and career of the Confederate general Stonewall Jackson.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451673302.jpg",
+			"name": "REBEL YELL",
+			"publisher": "Scribner",
+			"rank": 10
+		},
+		{
+			"author": "by David Limbaugh",
+			"description": "The lawyer and political commentator uses his legal training to evaluate, and affirm, the truthfulness of the Bible.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781621572770.jpg",
+			"name": "JESUS ON TRIAL",
+			"publisher": "Regnery",
+			"rank": 11
+		},
+		{
+			"author": "by Chris Kyle with Scott McEwen and Jim DeFelice",
+			"description": "A former member of the Navy SEALs discusses his battlefield experiences during the Iraq war. Kyle was shot to death in Texas in February.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062082374.jpg",
+			"name": "AMERICAN SNIPER",
+			"publisher": "Morrow/HarperCollins",
+			"rank": 12
+		},
+		{
+			"author": "by Henry Kissinger",
+			"description": "The elder statesman offers a view of how to build an international order in today\u2019s world.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698165724.jpg",
+			"name": "WORLD ORDER",
+			"publisher": "Penguin Press",
+			"rank": 13
+		},
+		{
+			"author": "by Richard Preston",
+			"description": "The discovery of the Ebola virus, and the efforts to keep it from spreading; first published in 1994.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307817655.jpg",
+			"name": "THE HOT ZONE",
+			"publisher": "Anchor",
+			"rank": 14
+		},
+		{
+			"author": "by Susan Cain",
+			"description": "Introverts \u2014 one-third of the population \u2014 are undervalued in American society.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307452207.jpg",
+			"name": "QUIET",
+			"publisher": "Crown",
+			"rank": 15
+		}
+	]
+}

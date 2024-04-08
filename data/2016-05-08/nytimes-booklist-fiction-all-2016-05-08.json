@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by David Baldacci",
+			"description": "In a sequel to \u201cMemory Man,\u201d Amos Decker, a detective with an extraordinary memory, investigates the case of a convicted killer who wins a last-minute reprieve.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455586455.jpg",
+			"name": "THE LAST MILE",
+			"publisher": "Grand Central",
+			"rank": 1
+		},
+		{
+			"author": "by Nora Roberts",
+			"description": "A woman is haunted by her father\u2019s crimes as she tries to pursue love and her work as a photographer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399175169.jpg",
+			"name": "THE OBSESSION",
+			"publisher": "Berkley",
+			"rank": 2
+		},
+		{
+			"author": "by Vi Keeland and Penelope Ward",
+			"description": "An arrogant businessman's phone, lost on a commuter train, leads to an unexpected affair.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781942215394.jpg",
+			"name": "STUCK-UP SUIT",
+			"publisher": "EverAfter Romance",
+			"rank": 3
+		},
+		{
+			"author": "by Kristen Ashley",
+			"description": "A grieving woman heads to Colorado, where a biker fatuously attempts to resist her.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781310258299.jpg",
+			"name": "BOUNTY",
+			"publisher": "Kristen Ashley",
+			"rank": 4
+		},
+		{
+			"author": "by Paula Hawkins",
+			"description": "A psychological thriller set in the environs of London is full of complications and betrayals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594633669.jpg",
+			"name": "THE GIRL ON THE TRAIN",
+			"publisher": "Riverhead",
+			"rank": 5
+		},
+		{
+			"author": "by Sylvia Day",
+			"description": "The chronicle of a tempestuous marriage comes to a close.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250109309.jpg",
+			"name": "ONE WITH YOU",
+			"publisher": "St. Martin's Griffin",
+			"rank": 6
+		},
+		{
+			"author": "by Cynthia D'Aprix Sweeney",
+			"description": "Siblings in a dysfunctional New York family must grapple with a reduced inheritance.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062414236.jpg",
+			"name": "THE NEST",
+			"publisher": "Ecco/HarperCollins",
+			"rank": 7
+		},
+		{
+			"author": "by Jojo Moyes",
+			"description": "A woman who has barely been beyond her English village finds herself while caring for a wealthy, embittered quadriplegic.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780143124542.jpg",
+			"name": "ME BEFORE YOU",
+			"publisher": "Penguin",
+			"rank": 8
+		},
+		{
+			"author": "by Curtis Sittenfeld",
+			"description": "The author of \u201cPrep\u201d and \u201cAmerican Wife\u201d retells \u201cPride and Prejudice,\u201d set in the Cincinnati suburbs in the present.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812997613.jpg",
+			"name": "ELIGIBLE",
+			"publisher": "Random House",
+			"rank": 9
+		},
+		{
+			"author": "by Harlan Coben",
+			"description": "A retired Army helicopter pilot faces combat-related nightmares and mysteries concerning the deaths of her husband and sister.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525955092.jpg",
+			"name": "FOOL ME ONCE",
+			"publisher": "Dutton",
+			"rank": 10
+		},
+		{
+			"author": "by Nora Roberts",
+			"description": "A woman finds romance in Ireland. First published in 1999.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101146057.jpg",
+			"name": "JEWELS OF THE SUN",
+			"publisher": "Jove",
+			"rank": 11
+		},
+		{
+			"author": "by Kylie Scott",
+			"description": "A jilted bride is drawn, despite herself, to a rough-and-tumble bartender.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250083272.jpg",
+			"name": "DIRTY",
+			"publisher": "St. Martin's Griffin",
+			"rank": 12
+		},
+		{
+			"author": "by Gilly Macmillan",
+			"description": "An increasingly unstable investigator helps a desperate mother in the search for her missing son.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062413871.jpg",
+			"name": "WHAT SHE KNEW",
+			"publisher": "Morrow/HarperCollins",
+			"rank": 13
+		},
+		{
+			"author": "by Kristin Hannah",
+			"description": "Two sisters are separated in World War II France: one in the countryside, the other in Paris.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781466850606.jpg",
+			"name": "THE NIGHTINGALE",
+			"publisher": "St. Martin's",
+			"rank": 14
+		},
+		{
+			"author": "by Amanda Quick",
+			"description": "A matchmaker in Victorian England turns to a crime novelist for help when she starts receiving a series of disturbingly personalized trinkets.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698193611.jpg",
+			"name": "'TIL DEATH DO US PART",
+			"publisher": "Berkley",
+			"rank": 15
+		}
+	]
+}

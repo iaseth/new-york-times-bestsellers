@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Michael Lewis",
+			"description": "The world of high-frequency computer-driven trading, from the author of \u201cLiar\u2019s Poker.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780393244670.jpg",
+			"name": "FLASH BOYS",
+			"publisher": "Norton",
+			"rank": 1
+		},
+		{
+			"author": "by Todd Burpo with Lynn Vincent",
+			"description": "A father recounts his 3-year-old son\u2019s encounter with Jesus during an appendectomy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780849949203.jpg",
+			"name": "HEAVEN IS FOR REAL",
+			"publisher": "Thomas Nelson",
+			"rank": 2
+		},
+		{
+			"author": "by Paul Stanley",
+			"description": "A memoir by the Kiss rhythm guitarist.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062114068.jpg",
+			"name": "FACE THE MUSIC",
+			"publisher": "HarperOne",
+			"rank": 3
+		},
+		{
+			"author": "by Rob Lowe",
+			"description": "The actor\u2019s second book of stories and observations.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451685718.jpg",
+			"name": "LOVE LIFE",
+			"publisher": "Simon & Schuster",
+			"rank": 4
+		},
+		{
+			"author": "by Dan Harris",
+			"description": "A co-anchor of \"Nightline\" reports on the science and spiritual dimensions of meditation and how it has improved his life.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062265425.jpg",
+			"name": "10% HAPPIER",
+			"publisher": "It Books",
+			"rank": 5
+		},
+		{
+			"author": "by Arianna Huffington",
+			"description": "Personal well-being as the indispensable third measure \u2014 with money and power \u2014 of success.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780804140843.jpg",
+			"name": "THRIVE",
+			"publisher": "Harmony",
+			"rank": 6
+		},
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "The host of \"The O'Reilly Factor\" recounts the events leading up to Jesus' execution.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780805098549.jpg",
+			"name": "KILLING JESUS",
+			"publisher": "Holt",
+			"rank": 7
+		},
+		{
+			"author": "by J. B. West with Mary Lynn Kotz",
+			"description": "Reminiscences of five presidents and their families by a former White House major-domo. First published in 1974.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781480449794.jpg",
+			"name": "UPSTAIRS AT THE WHITE HOUSE",
+			"publisher": "Open Road",
+			"rank": 8
+		},
+		{
+			"author": "by Ed Catmull with Amy Wallace",
+			"description": "How managers can develop an environment that promotes creativity, by the co-founder and president of Pixar Animation.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780679644507.jpg",
+			"name": "CREATIVITY, INC",
+			"publisher": "Random House",
+			"rank": 9
+		},
+		{
+			"author": "by Matt Taibbi",
+			"description": "A journalist contends that economic inequality has created separate \u00a0systems of justice for the rich and poor.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780679645467.jpg",
+			"name": "THE DIVIDE",
+			"publisher": "Spiegel & Grau",
+			"rank": 10
+		},
+		{
+			"author": "by Laura Hillenbrand",
+			"description": "An Olympic runner\u2019s story of survival as a prisoner of the Japanese in World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400064168.jpg",
+			"name": "UNBROKEN",
+			"publisher": "Random House",
+			"rank": 11
+		},
+		{
+			"author": "by Solomon Northup",
+			"description": "The narrative, first published in 1853, of a freeman who was kidnapped and sold into slavery, and spent 12 years in bondage before escaping; the basis of the movie.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781443433099.jpg",
+			"name": "TWELVE YEARS A SLAVE",
+			"publisher": "Various publishers",
+			"rank": 12
+		},
+		{
+			"author": "by Marina Keegan",
+			"description": "Essays and stories by a promising young writer who died in a car crash in 2012.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476753614.jpg",
+			"name": "THE OPPOSITE OF LONELINESS",
+			"publisher": "Scribner",
+			"rank": 13
+		},
+		{
+			"author": "by Edith H. Beer with Susan Dworkin",
+			"description": "The story of a Jewish woman in 1930s Vienna who, with the help of friends, moved to Munich, hid her identity and married a Nazi Party member, thus saving her life.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062190048.jpg",
+			"name": "THE NAZI OFFICER'S WIFE",
+			"publisher": "HarperCollins",
+			"rank": 14
+		},
+		{
+			"author": "edited by Mallory Factor and Elizabeth Factor",
+			"description": "Essays by well-known conservatives explain how the movement developed.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062290694.jpg",
+			"name": "BIG TENT",
+			"publisher": "Broadside Books",
+			"rank": 15
+		}
+	]
+}

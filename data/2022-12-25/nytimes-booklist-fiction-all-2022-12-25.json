@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Colleen Hoover",
+			"description": "In the sequel to \u201cIt Ends With Us,\u201d Lily deals with her jealous ex-husband as she reconnects with her first boyfriend.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781668001226.jpg",
+			"name": "IT STARTS WITH US",
+			"publisher": "Atria",
+			"rank": 1
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "A battered wife raised in a violent home attempts to halt the cycle of abuse.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501110375.jpg",
+			"name": "IT ENDS WITH US",
+			"publisher": "Atria",
+			"rank": 2
+		},
+		{
+			"author": "by Bonnie Garmus",
+			"description": "A scientist and single mother living in California in the 1960s becomes a star on a TV cooking show.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385547345.jpg",
+			"name": "LESSONS IN CHEMISTRY",
+			"publisher": "Doubleday",
+			"rank": 3
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "Lowen Ashleigh is hired by the husband of an injured writer to complete her popular series and uncovers a horrifying truth.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781791392796.jpg",
+			"name": "VERITY",
+			"publisher": "Grand Central",
+			"rank": 4
+		},
+		{
+			"author": "by John Grisham",
+			"description": "Two childhood friends follow in their fathers\u2019 footsteps, which puts them on opposite sides of the law.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385548922.jpg",
+			"name": "THE BOYS FROM BILOXI",
+			"publisher": "Doubleday",
+			"rank": 5
+		},
+		{
+			"author": "by Marc Cameron",
+			"description": "The 22nd book in the Jack Ryan series. Ryan goes behind the Berlin Wall in 1985 to investigate an East German defector.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593422755.jpg",
+			"name": "TOM CLANCY: RED WINTER",
+			"publisher": "Putnam",
+			"rank": 6
+		},
+		{
+			"author": "by Stephen King",
+			"description": "A high school kid inherits a shed that is a portal to another world where good and evil are at war.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781668002179.jpg",
+			"name": "FAIRY TALE",
+			"publisher": "Scribner",
+			"rank": 7
+		},
+		{
+			"author": "by Louise Penny",
+			"description": "The 18th book in the Chief Inspector Gamache series. When an attic room that was sealed off 160 years ago is opened, an old enemy returns.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250145291.jpg",
+			"name": "A WORLD OF CURIOSITIES",
+			"publisher": "Minotaur",
+			"rank": 8
+		},
+		{
+			"author": "by Delia Owens",
+			"description": "In a quiet town on the North Carolina coast in 1969, a young woman who survived alone in the marsh becomes a murder suspect.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735219090.jpg",
+			"name": "WHERE THE CRAWDADS SING",
+			"publisher": "Putnam",
+			"rank": 9
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "Tate Collins and Miles Archer,\u00a0an airline pilot, think they can handle a no strings attached arrangement. But they can't.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476753195.jpg",
+			"name": "UGLY LOVE",
+			"publisher": "Atria",
+			"rank": 10
+		},
+		{
+			"author": "by Barbara Kingsolver",
+			"description": "A reimagining of Charles Dickens\u2019s \u201cDavid Copperfield\u201d set in the mountains of southern Appalachia.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063251922.jpg",
+			"name": "DEMON COPPERHEAD",
+			"publisher": "Harper",
+			"rank": 11
+		},
+		{
+			"author": "by Taylor Jenkins Reid",
+			"description": "A movie icon recounts stories of her loves and career to a struggling magazine writer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501161933.jpg",
+			"name": "THE SEVEN HUSBANDS OF EVELYN HUGO",
+			"publisher": "Washington Square/Atria",
+			"rank": 12
+		},
+		{
+			"author": "by James Patterson",
+			"description": "Detective Alex Cross and the true-crime author Thomas Tull search for a serial killer known as the Family Man.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316499187.jpg",
+			"name": "TRIPLE CROSS",
+			"publisher": "Little, Brown",
+			"rank": 13
+		},
+		{
+			"author": "by Michael Connelly",
+			"description": "Ballard and Bosch bury old resentments as they go after two killers.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316485654.jpg",
+			"name": "DESERT STAR",
+			"publisher": "Little, Brown",
+			"rank": 14
+		},
+		{
+			"author": "by Cormac McCarthy",
+			"description": "A companion volume to McCarthy's recent novel \"The Passenger.\"\u00a0A doctoral candidate diagnosed with paranoid schizophrenia contemplates the nature of madness.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307269003.jpg",
+			"name": "STELLA MARIS",
+			"publisher": "Knopf",
+			"rank": 15
+		}
+	]
+}

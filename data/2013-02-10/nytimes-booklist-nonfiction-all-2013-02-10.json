@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Eben Alexander",
+			"description": "A neurosurgeon recounts his near death experience during a coma from bacterial meningitis.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451695199.jpg",
+			"name": "PROOF OF HEAVEN",
+			"publisher": "Simon & Schuster",
+			"rank": 1
+		},
+		{
+			"author": "by Terry Francona and Dan Shaughnessy",
+			"description": "The manager\u2019s Red Sox years.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780547928173.jpg",
+			"name": "FRANCONA",
+			"publisher": "Houghton Mifflin Harcourt Publishing",
+			"rank": 2
+		},
+		{
+			"author": "by Sonia Sotomayor",
+			"description": "The Supreme Court justice recalls growing up in the Bronx, attending Princeton, working for the Manhattan District Attorney\u2019s office and becoming a federal judge.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307594884.jpg",
+			"name": "MY BELOVED WORLD",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 3
+		},
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "The host of \u201cThe O\u2019Reilly Factor\u201d recounts the events surrounding the assassination of John F. Kennedy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780805096668.jpg",
+			"name": "KILLING KENNEDY",
+			"publisher": "Henry Holt & Company",
+			"rank": 4
+		},
+		{
+			"author": "by Lawrence Wright",
+			"description": "The Pulitzer Prize-winning author examines the world of Scientology.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307700667.jpg",
+			"name": "GOING CLEAR",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 5
+		},
+		{
+			"author": "by Mark Owen with Kevin Maurer",
+			"description": "An account of the mission that killed Osama bin Laden, by a former member of the Navy SEALs.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101611302.jpg",
+			"name": "NO EASY DAY",
+			"publisher": "Penguin Group",
+			"rank": 6
+		},
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "The host of \u201cThe O\u2019Reilly Factor\u201d recounts the assassination of Abraham Lincoln.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780805093070.jpg",
+			"name": "KILLING LINCOLN",
+			"publisher": "Henry Holt & Company",
+			"rank": 7
+		},
+		{
+			"author": "by Jon Meacham",
+			"description": "The Pulitzer Prize-winning biographer celebrates Jefferson\u2019s skills as a practical politician.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780679645368.jpg",
+			"name": "THOMAS JEFFERSON",
+			"publisher": "Random House Publishing",
+			"rank": 8
+		},
+		{
+			"author": "by Joe Peters",
+			"description": "The story of a boy subjected to violence and sexual abuse who became mute for several years but eventually escaped his family; originally published in 2008.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780007283828.jpg",
+			"name": "CRY SILENT TEARS",
+			"publisher": "HarperCollins Publishers",
+			"rank": 9
+		},
+		{
+			"author": "by Doris Kearns Goodwin",
+			"description": "The political genius of Abraham Lincoln, revealed in his relationship with his cabinet; originally published in 2005.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780743270755.jpg",
+			"name": "TEAM OF RIVALS",
+			"publisher": "Simon & Schuster",
+			"rank": 10
+		},
+		{
+			"author": "by The Countess of Carnarvon",
+			"description": "The inspiration and setting for the show on PBS.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780770435639.jpg",
+			"name": "LADY ALMINA AND THE REAL DOWNTON ABBEY",
+			"publisher": "Broadway Books",
+			"rank": 11
+		},
+		{
+			"author": "by Laura Hillenbrand",
+			"description": "An Olympic runner\u2019s story of survival as a prisoner of the Japanese in World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400064168.jpg",
+			"name": "UNBROKEN",
+			"publisher": "Random House Publishing",
+			"rank": 12
+		},
+		{
+			"author": "by Charles Duhigg",
+			"description": "A Times reporter\u2019s account of the science behind how we form, and break, habits.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812981605.jpg",
+			"name": "THE POWER OF HABIT",
+			"publisher": "Random House Publishing",
+			"rank": 13
+		},
+		{
+			"author": "by Cheryl Strayed",
+			"description": "A woman\u2019s account of a life-changing 1,100-mile hike along the Pacific Crest Trail.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307476074.jpg",
+			"name": "WILD",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 14
+		},
+		{
+			"author": "by Katherine Boo",
+			"description": "A journalist reports on families striving for better lives in a Mumbai slum.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812979329.jpg",
+			"name": "BEHIND THE BEAUTIFUL FOREVERS",
+			"publisher": "Random House Publishing",
+			"rank": 15
+		}
+	]
+}

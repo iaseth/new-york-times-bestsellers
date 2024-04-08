@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Eben Alexander",
+			"description": "A neurosurgeon recounts his near death experience during a coma from bacterial meningitis.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451695199.jpg",
+			"name": "PROOF OF HEAVEN",
+			"publisher": "Simon & Schuster",
+			"rank": 1
+		},
+		{
+			"author": "by Sonia Sotomayor",
+			"description": "The Supreme Court justice recalls growing up in the Bronx, attending Princeton, working for the Manhattan District Attorney\u2019s office and becoming a federal judge.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307594884.jpg",
+			"name": "MY BELOVED WORLD",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 2
+		},
+		{
+			"author": "by Lawrence Wright",
+			"description": "The Pulitzer Prize-winning author examines the world of Scientology.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307700667.jpg",
+			"name": "GOING CLEAR",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 3
+		},
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "The host of \u201cThe O\u2019Reilly Factor\u201d recounts the events surrounding the assassination of John F. Kennedy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780805096668.jpg",
+			"name": "KILLING KENNEDY",
+			"publisher": "Henry Holt & Company",
+			"rank": 4
+		},
+		{
+			"author": "by Mark Owen with Kevin Maurer",
+			"description": "An account of the mission that killed Osama bin Laden, by a former member of the Navy SEALs.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101611302.jpg",
+			"name": "NO EASY DAY",
+			"publisher": "Penguin Group",
+			"rank": 5
+		},
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "The host of \u201cThe O\u2019Reilly Factor\u201d recounts the assassination of Abraham Lincoln.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780805093070.jpg",
+			"name": "KILLING LINCOLN",
+			"publisher": "Henry Holt & Company",
+			"rank": 6
+		},
+		{
+			"author": "by W. R. Bolen and the creators of TotalFratMove.com",
+			"description": "Fraternity humor.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455515035.jpg",
+			"name": "TOTAL FRAT MOVE",
+			"publisher": "Grand Central Publishing",
+			"rank": 7
+		},
+		{
+			"author": "by Hoda Kotb with Jane Lorenzini",
+			"description": "Portraits of six people who have undergone personal transformation.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451656039.jpg",
+			"name": "TEN YEARS LATER",
+			"publisher": "Simon & Schuster",
+			"rank": 8
+		},
+		{
+			"author": "by Jon Meacham",
+			"description": "The Pulitzer Prize-winning biographer celebrates Jefferson\u2019s skills as a practical politician.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780679645368.jpg",
+			"name": "THOMAS JEFFERSON",
+			"publisher": "Random House Publishing",
+			"rank": 9
+		},
+		{
+			"author": "by Adam Makos with Larry Alexander",
+			"description": "An encounter between an American and a German pilot in the skies over Germany in December 1943.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101618950.jpg",
+			"name": "A HIGHER CALL",
+			"publisher": "Penguin Group",
+			"rank": 10
+		},
+		{
+			"author": "by Laura Hillenbrand",
+			"description": "An Olympic runner\u2019s story of survival as a prisoner of the Japanese in World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400064168.jpg",
+			"name": "UNBROKEN",
+			"publisher": "Random House Publishing",
+			"rank": 11
+		},
+		{
+			"author": "by Doris Kearns Goodwin",
+			"description": "The political genius of Abraham Lincoln, revealed in his relationship with his cabinet; originally published in 2005.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780743270755.jpg",
+			"name": "TEAM OF RIVALS",
+			"publisher": "Simon & Schuster",
+			"rank": 12
+		},
+		{
+			"author": "by Cheryl Strayed",
+			"description": "A woman\u2019s account of a life-changing 1,100-mile hike along the Pacific Crest Trail.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307476074.jpg",
+			"name": "WILD",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 13
+		},
+		{
+			"author": "by Daniel H. Pink",
+			"description": "Insights from social science about how to move others.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101597071.jpg",
+			"name": "TO SELL IS HUMAN",
+			"publisher": "Penguin Group",
+			"rank": 14
+		},
+		{
+			"author": "by Charles Duhigg",
+			"description": "A Times reporter\u2019s account of the science behind how we form, and break, habits.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812981605.jpg",
+			"name": "THE POWER OF HABIT",
+			"publisher": "Random House Publishing",
+			"rank": 15
+		}
+	]
+}

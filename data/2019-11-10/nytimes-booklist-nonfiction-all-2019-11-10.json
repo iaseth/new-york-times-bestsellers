@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Elton John",
+			"description": "The multi-award-winning solo artist's first autobiography chronicles his career, relationships and private struggles.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250147608.jpg",
+			"name": "ME",
+			"publisher": "Holt",
+			"rank": 1
+		},
+		{
+			"author": "by Ronan Farrow",
+			"description": "The Pulitzer Prize-winning reporter details some surveillance and intimidation tactics used to pressure journalists and elude consequences by certain wealthy and connected men.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316486637.jpg",
+			"name": "CATCH AND KILL",
+			"publisher": "Little, Brown",
+			"rank": 2
+		},
+		{
+			"author": "by Bret Baier with Catherine Whitney",
+			"description": "The Fox News host describes a meeting between Franklin D. Roosevelt, Winston Churchill and Joseph Stalin in Tehran during World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062905680.jpg",
+			"name": "THREE DAYS AT THE BRINK",
+			"publisher": "Morrow",
+			"rank": 3
+		},
+		{
+			"author": "by Rachel Maddow",
+			"description": "The MSNBC host argues that the global oil and gas industry has weakened democracies and bolstered authoritarians.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525575474.jpg",
+			"name": "BLOWOUT",
+			"publisher": "Crown",
+			"rank": 4
+		},
+		{
+			"author": "by John Lithgow",
+			"description": "The multi-award-winning actor satirizes the Trump administration with a collection of poems and illustrations.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781452182759.jpg",
+			"name": "DUMPTY",
+			"publisher": "Chronicle Prism",
+			"rank": 5
+		},
+		{
+			"author": "by Malcolm Gladwell",
+			"description": "Famous examples of miscommunication serve as the backdrop to explain potential conflicts and misunderstandings.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316478526.jpg",
+			"name": "TALKING TO STRANGERS",
+			"publisher": "Little, Brown",
+			"rank": 6
+		},
+		{
+			"author": "by Tara Westover",
+			"description": "The daughter of survivalists, who is kept out of school, educates herself enough to leave home for university.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399590504.jpg",
+			"name": "EDUCATED",
+			"publisher": "Random House",
+			"rank": 7
+		},
+		{
+			"author": "by Edward Snowden",
+			"description": "A memoir by the former National Security Agency contractor who exposed the government\u2019s mass surveillance program.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250237231.jpg",
+			"name": "PERMANENT RECORD",
+			"publisher": "Metropolitan/Holt",
+			"rank": 8
+		},
+		{
+			"author": "by Carly Simon",
+			"description": "The singer and songwriter describes her friendship with Jacqueline Kennedy Onassis.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780374277727.jpg",
+			"name": "TOUCHED BY THE SUN",
+			"publisher": "Farrar, Straus & Giroux",
+			"rank": 9
+		},
+		{
+			"author": "by Mike Rowe",
+			"description": "The television personality relays stories from his podcast and personal anecdotes.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982130855.jpg",
+			"name": "THE WAY I HEARD IT",
+			"publisher": "Gallery",
+			"rank": 10
+		},
+		{
+			"author": "by Bill Bryson",
+			"description": "An owner\u2019s manual of the human body covering various parts, functions and what happens when things go wrong.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385539302.jpg",
+			"name": "THE BODY",
+			"publisher": "Doubleday",
+			"rank": 11
+		},
+		{
+			"author": "by Gary Janetti",
+			"description": "Comedic essays on everyday life by a writer and producer for television.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250225825.jpg",
+			"name": "DO YOU MIND IF I CANCEL?",
+			"publisher": "Flatiron",
+			"rank": 12
+		},
+		{
+			"author": "by Ali Wong",
+			"description": "The comedian dispenses her brand of wisdom through letters to her children.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525508830.jpg",
+			"name": "DEAR GIRLS",
+			"publisher": "Random House",
+			"rank": 13
+		},
+		{
+			"author": "by Julie Andrews and Emma Walton Hamilton",
+			"description": "The musical theater icon's second installment of her memoir describes her arrival in Hollywood, becoming a mother and her relationship with Blake Edwards.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316349253.jpg",
+			"name": "HOME WORK",
+			"publisher": "Hachette",
+			"rank": 14
+		},
+		{
+			"author": "by Edmund Morris",
+			"description": "The Pulitzer Prize-winning author chronicles the personal life, inventions and obsessions of Thomas Alva Edison.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812993110.jpg",
+			"name": "EDISON",
+			"publisher": "Random House",
+			"rank": 15
+		}
+	]
+}

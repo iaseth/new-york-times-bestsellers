@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Glennon Doyle",
+			"description": "The activist and public speaker describes her journey of listening to her inner voice.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984801258.jpg",
+			"name": "UNTAMED",
+			"publisher": "Dial",
+			"rank": 1
+		},
+		{
+			"author": "by Michelle Obama",
+			"description": "The former first lady describes her journey from the South Side of Chicago to the White House, and how she balanced work, family and her husband\u2019s political ascent.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524763138.jpg",
+			"name": "BECOMING",
+			"publisher": "Crown",
+			"rank": 2
+		},
+		{
+			"author": "by Erik Larson",
+			"description": "An examination of the leadership of the prime minister Winston Churchill.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385348713.jpg",
+			"name": "THE SPLENDID AND THE VILE",
+			"publisher": "Crown",
+			"rank": 3
+		},
+		{
+			"author": "by Tara Westover",
+			"description": "The daughter of survivalists, who is kept out of school, educates herself enough to leave home for university.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399590504.jpg",
+			"name": "EDUCATED",
+			"publisher": "Random House",
+			"rank": 4
+		},
+		{
+			"author": "by John M. Barry",
+			"description": "An overview of the 1918 flu epidemic and cautionary tale for similar kinds of large-scale outbreaks.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780143036494.jpg",
+			"name": "THE GREAT INFLUENZA",
+			"publisher": "Penguin",
+			"rank": 5
+		},
+		{
+			"author": "by Robert Kolker",
+			"description": "From 1945 to 1965, a family in Colorado had 12 children, six of whom went on to develop schizophrenia.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385543767.jpg",
+			"name": "HIDDEN VALLEY ROAD",
+			"publisher": "Doubleday",
+			"rank": 6
+		},
+		{
+			"author": "by Judy Mikovits and Kent Heckenlively",
+			"description": "The controversial virologist gives her account of her work over nearly four decades.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781510752245.jpg",
+			"name": "PLAGUE OF CORRUPTION",
+			"publisher": "Skyhorse",
+			"rank": 7
+		},
+		{
+			"author": "by Bessel van der Kolk",
+			"description": "How trauma affects the body and mind, and innovative treatments for recovery.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780670785933.jpg",
+			"name": "THE BODY KEEPS THE SCORE",
+			"publisher": "Penguin",
+			"rank": 8
+		},
+		{
+			"author": "by Sonia Purnell",
+			"description": "The true story of a Baltimore socialite who joined a spy organization during World War II and became essential to the French Resistance.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735225299.jpg",
+			"name": "A WOMAN OF NO IMPORTANCE",
+			"publisher": "Viking",
+			"rank": 9
+		},
+		{
+			"author": "by Brad Meltzer and Josh Mensch",
+			"description": "How Allan Pinkerton, along with undercover agents, thwarted a lesser-known assassination attempt of Abraham Lincoln in Baltimore in 1861.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250317476.jpg",
+			"name": "THE LINCOLN CONSPIRACY",
+			"publisher": "Flatiron",
+			"rank": 10
+		},
+		{
+			"author": "by Kobe Bryant",
+			"description": "Various skills and techniques used on the court by the late Los Angeles Lakers player.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780374201234.jpg",
+			"name": "THE MAMBA MENTALITY",
+			"publisher": "Melcher Media/MCD/Farrar, Straus & Giroux",
+			"rank": 11
+		},
+		{
+			"author": "by Angela Duckworth",
+			"description": "A psychologist argues that passion and perseverance are the keys to success.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501111129.jpg",
+			"name": "GRIT",
+			"publisher": "Scribner",
+			"rank": 12
+		},
+		{
+			"author": "by Dan Crenshaw",
+			"description": "The Texas congressman and former Navy SEAL prescribes ways to overcome adversity.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538733301.jpg",
+			"name": "FORTITUDE",
+			"publisher": "Grand Central",
+			"rank": 13
+		},
+		{
+			"author": "by Robin DiAngelo",
+			"description": "Historical and cultural analyses on what causes defensive moves by white people and how this inhibits cross-racial dialogue.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780807047415.jpg",
+			"name": "WHITE FRAGILITY",
+			"publisher": "Beacon Press",
+			"rank": 14
+		},
+		{
+			"author": "by Yuval Noah Harari",
+			"description": "How Homo sapiens became Earth\u2019s dominant species.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062316097.jpg",
+			"name": "SAPIENS",
+			"publisher": "Harper",
+			"rank": 15
+		}
+	]
+}

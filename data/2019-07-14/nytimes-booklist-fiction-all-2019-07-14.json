@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Delia Owens",
+			"description": "In a quiet town on the North Carolina coast in 1969, a young woman who survived alone in the marsh becomes a murder suspect.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735219090.jpg",
+			"name": "WHERE THE CRAWDADS SING",
+			"publisher": "Putnam",
+			"rank": 1
+		},
+		{
+			"author": "by Brad Thor",
+			"description": "Cut off from any support, Scot Harvath fights to get his revenge.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982104030.jpg",
+			"name": "BACKLASH",
+			"publisher": "Emily Bestler/Atria",
+			"rank": 2
+		},
+		{
+			"author": "by Danielle Steel",
+			"description": "A photographer embarks on a road trip to reconnect with three men she might have married.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399179471.jpg",
+			"name": "LOST AND FOUND",
+			"publisher": "Delacorte",
+			"rank": 3
+		},
+		{
+			"author": "by Elin Hilderbrand",
+			"description": "The Levin family undergoes dramatic events with a son in Vietnam, a daughter in protests and dark secrets hiding beneath the surface.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316420013.jpg",
+			"name": "SUMMER OF '69",
+			"publisher": "Little, Brown",
+			"rank": 4
+		},
+		{
+			"author": "by John Grisham",
+			"description": "A decorated World War II veteran shoots and kills a pastor inside a Mississippi church.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385544160.jpg",
+			"name": "THE RECKONING",
+			"publisher": "Doubleday",
+			"rank": 5
+		},
+		{
+			"author": "by Debbie Macomber",
+			"description": "Annie Marlow forms new relationships in the Pacific Northwest as she tries to recover from tragedy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399181269.jpg",
+			"name": "COTTAGE BY THE SEA",
+			"publisher": "Ballantine",
+			"rank": 6
+		},
+		{
+			"author": "by Elizabeth Gilbert",
+			"description": "An 89-year-old Vivian Morris looks back at the direction her life took when she entered the 1940s New York theater scene.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594634734.jpg",
+			"name": "CITY OF GIRLS",
+			"publisher": "Riverhead",
+			"rank": 7
+		},
+		{
+			"author": "by Lisa Wingate",
+			"description": "A South Carolina lawyer learns about the questionable practices of a Tennessee orphanage.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780425284681.jpg",
+			"name": "BEFORE WE WERE YOURS",
+			"publisher": "Ballantine",
+			"rank": 8
+		},
+		{
+			"author": "by Jennifer Weiner",
+			"description": "The story of two sisters, Jo and Bethie Kaufman, and their life experiences as the world around them changes drastically from the 1950s.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501133480.jpg",
+			"name": "MRS. EVERYTHING",
+			"publisher": "Atria",
+			"rank": 9
+		},
+		{
+			"author": "by Kate Atkinson",
+			"description": "Detective Jackson Brodie uncovers a sinister network in a sleepy seaside town.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316523097.jpg",
+			"name": "BIG SKY",
+			"publisher": "Little, Brown",
+			"rank": 10
+		},
+		{
+			"author": "by Eloisa James",
+			"description": "The fourth book in the Wildes of Lindow Castle series. Will Lady Betsy Wilde have an adventure in boy\u2019s clothes or spend the night with Lord Jeremy Roden?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062877840.jpg",
+			"name": "SAY NO TO THE DUKE",
+			"publisher": "Avon",
+			"rank": 11
+		},
+		{
+			"author": "by Helen Hardt",
+			"description": "The 10th book in the Steel Brothers Saga.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781642631357.jpg",
+			"name": "BREATHLESS",
+			"publisher": "Waterhouse",
+			"rank": 12
+		},
+		{
+			"author": "by Celeste Ng",
+			"description": "An artist upends a quiet town outside Cleveland.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735224308.jpg",
+			"name": "LITTLE FIRES EVERYWHERE",
+			"publisher": "Penguin Press",
+			"rank": 13
+		},
+		{
+			"author": "by Heather Morris",
+			"description": "A concentration camp detainee tasked with permanently marking fellow prisoners falls in love with one of them.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062797155.jpg",
+			"name": "THE TATTOOIST OF AUSCHWITZ",
+			"publisher": "Harper",
+			"rank": 14
+		},
+		{
+			"author": "by James Patterson and David Ellis",
+			"description": "A string of seemingly accidental and unrelated deaths confound F.B.I. Agent Emmy Dockery.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316419826.jpg",
+			"name": "UNSOLVED",
+			"publisher": "Little, Brown",
+			"rank": 15
+		}
+	]
+}

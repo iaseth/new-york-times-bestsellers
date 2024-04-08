@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Brandi Carlile",
+			"description": "The Grammy Award-winning singer and songwriter recounts difficulties during her formative years and her hard-won successes.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593237243.jpg",
+			"name": "BROKEN HORSES",
+			"publisher": "Crown",
+			"rank": 1
+		},
+		{
+			"author": "by Erin French",
+			"description": "A memoir by the chef and owner of the Lost Kitchen in Freedom, Maine.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250312341.jpg",
+			"name": "FINDING FREEDOM",
+			"publisher": "Celadon",
+			"rank": 2
+		},
+		{
+			"author": "by Jenny Lawson",
+			"description": "The humorist maps out her mental and physical health journey.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250077035.jpg",
+			"name": "BROKEN",
+			"publisher": "Holt",
+			"rank": 3
+		},
+		{
+			"author": "by Hunter Biden",
+			"description": "The lawyer and artist, who is the son of the current president, details tragedies within his family and his path to sobriety.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982151119.jpg",
+			"name": "BEAUTIFUL THINGS",
+			"publisher": "Gallery",
+			"rank": 4
+		},
+		{
+			"author": "by Judy Batalion",
+			"description": "How Jewish women in Poland turned Jewish youth groups into resistance cells to fight the Nazis and helped build systems of underground bunkers.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062874214.jpg",
+			"name": "THE LIGHT OF DAYS",
+			"publisher": "Morrow",
+			"rank": 5
+		},
+		{
+			"author": "by Michio Kaku",
+			"description": "The theoretical physicist explains the controversy around the synthesis of the theory of relativity and quantum theory.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385542746.jpg",
+			"name": "THE GOD EQUATION",
+			"publisher": "Doubleday",
+			"rank": 6
+		},
+		{
+			"author": "by Walter Isaacson",
+			"description": "How the Nobel Prize winner Jennifer Doudna and her colleagues invented CRISPR, a tool that can edit DNA.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982115852.jpg",
+			"name": "THE CODE BREAKER",
+			"publisher": "Simon & Schuster",
+			"rank": 7
+		},
+		{
+			"author": "by Bill Bryson",
+			"description": "An owner\u2019s manual of the human body covering various parts, functions and what happens when things go wrong.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385539302.jpg",
+			"name": "THE BODY",
+			"publisher": "Doubleday",
+			"rank": 8
+		},
+		{
+			"author": "by David Grann",
+			"description": "The story of a murder spree in 1920s Oklahoma that targeted Osage Indians, whose lands contained oil.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385534246.jpg",
+			"name": "KILLERS OF THE FLOWER MOON",
+			"publisher": "Doubleday",
+			"rank": 9
+		},
+		{
+			"author": "by Bessel van der Kolk",
+			"description": "How trauma affects the body and mind, and innovative treatments for recovery.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780670785933.jpg",
+			"name": "THE BODY KEEPS THE SCORE",
+			"publisher": "Penguin",
+			"rank": 10
+		},
+		{
+			"author": "by Matthew McConaughey",
+			"description": "The Academy Award-winning actor shares snippets from the diaries he kept over the last 35 years.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593139134.jpg",
+			"name": "GREENLIGHTS",
+			"publisher": "Crown",
+			"rank": 11
+		},
+		{
+			"author": "by Isabel Wilkerson",
+			"description": "The Pulitzer Prize-winning journalist examines aspects of caste systems across civilizations and reveals a rigid hierarchy in America today.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593230251.jpg",
+			"name": "CASTE",
+			"publisher": "Random House",
+			"rank": 12
+		},
+		{
+			"author": "by Don Lemon",
+			"description": "The CNN host looks at the impact of racism on his life and prescribes ways to address systemic flaws in America.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316257572.jpg",
+			"name": "THIS IS THE FIRE",
+			"publisher": "Little, Brown",
+			"rank": 13
+		},
+		{
+			"author": "by Glennon Doyle",
+			"description": "The activist and public speaker describes her journey of listening to her inner voice.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984801258.jpg",
+			"name": "UNTAMED",
+			"publisher": "Dial",
+			"rank": 14
+		},
+		{
+			"author": "by Blake Bailey",
+			"description": "A look at the life and work of the renowned novelist and short-story writer, based on his archive and interviews with his colleagues.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780393240726.jpg",
+			"name": "PHILIP ROTH",
+			"publisher": "Norton",
+			"rank": 15
+		}
+	]
+}

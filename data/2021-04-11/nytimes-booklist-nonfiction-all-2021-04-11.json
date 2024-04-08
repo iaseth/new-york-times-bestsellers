@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Walter Isaacson",
+			"description": "How the Nobel Prize winner Jennifer Doudna and her colleagues invented CRISPR, a tool that can edit DNA.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982115852.jpg",
+			"name": "THE CODE BREAKER",
+			"publisher": "Simon & Schuster",
+			"rank": 1
+		},
+		{
+			"author": "by Matthew McConaughey",
+			"description": "The Academy Award-winning actor shares snippets from the diaries he kept over the last 35 years.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593139134.jpg",
+			"name": "GREENLIGHTS",
+			"publisher": "Crown",
+			"rank": 2
+		},
+		{
+			"author": "by Bessel van der Kolk",
+			"description": "How trauma affects the body and mind, and innovative treatments for recovery.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780670785933.jpg",
+			"name": "THE BODY KEEPS THE SCORE",
+			"publisher": "Penguin",
+			"rank": 3
+		},
+		{
+			"author": "by Isabel Wilkerson",
+			"description": "The Pulitzer Prize-winning journalist examines aspects of caste systems across civilizations and reveals a rigid hierarchy in America today.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593230251.jpg",
+			"name": "CASTE",
+			"publisher": "Random House",
+			"rank": 4
+		},
+		{
+			"author": "by Michelle Obama",
+			"description": "The former first lady describes her journey from the South Side of Chicago to the White House, and how she balanced work, family and her husband\u2019s political ascent.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524763138.jpg",
+			"name": "BECOMING",
+			"publisher": "Crown",
+			"rank": 5
+		},
+		{
+			"author": "by Glennon Doyle",
+			"description": "The activist and public speaker describes her journey of listening to her inner voice.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984801258.jpg",
+			"name": "UNTAMED",
+			"publisher": "Dial",
+			"rank": 6
+		},
+		{
+			"author": "by Adam Grant",
+			"description": "An examination of the cognitive skills of rethinking and unlearning that could be used to adapt to a rapidly changing world.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984878106.jpg",
+			"name": "THINK AGAIN",
+			"publisher": "Viking",
+			"rank": 7
+		},
+		{
+			"author": "by Barack Obama",
+			"description": "In the first volume of his presidential memoirs, Barack Obama offers personal reflections on his formative years and pivotal moments through his first term.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524763169.jpg",
+			"name": "A PROMISED LAND",
+			"publisher": "Crown",
+			"rank": 8
+		},
+		{
+			"author": "by Bill Gates",
+			"description": "A prescription for what business, governments and individuals can do to work toward zero emissions.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385546133.jpg",
+			"name": "HOW TO AVOID A CLIMATE DISASTER",
+			"publisher": "Knopf",
+			"rank": 9
+		},
+		{
+			"author": "by Cicely Tyson with Michelle Burford",
+			"description": "The late iconic actress describes how she worked to change perceptions of Black women through her career choices.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062931061.jpg",
+			"name": "JUST AS I AM",
+			"publisher": "HarperCollins",
+			"rank": 10
+		},
+		{
+			"author": "by Heather McGhee",
+			"description": "The chair of the board of the racial justice organization Color of Change analyzes the impact of racism on the economy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525509561.jpg",
+			"name": "THE SUM OF US",
+			"publisher": "One World",
+			"rank": 11
+		},
+		{
+			"author": "by Lisa Genova",
+			"description": "The neuroscientist and novelist explores the strengths and weaknesses of memory.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593137956.jpg",
+			"name": "REMEMBER",
+			"publisher": "Harmony",
+			"rank": 12
+		},
+		{
+			"author": "by Don Lemon",
+			"description": "The CNN host looks at the impact of racism on his life and prescribes ways to address systemic flaws in America.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316257572.jpg",
+			"name": "THIS IS THE FIRE",
+			"publisher": "Little, Brown",
+			"rank": 13
+		},
+		{
+			"author": "by Robin Wall Kimmerer",
+			"description": "A botanist and member of the Citizen Potawatomi Nation espouses having an understanding and appreciation of plants and animals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781571313560.jpg",
+			"name": "BRAIDING SWEETGRASS",
+			"publisher": "Milkweed Editions",
+			"rank": 14
+		},
+		{
+			"author": "by Jessica Bruder",
+			"description": "A look at an expanding low-cost labor pool, which largely consists of transient older adults, and what this might portend.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780393356311.jpg",
+			"name": "NOMADLAND",
+			"publisher": "Norton",
+			"rank": 15
+		}
+	]
+}

@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Michelle Obama",
+			"description": "The former first lady describes her journey from the South Side of Chicago to the White House, and how she balanced work, family and her husband\u2019s political ascent.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524763138.jpg",
+			"name": "BECOMING",
+			"publisher": "Crown",
+			"rank": 1
+		},
+		{
+			"author": "by Tara Westover",
+			"description": "The daughter of survivalists, who is kept out of school, educates herself enough to leave home for university.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399590504.jpg",
+			"name": "EDUCATED",
+			"publisher": "Random House",
+			"rank": 2
+		},
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "A look at the postwar manhunt for members of Hitler\u2019s inner circle.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250165541.jpg",
+			"name": "KILLING THE SS",
+			"publisher": "Holt",
+			"rank": 3
+		},
+		{
+			"author": "by Bob Woodward",
+			"description": "Based on hours of interviews with sources, the Pulitzer Prize-winning journalist describes debates and decision-making within the Trump White House.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501175534.jpg",
+			"name": "FEAR",
+			"publisher": "Simon & Schuster",
+			"rank": 4
+		},
+		{
+			"author": "by Tucker Carlson",
+			"description": "The Fox News anchor argues that America\u2019s ruling class is out of touch with everyday citizens.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501183669.jpg",
+			"name": "SHIP OF FOOLS",
+			"publisher": "Free Press",
+			"rank": 5
+		},
+		{
+			"author": "by Yuval Noah Harari",
+			"description": "How Homo sapiens became Earth\u2019s dominant species.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062316097.jpg",
+			"name": "SAPIENS",
+			"publisher": "Harper",
+			"rank": 6
+		},
+		{
+			"author": "by Jeff Tweedy",
+			"description": "The founding member of the rock band Wilco discusses his life and artistic process.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101985267.jpg",
+			"name": "LET'S GO (SO WE CAN GET BACK)",
+			"publisher": "Dutton",
+			"rank": 7
+		},
+		{
+			"author": "by Peggy Rowe",
+			"description": "The relationship between a mother and daughter who had separate interests.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781948677172.jpg",
+			"name": "ABOUT MY MOTHER",
+			"publisher": "Forefront",
+			"rank": 8
+		},
+		{
+			"author": "by Doris Kearns Goodwin",
+			"description": "The challenges that shaped the leadership abilities of four presidents: Abraham Lincoln, Theodore Roosevelt, Franklin D. Roosevelt and Lyndon B. Johnson.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476795928.jpg",
+			"name": "LEADERSHIP",
+			"publisher": "Simon & Schuster",
+			"rank": 9
+		},
+		{
+			"author": "by Stephen Hawking",
+			"description": "A collection of essays from the late scientist\u2019s personal archive that address 10 imponderables.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984819192.jpg",
+			"name": "BRIEF ANSWERS TO THE BIG QUESTIONS",
+			"publisher": "Bantam",
+			"rank": 10
+		},
+		{
+			"author": "by Michael Lewis",
+			"description": "The author of \"The Big Short\" examines how the Trump administration staffs its federal agencies.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781324002642.jpg",
+			"name": "THE FIFTH RISK",
+			"publisher": "Norton",
+			"rank": 11
+		},
+		{
+			"author": "by Michael Diamond and Adam Horovitz",
+			"description": "The story of the New York band who went from performing hardcore punk music to hip hop stardom.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812995541.jpg",
+			"name": "BEASTIE BOYS BOOK",
+			"publisher": "Spiegel & Grau",
+			"rank": 12
+		},
+		{
+			"author": "by Susan Orlean",
+			"description": "The story of the 1986 fire at the Los Angeles Public Library provides a backdrop to the evolution and purpose of libraries.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476740188.jpg",
+			"name": "THE LIBRARY BOOK",
+			"publisher": "Simon & Schuster",
+			"rank": 13
+		},
+		{
+			"author": "by David Sheff",
+			"description": "A father struggles with his son's meth addiction.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780618683352.jpg",
+			"name": "BEAUTIFUL BOY",
+			"publisher": "Mariner",
+			"rank": 14
+		},
+		{
+			"author": "by Seth Abramson",
+			"description": "A case for how the current president might have compromised American foreign policy in exchange for financial gain and covert election assistance.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982116101.jpg",
+			"name": "PROOF OF COLLUSION",
+			"publisher": "Simon & Schuster",
+			"rank": 15
+		}
+	]
+}

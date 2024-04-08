@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Anthony Doerr",
+			"description": "The lives of a blind French girl and a gadget-obsessed German boy before and during World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476746586.jpg",
+			"name": "ALL THE LIGHT WE CANNOT SEE",
+			"publisher": "Scribner",
+			"rank": 1
+		},
+		{
+			"author": "by Gillian Flynn",
+			"description": "A woman disappears on the day of her fifth anniversary; is her husband a killer?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307588388.jpg",
+			"name": "GONE GIRL",
+			"publisher": "Crown",
+			"rank": 2
+		},
+		{
+			"author": "by Liane Moriarty",
+			"description": "Who will end up dead, and how, when three mothers with children in the same school become friends?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698138636.jpg",
+			"name": "BIG LITTLE LIES",
+			"publisher": "Amy Einhorn/Putnam",
+			"rank": 3
+		},
+		{
+			"author": "by Tess Gerritsen",
+			"description": "The hunt for a killer takes Detective Jane Rizzoli and medical examiner Maura Isles from Boston to Botswana.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345543868.jpg",
+			"name": "DIE AGAIN",
+			"publisher": "Ballantine",
+			"rank": 4
+		},
+		{
+			"author": "by John Grisham",
+			"description": "A lawyer joins a legal clinic in a small Virginia town, and becomes involved in litigation against the coal mining industry.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385537148.jpg",
+			"name": "GRAY MOUNTAIN",
+			"publisher": "Doubleday",
+			"rank": 5
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "John Puller, a special agent with the Army, hunts for his brother, who was convicted of treason and has escaped from prison.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455521197.jpg",
+			"name": "THE ESCAPE",
+			"publisher": "Grand Central",
+			"rank": 6
+		},
+		{
+			"author": "by Michael Connelly",
+			"description": "The Los Angeles detective Harry Bosch and his new partner investigate two long-unsolved cases.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316225939.jpg",
+			"name": "THE BURNING ROOM",
+			"publisher": "Little, Brown",
+			"rank": 7
+		},
+		{
+			"author": "by James Patterson",
+			"description": "Detective Alex Cross\u2019s family is kidnapped by a madman who wants to turn Cross into a perfect killer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316210942.jpg",
+			"name": "HOPE TO DIE",
+			"publisher": "Little, Brown",
+			"rank": 8
+		},
+		{
+			"author": "by Karina Halle",
+			"description": "Years ago, Steph and Linden made a promise to each other. Now it's time to test their commitment.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781311179036.jpg",
+			"name": "THE PACT",
+			"publisher": "Metal Blonde",
+			"rank": 9
+		},
+		{
+			"author": "by Fern Michaels",
+			"description": "When a powerful family tries to reclaim twins who were legally given up at birth, their loving but poor adoptive parents turn to Myra Rutledge and her formidable Sisterhood for help.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781420135947.jpg",
+			"name": "EYES ONLY",
+			"publisher": "Zebra/Kensington",
+			"rank": 10
+		},
+		{
+			"author": "by Gillian Flynn",
+			"description": "A woman who was spared when her mother and sisters were murdered begins to reinvestigate the case against her imprisoned brother.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307341570.jpg",
+			"name": "DARK PLACES",
+			"publisher": "Broadway",
+			"rank": 11
+		},
+		{
+			"author": "by Brad Taylor",
+			"description": "Pike Logan and his partner, Jennifer Cahill, members of a secret counterterrorist unit called the Taskforce, contend with a well-coordinated hostage seizure.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698186057.jpg",
+			"name": "NO FORTUNATE SON",
+			"publisher": "Dutton",
+			"rank": 12
+		},
+		{
+			"author": "by W. E. B. Griffin and William E. Butterworth IV",
+			"description": "The second novel in a new series about the Cold War and the early C.I.A.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698164635.jpg",
+			"name": "THE ASSASSINATION OPTION",
+			"publisher": "Putnam",
+			"rank": 13
+		},
+		{
+			"author": "by Sherryl Woods",
+			"description": "When Aidan Mitchell, a former football player, takes a high school coaching job in Chesapeake Shores, he's embraced by the town \u2014 especially the O'Briens. But Aidan has a secret that could alter their lives.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781460345795.jpg",
+			"name": "DOGWOOD HILL",
+			"publisher": "Mira",
+			"rank": 14
+		},
+		{
+			"author": "by E. L. James",
+			"description": "An innocent college student falls in love with a tortured man with particular sexual tastes; the first of a trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345803481.jpg",
+			"name": "FIFTY SHADES OF GREY",
+			"publisher": "Vintage",
+			"rank": 15
+		}
+	]
+}

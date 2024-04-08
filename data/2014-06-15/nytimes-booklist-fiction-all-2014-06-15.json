@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Jim Butcher",
+			"description": "The Chicago wizard Harry Dresden is forced to help an enemy break into a high-security vault; the 15th Dresden Files novel.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780451464392.jpg",
+			"name": "SKIN GAME",
+			"publisher": "Roc",
+			"rank": 1
+		},
+		{
+			"author": "by James Patterson and Maxine Paetro",
+			"description": "With the return of a killer who was presumed dead, the San Francisco detective Lindsay Boxer and the Women\u2019s Murder Club take action.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316211291.jpg",
+			"name": "UNLUCKY 13",
+			"publisher": "Little, Brown",
+			"rank": 2
+		},
+		{
+			"author": "by Christine Feehan",
+			"description": "Kidnapped and held aboard a ship, Airiana must rely on Maxim, one of the feared Prakenskii brothers.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698136946.jpg",
+			"name": "AIR BOUND",
+			"publisher": "Jove",
+			"rank": 3
+		},
+		{
+			"author": "by Clive Cussler and Graham Brown",
+			"description": "Kurt Austin, Joe Zavala and the rest of the NUMA crew investigate a sinister organization responsible for vanishing scientists, suspicious accidents and a human trafficking ring.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399167317.jpg",
+			"name": "GHOST SHIP",
+			"publisher": "Putnam",
+			"rank": 4
+		},
+		{
+			"author": "by Donna Tartt",
+			"description": "A painting smuggled out of the Metropolitan Museum of Art after a bombing becomes a boy\u2019s prize, guilt and burden.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316248679.jpg",
+			"name": "THE GOLDFINCH",
+			"publisher": "Little, Brown",
+			"rank": 5
+		},
+		{
+			"author": "by John Sandford",
+			"description": "Lucas Davenport investigates when multiple bodies are found in the middle of the Minnesota cornfields.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101597781.jpg",
+			"name": "FIELD OF PREY",
+			"publisher": "Putnam",
+			"rank": 6
+		},
+		{
+			"author": "by Emily Giffin",
+			"description": "A woman who has grown up and made her life in a small, football-obsessed Texas town begins to expand her horizons.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345546890.jpg",
+			"name": "THE ONE AND ONLY",
+			"publisher": "Ballantine",
+			"rank": 7
+		},
+		{
+			"author": "by Susan Mallery",
+			"description": "Dellina Hopkins finds that storing gowns from a friend's bridal boutique scares off her first and only fling.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781460332955.jpg",
+			"name": "BEFORE WE KISS",
+			"publisher": "Harlequin",
+			"rank": 8
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "As the government hit man Will Robie and his partner, Jessica Reel, prepare for a mission, they face a new adversary.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455521234.jpg",
+			"name": "THE TARGET",
+			"publisher": "Grand Central",
+			"rank": 9
+		},
+		{
+			"author": "by Gillian Flynn",
+			"description": "A woman disappears on the day of her fifth anniversary; is her husband a killer?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307588388.jpg",
+			"name": "GONE GIRL",
+			"publisher": "Crown",
+			"rank": 10
+		},
+		{
+			"author": "by Anthony Doerr",
+			"description": "The lives of a blind French girl and a gadget-obsessed German boy before and during World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476746586.jpg",
+			"name": "ALL THE LIGHT WE CANNOT SEE",
+			"publisher": "Scribner",
+			"rank": 11
+		},
+		{
+			"author": "by Christina Baker Kline",
+			"description": "A historical novel about orphans swept off the streets of New York and sent to the Midwest in the 1920s.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062101204.jpg",
+			"name": "ORPHAN TRAIN",
+			"publisher": "Morrow/HarperCollins",
+			"rank": 12
+		},
+		{
+			"author": "by Dan Brown",
+			"description": "The symbologist Robert Langdon, on the run in Florence, must decipher a series of codes created by a Dante-loving scientist.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400079155.jpg",
+			"name": "INFERNO",
+			"publisher": "Anchor",
+			"rank": 13
+		},
+		{
+			"author": "by Liane Moriarty",
+			"description": "A woman\u2019s life is upended when she discovers a letter from her husband she was not meant to read until after his death.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101636237.jpg",
+			"name": "THE HUSBAND'S SECRET",
+			"publisher": "Amy Einhorn/Putnam",
+			"rank": 14
+		},
+		{
+			"author": "by Hazel Gaynor",
+			"description": "Long-held secrets revealed by a survivor of the Titanic change the life of her great-granddaughter.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062316875.jpg",
+			"name": "THE GIRL WHO CAME HOME",
+			"publisher": "Morrow/HarperCollins",
+			"rank": 15
+		}
+	]
+}

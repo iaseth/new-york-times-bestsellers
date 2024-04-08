@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Mark Owen with Kevin Maurer",
+			"description": "An account by a former member of the Navy SEALs, written pseudonymously, of the mission that killed Osama bin Laden.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101611302.jpg",
+			"name": "NO EASY DAY",
+			"publisher": "Penguin Group",
+			"rank": 1
+		},
+		{
+			"author": "by Edward Klein",
+			"description": "A journalist argues that President Obama is callow, arrogant and unable to lead.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781596983144.jpg",
+			"name": "AMATEUR",
+			"publisher": "Regnery Publishing",
+			"rank": 2
+		},
+		{
+			"author": "by Tyler Hamilton and Daniel Coyle",
+			"description": "An account of the world of professional cycling and its doping issues, focused on the Tour de France, by an Olympic gold medalist.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345530417.jpg",
+			"name": "THE SECRET RACE",
+			"publisher": "Random House Publishing",
+			"rank": 3
+		},
+		{
+			"author": "by Dinesh D'Souza",
+			"description": "An argument that President Obama is the architect of American decline.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781596983168.jpg",
+			"name": "OBAMA'S AMERICA",
+			"publisher": "Regnery Publishing",
+			"rank": 4
+		},
+		{
+			"author": "by Laura Hillenbrand",
+			"description": "An Olympic runner\u2019s story of survival as a prisoner of the Japanese in World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400064168.jpg",
+			"name": "UNBROKEN",
+			"publisher": "Random House Publishing",
+			"rank": 5
+		},
+		{
+			"author": "by Cheryl Strayed",
+			"description": "A woman\u2019s account of a life-changing 1,100-mile hike along the Pacific Crest Trail.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307476074.jpg",
+			"name": "WILD",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 6
+		},
+		{
+			"author": "by Christopher Hitchens",
+			"description": "Reports and reflections on his illness and impending death by the writer, who died in December 2011.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455502752.jpg",
+			"name": "MORTALITY",
+			"publisher": "Grand Central Publishing",
+			"rank": 7
+		},
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "The anchor of \u201cThe O\u2019Reilly Factor\u201d recounts the assassination of Abraham Lincoln.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780805093070.jpg",
+			"name": "KILLING LINCOLN",
+			"publisher": "Henry Holt & Company",
+			"rank": 8
+		},
+		{
+			"author": "by Rebecca Skloot",
+			"description": "The story of a woman whose cancer cells were cultured without her permission in 1951.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400052189.jpg",
+			"name": "THE IMMORTAL LIFE OF HENRIETTA LACKS",
+			"publisher": "Crown Publishing",
+			"rank": 9
+		},
+		{
+			"author": "by Mike Lofgren",
+			"description": "A Republican who spent 28 years working as a Congressional staffer believes that his party\u2019s fiscal policies and political strategies are dangerous.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101601235.jpg",
+			"name": "PARTY IS OVER",
+			"publisher": "Penguin Group",
+			"rank": 10
+		},
+		{
+			"author": "by Ben Macintyre",
+			"description": "How the Allies tricked the Nazis into believing that on D-Day they would attack somewhere other than Normandy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307888761.jpg",
+			"name": "DOUBLE CROSS",
+			"publisher": "Crown Publishing",
+			"rank": 11
+		},
+		{
+			"author": "by Paul Tough",
+			"description": "An argument that the qualities that matter most have to do with character, not intelligence.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780544104402.jpg",
+			"name": "HOW CHILDREN SUCCEED",
+			"publisher": "Houghton Mifflin Harcourt Publishing",
+			"rank": 12
+		},
+		{
+			"author": "by Dwyane Wade with Mim Eichler Rivas",
+			"description": "The all-star guard for the Miami Heat describes his life as a single father.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062136152.jpg",
+			"name": "A FATHER FIRST",
+			"publisher": "HarperCollins Publishers",
+			"rank": 13
+		},
+		{
+			"author": "by Chris Kyle with Scott McEwen and Jim DeFelice",
+			"description": "A member of the Navy SEALs discusses his battlefield experiences.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062082374.jpg",
+			"name": "AMERICAN SNIPER",
+			"publisher": "HarperCollins Publishers",
+			"rank": 14
+		},
+		{
+			"author": "by Todd Burpo with Lynn Vincent",
+			"description": "A father recounts his 3-year-old son\u2019s encounter with Jesus and the angels during an emergency appendectomy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780849949203.jpg",
+			"name": "HEAVEN IS FOR REAL",
+			"publisher": "Thomas Nelson",
+			"rank": 15
+		}
+	]
+}

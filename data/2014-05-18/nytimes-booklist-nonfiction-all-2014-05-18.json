@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Todd Burpo with Lynn Vincent",
+			"description": "A 3-year-old\u2019s encounter with Jesus during an appendectomy; the basis of the movie.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780849949203.jpg",
+			"name": "HEAVEN IS FOR REAL",
+			"publisher": "Thomas Nelson",
+			"rank": 1
+		},
+		{
+			"author": "by Thomas Piketty",
+			"description": "An analysis of centuries of economic history predicts worsening inequality.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780674430006.jpg",
+			"name": "CAPITAL IN THE TWENTY-FIRST CENTURY",
+			"publisher": "Belknap/Harvard University",
+			"rank": 2
+		},
+		{
+			"author": "by Michael Lewis",
+			"description": "The world of high-frequency computer-driven trading, from the author of \u201cLiar\u2019s Poker.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780393244670.jpg",
+			"name": "FLASH BOYS",
+			"publisher": "Norton",
+			"rank": 3
+		},
+		{
+			"author": "by Elizabeth Warren",
+			"description": "The Massachusetts senator describes her life, her academic work and her battle for a consumer protection agency.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781627790529.jpg",
+			"name": "A FIGHTING CHANCE",
+			"publisher": "Metropolitan/Holt",
+			"rank": 4
+		},
+		{
+			"author": "by Robin Roberts with Veronica Chambers",
+			"description": "A memoir by the \u201cGood Morning America\u201d anchor discusses her struggle with breast cancer and a rare blood disorder.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455578450.jpg",
+			"name": "EVERYBODY'S GOT SOMETHING",
+			"publisher": "Grand Central",
+			"rank": 5
+		},
+		{
+			"author": "by John Elder Robison",
+			"description": "A life with Asperger\u2019s syndrome; first published in 2007.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307396181.jpg",
+			"name": "LOOK ME IN THE EYE",
+			"publisher": "Three Rivers",
+			"rank": 6
+		},
+		{
+			"author": "by Diane Keaton",
+			"description": "The actor discusses aging, beauty and her personal style.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812994278.jpg",
+			"name": "LET'S JUST SAY IT WASN'T PRETTY",
+			"publisher": "Random House",
+			"rank": 7
+		},
+		{
+			"author": "by J. B. West with Mary Lynn Kotz",
+			"description": "Reminiscences by a former White House major-domo. First published in 1974.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781480449794.jpg",
+			"name": "UPSTAIRS AT THE WHITE HOUSE",
+			"publisher": "Open Road",
+			"rank": 8
+		},
+		{
+			"author": "by Laura Hillenbrand",
+			"description": "An Olympic runner\u2019s story of survival as a prisoner of the Japanese in World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400064168.jpg",
+			"name": "UNBROKEN",
+			"publisher": "Random House",
+			"rank": 9
+		},
+		{
+			"author": "by Edith H. Beer with Susan Dworkin",
+			"description": "The story of a Jewish woman in 1930s Vienna who, with the help of friends, moved to Munich, hid her identity and married a Nazi Party member, thus saving her life.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062190048.jpg",
+			"name": "THE NAZI OFFICER'S WIFE",
+			"publisher": "HarperCollins",
+			"rank": 10
+		},
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "The host of \"The O'Reilly Factor\" recounts the events leading up to Jesus' execution.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780805098549.jpg",
+			"name": "KILLING JESUS",
+			"publisher": "Holt",
+			"rank": 11
+		},
+		{
+			"author": "by Sheryl Sandberg with Nell Scovell",
+			"description": "The chief operating officer of Facebook urges women to pursue their careers without ambivalence.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385349956.jpg",
+			"name": "LEAN IN",
+			"publisher": "Knopf",
+			"rank": 12
+		},
+		{
+			"author": "by Dan Harris",
+			"description": "A co-anchor of \"Nightline\" reports on the science and spiritual dimensions of meditation and how it has improved his life.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062265425.jpg",
+			"name": "10% HAPPIER",
+			"publisher": "It Books",
+			"rank": 13
+		},
+		{
+			"author": "by Arianna Huffington",
+			"description": "Personal well-being as the indispensable third measure \u2014 with money and power \u2014 of success.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780804140843.jpg",
+			"name": "THRIVE",
+			"publisher": "Harmony",
+			"rank": 14
+		},
+		{
+			"author": "by Katherine Boo",
+			"description": "A journalist's National Book Award-winning report on families striving for better lives in a Mumbai slum.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812979329.jpg",
+			"name": "BEHIND THE BEAUTIFUL FOREVERS",
+			"publisher": "Random House",
+			"rank": 15
+		}
+	]
+}

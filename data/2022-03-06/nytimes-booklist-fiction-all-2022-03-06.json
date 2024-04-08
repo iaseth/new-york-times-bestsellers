@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Sarah J. Maas",
+			"description": "The second book in the Crescent City series. Bryce Quinlan and Hunt Athalar must choose to fight or stay silent.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781635574074.jpg",
+			"name": "HOUSE OF SKY AND BREATH",
+			"publisher": "Bloomsbury",
+			"rank": 1
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "A battered wife raised in a violent home attempts to halt the cycle of abuse.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501110375.jpg",
+			"name": "IT ENDS WITH US",
+			"publisher": "Atria",
+			"rank": 2
+		},
+		{
+			"author": "by Douglas Preston and Lincoln Child",
+			"description": "When two murder victims are found in Roswell, the archaeologist Nora Kelly and F.B.I. agent Corrie Swanson go back into action.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538736753.jpg",
+			"name": "DIABLO MESA",
+			"publisher": "Grand Central",
+			"rank": 3
+		},
+		{
+			"author": "by Mark Greaney",
+			"description": "The 11th book in the Gray Man series. Court Gentry\u2019s work on a C.I.A. action team comes back to life.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593098998.jpg",
+			"name": "SIERRA SIX",
+			"publisher": "Berkley",
+			"rank": 4
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "Lowen Ashleigh is hired by the husband of an injured writer to complete her popular series and uncovers a horrifying truth.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781791392796.jpg",
+			"name": "VERITY",
+			"publisher": "Grand Central",
+			"rank": 5
+		},
+		{
+			"author": "by Taylor Jenkins Reid",
+			"description": "A movie icon recounts stories of her loves and career to a struggling magazine writer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501161933.jpg",
+			"name": "THE SEVEN HUSBANDS OF EVELYN HUGO",
+			"publisher": "Washington Square/Atria",
+			"rank": 6
+		},
+		{
+			"author": "by J.D. Robb",
+			"description": "The 54th book of the In Death series. Eve Dallas investigates a homicide and the disappearance of other women who resemble that victim.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250278210.jpg",
+			"name": "ABANDONED IN DEATH",
+			"publisher": "St. Martin's",
+			"rank": 7
+		},
+		{
+			"author": "by Sarah J. Maas",
+			"description": "Passion arises between Bryce Quinlan and Hunt Athalar as they seek to avenge the deaths of Bryce\u2019s friends.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781635574043.jpg",
+			"name": "HOUSE OF EARTH AND BLOOD",
+			"publisher": "Bloomsbury",
+			"rank": 8
+		},
+		{
+			"author": "by Amor Towles",
+			"description": "Two friends who escaped from a juvenile work farm take Emmett Watson on an unexpected journey to New York City in 1954.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735222359.jpg",
+			"name": "THE LINCOLN HIGHWAY",
+			"publisher": "Viking",
+			"rank": 9
+		},
+		{
+			"author": "by Nita Prose",
+			"description": "When a wealthy man is found dead in his room, a maid at the Regency Grand Hotel becomes a lead suspect.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593356159.jpg",
+			"name": "THE MAID",
+			"publisher": "Ballantine",
+			"rank": 10
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "Tate Collins and Miles Archer,\u00a0an airline pilot, think they can handle a no strings attached arrangement. But they can't.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476753195.jpg",
+			"name": "UGLY LOVE",
+			"publisher": "Atria",
+			"rank": 11
+		},
+		{
+			"author": "by Ali Hazelwood",
+			"description": "A young professor agrees to pretend to be a third-year Ph.D. candidate\u2019s boyfriend.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593336823.jpg",
+			"name": "THE LOVE HYPOTHESIS",
+			"publisher": "Berkley",
+			"rank": 12
+		},
+		{
+			"author": "by Matt Haig",
+			"description": "Nora Seed finds a library beyond the edge of the universe that contains books with multiple possibilities of the lives one could have lived.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525559474.jpg",
+			"name": "THE MIDNIGHT LIBRARY",
+			"publisher": "Viking",
+			"rank": 13
+		},
+		{
+			"author": "by Nina de Gramont",
+			"description": "Miss Nan O\u2019Dea becomes the mistress of Agatha Christie\u2019s husband.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250274618.jpg",
+			"name": "THE CHRISTIE AFFAIR",
+			"publisher": "St. Martin's",
+			"rank": 14
+		},
+		{
+			"author": "by Laura Dave",
+			"description": "Hannah Hall discovers truths about her missing husband and bonds with his daughter from a previous relationship.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501171345.jpg",
+			"name": "THE LAST THING HE TOLD ME",
+			"publisher": "Simon & Schuster",
+			"rank": 15
+		}
+	]
+}

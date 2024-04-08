@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Solomon Northup",
+			"description": "The narrative, first published in 1853, of a freeman who was kidnapped and sold into slavery, and spent 12 years in bondage before escaping; the basis of the recently released movie.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781443433099.jpg",
+			"name": "TWELVE YEARS A SLAVE",
+			"publisher": "Various publishers",
+			"rank": 1
+		},
+		{
+			"author": "by Chelsea Handler",
+			"description": "Humorous travel stories.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455599721.jpg",
+			"name": "UGANDA BE KIDDING ME",
+			"publisher": "Grand Central",
+			"rank": 2
+		},
+		{
+			"author": "by Marcus Luttrell with Patrick Robinson",
+			"description": "The only survivor of a Navy SEALs operation in northern Afghanistan describes the battle and his escape. First published in 2007; the basis for the movie.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316067607.jpg",
+			"name": "LONE SURVIVOR",
+			"publisher": "Little, Brown",
+			"rank": 3
+		},
+		{
+			"author": "by Robert M. Edsel with Bret Witter",
+			"description": "The fight to preserve art works stolen by the Nazis during World War II. The basis for the movie.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316240055.jpg",
+			"name": "THE MONUMENTS MEN",
+			"publisher": "Center Street",
+			"rank": 4
+		},
+		{
+			"author": "by Laura Hillenbrand",
+			"description": "An Olympic runner\u2019s story of survival as a prisoner of the Japanese in World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400064168.jpg",
+			"name": "UNBROKEN",
+			"publisher": "Random House",
+			"rank": 5
+		},
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "The host of \"The O'Reilly Factor\" recounts the events leading up to Jesus' execution.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780805098549.jpg",
+			"name": "KILLING JESUS",
+			"publisher": "Holt",
+			"rank": 6
+		},
+		{
+			"author": "by Todd Burpo with Lynn Vincent",
+			"description": "A father recounts his 3-year-old son\u2019s encounter with Jesus during an appendectomy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780849949203.jpg",
+			"name": "HEAVEN IS FOR REAL",
+			"publisher": "Thomas Nelson",
+			"rank": 7
+		},
+		{
+			"author": "by Michio Kaku",
+			"description": "A theoretical physicist looks to a possible future of telepathy, mind-controlled robots and the uploading of memories.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385530835.jpg",
+			"name": "THE FUTURE OF THE MIND",
+			"publisher": "Doubleday",
+			"rank": 8
+		},
+		{
+			"author": "by Malcolm Gladwell",
+			"description": "How disadvantages can work in our favor; from the author of \"The Tipping Point\" and \"Outliers.\"",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316204361.jpg",
+			"name": "DAVID AND GOLIATH",
+			"publisher": "Little, Brown",
+			"rank": 9
+		},
+		{
+			"author": "by George Takei",
+			"description": "How a 75-year-old actor, \u201cStar Trek\u2019s\u201d Mr. Sulu, became a star on Twitter, YouTube and Facebook.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/A00B00AHP5NY6.jpg",
+			"name": "OH MYYY! (THERE GOES THE INTERNET)",
+			"publisher": "George Takei",
+			"rank": 10
+		},
+		{
+			"author": "by Eben Alexander",
+			"description": "A neurosurgeon recounts his near death experience during a coma from bacterial meningitis.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451695199.jpg",
+			"name": "PROOF OF HEAVEN",
+			"publisher": "Simon & Schuster",
+			"rank": 11
+		},
+		{
+			"author": "by Martin Sixsmith",
+			"description": "Fifty years after nuns sent her baby to America to be adopted, an Irish woman attempts to track him down with a journalist\u2019s help. The basis of the movie.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780143124726.jpg",
+			"name": "PHILOMENA",
+			"publisher": "Penguin",
+			"rank": 12
+		},
+		{
+			"author": "by Sheryl Sandberg with Nell Scovell",
+			"description": "The chief operating officer of Facebook urges women to pursue their careers without ambivalence.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385349956.jpg",
+			"name": "LEAN IN",
+			"publisher": "Knopf",
+			"rank": 13
+		},
+		{
+			"author": "by Cheryl Strayed",
+			"description": "A woman\u2019s account of a life-changing 1,100-mile hike along the Pacific Crest Trail during the summer of 1995.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307476074.jpg",
+			"name": "WILD",
+			"publisher": "Knopf",
+			"rank": 14
+		},
+		{
+			"author": "by Jordan Belfort",
+			"description": "The rise and ugly fall of a high-living investment-firm founder. First published in 2007; the basis for the movie.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780553904246.jpg",
+			"name": "THE WOLF OF WALL STREET",
+			"publisher": "Bantam",
+			"rank": 15
+		}
+	]
+}

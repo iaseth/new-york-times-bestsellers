@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Pete Souza",
+			"description": "More than 300 pictures of the former president by his White House photographer, with behind-the-scenes stories.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316512589.jpg",
+			"name": "OBAMA",
+			"publisher": "Little, Brown",
+			"rank": 1
+		},
+		{
+			"author": "by Walter Isaacson",
+			"description": "A biography of the Italian Renaissance polymath which connects his work in various disciplines.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501139154.jpg",
+			"name": "LEONARDO DA VINCI",
+			"publisher": "Simon & Schuster",
+			"rank": 2
+		},
+		{
+			"author": "by Donna Brazile",
+			"description": "An account of the Russian hacking of the Democratic National Committee and the fights within the party during the 2016 campaign.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316478519.jpg",
+			"name": "HACKS",
+			"publisher": "Hachette",
+			"rank": 3
+		},
+		{
+			"author": "by Chris Matthews",
+			"description": "The New York senator's journey from his formative years to his tragic run for president.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501111860.jpg",
+			"name": "BOBBY KENNEDY",
+			"publisher": "Simon & Schuster",
+			"rank": 4
+		},
+		{
+			"author": "by Ron Chernow",
+			"description": "A biography of the Union general of the Civil War and two-term president of the United States.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594204876.jpg",
+			"name": "GRANT",
+			"publisher": "Penguin Press",
+			"rank": 5
+		},
+		{
+			"author": "by Jenna Bush Hager and Barbara Pierce Bush. Illustrated by Ramona Kaulitzki",
+			"description": "How the twin daughters of former president George W. Bush grew up in the public eye.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538711415.jpg",
+			"name": "SISTERS FIRST",
+			"publisher": "Grand Central",
+			"rank": 6
+		},
+		{
+			"author": "by Brian Kilmeade and Don Yaeger",
+			"description": "Major General Jackson takes on the British in Louisiana.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735213234.jpg",
+			"name": "ANDREW JACKSON AND THE MIRACLE OF NEW ORLEANS",
+			"publisher": "Sentinel",
+			"rank": 7
+		},
+		{
+			"author": "by Dan Rather and Elliot Kirschner",
+			"description": "A collection of essays that define the historical changes and essential institutions of America to suggest ways to overcome divisions within the country.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781616207823.jpg",
+			"name": "WHAT UNITES US",
+			"publisher": "Algonquin",
+			"rank": 8
+		},
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "Major events and battles during the Revolutionary War are told from several perspectives.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781627790642.jpg",
+			"name": "KILLING ENGLAND",
+			"publisher": "Holt",
+			"rank": 9
+		},
+		{
+			"author": "by Lawrence O'Donnell",
+			"description": "A recounting of the unexpected events of the 1968 presidential election.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399563140.jpg",
+			"name": "PLAYING WITH FIRE",
+			"publisher": "Penguin Press",
+			"rank": 10
+		},
+		{
+			"author": "by Ta-Nehisi Coates",
+			"description": "A series of essays that cover each year of the Obama administration, the writer's own journey and the echoes of American history in modern times.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399590566.jpg",
+			"name": "WE WERE EIGHT YEARS IN POWER",
+			"publisher": "One World",
+			"rank": 11
+		},
+		{
+			"author": "by Hillary Clinton",
+			"description": "An inside look at her campaign and how she recovered in its aftermath.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501175565.jpg",
+			"name": "WHAT HAPPENED",
+			"publisher": "Simon & Schuster",
+			"rank": 12
+		},
+		{
+			"author": "by Scott Kelly",
+			"description": "A memoir by the retired astronaut and former commander of the International Space Station.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524731595.jpg",
+			"name": "ENDURANCE",
+			"publisher": "Knopf",
+			"rank": 13
+		},
+		{
+			"author": "by Alec Baldwin and Kurt Andersen",
+			"description": "A satirical memoir of the 45th president's first year in office.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525521990.jpg",
+			"name": "YOU CAN'T SPELL AMERICA WITHOUT ME",
+			"publisher": "Penguin Press",
+			"rank": 14
+		},
+		{
+			"author": "by Reza Aslan",
+			"description": "A history of religion and an examination of the impulse to humanize the divine.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780553394726.jpg",
+			"name": "GOD",
+			"publisher": "Random House",
+			"rank": 15
+		}
+	]
+}

@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Dan Brown",
+			"description": "A symbology professor goes on a perilous quest with a beautiful museum director.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385542692.jpg",
+			"name": "ORIGIN",
+			"publisher": "Doubleday",
+			"rank": 1
+		},
+		{
+			"author": "by John Sandford",
+			"description": "Virgil Flowers is called to investigate in Trippton, Minn., when a local bank's president is found dead in a nearly frozen river.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698407114.jpg",
+			"name": "DEEP FREEZE",
+			"publisher": "Putnam",
+			"rank": 2
+		},
+		{
+			"author": "by Rupi Kaur",
+			"description": "A new collection of poetry from the author of \"Milk and Honey.\"",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781449486792.jpg",
+			"name": "THE SUN AND HER FLOWERS",
+			"publisher": "Andrews McMeel",
+			"rank": 3
+		},
+		{
+			"author": "by Stephen King",
+			"description": "The fears of seven teenagers are rekindled in their adult lives by the terrifying title character. Originally published in 1986.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501141232.jpg",
+			"name": "IT",
+			"publisher": "Scribner",
+			"rank": 4
+		},
+		{
+			"author": "by Jo Nesbo",
+			"description": "The Oslo detective Harry Hole searches for a serial killer who builds snowmen outside the homes of his victims.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307599575.jpg",
+			"name": "THE SNOWMAN",
+			"publisher": "Vintage",
+			"rank": 5
+		},
+		{
+			"author": "by Danielle Steel",
+			"description": "Tragedy and unexpected dangers come to life at a Napa Valley winery.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101884065.jpg",
+			"name": "FAIRYTALE",
+			"publisher": "Delacorte",
+			"rank": 6
+		},
+		{
+			"author": "by Nelson DeMille",
+			"description": "A Miami lawyer solicits an Army veteran to go on a secret mission to recover $60 million stashed away in Cuba.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501101748.jpg",
+			"name": "THE CUBAN AFFAIR",
+			"publisher": "Simon & Schuster",
+			"rank": 7
+		},
+		{
+			"author": "by Harlan Coben",
+			"description": "Det. Napoleon Dumas investigates a murder and uncovers clues about personal events that happened 15 years ago.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698411661.jpg",
+			"name": "DON'T LET GO",
+			"publisher": "Dutton",
+			"rank": 8
+		},
+		{
+			"author": "by Tom Hanks",
+			"description": "Seventeen short stories, each incorporating a typewriter, by the Academy Award-winning actor.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101946152.jpg",
+			"name": "UNCOMMON TYPE",
+			"publisher": "Knopf",
+			"rank": 9
+		},
+		{
+			"author": "by Ken Follett",
+			"description": "A pair of lovers find themselves on opposite sides of a conflict while Queen Elizabeth fights to maintain her throne.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735224476.jpg",
+			"name": "A COLUMN OF FIRE",
+			"publisher": "Viking",
+			"rank": 10
+		},
+		{
+			"author": "by Stephen King and Owen King",
+			"description": "Women who fall asleep become shrouded in mysterious cocoons while the men battle one another.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501163401.jpg",
+			"name": "SLEEPING BEAUTIES",
+			"publisher": "Scribner",
+			"rank": 11
+		},
+		{
+			"author": "by Lisa Wingate",
+			"description": "A South Carolina lawyer learns about the questionable practices of a Tennessee orphanage.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780425284681.jpg",
+			"name": "BEFORE WE WERE YOURS",
+			"publisher": "Ballantine",
+			"rank": 12
+		},
+		{
+			"author": "by Rupi Kaur",
+			"description": "Poetic approaches to surviving adversity and loss.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781449474256.jpg",
+			"name": "MILK AND HONEY",
+			"publisher": "Andrews McMeel",
+			"rank": 13
+		},
+		{
+			"author": "by Jennifer Egan",
+			"description": "The first female diver at the Brooklyn Naval Yard during World War II tries to understand why her father disappeared.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476716732.jpg",
+			"name": "MANHATTAN BEACH",
+			"publisher": "Scribner",
+			"rank": 14
+		},
+		{
+			"author": "by David Lagercrantz",
+			"description": "Stieg Larsson's character Lisbeth Salander seeks to uncover the secrets of her childhood.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780451494337.jpg",
+			"name": "THE GIRL WHO TAKES AN EYE FOR AN EYE",
+			"publisher": "Knopf",
+			"rank": 15
+		}
+	]
+}

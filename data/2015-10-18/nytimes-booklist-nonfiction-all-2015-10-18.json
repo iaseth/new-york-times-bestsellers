@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "The host of \u201cThe O\u2019Reilly Factor\u201d recounts the events surrounding the attempted assassination of President Reagan in 1981.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781627792424.jpg",
+			"name": "KILLING REAGAN",
+			"publisher": "Holt",
+			"rank": 1
+		},
+		{
+			"author": "by Mindy Kaling",
+			"description": "More personal essays from the comedian and actress.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780804138154.jpg",
+			"name": "WHY NOT ME?",
+			"publisher": "Crown Archetype",
+			"rank": 2
+		},
+		{
+			"author": "by Jenny Lawson",
+			"description": "A humorous treatment of the author\u2019s experience of depression and anxiety disorder.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250077004.jpg",
+			"name": "FURIOUSLY HAPPY",
+			"publisher": "Flatiron",
+			"rank": 3
+		},
+		{
+			"author": "by Daniel James Brown",
+			"description": "The University of Washington\u2019s eight-oar crew and their quest for gold at the 1936 Berlin Olympics.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101622742.jpg",
+			"name": "THE BOYS IN THE BOAT",
+			"publisher": "Penguin",
+			"rank": 4
+		},
+		{
+			"author": "by Ta-Nehisi Coates",
+			"description": "A meditation on race in America as well as a personal story by the national correspondent of The Atlantic, framed as a letter to his teenage son.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780679645986.jpg",
+			"name": "BETWEEN THE WORLD AND ME",
+			"publisher": "Spiegel & Grau",
+			"rank": 5
+		},
+		{
+			"author": "by G. J. Meyer",
+			"description": "The story of England\u2019s most notorious dynasty. Originally published in 2010.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780440339144.jpg",
+			"name": "THE TUDORS",
+			"publisher": "Delacorte",
+			"rank": 6
+		},
+		{
+			"author": "by David McCullough",
+			"description": "The story of the bicycle mechanics from Ohio who ushered in the age of flight.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476728742.jpg",
+			"name": "THE WRIGHT BROTHERS",
+			"publisher": "Simon & Schuster",
+			"rank": 7
+		},
+		{
+			"author": "by Atul Gawande",
+			"description": "The surgeon and New Yorker writer considers how doctors fail patients at the end of life, and how they can do better.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780805095159.jpg",
+			"name": "BEING MORTAL",
+			"publisher": "Metropolitan/Holt",
+			"rank": 8
+		},
+		{
+			"author": "by Malala Yousafzai with Christina Lamb",
+			"description": "The experience of the Pakistani girl who advocated for women\u2019s education and was shot by the Taliban.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316322409.jpg",
+			"name": "I AM MALALA",
+			"publisher": "Little, Brown",
+			"rank": 9
+		},
+		{
+			"author": "by Edward Klein",
+			"description": "A unflattering portrait of Hillary Clinton.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781621573784.jpg",
+			"name": "UNLIKEABLE",
+			"publisher": "Regnery",
+			"rank": 10
+		},
+		{
+			"author": "by Robert B. Reich",
+			"description": "The former secretary of labor in the Clinton administration, now a professor of public policy, considers how to reverse income inequality.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385350570.jpg",
+			"name": "SAVING CAPITALISM",
+			"publisher": "Knopf",
+			"rank": 11
+		},
+		{
+			"author": "by Bill Bryson",
+			"description": "A journey to rediscover America by trekking the 2,100 miles of the Appalachian Trail. First published in 1998; now a movie.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307717832.jpg",
+			"name": "A WALK IN THE WOODS",
+			"publisher": "Broadway",
+			"rank": 12
+		},
+		{
+			"author": "by David Lebovitz",
+			"description": "A cook moves to Paris: adventures and recipes. Originally published in 2009.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780767928892.jpg",
+			"name": "THE SWEET LIFE IN PARIS",
+			"publisher": "Broadway",
+			"rank": 13
+		},
+		{
+			"author": "by Amy Robach",
+			"description": "The experience of a \"Good Morning America\" anchor who received a diagnosis of breast cancer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780553392999.jpg",
+			"name": "BETTER",
+			"publisher": "Ballantine",
+			"rank": 14
+		},
+		{
+			"author": "by Aziz Ansari with Eric Klinenberg",
+			"description": "The comedian enlists a sociologist to help him understand today\u2019s dating scene.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698179967.jpg",
+			"name": "MODERN ROMANCE",
+			"publisher": "Penguin Press",
+			"rank": 15
+		}
+	]
+}

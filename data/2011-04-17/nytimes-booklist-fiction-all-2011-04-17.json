@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Jean M. Auel",
+			"description": "The latest volume in a series that began with \u201cThe Clan of the Cave Bear,\u201d set during the ice age.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780517580516.jpg",
+			"name": "THE LAND OF PAINTED CAVES",
+			"publisher": "Crown",
+			"rank": 1
+		},
+		{
+			"author": "by J. R. Ward",
+			"description": "Book 9 of the Black Dagger Brotherhood series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780451235114.jpg",
+			"name": "LOVER UNLEASHED",
+			"publisher": "Penguin Group",
+			"rank": 2
+		},
+		{
+			"author": "by Sara Gruen",
+			"description": "After his parents die in a car accident, a young veterinary student \u2014 and an elephant \u2014 save a Depression-era circus.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781616200718.jpg",
+			"name": "WATER FOR ELEPHANTS",
+			"publisher": "Algonquin",
+			"rank": 3
+		},
+		{
+			"author": "by Michael Connelly",
+			"description": "Routinely doing business from his Lincoln Town Cars, the bottom-feeding attorney Mickey Haller is asked to defend the scion of a wealthy family who might not be guilty of a murderous crime.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455500239.jpg",
+			"name": "THE LINCOLN LAWYER",
+			"publisher": "Little, Brown",
+			"rank": 4
+		},
+		{
+			"author": "by Jonathan Kellerman",
+			"description": "The Los Angeles psychologist-detective Alex Delaware and the detective Milo Sturgis work on a grisly homicide case.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345505699.jpg",
+			"name": "MYSTERY",
+			"publisher": "Random House",
+			"rank": 5
+		},
+		{
+			"author": "by Harlan Coben",
+			"description": "Myron Bolitar\u2019s search for a missing rock star leads to questions about his own missing brother.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780451233936.jpg",
+			"name": "LIVE WIRE",
+			"publisher": "Penguin Group",
+			"rank": 6
+		},
+		{
+			"author": "by James Patterson and Neil McMahon",
+			"description": "Hays Baker, a top operative for the Agency of Change and a national hero, suddenly finds himself a hunted fugitive who must fight to save humans from extinction.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780446571746.jpg",
+			"name": "TOYS",
+			"publisher": "Little, Brown",
+			"rank": 7
+		},
+		{
+			"author": "by Jodi Picoult",
+			"description": "Picoult takes on the issue of gay rights in this novel about a music therapist who desperately wants a child.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781439102732.jpg",
+			"name": "SING YOU HOME",
+			"publisher": "Simon & Schuster",
+			"rank": 8
+		},
+		{
+			"author": "by Stieg Larsson",
+			"description": "The third volume of the Millennium trilogy, about a Swedish hacker and a journalist.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307593672.jpg",
+			"name": "THE GIRL WHO KICKED THE HORNET\u2019S NEST",
+			"publisher": "Knopf Doubleday",
+			"rank": 9
+		},
+		{
+			"author": "by Lisa Gardner",
+			"description": "Detective D. D. Warren must solve the case of a dead husband, a battered wife and a missing child.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780553908114.jpg",
+			"name": "LOVE YOU MORE",
+			"publisher": "Random House",
+			"rank": 10
+		},
+		{
+			"author": "by Gena Showalter",
+			"description": "Amun, a tormented immortal warrior, meets a demon-assassin whose beauty draws him into a reckless test of his loyalty.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781426888878.jpg",
+			"name": "THE DARKEST SECRET",
+			"publisher": "Harlequin",
+			"rank": 11
+		},
+		{
+			"author": "by Paula McLain",
+			"description": "Ernest Hemingway\u2019s first wife, Hadley, narrates this novel set in Paris.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345521323.jpg",
+			"name": "THE PARIS WIFE",
+			"publisher": "Random House",
+			"rank": 12
+		},
+		{
+			"author": "by Fern Michaels",
+			"description": "The president\u2019s plan to form a top-secret organization means a new beginning for the crime-fighting Sisterhood.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781420111941.jpg",
+			"name": "HOME FREE",
+			"publisher": "Kensington",
+			"rank": 13
+		},
+		{
+			"author": "by Stieg Larsson",
+			"description": "A hacker and a journalist investigate the disappearance of a Swedish heiress 40 years earlier; the first volume in the Millennium trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307949486.jpg",
+			"name": "THE GIRL WITH THE DRAGON TATTOO",
+			"publisher": "Knopf Doubleday",
+			"rank": 14
+		},
+		{
+			"author": "by Henning Mankell",
+			"description": "In the final volume in the Kurt Wallander series, the Swedish detective searches for a missing retired naval officer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307595379.jpg",
+			"name": "THE TROUBLED MAN",
+			"publisher": "Knopf Doubleday",
+			"rank": 15
+		}
+	]
+}

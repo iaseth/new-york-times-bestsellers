@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by James Patterson and Michael Ledwidge",
+			"description": "While the president of the United States is in New York to meet with his Russian counterpart, Detective Michael Bennett must stop a team of assassins prowling the Upper West Side.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316407083.jpg",
+			"name": "BULLSEYE",
+			"publisher": "Little, Brown",
+			"rank": 1
+		},
+		{
+			"author": "by Debbie Macomber",
+			"description": "The journeys of the characters at the Rose Harbor Inn come to a close in this last book of the series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780553391848.jpg",
+			"name": "SWEET TOMORROWS",
+			"publisher": "Random House",
+			"rank": 2
+		},
+		{
+			"author": "by Paula Hawkins",
+			"description": "A psychological thriller set in the environs of London is full of complications and betrayals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594633669.jpg",
+			"name": "THE GIRL ON THE TRAIN",
+			"publisher": "Riverhead",
+			"rank": 3
+		},
+		{
+			"author": "by Liane Moriarty",
+			"description": "Tense turning points for three couples at a backyard barbecue gone wrong.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250069818.jpg",
+			"name": "TRULY MADLY GUILTY",
+			"publisher": "Flatiron",
+			"rank": 4
+		},
+		{
+			"author": "by Stuart Woods and Parnell Hall",
+			"description": "When the former rogue C.I.A. agent Teddy Fay, a master of disguise, takes the lead to help a powerful woman, her fate, and that of the nation, is in his hands.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399185267.jpg",
+			"name": "SMOOTH OPERATOR",
+			"publisher": "Putnam",
+			"rank": 5
+		},
+		{
+			"author": "by Colson Whitehead",
+			"description": "A teenage girl heads north on the network that helped slaves escape to freedom, envisioned in this novel as a secret system of actual tracks and tunnels.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385542364.jpg",
+			"name": "THE UNDERGROUND RAILROAD",
+			"publisher": "Doubleday",
+			"rank": 6
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "A battered wife raised in a violent home attempts to halt the cycle of abuse.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501110375.jpg",
+			"name": "IT ENDS WITH US",
+			"publisher": "Atria",
+			"rank": 7
+		},
+		{
+			"author": "by John Grisham",
+			"description": "The attorney Sebastian Rudd is a \u201clone gunman\u201d who hates injustice and the system and defends unpopular clients.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385539449.jpg",
+			"name": "ROGUE LAWYER",
+			"publisher": "Doubleday",
+			"rank": 8
+		},
+		{
+			"author": "by Christine Feehan",
+			"description": "A woman falls for a rich-bachelor vampire, but she also has a separate plan for which he is the bait. A Carpathian novel.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780425281963.jpg",
+			"name": "DARK CAROUSEL",
+			"publisher": "Berkley",
+			"rank": 9
+		},
+		{
+			"author": "by James Patterson with Michael Ledwidge",
+			"description": "The New York detective Michael Bennett knows a staged suicide when he sees one.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316361644.jpg",
+			"name": "CHASE",
+			"publisher": "BookShots",
+			"rank": 10
+		},
+		{
+			"author": "by Daniel Silva",
+			"description": "Gabriel Allon, the Israeli art restorer and spy, recruits and trains a doctor from Jerusalem to help capture a secret ISIS terrorist in France.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062320247.jpg",
+			"name": "THE BLACK WIDOW",
+			"publisher": "Harper",
+			"rank": 11
+		},
+		{
+			"author": "by Emma Cline",
+			"description": "In the summer of 1969, a California teenager is drawn to a Manson-like cult.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812998610.jpg",
+			"name": "THE GIRLS",
+			"publisher": "Random House",
+			"rank": 12
+		},
+		{
+			"author": "by Jojo Moyes",
+			"description": "A woman who has barely been beyond her English village finds herself while caring for a wealthy, embittered quadriplegic.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780143124542.jpg",
+			"name": "ME BEFORE YOU",
+			"publisher": "Penguin",
+			"rank": 13
+		},
+		{
+			"author": "by Jojo Moyes",
+			"description": "After the death of Will Traynor, Louisa Clark joins a grief support group that may lead her to new love.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698152045.jpg",
+			"name": "AFTER YOU",
+			"publisher": "Pamela Dorman/Viking",
+			"rank": 14
+		},
+		{
+			"author": "by Sherrilyn Kenyon",
+			"description": "The first book of a new trilogy featuring Illarion, a dragon made into a human against his will. A Dark-Hunter novel.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250092410.jpg",
+			"name": "DRAGONMARK",
+			"publisher": "St. Martin's",
+			"rank": 15
+		}
+	]
+}

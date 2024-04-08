@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Todd Burpo with Lynn Vincent",
+			"description": "A father recounts his 3-year-old son\u2019s encounter with Jesus and the angels during an appendectomy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780849949203.jpg",
+			"name": "HEAVEN IS FOR REAL",
+			"publisher": "Thomas Nelson",
+			"rank": 1
+		},
+		{
+			"author": "by Tina Fey",
+			"description": "A memoir from the former Saturday Night Live star and creator of \"30 Rock.\"",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316056892.jpg",
+			"name": "BOSSYPANTS",
+			"publisher": "Little, Brown",
+			"rank": 2
+		},
+		{
+			"author": "by Steven Tyler with David Dalton",
+			"description": "The singer and showman recounts the meteoric rise, fall and rise of Aerosmith over the last three decades.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780061959394.jpg",
+			"name": "DOES THE NOISE IN MY HEAD BOTHER YOU?",
+			"publisher": "HarperCollins",
+			"rank": 3
+		},
+		{
+			"author": "by Rob Lowe",
+			"description": "The actor charts his professional path, from teen idol to \"The West Wing.\"",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250008855.jpg",
+			"name": "STORIES I ONLY TELL MY FRIENDS",
+			"publisher": "Holt",
+			"rank": 4
+		},
+		{
+			"author": "by Shania Twain",
+			"description": "The country singer and songwriter writes of her hardscrabble origins and her rise to fame.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451620740.jpg",
+			"name": "FROM THIS MOMENT ON",
+			"publisher": "Simon & Schuster",
+			"rank": 5
+		},
+		{
+			"author": "by Laura Hillenbrand",
+			"description": "An Olympic runner\u2019s story of survival as a prisoner of the Japanese in World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400064168.jpg",
+			"name": "UNBROKEN",
+			"publisher": "Random House",
+			"rank": 6
+		},
+		{
+			"author": "by Betty White",
+			"description": "The seven-time Emmy winner reflects on her seven-decade career in Hollywood.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399157530.jpg",
+			"name": "IF YOU ASK ME",
+			"publisher": "Penguin Group",
+			"rank": 7
+		},
+		{
+			"author": "by Rebecca Skloot",
+			"description": "The story of a woman whose cancer cells were extensively cultured without her permission in 1951.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400052189.jpg",
+			"name": "THE IMMORTAL LIFE OF HENRIETTA LACKS",
+			"publisher": "Crown",
+			"rank": 8
+		},
+		{
+			"author": "selected and introduced by Caroline Kennedy",
+			"description": "Poems that inspired the former first daughter.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781401341459.jpg",
+			"name": "SHE WALKS IN BEAUTY",
+			"publisher": "Hyperion",
+			"rank": 9
+		},
+		{
+			"author": "by Marcus Luttrell with Patrick Robinson",
+			"description": "The only survivor of a Navy Seal operation in northern Afghanistan describes the battle, his comrades and his courageous escape.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316067607.jpg",
+			"name": "LONE SURVIVOR",
+			"publisher": "Little, Brown",
+			"rank": 10
+		},
+		{
+			"author": "by Eric Greitens",
+			"description": "A member of the Navy Seals describes his military deployments and his larger vision of public service.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780547424859.jpg",
+			"name": "THE HEART AND THE FIST",
+			"publisher": "Houghton Mifflin Harcourt",
+			"rank": 11
+		},
+		{
+			"author": "by Mitchell Zuckoff",
+			"description": "After a jungle plane crash in 1945, three survivors were caught between headhunters and enemy Japanese.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780061988356.jpg",
+			"name": "LOST IN SHANGRI-LA",
+			"publisher": "HarperCollins",
+			"rank": 12
+		},
+		{
+			"author": "by Janny Scott",
+			"description": "A biography of Barack Obama\u2019s late mother, Stanley Ann Dunham, an anthropologist and development consultant, from a former New York Times reporter.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594487972.jpg",
+			"name": "A SINGULAR WOMAN",
+			"publisher": "Penguin Group",
+			"rank": 13
+		},
+		{
+			"author": "by Dick Van Dyke",
+			"description": "A memoir by the performer, who calls himself \u201ca simple song-and-dance man.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307592231.jpg",
+			"name": "MY LUCKY LIFE IN AND OUT OF SHOW BUSINESS",
+			"publisher": "Crown",
+			"rank": 14
+		},
+		{
+			"author": "by Rex Ryan with Don Yaeger",
+			"description": "The coach of the New York Jets details the ups and downs of the N.F.L. team\u2019s 2010 season.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385534444.jpg",
+			"name": "PLAY LIKE YOU MEAN IT",
+			"publisher": "Knopf Doubleday",
+			"rank": 15
+		}
+	]
+}

@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by E. L. James",
+			"description": "An inexperienced college student falls in love with a tortured man who has particular sexual tastes; the first book in a trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345803481.jpg",
+			"name": "FIFTY SHADES OF GREY",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 1
+		},
+		{
+			"author": "by E. L. James",
+			"description": "Ana Steele learns more about Christian Grey\u2019s troubled past; the second book in a trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345803498.jpg",
+			"name": "FIFTY SHADES DARKER",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 2
+		},
+		{
+			"author": "by E. L. James",
+			"description": "The final book in an erotic trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781612130606.jpg",
+			"name": "FIFTY SHADES FREED",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 3
+		},
+		{
+			"author": "by Daniel Silva",
+			"description": "Gabriel Allon, an art restorer and occasional spy for the Israeli secret service, discovers a global criminal enterprise behind a murder in Rome.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062253835.jpg",
+			"name": "THE FALLEN ANGEL",
+			"publisher": "HarperCollins Publishers",
+			"rank": 4
+		},
+		{
+			"author": "by Gillian Flynn",
+			"description": "A woman disappears on the day of her fifth anniversary; is her husband a killer?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307588388.jpg",
+			"name": "GONE GIRL",
+			"publisher": "Crown Publishing",
+			"rank": 5
+		},
+		{
+			"author": "by Sylvia Day",
+			"description": "Two troubled people develop an intense, obsessive relationship.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780425263907.jpg",
+			"name": "BARED TO YOU",
+			"publisher": "Penguin Group",
+			"rank": 6
+		},
+		{
+			"author": "by Lee Child",
+			"description": "In this e-book story, Jack Reacher is summoned to Washington to find the source of a leak about a new weapon.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345537102.jpg",
+			"name": "DEEP DOWN",
+			"publisher": "Delacorte Press",
+			"rank": 7
+		},
+		{
+			"author": "by James Patterson and Michael Ledwidge",
+			"description": "A New York detective takes refuge with his 10 children in an upstate cabin.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780446571807.jpg",
+			"name": "I, MICHAEL BENNETT",
+			"publisher": "Little, Brown & Company",
+			"rank": 8
+		},
+		{
+			"author": "by Deborah Harkness",
+			"description": "An Oxford scholar/witch and a vampire geneticist pursue history, secrets and each other in Elizabethan London; Book 2 of the All Souls trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780670023486.jpg",
+			"name": "SHADOW OF NIGHT",
+			"publisher": "Penguin Group",
+			"rank": 9
+		},
+		{
+			"author": "by James Lee Burke",
+			"description": "The Louisiana detective Dave Robicheaux hunts for a missing Cajun singer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451648157.jpg",
+			"name": "CREOLE BELLE",
+			"publisher": "Simon & Schuster",
+			"rank": 10
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "A girl falls in love with a neighbor who enjoys slam poetry, but they encounter obstacles.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/A00B006RUJST6.jpg",
+			"name": "SLAMMED",
+			"publisher": "Colleen Hoover",
+			"rank": 11
+		},
+		{
+			"author": "by E. L. James",
+			"description": "The three \u201cFifty Shades\u201d novels in one bundle.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345803573.jpg",
+			"name": "FIFTY SHADES TRILOGY",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 12
+		},
+		{
+			"author": "by Jennifer Probst",
+			"description": "A billionaire who needs a wife offers a one-year marriage in name only to a bookstore owner.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781620612798.jpg",
+			"name": "THE MARRIAGE BARGAIN",
+			"publisher": "Entangled Publishing",
+			"rank": 13
+		},
+		{
+			"author": "by Catherine Coulter",
+			"description": "The F.B.I. agents Dillon Savich and Lacey Sherlock investigate the murder of a judge.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399157325.jpg",
+			"name": "BACKFIRE",
+			"publisher": "Penguin Group",
+			"rank": 14
+		},
+		{
+			"author": "by John Grisham",
+			"description": "Partners in a small law firm take on a big case.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345536884.jpg",
+			"name": "THE LITIGATORS",
+			"publisher": "Random House Publishing",
+			"rank": 15
+		}
+	]
+}

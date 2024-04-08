@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Charles Krauthammer",
+			"description": "Three decades\u2019 worth of essays from the conservative columnist.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385349178.jpg",
+			"name": "THINGS THAT MATTER",
+			"publisher": "Crown Forum",
+			"rank": 1
+		},
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "The host of \"The O'Reilly Factor\" recounts the events leading up to Jesus' execution.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780805098549.jpg",
+			"name": "KILLING JESUS",
+			"publisher": "Holt",
+			"rank": 2
+		},
+		{
+			"author": "by Doris Kearns Goodwin",
+			"description": "The relationship between Theodore Roosevelt and William Howard Taft and the activities of the muckraking press, from the author of \u201cTeam of Rivals.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781416547860.jpg",
+			"name": "THE BULLY PULPIT",
+			"publisher": "Simon & Schuster",
+			"rank": 3
+		},
+		{
+			"author": "by Malcolm Gladwell",
+			"description": "How disadvantages can work in our favor; from the author of \"The Tipping Point\" and \"Outliers.\"",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316204361.jpg",
+			"name": "DAVID AND GOLIATH",
+			"publisher": "Little, Brown",
+			"rank": 4
+		},
+		{
+			"author": "by Mark Halperin and John Heilemann",
+			"description": "Insider reporting on the election of 2012 from the authors of \u201cGame Change.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101638705.jpg",
+			"name": "DOUBLE DOWN",
+			"publisher": "Penguin Press",
+			"rank": 5
+		},
+		{
+			"author": "by Brian Kilmeade and Don Yaeger",
+			"description": "The story of the Culper spy ring, which aided the American cause during the Revolution.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698137653.jpg",
+			"name": "GEORGE WASHINGTON'S SECRET SIX",
+			"publisher": "Sentinel",
+			"rank": 6
+		},
+		{
+			"author": "by Malala Yousafzai with Christina Lamb",
+			"description": "The experience of the Pakistani girl who advocated for women\u2019s education and was shot by the Taliban.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316322409.jpg",
+			"name": "I AM MALALA",
+			"publisher": "Little, Brown",
+			"rank": 7
+		},
+		{
+			"author": "by Solomon Northup",
+			"description": "The narrative, first published in 1853, of a freeman who was kidnapped and sold into slavery, and spent 12 years in bondage before escaping; the basis of the recently released movie.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781443433099.jpg",
+			"name": "TWELVE YEARS A SLAVE",
+			"publisher": "Various publishers",
+			"rank": 8
+		},
+		{
+			"author": "by Si Robertson with Mark Schlabach",
+			"description": "Tales from Phil\u2019s youngest brother, retired from the Army, who works in the Duck Commander workshop.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476745398.jpg",
+			"name": "SI-COLOGY 1",
+			"publisher": "Howard Books",
+			"rank": 9
+		},
+		{
+			"author": "by Pat Conroy",
+			"description": "In this memoir, Conroy mourns the abusive father on whom \u201cThe Great Santini\u201d was based.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385530859.jpg",
+			"name": "THE DEATH OF SANTINI",
+			"publisher": "Nan A. Talese/Doubleday",
+			"rank": 10
+		},
+		{
+			"author": "by Mike Tyson with Larry Sloman",
+			"description": "The former heavyweight boxing champion looks back on his life and career, from an impoverished boyhood through success, violence, addiction and recovery.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101621134.jpg",
+			"name": "UNDISPUTED TRUTH",
+			"publisher": "Blue Rider",
+			"rank": 11
+		},
+		{
+			"author": "by Henry Bushkin",
+			"description": "A recollection by Carson\u2019s lawyer and confidant for 18 years.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780544217737.jpg",
+			"name": "JOHNNY CARSON",
+			"publisher": "Eamon Dolan/Houghton Mifflin Harcourt",
+			"rank": 12
+		},
+		{
+			"author": "by Sarah Palin",
+			"description": "The former vice presidential candidate urges Americans to keep Jesus Christ in Christmas \u2014 in public displays, school concerts and their hearts.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062292889.jpg",
+			"name": "GOOD TIDINGS AND GREAT JOY",
+			"publisher": "Broadside/HarperCollins",
+			"rank": 13
+		},
+		{
+			"author": "by Eben Alexander",
+			"description": "A neurosurgeon recounts his near death experience during a coma from bacterial meningitis.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451695199.jpg",
+			"name": "PROOF OF HEAVEN",
+			"publisher": "Simon & Schuster",
+			"rank": 14
+		},
+		{
+			"author": "by Sheryl Sandberg with Nell Scovell",
+			"description": "The chief operating officer of Facebook urges women to pursue their careers without ambivalence.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385349956.jpg",
+			"name": "LEAN IN",
+			"publisher": "Knopf",
+			"rank": 15
+		}
+	]
+}

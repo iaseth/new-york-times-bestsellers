@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Maya Banks",
+			"description": "Three wealthy men explore dominance and desire.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101620403.jpg",
+			"name": "BURN",
+			"publisher": "Berkley",
+			"rank": 1
+		},
+		{
+			"author": "by James Patterson and David Ellis",
+			"description": "When he begins to investigate a friend\u2019s mysterious death, a man discovers that she was leading a double life.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316211079.jpg",
+			"name": "MISTRESS",
+			"publisher": "Little, Brown",
+			"rank": 2
+		},
+		{
+			"author": "by Robert Galbraith",
+			"description": "A detective probes a supermodel\u2019s suicide; by J.K. Rowling, writing pseudonymously.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316206860.jpg",
+			"name": "THE CUCKOO'S CALLING",
+			"publisher": "Mulholland/Little, Brown",
+			"rank": 3
+		},
+		{
+			"author": "by Lee Child",
+			"description": "With New York City blacked out, a 16-year-old Jack Reacher helps a woman with a problem; a Jack Reacher novella.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345546647.jpg",
+			"name": "HIGH HEAT",
+			"publisher": "Delacorte",
+			"rank": 4
+		},
+		{
+			"author": "by Julie Garwood",
+			"description": "Surrounded by enemies who want her to fail in the resort business, Peyton Lockhart calls on Finn MacBain, a childhood friend who once saved her life and is now an F.B.I. agent.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101624258.jpg",
+			"name": "HOTSHOT",
+			"publisher": "Dutton",
+			"rank": 5
+		},
+		{
+			"author": "by Liane Moriarty",
+			"description": "A woman\u2019s life is upended when she discovers a letter from her husband she was not meant to read.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101636237.jpg",
+			"name": "THE HUSBAND'S SECRET",
+			"publisher": "Amy Einhorn/Putnam",
+			"rank": 6
+		},
+		{
+			"author": "by Dan Brown",
+			"description": "The symbologist Robert Langdon, on the run in Florence, must decipher a series of codes created by a Dante-loving scientist.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400079155.jpg",
+			"name": "INFERNO",
+			"publisher": "Doubleday",
+			"rank": 7
+		},
+		{
+			"author": "by Daniel Silva",
+			"description": "Gabriel Allon, an art restorer and occasional spy for the Israeli secret service, steps in to help the British prime minister, whose lover has been kidnapped.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062073204.jpg",
+			"name": "THE ENGLISH GIRL",
+			"publisher": "Harper",
+			"rank": 8
+		},
+		{
+			"author": "by Khaled Hosseini",
+			"description": "A multigenerational family saga centers on a brother and sister born in Afghanistan.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594632389.jpg",
+			"name": "AND THE MOUNTAINS ECHOED",
+			"publisher": "Riverhead",
+			"rank": 9
+		},
+		{
+			"author": "by A. S. A. Harrison",
+			"description": "A chilling portrait of a marriage gone terribly awry is presented in alternating voices.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101608067.jpg",
+			"name": "THE SILENT WIFE",
+			"publisher": "Penguin",
+			"rank": 10
+		},
+		{
+			"author": "by Gillian Flynn",
+			"description": "A woman disappears on the day of her fifth anniversary; is her husband a killer?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307588388.jpg",
+			"name": "GONE GIRL",
+			"publisher": "Crown",
+			"rank": 11
+		},
+		{
+			"author": "by Orson Scott Card",
+			"description": "Government agencies breed child geniuses and train them as soldiers. Originally published in 1985.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812550702.jpg",
+			"name": "ENDER'S GAME",
+			"publisher": "Tor/Tom Doherty",
+			"rank": 12
+		},
+		{
+			"author": "by W.E.B. Griffin and William E. Butterworth IV",
+			"description": "The Philadelphia homicide detective Matt Payne searches for a crucial witness who has gone into hiding; a Badge of Honor novel.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101601006.jpg",
+			"name": "THE LAST WITNESS",
+			"publisher": "Putnam",
+			"rank": 13
+		},
+		{
+			"author": "by Ryan Winfield",
+			"description": "A grieving mother takes in a young street musician to learn about her daughter\u2019s death and finds herself falling for him.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/A00B00DFNF98W.jpg",
+			"name": "JANE'S MELODY",
+			"publisher": "Birch Paper Press",
+			"rank": 14
+		},
+		{
+			"author": "by James Patterson and Howard Roughan",
+			"description": "The F.B.I. agent John O\u2019Hara investigates the murder of a pair of newlyweds.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455515967.jpg",
+			"name": "SECOND HONEYMOON",
+			"publisher": "Little, Brown",
+			"rank": 15
+		}
+	]
+}

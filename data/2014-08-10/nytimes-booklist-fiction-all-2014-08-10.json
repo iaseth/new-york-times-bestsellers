@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by E. L. James",
+			"description": "An innocent college student falls in love with a tortured man with particular sexual tastes; the first of a trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345803481.jpg",
+			"name": "FIFTY SHADES OF GREY",
+			"publisher": "Vintage",
+			"rank": 1
+		},
+		{
+			"author": "by Danielle Steel",
+			"description": "A successful TV anchor faces a young rival at work just as the long-kept secrets of her private life are exposed.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345530943.jpg",
+			"name": "A PERFECT LIFE",
+			"publisher": "Delacorte",
+			"rank": 2
+		},
+		{
+			"author": "by Daniel Silva",
+			"description": "Gabriel Allon, an art restorer and occasional spy for the Israeli secret service, must track down a famous missing painting by Caravaggio.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062320070.jpg",
+			"name": "THE HEIST",
+			"publisher": "Harper",
+			"rank": 3
+		},
+		{
+			"author": "by Gillian Flynn",
+			"description": "A woman disappears on the day of her fifth anniversary; is her husband a killer?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307588388.jpg",
+			"name": "GONE GIRL",
+			"publisher": "Crown",
+			"rank": 4
+		},
+		{
+			"author": "by Mark Greaney",
+			"description": "A Dominic Caruso novel, written in the tradition of Clancy, who died in October 2013.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698185357.jpg",
+			"name": "TOM CLANCY: SUPPORT AND DEFEND",
+			"publisher": "Putnam",
+			"rank": 5
+		},
+		{
+			"author": "by Deborah Harkness",
+			"description": "In the conclusion to the All Souls trilogy, the Oxford scholar/witch Diana Bishop and the vampire geneticist Matthew Clairmont return from Elizabethan London to the present.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698163478.jpg",
+			"name": "THE BOOK OF LIFE",
+			"publisher": "Viking",
+			"rank": 6
+		},
+		{
+			"author": "by Brad Thor",
+			"description": "The counterterrorism operative Scot Harvath undertakes two dangerous missions as America faces an imminent attack.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476717142.jpg",
+			"name": "ACT OF WAR",
+			"publisher": "Emily Bestler/Atria",
+			"rank": 7
+		},
+		{
+			"author": "by Donna Tartt",
+			"description": "A painting smuggled out of the Metropolitan Museum of Art after a bombing becomes a boy\u2019s prize, guilt and burden.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316248679.jpg",
+			"name": "THE GOLDFINCH",
+			"publisher": "Little, Brown",
+			"rank": 8
+		},
+		{
+			"author": "by James Patterson and David Ellis",
+			"description": "Searching for her sister\u2019s killer, a former F.B.I. researcher finds a link between scores of unsolved cases.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316405409.jpg",
+			"name": "INVISIBLE",
+			"publisher": "Little, Brown",
+			"rank": 9
+		},
+		{
+			"author": "by J. A. Jance",
+			"description": "Sheriff Joanna Brady must solve two seemingly unrelated, perplexing cases.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062134721.jpg",
+			"name": "REMAINS OF INNOCENCE",
+			"publisher": "Morrow/HarperCollins",
+			"rank": 10
+		},
+		{
+			"author": "by E. L. James",
+			"description": "The three \u201cFifty Shades\u201d novels in one bundle.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345803573.jpg",
+			"name": "FIFTY SHADES TRILOGY",
+			"publisher": "Vintage",
+			"rank": 11
+		},
+		{
+			"author": "by Christina Baker Kline",
+			"description": "A historical novel about orphans swept off the streets of New York and sent to the Midwest in the 1920s.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062101204.jpg",
+			"name": "ORPHAN TRAIN",
+			"publisher": "Morrow/HarperCollins",
+			"rank": 12
+		},
+		{
+			"author": "by Robert Galbraith",
+			"description": "The private detective Cormoran Strike steps in when the author of a roman \u00e0 clef set in literary London is murdered; by J.\u2009K. Rowling, writing pseudonymously.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316206914.jpg",
+			"name": "THE SILKWORM",
+			"publisher": "Mulholland/Little, Brown",
+			"rank": 13
+		},
+		{
+			"author": "by Janet Evanovich",
+			"description": "The New Jersey bounty hunter Stephanie Plum pursues a dealer who sells more than used cars.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345542946.jpg",
+			"name": "TOP SECRET TWENTY-ONE",
+			"publisher": "Bantam",
+			"rank": 14
+		},
+		{
+			"author": "by Barbara Freethy",
+			"description": "A reckless photographer helps a woman delve into the mysteries of her past.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780983599357.jpg",
+			"name": "DON'T SAY A WORD",
+			"publisher": "Barbara Freethy",
+			"rank": 15
+		}
+	]
+}

@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Robert Jordan and Brandon Sanderson",
+			"description": "The 14th and final novel in the Wheel of Time fantasy series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781429997171.jpg",
+			"name": "A MEMORY OF LIGHT",
+			"publisher": "Tor/Tom Doherty Associates",
+			"rank": 1
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "The man who has been relentlessly pursuing Sky Davis is not who he pretends to be.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781481251884.jpg",
+			"name": "HOPELESS",
+			"publisher": "Colleen Hoover",
+			"rank": 2
+		},
+		{
+			"author": "by Gillian Flynn",
+			"description": "A woman disappears on the day of her fifth anniversary; is her husband a killer?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307588388.jpg",
+			"name": "GONE GIRL",
+			"publisher": "Crown Publishing",
+			"rank": 3
+		},
+		{
+			"author": "by Nicholas Sparks",
+			"description": "The arrival of a mysterious young woman in a small North Carolina town raises questions about her past.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455523542.jpg",
+			"name": "SAFE HAVEN",
+			"publisher": "Grand Central Publishing",
+			"rank": 4
+		},
+		{
+			"author": "by E. L. James",
+			"description": "A college student falls in love with a tortured man with particular sexual tastes; the first of a trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345803481.jpg",
+			"name": "FIFTY SHADES OF GREY",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 5
+		},
+		{
+			"author": "by Stuart Woods",
+			"description": "Back in New York, the lawyer Stone Barrington joins his former partner Holly Barker in pursuing a dangerous case.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101609132.jpg",
+			"name": "COLLATERAL DAMAGE",
+			"publisher": "Penguin Group",
+			"rank": 6
+		},
+		{
+			"author": "by Jessica Sorensen",
+			"description": "A boy and girl, both with tragedy in their past, come together after a chance encounter.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/A00B00ANDLC6K.jpg",
+			"name": "THE COINCIDENCE OF CALLIE AND KAYDEN",
+			"publisher": "Jessica Sorensen",
+			"rank": 7
+		},
+		{
+			"author": "by E. L. James",
+			"description": "Ana Steele learns more about Christian Grey\u2019s troubled past; the second book in a trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345803498.jpg",
+			"name": "FIFTY SHADES DARKER",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 8
+		},
+		{
+			"author": "by E. L. James",
+			"description": "The final book in an erotic trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781612130606.jpg",
+			"name": "FIFTY SHADES FREED",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 9
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "The military investigator John Puller probes his aunt\u2019s mysterious death in Florida.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455523153.jpg",
+			"name": "THE FORGOTTEN",
+			"publisher": "Grand Central Publishing",
+			"rank": 10
+		},
+		{
+			"author": "by Addison Moore",
+			"description": "A one-night stand turns into love for two college students.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781624300004.jpg",
+			"name": "SOMEONE TO LOVE",
+			"publisher": "Addison Moore",
+			"rank": 11
+		},
+		{
+			"author": "by John Grisham",
+			"description": "An imprisoned ex-lawyer schemes to exchange this information about who murdered a judge for his freedom.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385536882.jpg",
+			"name": "THE RACKETEER",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 12
+		},
+		{
+			"author": "by George Saunders",
+			"description": "Stories that take on the big questions.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812993813.jpg",
+			"name": "TENTH OF DECEMBER",
+			"publisher": "Random House Publishing",
+			"rank": 13
+		},
+		{
+			"author": "by Jayne Ann Krentz",
+			"description": "A psychic counselor, returning to a small Oregon town after her mentor\u2019s suspicious death, is drawn to a psychic investigator with disturbing power; a Dark Legacy novel.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101609149.jpg",
+			"name": "DREAM EYES",
+			"publisher": "Penguin Group",
+			"rank": 14
+		},
+		{
+			"author": "by Janet Evanovich and Dorien Kelly",
+			"description": "In New York City in 1894, a wealthy young woman yearns for adventure and the love of an Irish-American with new money, rather than the titled Britons to whom her mother hopes to marry her off.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250025975.jpg",
+			"name": "THE HUSBAND LIST",
+			"publisher": "St. Martin's Press",
+			"rank": 15
+		}
+	]
+}

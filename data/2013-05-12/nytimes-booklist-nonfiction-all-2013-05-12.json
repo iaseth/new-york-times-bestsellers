@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by David Sedaris",
+			"description": "Essays from the humorist on subjects like French dentistry and a North Carolina Costco and his father\u2019s dinner attire.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316125680.jpg",
+			"name": "LET'S EXPLORE DIABETES WITH OWLS",
+			"publisher": "Little, Brown",
+			"rank": 1
+		},
+		{
+			"author": "by Sheryl Sandberg with Nell Scovell",
+			"description": "The chief operating officer of Facebook urges women to pursue their careers without ambivalence and to cultivate a will to lead.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385349956.jpg",
+			"name": "LEAN IN",
+			"publisher": "Knopf",
+			"rank": 2
+		},
+		{
+			"author": "by Eben Alexander",
+			"description": "A neurosurgeon recounts his near death experience during a coma from bacterial meningitis.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451695199.jpg",
+			"name": "PROOF OF HEAVEN",
+			"publisher": "Simon & Schuster",
+			"rank": 3
+		},
+		{
+			"author": "by Michael Pollan",
+			"description": "The writer masters recipes and argues that regaining control of cooking will make Americans healthier.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594204210.jpg",
+			"name": "COOKED",
+			"publisher": "Penguin Press",
+			"rank": 4
+		},
+		{
+			"author": "by Susannah Cahalan",
+			"description": "A medical mystery in which doctors struggle to discover why a young reporter suddenly experiences seizures, hallucinations and eventually near catatonia.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451621389.jpg",
+			"name": "BRAIN ON FIRE",
+			"publisher": "Free Press",
+			"rank": 5
+		},
+		{
+			"author": "by Michael Ritland with Gary Brozek",
+			"description": "A former member of the Navy SEALs describes his subsequent career finding, training and supplying working dogs to the U.S. military.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250024978.jpg",
+			"name": "TRIDENT K9 WARRIORS",
+			"publisher": "St. Martin's",
+			"rank": 6
+		},
+		{
+			"author": "by Cheryl Strayed",
+			"description": "A woman\u2019s account of a life-changing 1,100-mile hike along the Pacific Crest Trail during the summer of 1995.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307476074.jpg",
+			"name": "WILD",
+			"publisher": "Knopf",
+			"rank": 7
+		},
+		{
+			"author": "by Crystal McVea",
+			"description": "An account of what happened to a teacher from Oklahoma, formerly a religious skeptic, during nine minutes of unconsciousness.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476711881.jpg",
+			"name": "WAKING UP IN HEAVEN",
+			"publisher": "Howard Books",
+			"rank": 8
+		},
+		{
+			"author": "by Jeremy Scahill",
+			"description": "An account of America\u2019s new covert wars, fought by secret commandos.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781568586717.jpg",
+			"name": "DIRTY WARS",
+			"publisher": "Nation Books",
+			"rank": 9
+		},
+		{
+			"author": "by Eric Schmidt and Jared Cohen",
+			"description": "The promise and peril of the continuing information and technology revolution for people, nations and business.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307961105.jpg",
+			"name": "THE NEW DIGITAL AGE",
+			"publisher": "Knopf",
+			"rank": 10
+		},
+		{
+			"author": "by Carol Burnett",
+			"description": "The comedian recalls her oldest daughter, who died in 2002.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476706412.jpg",
+			"name": "CARRIE AND ME",
+			"publisher": "Simon & Schuster",
+			"rank": 11
+		},
+		{
+			"author": "by Chris Kyle with Scott McEwen and Jim DeFelice",
+			"description": "A member of the Navy SEALs who had the most career sniper kills in United States military history discusses his childhood, his marriage and his battlefield experiences during the Iraq war. Kyle was recently shot to death in Texas.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062082374.jpg",
+			"name": "AMERICAN SNIPER",
+			"publisher": "Morrow/HarperCollins",
+			"rank": 12
+		},
+		{
+			"author": "by Brian Stelter",
+			"description": "A look at the most competitive time slot in television, complete with Machiavellian booking wars and manic behavior by the producers, executives, and stars.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455512898.jpg",
+			"name": "TOP OF THE MORNING",
+			"publisher": "Grand Central",
+			"rank": 13
+		},
+		{
+			"author": "by Jackie Hance with Janice Kaplan",
+			"description": "The experience of a mother whose three daughters were killed when her sister-in-law drove the wrong way down the Taconic Parkway.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451674774.jpg",
+			"name": "I'LL SEE YOU AGAIN",
+			"publisher": "Gallery Books",
+			"rank": 14
+		},
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "The host of \u201cThe O\u2019Reilly Factor\u201d recounts the assassination of John F. Kennedy, a tragedy that has left a lasting imprint on the nation.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780805096668.jpg",
+			"name": "KILLING KENNEDY",
+			"publisher": "Holt",
+			"rank": 15
+		}
+	]
+}

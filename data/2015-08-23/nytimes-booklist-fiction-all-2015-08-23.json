@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by James Patterson and Michael Ledwidge",
+			"description": "Detective Michael Bennett and the F.B.I.\u2019s Emily Parker must save New York City from a deadly threat.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316407038.jpg",
+			"name": "ALERT",
+			"publisher": "Little, Brown",
+			"rank": 1
+		},
+		{
+			"author": "by Harper Lee",
+			"description": "In the mid-1950s, a grown-up Jean Louise Finch returns to Maycomb and realizes that her adored father is a racist.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062409850.jpg",
+			"name": "GO SET A WATCHMAN",
+			"publisher": "Harper",
+			"rank": 2
+		},
+		{
+			"author": "by Paula Hawkins",
+			"description": "A psychological thriller set in the environs of London is full of complications and betrayals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594633669.jpg",
+			"name": "THE GIRL ON THE TRAIN",
+			"publisher": "Riverhead",
+			"rank": 3
+		},
+		{
+			"author": "by E. L. James",
+			"description": "A sequel told from Christian's point of view.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101946350.jpg",
+			"name": "GREY",
+			"publisher": "Vintage",
+			"rank": 4
+		},
+		{
+			"author": "by Andy Weir",
+			"description": "Abandoned by his crew, an astronaut embarks on a dogged quest to stay alive.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780804139038.jpg",
+			"name": "THE MARTIAN",
+			"publisher": "Crown",
+			"rank": 5
+		},
+		{
+			"author": "by Anthony Doerr",
+			"description": "The lives of a blind French girl and a gadget-obsessed German boy before and during World War II; the winner of the 2015 Pulitzer Prize.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476746586.jpg",
+			"name": "ALL THE LIGHT WE CANNOT SEE",
+			"publisher": "Scribner",
+			"rank": 6
+		},
+		{
+			"author": "by Ilona Andrews",
+			"description": "In the eighth Kate Daniels novel, Kate and Curran, who have broken with the Pack, investigate a friend\u2019s disappearance.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698136779.jpg",
+			"name": "MAGIC SHIFTS",
+			"publisher": "Ace",
+			"rank": 7
+		},
+		{
+			"author": "by Sherrilyn Kenyon",
+			"description": "In the 26th Dark-Hunter novel, ancient enemies battle in modern-day New Orleans.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250029942.jpg",
+			"name": "DRAGONBANE",
+			"publisher": "St. Martin's",
+			"rank": 8
+		},
+		{
+			"author": "by Kristin Hannah",
+			"description": "Two sisters are separated in World War II France: one in the countryside, the other in Paris.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781466850606.jpg",
+			"name": "THE NIGHTINGALE",
+			"publisher": "St. Martin's",
+			"rank": 9
+		},
+		{
+			"author": "by Jessica Knoll",
+			"description": "The life of a successful magazine writer is shaken when secrets from her past are revealed in a documentary.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476789651.jpg",
+			"name": "LUCKIEST GIRL ALIVE",
+			"publisher": "Simon & Schuster",
+			"rank": 10
+		},
+		{
+			"author": "by Brad Thor",
+			"description": "The counterterrorism operative Scot Harvath undertakes a deadly assignment set in motion by a leaked video.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476717159.jpg",
+			"name": "CODE OF CONDUCT",
+			"publisher": "Emily Bestler/Atria",
+			"rank": 11
+		},
+		{
+			"author": "by Paula McLain",
+			"description": "A novel by the author of \u201cThe Paris Wife\u201d about Beryl Markham, a horse trainer and aviatrix raised in Kenya.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345534194.jpg",
+			"name": "CIRCLING THE SUN",
+			"publisher": "Ballantine",
+			"rank": 12
+		},
+		{
+			"author": "by Christine Feehan, Maggie Shayne and Lori Herter",
+			"description": "An anthology of vampire romance roves through the Carpathians and Anasazi ruins in its pursuit of sanguine desire.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698405905.jpg",
+			"name": "EDGE OF DARKNESS",
+			"publisher": "Jove",
+			"rank": 13
+		},
+		{
+			"author": "by Gillian Flynn",
+			"description": "A woman who was spared when her mother and sisters were murdered begins to reinvestigate the case against her imprisoned brother.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307341570.jpg",
+			"name": "DARK PLACES",
+			"publisher": "Broadway",
+			"rank": 14
+		},
+		{
+			"author": "by W. E. B. Griffin and William E. Butterworth IV",
+			"description": "The Philadelphia homicide detective Matt Payne looks for a pattern in a series of murders; a Badge of Honor novel.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698164468.jpg",
+			"name": "DEADLY ASSETS",
+			"publisher": "Putnam",
+			"rank": 15
+		}
+	]
+}

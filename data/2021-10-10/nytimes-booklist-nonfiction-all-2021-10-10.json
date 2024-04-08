@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Bob Woodward and Robert Costa",
+			"description": "The Washington Post journalists detail the dangers and challenges during the transition to the Biden presidency.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982182915.jpg",
+			"name": "PERIL",
+			"publisher": "Simon & Schuster",
+			"rank": 1
+		},
+		{
+			"author": "by Anderson Cooper and Katherine Howe",
+			"description": "The CNN host and descendant of the Vanderbilt family charts the rise and fall of this American dynasty.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062964618.jpg",
+			"name": "VANDERBILT",
+			"publisher": "Harper",
+			"rank": 2
+		},
+		{
+			"author": "by Mark R. Levin",
+			"description": "The Fox News host gives his take on the Green New Deal, critical race theory and social activism.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501135972.jpg",
+			"name": "AMERICAN MARXISM",
+			"publisher": "Threshold Editions",
+			"rank": 3
+		},
+		{
+			"author": "by Cassandra Peterson",
+			"description": "The actress details the moments from her life and career that shaped the creation of her character Elvira, Mistress of the Dark.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780306874352.jpg",
+			"name": "YOURS CRUELLY, ELVIRA",
+			"publisher": "Hachette",
+			"rank": 4
+		},
+		{
+			"author": "by Bessel van der Kolk",
+			"description": "How trauma affects the body and mind, and innovative treatments for recovery.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780670785933.jpg",
+			"name": "THE BODY KEEPS THE SCORE",
+			"publisher": "Penguin",
+			"rank": 5
+		},
+		{
+			"author": "by Scott Gottlieb",
+			"description": "The former F.D.A. commissioner assesses America\u2019s Covid-19 response and prescribes ways to prepare for other pandemics.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063080010.jpg",
+			"name": "UNCONTROLLED SPREAD",
+			"publisher": "Harper",
+			"rank": 6
+		},
+		{
+			"author": "by Gabrielle Union with Kevin Carr O\u2019Leary",
+			"description": "The actress shares some of the challenges and changes she has faced in recent years.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062979933.jpg",
+			"name": "YOU GOT ANYTHING STRONGER?",
+			"publisher": "Dey Street",
+			"rank": 7
+		},
+		{
+			"author": "by Chris Wallace with Mitch Weiss",
+			"description": "The intelligence gathering, security strategizing and military planning during the final eight months of the pursuit of Osama bin Laden.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982176525.jpg",
+			"name": "COUNTDOWN BIN LADEN",
+			"publisher": "Avid Reader",
+			"rank": 8
+		},
+		{
+			"author": "by Mary Roach",
+			"description": "An exploration of disciplinary actions and preventative measures occuring at the intersection of human behavior and wildlife biology.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781324001935.jpg",
+			"name": "FUZZ",
+			"publisher": "Norton",
+			"rank": 9
+		},
+		{
+			"author": "by Robin Wall Kimmerer",
+			"description": "A botanist and member of the Citizen Potawatomi Nation espouses having an understanding and appreciation of plants and animals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781571313560.jpg",
+			"name": "BRAIDING SWEETGRASS",
+			"publisher": "Milkweed Editions",
+			"rank": 10
+		},
+		{
+			"author": "by Rick Bragg",
+			"description": "The Pulitzer Prize-winning author recounts the impact an ill-behaved stray dog had on him during an uncertain time.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525658818.jpg",
+			"name": "THE SPECKLED BEAUTY",
+			"publisher": "Knopf",
+			"rank": 11
+		},
+		{
+			"author": "by Lucy Adlington",
+			"description": "Twenty-five young inmates of the Auschwitz-Birkenau concentration camp made garments for elite Nazi women.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063030930.jpg",
+			"name": "THE DRESSMAKERS OF AUSCHWITZ",
+			"publisher": "Harper",
+			"rank": 12
+		},
+		{
+			"author": "by Roxane van Iperen",
+			"description": "Janny and Lien Brilleslijper from Amsterdam were sent by train to Auschwitz when the Jewish safehouse they created in the woods was discovered.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063097629.jpg",
+			"name": "THE SISTERS OF AUSCHWITZ",
+			"publisher": "Harper",
+			"rank": 13
+		},
+		{
+			"author": "by Glennon Doyle",
+			"description": "The activist and public speaker describes her journey of listening to her inner voice.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984801258.jpg",
+			"name": "UNTAMED",
+			"publisher": "Dial",
+			"rank": 14
+		},
+		{
+			"author": "by Evan Osnos",
+			"description": "The National Book Award and Pulitzer Prize winner examines the shifts in American culture and politics by visiting three cities in which he has lived.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780374286675.jpg",
+			"name": "WILDLAND",
+			"publisher": "Farrar, Straus & Giroux",
+			"rank": 15
+		}
+	]
+}

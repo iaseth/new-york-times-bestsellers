@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Brad Thor",
+			"description": "As the counterterrorism operative Scot Harvath searches for the murderer of candidates to head a powerful, mysterious agency, he uncovers a plot with roots in the 18th century.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476717104.jpg",
+			"name": "HIDDEN ORDER",
+			"publisher": "Emily Bestler/Atria",
+			"rank": 1
+		},
+		{
+			"author": "by Catherine Coulter",
+			"description": "After the F.B.I. special agent Griffin Hammersmith accepts Dillon Savich\u2019s invitation to join him and Lacey Sherlock, Hammersmith\u2019s sister is savagely beaten.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101637197.jpg",
+			"name": "BOMBSHELL",
+			"publisher": "Putnam",
+			"rank": 2
+		},
+		{
+			"author": "by Dan Brown",
+			"description": "The symbologist Robert Langdon, on the run in Florence, must decipher a series of codes created by a Dante-loving scientist.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400079155.jpg",
+			"name": "INFERNO",
+			"publisher": "Doubleday",
+			"rank": 3
+		},
+		{
+			"author": "by James Patterson and Howard Roughan",
+			"description": "As he investigates the murder of a pair of newlyweds, the F.B.I. agent John O\u2019Hara, last seen in \u201cHoneymoon\u201d (2005), is targeted by a serial killer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455515967.jpg",
+			"name": "SECOND HONEYMOON",
+			"publisher": "Little, Brown",
+			"rank": 4
+		},
+		{
+			"author": "by Khaled Hosseini",
+			"description": "A multigenerational family saga centers on a brother and sister born in Afghanistan.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594632389.jpg",
+			"name": "AND THE MOUNTAINS ECHOED",
+			"publisher": "Riverhead",
+			"rank": 5
+		},
+		{
+			"author": "by Sue Grafton",
+			"description": "The first of the Kinsey Millhone Alphabet mysteries, originally published in 1982.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781429901345.jpg",
+			"name": "A IS FOR ALIBI",
+			"publisher": "Holt",
+			"rank": 6
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "The truth about Dean Holder is revealed in this retelling of the story of \u201cHopeless\u201d from Dean\u2019s point of view.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476746562.jpg",
+			"name": "LOSING HOPE",
+			"publisher": "Atria",
+			"rank": 7
+		},
+		{
+			"author": "by Christina Lauren",
+			"description": "Picking up the story of Bennett Ryan and Chloe Mills where \u201cBeautiful Bastard\u201d left off.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476751726.jpg",
+			"name": "BEAUTIFUL BITCH",
+			"publisher": "Gallery Books",
+			"rank": 8
+		},
+		{
+			"author": "by Neil Gaiman",
+			"description": "A middle-aged man recalls his lonely boyhood and his friendship with a remarkable girl.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062255662.jpg",
+			"name": "THE OCEAN AT THE END OF THE LANE",
+			"publisher": "Morrow/HarperCollins",
+			"rank": 9
+		},
+		{
+			"author": "by Tanya Anne Crosby, Danelle Harmon, Lauren Royal and Cynthia Wright",
+			"description": "A set of four historical romance novels.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781938907975.jpg",
+			"name": "FOUR IRRESISTIBLE ROGUES",
+			"publisher": "Novelty Books",
+			"rank": 10
+		},
+		{
+			"author": "by Gillian Flynn",
+			"description": "A woman disappears on the day of her fifth anniversary; is her husband a killer?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307588388.jpg",
+			"name": "GONE GIRL",
+			"publisher": "Crown",
+			"rank": 11
+		},
+		{
+			"author": "by Gail McHugh",
+			"description": "In a sequel to \u201cCollide,\u201d Emily Cooper risks everything on her romance with the playboy Gavin Blake.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/A00B00DULA3B2.jpg",
+			"name": "PULSE",
+			"publisher": "Gail McHugh",
+			"rank": 12
+		},
+		{
+			"author": "by Sylvia Day",
+			"description": "Eva and Gideon face the demons of their pasts and accept the consequences of their obsessive desires; a Crossfire novel.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780425263921.jpg",
+			"name": "ENTWINED WITH YOU",
+			"publisher": "Berkley",
+			"rank": 13
+		},
+		{
+			"author": "by Max Brooks",
+			"description": "An \u201coral history\u201d of an imagined Zombie War that nearly destroys civilization.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307351937.jpg",
+			"name": "WORLD WAR Z",
+			"publisher": "Broadway",
+			"rank": 14
+		},
+		{
+			"author": "by Carl Hiaasen",
+			"description": "A defrocked Miami cop turned restaurant inspector investigates a grisly murder.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780446556149.jpg",
+			"name": "BAD MONKEY",
+			"publisher": "Knopf",
+			"rank": 15
+		}
+	]
+}

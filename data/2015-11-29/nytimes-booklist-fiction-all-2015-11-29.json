@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by John Grisham",
+			"description": "The attorney Sebastian Rudd is a \u201clone gunman\u201d who hates injustice and the system and defends unpopular clients.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385539449.jpg",
+			"name": "ROGUE LAWYER",
+			"publisher": "Doubleday",
+			"rank": 1
+		},
+		{
+			"author": "by Michael Connelly",
+			"description": "The retired detective Harry Bosch reluctantly agrees to help his half brother, a defense attorney, and his investigations lead him inside the L.A.P.D.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316225892.jpg",
+			"name": "THE CROSSING",
+			"publisher": "Little, Brown",
+			"rank": 2
+		},
+		{
+			"author": "by Robert Crais",
+			"description": "The Los Angeles P.I. Elvis Cole joins forces with the K-9 officer Scott James of the L.A.P.D. and his German shepherd, Maggie, as well as his partner, Joe Pike, to foil a criminal mastermind.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399161490.jpg",
+			"name": "THE PROMISE",
+			"publisher": "Putnam",
+			"rank": 3
+		},
+		{
+			"author": "by Douglas Preston and Lincoln Child",
+			"description": "In the 15th thriller featuring the F.B.I. agent Aloysius Pendergast, a crime in a quaint Massachusetts town may be connected to rumors of a colony of witches who settled there after the Salem trials.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455525935.jpg",
+			"name": "CRIMSON SHORE",
+			"publisher": "Grand Central",
+			"rank": 4
+		},
+		{
+			"author": "by Andy Weir",
+			"description": "Abandoned by his crew, an astronaut embarks on a dogged quest to stay alive.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780804139038.jpg",
+			"name": "THE MARTIAN",
+			"publisher": "Crown",
+			"rank": 5
+		},
+		{
+			"author": "by Stephen King",
+			"description": "Twenty stories, some never before published.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501111686.jpg",
+			"name": "THE BAZAAR OF BAD DREAMS",
+			"publisher": "Scribner",
+			"rank": 6
+		},
+		{
+			"author": "by Nicholas Sparks",
+			"description": "A couple in love are threatened by secrets from the past.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455520619.jpg",
+			"name": "SEE ME",
+			"publisher": "Grand Central",
+			"rank": 7
+		},
+		{
+			"author": "by Nora Roberts",
+			"description": "Three couples pool their powers in their search for the prophetic fire star.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780425280102.jpg",
+			"name": "STARS OF FORTUNE",
+			"publisher": "Berkley",
+			"rank": 8
+		},
+		{
+			"author": "by Mitch Albom",
+			"description": "A preternaturally gifted guitarist uses his talent to alter lives.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062294418.jpg",
+			"name": "THE MAGIC STRINGS OF FRANKIE PRESTO",
+			"publisher": "Harper/HarperCollins",
+			"rank": 9
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "Is Ben using his relationship with Fallon as fodder for his novel?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501110351.jpg",
+			"name": "NOVEMBER 9",
+			"publisher": "Atria",
+			"rank": 10
+		},
+		{
+			"author": "by Joanna Wylde",
+			"description": "An abrasive biker's release from prison tests his fraught relationship with a woman escaping her past.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698191808.jpg",
+			"name": "REAPER'S FALL",
+			"publisher": "Berkley",
+			"rank": 11
+		},
+		{
+			"author": "by Vince Flynn and Kyle Mills",
+			"description": "A counterterrorism operative must control the damage from a leak of C.I.A. documents.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476783475.jpg",
+			"name": "THE SURVIVOR",
+			"publisher": "Emily Bestler/Atria",
+			"rank": 12
+		},
+		{
+			"author": "by Anthony Doerr",
+			"description": "The lives of a blind French girl and a gadget-obsessed German boy before and during World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476746586.jpg",
+			"name": "ALL THE LIGHT WE CANNOT SEE",
+			"publisher": "Scribner",
+			"rank": 13
+		},
+		{
+			"author": "by Robert Galbraith",
+			"description": "In the third novel about the private investigative team of Cormoran Strike and Robin Ellacott, the pair pursue a psychotic stalker; by J.\u2009K. Rowling, writing pseudonymously.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316349932.jpg",
+			"name": "CAREER OF EVIL",
+			"publisher": "Mulholland/Little, Brown",
+			"rank": 14
+		},
+		{
+			"author": "by Isabel Allende",
+			"description": "A young refugee from the Nazis and the son of her family\u2019s Japanese gardener must hide their love, although it lasts a lifetime.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501117008.jpg",
+			"name": "THE JAPANESE LOVER",
+			"publisher": "Atria",
+			"rank": 15
+		}
+	]
+}

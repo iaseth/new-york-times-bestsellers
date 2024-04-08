@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Pete Hegseth with David Goodwin",
+			"description": "The \"Fox & Friends Weekend\" host makes his case for what he calls classical Christian education.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063215047.jpg",
+			"name": "BATTLE FOR THE AMERICAN MIND",
+			"publisher": "Broadside",
+			"rank": 1
+		},
+		{
+			"author": "by Tim Miller",
+			"description": "The former Republican political operative assesses why some centrist conservatives fell under the sway of Donald Trump.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063161474.jpg",
+			"name": "WHY WE DID IT",
+			"publisher": "Harper",
+			"rank": 2
+		},
+		{
+			"author": "by Bessel van der Kolk",
+			"description": "How trauma affects the body and mind, and innovative treatments for recovery.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780670785933.jpg",
+			"name": "THE BODY KEEPS THE SCORE",
+			"publisher": "Penguin",
+			"rank": 3
+		},
+		{
+			"author": "by David Sedaris",
+			"description": "The humorist portrays personal and public upheavals of his life in its seventh decade and the world in the time of a pandemic.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316392457.jpg",
+			"name": "HAPPY-GO-LUCKY",
+			"publisher": "Little, Brown",
+			"rank": 4
+		},
+		{
+			"author": "by Ed Yong",
+			"description": "The Pulitzer Prize\u2013winning science writer explains the sensory perceptions and ways of communication used by a variety of animals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593133231.jpg",
+			"name": "AN IMMENSE WORLD",
+			"publisher": "Random House",
+			"rank": 5
+		},
+		{
+			"author": "by Viola Davis",
+			"description": "The multiple award-winning actress describes the difficulties she encountered before claiming her sense of self and achieving professional success.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063037328.jpg",
+			"name": "FINDING ME",
+			"publisher": "HarperOne",
+			"rank": 6
+		},
+		{
+			"author": "by Patrick Radden Keefe",
+			"description": "A dozen articles, previously published in The New Yorker, which include profiles of a black-market arms merchant, a whistle-blower and the late Anthony Bourdain.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385548519.jpg",
+			"name": "ROGUES",
+			"publisher": "Doubleday",
+			"rank": 7
+		},
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "The 11th book in the conservative commentator\u2019s Killing series gives an account of the global war against terrorists.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250279255.jpg",
+			"name": "KILLING THE KILLERS",
+			"publisher": "St. Martin's",
+			"rank": 8
+		},
+		{
+			"author": "by Michelle Zauner",
+			"description": "The daughter of a Korean mother and Jewish-American father, and leader of the indie rock project Japanese Breakfast, describes creating her own identity after losing her mother to cancer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525657743.jpg",
+			"name": "CRYING IN H MART",
+			"publisher": "Knopf",
+			"rank": 9
+		},
+		{
+			"author": "by Peter Zeihan",
+			"description": "A look at potential changes in globalization.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063230477.jpg",
+			"name": "THE END OF THE WORLD IS JUST THE BEGINNING",
+			"publisher": "Harper Business",
+			"rank": 10
+		},
+		{
+			"author": "by James Patterson",
+			"description": "The author\u2019s life, from growing up in small-town New York to working in the advertising industry to becoming a successful storyteller.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316397537.jpg",
+			"name": "JAMES PATTERSON",
+			"publisher": "Little, Brown",
+			"rank": 11
+		},
+		{
+			"author": "by Tom Segura",
+			"description": "The stand-up comedian and podcaster shares stories of parenting and strange encounters.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538704639.jpg",
+			"name": "I'D LIKE TO PLAY ALONE, PLEASE",
+			"publisher": "Grand Central",
+			"rank": 12
+		},
+		{
+			"author": "by Robin Wall Kimmerer",
+			"description": "A botanist and member of the Citizen Potawatomi Nation espouses having an understanding and appreciation of plants and animals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781571313560.jpg",
+			"name": "BRAIDING SWEETGRASS",
+			"publisher": "Milkweed Editions",
+			"rank": 13
+		},
+		{
+			"author": "by Kristi Noem",
+			"description": "The governor of South Dakota chronicles running her family\u2019s farm and ranch, and her time in office.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538707050.jpg",
+			"name": "NOT MY FIRST RODEO",
+			"publisher": "Twelve",
+			"rank": 14
+		},
+		{
+			"author": "by Tim Kennedy and Nick Palmisciano",
+			"description": "The Green Beret and former mixed martial arts fighter describes how his failures shaped who he is today.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982190910.jpg",
+			"name": "SCARS AND STRIPES",
+			"publisher": "Atria",
+			"rank": 15
+		}
+	]
+}

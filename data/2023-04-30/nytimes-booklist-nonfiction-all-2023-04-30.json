@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Peter Attia with Bill Gifford",
+			"description": "A look at recent scientific research on aging and longevity.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593236598.jpg",
+			"name": "OUTLIVE",
+			"publisher": "Harmony",
+			"rank": 1
+		},
+		{
+			"author": "by Bessel van der Kolk",
+			"description": "How trauma affects the body and mind, and innovative treatments for recovery.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780670785933.jpg",
+			"name": "THE BODY KEEPS THE SCORE",
+			"publisher": "Penguin",
+			"rank": 2
+		},
+		{
+			"author": "by Michelle Zauner",
+			"description": "The daughter of a Korean mother and Jewish American father, and leader of the indie rock project Japanese Breakfast, describes creating her own identity after losing her mother to cancer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525657743.jpg",
+			"name": "CRYING IN H MART",
+			"publisher": "Vintage",
+			"rank": 3
+		},
+		{
+			"author": "by Jennette McCurdy",
+			"description": "The actress and filmmaker describes her eating disorders and difficult relationship with her mother.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982185824.jpg",
+			"name": "I'M GLAD MY MOM DIED",
+			"publisher": "Simon & Schuster",
+			"rank": 4
+		},
+		{
+			"author": "by Maggie Smith",
+			"description": "The poet explores her love for her children and commitment to herself after the end of her marriage.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982185855.jpg",
+			"name": "YOU COULD MAKE THIS PLACE BEAUTIFUL",
+			"publisher": "Atria/One Signal",
+			"rank": 5
+		},
+		{
+			"author": "by Prince Harry",
+			"description": "The Duke of Sussex details his struggles with the royal family, loss of his mother, service in the British Army and marriage to Meghan Markle.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593593806.jpg",
+			"name": "SPARE",
+			"publisher": "Random House",
+			"rank": 6
+		},
+		{
+			"author": "by Matthew Desmond",
+			"description": "The Pulitzer Prize-winning author of \u201cEvicted\u201d examines the ways in which affluent Americans keep poor people poor.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593239919.jpg",
+			"name": "POVERTY, BY AMERICA",
+			"publisher": "Crown",
+			"rank": 7
+		},
+		{
+			"author": "by Katie Porter",
+			"description": "The Democratic congresswoman from California describes challenges she faced before and during her time in office.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593443989.jpg",
+			"name": "I SWEAR",
+			"publisher": "Crown",
+			"rank": 8
+		},
+		{
+			"author": "by Mary Louise Kelly",
+			"description": "The cohost of NPR\u2019s \u201cAll Things Considered\u201d reflects on the period of time when her father died and her older son would soon leave for college.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250859853.jpg",
+			"name": "IT. GOES. SO. FAST.",
+			"publisher": "Holt",
+			"rank": 9
+		},
+		{
+			"author": "by Thomas Hertog",
+			"description": "The cosmologist shares a theory, which he posited with Stephen Hawking, that gives a Darwinian perspective on the origins of our universe.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593128442.jpg",
+			"name": "ON THE ORIGIN OF TIME",
+			"publisher": "Bantam",
+			"rank": 10
+		},
+		{
+			"author": "by Matthew McConaughey",
+			"description": "The Academy Award-winning actor shares snippets from the diaries he kept over the last 35 years.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593139134.jpg",
+			"name": "GREENLIGHTS",
+			"publisher": "Crown",
+			"rank": 11
+		},
+		{
+			"author": "by Mike Greenberg with Paul Hembekides",
+			"description": "The ESPN host partners with his producer to create their list of top 100 sports legends.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781368073561.jpg",
+			"name": "GOT YOUR NUMBER",
+			"publisher": "Hyperion Avenue",
+			"rank": 12
+		},
+		{
+			"author": "by Timothy Egan",
+			"description": "The Pulitzer and National Book Award-winning author details the Ku Klux Klan's rise to the height of its power in the 1920s and how one brutalized woman\u2019s testimony diminished it.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735225268.jpg",
+			"name": "A FEVER IN THE HEARTLAND",
+			"publisher": "Viking",
+			"rank": 13
+		},
+		{
+			"author": "by bell hooks",
+			"description": "The late feminist icon explores the causes of a polarized society and the meaning of love.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780060959470.jpg",
+			"name": "ALL ABOUT LOVE",
+			"publisher": "Morrow",
+			"rank": 14
+		},
+		{
+			"author": "by Robin Wall Kimmerer",
+			"description": "A botanist and member of the Citizen Potawatomi Nation espouses having an understanding and appreciation of plants and animals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781571313560.jpg",
+			"name": "BRAIDING SWEETGRASS",
+			"publisher": "Milkweed Editions",
+			"rank": 15
+		}
+	]
+}

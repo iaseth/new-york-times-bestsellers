@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "Major events and battles during the Revolutionary War are told from the perspectives of George Washington, Benjamin Franklin and others.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781627790642.jpg",
+			"name": "KILLING ENGLAND",
+			"publisher": "Holt",
+			"rank": 1
+		},
+		{
+			"author": "by Hillary Clinton",
+			"description": "The first woman nominated for president by a major political party details her campaign, mistakes she made, outside forces that affected the outcome and how she recovered in its aftermath.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501175565.jpg",
+			"name": "WHAT HAPPENED",
+			"publisher": "Simon & Schuster",
+			"rank": 2
+		},
+		{
+			"author": "by Katy Tur",
+			"description": "The NBC News correspondent describes her work covering the 2016 campaign of the Republican nominee for president and his behavior toward her.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062684929.jpg",
+			"name": "UNBELIEVABLE",
+			"publisher": "Dey St.",
+			"rank": 3
+		},
+		{
+			"author": "by Satya Nadella with Greg Shaw and Jill Tracie Nichols",
+			"description": "Microsoft's chief executive discusses changes at the company, advancements in technology and the importance of empathy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062652508.jpg",
+			"name": "HIT REFRESH",
+			"publisher": "Harper Business",
+			"rank": 4
+		},
+		{
+			"author": "by Neil deGrasse Tyson",
+			"description": "A straightforward, easy-to-understand introduction to the laws that govern the universe.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780393609394.jpg",
+			"name": "ASTROPHYSICS FOR PEOPLE IN A HURRY",
+			"publisher": "Norton",
+			"rank": 5
+		},
+		{
+			"author": "by Jeannette Walls",
+			"description": "The author recalls a bizarre childhood. Originally published in 2005 and the basis of the movie.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780743247542.jpg",
+			"name": "THE GLASS CASTLE",
+			"publisher": "Scribner",
+			"rank": 6
+		},
+		{
+			"author": "by Jonathan Cahn",
+			"description": "Ancient figures from the Middle East are used to explain the rise and fall of contemporary leaders and events.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781629994765.jpg",
+			"name": "THE PARADIGM",
+			"publisher": "FrontLine",
+			"rank": 7
+		},
+		{
+			"author": "by J.D. Vance",
+			"description": "A Yale Law School graduate looks at the struggles of the white working class through the story of his own childhood.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062300560.jpg",
+			"name": "HILLBILLY ELEGY",
+			"publisher": "HarperCollins",
+			"rank": 8
+		},
+		{
+			"author": "by Gucci Mane with Neil Martinez-Belkin",
+			"description": "A memoir by the East Atlanta hip-hop artist, who made a comeback after setbacks that included doing time in a maximum-security federal prison.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501165320.jpg",
+			"name": "THE AUTOBIOGRAPHY OF GUCCI MANE",
+			"publisher": "Simon & Schuster",
+			"rank": 9
+		},
+		{
+			"author": "by Sharyl Attkisson",
+			"description": "How political operatives, disinformation and media manipulation influence opinions and how people vote.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062468161.jpg",
+			"name": "THE SMEAR",
+			"publisher": "Harper/HarperCollins",
+			"rank": 10
+		},
+		{
+			"author": "by Douglas Preston",
+			"description": "A frightening search for a lost civilization in the Honduran rain forest.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455540020.jpg",
+			"name": "THE LOST CITY OF THE MONKEY GOD",
+			"publisher": "Grand Central",
+			"rank": 11
+		},
+		{
+			"author": "by Al Franken",
+			"description": "A memoir by the Democratic senator from Minnesota and former \u201cSaturday Night Live\u201d writer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455540419.jpg",
+			"name": "AL FRANKEN, GIANT OF THE SENATE",
+			"publisher": "Twelve",
+			"rank": 12
+		},
+		{
+			"author": "by David Grann",
+			"description": "The story of a murder spree in 1920s Oklahoma that targeted Osage Indians, whose lands contained oil.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385534246.jpg",
+			"name": "KILLERS OF THE FLOWER MOON",
+			"publisher": "Doubleday",
+			"rank": 13
+		},
+		{
+			"author": "by Denise Kiernan",
+			"description": "The story of Biltmore House, the largest mansion ever built in the United States, and the Vanderbilt family members who lived there.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476794044.jpg",
+			"name": "THE LAST CASTLE",
+			"publisher": "Touchstone",
+			"rank": 14
+		},
+		{
+			"author": "by Kurt Andersen",
+			"description": "The politics and culture of 21st-century America are put in the context of five centuries of historical events and movements, including elements of conspiracy theories, crackpot ideas and hucksterism.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400067213.jpg",
+			"name": "FANTASYLAND",
+			"publisher": "Random House",
+			"rank": 15
+		}
+	]
+}

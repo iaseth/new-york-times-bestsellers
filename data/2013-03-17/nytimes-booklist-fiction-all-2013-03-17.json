@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by J. D. Robb",
+			"description": "Lt. Eve Dallas must crunch the numbers as she investigates the death of a successful accountant; by Nora Roberts, writing pseudonymously.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101609248.jpg",
+			"name": "CALCULATED IN DEATH",
+			"publisher": "Penguin Group",
+			"rank": 1
+		},
+		{
+			"author": "by Jodi Picoult",
+			"description": "A New Hampshire baker finds herself in the midst of two Holocaust stories: her grandmother\u2019s story of survival, and the confessions of an elderly German man, an SS officer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781439149706.jpg",
+			"name": "THE STORYTELLER",
+			"publisher": "Simon & Schuster",
+			"rank": 2
+		},
+		{
+			"author": "by James Patterson",
+			"description": "While Alex Cross pursues a Washington serial killer (or killers?), someone is after him.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316097529.jpg",
+			"name": "ALEX CROSS, RUN",
+			"publisher": "Little, Brown & Company",
+			"rank": 3
+		},
+		{
+			"author": "by Nicholas Sparks",
+			"description": "The arrival of a mysterious young woman in a small North Carolina town raises questions about her past.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455523542.jpg",
+			"name": "SAFE HAVEN",
+			"publisher": "Grand Central Publishing",
+			"rank": 4
+		},
+		{
+			"author": "by Gillian Flynn",
+			"description": "A woman disappears on the day of her fifth anniversary; is her husband a killer?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307588388.jpg",
+			"name": "GONE GIRL",
+			"publisher": "Crown Publishing",
+			"rank": 5
+		},
+		{
+			"author": "by Matthew Quick",
+			"description": "A man recently released from a mental institution has two obsessions: his estranged wife and the Philadelphia Eagles. The basis of the movie; originally published in 2009.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780374533571.jpg",
+			"name": "THE SILVER LININGS PLAYBOOK",
+			"publisher": "Farrar, Straus & Giroux",
+			"rank": 6
+		},
+		{
+			"author": "by Maeve Binchy",
+			"description": "Guests at an inn by the sea on Ireland\u2019s west coast; the final book by Binchy, who died in 2012.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307273574.jpg",
+			"name": "A WEEK IN WINTER",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 7
+		},
+		{
+			"author": "by Lynsay Sands",
+			"description": "Valerie Moyer doesn\u2019t believe in vampires \u2014 until she is kidnapped by a fanged psychopath.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062078124.jpg",
+			"name": "IMMORTAL EVER AFTER",
+			"publisher": "HarperCollins Publishers",
+			"rank": 8
+		},
+		{
+			"author": "by Yann Martel",
+			"description": "A teenage boy and a 450-pound tiger on a lifeboat after a shipwreck; originally published in 2002 and now a movie.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780156027328.jpg",
+			"name": "LIFE OF PI",
+			"publisher": "Houghton Mifflin Harcourt",
+			"rank": 9
+		},
+		{
+			"author": "by E. L. James",
+			"description": "A college student falls in love with a tortured man with particular sexual tastes; the first of a trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345803481.jpg",
+			"name": "FIFTY SHADES OF GREY",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 10
+		},
+		{
+			"author": "by Elisabeth Naughton",
+			"description": "As she digs into her past, a woman who has lost her memory in an accident is drawn to a man in San Francisco.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780985671952.jpg",
+			"name": "WAIT FOR ME",
+			"publisher": "Elisabeth Naughton",
+			"rank": 11
+		},
+		{
+			"author": "by Sandra Brown",
+			"description": "An airplane accident and plastic surgery give a woman an astonishing new life; originally published in 1990.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455546343.jpg",
+			"name": "MIRROR IMAGE",
+			"publisher": "Grand Central Publishing",
+			"rank": 12
+		},
+		{
+			"author": "by Abbi Glines",
+			"description": "A sheltered 19-year-old girl falls in love with her spoiled, sexy stepbrother.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/A00B00AOTGI08.jpg",
+			"name": "FALLEN TOO FAR",
+			"publisher": "Abbi Glines",
+			"rank": 13
+		},
+		{
+			"author": "by Maya Banks",
+			"description": "Gabe Hamilton, a wealthy hotel owner, and Mia Crestwell, the much younger sister of his best friend, embark on an obsessive relationship.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780425267042.jpg",
+			"name": "RUSH",
+			"publisher": "Penguin Group",
+			"rank": 14
+		},
+		{
+			"author": "by E. L. James",
+			"description": "The final book in an erotic trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781612130606.jpg",
+			"name": "FIFTY SHADES FREED",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 15
+		}
+	]
+}

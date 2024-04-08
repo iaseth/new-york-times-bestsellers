@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Todd Burpo with Lynn Vincent",
+			"description": "A father recounts his 3-year-old son\u2019s encounter with Jesus and the angels during an appendectomy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780849949203.jpg",
+			"name": "HEAVEN IS FOR REAL",
+			"publisher": "Thomas Nelson",
+			"rank": 1
+		},
+		{
+			"author": "by Tina Fey",
+			"description": "A memoir from the former Saturday Night Live star and creator of \u201c30 Rock.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316056892.jpg",
+			"name": "BOSSYPANTS",
+			"publisher": "Little, Brown",
+			"rank": 2
+		},
+		{
+			"author": "by Rob Lowe",
+			"description": "The actor charts his professional path, from teen idol to \u201cThe West Wing.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250008855.jpg",
+			"name": "STORIES I ONLY TELL MY FRIENDS",
+			"publisher": "Holt",
+			"rank": 3
+		},
+		{
+			"author": "by Laura Hillenbrand",
+			"description": "An Olympic runner\u2019s story of survival as a prisoner of the Japanese in World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400064168.jpg",
+			"name": "UNBROKEN",
+			"publisher": "Random House",
+			"rank": 4
+		},
+		{
+			"author": "by Rebecca Skloot",
+			"description": "The story of a woman whose cancer cells were extensively cultured without her permission in 1951.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400052189.jpg",
+			"name": "THE IMMORTAL LIFE OF HENRIETTA LACKS",
+			"publisher": "Crown",
+			"rank": 5
+		},
+		{
+			"author": "by David Brooks",
+			"description": "Brooks creates two imaginary people, Harold and Erica, to illustrate his understanding of the human mind, the wellsprings of action and the causes of success and failure.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400067602.jpg",
+			"name": "THE SOCIAL ANIMAL",
+			"publisher": "Random House",
+			"rank": 6
+		},
+		{
+			"author": "by Diana B. Henriques",
+			"description": "A New York Times financial writer details the story of Bernard Madoff, from his rise on Wall Street to his conviction for creating a $65 billion Ponzi scheme.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781429973717.jpg",
+			"name": "THE WIZARD OF LIES",
+			"publisher": "Holt",
+			"rank": 7
+		},
+		{
+			"author": "by Ashley Judd with Maryanne Vollers",
+			"description": "A memoir by the actress and humanitarian.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345523617.jpg",
+			"name": "ALL THAT IS BITTER AND SWEET",
+			"publisher": "Random House",
+			"rank": 8
+		},
+		{
+			"author": "by Ron Paul",
+			"description": "The Texas congressman examines 50 controversial issues.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455501458.jpg",
+			"name": "LIBERTY DEFINED",
+			"publisher": "Grand Central",
+			"rank": 9
+		},
+		{
+			"author": "by Howard Schultz with Joanne Gordon",
+			"description": "Schultz tells of his second stint as the C.E.O. of Starbucks and how he helped return the company to profitability.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781609613464.jpg",
+			"name": "ONWARD",
+			"publisher": "Rodale",
+			"rank": 10
+		},
+		{
+			"author": "by Christopher McDougall",
+			"description": "Secrets of distance running from a Mexican Indian tribe.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307271914.jpg",
+			"name": "BORN TO RUN",
+			"publisher": "Knopf Doubleday",
+			"rank": 11
+		},
+		{
+			"author": "by Darell Hammond",
+			"description": "Hammond describes how he created Kaboom, a nonprofit that provides communities with the resources to build playgrounds.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781605290751.jpg",
+			"name": "KABOOM!",
+			"publisher": "Rodale",
+			"rank": 12
+		},
+		{
+			"author": "by Shirley MacLaine",
+			"description": "The actress offers observations on what remains important to her.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451607291.jpg",
+			"name": "I'M OVER ALL THAT",
+			"publisher": "Simon & Schuster",
+			"rank": 13
+		},
+		{
+			"author": "by Siddhartha Mukherjee",
+			"description": "An oncologist\u2019s history of cancer and its treatment covers both the eureka moments and the decades of despair.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781439170915.jpg",
+			"name": "THE EMPEROR OF ALL MALADIES",
+			"publisher": "Simon & Schuster",
+			"rank": 14
+		},
+		{
+			"author": "by Adam Goodheart",
+			"description": "A historian examines the months between Lincoln\u2019s election in 1860 and July 4, 1861, when he delivered his first message to Congress.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307596666.jpg",
+			"name": "1861",
+			"publisher": "Knopf Doubleday",
+			"rank": 15
+		}
+	]
+}

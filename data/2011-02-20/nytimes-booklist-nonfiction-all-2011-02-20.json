@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Laura Hillenbrand",
+			"description": "An Olympic runner\u2019s story of survival as a prisoner of the Japanese in World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400064168.jpg",
+			"name": "UNBROKEN",
+			"publisher": "Random House",
+			"rank": 1
+		},
+		{
+			"author": "by Todd Burpo with Lynn Vincent",
+			"description": "A father recounts his 3-year-old son\u2019s encounter with Jesus and the angels during an emergency appendectomy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780849949203.jpg",
+			"name": "HEAVEN IS FOR REAL",
+			"publisher": "Thomas Nelson",
+			"rank": 2
+		},
+		{
+			"author": "by Ree Drummond",
+			"description": "The proprietor of ThePioneerWoman.com describes her marriage, or, as she puts it, her transition from \u201cblack heels to tractor wheels.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062084330.jpg",
+			"name": "THE PIONEER WOMAN",
+			"publisher": "HarperCollins",
+			"rank": 3
+		},
+		{
+			"author": "by Amy Chua",
+			"description": "A Chinese-American mother makes a case for strict and demanding parenting.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594202841.jpg",
+			"name": "BATTLE HYMN OF THE TIGER MOTHER",
+			"publisher": "Penguin Group",
+			"rank": 4
+		},
+		{
+			"author": "by George W. Bush",
+			"description": "The former president\u2019s memoir discusses his Christianity and the end of his drinking; his relationships with members of his family; and critical White House decisions on 9/11, Iraq and Katrina.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307590619.jpg",
+			"name": "DECISION POINTS",
+			"publisher": "Crown",
+			"rank": 5
+		},
+		{
+			"author": "by Michael Lewis",
+			"description": "The people who saw the real estate crash coming and made billions from their foresight.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780393072235.jpg",
+			"name": "THE BIG SHORT",
+			"publisher": "Norton",
+			"rank": 6
+		},
+		{
+			"author": "by Stacy Schiff",
+			"description": "This biography portrays the Macedonian-Egyptian queen in all her ambition, audacity and formidable intelligence.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316001946.jpg",
+			"name": "CLEOPATRA",
+			"publisher": "Little, Brown",
+			"rank": 7
+		},
+		{
+			"author": "by Rebecca Skloot",
+			"description": "The story of a woman whose cancer cells were extensively cultured without her permission in 1951.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400052189.jpg",
+			"name": "THE IMMORTAL LIFE OF HENRIETTA LACKS",
+			"publisher": "Crown",
+			"rank": 8
+		},
+		{
+			"author": "by Alexandra Horowitz",
+			"description": "What the world is like from a dog\u2019s point of view.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781416583431.jpg",
+			"name": "INSIDE OF A DOG",
+			"publisher": "Simon & Schuster",
+			"rank": 9
+		},
+		{
+			"author": "by Brian Greene",
+			"description": "A physicist explains various theories involving the existence of parallel universes.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307595256.jpg",
+			"name": "THE HIDDEN REALITY",
+			"publisher": "Knopf Doubleday",
+			"rank": 10
+		},
+		{
+			"author": "by Jeannette Walls",
+			"description": "The author recalls a bizarre childhood during which she and her siblings were constantly moved from place to place.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780743247542.jpg",
+			"name": "THE GLASS CASTLE",
+			"publisher": "Simon & Schuster",
+			"rank": 11
+		},
+		{
+			"author": "by Justin Halpern",
+			"description": "A coming-of-age memoir organized around the musings, purveyed on Twitter, of the author\u2019s father.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062002945.jpg",
+			"name": "_____ MY DAD SAYS",
+			"publisher": "HarperCollins",
+			"rank": 12
+		},
+		{
+			"author": "by Keith Richards with James Fox",
+			"description": "The Rolling Stones guitarist\u2019s revealing autobiography is also a portrait of the era when rock \u2019n\u2019 roll came of age.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316128568.jpg",
+			"name": "LIFE",
+			"publisher": "Little, Brown",
+			"rank": 13
+		},
+		{
+			"author": "by Elizabeth Gilbert",
+			"description": "The author of \u201cEat, Pray, Love\u201d overcomes her ambivalence about marriage.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101189832.jpg",
+			"name": "COMMITTED",
+			"publisher": "Penguin Group",
+			"rank": 14
+		},
+		{
+			"author": "by Mark Twain",
+			"description": "In his autobiography, published unexpurgated for the first time, Twain is pointedly political and willing to play the angry prophet.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780520267190.jpg",
+			"name": "AUTOBIOGRAPHY OF MARK TWAIN, VOL. 1",
+			"publisher": "University of California",
+			"rank": 15
+		}
+	]
+}

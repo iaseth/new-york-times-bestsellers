@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Bruce Springsteen",
+			"description": "The singer-songwriter's autobiography.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501141539.jpg",
+			"name": "BORN TO RUN",
+			"publisher": "Simon & Schuster",
+			"rank": 1
+		},
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "The host of \u201cThe O\u2019Reilly Factor\u201d recounts the final years of World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781627790635.jpg",
+			"name": "KILLING THE RISING SUN",
+			"publisher": "Holt",
+			"rank": 2
+		},
+		{
+			"author": "by J.D. Vance",
+			"description": "A Yale Law School graduate looks at the struggles of the white working class through the story of his own childhood in the Rust Belt.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062300560.jpg",
+			"name": "HILLBILLY ELEGY",
+			"publisher": "HarperCollins",
+			"rank": 3
+		},
+		{
+			"author": "by Glennon Doyle Melton",
+			"description": "After her husband confesses to multiple infidelities, a woman struggles to grow \u2014 and so does he.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250075741.jpg",
+			"name": "LOVE WARRIOR",
+			"publisher": "Flatiron",
+			"rank": 4
+		},
+		{
+			"author": "by Amy Schumer",
+			"description": "Humorous personal essays by the comedian, actor and writer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501139901.jpg",
+			"name": "THE GIRL WITH THE LOWER BACK TATTOO",
+			"publisher": "Gallery Books",
+			"rank": 5
+		},
+		{
+			"author": "by Carli Lloyd with Wayne Coffey",
+			"description": "How the champion soccer player turned her career around in 2003.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780544814554.jpg",
+			"name": "WHEN NOBODY WAS WATCHING",
+			"publisher": "Houghton Mifflin Harcourt",
+			"rank": 6
+		},
+		{
+			"author": "by Candice Millard",
+			"description": "The young Winston Churchill\u2019s adventures in Africa during the Boer War, including an escape from captivity in 1899.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385535748.jpg",
+			"name": "HERO OF THE EMPIRE",
+			"publisher": "Doubleday",
+			"rank": 7
+		},
+		{
+			"author": "by Ron Chernow",
+			"description": "A biography of the first Treasury secretary. Originally published in 2004 and the basis of the Broadway musical.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780143034759.jpg",
+			"name": "ALEXANDER HAMILTON",
+			"publisher": "Penguin",
+			"rank": 8
+		},
+		{
+			"author": "by Paul Kalanithi",
+			"description": "A memoir by a physician who received a diagnosis of Stage IV lung cancer at the age of 36.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812988413.jpg",
+			"name": "WHEN BREATH BECOMES AIR",
+			"publisher": "Random House",
+			"rank": 9
+		},
+		{
+			"author": "by Daniel James Brown",
+			"description": "The University of Washington\u2019s eight-oar crew and their quest for gold at the 1936 Berlin Olympics.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101622742.jpg",
+			"name": "THE BOYS IN THE BOAT",
+			"publisher": "Penguin",
+			"rank": 10
+		},
+		{
+			"author": "by Volker Ullrich",
+			"description": "A new biography focuses on Hitler the man.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385354387.jpg",
+			"name": "HITLER: ASCENT 1889-1939",
+			"publisher": "Knopf",
+			"rank": 11
+		},
+		{
+			"author": "by Elizabeth Vargas",
+			"description": "The co-anchor of \u201cWorld News Tonight\u201d and \u201c20/20\u201d describes her long struggle with acute anxiety.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455559640.jpg",
+			"name": "BETWEEN BREATHS",
+			"publisher": "Grand Central",
+			"rank": 12
+		},
+		{
+			"author": "by Michael Savage",
+			"description": "The radio host discusses what will happen after the administration of \u201cPresident Maobama.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455568246.jpg",
+			"name": "SCORCHED EARTH",
+			"publisher": "Center Street",
+			"rank": 13
+		},
+		{
+			"author": "by Lin-Manuel Miranda and Jeremy McCarter",
+			"description": "The libretto of the Grammy-, Tony- and Pulitzer Prize-winning musical, annotated by its creator, along with backstage photos and interviews with the cast.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455567539.jpg",
+			"name": "HAMILTON: THE REVOLUTION",
+			"publisher": "Grand Central/Melcher Media",
+			"rank": 14
+		},
+		{
+			"author": "by Stacy Schiff",
+			"description": "An account of the Salem witch trials of 1692.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316200615.jpg",
+			"name": "THE WITCHES",
+			"publisher": "Little, Brown",
+			"rank": 15
+		}
+	]
+}

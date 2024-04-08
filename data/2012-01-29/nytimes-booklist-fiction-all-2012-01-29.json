@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Stieg Larsson",
+			"description": "A hacker and a journalist investigate the disappearance of a Swedish heiress 40 years earlier.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307949486.jpg",
+			"name": "THE GIRL WITH THE DRAGON TATTOO",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 1
+		},
+		{
+			"author": "by Kathryn Stockett",
+			"description": "A young white woman and two black maids in 1960s Mississippi.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781440697661.jpg",
+			"name": "THE HELP",
+			"publisher": "Penguin Group",
+			"rank": 2
+		},
+		{
+			"author": "by Elizabeth George",
+			"description": "Inspector Thomas Lynley\u2019s investigation of a murder unearths the secrets of a wealthy clan.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525952589.jpg",
+			"name": "BELIEVING THE LIE",
+			"publisher": "Penguin Group",
+			"rank": 3
+		},
+		{
+			"author": "by Stieg Larsson",
+			"description": "In Volume 2 of the Millennium trilogy, a Swedish hacker becomes a murder suspect.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307476159.jpg",
+			"name": "THE GIRL WHO PLAYED WITH FIRE",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 4
+		},
+		{
+			"author": "by Jonathan Safran Foer",
+			"description": "A 9-year-old boy searches New York City for the lock that fits a key belonging to his father, who died on Sept. 11.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780618711659.jpg",
+			"name": "EXTREMELY LOUD AND INCREDIBLY CLOSE",
+			"publisher": "Houghton Mifflin Harcourt Publishing",
+			"rank": 5
+		},
+		{
+			"author": "by James Patterson and Maxine Paetro",
+			"description": "Jack Morgan, the head of an investigative firm, is accused of murder.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316097413.jpg",
+			"name": "PRIVATE: #1 SUSPECT",
+			"publisher": "Grand Central Publishing",
+			"rank": 6
+		},
+		{
+			"author": "by Kresley Cole",
+			"description": "A ruthless vampire captures a young mortal woman, intending to sacrifice her, but is torn when he falls in love.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781439177020.jpg",
+			"name": "LOTHAIRE",
+			"publisher": "Simon & Schuster",
+			"rank": 7
+		},
+		{
+			"author": "by Stephen King",
+			"description": "An English teacher travels back to 1958 by way of a time portal in a Maine diner. His assignment is to stop Lee Harvey Oswald.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451627299.jpg",
+			"name": "11/22/63",
+			"publisher": "Scribner",
+			"rank": 8
+		},
+		{
+			"author": "by Lisa Gardner",
+			"description": "D.D. Warren, a Boston detective in her seventh month of pregnancy, faces unexpected dangers as a consultant on a film about a serial killer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101572528.jpg",
+			"name": "THE 7TH MONTH",
+			"publisher": "Dutton",
+			"rank": 9
+		},
+		{
+			"author": "by Stieg Larsson",
+			"description": "Volume 3 of the Millennium trilogy, about a Swedish hacker and a journalist.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307593672.jpg",
+			"name": "THE GIRL WHO KICKED THE HORNET\u2019S NEST",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 10
+		},
+		{
+			"author": "by John Grisham",
+			"description": "Partners in a small law firm take on a big case after a fast-track burnout joins them.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385535137.jpg",
+			"name": "THE LITIGATORS",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 11
+		},
+		{
+			"author": "by Jayne Ann Krentz",
+			"description": "Amy Radwell, who can understand the paranormal secrets in rare books, becomes the target of a blackmailer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101554289.jpg",
+			"name": "COPPER BEACH",
+			"publisher": "Penguin Group",
+			"rank": 12
+		},
+		{
+			"author": "by James Patterson",
+			"description": "Alex Cross investigates when the president\u2019s children are kidnapped, but the F.BI. and C.I.A. interfere.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455510207.jpg",
+			"name": "KILL ALEX CROSS",
+			"publisher": "Little, Brown & Company",
+			"rank": 13
+		},
+		{
+			"author": "by Douglas Preston and Lincoln Child",
+			"description": "Gideon Crew works to avoid a threatened terrorist attack on an American city.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780446564373.jpg",
+			"name": "GIDEON\u2019S CORPSE",
+			"publisher": "Grand Central Publishing",
+			"rank": 14
+		},
+		{
+			"author": "by Michael Connelly",
+			"description": "Harry Bosch of the L.A.P.D. uncovers both the operations of a sadistic killer and a political conspiracy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455518982.jpg",
+			"name": "THE DROP",
+			"publisher": "Little, Brown & Company",
+			"rank": 15
+		}
+	]
+}

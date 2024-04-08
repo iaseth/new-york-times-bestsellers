@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Ron Chernow",
+			"description": "A biography of the Union general of the Civil War and two-term president of the United States.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594204876.jpg",
+			"name": "GRANT",
+			"publisher": "Penguin Press",
+			"rank": 1
+		},
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "Major events and battles during the Revolutionary War are told from several perspectives.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781627790642.jpg",
+			"name": "KILLING ENGLAND",
+			"publisher": "Holt",
+			"rank": 2
+		},
+		{
+			"author": "by Hillary Clinton",
+			"description": "An inside look at her campaign, mistakes she made, outside forces that affected the outcome and how she recovered in its aftermath.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501175565.jpg",
+			"name": "WHAT HAPPENED",
+			"publisher": "Simon & Schuster",
+			"rank": 3
+		},
+		{
+			"author": "by Ta-Nehisi Coates",
+			"description": "A series of essays that cover each year of the Obama administration, the writer's own journey and the echoes of American history in modern times.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399590566.jpg",
+			"name": "WE WERE EIGHT YEARS IN POWER",
+			"publisher": "One World",
+			"rank": 4
+		},
+		{
+			"author": "by Neil deGrasse Tyson",
+			"description": "A straightforward, easy-to-understand introduction to the laws that govern the universe.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780393609394.jpg",
+			"name": "ASTROPHYSICS FOR PEOPLE IN A HURRY",
+			"publisher": "Norton",
+			"rank": 5
+		},
+		{
+			"author": "by J.D. Vance",
+			"description": "A Yale Law School graduate looks at the struggles of the white working class through the story of his own childhood.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062300560.jpg",
+			"name": "HILLBILLY ELEGY",
+			"publisher": "HarperCollins",
+			"rank": 6
+		},
+		{
+			"author": "by Esther Perel",
+			"description": "An overview of the causes of infidelity and potential positive outcomes.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062322586.jpg",
+			"name": "THE STATE OF AFFAIRS",
+			"publisher": "Harper",
+			"rank": 7
+		},
+		{
+			"author": "by Katy Tur",
+			"description": "The NBC News correspondent describes her work covering the 2016 campaign of the Republican nominee for president and his behavior toward her.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062684929.jpg",
+			"name": "UNBELIEVABLE",
+			"publisher": "Dey St.",
+			"rank": 8
+		},
+		{
+			"author": "edited by Bandy X. Lee",
+			"description": "27 psychiatrists and mental health experts give their assessments of the president.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250179456.jpg",
+			"name": "THE DANGEROUS CASE OF DONALD TRUMP",
+			"publisher": "Thomas Dunne",
+			"rank": 9
+		},
+		{
+			"author": "by Russell Brand",
+			"description": "The actor and comedian describes his various addictions and how he was able to move away from them.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250141927.jpg",
+			"name": "RECOVERY",
+			"publisher": "Holt",
+			"rank": 10
+		},
+		{
+			"author": "by Laura Ingraham",
+			"description": "The conservative radio host gives historical perspective to President Donald J. Trump's agenda.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250150646.jpg",
+			"name": "BILLIONAIRE AT THE BARRICADES",
+			"publisher": "All Points/St. Martin's",
+			"rank": 11
+		},
+		{
+			"author": "by Jeannette Walls",
+			"description": "The author recalls a bizarre childhood. Originally published in 2005 and the basis of the movie.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780743247542.jpg",
+			"name": "THE GLASS CASTLE",
+			"publisher": "Scribner",
+			"rank": 12
+		},
+		{
+			"author": "by Van Jones",
+			"description": "A look at the failures of both major political parties and a call for bipartisan efforts to solve current problems.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399180026.jpg",
+			"name": "BEYOND THE MESSY TRUTH",
+			"publisher": "Ballantine",
+			"rank": 13
+		},
+		{
+			"author": "by Jonathan Cahn",
+			"description": "Ancient figures from the Middle East are used to explain the rise and fall of contemporary leaders and events.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781629994765.jpg",
+			"name": "THE PARADIGM",
+			"publisher": "FrontLine",
+			"rank": 14
+		},
+		{
+			"author": "by Eric Metaxas",
+			"description": "A biography of the monk whose writings sparked the Protestant Reformation.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101980019.jpg",
+			"name": "MARTIN LUTHER",
+			"publisher": "Viking",
+			"rank": 15
+		}
+	]
+}

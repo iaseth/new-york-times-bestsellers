@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by J. R. Ward",
+			"description": "Book 11 of the Black Dagger Brotherhood series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780451239358.jpg",
+			"name": "LOVER AT LAST",
+			"publisher": "Penguin Group",
+			"rank": 1
+		},
+		{
+			"author": "by Stephenie Meyer",
+			"description": "In this first adult novel by the author of the Twilight series for teenagers, aliens have taken control of the minds and bodies of most humans, but one woman won\u2019t surrender; originally published in 2008.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316218504.jpg",
+			"name": "THE HOST",
+			"publisher": "Little, Brown & Company",
+			"rank": 2
+		},
+		{
+			"author": "by Harlan Coben",
+			"description": "Six years after the woman he loved married another man, Jake Fisher discovers that neither she nor their life together were what theyseemed, and he sets out to uncover the truth.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101611029.jpg",
+			"name": "SIX YEARS",
+			"publisher": "Penguin Group",
+			"rank": 3
+		},
+		{
+			"author": "by Robyn Carr",
+			"description": "Hank Cooper inherits a beachfront property in Thunder Point, Ore., and finds himself with a community\u2019s destiny in his hands.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780778314479.jpg",
+			"name": "THE WANDERER",
+			"publisher": "Harlequin",
+			"rank": 4
+		},
+		{
+			"author": "by Jeaniene Frost",
+			"description": "Leila\u2019s psychic abilities have been sputtering, her vampire lover seems distant, and now she\u2019s in the crosshairs of a killer who may be closer than she realizes.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062075833.jpg",
+			"name": "TWICE TEMPTED",
+			"publisher": "HarperCollins Publishers",
+			"rank": 5
+		},
+		{
+			"author": "by Jasinda Wilder",
+			"description": "Years after her boyfriend\u2019s accidental death, Nell Hawthorne encounters his older brother, and they embark on a painful but ultimately healing relationship.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/A00B00BUPMC8C.jpg",
+			"name": "FALLING INTO YOU",
+			"publisher": "Jasinda Wilder",
+			"rank": 6
+		},
+		{
+			"author": "by Elizabeth Strout",
+			"description": "Two brothers, both lawyers, come together in a small Maine town to defend their good-for-nothing nephew; by the Pulitzer Prize-winning author of \u201cOlive Kitteridge.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400067688.jpg",
+			"name": "THE BURGESS BOYS",
+			"publisher": "Random House",
+			"rank": 7
+		},
+		{
+			"author": "by Jodi Picoult",
+			"description": "A New Hampshire baker finds herself in the midst of two Holocaust stories: her grandmother\u2019s story of survival, and the confessions of an elderly German man, an SS officer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781439149706.jpg",
+			"name": "THE STORYTELLER",
+			"publisher": "Simon & Schuster",
+			"rank": 8
+		},
+		{
+			"author": "by James Patterson",
+			"description": "While Alex Cross pursues a Washington serial killer (or killers?), someone is after him.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316097529.jpg",
+			"name": "ALEX CROSS, RUN",
+			"publisher": "Little, Brown & Company",
+			"rank": 9
+		},
+		{
+			"author": "by Gillian Flynn",
+			"description": "A woman disappears on the day of her fifth anniversary; is her husband a killer?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307588388.jpg",
+			"name": "GONE GIRL",
+			"publisher": "Crown Publishing",
+			"rank": 10
+		},
+		{
+			"author": "by Susan Mallery",
+			"description": "Three women on Blackberry Island, bound by the strongest of friendships, are at crucial turning points in their lives.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781460306390.jpg",
+			"name": "THREE SISTERS",
+			"publisher": "Harlequin",
+			"rank": 11
+		},
+		{
+			"author": "by Sherryl Woods",
+			"description": "An emergency brings Emily back home to the North Carolina coast, where the man she once loved \u2014 now a widower with a young son \u2014 longs for a second chance.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780778314363.jpg",
+			"name": "SAND CASTLE BAY",
+			"publisher": "Harlequin",
+			"rank": 12
+		},
+		{
+			"author": "by J. Lynn",
+			"description": "Nineteen-year-old Avery Morgansten hopes she can escape the tragedy in her past when she goes to college, but she begins to receive threats.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780988982901.jpg",
+			"name": "WAIT FOR YOU",
+			"publisher": "HarperCollins Publishers",
+			"rank": 13
+		},
+		{
+			"author": "by  J.A. Redmerski",
+			"description": "A woman impulsively boards a Greyhound bus to start everything afresh, and meets a man with a dark secret.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455548996.jpg",
+			"name": "THE EDGE OF NEVER",
+			"publisher": "Grand Central Publishing",
+			"rank": 14
+		},
+		{
+			"author": "by Jacqueline Winspear",
+			"description": "In 1933, the private investigator Maisie Dobbs helps an Indian man whose sister\u2019s murder has been ignored by Scotland Yard.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062049605.jpg",
+			"name": "LEAVING EVERYTHING MOST LOVED",
+			"publisher": "HarperCollins Publishers",
+			"rank": 15
+		}
+	]
+}

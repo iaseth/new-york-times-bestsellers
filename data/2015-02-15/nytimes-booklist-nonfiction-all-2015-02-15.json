@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Chris Kyle with Scott McEwen and Jim DeFelice",
+			"description": "A former member of the Navy SEALs discusses his battlefield experiences during the Iraq war. Kyle was shot to death in Texas in 2013.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062082374.jpg",
+			"name": "AMERICAN SNIPER",
+			"publisher": "Morrow/HarperCollins",
+			"rank": 1
+		},
+		{
+			"author": "by Laura Hillenbrand",
+			"description": "An Olympic runner\u2019s story of survival as a prisoner of the Japanese in World War II; now a movie.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400064168.jpg",
+			"name": "UNBROKEN",
+			"publisher": "Random House",
+			"rank": 2
+		},
+		{
+			"author": "by Cheryl Strayed",
+			"description": "A woman\u2019s account of a life-changing 1,100-mile hike along the Pacific Crest Trail during the summer of 1995; now a movie.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307476074.jpg",
+			"name": "WILD",
+			"publisher": "Knopf",
+			"rank": 3
+		},
+		{
+			"author": "by Daniel James Brown",
+			"description": "The University of Washington\u2019s eight-oar crew and their quest for gold at the 1936 Berlin Olympics.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101622742.jpg",
+			"name": "THE BOYS IN THE BOAT",
+			"publisher": "Viking",
+			"rank": 4
+		},
+		{
+			"author": "by Atul Gawande",
+			"description": "The surgeon and New Yorker writer considers how doctors fail patients at the end of life, and how they can do better.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780805095159.jpg",
+			"name": "BEING MORTAL",
+			"publisher": "Metropolitan/Holt",
+			"rank": 5
+		},
+		{
+			"author": "by Pat Conroy",
+			"description": "The author describes a year he spent teaching in a two-room schoolhouse on a remote island off South Carolina.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781453203927.jpg",
+			"name": "THE WATER IS WIDE",
+			"publisher": "Open Road",
+			"rank": 6
+		},
+		{
+			"author": "Martin Pistorius with Megan Lloyd Davies",
+			"description": "A South African man learned how to communicate and live a full life despite a mysterious disease that left him mute and in a wheelchair; originally published in 2011.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400205844.jpg",
+			"name": "GHOST BOY",
+			"publisher": "Thomas Nelson",
+			"rank": 7
+		},
+		{
+			"author": "by Nicholas Irving with Gary Brozek",
+			"description": "A memoir by a deadly special operations sniper deployed to Afghanistan.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781466844070.jpg",
+			"name": "THE REAPER",
+			"publisher": "St. Martin's",
+			"rank": 8
+		},
+		{
+			"author": "by Amy Poehler",
+			"description": "A humorous miscellany from the comedian and actress.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062268341.jpg",
+			"name": "YES PLEASE",
+			"publisher": "Dey Street/Morrow",
+			"rank": 9
+		},
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "The host of \u201cThe O\u2019Reilly Factor\u201d recounts the strange death of Gen. George S. Patton in December 1945.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780805096699.jpg",
+			"name": "KILLING PATTON",
+			"publisher": "Holt",
+			"rank": 10
+		},
+		{
+			"author": "by Bob Drury and Tom Clavin",
+			"description": "A biography of the influential Sioux leader Red Cloud.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451654660.jpg",
+			"name": "THE HEART OF EVERYTHING THAT IS",
+			"publisher": "Simon & Schuster",
+			"rank": 11
+		},
+		{
+			"author": "by Laura Ingalls Wilder",
+			"description": "The writer\u2019s autobiography, the source of her Little House on the Prairie books, completed in 1930 and never published, is annotated by a biographer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780984504176.jpg",
+			"name": "PIONEER GIRL",
+			"publisher": "South Dakota State Historical Society Press",
+			"rank": 12
+		},
+		{
+			"author": "by Jill Leovy",
+			"description": "The investigation of a young black man\u2019s murder in 2007 raises questions about race and the criminal justice system.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385530002.jpg",
+			"name": "GHETTOSIDE",
+			"publisher": "Spiegel & Grau",
+			"rank": 13
+		},
+		{
+			"author": "by Deana Martin with Wendy Holden",
+			"description": "A memoir of life as the daughter of Dean Martin.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307538260.jpg",
+			"name": "MEMORIES ARE MADE OF THIS",
+			"publisher": "Three Rivers",
+			"rank": 14
+		},
+		{
+			"author": "by Marcus Luttrell with Patrick Robinson",
+			"description": "The only survivor of a Navy SEALs operation in Afghanistan describes the battle and his escape.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316067607.jpg",
+			"name": "LONE SURVIVOR",
+			"publisher": "Little, Brown",
+			"rank": 15
+		}
+	]
+}

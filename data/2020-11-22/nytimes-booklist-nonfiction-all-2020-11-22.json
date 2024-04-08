@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Sam Heughan and Graham McTavish",
+			"description": "The stars of \u201cOutlander\u201d use various means of travel to explore Scotland.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781529342000.jpg",
+			"name": "CLANLANDS",
+			"publisher": "Mobius",
+			"rank": 1
+		},
+		{
+			"author": "by Matthew McConaughey",
+			"description": "The Academy Award-winning actor shares snippets from the diaries he kept over the last 35 years.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593139134.jpg",
+			"name": "GREENLIGHTS",
+			"publisher": "Crown",
+			"rank": 2
+		},
+		{
+			"author": "by David Sedaris",
+			"description": "A collection of the humorist\u2019s essays including \u201cMe Talk Pretty One Day\u201d and \u201cA Guy Walks Into a Bar Car.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316628242.jpg",
+			"name": "THE BEST OF ME",
+			"publisher": "Little, Brown",
+			"rank": 3
+		},
+		{
+			"author": "by Isabel Wilkerson",
+			"description": "The Pulitzer Prize-winning journalist examines aspects of caste systems across civilizations and reveals a rigid hierarchy in America today.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593230251.jpg",
+			"name": "CASTE",
+			"publisher": "Random House",
+			"rank": 4
+		},
+		{
+			"author": "by Pete Souza",
+			"description": "The former White House photographer juxtaposes pictures of former President Obama with tweets, headlines and quotes from the Trump administration.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316421829.jpg",
+			"name": "SHADE",
+			"publisher": "Voracious/Little, Brown",
+			"rank": 5
+		},
+		{
+			"author": "by Glennon Doyle",
+			"description": "The activist and public speaker describes her journey of listening to her inner voice.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984801258.jpg",
+			"name": "UNTAMED",
+			"publisher": "Dial",
+			"rank": 6
+		},
+		{
+			"author": "by Pete Souza",
+			"description": "More than 300 pictures of the former president by his White House photographer, with behind-the-scenes stories.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316512589.jpg",
+			"name": "OBAMA",
+			"publisher": "Little, Brown",
+			"rank": 7
+		},
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "The ninth book in the conservative commentator\u2019s Killing series focuses on conflicts with Native Americans.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781627797047.jpg",
+			"name": "KILLING CRAZY HORSE",
+			"publisher": "Holt",
+			"rank": 8
+		},
+		{
+			"author": "by Candace Owens",
+			"description": "The conservative commentator makes her case that Black Americans should part ways with the Democratic Party.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982133276.jpg",
+			"name": "BLACKOUT",
+			"publisher": "Threshold Editions",
+			"rank": 9
+		},
+		{
+			"author": "by David Michaelis",
+			"description": "The public and private life of America\u2019s longest-serving first lady, Eleanor Roosevelt.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781439192016.jpg",
+			"name": "ELEANOR",
+			"publisher": "Simon & Schuster",
+			"rank": 10
+		},
+		{
+			"author": "by Ibram X. Kendi",
+			"description": "A primer for creating a more just and equitable society through identifying and opposing racism.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525509288.jpg",
+			"name": "HOW TO BE AN ANTIRACIST",
+			"publisher": "One World",
+			"rank": 11
+		},
+		{
+			"author": "by Robin DiAngelo",
+			"description": "Historical and cultural analyses on what causes defensive moves by white people and how this inhibits cross-racial dialogue.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780807047415.jpg",
+			"name": "WHITE FRAGILITY",
+			"publisher": "Beacon Press",
+			"rank": 12
+		},
+		{
+			"author": "by Brandon Stanton",
+			"description": "Photos and stories of people from over 40 countries collected by the creator of \u201cHumans of New York.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250114297.jpg",
+			"name": "HUMANS",
+			"publisher": "St. Martin's",
+			"rank": 13
+		},
+		{
+			"author": "by Ruth Bader Ginsburg with Mary Hartnett and Wendy W. Williams",
+			"description": "A collection of articles and speeches by the Supreme Court justice.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501145247.jpg",
+			"name": "MY OWN WORDS",
+			"publisher": "Simon & Schuster",
+			"rank": 14
+		},
+		{
+			"author": "by Jerry Seinfeld",
+			"description": "The comedian shares material he collected in an accordion folder over the last 45 years.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982112691.jpg",
+			"name": "IS THIS ANYTHING?",
+			"publisher": "Simon & Schuster",
+			"rank": 15
+		}
+	]
+}

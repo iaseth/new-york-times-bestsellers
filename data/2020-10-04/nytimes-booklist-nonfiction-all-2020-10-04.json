@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Bob Woodward",
+			"description": "Based on 17 on-the-record interviews with President Trump and other reporting, the Pulitzer Prize-winning journalist details the president\u2019s perspective on multiple crises.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982131739.jpg",
+			"name": "RAGE",
+			"publisher": "Simon & Schuster",
+			"rank": 1
+		},
+		{
+			"author": "by Candace Owens",
+			"description": "The conservative commentator makes her case that Black Americans should part ways with the Democratic Party.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982133276.jpg",
+			"name": "BLACKOUT",
+			"publisher": "Threshold Editions",
+			"rank": 2
+		},
+		{
+			"author": "by Michael Cohen",
+			"description": "An account of President Trump\u2019s business empire, political campaign and presidential administration by his former personal attorney.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781510764699.jpg",
+			"name": "DISLOYAL",
+			"publisher": "Skyhorse",
+			"rank": 3
+		},
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "The ninth book in the conservative commentator\u2019s Killing series focuses on conflicts with Native Americans.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781627797047.jpg",
+			"name": "KILLING CRAZY HORSE",
+			"publisher": "Holt",
+			"rank": 4
+		},
+		{
+			"author": "by Isabel Wilkerson",
+			"description": "The Pulitzer Prize-winning journalist examines aspects of caste systems across civilizations and reveals a rigid hierarchy in America today.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593230251.jpg",
+			"name": "CASTE",
+			"publisher": "Random House",
+			"rank": 5
+		},
+		{
+			"author": "by Peter Strzok",
+			"description": "The former F.B.I. deputy assistant director of counterintelligence chronicles the investigation into Russia\u2019s election interference and key moments from his career.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780358237068.jpg",
+			"name": "COMPROMISED",
+			"publisher": "Houghton Mifflin Harcourt",
+			"rank": 6
+		},
+		{
+			"author": "by Glennon Doyle",
+			"description": "The activist and public speaker describes her journey of listening to her inner voice.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984801258.jpg",
+			"name": "UNTAMED",
+			"publisher": "Dial",
+			"rank": 7
+		},
+		{
+			"author": "by Sarah Huckabee Sanders",
+			"description": "The former White House press secretary shares her perspective on her time working with President Trump",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250271334.jpg",
+			"name": "SPEAKING FOR MYSELF",
+			"publisher": "St. Martin's",
+			"rank": 8
+		},
+		{
+			"author": "by Jenna Bush Hager",
+			"description": "Essays by the former first daughter and granddaughter celebrating the lives of her grandparents.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062960627.jpg",
+			"name": "EVERYTHING BEAUTIFUL IN ITS TIME",
+			"publisher": "Morrow",
+			"rank": 9
+		},
+		{
+			"author": "by Sean Hannity",
+			"description": "The Fox News host offers his assessment on what is at stake in the 2020 election.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982149970.jpg",
+			"name": "LIVE FREE OR DIE",
+			"publisher": "Threshold Editions",
+			"rank": 10
+		},
+		{
+			"author": "by Mary L. Trump",
+			"description": "The clinical psychologist gives her assessment of events and patterns inside her family and how they shaped President Trump.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982141462.jpg",
+			"name": "TOO MUCH AND NEVER ENOUGH",
+			"publisher": "Simon & Schuster",
+			"rank": 11
+		},
+		{
+			"author": "by Robin DiAngelo",
+			"description": "Historical and cultural analyses on what causes defensive moves by white people and how this inhibits cross-racial dialogue.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780807047415.jpg",
+			"name": "WHITE FRAGILITY",
+			"publisher": "Beacon Press",
+			"rank": 12
+		},
+		{
+			"author": "by Ibram X. Kendi",
+			"description": "A primer for creating a more just and equitable society through identifying and opposing racism.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525509288.jpg",
+			"name": "HOW TO BE AN ANTIRACIST",
+			"publisher": "One World",
+			"rank": 13
+		},
+		{
+			"author": "by Stephanie Winston Wolkoff",
+			"description": "The former director of special events at Vogue describes parting ways with the First Lady after being made the scapegoat for inauguration finance irregularities.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982151249.jpg",
+			"name": "MELANIA AND ME",
+			"publisher": "Gallery",
+			"rank": 14
+		},
+		{
+			"author": "by Ijeoma Oluo",
+			"description": "A look at the contemporary racial landscape of the United States.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781580056786.jpg",
+			"name": "SO YOU WANT TO TALK ABOUT RACE",
+			"publisher": "Seal",
+			"rank": 15
+		}
+	]
+}

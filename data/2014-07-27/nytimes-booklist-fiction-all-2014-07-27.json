@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Brad Thor",
+			"description": "The counterterrorism operative Scot Harvath undertakes two dangerous missions as America faces an imminent attack.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476717142.jpg",
+			"name": "ACT OF WAR",
+			"publisher": "Emily Bestler/Atria",
+			"rank": 1
+		},
+		{
+			"author": "by Catherine Coulter",
+			"description": "The F.B.I. agents Dillon Savich and Lacey Sherlock are out to discover who is trying to kill the ambassador to Britain.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698165786.jpg",
+			"name": "POWER PLAY",
+			"publisher": "Putnam",
+			"rank": 2
+		},
+		{
+			"author": "by Gillian Flynn",
+			"description": "A woman disappears on the day of her fifth anniversary; is her husband a killer?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307588388.jpg",
+			"name": "GONE GIRL",
+			"publisher": "Crown",
+			"rank": 3
+		},
+		{
+			"author": "by James Patterson and David Ellis",
+			"description": "Searching for her sister\u2019s killer, a former F.B.I. researcher finds a link between scores of unsolved cases.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316405409.jpg",
+			"name": "INVISIBLE",
+			"publisher": "Little, Brown",
+			"rank": 4
+		},
+		{
+			"author": "by Janet Evanovich",
+			"description": "The New Jersey bounty hunter Stephanie Plum pursues a dealer who sells more than used cars.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345542946.jpg",
+			"name": "TOP SECRET TWENTY-ONE",
+			"publisher": "Bantam",
+			"rank": 5
+		},
+		{
+			"author": "by Donna Tartt",
+			"description": "A painting smuggled out of the Metropolitan Museum of Art after a bombing becomes a boy\u2019s prize, guilt and burden.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316248679.jpg",
+			"name": "THE GOLDFINCH",
+			"publisher": "Little, Brown",
+			"rank": 6
+		},
+		{
+			"author": "by Robert Galbraith",
+			"description": "The private detective Cormoran Strike steps in when the author of a roman \u00e0 clef set in literary London is murdered; by J.\u2009K. Rowling, writing pseudonymously.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316206914.jpg",
+			"name": "THE SILKWORM",
+			"publisher": "Mulholland/Little, Brown",
+			"rank": 7
+		},
+		{
+			"author": "by Laurelin Paige",
+			"description": "A companion novel to the Fixed trilogy, from Hudson\u2019s point of view.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780991379620.jpg",
+			"name": "HUDSON",
+			"publisher": "Laurelin Paige",
+			"rank": 8
+		},
+		{
+			"author": "by Anne Rivers Siddons",
+			"description": "Four friends who vacation together are shaken by surprising discoveries.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780446565844.jpg",
+			"name": "THE GIRLS OF AUGUST",
+			"publisher": "Grand Central",
+			"rank": 9
+		},
+		{
+			"author": "by Christina Baker Kline",
+			"description": "A historical novel about orphans swept off the streets of New York and sent to the Midwest in the 1920s.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062101204.jpg",
+			"name": "ORPHAN TRAIN",
+			"publisher": "Morrow/HarperCollins",
+			"rank": 10
+		},
+		{
+			"author": "by Stephen King",
+			"description": "A driver plows into a crowd at a job fair, killing eight. The killer then taunts a suicidal ex-cop, who must stop a deadlier attack.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476754468.jpg",
+			"name": "MR. MERCEDES",
+			"publisher": "Scribner",
+			"rank": 11
+		},
+		{
+			"author": "by Jennifer Weiner",
+			"description": "A woman becomes addicted to pain medication.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451617801.jpg",
+			"name": "ALL FALL DOWN",
+			"publisher": "Atria",
+			"rank": 12
+		},
+		{
+			"author": "by J. Daniels",
+			"description": "A woman returns to Alabama for a summer of fun, but one man keeps her on edge; the first book of a new series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/A00B00LD6IYUS.jpg",
+			"name": "WHERE I BELONG",
+			"publisher": "J. Daniels",
+			"rank": 13
+		},
+		{
+			"author": "by Kristen Ashley",
+			"description": "Francesca Concetti thinks she is done with Benny Bianchi and his family, but Benny has decided differently; Book 5 of the \u2019Burg series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/A00B00JXW6GFE.jpg",
+			"name": "THE PROMISE",
+			"publisher": "Kristen Ashley",
+			"rank": 14
+		},
+		{
+			"author": "by Sandra Brown",
+			"description": "A successful magazine editor is trapped in her remote cabin with a man believed to be a serial killer; first published in 2005.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780743290067.jpg",
+			"name": "CHILL FACTOR",
+			"publisher": "Simon & Schuster",
+			"rank": 15
+		}
+	]
+}

@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Andy Weir",
+			"description": "Abandoned by his crew, an astronaut embarks on a dogged quest to stay alive.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780804139038.jpg",
+			"name": "THE MARTIAN",
+			"publisher": "Crown",
+			"rank": 1
+		},
+		{
+			"author": "by J. D. Robb",
+			"description": "Lt. Eve Dallas races the clock to save a woman kidnapped by a couple on a murder spree; by Nora Roberts, writing pseudonymously.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698161474.jpg",
+			"name": "DEVOTED IN DEATH",
+			"publisher": "Putnam",
+			"rank": 2
+		},
+		{
+			"author": "by Lee Child",
+			"description": "In his 20th appearance, Jack Reacher pries open a missing-persons case that takes him across the country and into the shadowy reaches of the Internet.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780804178785.jpg",
+			"name": "MAKE ME",
+			"publisher": "Delacorte",
+			"rank": 3
+		},
+		{
+			"author": "by David Lagercrantz",
+			"description": "Mikael Blomkvist and Lisbeth Salander are back in this continuation of Steig Larsson's Millennium series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385354288.jpg",
+			"name": "THE GIRL IN THE SPIDER'S WEB",
+			"publisher": "Knopf",
+			"rank": 4
+		},
+		{
+			"author": "by Catherine Coulter and J. T. Ellison",
+			"description": "The F.B.I. agent Nicholas Drummond and his partner, Mike Caine, investigate a violent environmental group with the help of the C.I.A. and Mossad.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698189317.jpg",
+			"name": "THE END GAME",
+			"publisher": "Putnam",
+			"rank": 5
+		},
+		{
+			"author": "by Meredith Wild",
+			"description": "A newlywed's hacker past catches up with him.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455591749.jpg",
+			"name": "HARD LOVE",
+			"publisher": "Forever",
+			"rank": 6
+		},
+		{
+			"author": "by Janet Evanovich and Lee Goldberg",
+			"description": "The F.B.I. agent Kate O\u2019Hare and her con man partner, Nicholas Fox, pose as gamblers in order to bring down a casino magnate involved in money laundering.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345543189.jpg",
+			"name": "THE SCAM",
+			"publisher": "Bantam",
+			"rank": 7
+		},
+		{
+			"author": "by Paula Hawkins",
+			"description": "A psychological thriller set in the environs of London is full of complications and betrayals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594633669.jpg",
+			"name": "THE GIRL ON THE TRAIN",
+			"publisher": "Riverhead",
+			"rank": 8
+		},
+		{
+			"author": "by Lauren Groff",
+			"description": "A marriage viewed from two perspectives.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698405127.jpg",
+			"name": "FATES AND FURIES",
+			"publisher": "Riverhead",
+			"rank": 9
+		},
+		{
+			"author": "by John Grisham",
+			"description": "A downsized Wall Street lawyer joins a legal clinic in a small Virginia town, and litigates against the coal-mining industry.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385537148.jpg",
+			"name": "GRAY MOUNTAIN",
+			"publisher": "Doubleday",
+			"rank": 10
+		},
+		{
+			"author": "by Anthony Doerr",
+			"description": "The lives of a blind French girl and a gadget-obsessed German boy before and during World War II; the winner of the 2015 Pulitzer Prize.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476746586.jpg",
+			"name": "ALL THE LIGHT WE CANNOT SEE",
+			"publisher": "Scribner",
+			"rank": 11
+		},
+		{
+			"author": "by Harper Lee",
+			"description": "In the mid-1950s, a grown-up Jean Louise Finch returns to Maycomb and realizes that her adored father is a racist.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062409850.jpg",
+			"name": "GO SET A WATCHMAN",
+			"publisher": "Harper",
+			"rank": 12
+		},
+		{
+			"author": "by Sue Grafton",
+			"description": "A variety of X\u2019s lead Kinsey Millhone into deep secrets and a cold case.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399163845.jpg",
+			"name": "X",
+			"publisher": "Marian Wood/Putnam",
+			"rank": 13
+		},
+		{
+			"author": "by Marie Force",
+			"description": "As her husband is about to assume the vice presidency, a lieutenant investigates the disappearance of two students.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781426899980.jpg",
+			"name": "FATAL FRENZY",
+			"publisher": "Carina",
+			"rank": 14
+		},
+		{
+			"author": "by Alessandra Torre",
+			"description": "A woman's life is upended when Hollywood's most eligible bachelor descends on her small town.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781940941707.jpg",
+			"name": "HOLLYWOOD DIRT",
+			"publisher": "EverAfter Romance",
+			"rank": 15
+		}
+	]
+}

@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Janet Evanovich",
+			"description": "When a homeless man is murdered, the bounty hunter Stephanie Plum searches for the killer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399179204.jpg",
+			"name": "HARDCORE TWENTY-FOUR",
+			"publisher": "Putnam",
+			"rank": 1
+		},
+		{
+			"author": "by Brandon Sanderson",
+			"description": "The third volume of the Stormlight Archive. The War of Reckoning ends and the Voidbringers return.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780765399830.jpg",
+			"name": "OATHBRINGER",
+			"publisher": "Tor",
+			"rank": 2
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "Jessica Reel and Will Robie fight a dangerous adversary in Colorado.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455586639.jpg",
+			"name": "END GAME",
+			"publisher": "Grand Central",
+			"rank": 3
+		},
+		{
+			"author": "by Lee Child",
+			"description": "Jack Reacher tracks down the owner of a pawned West Point class ring and stumbles upon a large criminal enterprise.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399593499.jpg",
+			"name": "THE MIDNIGHT LINE",
+			"publisher": "Delacorte",
+			"rank": 4
+		},
+		{
+			"author": "by John Grisham",
+			"description": "Three students at a sleazy for-profit law school hope to expose the student-loan banker who runs it.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385541183.jpg",
+			"name": "THE ROOSTER BAR",
+			"publisher": "Doubleday",
+			"rank": 5
+		},
+		{
+			"author": "by Andy Weir",
+			"description": "A small-time smuggler living in a lunar colony schemes to pay off an old debt by pulling off a challenging heist.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780553448122.jpg",
+			"name": "ARTEMIS",
+			"publisher": "Crown",
+			"rank": 6
+		},
+		{
+			"author": "by Dan Brown",
+			"description": "A symbology professor goes on a perilous quest with a beautiful museum director.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385542692.jpg",
+			"name": "ORIGIN",
+			"publisher": "Doubleday",
+			"rank": 7
+		},
+		{
+			"author": "by Michael Connelly",
+			"description": "While he investigates the murder of two pharmacists, an old case comes back to haunt Harry Bosch.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316225915.jpg",
+			"name": "TWO KINDS OF TRUTH",
+			"publisher": "Little, Brown",
+			"rank": 8
+		},
+		{
+			"author": "by James Patterson and Ashwin Sanghi",
+			"description": "Santosh Wagh investigates the appearance of dissolved human remains in a South Delhi state government house.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538759653.jpg",
+			"name": "COUNT TO TEN",
+			"publisher": "Grand Central",
+			"rank": 9
+		},
+		{
+			"author": "by Rupi Kaur",
+			"description": "A new collection of poetry from the author of \"Milk and Honey.\"",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781449486792.jpg",
+			"name": "THE SUN AND HER FLOWERS",
+			"publisher": "Andrews McMeel",
+			"rank": 10
+		},
+		{
+			"author": "by Rupi Kaur",
+			"description": "Poetic approaches to surviving adversity and loss.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781449474256.jpg",
+			"name": "MILK AND HONEY",
+			"publisher": "Andrews McMeel",
+			"rank": 11
+		},
+		{
+			"author": "by Dean Koontz",
+			"description": "An F.B.I. agent investigates an alarming surge in suicides, including her husband's.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345546784.jpg",
+			"name": "THE SILENT CORNER",
+			"publisher": "Bantam",
+			"rank": 12
+		},
+		{
+			"author": "by Clive Cussler and Boyd Morrison",
+			"description": "Juan Cabrillo chases a Filipino insurgent during a megastorm.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399575587.jpg",
+			"name": "TYPHOON FURY",
+			"publisher": "Putnam",
+			"rank": 13
+		},
+		{
+			"author": "by Meghan March",
+			"description": "The second book of the Mount Trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781943796038.jpg",
+			"name": "DEFIANT QUEEN",
+			"publisher": "Red Dress",
+			"rank": 14
+		},
+		{
+			"author": "by Mary Higgins Clark and Alafair Burke",
+			"description": "Laurie Moran investigates the murder of a wealthy widow who was pushed from the roof of the Metropolitan Museum of Art.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501171659.jpg",
+			"name": "EVERY BREATH YOU TAKE",
+			"publisher": "Simon & Schuster",
+			"rank": 15
+		}
+	]
+}

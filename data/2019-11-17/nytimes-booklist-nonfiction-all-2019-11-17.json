@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Prince. Edited by Dan Piepenbring",
+			"description": "A memoir by the musician written before his death, with photos and other memorabilia detailing his evolution.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399589652.jpg",
+			"name": "THE BEAUTIFUL ONES",
+			"publisher": "Spiegel & Grau",
+			"rank": 1
+		},
+		{
+			"author": "by Elton John",
+			"description": "The multi-award-winning solo artist's first autobiography chronicles his career, relationships and private struggles.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250147608.jpg",
+			"name": "ME",
+			"publisher": "Holt",
+			"rank": 2
+		},
+		{
+			"author": "by Rachel Maddow",
+			"description": "The MSNBC host argues that the global oil and gas industry has weakened democracies and bolstered authoritarians.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525575474.jpg",
+			"name": "BLOWOUT",
+			"publisher": "Crown",
+			"rank": 3
+		},
+		{
+			"author": "by Ronan Farrow",
+			"description": "The Pulitzer Prize-winning reporter details some surveillance and intimidation tactics used to pressure journalists and elude consequences by certain wealthy and connected men.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316486637.jpg",
+			"name": "CATCH AND KILL",
+			"publisher": "Little, Brown",
+			"rank": 4
+		},
+		{
+			"author": "by Lee Smith",
+			"description": "A narrative is depicted from the perspective of Representative Devin Nunes.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781546085027.jpg",
+			"name": "THE PLOT AGAINST THE PRESIDENT",
+			"publisher": "Center Street",
+			"rank": 5
+		},
+		{
+			"author": "by Tara Westover",
+			"description": "The daughter of survivalists, who is kept out of school, educates herself enough to leave home for university.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399590504.jpg",
+			"name": "EDUCATED",
+			"publisher": "Random House",
+			"rank": 6
+		},
+		{
+			"author": "by Malcolm Gladwell",
+			"description": "Famous examples of miscommunication serve as the backdrop to explain potential conflicts and misunderstandings.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316478526.jpg",
+			"name": "TALKING TO STRANGERS",
+			"publisher": "Little, Brown",
+			"rank": 7
+		},
+		{
+			"author": "by John Lithgow",
+			"description": "The multi-award-winning actor satirizes the Trump administration with a collection of poems and illustrations.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781452182759.jpg",
+			"name": "DUMPTY",
+			"publisher": "Chronicle Prism",
+			"rank": 8
+		},
+		{
+			"author": "by Bret Baier with Catherine Whitney",
+			"description": "The Fox News host describes a meeting between Franklin D. Roosevelt, Winston Churchill and Joseph Stalin in Tehran during World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062905680.jpg",
+			"name": "THREE DAYS AT THE BRINK",
+			"publisher": "Morrow",
+			"rank": 9
+		},
+		{
+			"author": "by Bill Bryson",
+			"description": "An owner\u2019s manual of the human body covering various parts, functions and what happens when things go wrong.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385539302.jpg",
+			"name": "THE BODY",
+			"publisher": "Doubleday",
+			"rank": 10
+		},
+		{
+			"author": "by David Limbaugh",
+			"description": "The conservative commentator contends that liberals have declared a political war against the current president.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781621579885.jpg",
+			"name": "GUILTY BY REASON OF INSANITY",
+			"publisher": "Regnery",
+			"rank": 11
+		},
+		{
+			"author": "by Edward Snowden",
+			"description": "A memoir by the former National Security Agency contractor who exposed the government\u2019s mass surveillance program.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250237231.jpg",
+			"name": "PERMANENT RECORD",
+			"publisher": "Metropolitan/Holt",
+			"rank": 12
+		},
+		{
+			"author": "by Mike Rowe",
+			"description": "The television personality relays stories from his podcast and personal anecdotes.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982130855.jpg",
+			"name": "THE WAY I HEARD IT",
+			"publisher": "Gallery",
+			"rank": 13
+		},
+		{
+			"author": "by Hillary Rodham Clinton and Chelsea Clinton",
+			"description": "Profiles of women from around the world who have blazed trails and challenged the status quo.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501178412.jpg",
+			"name": "THE BOOK OF GUTSY WOMEN",
+			"publisher": "Simon & Schuster",
+			"rank": 14
+		},
+		{
+			"author": "by Michelle Obama",
+			"description": "The former first lady describes her journey from the South Side of Chicago to the White House, and how she balanced work, family and her husband\u2019s political ascent.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524763138.jpg",
+			"name": "BECOMING",
+			"publisher": "Crown",
+			"rank": 15
+		}
+	]
+}

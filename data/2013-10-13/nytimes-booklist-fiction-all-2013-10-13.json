@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Stephen King",
+			"description": "Now grown up, Dan, the boy with psycho-intuitive powers in \u201cThe Shining,\u201d helps another child with a spectacular gift.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451698855.jpg",
+			"name": "DOCTOR SLEEP",
+			"publisher": "Scribner",
+			"rank": 1
+		},
+		{
+			"author": "by Nicholas Sparks",
+			"description": "The lives of two couples converge unexpectedly.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455520640.jpg",
+			"name": "THE LONGEST RIDE",
+			"publisher": "Grand Central",
+			"rank": 2
+		},
+		{
+			"author": "by Sandra Brown",
+			"description": "A journalist becomes a murder suspect as he pursues a story.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455501526.jpg",
+			"name": "DEADLINE",
+			"publisher": "Grand Central",
+			"rank": 3
+		},
+		{
+			"author": "by Liane Moriarty",
+			"description": "A woman\u2019s life is upended when she discovers a letter from her husband she was not meant to read until after his death.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101636237.jpg",
+			"name": "THE HUSBAND'S SECRET",
+			"publisher": "Amy Einhorn/Putnam",
+			"rank": 4
+		},
+		{
+			"author": "by Jhumpa Lahiri",
+			"description": "After his radical brother is killed, an Indian scientist brings his widow to join him in America.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307278265.jpg",
+			"name": "THE LOWLAND",
+			"publisher": "Knopf",
+			"rank": 5
+		},
+		{
+			"author": "by Christina Baker Kline",
+			"description": "A historical novel about orphans swept off the streets of New York and sent to the Midwest in the 1920s.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062101204.jpg",
+			"name": "ORPHAN TRAIN",
+			"publisher": "Morrow/HarperCollins",
+			"rank": 6
+		},
+		{
+			"author": "by Lee Child",
+			"description": "Jack Reacher is thrown into jail on trumped-up charges and must clear his name.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780440339373.jpg",
+			"name": "NEVER GO BACK",
+			"publisher": "Delacorte",
+			"rank": 7
+		},
+		{
+			"author": "by Abbi Glines",
+			"description": "A beautifully imperfect stranger opens the eyes of a businessman to a new kind of future.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476756530.jpg",
+			"name": "SIMPLE PERFECTION",
+			"publisher": "Atria",
+			"rank": 8
+		},
+		{
+			"author": "by Lynsay Sands",
+			"description": "Jake has barely had time to adjust to being a vampire before he\u2019s roped into playing bodyguard to a beautiful artist.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062078155.jpg",
+			"name": "ONE LUCKY VAMPIRE",
+			"publisher": "Avon/HarperCollins",
+			"rank": 9
+		},
+		{
+			"author": "by Sue Grafton",
+			"description": "A homeless man inexplicably leaves $600,000 to Kinsey Millhone.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399158988.jpg",
+			"name": "W IS FOR WASTED",
+			"publisher": "Marian Wood/Putnam",
+			"rank": 10
+		},
+		{
+			"author": "by John Grisham",
+			"description": "An imprisoned ex-lawyer schemes to exchange information about who murdered a judge for his freedom.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385536882.jpg",
+			"name": "THE RACKETEER",
+			"publisher": "Doubleday",
+			"rank": 11
+		},
+		{
+			"author": "by Susan Mallery",
+			"description": "In Fool\u2019s Gold, Calif., a shop owner and an Army doctor can\u2019t stop kissing under the mistletoe.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781460319567.jpg",
+			"name": "CHRISTMAS ON 4TH STREET",
+			"publisher": "Harlequin",
+			"rank": 12
+		},
+		{
+			"author": "by Nelson DeMille",
+			"description": "An elderly priest, recently escaped from an Ethiopian jail, is joined by two journalists in a search for a holy relic.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455576425.jpg",
+			"name": "THE QUEST",
+			"publisher": "Center Street",
+			"rank": 13
+		},
+		{
+			"author": "by J. D. Robb",
+			"description": "Lt. Eve Dallas searches for a young man who murdered his parents; by Nora Roberts, writing pseudonymously.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101617250.jpg",
+			"name": "THANKLESS IN DEATH",
+			"publisher": "Putnam",
+			"rank": 14
+		},
+		{
+			"author": "by Jill Shalvis",
+			"description": "After spoiling her big break on a reality cooking show, Leah returns home to Lucky Harbor, where she risks falling for her best friend, Jack.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455521098.jpg",
+			"name": "ALWAYS ON MY MIND",
+			"publisher": "Grand Central",
+			"rank": 15
+		}
+	]
+}

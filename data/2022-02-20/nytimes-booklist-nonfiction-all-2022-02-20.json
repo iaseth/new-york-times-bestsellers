@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Peter Schweizer",
+			"description": "The author of \u201cProfiles in Corruption\u201d portrays a conspiracy of how the Chinese government might infiltrate American institutions.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063061149.jpg",
+			"name": "RED-HANDED",
+			"publisher": "Harper",
+			"rank": 1
+		},
+		{
+			"author": "edited by Nikole Hannah-Jones, Caitlin Roper, Ilena Silverman and Jake Silverstein",
+			"description": "Viewing America\u2019s entanglement with slavery and its legacy, in essays adapted and expanded from The New York Times Magazine.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593230572.jpg",
+			"name": "THE 1619 PROJECT",
+			"publisher": "One World",
+			"rank": 2
+		},
+		{
+			"author": "by Bessel van der Kolk",
+			"description": "How trauma affects the body and mind, and innovative treatments for recovery.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780670785933.jpg",
+			"name": "THE BODY KEEPS THE SCORE",
+			"publisher": "Penguin",
+			"rank": 3
+		},
+		{
+			"author": "by Daniel H. Pink",
+			"description": "A look at four core regrets and potential strategies to make them a positive force.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735210653.jpg",
+			"name": "THE POWER OF REGRET",
+			"publisher": "Riverhead",
+			"rank": 4
+		},
+		{
+			"author": "by Michael Schur",
+			"description": "The creator of \u201cThe Good Place\u201d incorporates works by various philosophers to examine ethical questions and moral issues.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982159313.jpg",
+			"name": "HOW TO BE PERFECT",
+			"publisher": "Simon & Schuster",
+			"rank": 5
+		},
+		{
+			"author": "by Michelle Zauner",
+			"description": "The daughter of a Korean mother and Jewish-American father, and leader of the indie rock project Japanese Breakfast, describes creating her own identity after losing her mother to cancer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525657743.jpg",
+			"name": "CRYING IN H MART",
+			"publisher": "Knopf",
+			"rank": 6
+		},
+		{
+			"author": "by Glennon Doyle",
+			"description": "The activist and public speaker describes her journey of listening to her inner voice.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984801258.jpg",
+			"name": "UNTAMED",
+			"publisher": "Dial",
+			"rank": 7
+		},
+		{
+			"author": "by Dan Charnas",
+			"description": "The life, work and cultural influence of the late hip-hop producer J Dilla.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780374139940.jpg",
+			"name": "DILLA TIME",
+			"publisher": "MCD",
+			"rank": 8
+		},
+		{
+			"author": "by Valerie Bertinelli",
+			"description": "The actress and TV personality describes her personal setbacks and difficult journey to self-acceptance.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780358567363.jpg",
+			"name": "ENOUGH ALREADY",
+			"publisher": "Harvest",
+			"rank": 9
+		},
+		{
+			"author": "by Rosemary Sullivan",
+			"description": "New technology was used to investigate who revealed the location of Anne Frank and her family to the Nazis.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062892355.jpg",
+			"name": "THE BETRAYAL OF ANNE FRANK",
+			"publisher": "Harper",
+			"rank": 10
+		},
+		{
+			"author": "by Will Smith with Mark Manson",
+			"description": "The actor, producer and musician tells his life story and lessons he learned along the way.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984877925.jpg",
+			"name": "WILL",
+			"publisher": "Penguin Press",
+			"rank": 11
+		},
+		{
+			"author": "by bell hooks",
+			"description": "The late feminist icon explores the causes of a polarized society and the meaning of love.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780060959470.jpg",
+			"name": "ALL ABOUT LOVE",
+			"publisher": "Morrow",
+			"rank": 12
+		},
+		{
+			"author": "by Imani Perry",
+			"description": "A wide-ranging collection of stories and histories based in the American South that also illuminate the country as a whole.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062977403.jpg",
+			"name": "SOUTH TO AMERICA",
+			"publisher": "Ecco",
+			"rank": 13
+		},
+		{
+			"author": "by Robin Wall Kimmerer",
+			"description": "A botanist and member of the Citizen Potawatomi Nation espouses having an understanding and appreciation of plants and animals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781571313560.jpg",
+			"name": "BRAIDING SWEETGRASS",
+			"publisher": "Milkweed Editions",
+			"rank": 14
+		},
+		{
+			"author": "by Matthew McConaughey",
+			"description": "The Academy Award-winning actor shares snippets from the diaries he kept over the last 35 years.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593139134.jpg",
+			"name": "GREENLIGHTS",
+			"publisher": "Crown",
+			"rank": 15
+		}
+	]
+}

@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Janet Evanovich",
+			"description": "A killer is after the bounty hunter Stephanie Plum, who faces further complications as she tries to choose a boyfriend.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345527691.jpg",
+			"name": "SMOKIN\u2019 SEVENTEEN",
+			"publisher": "Random House",
+			"rank": 1
+		},
+		{
+			"author": "by Kathryn Stockett",
+			"description": "A young white woman and two black maids in 1960s Mississippi.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781440697661.jpg",
+			"name": "THE HELP",
+			"publisher": "Penguin Group",
+			"rank": 2
+		},
+		{
+			"author": "by George R.R. Martin",
+			"description": "In the frozen wastes to the north of Winterfell, sinister and supernatural forces are mustering.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780553897845.jpg",
+			"name": "A GAME OF THRONES",
+			"publisher": "Random House",
+			"rank": 3
+		},
+		{
+			"author": "by Sara Gruen",
+			"description": "After his parents are killed in a car accident, a young veterinary student \u2014 and an elephant \u2014 save a Depression-era circus.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781616200718.jpg",
+			"name": "WATER FOR ELEPHANTS",
+			"publisher": "Algonquin",
+			"rank": 4
+		},
+		{
+			"author": "by Tom Clancy with Peter Telep",
+			"description": "Maxwell Moore pursues the terrorists who killed his C.I.A. colleagues in a bomb attack in Pakistan.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780425246061.jpg",
+			"name": "AGAINST ALL ENEMIES",
+			"publisher": "Penguin Group",
+			"rank": 5
+		},
+		{
+			"author": "by James Rollins",
+			"description": "The discovery of a lost colony reveals a conspiracy from the nation\u2019s founding; a Sigma Force novel.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062000125.jpg",
+			"name": "THE DEVIL COLONY",
+			"publisher": "William Morrow",
+			"rank": 6
+		},
+		{
+			"author": "by Ann Patchett",
+			"description": "In the Amazon basin, a medical researcher searches for her former mentor, a despotic scientist who is developing a miracle fertility drug.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062049827.jpg",
+			"name": "STATE OF WONDER",
+			"publisher": "HarperCollins",
+			"rank": 7
+		},
+		{
+			"author": "by George R.R. Martin",
+			"description": "From the citadel of Dragonstone to the shores of Winterfell, factions vie for control of a divided land; Book 2 of \"A Song of Ice and Fire.\"",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780553579901.jpg",
+			"name": "A CLASH OF KINGS",
+			"publisher": "Random House",
+			"rank": 8
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "As Christmas nears, a terminally ill man is preparing his family for his death when another tragedy strikes.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780446583145.jpg",
+			"name": "ONE SUMMER",
+			"publisher": "Grand Central",
+			"rank": 9
+		},
+		{
+			"author": "by Elin Hilderbrand",
+			"description": "The wife of a Wall Street crook retreats to Nantucket, where she faces an array of relationship troubles.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316099646.jpg",
+			"name": "SILVER GIRL",
+			"publisher": "Little, Brown",
+			"rank": 10
+		},
+		{
+			"author": "by Karen Kingsbury",
+			"description": "While Bailey Flanigan pursues her dream of being an actress in New York, Cody coaches small-town high school football.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780310276333.jpg",
+			"name": "LEARNING",
+			"publisher": "Zondervan",
+			"rank": 11
+		},
+		{
+			"author": "by Emma Donoghue",
+			"description": "The entire world of the 5-year-old boy who narrates this novel is the 11-by-11-foot room in which his mother is being held prisoner.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316223232.jpg",
+			"name": "ROOM",
+			"publisher": "Little, Brown",
+			"rank": 12
+		},
+		{
+			"author": "by Karin Slaughter",
+			"description": "The mother of the Georgia cop Faith Mitchell is taken hostage, and the evidence unveils police corruption, bribery and murder.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345528216.jpg",
+			"name": "FALLEN",
+			"publisher": "Random House",
+			"rank": 13
+		},
+		{
+			"author": "by James Patterson and Maxine Paetro",
+			"description": "Detective Lindsay Boxer and the Women\u2019s Murder Club race to find a missing baby.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316126946.jpg",
+			"name": "10TH ANNIVERSARY",
+			"publisher": "Little, Brown",
+			"rank": 14
+		},
+		{
+			"author": "by Stieg Larsson",
+			"description": "A hacker and a journalist investigate the disappearance of a Swedish heiress 40 years earlier.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307949486.jpg",
+			"name": "THE GIRL WITH THE DRAGON TATTOO",
+			"publisher": "Knopf Doubleday",
+			"rank": 15
+		}
+	]
+}

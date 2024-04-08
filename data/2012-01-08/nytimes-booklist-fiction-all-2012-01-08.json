@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Stieg Larsson",
+			"description": "A hacker and a journalist investigate the disappearance of a Swedish heiress 40 years earlier.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307949486.jpg",
+			"name": "THE GIRL WITH THE DRAGON TATTOO",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 1
+		},
+		{
+			"author": "by Kathryn Stockett",
+			"description": "A young white woman and two black maids in 1960s Mississippi.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781440697661.jpg",
+			"name": "THE HELP",
+			"publisher": "Penguin Group",
+			"rank": 2
+		},
+		{
+			"author": "by Stephen King",
+			"description": "An English teacher travels back to 1958 by way of a time portal in a Maine diner. His assignment is to stop Lee Harvey Oswald.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451627299.jpg",
+			"name": "11/22/63",
+			"publisher": "Scribner",
+			"rank": 3
+		},
+		{
+			"author": "by John Grisham",
+			"description": "Partners in a small law firm take on a big case after a fast-track burnout joins them.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385535137.jpg",
+			"name": "THE LITIGATORS",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 4
+		},
+		{
+			"author": "by James Patterson",
+			"description": "Alex Cross investigates when the president\u2019s children are kidnapped, but the F.BI. and C.I.A. interfere.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455510207.jpg",
+			"name": "KILL ALEX CROSS",
+			"publisher": "Little, Brown & Company",
+			"rank": 5
+		},
+		{
+			"author": "by Tom Clancy with Mark Greaney",
+			"description": "Jack Ryan Jr. must stop an emerging threat from a Pakistani general.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399157318.jpg",
+			"name": "LOCKED ON",
+			"publisher": "Penguin Group",
+			"rank": 6
+		},
+		{
+			"author": "by P. D. James",
+			"description": "Six years after Elizabeth Bennet and Darcy marry, their comfortable life is shaken by a murder, as James recreates the world of \u201cPride and Prejudice\u201d with a mysterious twist.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307950659.jpg",
+			"name": "DEATH COMES TO PEMBERLEY",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 7
+		},
+		{
+			"author": "by Nicholas Sparks",
+			"description": "A man and woman who have gone their separate ways return to their Southern town for the funeral of a friend.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455502547.jpg",
+			"name": "THE BEST OF ME",
+			"publisher": "Grand Central Publishing",
+			"rank": 8
+		},
+		{
+			"author": "by Patricia Cornwell",
+			"description": "The chief medical examiner Kay Scarpetta investigates a string of killings linked to the murder of her former deputy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399158025.jpg",
+			"name": "RED MIST",
+			"publisher": "Penguin Group",
+			"rank": 9
+		},
+		{
+			"author": "by Stieg Larsson",
+			"description": "In the second volume of the Millennium trilogy, a Swedish hacker becomes a murder suspect.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307476159.jpg",
+			"name": "THE GIRL WHO PLAYED WITH FIRE",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 10
+		},
+		{
+			"author": "by Janet Evanovich",
+			"description": "After a disastrous vacation in Hawaii, Stephanie Plum becomes the target of an international killer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345527721.jpg",
+			"name": "EXPLOSIVE EIGHTEEN",
+			"publisher": "Random House Publishing",
+			"rank": 11
+		},
+		{
+			"author": "by Michael Connelly",
+			"description": "Harry Bosch of the L.A.P.D. uncovers both the operations of a sadistic killer and a political conspiracy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455518982.jpg",
+			"name": "THE DROP",
+			"publisher": "Little, Brown & Company",
+			"rank": 12
+		},
+		{
+			"author": "by George R.R. Martin",
+			"description": "In the frozen wastes to the north of Winterfell, sinister and supernatural forces are mustering.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780553897845.jpg",
+			"name": "A GAME OF THRONES",
+			"publisher": "Random House Publishers",
+			"rank": 13
+		},
+		{
+			"author": "by Stieg Larsson",
+			"description": "The third volume of the Millennium trilogy, about a Swedish hacker and a journalist.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307593672.jpg",
+			"name": "THE GIRL WHO KICKED THE HORNET\u2019S NEST",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 14
+		},
+		{
+			"author": "by Sue Grafton",
+			"description": "Pursuing a shoplifter, Kinsey Millhone discovers that retail crime is run by organized gangs.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101548134.jpg",
+			"name": "V IS FOR VENGEANCE",
+			"publisher": "Penguin Group",
+			"rank": 15
+		}
+	]
+}

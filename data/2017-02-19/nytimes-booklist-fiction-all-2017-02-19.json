@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Lisa Gardner",
+			"description": "The former F.B.I. profiler Pierce Quincy and his partner, Rainie Conner, foster a girl whose older brother murdered their drunken father. Now, eight years later, he has killed again.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698411432.jpg",
+			"name": "RIGHT BEHIND YOU",
+			"publisher": "Dutton",
+			"rank": 1
+		},
+		{
+			"author": "by W. Bruce Cameron",
+			"description": "A canine narrator undergoes a series of reincarnations.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780765330345.jpg",
+			"name": "A DOG'S PURPOSE",
+			"publisher": "Forge Books",
+			"rank": 2
+		},
+		{
+			"author": "by Fredrik Backman",
+			"description": "A curmudgeon's gruff exterior masks a generosity of spirit. Originally published in Sweden in 2014.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476738024.jpg",
+			"name": "A MAN CALLED OVE",
+			"publisher": "Washington Square",
+			"rank": 3
+		},
+		{
+			"author": "by James Patterson and Candice Fox",
+			"description": "Harriet Blue, a Sydney sex crimes detective, is sent to the outback (the never never) to investigate the disappearance of a mine worker. The first in a new series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316434720.jpg",
+			"name": "NEVER NEVER",
+			"publisher": "Little, Brown",
+			"rank": 4
+		},
+		{
+			"author": "by William P. Young",
+			"description": "A man whose daughter was abducted is invited to an isolated shack, apparently by God.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780964729230.jpg",
+			"name": "THE SHACK",
+			"publisher": "Windblown Media",
+			"rank": 5
+		},
+		{
+			"author": "by Eloisa James",
+			"description": "An arrogant inventor will stop at nothing, even kidnapping, to claim a workaholic widow.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062389466.jpg",
+			"name": "SEVEN MINUTES IN HEAVEN",
+			"publisher": "Avon",
+			"rank": 6
+		},
+		{
+			"author": "by J. S. Scott",
+			"description": "Seeking the release of her kidnapped sister, a young professional reconnects with her former flame's twin brother, now a senator.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781939962676.jpg",
+			"name": "BILLIONAIRE UNKNOWN",
+			"publisher": "Golden Unicorn Enterprises",
+			"rank": 7
+		},
+		{
+			"author": "by Jodi Picoult",
+			"description": "Waking in a graveyard, an amnesiac anthropologist pieces together her abusive past with a film star. First published in 1995.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101147139.jpg",
+			"name": "PICTURE PERFECT",
+			"publisher": "Berkley",
+			"rank": 8
+		},
+		{
+			"author": "by J P Delaney",
+			"description": "A sadistic architect builds a modern house that controls its (young, female) inhabitants in this psychological thriller.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780425285053.jpg",
+			"name": "THE GIRL BEFORE",
+			"publisher": "Ballantine",
+			"rank": 9
+		},
+		{
+			"author": "by Danielle Steel",
+			"description": "Four young women share a Hell\u2019s Kitchen loft.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780804179676.jpg",
+			"name": "THE APARTMENT",
+			"publisher": "Delacorte",
+			"rank": 10
+		},
+		{
+			"author": "by Paula Hawkins",
+			"description": "A psychological thriller set in the environs of London is full of complications and betrayals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594633669.jpg",
+			"name": "THE GIRL ON THE TRAIN",
+			"publisher": "Riverhead",
+			"rank": 11
+		},
+		{
+			"author": "by John Grisham",
+			"description": "A whistleblower alerts a Florida investigator to judicial corruption involving the Mob and Indian casinos.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385541206.jpg",
+			"name": "THE WHISTLER",
+			"publisher": "Doubleday",
+			"rank": 12
+		},
+		{
+			"author": "by Rupi Kaur",
+			"description": "Poetic approaches to surviving adversity and loss.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781449474256.jpg",
+			"name": "MILK AND HONEY",
+			"publisher": "Andrews McMeel",
+			"rank": 13
+		},
+		{
+			"author": "by Lynsay Sands",
+			"description": "A runaway heads for the heather with her swarthy escort in tow.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062273628.jpg",
+			"name": "FALLING FOR THE HIGHLANDER",
+			"publisher": "Avon",
+			"rank": 14
+		},
+		{
+			"author": "by Kat Martin",
+			"description": "A bounty hunter learning the ropes runs afoul of her idol in the business, as they both close in on prized quarry.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781420139051.jpg",
+			"name": "INTO THE FIRESTORM",
+			"publisher": "Zebra",
+			"rank": 15
+		}
+	]
+}

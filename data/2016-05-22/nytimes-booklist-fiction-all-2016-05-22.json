@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by James Patterson and Maxine Paetro",
+			"description": "When a brutal murder threatens the domestic happiness of the San Francisco police detective Lindsay Boxer, she turns for help to the Women\u2019s Murder Club.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316407076.jpg",
+			"name": "15TH AFFAIR",
+			"publisher": "Little, Brown",
+			"rank": 1
+		},
+		{
+			"author": "by Jojo Moyes",
+			"description": "A woman who has barely been beyond her English village finds herself while caring for a wealthy, embittered quadriplegic.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780143124542.jpg",
+			"name": "ME BEFORE YOU",
+			"publisher": "Penguin",
+			"rank": 2
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "In a sequel to \u201cMemory Man,\u201d Amos Decker, a detective with an extraordinary memory, investigates the case of a convicted killer who wins a last-minute reprieve.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455586455.jpg",
+			"name": "THE LAST MILE",
+			"publisher": "Grand Central",
+			"rank": 3
+		},
+		{
+			"author": "by Danielle Steel",
+			"description": "Four young women share a Hell\u2019s Kitchen loft.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780804179676.jpg",
+			"name": "THE APARTMENT",
+			"publisher": "Delacorte",
+			"rank": 4
+		},
+		{
+			"author": "by John Sandford",
+			"description": "Lucas Davenport, who has left the Minnesota Bureau of Criminal Apprehension, is in Iowa trying to foil a plot to assassinate a Hillary Clinton-like candidate. The 26th Lucas Davenport thriller.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698407107.jpg",
+			"name": "EXTREME PREY",
+			"publisher": "Putnam",
+			"rank": 5
+		},
+		{
+			"author": "by Nora Roberts",
+			"description": "A woman is haunted by her father\u2019s crimes as she tries to pursue love and her work as a photographer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399175169.jpg",
+			"name": "THE OBSESSION",
+			"publisher": "Berkley",
+			"rank": 6
+		},
+		{
+			"author": "by Claudia Gray",
+			"description": "Leia Organa is urged to become First Senator of the New Republic.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101885253.jpg",
+			"name": "STAR WARS: BLOODLINE",
+			"publisher": "Del Rey",
+			"rank": 7
+		},
+		{
+			"author": "by Mary Balogh",
+			"description": "A widower duke considers couplehood again when he meets a beguiling music teacher.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698411326.jpg",
+			"name": "ONLY BELOVED",
+			"publisher": "Signet",
+			"rank": 8
+		},
+		{
+			"author": "by Cynthia D'Aprix Sweeney",
+			"description": "Siblings in a dysfunctional New York family must grapple with a reduced inheritance.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062414236.jpg",
+			"name": "THE NEST",
+			"publisher": "Ecco/HarperCollins",
+			"rank": 9
+		},
+		{
+			"author": "by Paula Hawkins",
+			"description": "A psychological thriller set in the environs of London is full of complications and betrayals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594633669.jpg",
+			"name": "THE GIRL ON THE TRAIN",
+			"publisher": "Riverhead",
+			"rank": 10
+		},
+		{
+			"author": "by Lauren Blakely",
+			"description": "The sister of an accomplished seducer's best friend asks him to teach her everything he knows about how to attract a man.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/A00B01F1476OC.jpg",
+			"name": "MISTER O",
+			"publisher": "Lauren Blakely",
+			"rank": 11
+		},
+		{
+			"author": "by Kristin Hannah",
+			"description": "Two sisters are separated in World War II France: one in the countryside, the other in Paris.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781466850606.jpg",
+			"name": "THE NIGHTINGALE",
+			"publisher": "St. Martin's",
+			"rank": 12
+		},
+		{
+			"author": "by Richard Russo",
+			"description": "We\u2019re back in North Bath, N.Y., in a sequel to \u201cNobody\u2019s Fool.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307270641.jpg",
+			"name": "EVERYBODY'S FOOL",
+			"publisher": "Knopf",
+			"rank": 13
+		},
+		{
+			"author": "by Ace Atkins",
+			"description": "Spenser is back, leaving a trail of antagonism as he investigates a series of suspicious Boston fires.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399170850.jpg",
+			"name": "ROBERT B. PARKER'S SLOW BURN",
+			"publisher": "Putnam",
+			"rank": 14
+		},
+		{
+			"author": "by Maya Banks",
+			"description": "Drake tries to win back Evangeline's affections, but can she trust him enough to give him a second chance?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698191822.jpg",
+			"name": "DOMINATED",
+			"publisher": "Berkley",
+			"rank": 15
+		}
+	]
+}

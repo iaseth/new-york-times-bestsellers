@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Colleen Hoover",
+			"description": "In the sequel to \u201cIt Ends With Us,\u201d Lily deals with her jealous ex-husband as she reconnects with her first boyfriend.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781668001226.jpg",
+			"name": "IT STARTS WITH US",
+			"publisher": "Atria",
+			"rank": 1
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "A battered wife raised in a violent home attempts to halt the cycle of abuse.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501110375.jpg",
+			"name": "IT ENDS WITH US",
+			"publisher": "Atria",
+			"rank": 2
+		},
+		{
+			"author": "by James Patterson and Mike Lupica",
+			"description": "After her father is murdered, Jenny Wolf becomes the head of a powerful family in California.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316404297.jpg",
+			"name": "THE HOUSE OF WOLVES",
+			"publisher": "Little, Brown",
+			"rank": 3
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "Lowen Ashleigh is hired by the husband of an injured writer to complete her popular series and uncovers a horrifying truth.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781791392796.jpg",
+			"name": "VERITY",
+			"publisher": "Grand Central",
+			"rank": 4
+		},
+		{
+			"author": "by Leigh Bardugo",
+			"description": "The second book in the Alex Stern series. Alex risks her future at Lethe and Yale to get Darlington out of purgatory.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250313102.jpg",
+			"name": "HELL BENT",
+			"publisher": "Flatiron",
+			"rank": 5
+		},
+		{
+			"author": "by Bonnie Garmus",
+			"description": "A scientist and single mother living in California in the 1960s becomes a star on a TV cooking show.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385547345.jpg",
+			"name": "LESSONS IN CHEMISTRY",
+			"publisher": "Doubleday",
+			"rank": 6
+		},
+		{
+			"author": "by Taylor Jenkins Reid",
+			"description": "A movie icon recounts stories of her loves and career to a struggling magazine writer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501161933.jpg",
+			"name": "THE SEVEN HUSBANDS OF EVELYN HUGO",
+			"publisher": "Washington Square/Atria",
+			"rank": 7
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "Tate Collins and Miles Archer,\u00a0an airline pilot, think they can handle a no strings attached arrangement. But they can't.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476753195.jpg",
+			"name": "UGLY LOVE",
+			"publisher": "Atria",
+			"rank": 8
+		},
+		{
+			"author": "by Gabrielle Zevin",
+			"description": "Two friends find their partnership challenged in the world of video game design.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593321201.jpg",
+			"name": "TOMORROW, AND TOMORROW, AND TOMORROW",
+			"publisher": "Knopf",
+			"rank": 9
+		},
+		{
+			"author": "by Ana Reyes",
+			"description": "Seven years after witnessing her best friend drop dead, Maya returns to her Berkshires hometown to piece together what happened.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593186718.jpg",
+			"name": "THE HOUSE IN THE PINES",
+			"publisher": "Dutton",
+			"rank": 10
+		},
+		{
+			"author": "by Jodi Picoult and Jennifer Finney Boylan",
+			"description": "After returning to her hometown, Olivia McAfee\u2019s son gets accused of killing his crush.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984818386.jpg",
+			"name": "MAD HONEY",
+			"publisher": "Ballantine",
+			"rank": 11
+		},
+		{
+			"author": "by Barbara Kingsolver",
+			"description": "A reimagining of Charles Dickens\u2019s \u201cDavid Copperfield\u201d set in the mountains of southern Appalachia.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063251922.jpg",
+			"name": "DEMON COPPERHEAD",
+			"publisher": "Harper",
+			"rank": 12
+		},
+		{
+			"author": "by Alex Michaelides",
+			"description": "Theo Faber looks into the mystery of a famous painter who stops speaking after shooting her husband.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250301697.jpg",
+			"name": "THE SILENT PATIENT",
+			"publisher": "Celadon",
+			"rank": 13
+		},
+		{
+			"author": "by John Grisham",
+			"description": "Two childhood friends follow in their fathers\u2019 footsteps, which puts them on opposite sides of the law.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385548922.jpg",
+			"name": "THE BOYS FROM BILOXI",
+			"publisher": "Doubleday",
+			"rank": 14
+		},
+		{
+			"author": "by Lucy Score",
+			"description": "A runaway bride becomes the guardian of her evil twin's daughter and gets some help from a bad-boy barber.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781945631832.jpg",
+			"name": "THINGS WE NEVER GOT OVER",
+			"publisher": "Bloom",
+			"rank": 15
+		}
+	]
+}

@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Nicholas Sparks",
+			"description": "A man and woman who have gone their separate ways return to their Southern town for the funeral of a friend.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455502547.jpg",
+			"name": "THE BEST OF ME",
+			"publisher": "Grand Central Publishing",
+			"rank": 1
+		},
+		{
+			"author": "by Iris Johansen",
+			"description": "The forensic sculptor Eve Duncan learns more about her daughter\u2019s disappearance and the girl\u2019s father\u2019s possible involvement.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781429989305.jpg",
+			"name": "BONNIE",
+			"publisher": "St. Martin's Press",
+			"rank": 2
+		},
+		{
+			"author": "by James Patterson and Richard DiLallo",
+			"description": "A widow keeps the identity of the new man she is about to marry a secret as her children gather for Christmas.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316097390.jpg",
+			"name": "THE CHRISTMAS WEDDING",
+			"publisher": "Little, Brown & Company",
+			"rank": 3
+		},
+		{
+			"author": "by Kathryn Stockett",
+			"description": "A young white woman and two black maids in 1960s Mississippi.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781440697661.jpg",
+			"name": "THE HELP",
+			"publisher": "Penguin Group",
+			"rank": 4
+		},
+		{
+			"author": "by Lee Child",
+			"description": "For Jack Reacher, an elite military police officer, it all started in 1997. A lonely railroad track. A crime scene. A cover-up.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780440339359.jpg",
+			"name": "THE AFFAIR",
+			"publisher": "Delacorte",
+			"rank": 5
+		},
+		{
+			"author": "by Sophie Kinsella",
+			"description": "A woman reveals the most intimate details of her life to a man who turns out to be the C.E.O. of the company for which she works.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780440334866.jpg",
+			"name": "CAN YOU KEEP A SECRET?",
+			"publisher": "Random House Publishing",
+			"rank": 6
+		},
+		{
+			"author": "by Darcie Chan",
+			"description": "Only one man knows an abused widow, which revealed will change many lives in her small Vermont town.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780615523774.jpg",
+			"name": "THE MILL RIVER RECLUSE",
+			"publisher": "Darcie Chan",
+			"rank": 7
+		},
+		{
+			"author": "by John Sandford",
+			"description": "Virgil Flowers investigates bombings directed against a superstore chain seeking to open a store in a Minnesota river town.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780425250488.jpg",
+			"name": "SHOCK WAVE",
+			"publisher": "Penguin Group",
+			"rank": 8
+		},
+		{
+			"author": "by Chris Culver",
+			"description": "Against orders, a former homicide detective begins an investigation into his niece's murder.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/A00B004M18ZRS.jpg",
+			"name": "THE ABBEY",
+			"publisher": "Chris Culver",
+			"rank": 9
+		},
+		{
+			"author": "by Jeffrey Eugenides",
+			"description": "Three Brown graduates in the early 1980s wrestle with love, religion and coming of age.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781429969185.jpg",
+			"name": "THE MARRIAGE PLOT",
+			"publisher": "Farrar, Straus & Giroux",
+			"rank": 10
+		},
+		{
+			"author": "by Joel C. Rosenberg",
+			"description": "A C.I.A. operative is ordered to destroy Iran\u2019s nuclear weapons to forestall a war with Israel.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781414319353.jpg",
+			"name": "THE TEHRAN INITIATIVE",
+			"publisher": "Tyndale House",
+			"rank": 11
+		},
+		{
+			"author": "by Sandra Brown",
+			"description": "A woman and a man accused of murder evade the authorities as they search for her dead husband\u2019s secrets.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455501489.jpg",
+			"name": "LETHAL",
+			"publisher": "Grand Central Publishing",
+			"rank": 12
+		},
+		{
+			"author": "by Douglas E. Richards",
+			"description": "A former Special Forces operative searches for an enigmatic woman linked with a bio-terror plot that threatens millions.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780982618486.jpg",
+			"name": "WIRED",
+			"publisher": "Paragon Press",
+			"rank": 13
+		},
+		{
+			"author": "by Julian Barnes",
+			"description": "In this Man Booker Prize-winning novel, an unexpected bequest causes a man in his 60s to question his understanding of the past.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307957122.jpg",
+			"name": "THE SENSE OF AN ENDING",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 14
+		},
+		{
+			"author": "by Philippa Gregory",
+			"description": "A novel set during the War of the Roses.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781416563716.jpg",
+			"name": "THE LADY OF THE RIVERS",
+			"publisher": "Simon & Schuster",
+			"rank": 15
+		}
+	]
+}

@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Andy Weir",
+			"description": "Abandoned by his crew, an astronaut embarks on a dogged quest to stay alive.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780804139038.jpg",
+			"name": "THE MARTIAN",
+			"publisher": "Crown",
+			"rank": 1
+		},
+		{
+			"author": "by Lee Child",
+			"description": "Jack Reacher pries open a missing-persons case that takes him across the country and into the shadowy reaches of the Internet.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780804178785.jpg",
+			"name": "MAKE ME",
+			"publisher": "Delacorte",
+			"rank": 2
+		},
+		{
+			"author": "by David Lagercrantz",
+			"description": "Mikael Blomkvist and Lisbeth Salander are back in this continuation of Steig Larsson's Millennium series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385354288.jpg",
+			"name": "THE GIRL IN THE SPIDER'S WEB",
+			"publisher": "Knopf",
+			"rank": 3
+		},
+		{
+			"author": "by Jan Karon",
+			"description": "Dooley, the adopted son of the Mitford character Father Tim Kavanagh, marries his childhood sweetheart.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399167454.jpg",
+			"name": "COME RAIN OR COME SHINE",
+			"publisher": "Putnam",
+			"rank": 4
+		},
+		{
+			"author": "by Paula Hawkins",
+			"description": "A psychological thriller set in the environs of London is full of complications and betrayals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594633669.jpg",
+			"name": "THE GIRL ON THE TRAIN",
+			"publisher": "Riverhead",
+			"rank": 5
+		},
+		{
+			"author": "by Anthony Doerr",
+			"description": "The lives of a blind French girl and a gadget-obsessed German boy before and during World War II; the winner of the 2015 Pulitzer Prize.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476746586.jpg",
+			"name": "ALL THE LIGHT WE CANNOT SEE",
+			"publisher": "Scribner",
+			"rank": 6
+		},
+		{
+			"author": "by John Grisham",
+			"description": "A downsized Wall Street lawyer joins a legal clinic in a small Virginia town, and litigates against the coal-mining industry.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385537148.jpg",
+			"name": "GRAY MOUNTAIN",
+			"publisher": "Doubleday",
+			"rank": 7
+		},
+		{
+			"author": "by Kristin Hannah",
+			"description": "When a doctor's wife wakes from her coma, she thinks she's still married to her movie-star first husband.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307756961.jpg",
+			"name": "ANGEL FALLS",
+			"publisher": "Ballantine",
+			"rank": 8
+		},
+		{
+			"author": "by J. D. Robb",
+			"description": "Lt. Eve Dallas races the clock to save a woman kidnapped by a couple on a murder spree; by Nora Roberts, writing pseudonymously.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698161474.jpg",
+			"name": "DEVOTED IN DEATH",
+			"publisher": "Putnam",
+			"rank": 9
+		},
+		{
+			"author": "by Harper Lee",
+			"description": "In the mid-1950s, a grown-up Jean Louise Finch returns to Maycomb and realizes that her adored father is a racist.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062409850.jpg",
+			"name": "GO SET A WATCHMAN",
+			"publisher": "Harper",
+			"rank": 10
+		},
+		{
+			"author": "by Debbie Macomber",
+			"description": "A literature professor and a waitress forge a bond over their love of the classics.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781941824023.jpg",
+			"name": "THE WAY TO A MAN'S HEART",
+			"publisher": "Ballantine",
+			"rank": 11
+		},
+		{
+			"author": "by Sue Grafton",
+			"description": "A variety of X\u2019s lead Kinsey Millhone into deep secrets and a cold case.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399163845.jpg",
+			"name": "X",
+			"publisher": "Marian Wood/Putnam",
+			"rank": 12
+		},
+		{
+			"author": "by Kristin Hannah",
+			"description": "Two sisters are separated in World War II France: one in the countryside, the other in Paris.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781466850606.jpg",
+			"name": "THE NIGHTINGALE",
+			"publisher": "St. Martin's",
+			"rank": 13
+		},
+		{
+			"author": "by Richard Castle",
+			"description": "When a detective and her journalist boyfriend team up to investigate an immigrant's death, fissures form in their relationship.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781401324810.jpg",
+			"name": "RAGING HEAT",
+			"publisher": "Kingswell",
+			"rank": 14
+		},
+		{
+			"author": "by E. L. James",
+			"description": "A \"Fifty Shades of Grey\" sequel, told from Christian\u2019s point of view, revisits the tortured romance between the controlling billionaire and the unassuming Ana.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101946350.jpg",
+			"name": "GREY",
+			"publisher": "Vintage",
+			"rank": 15
+		}
+	]
+}

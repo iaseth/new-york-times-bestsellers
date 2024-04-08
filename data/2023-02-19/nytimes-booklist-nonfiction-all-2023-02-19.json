@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Prince Harry",
+			"description": "The Duke of Sussex details his struggles with the royal family, loss of his mother, service in the British Army and marriage to Meghan Markle.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593593806.jpg",
+			"name": "SPARE",
+			"publisher": "Random House",
+			"rank": 1
+		},
+		{
+			"author": "by Pamela Anderson",
+			"description": "The actress and activist details her childhood, rise to fame and the ways she is reclaiming the narrative of her life.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063226562.jpg",
+			"name": "LOVE, PAMELA",
+			"publisher": "Dey Street",
+			"rank": 2
+		},
+		{
+			"author": "by Bessel van der Kolk",
+			"description": "How trauma affects the body and mind, and innovative treatments for recovery.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780670785933.jpg",
+			"name": "THE BODY KEEPS THE SCORE",
+			"publisher": "Penguin",
+			"rank": 3
+		},
+		{
+			"author": "by Jennette McCurdy",
+			"description": "The actress and filmmaker describes her eating disorders and difficult relationship with her mother.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982185824.jpg",
+			"name": "I'M GLAD MY MOM DIED",
+			"publisher": "Simon & Schuster",
+			"rank": 4
+		},
+		{
+			"author": "by Brad Meltzer and Josh Mensch",
+			"description": "The story of a Nazi plot to kill President Roosevelt, Joseph Stalin and Winston Churchill.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250777263.jpg",
+			"name": "THE NAZI CONSPIRACY",
+			"publisher": "Flatiron",
+			"rank": 5
+		},
+		{
+			"author": "by Mike Pompeo",
+			"description": "The former secretary of state gives his account of his time serving under President Trump, with a focus on an America First approach.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063247444.jpg",
+			"name": "NEVER GIVE AN INCH",
+			"publisher": "Broadside",
+			"rank": 6
+		},
+		{
+			"author": "by Michelle Obama",
+			"description": "The former first lady shares personal stories and the tools she uses to deal with difficult situations.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593237465.jpg",
+			"name": "THE LIGHT WE CARRY",
+			"publisher": "Crown",
+			"rank": 7
+		},
+		{
+			"author": "by Siddharth Kara",
+			"description": "An investigation into the cobalt mining practices in the Democratic Republic of Congo and the moral implications for users of many electronic devices.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250284303.jpg",
+			"name": "COBALT RED",
+			"publisher": "St. Martin's",
+			"rank": 8
+		},
+		{
+			"author": "by bell hooks",
+			"description": "The late feminist icon explores the causes of a polarized society and the meaning of love.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780060959470.jpg",
+			"name": "ALL ABOUT LOVE",
+			"publisher": "Morrow",
+			"rank": 9
+		},
+		{
+			"author": "edited by Nikole Hannah-Jones, Caitlin Roper, Ilena Silverman and Jake Silverstein",
+			"description": "Viewing America\u2019s entanglement with slavery and its legacy, in essays adapted and expanded from The New York Times Magazine.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593230572.jpg",
+			"name": "THE 1619 PROJECT",
+			"publisher": "One World",
+			"rank": 10
+		},
+		{
+			"author": "by Jon Meacham",
+			"description": "The Pulitzer Prize-winning biographer portrays the life of Abraham Lincoln.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780553393965.jpg",
+			"name": "AND THERE WAS LIGHT",
+			"publisher": "Random House",
+			"rank": 11
+		},
+		{
+			"author": "by Matthew Perry",
+			"description": "The actor, known for playing Chandler Bing on \u201cFriends,\u201d shares stories from his childhood and his struggles with sobriety.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250866448.jpg",
+			"name": "FRIENDS, LOVERS, AND THE BIG TERRIBLE THING",
+			"publisher": "Flatiron",
+			"rank": 12
+		},
+		{
+			"author": "by Stephen A. Smith",
+			"description": "The ESPN analyst recounts the highs and lows of his life and career.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982189495.jpg",
+			"name": "STRAIGHT SHOOTER",
+			"publisher": "Gallery/13A",
+			"rank": 13
+		},
+		{
+			"author": "by Robin Wall Kimmerer",
+			"description": "A botanist and member of the Citizen Potawatomi Nation espouses having an understanding and appreciation of plants and animals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781571313560.jpg",
+			"name": "BRAIDING SWEETGRASS",
+			"publisher": "Milkweed Editions",
+			"rank": 14
+		},
+		{
+			"author": "by Ilyon Woo",
+			"description": "In 1848, Ellen Craft, disguised as a disabled white man, and her husband, William, posing as that man\u2019s slave, achieved freedom only to have to flee again.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501191053.jpg",
+			"name": "MASTER SLAVE HUSBAND WIFE",
+			"publisher": "Simon & Schuster",
+			"rank": 15
+		}
+	]
+}

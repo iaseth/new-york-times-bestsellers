@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Delia Owens",
+			"description": "In a quiet town on the North Carolina coast in 1969, a young woman who survived alone in the marsh becomes a murder suspect.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735219090.jpg",
+			"name": "WHERE THE CRAWDADS SING",
+			"publisher": "Putnam",
+			"rank": 1
+		},
+		{
+			"author": "by Catherine Coulter",
+			"description": "The 23rd book in the F.B.I. Thriller series. Agents Savich and Sherlock wend their way through a maze of lies to get to the bottom of a secret.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501193682.jpg",
+			"name": "LABYRINTH",
+			"publisher": "Gallery",
+			"rank": 2
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "A World War II veteran on parole must find the real killer in a small town or face going back to jail.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538750568.jpg",
+			"name": "ONE GOOD DEED",
+			"publisher": "Grand Central",
+			"rank": 3
+		},
+		{
+			"author": "by Pierce Brown",
+			"description": "The fifth book in the Red Rising series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780425285954.jpg",
+			"name": "DARK AGE",
+			"publisher": "Del Rey",
+			"rank": 4
+		},
+		{
+			"author": "by Daniel Silva",
+			"description": "Gabriel Allon, the chief of Israeli intelligence, partners with the crown prince of Saudi Arabia, whose daughter is kidnapped.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062834898.jpg",
+			"name": "THE NEW GIRL",
+			"publisher": "Harper",
+			"rank": 5
+		},
+		{
+			"author": "by Colson Whitehead",
+			"description": "Two boys respond to horrors at a Jim Crow-era reform school in ways that impact them decades later.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385537070.jpg",
+			"name": "THE NICKEL BOYS",
+			"publisher": "Doubleday",
+			"rank": 6
+		},
+		{
+			"author": "by Elin Hilderbrand",
+			"description": "The Levin family undergoes dramatic events with a son in Vietnam, a daughter in protests and dark secrets hiding beneath the surface.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316420013.jpg",
+			"name": "SUMMER OF '69",
+			"publisher": "Little, Brown",
+			"rank": 7
+		},
+		{
+			"author": "by Garth Stein",
+			"description": "An insightful Lab-terrier mix helps his owner, a struggling race car driver.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780061537936v2.jpg",
+			"name": "THE ART OF RACING IN THE RAIN",
+			"publisher": "HarperCollins",
+			"rank": 8
+		},
+		{
+			"author": "by John Grisham",
+			"description": "A decorated World War II veteran shoots and kills a pastor inside a Mississippi church.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385544160.jpg",
+			"name": "THE RECKONING",
+			"publisher": "Doubleday",
+			"rank": 9
+		},
+		{
+			"author": "by Lisa Wingate",
+			"description": "A South Carolina lawyer learns about the questionable practices of a Tennessee orphanage.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780425284681.jpg",
+			"name": "BEFORE WE WERE YOURS",
+			"publisher": "Ballantine",
+			"rank": 10
+		},
+		{
+			"author": "by Iris Johansen",
+			"description": "The 25th book in the Eve Duncan series. A forensic sculptor faces dangers when she looks into an attack of African villagers by guerilla soldiers.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538762974.jpg",
+			"name": "SMOKESCREEN",
+			"publisher": "Grand Central",
+			"rank": 11
+		},
+		{
+			"author": "by Nora Roberts",
+			"description": "Echoes of a violent childhood reverberate for Zane Bigelow when he starts a new kind of family in North Carolina\u2019s Blue Ridge Mountains.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250213273.jpg",
+			"name": "UNDER CURRENTS",
+			"publisher": "St. Martin's",
+			"rank": 12
+		},
+		{
+			"author": "by Lisa Jackson",
+			"description": "The eighth book in the Alvarez & Pescoli series. A doctor and his wife are found dead in separate beds.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781420136104.jpg",
+			"name": "WILLING TO DIE",
+			"publisher": "Zebra",
+			"rank": 13
+		},
+		{
+			"author": "by Richard Russo",
+			"description": "Three men in their 60s who met in college reunite on Martha\u2019s Vineyard, where mysterious events occurred in 1971.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101947746.jpg",
+			"name": "CHANCES ARE ...",
+			"publisher": "Knopf",
+			"rank": 14
+		},
+		{
+			"author": "by Celeste Ng",
+			"description": "An artist upends a quiet town outside Cleveland.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735224308.jpg",
+			"name": "LITTLE FIRES EVERYWHERE",
+			"publisher": "Penguin Press",
+			"rank": 15
+		}
+	]
+}

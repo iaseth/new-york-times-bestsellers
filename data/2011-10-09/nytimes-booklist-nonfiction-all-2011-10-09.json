@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Todd Burpo with Lynn Vincent",
+			"description": "A father recounts his 3-year-old son\u2019s encounter with Jesus and the angels during an emergency appendectomy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780849949203.jpg",
+			"name": "HEAVEN IS FOR REAL",
+			"publisher": "Thomas Nelson",
+			"rank": 1
+		},
+		{
+			"author": "",
+			"description": "Recordings and transcripts of a seven-part interview with Arthur M. Schlesinger Jr. in 1964.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781401324254.jpg",
+			"name": "Jacqueline Kennedy: Historic Conversations On Life With John F. Kennedy",
+			"publisher": "Hyperion",
+			"rank": 2
+		},
+		{
+			"author": "by Ron Suskind",
+			"description": "President Obama and his advisers, often at odds with one another, respond to the economic crisis.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780061429255.jpg",
+			"name": "CONFIDENCE MEN",
+			"publisher": "HarperCollins",
+			"rank": 3
+		},
+		{
+			"author": "by Laura Hillenbrand",
+			"description": "An Olympic runner\u2019s story of survival as a prisoner of the Japanese in World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400064168.jpg",
+			"name": "UNBROKEN",
+			"publisher": "Random House",
+			"rank": 4
+		},
+		{
+			"author": "by Michael Lewis",
+			"description": "How Billy Beane, the general manager of the Oakland Athletics, has produced successful teams despite having one of the smallest payrolls in baseball.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780393066234.jpg",
+			"name": "MONEYBALL",
+			"publisher": "Norton",
+			"rank": 5
+		},
+		{
+			"author": "by Jaycee Dugard",
+			"description": "A woman tells of being kidnapped at the age of 11 and held prisoner for 18 years by a convicted rapist and his wife.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451629187.jpg",
+			"name": "A STOLEN LIFE",
+			"publisher": "Simon & Schuster",
+			"rank": 6
+		},
+		{
+			"author": "by Daniel Yergin",
+			"description": "How the need for energy \u2014 especially, but not only, oil \u2014 drives global political and economic change.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101563700.jpg",
+			"name": "QUEST",
+			"publisher": "Penguin Group",
+			"rank": 7
+		},
+		{
+			"author": "by Dick Cheney",
+			"description": "The former vice president opens up about his life and nearly four decades at the core of American politics.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781439176191.jpg",
+			"name": "IN MY TIME",
+			"publisher": "Threshold",
+			"rank": 8
+		},
+		{
+			"author": "by Thomas L. Friedman and Michael Mandelbaum",
+			"description": "How America fell behind in the world it invented, and how it can come back.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250013729.jpg",
+			"name": "THAT USED TO BE US",
+			"publisher": "Farrar, Straus & Giroux",
+			"rank": 9
+		},
+		{
+			"author": "by Erik Larson",
+			"description": "This portrait of Berlin during the rise of the Nazis centers on the family of William E. Dodd, the U.S. ambassador there.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307887955.jpg",
+			"name": "IN THE GARDEN OF BEASTS",
+			"publisher": "Crown",
+			"rank": 10
+		},
+		{
+			"author": "by Rebecca Skloot",
+			"description": "The story of a woman whose cancer cells were extensively cultured without her permission in 1951.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400052189.jpg",
+			"name": "THE IMMORTAL LIFE OF HENRIETTA LACKS",
+			"publisher": "Crown",
+			"rank": 11
+		},
+		{
+			"author": "by Candice Millard",
+			"description": "The life and death by assassination (and medical malpratice) of President James A. Garfield.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385535007.jpg",
+			"name": "DESTINY OF THE REPUBLIC",
+			"publisher": "Knopf Doubleday",
+			"rank": 12
+		},
+		{
+			"author": "by Joe McGinniss",
+			"description": "McGinniss moved to Wasilla to report on the career of Sarah Palin.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307718921.jpg",
+			"name": "THE ROGUE",
+			"publisher": "Broadway",
+			"rank": 13
+		},
+		{
+			"author": "by Stacy Schiff",
+			"description": "This biography portrays the Macedonian-Egyptian queen in all her ambition, audacity and formidable intelligence.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316001946.jpg",
+			"name": "CLEOPATRA",
+			"publisher": "Little, Brown",
+			"rank": 14
+		},
+		{
+			"author": "by Michael Moore",
+			"description": "Stories from the life of the provocative filmmaker.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455508570.jpg",
+			"name": "HERE COMES TROUBLE",
+			"publisher": "Grand Central",
+			"rank": 15
+		}
+	]
+}

@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by David Baldacci",
+			"description": "Aloysius Archer, a World War II veteran, seeks to apprentice with Willie Dash, a private eye, in a corrupt California town.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538719671.jpg",
+			"name": "A GAMBLING MAN",
+			"publisher": "Grand Central",
+			"rank": 1
+		},
+		{
+			"author": "by John Sandford",
+			"description": "The 31st book in the Prey series. When federal officers are killed, Lucas Davenport and Virgil Flowers team up to investigate matters.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593087022.jpg",
+			"name": "OCEAN PREY",
+			"publisher": "Putnam",
+			"rank": 2
+		},
+		{
+			"author": "by Amanda Gorman",
+			"description": "The poem read on President Joe Biden's Inauguration Day, by the youngest poet to write and perform an inaugural poem.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593465271.jpg",
+			"name": "THE HILL WE CLIMB",
+			"publisher": "Viking",
+			"rank": 3
+		},
+		{
+			"author": "by Kristin Hannah",
+			"description": "As dust storms roll during the Great Depression, Elsa must choose between saving the family and farm or heading West.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250178602.jpg",
+			"name": "THE FOUR WINDS",
+			"publisher": "St. Martin's",
+			"rank": 4
+		},
+		{
+			"author": "by Delia Owens",
+			"description": "In a quiet town on the North Carolina coast in 1969, a young woman who survived alone in the marsh becomes a murder suspect.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735219090.jpg",
+			"name": "WHERE THE CRAWDADS SING",
+			"publisher": "Putnam",
+			"rank": 5
+		},
+		{
+			"author": "by J.R. Ward",
+			"description": "The 19th book in the Black Dagger Brotherhood series. Sahvage and Mae fight against what she unleashed.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501195129.jpg",
+			"name": "LOVER UNVEILED",
+			"publisher": "Gallery",
+			"rank": 6
+		},
+		{
+			"author": "by Matt Haig",
+			"description": "Nora Seed finds a library beyond the edge of the universe that contains books with multiple possibilities of the lives one could have lived.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525559474.jpg",
+			"name": "THE MIDNIGHT LIBRARY",
+			"publisher": "Viking",
+			"rank": 7
+		},
+		{
+			"author": "by Madeline Miller",
+			"description": "A reimagining of Homer\u2019s \u201cIliad\u201d that is narrated by Achilles' companion Patroclus.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062060624.jpg",
+			"name": "THE SONG OF ACHILLES",
+			"publisher": "Ecco",
+			"rank": 8
+		},
+		{
+			"author": "by Sally Hepworth",
+			"description": "Past secrets come up when Fern decides to pay back her twin sister, Rose, by having a baby for her.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250120953.jpg",
+			"name": "THE GOOD SISTER",
+			"publisher": "St. Martin's",
+			"rank": 9
+		},
+		{
+			"author": "by V.E. Schwab",
+			"description": "A Faustian bargain comes with a curse that affects the adventure Addie LaRue has across centuries.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780765387561.jpg",
+			"name": "THE INVISIBLE LIFE OF ADDIE LARUE",
+			"publisher": "Tor/Forge",
+			"rank": 10
+		},
+		{
+			"author": "by Sue Monk Kidd",
+			"description": "A scholarly young woman named Ana meets an 18-year-old Jesus and becomes caught up in a confluence of dangers.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525429760.jpg",
+			"name": "THE BOOK OF LONGINGS",
+			"publisher": "Viking",
+			"rank": 11
+		},
+		{
+			"author": "by Kate Quinn",
+			"description": "As a post-World War II royal wedding approaches, an encrypted letter resurrects an alliance between three female code breakers.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062943477.jpg",
+			"name": "THE ROSE CODE",
+			"publisher": "Morrow",
+			"rank": 12
+		},
+		{
+			"author": "by Stephen King",
+			"description": "An N.Y.P.D. detective asks the son of a struggling single mother to use his unnatural ability to track a killer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781789096491.jpg",
+			"name": "LATER",
+			"publisher": "Hard Case Crime",
+			"rank": 13
+		},
+		{
+			"author": "by Harlan Coben",
+			"description": "Windsor Horne Lockwood III might rectify cold cases connected to his family that have eluded the F.B.I. for decades.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538748213.jpg",
+			"name": "WIN",
+			"publisher": "Grand Central",
+			"rank": 14
+		},
+		{
+			"author": "by Brit Bennett",
+			"description": "The lives of twin sisters who run away from a Southern Black community at age 16 diverge as one returns and the other takes on a different racial identity but their fates intertwine.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525536291.jpg",
+			"name": "THE VANISHING HALF",
+			"publisher": "Riverhead",
+			"rank": 15
+		}
+	]
+}

@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Paula Hawkins",
+			"description": "A psychological thriller set in London is full of complications and betrayals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594633669.jpg",
+			"name": "THE GIRL ON THE TRAIN",
+			"publisher": "Riverhead",
+			"rank": 1
+		},
+		{
+			"author": "by Nicholas Sparks",
+			"description": "The lives of two couples converge unexpectedly.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455520640.jpg",
+			"name": "THE LONGEST RIDE",
+			"publisher": "Grand Central",
+			"rank": 2
+		},
+		{
+			"author": "by Stuart Woods",
+			"description": "In the 33rd Stone Barrington novel, the New York lawyer pursues an attractive pilot and must deal with her stalker ex-boyfriend as well as intrigue in the Middle East.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698154162.jpg",
+			"name": "HOT PURSUIT",
+			"publisher": "Putnam",
+			"rank": 3
+		},
+		{
+			"author": "by Harlan Coben",
+			"description": "Characters\u2019 lives begin to fall apart as a mysterious stranger discloses secrets to them; a stand-alone thriller.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525953500.jpg",
+			"name": "THE STRANGER",
+			"publisher": "Dutton",
+			"rank": 4
+		},
+		{
+			"author": "by Anthony Doerr",
+			"description": "The lives of a blind French girl and a gadget-obsessed German boy before and during World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476746586.jpg",
+			"name": "ALL THE LIGHT WE CANNOT SEE",
+			"publisher": "Scribner",
+			"rank": 5
+		},
+		{
+			"author": "by Kristin Hannah",
+			"description": "Two sisters are separated in World War II France: one struggling to survive in the countryside, the other joining the Resistance in Paris.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781466850606.jpg",
+			"name": "THE NIGHTINGALE",
+			"publisher": "St. Martin's",
+			"rank": 6
+		},
+		{
+			"author": "by James Patterson and Marshall Karp",
+			"description": "Investigating the disappearance of a billionaire\u2019s son, Detective Zach Jordan and his partner (and ex-girlfriend) find themselves in the midst of a conspiracy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316406994.jpg",
+			"name": "NYPD RED 3",
+			"publisher": "Little, Brown",
+			"rank": 7
+		},
+		{
+			"author": "by Diana Gabaldon",
+			"description": "Claire Randall, an English nurse, is transported back to 1743 during a second honeymoon in the Scottish Highlands. There she begins an affair with James Fraser, a redheaded soldier. Originally published in 1991.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780440212560.jpg",
+			"name": "OUTLANDER",
+			"publisher": "Dell",
+			"rank": 8
+		},
+		{
+			"author": "by Kay Hooper",
+			"description": "A member of a secret network sets out to protect an imperiled psychic.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101589809.jpg",
+			"name": "A DEADLY WEB",
+			"publisher": "Jove",
+			"rank": 9
+		},
+		{
+			"author": "by Abbi Glines",
+			"description": "A Texas rancher falls for his half sister\u2019s maid.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476776101.jpg",
+			"name": "WHEN I'M GONE",
+			"publisher": "Atria",
+			"rank": 10
+		},
+		{
+			"author": "by Donna Leon",
+			"description": "Commissario Guido Brunetti becomes involved when an obsessive fan stalks a diva.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780802191830.jpg",
+			"name": "FALLING IN LOVE",
+			"publisher": "Atlantic Monthly",
+			"rank": 11
+		},
+		{
+			"author": "by Bella Andre",
+			"description": "A chronic bachelor considers settling down when he crosses paths with a wedding planner.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781938127595.jpg",
+			"name": "ALL I EVER NEED IS YOU",
+			"publisher": "Oak Press",
+			"rank": 12
+		},
+		{
+			"author": "by Jill Shalvis",
+			"description": "A physical therapist finds he needs the help of the woman he once spurned.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101638460.jpg",
+			"name": "STILL THE ONE",
+			"publisher": "Berkley",
+			"rank": 13
+		},
+		{
+			"author": "by Joanna Wylde",
+			"description": "A woman enlists the aid of an ex-con.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698191785.jpg",
+			"name": "SILVER BASTARD",
+			"publisher": "Berkley",
+			"rank": 14
+		},
+		{
+			"author": "by Liane Moriarty",
+			"description": "A woman\u2019s life is upended when she discovers a letter from her husband she was not yet meant to read.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101636237.jpg",
+			"name": "THE HUSBAND'S SECRET",
+			"publisher": "Amy Einhorn/Putnam",
+			"rank": 15
+		}
+	]
+}

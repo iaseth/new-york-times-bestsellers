@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by John Boehner",
+			"description": "The former speaker of the House reflects on his time in Washington, key political figures and the current state of the Republican Party.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250238443.jpg",
+			"name": "ON THE HOUSE",
+			"publisher": "St. Martin's",
+			"rank": 1
+		},
+		{
+			"author": "by Patrick Radden Keefe",
+			"description": "A portrait of the Sackler family, known for their philanthropy toward institutions around the world, and their involvement with Valium and OxyContin.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385545686.jpg",
+			"name": "EMPIRE OF PAIN",
+			"publisher": "Doubleday",
+			"rank": 2
+		},
+		{
+			"author": "by Walter Isaacson",
+			"description": "How the Nobel Prize winner Jennifer Doudna and her colleagues invented CRISPR, a tool that can edit DNA.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982115852.jpg",
+			"name": "THE CODE BREAKER",
+			"publisher": "Simon & Schuster",
+			"rank": 3
+		},
+		{
+			"author": "by Brandi Carlile",
+			"description": "The six-time Grammy Award-winning singer and songwriter recounts difficulties during her formative years and her hard-won successes.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593237243.jpg",
+			"name": "BROKEN HORSES",
+			"publisher": "Crown",
+			"rank": 4
+		},
+		{
+			"author": "by Bessel van der Kolk",
+			"description": "How trauma affects the body and mind, and innovative treatments for recovery.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780670785933.jpg",
+			"name": "THE BODY KEEPS THE SCORE",
+			"publisher": "Penguin",
+			"rank": 5
+		},
+		{
+			"author": "by Matthew McConaughey",
+			"description": "The Academy Award-winning actor shares snippets from the diaries he kept over the last 35 years.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593139134.jpg",
+			"name": "GREENLIGHTS",
+			"publisher": "Crown",
+			"rank": 6
+		},
+		{
+			"author": "by Isabel Wilkerson",
+			"description": "The Pulitzer Prize-winning journalist examines aspects of caste systems across civilizations and reveals a rigid hierarchy in America today.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593230251.jpg",
+			"name": "CASTE",
+			"publisher": "Random House",
+			"rank": 7
+		},
+		{
+			"author": "by Jenny Lawson",
+			"description": "The humorist maps out her mental and physical health journey.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250077035.jpg",
+			"name": "BROKEN",
+			"publisher": "Holt",
+			"rank": 8
+		},
+		{
+			"author": "by Glennon Doyle",
+			"description": "The activist and public speaker describes her journey of listening to her inner voice.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984801258.jpg",
+			"name": "UNTAMED",
+			"publisher": "Dial",
+			"rank": 9
+		},
+		{
+			"author": "by Hunter Biden",
+			"description": "The lawyer and artist, who is the son of the current president, details tragedies within his family and his path to sobriety.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982151119.jpg",
+			"name": "BEAUTIFUL THINGS",
+			"publisher": "Gallery",
+			"rank": 10
+		},
+		{
+			"author": "by Erin French",
+			"description": "A memoir by the chef and owner of the Lost Kitchen in Freedom, Maine.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250312341.jpg",
+			"name": "FINDING FREEDOM",
+			"publisher": "Celadon",
+			"rank": 11
+		},
+		{
+			"author": "by Adam Grant",
+			"description": "An examination of the cognitive skills of rethinking and unlearning that could be used to adapt to a rapidly changing world.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984878106.jpg",
+			"name": "THINK AGAIN",
+			"publisher": "Viking",
+			"rank": 12
+		},
+		{
+			"author": "by Michio Kaku",
+			"description": "The theoretical physicist explains the controversy around the synthesis of the theory of relativity and quantum theory.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385542746.jpg",
+			"name": "THE GOD EQUATION",
+			"publisher": "Doubleday",
+			"rank": 13
+		},
+		{
+			"author": "by Michelle Obama",
+			"description": "The former first lady describes her journey from the South Side of Chicago to the White House, and how she balanced work, family and her husband\u2019s political ascent.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524763138.jpg",
+			"name": "BECOMING",
+			"publisher": "Crown",
+			"rank": 14
+		},
+		{
+			"author": "by Bill Bryson",
+			"description": "An owner\u2019s manual of the human body covering various parts, functions and what happens when things go wrong.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385539302.jpg",
+			"name": "THE BODY",
+			"publisher": "Doubleday",
+			"rank": 15
+		}
+	]
+}

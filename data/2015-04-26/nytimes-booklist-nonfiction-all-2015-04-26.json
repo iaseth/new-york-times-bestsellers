@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Kate Andersen Brower",
+			"description": "Fifty years of White House lore, based on interviews with butlers, maids and other staff members.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062305213.jpg",
+			"name": "THE RESIDENCE",
+			"publisher": "Harper",
+			"rank": 1
+		},
+		{
+			"author": "by Erik Larson",
+			"description": "The last voyage of the Lusitania, by the author of \u201cThe Devil in the White City.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307408860.jpg",
+			"name": "DEAD WAKE",
+			"publisher": "Crown",
+			"rank": 2
+		},
+		{
+			"author": "by David Fisher",
+			"description": "Stories of the American West; a companion volume to the Fox News series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781627795081.jpg",
+			"name": "BILL O'REILLY'S LEGENDS AND LIES",
+			"publisher": "Holt",
+			"rank": 3
+		},
+		{
+			"author": "by Daniel James Brown",
+			"description": "The University of Washington\u2019s eight-oar crew and their quest for gold at the 1936 Berlin Olympics.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101622742.jpg",
+			"name": "THE BOYS IN THE BOAT",
+			"publisher": "Viking",
+			"rank": 4
+		},
+		{
+			"author": "by Chris Kyle with Scott McEwen and Jim DeFelice",
+			"description": "A former member of the Navy SEALs discusses his battlefield experiences during the Iraq war; now a movie.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062082374.jpg",
+			"name": "AMERICAN SNIPER",
+			"publisher": "Morrow/HarperCollins",
+			"rank": 5
+		},
+		{
+			"author": "by Cheryl Strayed",
+			"description": "A woman\u2019s account of a life-changing 1,100-mile hike along the Pacific Crest Trail during the summer of 1995; now a movie.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307476074.jpg",
+			"name": "WILD",
+			"publisher": "Knopf",
+			"rank": 6
+		},
+		{
+			"author": "by Candice Bergen",
+			"description": "The actress\u2019s memoir discusses her marriage to Louis Malle and her work on \u201cMurphy Brown.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780684808277.jpg",
+			"name": "A FINE ROMANCE",
+			"publisher": "Simon & Schuster",
+			"rank": 7
+		},
+		{
+			"author": "by Jenna Miscavige Hill with Lisa Pulitzer",
+			"description": "How the niece of the Scientology leader David Miscavige left the church at 21.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062248497.jpg",
+			"name": "BEYOND BELIEF",
+			"publisher": "Morrow",
+			"rank": 8
+		},
+		{
+			"author": "by Laura Hillenbrand",
+			"description": "An Olympic runner\u2019s story of survival as a prisoner of the Japanese in World War II; now a movie.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400064168.jpg",
+			"name": "UNBROKEN",
+			"publisher": "Random House",
+			"rank": 9
+		},
+		{
+			"author": "by Atul Gawande",
+			"description": "The surgeon and New Yorker writer considers how doctors fail patients at the end of life, and how they can do better.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780805095159.jpg",
+			"name": "BEING MORTAL",
+			"publisher": "Metropolitan/Holt",
+			"rank": 10
+		},
+		{
+			"author": "by Malcolm Gladwell",
+			"description": "How disadvantages can work in our favor; from the author of \"The Tipping Point\" and \"Outliers.\"",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316204361.jpg",
+			"name": "DAVID AND GOLIATH",
+			"publisher": "Little, Brown",
+			"rank": 11
+		},
+		{
+			"author": "by John Elder Robison",
+			"description": "A life with Asperger\u2019s syndrome; first published in 2007.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307396181.jpg",
+			"name": "LOOK ME IN THE EYE",
+			"publisher": "Three Rivers",
+			"rank": 12
+		},
+		{
+			"author": "by Brian Grazer and Charles Fishman",
+			"description": "The Oscar-winning producer describes the importance of curiosity in his life, and how others can harness its power.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476730790.jpg",
+			"name": "A CURIOUS MIND",
+			"publisher": "Simon & Schuster",
+			"rank": 13
+		},
+		{
+			"author": "by Mary Norris",
+			"description": "A memoir of a career in The New Yorker\u2019s storied copy department, along with grammar advice.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780393240184.jpg",
+			"name": "BETWEEN YOU & ME",
+			"publisher": "Norton",
+			"rank": 14
+		},
+		{
+			"author": "by Giuliana Rancic",
+			"description": "A memoir by the \"E News!\" host and reality TV star.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780553446678.jpg",
+			"name": "GOING OFF SCRIPT",
+			"publisher": "Crown Archetype",
+			"rank": 15
+		}
+	]
+}

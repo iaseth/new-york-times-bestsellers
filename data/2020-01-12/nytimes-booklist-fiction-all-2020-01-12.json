@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Delia Owens",
+			"description": "In a quiet town on the North Carolina coast in 1969, a young woman who survived alone in the marsh becomes a murder suspect.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735219090.jpg",
+			"name": "WHERE THE CRAWDADS SING",
+			"publisher": "Putnam",
+			"rank": 1
+		},
+		{
+			"author": "by John Grisham",
+			"description": "Cullen Post, a lawyer and Episcopal minister, antagonizes some ruthless killers when he takes on a wrongful conviction case.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385544184.jpg",
+			"name": "THE GUARDIANS",
+			"publisher": "Doubleday",
+			"rank": 2
+		},
+		{
+			"author": "by Stephen King",
+			"description": "Children with special talents are abducted and sequestered in an institution where the sinister staff seeks to extract their gifts through harsh methods.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982110567.jpg",
+			"name": "THE INSTITUTE",
+			"publisher": "Scribner",
+			"rank": 3
+		},
+		{
+			"author": "by Andrzej Sapkowski",
+			"description": "Linked stories follow the exploits of Geralt of Rivia, a monster-slaying mercenary.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316438964.jpg",
+			"name": "THE LAST WISH",
+			"publisher": "Orbit",
+			"rank": 4
+		},
+		{
+			"author": "by Michael Connelly",
+			"description": "Harry Bosch and Ren\u00e9e Ballard return to take up a case that held the attention of Bosch\u2019s mentor.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316485616.jpg",
+			"name": "THE NIGHT FIRE",
+			"publisher": "Little, Brown",
+			"rank": 5
+		},
+		{
+			"author": "by James Patterson",
+			"description": "The 27th book in the Alex Cross series. Copycat crimes make the detective question whether an innocent man was executed.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316526883.jpg",
+			"name": "CRISS CROSS",
+			"publisher": "Little, Brown",
+			"rank": 6
+		},
+		{
+			"author": "by Lee Child",
+			"description": "Jack Reacher gets caught up in a turf war between Ukrainian and Albanian gangs.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399593543.jpg",
+			"name": "BLUE MOON",
+			"publisher": "Delacorte",
+			"rank": 7
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "When Atlee Pine returns to her hometown to investigate her sister\u2019s kidnapping from 30 years ago, she winds up tracking a potential serial killer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538761601.jpg",
+			"name": "A MINUTE TO MIDNIGHT",
+			"publisher": "Grand Central",
+			"rank": 8
+		},
+		{
+			"author": "by Margaret Atwood",
+			"description": "In a sequel to \u201cThe Handmaid\u2019s Tale,\u201d old secrets bring three women together as the Republic of Gilead\u2019s theocratic regime shows signs of decay.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385543781.jpg",
+			"name": "THE TESTAMENTS",
+			"publisher": "Nan A. Talese/Doubleday",
+			"rank": 9
+		},
+		{
+			"author": "by Alex Michaelides",
+			"description": "Theo Faber looks into the mystery of a famous painter who stops speaking after shooting her husband.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250301697.jpg",
+			"name": "THE SILENT PATIENT",
+			"publisher": "Celadon",
+			"rank": 10
+		},
+		{
+			"author": "by Ann Patchett",
+			"description": "A sibling relationship is impacted when the family goes from poverty to wealth and back again over the course of many decades.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062963673.jpg",
+			"name": "THE DUTCH HOUSE",
+			"publisher": "Harper",
+			"rank": 11
+		},
+		{
+			"author": "by Andrzej Sapkowski",
+			"description": "The first book in the Witcher series. As war looms, Geralt of Rivia must protect the prophesied savior of the world.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316073714.jpg",
+			"name": "BLOOD OF ELVES",
+			"publisher": "Orbit",
+			"rank": 12
+		},
+		{
+			"author": "by Heather Morris",
+			"description": "A concentration camp detainee tasked with permanently marking fellow prisoners falls in love with one of them.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062797155.jpg",
+			"name": "THE TATTOOIST OF AUSCHWITZ",
+			"publisher": "Harper",
+			"rank": 13
+		},
+		{
+			"author": "by Ta-Nehisi Coates",
+			"description": "A young man who was gifted with a mysterious power becomes part of a war between slavers and the enslaved.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399590597.jpg",
+			"name": "THE WATER DANCER",
+			"publisher": "One World",
+			"rank": 14
+		},
+		{
+			"author": "by Jojo Moyes",
+			"description": "In Depression-era Kentucky, five women refuse to be cowed by men or convention as they deliver books.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399562501.jpg",
+			"name": "THE GIVER OF STARS",
+			"publisher": "Pamela Dorman/Viking",
+			"rank": 15
+		}
+	]
+}

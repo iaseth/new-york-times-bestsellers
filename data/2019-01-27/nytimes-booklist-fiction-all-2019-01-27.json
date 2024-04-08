@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Danielle Steel",
+			"description": "Four American trauma doctors face difficult choices when they join a mass-casualty training program in Paris.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399179365.jpg",
+			"name": "TURNING POINT",
+			"publisher": "Delacorte",
+			"rank": 1
+		},
+		{
+			"author": "by Delia Owens",
+			"description": "In a quiet town on the North Carolina coast in 1969, a young woman who survived alone in the marsh becomes a murder suspect.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735219090.jpg",
+			"name": "WHERE THE CRAWDADS SING",
+			"publisher": "Putnam",
+			"rank": 2
+		},
+		{
+			"author": "by Greer Hendricks and Sarah Pekkanen",
+			"description": "Jessica Farris\u2019s life unravels when she signs up for Dr. Shields\u2019s psychology study.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250133731.jpg",
+			"name": "AN ANONYMOUS GIRL",
+			"publisher": "St. Martin's",
+			"rank": 3
+		},
+		{
+			"author": "by James Lee Burke",
+			"description": "Detective Dave Robicheaux and his new partner Bailey Ribbons investigate the death of a young woman by crucifixion.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501176883.jpg",
+			"name": "THE NEW IBERIA BLUES",
+			"publisher": "Simon & Schuster",
+			"rank": 4
+		},
+		{
+			"author": "by J.R. Ward",
+			"description": "The latest book in the Black Dagger Brotherhood series. Ahmare tries to save her brother while Duran finds temporary freedom.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501195174.jpg",
+			"name": "PRISONER OF NIGHT",
+			"publisher": "Gallery",
+			"rank": 5
+		},
+		{
+			"author": "by Heather Morris",
+			"description": "A concentration camp detainee tasked with permanently marking fellow prisoners falls in love with one of them.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062797155.jpg",
+			"name": "THE TATTOOIST OF AUSCHWITZ",
+			"publisher": "Harper",
+			"rank": 6
+		},
+		{
+			"author": "by Jayne Ann Krentz",
+			"description": "The third book in the Cutler, Sutter and Salinas series. Quinton Zane returns to dispose of Anson Salinas\u2019s foster sons.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399585302.jpg",
+			"name": "UNTOUCHABLE",
+			"publisher": "Berkley",
+			"rank": 7
+		},
+		{
+			"author": "by Josh Malerman",
+			"description": "Malorie must get her two young children 20 miles downriver to escape an unseen terror.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062259677.jpg",
+			"name": "BIRD BOX",
+			"publisher": "Ecco",
+			"rank": 8
+		},
+		{
+			"author": "by Brad Taylor",
+			"description": "Pike Logan takes on dangers involving North Korea, Syria and a substance called Red Mercury.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101984857.jpg",
+			"name": "DAUGHTER OF WAR",
+			"publisher": "Dutton",
+			"rank": 9
+		},
+		{
+			"author": "by John Grisham",
+			"description": "A decorated World War II veteran shoots and kills a pastor inside a Mississippi church.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385544160.jpg",
+			"name": "THE RECKONING",
+			"publisher": "Doubleday",
+			"rank": 10
+		},
+		{
+			"author": "by James Patterson",
+			"description": "Three stories: \u201cThe House Next Door\u201d (written with Susan DiLallo), \u201cThe Killer\u2019s Wife\u201d (written with Max DiLallo) and \u201cWe. Are. Not. Alone\u201d (written with Tim Arnold).",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538713891.jpg",
+			"name": "THE HOUSE NEXT DOOR",
+			"publisher": "Grand Central",
+			"rank": 11
+		},
+		{
+			"author": "by David Weber",
+			"description": "The 10th book in the Safehold series. A temporary peace gives way as international alliances change.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781429951852.jpg",
+			"name": "THROUGH FIERY TRIALS",
+			"publisher": "Tor",
+			"rank": 12
+		},
+		{
+			"author": "by Robyn Carr",
+			"description": "The fourth book in the Sullivan\u2019s Crossing series. Two women in the Culver family are confronted with opportunities for love in Colorado.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781488088681.jpg",
+			"name": "THE BEST OF US",
+			"publisher": "MIRA",
+			"rank": 13
+		},
+		{
+			"author": "by W. Bruce Cameron",
+			"description": "A dog sets out across 400 miles of wilderness to find the man who rescued her as a puppy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780765374653.jpg",
+			"name": "A DOG'S WAY HOME",
+			"publisher": "Forge",
+			"rank": 14
+		},
+		{
+			"author": "by Douglas Preston and Lincoln Child",
+			"description": "Agents Pendergast and Coldmoon track a killer who removes hearts and leaves handwritten letters.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538747209.jpg",
+			"name": "VERSES FOR THE DEAD",
+			"publisher": "Grand Central",
+			"rank": 15
+		}
+	]
+}

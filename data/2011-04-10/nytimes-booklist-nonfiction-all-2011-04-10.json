@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Todd Burpo with Lynn Vincent",
+			"description": "A father recounts his 3-year-old son\u2019s encounter with Jesus and the angels during an emergency appendectomy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780849949203.jpg",
+			"name": "HEAVEN IS FOR REAL",
+			"publisher": "Thomas Nelson",
+			"rank": 1
+		},
+		{
+			"author": "by Laura Hillenbrand",
+			"description": "An Olympic runner\u2019s story of survival as a prisoner of the Japanese in World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400064168.jpg",
+			"name": "UNBROKEN",
+			"publisher": "Random House",
+			"rank": 2
+		},
+		{
+			"author": "by Rebecca Skloot",
+			"description": "The story of a woman whose cancer cells were extensively cultured without her permission in 1951.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400052189.jpg",
+			"name": "THE IMMORTAL LIFE OF HENRIETTA LACKS",
+			"publisher": "Crown",
+			"rank": 3
+		},
+		{
+			"author": "by David Brooks",
+			"description": "Brooks creates two imaginary people, Harold and Erica, to illustrate his understanding of the human mind, the wellsprings of action and the causes of success and failure.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400067602.jpg",
+			"name": "THE SOCIAL ANIMAL",
+			"publisher": "Random House",
+			"rank": 4
+		},
+		{
+			"author": "by Joshua Foer",
+			"description": "A journalist who covered a mnemonics championship tries competing himself.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780143120537.jpg",
+			"name": "MOONWALKING WITH EINSTEIN",
+			"publisher": "Penguin Group",
+			"rank": 5
+		},
+		{
+			"author": "by Sammy Hagar with Joel Selvin",
+			"description": "Hagar tells of his tear through rock, from his first break with Montrose to his role as the front man of Van Halen.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062009289.jpg",
+			"name": "RED",
+			"publisher": "HarperCollins",
+			"rank": 6
+		},
+		{
+			"author": "by Sarah Vowell",
+			"description": "A wry look at the odd and exceptional history of Hawaii.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594487873.jpg",
+			"name": "UNFAMILIAR FISHES",
+			"publisher": "Penguin Group",
+			"rank": 7
+		},
+		{
+			"author": "by Michio Kaku",
+			"description": "An examination of innovative developments in medicine, computers, quantum physics and space travel.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385530804.jpg",
+			"name": "PHYSICS OF THE FUTURE",
+			"publisher": "Knopf Doubleday",
+			"rank": 8
+		},
+		{
+			"author": "by George W. Bush",
+			"description": "The former president\u2019s memoir discusses his Christianity and the end of his drinking; his relationships with members of his family; and critical White House decisions on 9/11, Iraq and Katrina.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307590619.jpg",
+			"name": "DECISION POINTS",
+			"publisher": "Crown",
+			"rank": 9
+		},
+		{
+			"author": "by Gayle Tzemach Lemmon",
+			"description": "Aan unlikely Afghan entrepreneur who mobilized her community under the Taliban.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780061732379.jpg",
+			"name": "THE DRESSMAKER OF KHAIR KHANA",
+			"publisher": "HarperCollins",
+			"rank": 10
+		},
+		{
+			"author": "by Stacy Schiff",
+			"description": "This biography portrays the Macedonian-Egyptian queen in all her ambition, audacity and formidable intelligence.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316001946.jpg",
+			"name": "CLEOPATRA",
+			"publisher": "Little, Brown",
+			"rank": 11
+		},
+		{
+			"author": "by Alexandra Horowitz",
+			"description": "What the world is like from a dog\u2019s point of view.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781416583431.jpg",
+			"name": "INSIDE OF A DOG",
+			"publisher": "Simon & Schuster",
+			"rank": 12
+		},
+		{
+			"author": "by Gabrielle Hamilton",
+			"description": "A memoir by the chef and owner of the Manhattan restaurant Prune.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400068722.jpg",
+			"name": "BLOOD, BONES AND BUTTER",
+			"publisher": "Random House",
+			"rank": 13
+		},
+		{
+			"author": "by Joseph Ratzinger",
+			"description": "Pope Benedict XVI challenges readers to grapple with the meaning of Jesus\u2019 life.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781586175009.jpg",
+			"name": "JESUS OF NAZARETH",
+			"publisher": "Ignatius Press",
+			"rank": 14
+		},
+		{
+			"author": "by Jeannette Walls",
+			"description": "The author recalls a bizarre childhood during which she was constantly moved from place to place.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780743247542.jpg",
+			"name": "THE GLASS CASTLE",
+			"publisher": "Simon & Schuster",
+			"rank": 15
+		}
+	]
+}

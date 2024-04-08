@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by James Patterson",
+			"description": "While Alex Cross pursues a Washington serial killer (or killers?), someone is after him.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316097529.jpg",
+			"name": "ALEX CROSS, RUN",
+			"publisher": "Little, Brown & Company",
+			"rank": 1
+		},
+		{
+			"author": "by Nicholas Sparks",
+			"description": "The arrival of a mysterious young woman in a small North Carolina town raises questions about her past.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455523542.jpg",
+			"name": "SAFE HAVEN",
+			"publisher": "Grand Central Publishing",
+			"rank": 2
+		},
+		{
+			"author": "by Gillian Flynn",
+			"description": "A woman disappears on the day of her fifth anniversary; is her husband a killer?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307588388.jpg",
+			"name": "GONE GIRL",
+			"publisher": "Crown Publishing",
+			"rank": 3
+		},
+		{
+			"author": "by Elisabeth Naughton",
+			"description": "As she digs into her past, a woman who has lost her memory in an accident is drawn to a man in San Francisco.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780985671952.jpg",
+			"name": "WAIT FOR ME",
+			"publisher": "Elisabeth Naughton",
+			"rank": 4
+		},
+		{
+			"author": "by Maeve Binchy",
+			"description": "Guests at an inn by the sea on Ireland\u2019s west coast; the final book by Binchy, who died in 2012.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307273574.jpg",
+			"name": "A WEEK IN WINTER",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 5
+		},
+		{
+			"author": "by E. L. James",
+			"description": "A college student falls in love with a tortured man with particular sexual tastes; the first of a trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345803481.jpg",
+			"name": "FIFTY SHADES OF GREY",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 6
+		},
+		{
+			"author": "by Lisa Gardner",
+			"description": "An investigator probing the disappearance of a seemingly perfect Boston family must dig beneath the surface.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525953074.jpg",
+			"name": "TOUCH AND GO",
+			"publisher": "Penguin Group",
+			"rank": 7
+		},
+		{
+			"author": "by Maya Banks",
+			"description": "Gabe Hamilton, a wealthy hotel owner, and Mia Crestwell, the much younger sister of his best friend, embark on an obsessive relationship.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780425267042.jpg",
+			"name": "RUSH",
+			"publisher": "Penguin Group",
+			"rank": 8
+		},
+		{
+			"author": "by Courtney Cole",
+			"description": "Pax, a 24-year-old bad boy, has filled the hole in his heart left by his mother\u2019s death with drugs and women, but when he meets Mila, he wants to clean up his act.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455550821.jpg",
+			"name": "IF YOU STAY",
+			"publisher": "Courtney Cole",
+			"rank": 9
+		},
+		{
+			"author": "by Matthew Quick",
+			"description": "A man recently released from a mental institution has two obsessions: his estranged wife and the Philadelphia Eagles. The basis of the movie; originally published in 2009.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780374533571.jpg",
+			"name": "THE SILVER LININGS PLAYBOOK",
+			"publisher": "Farrar, Straus & Giroux",
+			"rank": 10
+		},
+		{
+			"author": "by Marie Force",
+			"description": "Adam McCarthy runs into an old family friend with her own share of heartache. A McCarthys of Gansett Island novel.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780985034153.jpg",
+			"name": "WAITING FOR LOVE",
+			"publisher": "Marie Force",
+			"rank": 11
+		},
+		{
+			"author": "by Jonathan Kellerman",
+			"description": "The Los Angeles psychologist-detective Alex Delaware and the detective Milo Sturgis turn their sights six decades into the past to pursue the story of a beautiful nurse and her lover, a doctor.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345538819.jpg",
+			"name": "GUILT",
+			"publisher": "Random House Publishing",
+			"rank": 12
+		},
+		{
+			"author": "by E. L. James",
+			"description": "The final book in an erotic trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781612130606.jpg",
+			"name": "FIFTY SHADES FREED",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 13
+		},
+		{
+			"author": "by E. L. James",
+			"description": "Ana Steele learns more about Christian Grey\u2019s troubled past; the second book in a trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345803498.jpg",
+			"name": "FIFTY SHADES DARKER",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 14
+		},
+		{
+			"author": "by Shanora Williams",
+			"description": "A woman wanting to mend a broken heart tries to defy the restricting desires of a man she meets.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/A00B00BEQP450.jpg",
+			"name": "HARD TO RESIST",
+			"publisher": "Shanora Williams",
+			"rank": 15
+		}
+	]
+}

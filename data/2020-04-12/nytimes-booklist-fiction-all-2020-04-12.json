@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Celeste Ng",
+			"description": "An artist upends a quiet town outside Cleveland.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735224308.jpg",
+			"name": "LITTLE FIRES EVERYWHERE",
+			"publisher": "Penguin Press",
+			"rank": 1
+		},
+		{
+			"author": "by Delia Owens",
+			"description": "In a quiet town on the North Carolina coast in 1969, a young woman who survived alone in the marsh becomes a murder suspect.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735219090.jpg",
+			"name": "WHERE THE CRAWDADS SING",
+			"publisher": "Putnam",
+			"rank": 2
+		},
+		{
+			"author": "by Harlan Coben",
+			"description": "When a girl goes missing, a private investigator\u2019s feral childhood becomes an asset in the search.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538748145.jpg",
+			"name": "THE BOY FROM THE WOODS",
+			"publisher": "Grand Central",
+			"rank": 3
+		},
+		{
+			"author": "by J.R. Ward",
+			"description": "The 18th book in the Black Dagger Brotherhood series. Jo Early is attracted to a potentially dangerous stranger.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501195099.jpg",
+			"name": "THE SINNER",
+			"publisher": "Gallery",
+			"rank": 4
+		},
+		{
+			"author": "by James Rollins",
+			"description": "The 15th book in the Sigma Force series. Catastrophic dangers might be set in motion when a medieval ship is discovered in Greenland.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062892898.jpg",
+			"name": "THE LAST ODYSSEY",
+			"publisher": "Morrow",
+			"rank": 5
+		},
+		{
+			"author": "by Rebecca Serle",
+			"description": "A Manhattan lawyer finds herself confronting a vision she had when elements of it come to life on schedule.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982137441.jpg",
+			"name": "IN FIVE YEARS",
+			"publisher": "Atria",
+			"rank": 6
+		},
+		{
+			"author": "by Jeanine Cummins",
+			"description": "A bookseller flees Mexico for the United States with her son while pursued by the head of a drug cartel.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250209764.jpg",
+			"name": "AMERICAN DIRT",
+			"publisher": "Flatiron",
+			"rank": 7
+		},
+		{
+			"author": "by Emily St. John Mandel",
+			"description": "Years after an international Ponzi scheme falls apart, one of its victims investigates the disappearance of a woman from a container ship.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525521143.jpg",
+			"name": "THE GLASS HOTEL",
+			"publisher": "Knopf",
+			"rank": 8
+		},
+		{
+			"author": "by Lisa Jewell",
+			"description": "Ten years after her daughter disappears, a woman tries to get her life in order but remains haunted by unanswered questions.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501154669.jpg",
+			"name": "THEN SHE WAS GONE",
+			"publisher": "Atria",
+			"rank": 9
+		},
+		{
+			"author": "by Alex Michaelides",
+			"description": "Theo Faber looks into the mystery of a famous painter who stops speaking after shooting her husband.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250301697.jpg",
+			"name": "THE SILENT PATIENT",
+			"publisher": "Celadon",
+			"rank": 10
+		},
+		{
+			"author": "by Heather Morris",
+			"description": "A concentration camp detainee tasked with permanently marking fellow prisoners falls in love with one of them.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062797155.jpg",
+			"name": "THE TATTOOIST OF AUSCHWITZ",
+			"publisher": "Harper",
+			"rank": 11
+		},
+		{
+			"author": "by Hilary Mantel",
+			"description": "The third book in the Wolf Hall trilogy. After Anne Boleyn\u2019s execution, Thomas Cromwell\u2019s enemies assemble.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780805096606.jpg",
+			"name": "THE MIRROR & THE LIGHT",
+			"publisher": "Holt",
+			"rank": 12
+		},
+		{
+			"author": "by N.K. Jemisin",
+			"description": "People from different walks of life in New York City receive messages through various senses.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316509848.jpg",
+			"name": "THE CITY WE BECAME",
+			"publisher": "Orbit",
+			"rank": 13
+		},
+		{
+			"author": "by C.J. Box",
+			"description": "The 20th book in the Joe Pickett series. A grizzly bear attack and an attempted assassination of a local judge baffle the Wyoming game warden.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525538233.jpg",
+			"name": "LONG RANGE",
+			"publisher": "Putnam",
+			"rank": 14
+		},
+		{
+			"author": "by Ann Patchett",
+			"description": "A sibling relationship is impacted when the family goes from poverty to wealth and back again over the course of many decades.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062963673.jpg",
+			"name": "THE DUTCH HOUSE",
+			"publisher": "Harper",
+			"rank": 15
+		}
+	]
+}

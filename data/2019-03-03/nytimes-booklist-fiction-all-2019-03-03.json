@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Delia Owens",
+			"description": "In a quiet town on the North Carolina coast in 1969, a young woman who survived alone in the marsh becomes a murder suspect.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735219090.jpg",
+			"name": "WHERE THE CRAWDADS SING",
+			"publisher": "Putnam",
+			"rank": 1
+		},
+		{
+			"author": "by Heather Morris",
+			"description": "A concentration camp detainee tasked with permanently marking fellow prisoners falls in love with one of them.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062797155.jpg",
+			"name": "THE TATTOOIST OF AUSCHWITZ",
+			"publisher": "Harper",
+			"rank": 2
+		},
+		{
+			"author": "by J.D. Robb",
+			"description": "Eve Dallas scours tattoo parlors and strip joints for clues to the cause of Lyle Pickering\u2019s mysterious death.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250201584.jpg",
+			"name": "CONNECTIONS IN DEATH",
+			"publisher": "St. Martin's",
+			"rank": 3
+		},
+		{
+			"author": "by Pam Jenoff",
+			"description": "Grace Healey investigates the fates of 12 women who were sent to occupied Europe to help the resistance during World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780778330271.jpg",
+			"name": "THE LOST GIRLS OF PARIS",
+			"publisher": "Park Row",
+			"rank": 4
+		},
+		{
+			"author": "by Alex Michaelides",
+			"description": "Theo Faber looks into the mystery of a famous painter who stops speaking after shooting her husband.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250301697.jpg",
+			"name": "THE SILENT PATIENT",
+			"publisher": "Celadon",
+			"rank": 5
+		},
+		{
+			"author": "by Jonathan Kellerman",
+			"description": "Milo Sturgis and Alex Delaware investigate the death of a stranger at a wedding reception.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525618508.jpg",
+			"name": "THE WEDDING GUEST",
+			"publisher": "Ballantine",
+			"rank": 6
+		},
+		{
+			"author": "by Gail Honeyman",
+			"description": "A young woman\u2019s well-ordered life is disrupted by the I.T. guy from her office.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735220690.jpg",
+			"name": "ELEANOR OLIPHANT IS COMPLETELY FINE",
+			"publisher": "Penguin",
+			"rank": 7
+		},
+		{
+			"author": "by Greer Hendricks and Sarah Pekkanen",
+			"description": "Jessica Farris\u2019s life unravels when she signs up for Dr. Shields\u2019s psychology study.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250133731.jpg",
+			"name": "AN ANONYMOUS GIRL",
+			"publisher": "St. Martin's",
+			"rank": 8
+		},
+		{
+			"author": "by John Grisham",
+			"description": "A decorated World War II veteran shoots and kills a pastor inside a Mississippi church.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385544160.jpg",
+			"name": "THE RECKONING",
+			"publisher": "Doubleday",
+			"rank": 9
+		},
+		{
+			"author": "by Marlon James",
+			"description": "A loner named Tracker teams up with a group of unusual characters in search of a mysterious boy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735220171.jpg",
+			"name": "BLACK LEOPARD, RED WOLF",
+			"publisher": "Riverhead",
+			"rank": 10
+		},
+		{
+			"author": "by Tayari Jones",
+			"description": "A newlywed couple's relationship is tested when the husband is sentenced to 12 years in prison.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781616207601.jpg",
+			"name": "AN AMERICAN MARRIAGE",
+			"publisher": "Algonquin",
+			"rank": 11
+		},
+		{
+			"author": "by Meghan March",
+			"description": "The second book in the Forge trilogy. An attraction to a billionaire becomes a big gamble.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781943796236.jpg",
+			"name": "LUCK OF THE DEVIL",
+			"publisher": "Meghan March",
+			"rank": 12
+		},
+		{
+			"author": "by Susan Stoker",
+			"description": "The 13th book in the Badge of Honor: Texas Heroes series. John \u201cDriftwood\u201d Trettle falls for Quinn Dixon, despite her visible port-wine birthmark.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/A00B07DVR4BSL.jpg",
+			"name": "SHELTER FOR QUINN",
+			"publisher": "Susan Stoker",
+			"rank": 13
+		},
+		{
+			"author": "by James Patterson and Candice Fox",
+			"description": "Detective Harriet Blue tries to clear her brother's name and save a small Australian town from being massacred.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316513241.jpg",
+			"name": "FIFTY FIFTY",
+			"publisher": "Little, Brown",
+			"rank": 14
+		},
+		{
+			"author": "by Martha Hall Kelly",
+			"description": "A story of three women\u2019s lives during and after World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101883075.jpg",
+			"name": "LILAC GIRLS",
+			"publisher": "Ballantine",
+			"rank": 15
+		}
+	]
+}

@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Patricia Cornwell",
+			"description": "A paleontologist\u2019s disappearance in Canada turns out to be connected to crimes much closer to home for the chief medical examiner Kay Scarpetta; the 20th Scarpetta book.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399157561.jpg",
+			"name": "THE BONE BED",
+			"publisher": "Penguin Group",
+			"rank": 1
+		},
+		{
+			"author": "by Nelson DeMille",
+			"description": "The anti-terrorist task force agent John Corey and his wife, an F.B.I. agent, pursue a high-ranking Qaeda operative in Yemen \u2014 who is out to avenge the death of a Libyan terrorist killed by Corey.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455518371.jpg",
+			"name": "THE PANTHER",
+			"publisher": "Grand Central Publishing",
+			"rank": 2
+		},
+		{
+			"author": "by Justin Cronin",
+			"description": "A sequel to \u201cThe Passage\u201d continues its story of life after an apocalypse.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345534897.jpg",
+			"name": "THE TWELVE",
+			"publisher": "Random House Publishing",
+			"rank": 3
+		},
+		{
+			"author": "by E. L. James",
+			"description": "A college student falls in love with a tortured man with particular sexual tastes; the first of a trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345803481.jpg",
+			"name": "FIFTY SHADES OF GREY",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 4
+		},
+		{
+			"author": "by J. K. Rowling",
+			"description": "The sudden death of a parish councilman reveals bitter social divisions in an idyllic English town; a novel for adults by the creator of Harry Potter.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316228558.jpg",
+			"name": "THE CASUAL VACANCY",
+			"publisher": "Little, Brown & Company",
+			"rank": 5
+		},
+		{
+			"author": "by E. L. James",
+			"description": "The final book in an erotic trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781612130606.jpg",
+			"name": "FIFTY SHADES FREED",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 6
+		},
+		{
+			"author": "by Sylvia Day",
+			"description": "Eva and Gideon, of \u201cBared to You,\u201d continue to struggle to make their relationship work.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101604915.jpg",
+			"name": "REFLECTED IN YOU",
+			"publisher": "Penguin Group",
+			"rank": 7
+		},
+		{
+			"author": "by E. L. James",
+			"description": "Ana Steele  learns more about Christian Grey\u2019s troubled past; the second book in a trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345803498.jpg",
+			"name": "FIFTY SHADES DARKER",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 8
+		},
+		{
+			"author": "by Gillian Flynn",
+			"description": "A woman disappears on the day of her fifth anniversary; is her husband a killer?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307588388.jpg",
+			"name": "GONE GIRL",
+			"publisher": "Crown Publishing",
+			"rank": 9
+		},
+		{
+			"author": "by James Patterson and Marshall Karp",
+			"description": "Detective Zach Jordan must stop a deranged killer at a New York film festival.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316199865.jpg",
+			"name": "NYPD RED",
+			"publisher": "Little, Brown & Company",
+			"rank": 10
+		},
+		{
+			"author": "by Kate Morton",
+			"description": "A British actress searches for secrets in her 90-year-old mother\u2019s past.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781439163092.jpg",
+			"name": "THE SECRET KEEPER",
+			"publisher": "Simon & Schuster",
+			"rank": 11
+		},
+		{
+			"author": "by Iris Johansen",
+			"description": "The forensic sculptor Eve Duncan investigates when her mother\u2019s friend disappears from a mental hospital.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780312651305.jpg",
+			"name": "SLEEP NO MORE",
+			"publisher": "St. Martin's Press",
+			"rank": 12
+		},
+		{
+			"author": "by Sylvia Day",
+			"description": "Two troubled people develop an intense, obsessive relationship.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780425263907.jpg",
+			"name": "BARED TO YOU",
+			"publisher": "Penguin Group",
+			"rank": 13
+		},
+		{
+			"author": "by John Sandford",
+			"description": "Virgil Flowers joins the hunt for a teenage Bonnie and Clyde.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399157707.jpg",
+			"name": "MAD RIVER",
+			"publisher": "Penguin Group",
+			"rank": 14
+		},
+		{
+			"author": "by M. Leighton",
+			"description": "The life of a college student, home to help her father run his business, is turned upside down when she falls in love with twins.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/A00B009FG00N2.jpg",
+			"name": "DOWN TO YOU",
+			"publisher": "M. Leighton",
+			"rank": 15
+		}
+	]
+}

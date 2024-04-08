@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Glennon Doyle",
+			"description": "The activist and public speaker describes her journey of listening to her inner voice.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984801258.jpg",
+			"name": "UNTAMED",
+			"publisher": "Dial",
+			"rank": 1
+		},
+		{
+			"author": "by Erik Larson",
+			"description": "An examination of the leadership of the prime minister Winston Churchill.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385348713.jpg",
+			"name": "THE SPLENDID AND THE VILE",
+			"publisher": "Crown",
+			"rank": 2
+		},
+		{
+			"author": "by Katherine Schwarzenegger Pratt",
+			"description": "Stories, interviews and reflections on the act of letting go of resentment.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984878250.jpg",
+			"name": "THE GIFT OF FORGIVENESS",
+			"publisher": "Pamela Dorman",
+			"rank": 3
+		},
+		{
+			"author": "by Kobe Bryant",
+			"description": "Various skills and techniques used on the court by the late Los Angeles Lakers player.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780374201234.jpg",
+			"name": "THE MAMBA MENTALITY",
+			"publisher": "Melcher Media/MCD/Farrar, Straus & Giroux",
+			"rank": 4
+		},
+		{
+			"author": "by Tara Westover",
+			"description": "The daughter of survivalists, who is kept out of school, educates herself enough to leave home for university.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399590504.jpg",
+			"name": "EDUCATED",
+			"publisher": "Random House",
+			"rank": 5
+		},
+		{
+			"author": "by Trevor Noah",
+			"description": "A memoir about growing up biracial in apartheid South Africa by the host of \u201cThe Daily Show.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399588181.jpg",
+			"name": "BORN A CRIME",
+			"publisher": "Spiegel & Grau",
+			"rank": 6
+		},
+		{
+			"author": "by Jessica Simpson with Kevin Carr O\u2019Leary",
+			"description": "The singer, actress and fashion designer discloses times of success, trauma and addiction.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062899965.jpg",
+			"name": "OPEN BOOK",
+			"publisher": "Dey St.",
+			"rank": 7
+		},
+		{
+			"author": "by Malcolm Gladwell",
+			"description": "Famous examples of miscommunication serve as the backdrop to explain potential conflicts and misunderstandings.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316478526.jpg",
+			"name": "TALKING TO STRANGERS",
+			"publisher": "Little, Brown",
+			"rank": 8
+		},
+		{
+			"author": "by Yuval Noah Harari",
+			"description": "How Homo sapiens became Earth\u2019s dominant species.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062316097.jpg",
+			"name": "SAPIENS",
+			"publisher": "Harper",
+			"rank": 9
+		},
+		{
+			"author": "by Patrick Radden Keefe",
+			"description": "A look at the conflict in Northern Ireland known as the Troubles.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385521314.jpg",
+			"name": "SAY NOTHING",
+			"publisher": "Doubleday",
+			"rank": 10
+		},
+		{
+			"author": "by Dan Abrams and David Fisher",
+			"description": "How the man who became the second president served as the defense lawyer for the British soldiers who stood accused in the Boston Massacre in 1770.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781335015921.jpg",
+			"name": "JOHN ADAMS UNDER FIRE",
+			"publisher": "Hanover Square",
+			"rank": 11
+		},
+		{
+			"author": "by Thomas Piketty",
+			"description": "An overview of political and economic inequality and a call for a more balanced approach to those systems.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780674980822.jpg",
+			"name": "CAPITAL AND IDEOLOGY",
+			"publisher": "Belknap",
+			"rank": 12
+		},
+		{
+			"author": "by Michelle Obama",
+			"description": "The former first lady describes her journey from the South Side of Chicago to the White House, and how she balanced work, family and her husband\u2019s political ascent.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524763138.jpg",
+			"name": "BECOMING",
+			"publisher": "Crown",
+			"rank": 13
+		},
+		{
+			"author": "by Bryan Stevenson",
+			"description": "A law professor and MacArthur grant recipient\u2019s memoir of his decades of work to free innocent people condemned to death.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812994520.jpg",
+			"name": "JUST MERCY",
+			"publisher": "Spiegel & Grau",
+			"rank": 14
+		},
+		{
+			"author": "by John M. Barry",
+			"description": "An overview of the 1918 flu epidemic and cautionary tale for similar kinds of large-scale outbreaks.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780143036494.jpg",
+			"name": "THE GREAT INFLUENZA",
+			"publisher": "Penguin",
+			"rank": 15
+		}
+	]
+}

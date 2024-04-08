@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Viola Davis",
+			"description": "The multiple award-winning actress describes the difficulties she encountered before claiming her sense of self and achieving professional success.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063037328.jpg",
+			"name": "FINDING ME",
+			"publisher": "HarperOne",
+			"rank": 1
+		},
+		{
+			"author": "by Tina Brown",
+			"description": "This follow-up to \u201cThe Diana Chronicles\u201d details how the royal family reinvented itself after the death of Princess Diana.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593138090.jpg",
+			"name": "THE PALACE PAPERS",
+			"publisher": "Crown",
+			"rank": 2
+		},
+		{
+			"author": "by Bessel van der Kolk",
+			"description": "How trauma affects the body and mind, and innovative treatments for recovery.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780670785933.jpg",
+			"name": "THE BODY KEEPS THE SCORE",
+			"publisher": "Penguin",
+			"rank": 3
+		},
+		{
+			"author": "by Paul Holes",
+			"description": "A memoir by a former cold case investigator who worked on several notable cases, including the identification of the Golden State Killer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250622792.jpg",
+			"name": "UNMASKED",
+			"publisher": "Celadon",
+			"rank": 4
+		},
+		{
+			"author": "by Bill Browder",
+			"description": "The author of \u201cRed Notice\u201d tells his story of becoming Vladimir Putin\u2019s enemy by uncovering a $230 million tax refund scheme.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982153281.jpg",
+			"name": "FREEZING ORDER",
+			"publisher": "Simon & Schuster",
+			"rank": 5
+		},
+		{
+			"author": "by Jessi Klein",
+			"description": "A collection of comedic essays on motherhood and middle age by the Emmy Award-winning writer and producer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062981592.jpg",
+			"name": "I'LL SHOW MYSELF OUT",
+			"publisher": "Harper",
+			"rank": 6
+		},
+		{
+			"author": "by Robin Wall Kimmerer",
+			"description": "A botanist and member of the Citizen Potawatomi Nation espouses having an understanding and appreciation of plants and animals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781571313560.jpg",
+			"name": "BRAIDING SWEETGRASS",
+			"publisher": "Milkweed Editions",
+			"rank": 7
+		},
+		{
+			"author": "by Tyrus",
+			"description": "A memoir by the pro wrestler and Fox News political commentator.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781637580660.jpg",
+			"name": "JUST TYRUS",
+			"publisher": "Post Hill",
+			"rank": 8
+		},
+		{
+			"author": "by Jon Krakauer",
+			"description": "Two brothers who subscribed to a fundamentalist version of Mormonism killed a woman and her daughter; the basis of the TV series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400032808.jpg",
+			"name": "UNDER THE BANNER OF HEAVEN",
+			"publisher": "Anchor",
+			"rank": 9
+		},
+		{
+			"author": "by Douglas Murray",
+			"description": "An associate editor of The Spectator and Fox News contributor makes his arguments against anti-Western rhetoric.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063162020.jpg",
+			"name": "THE WAR ON THE WEST",
+			"publisher": "Broadside",
+			"rank": 10
+		},
+		{
+			"author": "by Michelle Zauner",
+			"description": "The daughter of a Korean mother and Jewish-American father, and leader of the indie rock project Japanese Breakfast, describes creating her own identity after losing her mother to cancer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525657743.jpg",
+			"name": "CRYING IN H MART",
+			"publisher": "Knopf",
+			"rank": 11
+		},
+		{
+			"author": "by Molly Shannon with Sean Wilsey",
+			"description": "The comedic actor shares stories of family tragedy and her years as a star of \u201cSaturday Night Live.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063056237.jpg",
+			"name": "HELLO, MOLLY!",
+			"publisher": "Ecco",
+			"rank": 12
+		},
+		{
+			"author": "by Gary Janetti",
+			"description": "A collection of comedic stories by the writer and producer best known for his work on \u201cFamily Guy.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250225856.jpg",
+			"name": "START WITHOUT ME",
+			"publisher": "Holt",
+			"rank": 13
+		},
+		{
+			"author": "by Arthur C. Brooks",
+			"description": "A columnist for The Atlantic espouses ways to shift priorities and habits to overcome waning abilities in later life.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593191484.jpg",
+			"name": "FROM STRENGTH TO STRENGTH",
+			"publisher": "Portfolio",
+			"rank": 14
+		},
+		{
+			"author": "by Randy Rainbow",
+			"description": "A memoir by the three-time Emmy-nominated comedian known for his online musical and political satires.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250276254.jpg",
+			"name": "PLAYING WITH MYSELF",
+			"publisher": "St. Martin's",
+			"rank": 15
+		}
+	]
+}

@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Stephanie Johnson and Brandon Stanton",
+			"description": "A profile of a performer who was a well-known burlesque dancer in New York City.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250278272.jpg",
+			"name": "TANQUERAY",
+			"publisher": "St. Martin's",
+			"rank": 1
+		},
+		{
+			"author": "by Mark Leibovich",
+			"description": "A staff writer at The Atlantic details how some Republicans shifted their loyalty to Donald Trump.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593296318.jpg",
+			"name": "THANK YOU FOR YOUR SERVITUDE",
+			"publisher": "Penguin Press",
+			"rank": 2
+		},
+		{
+			"author": "by Bessel van der Kolk",
+			"description": "How trauma affects the body and mind, and innovative treatments for recovery.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780670785933.jpg",
+			"name": "THE BODY KEEPS THE SCORE",
+			"publisher": "Penguin",
+			"rank": 3
+		},
+		{
+			"author": "by Pete Hegseth with David Goodwin",
+			"description": "The \"Fox & Friends Weekend\" host makes his case for what he calls classical Christian education.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063215047.jpg",
+			"name": "BATTLE FOR THE AMERICAN MIND",
+			"publisher": "Broadside",
+			"rank": 4
+		},
+		{
+			"author": "by David Sedaris",
+			"description": "The humorist portrays personal and public upheavals of his life in its seventh decade and the world in the time of a pandemic.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316392457.jpg",
+			"name": "HAPPY-GO-LUCKY",
+			"publisher": "Little, Brown",
+			"rank": 5
+		},
+		{
+			"author": "by Henry Kissinger",
+			"description": "The former secretary of state profiles the statecraft strategies of Richard Nixon, Margaret Thatcher and others.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593489444.jpg",
+			"name": "LEADERSHIP",
+			"publisher": "Penguin Press",
+			"rank": 6
+		},
+		{
+			"author": "by Viola Davis",
+			"description": "The multiple award-winning actress describes the difficulties she encountered before claiming her sense of self and achieving professional success.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063037328.jpg",
+			"name": "FINDING ME",
+			"publisher": "HarperOne",
+			"rank": 7
+		},
+		{
+			"author": "by Michelle Zauner",
+			"description": "The daughter of a Korean mother and Jewish-American father, and leader of the indie rock project Japanese Breakfast, describes creating her own identity after losing her mother to cancer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525657743.jpg",
+			"name": "CRYING IN H MART",
+			"publisher": "Knopf",
+			"rank": 8
+		},
+		{
+			"author": "by Malcolm Nance",
+			"description": "The author of \u201cThe Plot to Hack America\u201d examines radicalization and terror threats within the United States.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250279002.jpg",
+			"name": "THEY WANT TO KILL AMERICANS",
+			"publisher": "St. Martin's",
+			"rank": 9
+		},
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "The 11th book in the conservative commentator\u2019s Killing series gives an account of the global war against terrorists.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250279255.jpg",
+			"name": "KILLING THE KILLERS",
+			"publisher": "St. Martin's",
+			"rank": 10
+		},
+		{
+			"author": "by James Patterson",
+			"description": "The author\u2019s life, from growing up in small-town New York to working in the advertising industry to becoming a successful storyteller.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316397537.jpg",
+			"name": "JAMES PATTERSON",
+			"publisher": "Little, Brown",
+			"rank": 11
+		},
+		{
+			"author": "by Tim Miller",
+			"description": "The former Republican political operative assesses why some centrist conservatives fell under the sway of Donald Trump.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063161474.jpg",
+			"name": "WHY WE DID IT",
+			"publisher": "Harper",
+			"rank": 12
+		},
+		{
+			"author": "by Robin Wall Kimmerer",
+			"description": "A botanist and member of the Citizen Potawatomi Nation espouses having an understanding and appreciation of plants and animals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781571313560.jpg",
+			"name": "BRAIDING SWEETGRASS",
+			"publisher": "Milkweed Editions",
+			"rank": 13
+		},
+		{
+			"author": "by Ed Yong",
+			"description": "The Pulitzer Prize\u2013winning science writer explains the sensory perceptions and ways of communication used by a variety of animals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593133231.jpg",
+			"name": "AN IMMENSE WORLD",
+			"publisher": "Random House",
+			"rank": 14
+		},
+		{
+			"author": "by Tara Westover",
+			"description": "The daughter of survivalists, who is kept out of school, educates herself enough to leave home for university.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399590504.jpg",
+			"name": "EDUCATED",
+			"publisher": "Random House",
+			"rank": 15
+		}
+	]
+}

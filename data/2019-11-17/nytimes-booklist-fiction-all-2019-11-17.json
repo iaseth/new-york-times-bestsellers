@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Lee Child",
+			"description": "Jack Reacher gets caught up in a turf war between Ukrainian and Albanian gangs.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399593543.jpg",
+			"name": "BLUE MOON",
+			"publisher": "Delacorte",
+			"rank": 1
+		},
+		{
+			"author": "by John Grisham",
+			"description": "Cullen Post, a lawyer and Episcopal minister, antagonizes some ruthless killers when he takes on a wrongful conviction case.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385544184.jpg",
+			"name": "THE GUARDIANS",
+			"publisher": "Doubleday",
+			"rank": 2
+		},
+		{
+			"author": "by Michael Connelly",
+			"description": "Harry Bosch and Ren\u00e9e Ballard return to take up a case that held the attention of Bosch\u2019s mentor.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316485616.jpg",
+			"name": "THE NIGHT FIRE",
+			"publisher": "Little, Brown",
+			"rank": 3
+		},
+		{
+			"author": "by Delia Owens",
+			"description": "In a quiet town on the North Carolina coast in 1969, a young woman who survived alone in the marsh becomes a murder suspect.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735219090.jpg",
+			"name": "WHERE THE CRAWDADS SING",
+			"publisher": "Putnam",
+			"rank": 4
+		},
+		{
+			"author": "by Jojo Moyes",
+			"description": "In Depression-era America, five women refuse to be cowed by men or convention as they deliver books throughout the mountains of Kentucky.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399562501.jpg",
+			"name": "THE GIVER OF STARS",
+			"publisher": "Pamela Dorman/Viking",
+			"rank": 5
+		},
+		{
+			"author": "by Ann Patchett",
+			"description": "A sibling relationship is impacted when the family goes from poverty to wealth and back again over the course of many decades.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062963673.jpg",
+			"name": "THE DUTCH HOUSE",
+			"publisher": "Harper",
+			"rank": 6
+		},
+		{
+			"author": "by Andr\u00e9 Aciman",
+			"description": "Years after the events of \u201cCall Me by Your Name,\u201d Elio has become a classically trained pianist in Paris while Oliver is a New England college professor with a family.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780374155018.jpg",
+			"name": "FIND ME",
+			"publisher": "Farrar, Straus & Giroux",
+			"rank": 7
+		},
+		{
+			"author": "by James Patterson and Maxine Paetro",
+			"description": "In the 19th installment of the Women's Murder Club series, detective Lindsay Boxer and company take on a fearsome criminal known only as \"Loman.\"",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316494021.jpg",
+			"name": "THE 19TH CHRISTMAS",
+			"publisher": "Little, Brown",
+			"rank": 8
+		},
+		{
+			"author": "by Nelson DeMille and Alex DeMille",
+			"description": "Two members of the Criminal Investigation Division must bring back a Delta Force soldier who disappeared.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501101755.jpg",
+			"name": "THE DESERTER",
+			"publisher": "Simon & Schuster",
+			"rank": 9
+		},
+		{
+			"author": "by Stephen King",
+			"description": "Children with special talents are abducted and sequestered in an institution where the sinister staff seeks to extract their gifts through harsh methods.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982110567.jpg",
+			"name": "THE INSTITUTE",
+			"publisher": "Scribner",
+			"rank": 10
+		},
+		{
+			"author": "by Helen Hardt",
+			"description": "The 11th book in the Steel Brothers Saga.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781642631371.jpg",
+			"name": "RAVENOUS",
+			"publisher": "Waterhouse",
+			"rank": 11
+		},
+		{
+			"author": "by Stephen King",
+			"description": "Now grown up, Dan, the boy with psycho-intuitive powers in \u201cThe Shining,\u201d helps another child with a spectacular gift.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451698855.jpg",
+			"name": "DOCTOR SLEEP",
+			"publisher": "Scribner",
+			"rank": 12
+		},
+		{
+			"author": "by Rhett McLaughlin and Link Neal with Lance Rubin",
+			"description": "Two high school freshmen dig into the dark underpinnings of their hometown and a local reform school in North Carolina.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984822130.jpg",
+			"name": "THE LOST CAUSES OF BLEAK CREEK",
+			"publisher": "Crown",
+			"rank": 13
+		},
+		{
+			"author": "by Ta-Nehisi Coates",
+			"description": "A young man who was gifted with a mysterious power becomes part of a war between slavers and the enslaved.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399590597.jpg",
+			"name": "THE WATER DANCER",
+			"publisher": "One World",
+			"rank": 14
+		},
+		{
+			"author": "by Margaret Atwood",
+			"description": "In a sequel to \u201cThe Handmaid\u2019s Tale,\u201d old secrets bring three women together as the Republic of Gilead\u2019s theocratic regime shows signs of decay.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385543781.jpg",
+			"name": "THE TESTAMENTS",
+			"publisher": "Nan A. Talese/Doubleday",
+			"rank": 15
+		}
+	]
+}

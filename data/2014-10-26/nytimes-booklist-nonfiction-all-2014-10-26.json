@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "The host of \u201cThe O\u2019Reilly Factor\u201d recounts the strange death of Gen. George S. Patton in December 1945.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780805096699.jpg",
+			"name": "KILLING PATTON",
+			"publisher": "Holt",
+			"rank": 1
+		},
+		{
+			"author": "by Lena Dunham",
+			"description": "A collection of revealing and often humorous personal essays from the creator and star of \u201cGirls.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812995008.jpg",
+			"name": "NOT THAT KIND OF GIRL",
+			"publisher": "Random House",
+			"rank": 2
+		},
+		{
+			"author": "by Walter Isaacson",
+			"description": "Studies of the people who created computers and the Internet, beginning in the 1840s.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476708713.jpg",
+			"name": "THE INNOVATORS",
+			"publisher": "Simon & Schuster",
+			"rank": 3
+		},
+		{
+			"author": "by Atul Gawande",
+			"description": "The surgeon and New Yorker writer considers how doctors fail patients at the end of life, and how they can do better.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780805095159.jpg",
+			"name": "BEING MORTAL",
+			"publisher": "Metropolitan/Holt",
+			"rank": 4
+		},
+		{
+			"author": "by Michael Savage",
+			"description": "The radio host urges true patriots to save the country from the machinations of the left.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455582433.jpg",
+			"name": "STOP THE COMING CIVIL WAR",
+			"publisher": "Center Street",
+			"rank": 5
+		},
+		{
+			"author": "by Leon Panetta with Jim Newton",
+			"description": "The writer\u2019s experience in the Obama administration as director of the C.I.A. and secretary of defense.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698152748.jpg",
+			"name": "WORTHY FIGHTS",
+			"publisher": "Penguin Press",
+			"rank": 6
+		},
+		{
+			"author": "by Daniel James Brown",
+			"description": "The University of Washington\u2019s eight-oar crew and their quest for gold at the 1936 Berlin Olympics.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101622742.jpg",
+			"name": "THE BOYS IN THE BOAT",
+			"publisher": "Viking",
+			"rank": 7
+		},
+		{
+			"author": "by Laura Hillenbrand",
+			"description": "An Olympic runner\u2019s story of survival as a prisoner of the Japanese in World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400064168.jpg",
+			"name": "UNBROKEN",
+			"publisher": "Random House",
+			"rank": 8
+		},
+		{
+			"author": "by Randall Munroe",
+			"description": "Scientific (but often humorous) answers to hypothetical questions, based in part on the author\u2019s website, xkcd.com.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780544272644.jpg",
+			"name": "WHAT IF?",
+			"publisher": "Houghton Mifflin Harcourt",
+			"rank": 9
+		},
+		{
+			"author": "by Joe Perry with David Ritz",
+			"description": "A memoir by the Aerosmith guitarist and songwriter.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476714547.jpg",
+			"name": "ROCKS",
+			"publisher": "Simon & Schuster",
+			"rank": 10
+		},
+		{
+			"author": "by Chris Kyle with Scott McEwen and Jim DeFelice",
+			"description": "A former member of the Navy SEALs discusses his battlefield experiences during the Iraq war. Kyle was shot to death in Texas in 2013.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062082374.jpg",
+			"name": "AMERICAN SNIPER",
+			"publisher": "Morrow/HarperCollins",
+			"rank": 11
+		},
+		{
+			"author": "by Mitchell Zuckoff with members of the Annex Security Team",
+			"description": "Six C.I.A. contract employees discuss their experience during the attack on the State Department compound and the C.I.A. station called the \u201cannex\u201d in Benghazi in 2012.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455582297.jpg",
+			"name": "13 HOURS",
+			"publisher": "Twelve",
+			"rank": 12
+		},
+		{
+			"author": "by Richard Preston",
+			"description": "The discovery of the Ebola virus, and the efforts to keep it from spreading; first published in 1994.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307817655.jpg",
+			"name": "THE HOT ZONE",
+			"publisher": "Anchor",
+			"rank": 13
+		},
+		{
+			"author": "by Sam Harris",
+			"description": "This exploration of consciousness proposes that spirituality can and should be divorced from religion.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451636031.jpg",
+			"name": "WAKING UP",
+			"publisher": "Simon & Schuster",
+			"rank": 14
+		},
+		{
+			"author": "by Cheryl Strayed",
+			"description": "A woman\u2019s account of a life-changing 1,100-mile hike along the Pacific Crest Trail during the summer of 1995.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307476074.jpg",
+			"name": "WILD",
+			"publisher": "Knopf",
+			"rank": 15
+		}
+	]
+}

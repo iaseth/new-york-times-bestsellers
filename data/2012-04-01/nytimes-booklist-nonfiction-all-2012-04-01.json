@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Todd Burpo with Lynn Vincent",
+			"description": "A father recounts his 3-year-old son\u2019s encounter with Jesus and the angels during an appendectomy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780849949203.jpg",
+			"name": "HEAVEN IS FOR REAL",
+			"publisher": "Thomas Nelson",
+			"rank": 1
+		},
+		{
+			"author": "by Jay P. Dolan",
+			"description": "A history of the Irish experience in America by a Notre Dame professor, from the first arrival in the colonies through the i election of John F. Kennedy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781608192403.jpg",
+			"name": "THE IRISH AMERICANS",
+			"publisher": "Bloomsbury Publishing",
+			"rank": 2
+		},
+		{
+			"author": "by Kim and Krickitt Carpenter with Dana Wilkerson",
+			"description": "After a horrific car crash, a couple embark on a journey to fall in love all over again. The true events that inspired the movie.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781433675942.jpg",
+			"name": "THE VOW",
+			"publisher": "B&H Publishing",
+			"rank": 3
+		},
+		{
+			"author": "by Walter Isaacson",
+			"description": "A biography of the recently deceased entrepreneur, based on 40 interviews with Jobs conducted over two years.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451648553.jpg",
+			"name": "STEVE JOBS",
+			"publisher": "Simon & Schuster",
+			"rank": 4
+		},
+		{
+			"author": "by Charles Duhigg",
+			"description": "A Times reporter\u2019s account of the science behind how we form, and break, habits.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812981605.jpg",
+			"name": "THE POWER OF HABIT",
+			"publisher": "Random House Publishing",
+			"rank": 5
+		},
+		{
+			"author": "by Chris Kyle with Scott McEwen and Jim DeFelice",
+			"description": "A member of the Navy SEALs discusses his battlefield experiences.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062082374.jpg",
+			"name": "AMERICAN SNIPER",
+			"publisher": "HarperCollins Publishers",
+			"rank": 6
+		},
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "The anchor of \u201cThe O\u2019Reilly Factor\u201d recounts the assassination of Abraham Lincoln.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780805093070.jpg",
+			"name": "KILLING LINCOLN",
+			"publisher": "Holt",
+			"rank": 7
+		},
+		{
+			"author": "by Laura Hillenbrand",
+			"description": "An Olympic runner\u2019s story of survival as a prisoner of the Japanese in World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400064168.jpg",
+			"name": "UNBROKEN",
+			"publisher": "Random House Publishing",
+			"rank": 8
+		},
+		{
+			"author": "by Tina Fey",
+			"description": "A memoir from the former \"Saturday Night Live\" star and creator of \"30 Rock.\"",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316056892.jpg",
+			"name": "BOSSYPANTS",
+			"publisher": "Little, Brown & Company",
+			"rank": 9
+		},
+		{
+			"author": "by Jonathan Haidt",
+			"description": "A psychologist argues that people make decisions based on moral intuitions, which makes them attack opponents self-righteously.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307455772.jpg",
+			"name": "THE RIGHTEOUS MIND",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 10
+		},
+		{
+			"author": "by Susan Cain",
+			"description": "Introverts \u2014 one-third of the population \u2014 are undervalued in American society.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307452207.jpg",
+			"name": "QUIET",
+			"publisher": "Crown Publishing",
+			"rank": 11
+		},
+		{
+			"author": "by Rebecca Skloot",
+			"description": "The story of a woman whose cancer cells were cultured without her permission in 1951.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400052189.jpg",
+			"name": "THE IMMORTAL LIFE OF HENRIETTA LACKS",
+			"publisher": "Crown Publishing",
+			"rank": 12
+		},
+		{
+			"author": "by Jaycee Dugard",
+			"description": "A woman tells of being kidnapped at the age of 11 and held prisoner for 18 years by a convicted rapist and his wife.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451629187.jpg",
+			"name": "A STOLEN LIFE",
+			"publisher": "Simon & Schuster",
+			"rank": 13
+		},
+		{
+			"author": "by Dale Archer",
+			"description": "A psychiatrist redefines what constitutes mental health.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307887467.jpg",
+			"name": "BETTER THAN NORMAL",
+			"publisher": "Crown Publishing",
+			"rank": 14
+		},
+		{
+			"author": "by John Heilemann and Mark Halperin",
+			"description": "A behind-the-scenes account of the election of 2008; the inspiration for the recent HBO docudrama.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780061966200.jpg",
+			"name": "GAME CHANGE",
+			"publisher": "HarperCollins Publishers",
+			"rank": 15
+		}
+	]
+}

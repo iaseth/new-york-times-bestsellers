@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Robyn Carr",
+			"description": "In a moment of desperation, Devon McAllister takes her daughter and flees to Thunder Point, Ore., where she meets the man who could heal her wounded heart.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781460317976.jpg",
+			"name": "THE HERO",
+			"publisher": "Harlequin Mira",
+			"rank": 1
+		},
+		{
+			"author": "by Liane Moriarty",
+			"description": "A woman\u2019s life is upended when she discovers a letter from her husband she was not meant to read.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101636237.jpg",
+			"name": "THE HUSBAND'S SECRET",
+			"publisher": "Amy Einhorn/Putnam",
+			"rank": 2
+		},
+		{
+			"author": "by Louise Penny",
+			"description": "Chief Inspector Armand Gamache of the S\u00fbret\u00e9 du Qu\u00e9bec seeks a refuge in the tiny village of Three Pines.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780312655471.jpg",
+			"name": "HOW THE LIGHT GETS IN",
+			"publisher": "Minotaur",
+			"rank": 3
+		},
+		{
+			"author": "by Robert Galbraith",
+			"description": "The struggling detective Cormoran Strike investigates a supermodel\u2019s suicide; by J.K. Rowling, writing pseudonymously.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316206860.jpg",
+			"name": "THE CUCKOO'S CALLING",
+			"publisher": "Mulholland/Little, Brown",
+			"rank": 4
+		},
+		{
+			"author": "by Kathy Reichs",
+			"description": "The investigation of a hit-and-run leads the forensic anthropologist Temperance Brennan into the world of human trafficking; the 16th novel in the series behind the show \u201cBones.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476754741.jpg",
+			"name": "BONES OF THE LOST",
+			"publisher": "Scribner",
+			"rank": 5
+		},
+		{
+			"author": "by Jayne Castle",
+			"description": "The business mogul Drake Sebastian thinks Alice, a light-talent, is the key to finding two missing Old World crystals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780515152852.jpg",
+			"name": "DECEPTION COVE",
+			"publisher": "Jove",
+			"rank": 6
+		},
+		{
+			"author": "by Linda Lael Miller",
+			"description": "The Hollywood actor Zane Sutton has returned to his rodeo roots in Parable, Mont. Is he home for good?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780373777747.jpg",
+			"name": "BIG SKY WEDDING",
+			"publisher": "Harlequin",
+			"rank": 7
+		},
+		{
+			"author": "by James Patterson and David Ellis",
+			"description": "When he begins to investigate a friend\u2019s mysterious death, a man discovers she was leading a double life.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316211079.jpg",
+			"name": "MISTRESS",
+			"publisher": "Little, Brown",
+			"rank": 8
+		},
+		{
+			"author": "by Diane Mott Davidson",
+			"description": "Someone is stalking the caterer and sleuth Goldy Schulz.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780061348181.jpg",
+			"name": "THE WHOLE ENCHILADA",
+			"publisher": "Morrow/HarperCollins",
+			"rank": 9
+		},
+		{
+			"author": "by Lee Child",
+			"description": "With New York City blacked out, a 16-year-old Jack Reacher helps a woman with a problem; a Jack Reacher novella.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345546647.jpg",
+			"name": "HIGH HEAT",
+			"publisher": "Delacorte",
+			"rank": 10
+		},
+		{
+			"author": "by Dan Brown",
+			"description": "The symbologist Robert Langdon, on the run in Florence, must decipher a series of codes created by a Dante-loving scientist.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400079155.jpg",
+			"name": "INFERNO",
+			"publisher": "Doubleday",
+			"rank": 11
+		},
+		{
+			"author": "by Sandra Brown",
+			"description": "An editor receives an  anonymous manuscript and sets out to discover its author's identity. Originally published in 2001.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455546473.jpg",
+			"name": "ENVY",
+			"publisher": "Grand Central Publishing",
+			"rank": 12
+		},
+		{
+			"author": "by Sandra Brown",
+			"description": "Should a television reporter broadcast the secrets confided to her by the first lady?\u00a0Originally published in 1996.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455546299.jpg",
+			"name": "EXCLUSIVE",
+			"publisher": "Grand Central Publishing",
+			"rank": 13
+		},
+		{
+			"author": "by A. S. A. Harrison",
+			"description": "A chilling portrait of a marriage gone terribly awry is presented in alternating voices.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101608067.jpg",
+			"name": "THE SILENT WIFE",
+			"publisher": "Penguin",
+			"rank": 14
+		},
+		{
+			"author": "by John Grisham",
+			"description": "An imprisoned ex-lawyer schemes to exchange information about who murdered a judge for his freedom.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385536882.jpg",
+			"name": "THE RACKETEER",
+			"publisher": "Doubleday",
+			"rank": 15
+		}
+	]
+}

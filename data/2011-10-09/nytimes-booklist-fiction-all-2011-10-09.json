@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Kathryn Stockett",
+			"description": "A young white woman and two black maids in 1960s Mississippi.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781440697661.jpg",
+			"name": "THE HELP",
+			"publisher": "Penguin Group",
+			"rank": 1
+		},
+		{
+			"author": "by Sandra Brown",
+			"description": "A woman, her daughter and a man accused of murder evade the authorities as they search for her dead husband\u2019s secrets.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455501489.jpg",
+			"name": "LETHAL",
+			"publisher": "Grand Central",
+			"rank": 2
+		},
+		{
+			"author": "by Darcie Chan",
+			"description": "Only one man knows an abused widow, which revealed will change many lives in her small Vermont town.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780615523774.jpg",
+			"name": "THE MILL RIVER RECLUSE",
+			"publisher": "Darcie Chan",
+			"rank": 3
+		},
+		{
+			"author": "by Richard Castle",
+			"description": "An N.Y.P.D. homicide detective uncovers a conspiracy that reaches the department\u2019s highest levels.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781401303914.jpg",
+			"name": "HEAT RISES",
+			"publisher": "Hyperion",
+			"rank": 4
+		},
+		{
+			"author": "by Stuart Woods",
+			"description": "The New York lawyer Stone Barrington gets to know his teenage son and proposes to the boy\u2019s mother.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399157653.jpg",
+			"name": "SON OF STONE",
+			"publisher": "Penguin Group",
+			"rank": 5
+		},
+		{
+			"author": "by Chris Culver",
+			"description": "Against orders, a former homicide detective begins an investigation into his niece's murder.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/A00B004M18ZRS.jpg",
+			"name": "THE ABBEY",
+			"publisher": "Chris Culver",
+			"rank": 6
+		},
+		{
+			"author": "by Fern Michaels",
+			"description": "Strange things begin happening to a lonely New Orleans caterer after she meets a wealthy, and irritatingly attractive, Cajun playboy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781420123128.jpg",
+			"name": "LISTEN TO YOUR HEART",
+			"publisher": "Thorndike",
+			"rank": 7
+		},
+		{
+			"author": "by James Patterson and Marshall Karp",
+			"description": "When a young man finds a bag of diamonds, he gets the attention of the Ghost, a major assassin, and a rival assassin who wants the Ghost gone forever.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316097550.jpg",
+			"name": "KILL ME IF YOU CAN",
+			"publisher": "Little, Brown",
+			"rank": 8
+		},
+		{
+			"author": "by Erin Morgenstern",
+			"description": "Two young rivals at a magical circus become collaborators as they fall in love.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385534635.jpg",
+			"name": "THE NIGHT CIRCUS",
+			"publisher": "Knopf Doubleday",
+			"rank": 9
+		},
+		{
+			"author": "by J. D. Robb",
+			"description": "An escaped child molester pursues Lt. Eve Dallas; by Nora Roberts, writing pseudonymously.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101536919.jpg",
+			"name": "NEW YORK TO DALLAS",
+			"publisher": "Berkley",
+			"rank": 10
+		},
+		{
+			"author": "by Neal Stephenson",
+			"description": "A virus invades a multiplayer online role-playing game and sets off a violent struggle.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062101341.jpg",
+			"name": "REAMDE",
+			"publisher": "HarperCollins",
+			"rank": 11
+		},
+		{
+			"author": "by Michael Connelly",
+			"description": "The Los Angeles detective Harry Bosch investigates the scandalous death of a narcotics officer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780759525788.jpg",
+			"name": "THE BLACK ICE",
+			"publisher": "Little, Brown",
+			"rank": 12
+		},
+		{
+			"author": "by Tatiana de Rosnay",
+			"description": "A contemporary American journalist investigates what happened to a little girl during the roundup of Jews in Paris in 1942.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780312370848.jpg",
+			"name": "SARAH\u2019S KEY",
+			"publisher": "St. Martin\u2019s",
+			"rank": 13
+		},
+		{
+			"author": "by Debbie Macomber",
+			"description": "Bruce Peyton\u2019s pregnant wife has left him, and he\u2019s not the only one in town with problems; the 11th book in the Cedar Cove series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780778312512.jpg",
+			"name": "1105 YAKIMA STREET",
+			"publisher": "Mira",
+			"rank": 14
+		},
+		{
+			"author": "by CJ Lyons",
+			"description": "A woman finds no closure after a man is executed for the murder of her husband and son.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/A00B0043M6J92.jpg",
+			"name": "BLIND FAITH",
+			"publisher": "Legacy",
+			"rank": 15
+		}
+	]
+}

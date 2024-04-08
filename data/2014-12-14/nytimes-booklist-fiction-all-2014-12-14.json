@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by James Patterson",
+			"description": "Detective Alex Cross\u2019s family is kidnapped by a madman who wants to turn Cross into a perfect killer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316210942.jpg",
+			"name": "HOPE TO DIE",
+			"publisher": "Little, Brown",
+			"rank": 1
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "John Puller, a special agent with the Army, hunts for his brother, who was convicted of treason and has escaped from prison.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455521197.jpg",
+			"name": "THE ESCAPE",
+			"publisher": "Grand Central",
+			"rank": 2
+		},
+		{
+			"author": "by Gillian Flynn",
+			"description": "A woman disappears on the day of her fifth anniversary; is her husband a killer?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307588388.jpg",
+			"name": "GONE GIRL",
+			"publisher": "Crown",
+			"rank": 3
+		},
+		{
+			"author": "by John Grisham",
+			"description": "A lawyer joins a legal clinic in a small Virginia town, and becomes involved in litigation against the coal mining industry.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385537148.jpg",
+			"name": "GRAY MOUNTAIN",
+			"publisher": "Doubleday",
+			"rank": 4
+		},
+		{
+			"author": "by Michael Connelly",
+			"description": "The Los Angeles detective Harry Bosch and his new partner investigate two long-unsolved cases.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316225939.jpg",
+			"name": "THE BURNING ROOM",
+			"publisher": "Little, Brown",
+			"rank": 5
+		},
+		{
+			"author": "by Sylvia Day",
+			"description": "Eva and Gideon's love is threatened by old wounds; a Crossfire novel.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698153462.jpg",
+			"name": "CAPTIVATED BY YOU",
+			"publisher": "Berkley",
+			"rank": 6
+		},
+		{
+			"author": "by Stephen King",
+			"description": "The continuing relationship over five decades between a disgraced clergyman and a drug-addicted musician whom he mentored as a boy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476770406.jpg",
+			"name": "REVIVAL",
+			"publisher": "Scribner",
+			"rank": 7
+		},
+		{
+			"author": "by Liane Moriarty",
+			"description": "Who will end up dead, and how, when three mothers with children in the same school become friends?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698138636.jpg",
+			"name": "BIG LITTLE LIES",
+			"publisher": "Amy Einhorn/Putnam",
+			"rank": 8
+		},
+		{
+			"author": "by Anthony Doerr",
+			"description": "The lives of a blind French girl and a gadget-obsessed German boy before and during World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476746586.jpg",
+			"name": "ALL THE LIGHT WE CANNOT SEE",
+			"publisher": "Scribner",
+			"rank": 9
+		},
+		{
+			"author": "by Gena Showalter",
+			"description": "The immortal warrior Torin, whose touch causes sickness and death, is tempted by a powerful beauty who has escaped a centuries-long imprisonment; a Lords of the Underworld novel.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781460343401.jpg",
+			"name": "THE DARKEST TOUCH",
+			"publisher": "Harlequin",
+			"rank": 10
+		},
+		{
+			"author": "by Lisa Scottoline",
+			"description": "Judy Carrier, a lawyer at Rosato & Associates, investigates the death of her aunt\u2019s housekeeper while dealing with her own emotional upheavals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250027702.jpg",
+			"name": "BETRAYED",
+			"publisher": "St. Martin's",
+			"rank": 11
+		},
+		{
+			"author": "by Gillian Flynn",
+			"description": "A woman who was spared when her mother and sisters were murdered begins to reinvestigate the case against her imprisoned brother.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307341570.jpg",
+			"name": "DARK PLACES",
+			"publisher": "Broadway",
+			"rank": 12
+		},
+		{
+			"author": "by Jodi Picoult",
+			"description": "After searching for her mother, who has disappeared, for more than 10 years, a woman employs a psychic and a private detective.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345544933.jpg",
+			"name": "LEAVING TIME",
+			"publisher": "Ballantine",
+			"rank": 13
+		},
+		{
+			"author": "by Patricia Cornwell",
+			"description": "Dr. Kay Scarpetta pursues a sniper who may be a vigilante; the 22nd Scarpetta novel.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062325365.jpg",
+			"name": "FLESH AND BLOOD",
+			"publisher": "Morrow/HarperCollins",
+			"rank": 14
+		},
+		{
+			"author": "by Sarah MacLean",
+			"description": "By day, she's Lady Georgiana, ruined sister to a duke. But in London's darkest corners, she's Chase, the owner of a legendary casino.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062068514.jpg",
+			"name": "NEVER JUDGE A LADY BY HER COVER",
+			"publisher": "Avon/HarperCollins",
+			"rank": 15
+		}
+	]
+}

@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by John Sandford",
+			"description": "Virgil Flowers investigates shootings in a Minnesota town following an attempt to revive its ailing economy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735217331.jpg",
+			"name": "HOLY GHOST",
+			"publisher": "Putnam",
+			"rank": 1
+		},
+		{
+			"author": "by James Patterson and James O. Born",
+			"description": "Michael Bennett discovers that an assassin is targeting him and his family.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316414692.jpg",
+			"name": "AMBUSH",
+			"publisher": "Little, Brown",
+			"rank": 2
+		},
+		{
+			"author": "by Mitch Albom",
+			"description": "The sequel to \"The Five People You Meet in Heaven\" follows Annie on her heavenly journey.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062294449.jpg",
+			"name": "THE NEXT PERSON YOU MEET IN HEAVEN",
+			"publisher": "Harper",
+			"rank": 3
+		},
+		{
+			"author": "by Tana French",
+			"description": "After Toby Hennessy retreats to his family\u2019s ancestral home, a skull discovered in the backyard exposes his family's past.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735224636.jpg",
+			"name": "THE WITCH ELM",
+			"publisher": "Viking",
+			"rank": 4
+		},
+		{
+			"author": "by Kate Morton",
+			"description": "A century-old mystery at the Birchwood Manor on the Thames connects the lives of an archivist and artist.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451649390.jpg",
+			"name": "THE CLOCKMAKER'S DAUGHTER",
+			"publisher": "Atria",
+			"rank": 5
+		},
+		{
+			"author": "by Elin Hilderbrand",
+			"description": "Irene Steele uncovers her husband\u2019s secret life on a Caribbean island following his death.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316435512.jpg",
+			"name": "WINTER IN PARADISE",
+			"publisher": "Little, Brown",
+			"rank": 6
+		},
+		{
+			"author": "by Jodi Picoult",
+			"description": "The lives of patients, doctors and activists intersect when a gunman holds them all hostage in a woman's health center in Mississippi.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345544995.jpg",
+			"name": "A SPARK OF LIGHT",
+			"publisher": "Ballantine",
+			"rank": 7
+		},
+		{
+			"author": "by Haruki Murakami",
+			"description": "The discovery of an unseen work in an artist\u2019s attic unleashes a series of bizarre occurrences that a painter must navigate.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525520047.jpg",
+			"name": "KILLING COMMENDATORE",
+			"publisher": "Knopf",
+			"rank": 8
+		},
+		{
+			"author": "by Kyle Mills",
+			"description": "When the Russian prime minister plots to invade the Baltics, only Mitch Rapp can stop him.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501190612.jpg",
+			"name": "VINCE FLYNN: RED WAR",
+			"publisher": "Emily Bestler/Atria",
+			"rank": 9
+		},
+		{
+			"author": "by Delia Owens",
+			"description": "In a quiet town on the North Carolina coast in 1969, a young woman who survived alone in the marsh becomes a murder suspect.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735219090.jpg",
+			"name": "WHERE THE CRAWDADS SING",
+			"publisher": "Putnam",
+			"rank": 10
+		},
+		{
+			"author": "by Kevin Kwan",
+			"description": "A New Yorker gets a surprise when she spends the summer with her boyfriend in Singapore.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345803788.jpg",
+			"name": "CRAZY RICH ASIANS",
+			"publisher": "Anchor",
+			"rank": 11
+		},
+		{
+			"author": "by Heather Morris",
+			"description": "A concentration camp detainee tasked with permanently marking fellow prisoners falls in love with one of them.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062797155.jpg",
+			"name": "THE TATTOOIST OF AUSCHWITZ",
+			"publisher": "Harper",
+			"rank": 12
+		},
+		{
+			"author": "by Robert Galbraith",
+			"description": "The fourth book in the Cormoran Strike series. Detectives Strike and Ellacott investigate a crime a young man may have witnessed as a child; by J. K. Rowling, writing pseudonymously.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316422741.jpg",
+			"name": "LETHAL WHITE",
+			"publisher": "Mulholland/Little, Brown",
+			"rank": 13
+		},
+		{
+			"author": "by Gail Honeyman",
+			"description": "A young woman\u2019s well-ordered life is disrupted by the I.T. guy from her office.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735220690.jpg",
+			"name": "ELEANOR OLIPHANT IS COMPLETELY FINE",
+			"publisher": "Penguin",
+			"rank": 14
+		},
+		{
+			"author": "by James Patterson and Nancy Allen",
+			"description": "Ruby Bozarth defends a college football star charged in a felony case complicated by a second murder.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316474122.jpg",
+			"name": "JUROR #3",
+			"publisher": "Little, Brown",
+			"rank": 15
+		}
+	]
+}

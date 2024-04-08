@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Laura Hillenbrand",
+			"description": "An Olympic runner\u2019s story of survival as a prisoner of the Japanese in World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400064168.jpg",
+			"name": "UNBROKEN",
+			"publisher": "Random House",
+			"rank": 1
+		},
+		{
+			"author": "by Todd Burpo with Lynn Vincent",
+			"description": "A father recounts his 3-year-old son\u2019s encounter with Jesus and the angels during an emergency appendectomy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780849949203.jpg",
+			"name": "HEAVEN IS FOR REAL",
+			"publisher": "Thomas Nelson",
+			"rank": 2
+		},
+		{
+			"author": "by Donald Rumsfeld",
+			"description": "The former defense secretary\u2019s memoir discusses his role in the invasion and occupation of Iraq.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101502495.jpg",
+			"name": "KNOWN AND UNKNOWN",
+			"publisher": "Penguin Group",
+			"rank": 3
+		},
+		{
+			"author": "by George W. Bush",
+			"description": "The former president\u2019s memoir discusses his Christianity and the end of his drinking; his relationships with members of his family; and critical White House decisions on 9/11, Iraq and Katrina.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307590619.jpg",
+			"name": "DECISION POINTS",
+			"publisher": "Crown",
+			"rank": 4
+		},
+		{
+			"author": "by Stacy Schiff",
+			"description": "This biography portrays the Macedonian-Egyptian queen in all her ambition, audacity and formidable intelligence.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316001946.jpg",
+			"name": "CLEOPATRA",
+			"publisher": "Little, Brown",
+			"rank": 5
+		},
+		{
+			"author": "by Michael Lewis",
+			"description": "The people who saw the real estate crash coming and made billions from their foresight.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780393072235.jpg",
+			"name": "THE BIG SHORT",
+			"publisher": "Norton",
+			"rank": 6
+		},
+		{
+			"author": "by Amy Chua",
+			"description": "A Chinese-American mother makes a case for strict and demanding parenting.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594202841.jpg",
+			"name": "BATTLE HYMN OF THE TIGER MOTHER",
+			"publisher": "Penguin Group",
+			"rank": 7
+		},
+		{
+			"author": "by Michael Oher with Don Yaeger",
+			"description": "This memoir by the Baltimore Ravens offensive tackle describes how he broke out of the tough streets of Memphis and into a world of opportunity.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781592406128.jpg",
+			"name": "I BEAT THE ODDS",
+			"publisher": "Penguin Group",
+			"rank": 8
+		},
+		{
+			"author": "by Alexandra Horowitz",
+			"description": "What the world is like from a dog\u2019s point of view.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781416583431.jpg",
+			"name": "INSIDE OF A DOG",
+			"publisher": "Simon & Schuster",
+			"rank": 9
+		},
+		{
+			"author": "by Rebecca Skloot",
+			"description": "The story of a woman whose cancer cells were extensively cultured without her permission in 1951.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400052189.jpg",
+			"name": "THE IMMORTAL LIFE OF HENRIETTA LACKS",
+			"publisher": "Crown",
+			"rank": 10
+		},
+		{
+			"author": "by Michael Waltrip and Ellis Henican",
+			"description": "The race car driver\u2019s memoir is built around the crash that killed Dale Earnhardt Sr. in 2001.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781401324315.jpg",
+			"name": "IN THE BLINK OF AN EYE",
+			"publisher": "Hyperion",
+			"rank": 11
+		},
+		{
+			"author": "by Dambisa Moyo",
+			"description": "Fifty years of economic folly.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780374173258.jpg",
+			"name": "HOW THE WEST WAS LOST",
+			"publisher": "Farrar, Straus & Giroux",
+			"rank": 12
+		},
+		{
+			"author": "by Jeannette Walls",
+			"description": "The author recalls a bizarre childhood during which she and her siblings were constantly moved from place to place.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780743247542.jpg",
+			"name": "THE GLASS CASTLE",
+			"publisher": "Simon & Schuster",
+			"rank": 13
+		},
+		{
+			"author": "by Justin Halpern",
+			"description": "A coming-of-age memoir organized around the musings, purveyed on Twitter, of the author\u2019s father.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062002945.jpg",
+			"name": "_____ MY DAD SAYS",
+			"publisher": "HarperCollins",
+			"rank": 14
+		},
+		{
+			"author": "by Keith Richards with James Fox",
+			"description": "The Rolling Stones guitarist\u2019s revealing autobiography is also a portrait of the era when rock \u2018n\u2019 roll came of age.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316128568.jpg",
+			"name": "LIFE",
+			"publisher": "Little, Brown",
+			"rank": 15
+		}
+	]
+}

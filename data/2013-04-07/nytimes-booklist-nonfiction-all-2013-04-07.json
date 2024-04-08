@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Sheryl Sandberg with Nell Scovell",
+			"description": "The chief operating officer of Facebook urges women to pursue their careers without ambivalence.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385349956.jpg",
+			"name": "LEAN IN",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 1
+		},
+		{
+			"author": "by Eben Alexander",
+			"description": "A neurosurgeon recounts his near death experience during a coma from bacterial meningitis.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451695199.jpg",
+			"name": "PROOF OF HEAVEN",
+			"publisher": "Simon & Schuster",
+			"rank": 2
+		},
+		{
+			"author": "by Ben C. Carson and Candy Carson",
+			"description": "A doctor explores what makes America great.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780310330714.jpg",
+			"name": "AMERICA THE BEAUTIFUL",
+			"publisher": "Zondervan",
+			"rank": 3
+		},
+		{
+			"author": "by Chris Kyle with Scott McEwen and Jim DeFelice",
+			"description": "A member of the Navy Seals who had the most career sniper kills in United States military history discusses his childhood, his marriage and his battlefield experiences during the Iraq war. Kyle was recently shot to death in Texas.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062082374.jpg",
+			"name": "AMERICAN SNIPER",
+			"publisher": "HarperCollins Publishers",
+			"rank": 4
+		},
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "The host of \u201cThe O\u2019Reilly Factor\u201d recounts the assassination of John F. Kennedy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780805096668.jpg",
+			"name": "KILLING KENNEDY",
+			"publisher": "Henry Holt & Company",
+			"rank": 5
+		},
+		{
+			"author": "by Susan Cain",
+			"description": "Introverts \u2014 one-third of the population \u2014 are undervalued in American society.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307452207.jpg",
+			"name": "QUIET",
+			"publisher": "Crown Publishing",
+			"rank": 6
+		},
+		{
+			"author": "by Michael Moss",
+			"description": "A New York Times reporter reveals how food companies rely on scientific research to encourage us to consume more of their products.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780679604778.jpg",
+			"name": "SALT SUGAR FAT",
+			"publisher": "Random House Publishing",
+			"rank": 7
+		},
+		{
+			"author": "by Tina Fey",
+			"description": "A memoir from the former \"Saturday Night Live\" star and creator of \"30 Rock.\"",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316056892.jpg",
+			"name": "BOSSYPANTS",
+			"publisher": "Little, Brown & Company",
+			"rank": 8
+		},
+		{
+			"author": "by Laura Hillenbrand",
+			"description": "An Olympic runner\u2019s story of survival as a prisoner of the Japanese in World War II after his plane went down over the Pacific.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400064168.jpg",
+			"name": "UNBROKEN",
+			"publisher": "Random House Publishing",
+			"rank": 9
+		},
+		{
+			"author": "by Susan Spencer-Wendel with Bret Witter",
+			"description": "A Florida journalist decides to make the most of her life, traveling and spending time with her family, after she receives a diagnosis of A.L.S. (Lou Gehrig\u2019s disease).",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062241450.jpg",
+			"name": "UNTIL I SAY GOOD-BYE",
+			"publisher": "HarperCollins Publishers",
+			"rank": 10
+		},
+		{
+			"author": "by Mark Owen with Kevin Maurer",
+			"description": "An account of the mission that killed Osama bin Laden, by a former member of the Navy SEALs.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101611302.jpg",
+			"name": "NO EASY DAY",
+			"publisher": "Penguin Group",
+			"rank": 11
+		},
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "The host of \u201cThe O\u2019Reilly Factor\u201d recounts the assassination of Abraham Lincoln.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780805093070.jpg",
+			"name": "KILLING LINCOLN",
+			"publisher": "Henry Holt & Company",
+			"rank": 12
+		},
+		{
+			"author": "by Pat Head Summitt with Sally Jenkins",
+			"description": "A memoir by the longtime coach of the University of Tennessee Lady Vols, who received a diagnosis of early onset Alzheimer\u2019s disease.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385346870.jpg",
+			"name": "SUM IT UP",
+			"publisher": "Crown Publishing",
+			"rank": 13
+		},
+		{
+			"author": "by Brandi Glanville with Leslie Bruce",
+			"description": "One of the \u201cReal Housewives of Beverly Hills\u201d describes growing up poor, her contentious divorce, her D.U.I. and other adventures.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476707648.jpg",
+			"name": "DRINKING AND TWEETING",
+			"publisher": "Gallery Books",
+			"rank": 14
+		},
+		{
+			"author": "by Sonia Sotomayor",
+			"description": "The Supreme Court justice recalls growing up in the Bronx, attending Princeton, joining the Manhattan District Attorney\u2019s office and becoming a federal judge.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307594884.jpg",
+			"name": "MY BELOVED WORLD",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 15
+		}
+	]
+}

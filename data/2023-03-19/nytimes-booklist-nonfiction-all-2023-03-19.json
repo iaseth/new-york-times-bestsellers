@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Ron DeSantis",
+			"description": "The Florida governor gives his account of his achievements and shares his opinions about the political left.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063276000.jpg",
+			"name": "THE COURAGE TO BE FREE",
+			"publisher": "Broadside",
+			"rank": 1
+		},
+		{
+			"author": "by Prince Harry",
+			"description": "The Duke of Sussex details his struggles with the royal family, loss of his mother, service in the British Army and marriage to Meghan Markle.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593593806.jpg",
+			"name": "SPARE",
+			"publisher": "Random House",
+			"rank": 2
+		},
+		{
+			"author": "by Bessel van der Kolk",
+			"description": "How trauma affects the body and mind, and innovative treatments for recovery.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780670785933.jpg",
+			"name": "THE BODY KEEPS THE SCORE",
+			"publisher": "Penguin",
+			"rank": 3
+		},
+		{
+			"author": "by Jennette McCurdy",
+			"description": "The actress and filmmaker describes her eating disorders and difficult relationship with her mother.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982185824.jpg",
+			"name": "I'M GLAD MY MOM DIED",
+			"publisher": "Simon & Schuster",
+			"rank": 4
+		},
+		{
+			"author": "by Katherine May",
+			"description": "The author of \u201cWintering\u201d shares her journey to reconnect with her sense of wonder and awe.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593329993.jpg",
+			"name": "ENCHANTMENT",
+			"publisher": "Riverhead",
+			"rank": 5
+		},
+		{
+			"author": "by Michelle Obama",
+			"description": "The former first lady shares personal stories and the tools she uses to deal with difficult situations.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593237465.jpg",
+			"name": "THE LIGHT WE CARRY",
+			"publisher": "Crown",
+			"rank": 6
+		},
+		{
+			"author": "by Bernie Sanders with John Nichols",
+			"description": "The Vermont senator depicts the impact capitalism has on key areas of our lives and ways to address this.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593238714.jpg",
+			"name": "IT'S OK TO BE ANGRY ABOUT CAPITALISM",
+			"publisher": "Crown",
+			"rank": 7
+		},
+		{
+			"author": "by Beth Moore",
+			"description": "The founder of Living Proof Ministries details key moments from her life and her 2018 break with the Southern Baptist movement.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781496472670.jpg",
+			"name": "ALL MY KNOTTED-UP LIFE",
+			"publisher": "Tyndale Momentum",
+			"rank": 8
+		},
+		{
+			"author": "by Sister Jean Dolores Schmidt with Seth Davis",
+			"description": "The team chaplain for Loyola\u2019s men\u2019s basketball team recounts experiences from her more than 100 years of existence.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400333516.jpg",
+			"name": "WAKE UP WITH PURPOSE!",
+			"publisher": "Harper Select",
+			"rank": 9
+		},
+		{
+			"author": "by James Patterson and Matt Eversmann with Chris Mooney",
+			"description": "A collection of stories about police officers.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316406604.jpg",
+			"name": "WALK THE BLUE LINE",
+			"publisher": "Little, Brown",
+			"rank": 10
+		},
+		{
+			"author": "by bell hooks",
+			"description": "The late feminist icon explores the causes of a polarized society and the meaning of love.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780060959470.jpg",
+			"name": "ALL ABOUT LOVE",
+			"publisher": "Morrow",
+			"rank": 11
+		},
+		{
+			"author": "by Robin Wall Kimmerer",
+			"description": "A botanist and member of the Citizen Potawatomi Nation espouses having an understanding and appreciation of plants and animals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781571313560.jpg",
+			"name": "BRAIDING SWEETGRASS",
+			"publisher": "Milkweed Editions",
+			"rank": 12
+		},
+		{
+			"author": "by Isabel Wilkerson",
+			"description": "The Pulitzer Prize-winning journalist examines aspects of caste systems across civilizations and reveals a rigid hierarchy in America today.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593230251.jpg",
+			"name": "CASTE",
+			"publisher": "Random House",
+			"rank": 13
+		},
+		{
+			"author": "by Brad Meltzer and Josh Mensch",
+			"description": "The story of a Nazi plot to kill President Roosevelt, Joseph Stalin and Winston Churchill.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250777263.jpg",
+			"name": "THE NAZI CONSPIRACY",
+			"publisher": "Flatiron",
+			"rank": 14
+		},
+		{
+			"author": "edited by Nikole Hannah-Jones, Caitlin Roper, Ilena Silverman and Jake Silverstein",
+			"description": "Viewing America\u2019s entanglement with slavery and its legacy, in essays adapted and expanded from The New York Times Magazine.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593230572.jpg",
+			"name": "THE 1619 PROJECT",
+			"publisher": "One World",
+			"rank": 15
+		}
+	]
+}

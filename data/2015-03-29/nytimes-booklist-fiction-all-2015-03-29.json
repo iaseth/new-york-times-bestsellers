@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Paula Hawkins",
+			"description": "A psychological thriller set in London is full of complications and betrayals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594633669.jpg",
+			"name": "THE GIRL ON THE TRAIN",
+			"publisher": "Riverhead",
+			"rank": 1
+		},
+		{
+			"author": "by C. J. Box",
+			"description": "When his 18-year-old ward is found beaten in a ditch, the Montana game warden Joe Pickett suspects her boyfriend, a rodeo star.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399160776.jpg",
+			"name": "ENDANGERED",
+			"publisher": "Putnam",
+			"rank": 2
+		},
+		{
+			"author": "by Debbie Macomber",
+			"description": "Three estranged sisters work to resolve their differences.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780553391886.jpg",
+			"name": "LAST ONE HOME",
+			"publisher": "Ballantine",
+			"rank": 3
+		},
+		{
+			"author": "by Anthony Doerr",
+			"description": "The lives of a blind French girl and a gadget-obsessed German boy before and during World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476746586.jpg",
+			"name": "ALL THE LIGHT WE CANNOT SEE",
+			"publisher": "Scribner",
+			"rank": 4
+		},
+		{
+			"author": "by Anne Tyler",
+			"description": "Four generations of a family are drawn to a house in the Baltimore suburbs.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101874288.jpg",
+			"name": "A SPOOL OF BLUE THREAD",
+			"publisher": "Knopf",
+			"rank": 5
+		},
+		{
+			"author": "by Kristin Hannah",
+			"description": "Two sisters are separated in World War II France: one struggling to survive in the countryside, the other joining the Resistance in Paris.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781466850606.jpg",
+			"name": "THE NIGHTINGALE",
+			"publisher": "St. Martin's",
+			"rank": 6
+		},
+		{
+			"author": "by E. L. James",
+			"description": "Daunted by Christian\u2019s dark secrets, Anastasia ends their relationship \u2014 but desire still dominates her every thought; the second book in a trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345803498.jpg",
+			"name": "FIFTY SHADES DARKER",
+			"publisher": "Vintage",
+			"rank": 7
+		},
+		{
+			"author": "by Nicholas Sparks",
+			"description": "The lives of two couples converge unexpectedly.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455520640.jpg",
+			"name": "THE LONGEST RIDE",
+			"publisher": "Grand Central",
+			"rank": 8
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "A young woman finds herself attracted to an artist with a secret.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476791463.jpg",
+			"name": "CONFESS",
+			"publisher": "Atria",
+			"rank": 9
+		},
+		{
+			"author": "by J. A. Jance",
+			"description": "In the 10th Ali Reynolds novel, Ali and her new husband try to help a girl who has escaped from a polygamous cult and an old woman who is being driven from her farm.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476745077.jpg",
+			"name": "COLD BETRAYAL",
+			"publisher": "Touchstone",
+			"rank": 10
+		},
+		{
+			"author": "by Lisa Genova",
+			"description": "A 50-year-old Harvard professor learns she has early-onset Alzheimer's disease; now a movie.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781439102817.jpg",
+			"name": "STILL ALICE",
+			"publisher": "Pocket Books",
+			"rank": 11
+		},
+		{
+			"author": "by E. L. James",
+			"description": "Reunited, Anastasia and Christian face a world of possibilities, and unexpected challenges; the final volume in a trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781612130606.jpg",
+			"name": "FIFTY SHADES FREED",
+			"publisher": "Vintage",
+			"rank": 12
+		},
+		{
+			"author": "by E. L. James",
+			"description": "An innocent college student falls in love with a tortured man with particular sexual tastes; the first of a trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345803481.jpg",
+			"name": "FIFTY SHADES OF GREY",
+			"publisher": "Vintage",
+			"rank": 13
+		},
+		{
+			"author": "by Liane Moriarty",
+			"description": "A woman\u2019s life is upended when she discovers a letter from her husband she was not yet meant to read.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101636237.jpg",
+			"name": "THE HUSBAND'S SECRET",
+			"publisher": "Amy Einhorn/Putnam",
+			"rank": 14
+		},
+		{
+			"author": "by Gillian Flynn",
+			"description": "A woman disappears on the day of her fifth anniversary; is her husband a killer?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307588388.jpg",
+			"name": "GONE GIRL",
+			"publisher": "Crown",
+			"rank": 15
+		}
+	]
+}

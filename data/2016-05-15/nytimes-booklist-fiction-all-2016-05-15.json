@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by John Sandford",
+			"description": "Lucas Davenport, who has left the Minnesota Bureau of Criminal Apprehension, is in Iowa trying to foil a plot to assassinate a Hillary Clinton-like candidate. The 26th Lucas Davenport thriller.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698407107.jpg",
+			"name": "EXTREME PREY",
+			"publisher": "Putnam",
+			"rank": 1
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "In a sequel to \u201cMemory Man,\u201d Amos Decker, a detective with an extraordinary memory, investigates the case of a convicted killer who wins a last-minute reprieve.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455586455.jpg",
+			"name": "THE LAST MILE",
+			"publisher": "Grand Central",
+			"rank": 2
+		},
+		{
+			"author": "by Jojo Moyes",
+			"description": "A woman who has barely been beyond her English village finds herself while caring for a wealthy, embittered quadriplegic.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780143124542.jpg",
+			"name": "ME BEFORE YOU",
+			"publisher": "Penguin",
+			"rank": 3
+		},
+		{
+			"author": "by Christine Feehan",
+			"description": "A glassblower travels to Italy, where her bodyguard catches her eye.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698197756.jpg",
+			"name": "FIRE BOUND",
+			"publisher": "Jove",
+			"rank": 4
+		},
+		{
+			"author": "by Nora Roberts",
+			"description": "A woman is haunted by her father\u2019s crimes as she tries to pursue love and her work as a photographer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399175169.jpg",
+			"name": "THE OBSESSION",
+			"publisher": "Berkley",
+			"rank": 5
+		},
+		{
+			"author": "by Susan Mallery",
+			"description": "A baker and an adventure-travel agent navigate the claustrophobia of love in a small town.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780373789191.jpg",
+			"name": "BEST OF MY LOVE",
+			"publisher": "HQN",
+			"rank": 6
+		},
+		{
+			"author": "by Cynthia D'Aprix Sweeney",
+			"description": "Siblings in a dysfunctional New York family must grapple with a reduced inheritance.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062414236.jpg",
+			"name": "THE NEST",
+			"publisher": "Ecco/HarperCollins",
+			"rank": 7
+		},
+		{
+			"author": "by Paula Hawkins",
+			"description": "A psychological thriller set in the environs of London is full of complications and betrayals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594633669.jpg",
+			"name": "THE GIRL ON THE TRAIN",
+			"publisher": "Riverhead",
+			"rank": 8
+		},
+		{
+			"author": "by Iris Johansen",
+			"description": "A forensic sculptor heads to the Scottish Highlands in search of treasure.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781466887206.jpg",
+			"name": "HIDE AWAY",
+			"publisher": "St. Martin's Press",
+			"rank": 9
+		},
+		{
+			"author": "by Vi Keeland and Penelope Ward",
+			"description": "An arrogant businessman's phone, lost on a commuter train, leads to an unexpected affair.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781942215394.jpg",
+			"name": "STUCK-UP SUIT",
+			"publisher": "EverAfter Romance",
+			"rank": 10
+		},
+		{
+			"author": "by Sylvia Day",
+			"description": "The chronicle of a tempestuous marriage comes to a close.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250109309.jpg",
+			"name": "ONE WITH YOU",
+			"publisher": "St. Martin's Griffin",
+			"rank": 11
+		},
+		{
+			"author": "by Kristin Hannah",
+			"description": "Two sisters are separated in World War II France: one in the countryside, the other in Paris.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781466850606.jpg",
+			"name": "THE NIGHTINGALE",
+			"publisher": "St. Martin's",
+			"rank": 12
+		},
+		{
+			"author": "by Marie Force",
+			"description": "While training for a marathon, a man finds a prickly paramour.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698192874.jpg",
+			"name": "AIN'T SHE SWEET",
+			"publisher": "Berkley",
+			"rank": 13
+		},
+		{
+			"author": "by Mary Higgins Clark",
+			"description": "Secrets emerge when a television journalist searching for her birth mother covers the trial of the widow of a wealthy doctor.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501131103.jpg",
+			"name": "AS TIME GOES BY",
+			"publisher": "Simon & Schuster",
+			"rank": 14
+		},
+		{
+			"author": "by Harlan Coben",
+			"description": "A retired Army helicopter pilot faces combat-related nightmares and mysteries concerning the deaths of her husband and sister.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525955092.jpg",
+			"name": "FOOL ME ONCE",
+			"publisher": "Dutton",
+			"rank": 15
+		}
+	]
+}

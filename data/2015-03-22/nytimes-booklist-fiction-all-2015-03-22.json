@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Paula Hawkins",
+			"description": "A psychological thriller set in London is full of complications and betrayals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594633669.jpg",
+			"name": "THE GIRL ON THE TRAIN",
+			"publisher": "Riverhead",
+			"rank": 1
+		},
+		{
+			"author": "by Patricia Briggs",
+			"description": "Charles and Anna, married werewolves, must stop a dangerous Fae whom they encounter during what begins as a pleasure trip.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698184633.jpg",
+			"name": "DEAD HEAT",
+			"publisher": "Ace",
+			"rank": 2
+		},
+		{
+			"author": "by Anthony Doerr",
+			"description": "The lives of a blind French girl and a gadget-obsessed German boy before and during World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476746586.jpg",
+			"name": "ALL THE LIGHT WE CANNOT SEE",
+			"publisher": "Scribner",
+			"rank": 3
+		},
+		{
+			"author": "by Clive Cussler and Justin Scott",
+			"description": "The detective Isaac Bell investigates the murders of opponents of the Standard Oil trust in 1905.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399171758.jpg",
+			"name": "THE ASSASSIN",
+			"publisher": "Putnam",
+			"rank": 4
+		},
+		{
+			"author": "by E. L. James",
+			"description": "Daunted by Christian\u2019s dark secrets, Anastasia ends their relationship \u2014 but desire still dominates her every thought; the second book in a trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345803498.jpg",
+			"name": "FIFTY SHADES DARKER",
+			"publisher": "Vintage",
+			"rank": 5
+		},
+		{
+			"author": "by Kristin Hannah",
+			"description": "Two sisters are separated in World War II France: one struggling to survive in the countryside, the other joining the Resistance in Paris.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781466850606.jpg",
+			"name": "THE NIGHTINGALE",
+			"publisher": "St. Martin's",
+			"rank": 6
+		},
+		{
+			"author": "by E. L. James",
+			"description": "Reunited, Anastasia and Christian face a world of possibilities, and unexpected challenges; the final volume in a trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781612130606.jpg",
+			"name": "FIFTY SHADES FREED",
+			"publisher": "Vintage",
+			"rank": 7
+		},
+		{
+			"author": "by Anne Tyler",
+			"description": "Four generations of a family are drawn to a house in the Baltimore suburbs.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101874288.jpg",
+			"name": "A SPOOL OF BLUE THREAD",
+			"publisher": "Knopf",
+			"rank": 8
+		},
+		{
+			"author": "by E. L. James",
+			"description": "An innocent college student falls in love with a tortured man with particular sexual tastes; the first of a trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345803481.jpg",
+			"name": "FIFTY SHADES OF GREY",
+			"publisher": "Vintage",
+			"rank": 9
+		},
+		{
+			"author": "by Lisa Genova",
+			"description": "A 50-year-old Harvard professor learns she has early-onset Alzheimer's disease; now a movie.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781439102817.jpg",
+			"name": "STILL ALICE",
+			"publisher": "Pocket Books",
+			"rank": 10
+		},
+		{
+			"author": "by Gillian Flynn",
+			"description": "A woman disappears on the day of her fifth anniversary; is her husband a killer?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307588388.jpg",
+			"name": "GONE GIRL",
+			"publisher": "Crown",
+			"rank": 11
+		},
+		{
+			"author": "by Marie Force",
+			"description": "Megan, once enamored of Hunter's brother, finds her affections are shifting.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698164048.jpg",
+			"name": "AND I LOVE HER",
+			"publisher": "Berkley",
+			"rank": 12
+		},
+		{
+			"author": "by Kazuo Ishiguro",
+			"description": "In a semi-historical ancient Britain, an elderly couple set out in search of their son.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307271037.jpg",
+			"name": "THE BURIED GIANT",
+			"publisher": "Knopf",
+			"rank": 13
+		},
+		{
+			"author": "by Danielle Steel",
+			"description": "Twins, one good and one bad, reunite after 20 years when one of them returns to their hometown. But it is no longer clear who the good and who the bad one is.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385343152.jpg",
+			"name": "PRODIGAL SON",
+			"publisher": "Random House",
+			"rank": 14
+		},
+		{
+			"author": "by Liane Moriarty",
+			"description": "A woman\u2019s life is upended when she discovers a letter from her husband she was not yet meant to read.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101636237.jpg",
+			"name": "THE HUSBAND'S SECRET",
+			"publisher": "Amy Einhorn/Putnam",
+			"rank": 15
+		}
+	]
+}

@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "The host of \u201cThe O\u2019Reilly Factor\u201d recounts the events surrounding the assassination of John F. Kennedy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780805096668.jpg",
+			"name": "KILLING KENNEDY",
+			"publisher": "Henry Holt & Company",
+			"rank": 1
+		},
+		{
+			"author": "by Eben Alexander",
+			"description": "A neurosurgeon recounts his near death experience during a coma from bacterial meningitis.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451695199.jpg",
+			"name": "PROOF OF HEAVEN",
+			"publisher": "Simon & Schuster",
+			"rank": 2
+		},
+		{
+			"author": "by Mark Owen with Kevin Maurer",
+			"description": "An account of the mission that killed Osama bin Laden, by a former member of the Navy SEALs.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101611302.jpg",
+			"name": "NO EASY DAY",
+			"publisher": "Penguin Group",
+			"rank": 3
+		},
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "The host of \u201cThe O\u2019Reilly Factor\u201d recounts the assassination of Abraham Lincoln.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780805093070.jpg",
+			"name": "KILLING LINCOLN",
+			"publisher": "Henry Holt & Company",
+			"rank": 4
+		},
+		{
+			"author": "by Danielle Steel",
+			"description": "In this memoir, the novelist describes how she transformed the pain of the loss of her son into an enriching campaign of service.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345531360.jpg",
+			"name": "A GIFT OF HOPE",
+			"publisher": "Random House Publishing",
+			"rank": 5
+		},
+		{
+			"author": "by Peter Ames Carlin",
+			"description": "A biography of Bruce Springsteen looks at his family, his music and his drive for fame and influence.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781439191842.jpg",
+			"name": "BRUCE",
+			"publisher": "Simon & Schuster",
+			"rank": 6
+		},
+		{
+			"author": "by Todd Burpo with Lynn Vincent",
+			"description": "A father recounts his 3-year-old son\u2019s encounter with Jesus and the angels during an appendectomy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780849949203.jpg",
+			"name": "HEAVEN IS FOR REAL",
+			"publisher": "Thomas Nelson",
+			"rank": 7
+		},
+		{
+			"author": "by Jon Ronson",
+			"description": "An investigation of the strange things human beings are willing to believe in.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101612422.jpg",
+			"name": "LOST AT SEA",
+			"publisher": "Penguin Group",
+			"rank": 8
+		},
+		{
+			"author": "by Rod Stewart",
+			"description": "The pop singer reminisces on his long career.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307987303.jpg",
+			"name": "ROD",
+			"publisher": "Crown Publishing",
+			"rank": 9
+		},
+		{
+			"author": "by Thomas E. Ricks",
+			"description": "A history of American military command from World War II to the present.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101595930.jpg",
+			"name": "GENERALS",
+			"publisher": "Penguin Group",
+			"rank": 10
+		},
+		{
+			"author": "by Laura Hillenbrand",
+			"description": "An Olympic runner\u2019s story of survival as a prisoner of the Japanese in World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400064168.jpg",
+			"name": "UNBROKEN",
+			"publisher": "Random House Publishing",
+			"rank": 11
+		},
+		{
+			"author": "by Antonio J. Mendez with Malcolm McConnell",
+			"description": "Recollections, first published in 1999,  by the C.I.A. officer who helped six Americans escape from Tehran in 1980; he is played by Ben Affleck in the movie \u201cArgo.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780061865305.jpg",
+			"name": "THE MASTER OF DISGUISE",
+			"publisher": "HarperCollins Publishers",
+			"rank": 12
+		},
+		{
+			"author": "by Nate Silver",
+			"description": "An examination of predictions, the ones that come true and the ones that don\u2019t.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594204111.jpg",
+			"name": "THE SIGNAL AND THE NOISE",
+			"publisher": "Penguin Group",
+			"rank": 13
+		},
+		{
+			"author": "by Cheryl Strayed",
+			"description": "A woman\u2019s account of a life-changing 1,100-mile hike along the Pacific Crest Trail.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307476074.jpg",
+			"name": "WILD",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 14
+		},
+		{
+			"author": "by Rebecca Skloot",
+			"description": "The story of a woman whose cancer cells were cultured without her permission in 1951.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400052189.jpg",
+			"name": "THE IMMORTAL LIFE OF HENRIETTA LACKS",
+			"publisher": "Crown Publishing",
+			"rank": 15
+		}
+	]
+}

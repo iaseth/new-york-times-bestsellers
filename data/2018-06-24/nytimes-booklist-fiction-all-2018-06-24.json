@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by James Patterson and Bill Clinton",
+			"description": "President Jonathan Duncan, a Gulf War veteran and widower, takes on adversaries at home and abroad.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316412698.jpg",
+			"name": "THE PRESIDENT IS MISSING",
+			"publisher": "Little, Brown and Knopf",
+			"rank": 1
+		},
+		{
+			"author": "by Stephen King",
+			"description": "A detective investigates a seemingly wholesome member of the community when an 11-year-old boy\u2019s body is found.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501180989.jpg",
+			"name": "THE OUTSIDER",
+			"publisher": "Scribner",
+			"rank": 2
+		},
+		{
+			"author": "by Nora Roberts",
+			"description": "Survivors of a mass shooting outside a mall in Portland, Me., develop different coping mechanisms and face a new menace.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250161611.jpg",
+			"name": "SHELTER IN PLACE",
+			"publisher": "St. Martin's",
+			"rank": 3
+		},
+		{
+			"author": "by Stuart Woods",
+			"description": "The 46th book in the Stone Barrington series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735219212.jpg",
+			"name": "TURBULENCE",
+			"publisher": "Putnam",
+			"rank": 4
+		},
+		{
+			"author": "by Jim Butcher",
+			"description": "A dozen stories about Harry Dresden, Chicago\u2019s only professional wizard.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780451492128.jpg",
+			"name": "BRIEF CASES",
+			"publisher": "Ace",
+			"rank": 5
+		},
+		{
+			"author": "by Lauren Weisberger",
+			"description": "Emily Charlton plans a comeback from the suburbs. From the author of \"The Devil Wears Prada.\"",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476778464.jpg",
+			"name": "WHEN LIFE GIVES YOU LULULEMONS",
+			"publisher": "Simon & Schuster",
+			"rank": 6
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "Amos Decker, known as the Memory Man, puts his talents toward solving a string of murders in a Rust Belt town.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538761397.jpg",
+			"name": "THE FALLEN",
+			"publisher": "Grand Central",
+			"rank": 7
+		},
+		{
+			"author": "by Ruth Ware",
+			"description": "A tarot card reader mistakenly receives an inheritance letter and attends the funeral of the deceased.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501156212.jpg",
+			"name": "THE DEATH OF MRS. WESTAWAY",
+			"publisher": "Gallery/Scout",
+			"rank": 8
+		},
+		{
+			"author": "by Catherine Steadman",
+			"description": "A documentary filmmaker and an investment banker must decide whether they should protect a secret.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524797195.jpg",
+			"name": "SOMETHING IN THE WATER",
+			"publisher": "Ballantine",
+			"rank": 9
+		},
+		{
+			"author": "by James Patterson and Maxine Paetro",
+			"description": "The latest installment in the Women\u2019s Murder Club series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316412261.jpg",
+			"name": "THE 17TH SUSPECT",
+			"publisher": "Little, Brown",
+			"rank": 10
+		},
+		{
+			"author": "by Lee Child",
+			"description": "Jack Reacher tracks down the owner of a pawned West Point class ring and stumbles upon a large criminal enterprise.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399593499.jpg",
+			"name": "THE MIDNIGHT LINE",
+			"publisher": "Delacorte",
+			"rank": 11
+		},
+		{
+			"author": "by Celeste Ng",
+			"description": "An artist upends a quiet town outside Cleveland.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735224308.jpg",
+			"name": "LITTLE FIRES EVERYWHERE",
+			"publisher": "Penguin Press",
+			"rank": 12
+		},
+		{
+			"author": "by Clive Cussler and Robin Burcell",
+			"description": "Sam and Remi Fargo search for a Rolls-Royce prototype that has vanished for a second time.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735218741.jpg",
+			"name": "THE GRAY GHOST",
+			"publisher": "Putnam",
+			"rank": 13
+		},
+		{
+			"author": "by Lisa Wingate",
+			"description": "A South Carolina lawyer learns about the questionable practices of a Tennessee orphanage.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780425284681.jpg",
+			"name": "BEFORE WE WERE YOURS",
+			"publisher": "Ballantine",
+			"rank": 14
+		},
+		{
+			"author": "by Gail Honeyman",
+			"description": "A young woman\u2019s well-ordered life is disrupted by the I.T. guy from her office.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735220690.jpg",
+			"name": "ELEANOR OLIPHANT IS COMPLETELY FINE",
+			"publisher": "Penguin",
+			"rank": 15
+		}
+	]
+}

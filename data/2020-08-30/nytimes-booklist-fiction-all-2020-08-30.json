@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Delia Owens",
+			"description": "In a quiet town on the North Carolina coast in 1969, a young woman who survived alone in the marsh becomes a murder suspect.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735219090.jpg",
+			"name": "WHERE THE CRAWDADS SING",
+			"publisher": "Putnam",
+			"rank": 1
+		},
+		{
+			"author": "by Stuart Woods",
+			"description": "The 54th book in the Stone Barrington series. Things get rough for Stone as he goes after criminals in New York City and Key West.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593188293.jpg",
+			"name": "CHOPPY WATER",
+			"publisher": "Putnam",
+			"rank": 2
+		},
+		{
+			"author": "by James Patterson and Richard DiLallo",
+			"description": "A single mom teams up with an N.Y.P.D. detective to solve a case involving misdeeds at a university hospital.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538718872.jpg",
+			"name": "THE MIDWIFE MURDERS",
+			"publisher": "Grand Central",
+			"rank": 3
+		},
+		{
+			"author": "by James Lee Burke",
+			"description": "The 23rd book in the Dave Robicheaux series. Rival Louisiana crime families and a time-traveling superhuman assassin bring up Robicheaux\u2019s personal demons.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982151683.jpg",
+			"name": "A PRIVATE CATHEDRAL",
+			"publisher": "Simon & Schuster",
+			"rank": 4
+		},
+		{
+			"author": "by Brit Bennett",
+			"description": "The lives of twin sisters who run away from a Southern Black community at age 16 diverge as one returns and the other takes on a different racial identity but their fates intertwine.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525536291.jpg",
+			"name": "THE VANISHING HALF",
+			"publisher": "Riverhead",
+			"rank": 5
+		},
+		{
+			"author": "by Lucy Foley",
+			"description": "A wedding between a TV star and a magazine publisher on an island off the coast of Ireland turns deadly.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062868930.jpg",
+			"name": "THE GUEST LIST",
+			"publisher": "Morrow",
+			"rank": 6
+		},
+		{
+			"author": "by Elin Hilderbrand",
+			"description": "A relationship that started in 1993 between Mallory Blessing and Jake McCloud comes to light while she is on her deathbed and his wife runs for president.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316420044.jpg",
+			"name": "28 SUMMERS",
+			"publisher": "Little, Brown",
+			"rank": 7
+		},
+		{
+			"author": "by Daniel Silva",
+			"description": "The 20th book in the Gabriel Allon series. The art restorer and spy cuts his family\u2019s vacation short to investigate whether Pope Paul VII was murdered.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062834843.jpg",
+			"name": "THE ORDER",
+			"publisher": "Harper",
+			"rank": 8
+		},
+		{
+			"author": "by James Patterson and Chris Tebbetts",
+			"description": "After getting kicked out of M.I.T., Angela Hoot interns with the F.B.I. and tracks the murderous siblings known as the Poet and the Engineer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316418188.jpg",
+			"name": "1ST CASE",
+			"publisher": "Little, Brown",
+			"rank": 9
+		},
+		{
+			"author": "by Lisa Jewell",
+			"description": "Ten years after her daughter disappears, a woman tries to get her life in order but remains haunted by unanswered questions.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501154669.jpg",
+			"name": "THEN SHE WAS GONE",
+			"publisher": "Atria",
+			"rank": 10
+		},
+		{
+			"author": "by Brad Thor",
+			"description": "The 19th book in the Scot Harvath series. With a bounty on his head, Harvath makes an alliance with a Norwegian intelligence operative.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982104061.jpg",
+			"name": "NEAR DARK",
+			"publisher": "Emily Bestler/Atria",
+			"rank": 11
+		},
+		{
+			"author": "by Jeanine Cummins",
+			"description": "A bookseller flees Mexico for the United States with her son while pursued by the head of a drug cartel.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250209764.jpg",
+			"name": "AMERICAN DIRT",
+			"publisher": "Flatiron",
+			"rank": 12
+		},
+		{
+			"author": "by Celeste Ng",
+			"description": "An artist upends a quiet town outside Cleveland.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735224308.jpg",
+			"name": "LITTLE FIRES EVERYWHERE",
+			"publisher": "Penguin Press",
+			"rank": 13
+		},
+		{
+			"author": "by Alex Michaelides",
+			"description": "Theo Faber looks into the mystery of a famous painter who stops speaking after shooting her husband.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250301697.jpg",
+			"name": "THE SILENT PATIENT",
+			"publisher": "Celadon",
+			"rank": 14
+		},
+		{
+			"author": "by Karin Slaughter",
+			"description": "The 10th book in the Will Trent series. Investigations of two crimes force Trent to call on his girlfriend's expertise as a medical examiner.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062858108.jpg",
+			"name": "THE SILENT WIFE",
+			"publisher": "Morrow",
+			"rank": 15
+		}
+	]
+}

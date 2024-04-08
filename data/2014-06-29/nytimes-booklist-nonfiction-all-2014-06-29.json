@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Hillary Rodham Clinton",
+			"description": "Clinton\u2019s memoir focuses on her years as secretary of state and her views about the American role in the world.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476751450.jpg",
+			"name": "HARD CHOICES",
+			"publisher": "Simon & Schuster",
+			"rank": 1
+		},
+		{
+			"author": "by Ben Carson with Candy Carson",
+			"description": "Carson, a retired pediatric neurosurgeon, now a Fox News contributor, offers solutions to problems in health and education based on capitalism, not government.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781595231123.jpg",
+			"name": "ONE NATION",
+			"publisher": "Sentinel",
+			"rank": 2
+		},
+		{
+			"author": "by Piper Kerman",
+			"description": "A Brooklyn woman\u2019s prison memoir. The basis for the Netflix series, originally published in 2010.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385530262.jpg",
+			"name": "ORANGE IS THE NEW BLACK",
+			"publisher": "Spiegel & Grau",
+			"rank": 3
+		},
+		{
+			"author": "by Maya Angelou",
+			"description": "A memoir of childhood and adolescence by the poet, who died in May.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781588369253.jpg",
+			"name": "I KNOW WHY THE CAGED BIRD SINGS",
+			"publisher": "Random House",
+			"rank": 4
+		},
+		{
+			"author": "by Laura Hillenbrand",
+			"description": "An Olympic runner\u2019s story of survival as a prisoner of the Japanese in World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400064168.jpg",
+			"name": "UNBROKEN",
+			"publisher": "Random House",
+			"rank": 5
+		},
+		{
+			"author": "by Daniel James Brown",
+			"description": "The University of Washington\u2019s eight-oar crew and their quest for gold at the 1936 Berlin Olympics.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101622742.jpg",
+			"name": "THE BOYS IN THE BOAT",
+			"publisher": "Viking",
+			"rank": 6
+		},
+		{
+			"author": "by Mariano Rivera with Wayne Coffey",
+			"description": "A memoir of life and baseball by the great Yankees pitcher.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316400732.jpg",
+			"name": "THE CLOSER",
+			"publisher": "Little, Brown",
+			"rank": 7
+		},
+		{
+			"author": "by Marcus Luttrell with Patrick Robinson",
+			"description": "The only survivor of a Navy SEALs operation in northern Afghanistan describes the battle and his escape. First published in 2007; the basis for the movie.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316067607.jpg",
+			"name": "LONE SURVIVOR",
+			"publisher": "Little, Brown",
+			"rank": 8
+		},
+		{
+			"author": "by Thomas Piketty",
+			"description": "A French economist\u2019s analysis of centuries of economic history predicts worsening inequality and proposes solutions.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780674430006.jpg",
+			"name": "CAPITAL IN THE TWENTY-FIRST CENTURY",
+			"publisher": "Belknap/Harvard University",
+			"rank": 9
+		},
+		{
+			"author": "by Todd Burpo with Lynn Vincent",
+			"description": "A 3-year-old\u2019s encounter with Jesus during an appendectomy; the basis of the movie.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780849949203.jpg",
+			"name": "HEAVEN IS FOR REAL",
+			"publisher": "Thomas Nelson",
+			"rank": 10
+		},
+		{
+			"author": "by Steven D. Levitt and Stephen J. Dubner",
+			"description": "How to solve problems creatively, from the authors of \u201cFreakonomics.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062218360.jpg",
+			"name": "THINK LIKE A FREAK",
+			"publisher": "Morrow/HarperCollins",
+			"rank": 11
+		},
+		{
+			"author": "by Michael Lewis",
+			"description": "The world of high-frequency computer-driven trading, from the author of \u201cLiar\u2019s Poker.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780393244670.jpg",
+			"name": "FLASH BOYS",
+			"publisher": "Norton",
+			"rank": 12
+		},
+		{
+			"author": "by John Waters",
+			"description": "The cult-film director hitchhikes across the country.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780374298630.jpg",
+			"name": "CARSICK",
+			"publisher": "Farrar, Straus & Giroux",
+			"rank": 13
+		},
+		{
+			"author": "by Mitchell Zuckoff",
+			"description": "An account both of airmen\u2019s fight for survival in the Arctic after a 1942 crash, and of a 2012 expedition to Greenland to find the remains of a plane that crashed in a rescue attempt.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062133410.jpg",
+			"name": "FROZEN IN TIME",
+			"publisher": "Harper",
+			"rank": 14
+		},
+		{
+			"author": "by Helen Rappaport",
+			"description": "The story of the daughters of the last czar, who were executed in 1918.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250020215.jpg",
+			"name": "THE ROMANOV SISTERS",
+			"publisher": "St. Martin's",
+			"rank": 15
+		}
+	]
+}

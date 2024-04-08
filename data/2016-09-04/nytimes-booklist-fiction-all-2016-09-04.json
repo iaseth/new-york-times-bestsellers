@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Paula Hawkins",
+			"description": "A psychological thriller set in the environs of London is full of complications and betrayals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594633669.jpg",
+			"name": "THE GIRL ON THE TRAIN",
+			"publisher": "Riverhead",
+			"rank": 1
+		},
+		{
+			"author": "by Sandra Brown",
+			"description": "A hired killer and a woman he kidnapped join forces to elude the F.B.I. agents and others who are searching for her corrupt brother.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455581238.jpg",
+			"name": "STING",
+			"publisher": "Grand Central",
+			"rank": 2
+		},
+		{
+			"author": "by Janet Evanovich and Phoef Sutton",
+			"description": "The first of a new series featuring Emerson Knight, an eccentric millionaire, and Riley Moon, an analyst at a mega-bank.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780553392692.jpg",
+			"name": "CURIOUS MINDS",
+			"publisher": "Bantam",
+			"rank": 3
+		},
+		{
+			"author": "by Colson Whitehead",
+			"description": "A teenage girl heads north on the network that helped slaves escape to freedom, envisioned in this novel as a secret system of actual tracks and tunnels.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385542364.jpg",
+			"name": "THE UNDERGROUND RAILROAD",
+			"publisher": "Doubleday",
+			"rank": 4
+		},
+		{
+			"author": "by Liane Moriarty",
+			"description": "Tense turning points for three couples at a backyard barbecue gone wrong.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250069818.jpg",
+			"name": "TRULY MADLY GUILTY",
+			"publisher": "Flatiron",
+			"rank": 5
+		},
+		{
+			"author": "by Lisa Scottoline",
+			"description": "In the 15th Rosato & DiNunzio novel, Mary DiNunzio defends a dyslexic fifth grader accused of attacking a school aide.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250099631.jpg",
+			"name": "DAMAGED",
+			"publisher": "St. Martin's",
+			"rank": 6
+		},
+		{
+			"author": "by James Patterson and Michael Ledwidge",
+			"description": "Detective Michael Bennett must stop a team of assassins prowling the Upper West Side.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316407083.jpg",
+			"name": "BULLSEYE",
+			"publisher": "Little, Brown",
+			"rank": 7
+		},
+		{
+			"author": "by Fredrik Backman",
+			"description": "A curmudgeon's gruff exterior masks a generosity of spirit. Originally published in Sweden in 2014.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476738024.jpg",
+			"name": "A MAN CALLED OVE",
+			"publisher": "Washington Square",
+			"rank": 8
+		},
+		{
+			"author": "by Jamie McGuire",
+			"description": "Amid strife and divisions, the Maddox clan gathers to bury one of their own.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781534623576.jpg",
+			"name": "A BEAUTIFUL FUNERAL",
+			"publisher": "Jamie McGuire",
+			"rank": 9
+		},
+		{
+			"author": "by John Grisham",
+			"description": "The attorney Sebastian Rudd is a \u201clone gunman\u201d who hates injustice and the system and defends unpopular clients.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385539449.jpg",
+			"name": "ROGUE LAWYER",
+			"publisher": "Doubleday",
+			"rank": 10
+		},
+		{
+			"author": "by Ruth Ware",
+			"description": "A travel writer on a cruise is certain she has heard a body thrown overboard, but no one believes her.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501132940.jpg",
+			"name": "THE WOMAN IN CABIN 10",
+			"publisher": "Scout",
+			"rank": 11
+		},
+		{
+			"author": "by Jasmine Walt and Rebecca Hamilton",
+			"description": "A detective suspects supernatural influences in the mysterious death of her fianc\u00e9.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/A00B01FT4OAUW.jpg",
+			"name": "SHADOW BORN",
+			"publisher": "Blue Bolt",
+			"rank": 12
+		},
+		{
+			"author": "by Catherine Coulter",
+			"description": "Two cases \u2014 one concerning an attempted poisoning in Washington and another about the hunt for a serial killer in Los Angeles \u2014 are the focus of Coulter\u2019s 20th F.B.I. thriller.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501150319.jpg",
+			"name": "INSIDIOUS",
+			"publisher": "Gallery Books",
+			"rank": 13
+		},
+		{
+			"author": "by Penelope Ward",
+			"description": "A Pyramus-and-Thisbe-style affair awaits a recently single woman and the artist who has moved next door.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781942215479.jpg",
+			"name": "NEIGHBOR DEAREST",
+			"publisher": "Penelope Ward",
+			"rank": 14
+		},
+		{
+			"author": "by Jojo Moyes",
+			"description": "After the death of Will Traynor, Louisa Clark joins a grief support group that may lead her to new love.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698152045.jpg",
+			"name": "AFTER YOU",
+			"publisher": "Pamela Dorman/Viking",
+			"rank": 15
+		}
+	]
+}

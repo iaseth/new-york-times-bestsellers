@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by John Sandford",
+			"description": "Lucas Davenport is on the trail of killers who have targeted a group of vagabonds called the Travelers.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399168796.jpg",
+			"name": "GATHERING PREY",
+			"publisher": "Putnam",
+			"rank": 1
+		},
+		{
+			"author": "by Paula Hawkins",
+			"description": "A psychological thriller set in the environs of London is full of complications and betrayals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594633669.jpg",
+			"name": "THE GIRL ON THE TRAIN",
+			"publisher": "Riverhead",
+			"rank": 2
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "A police detective who left the force when his family was murdered teams up with his former partner to solve the case.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455586387.jpg",
+			"name": "MEMORY MAN",
+			"publisher": "Grand Central",
+			"rank": 3
+		},
+		{
+			"author": "by Anthony Doerr",
+			"description": "The lives of a blind French girl and a gadget-obsessed German boy before and during World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476746586.jpg",
+			"name": "ALL THE LIGHT WE CANNOT SEE",
+			"publisher": "Scribner",
+			"rank": 4
+		},
+		{
+			"author": "by Nora Roberts",
+			"description": "After her husband\u2019s death, a woman returns with her daughter to her Smoky Mountain hometown, only to discover that her husband was a fraud who implicated her in his deceptions.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698161351.jpg",
+			"name": "THE LIAR",
+			"publisher": "Putnam",
+			"rank": 5
+		},
+		{
+			"author": "by Susan Mallery",
+			"description": "Two newcomers to a California town find their attentions drifting toward each other.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780373779970.jpg",
+			"name": "HOLD ME",
+			"publisher": "HQN",
+			"rank": 6
+		},
+		{
+			"author": "by Iris Johansen",
+			"description": "A C.I.A. operative becomes the target of someone from her past intent on killing those who were once close to her.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250020086.jpg",
+			"name": "YOUR NEXT BREATH",
+			"publisher": "St. Martin's",
+			"rank": 7
+		},
+		{
+			"author": "by Kristin Hannah",
+			"description": "Two sisters are separated in World War II France: one struggling to survive in the countryside, the other joining the Resistance in Paris.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781466850606.jpg",
+			"name": "THE NIGHTINGALE",
+			"publisher": "St. Martin's",
+			"rank": 8
+		},
+		{
+			"author": "by Harlan Coben",
+			"description": "Characters\u2019 lives begin to fall apart as a mysterious stranger discloses secrets to them; a stand-alone thriller.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525953500.jpg",
+			"name": "THE STRANGER",
+			"publisher": "Dutton",
+			"rank": 9
+		},
+		{
+			"author": "by Greg Iles",
+			"description": "The prosecutor Penn Cage\u2019s attempt to find his father brings him up against the K.K.K.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062311146.jpg",
+			"name": "THE BONE TREE",
+			"publisher": "Morrow/HarperCollins",
+			"rank": 10
+		},
+		{
+			"author": "by Elle Kennedy",
+			"description": "A college Lothario hopes for a second chance with a first-year student.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780994054418.jpg",
+			"name": "THE MISTAKE",
+			"publisher": "Elle Kennedy",
+			"rank": 11
+		},
+		{
+			"author": "by Nicholas Sparks",
+			"description": "The lives of two couples converge unexpectedly.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455520640.jpg",
+			"name": "THE LONGEST RIDE",
+			"publisher": "Grand Central",
+			"rank": 12
+		},
+		{
+			"author": "by Denise Grover Swank",
+			"description": "A woman looks into her birth mother's possible connection to a crime.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781939996268.jpg",
+			"name": "THIRTY-FOUR AND A HALF PREDICAMENTS",
+			"publisher": "Denise Grover Swank",
+			"rank": 13
+		},
+		{
+			"author": "by Diana Gabaldon",
+			"description": "Claire Randall, an English nurse, is transported back to 1743 during a second honeymoon in the Scottish Highlands. There she begins an affair with James Fraser, a redheaded soldier. Originally published in 1991.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780440212560.jpg",
+			"name": "OUTLANDER",
+			"publisher": "Dell",
+			"rank": 14
+		},
+		{
+			"author": "by R. L. Mathewson",
+			"description": "Two longtime friends embark on a tentative relationship.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780988573239.jpg",
+			"name": "DOUBLE DARE",
+			"publisher": "Rerum Industries",
+			"rank": 15
+		}
+	]
+}

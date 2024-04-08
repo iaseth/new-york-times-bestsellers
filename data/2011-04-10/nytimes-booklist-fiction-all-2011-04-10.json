@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Harlan Coben",
+			"description": "Myron Bolitar\u2019s search for a missing rock star leads to questions about his own missing brother.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780451233936.jpg",
+			"name": "LIVE WIRE",
+			"publisher": "Penguin Group",
+			"rank": 1
+		},
+		{
+			"author": "by Sara Gruen",
+			"description": "After his parents die in a car accident, a young veterinary student \u2014 and an elephant \u2014 save a Depression-era circus.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781616200718.jpg",
+			"name": "WATER FOR ELEPHANTS",
+			"publisher": "Algonquin",
+			"rank": 2
+		},
+		{
+			"author": "by Michael Connelly",
+			"description": "Routinely doing business from his Lincoln Town Cars, the bottom-feeding attorney Mickey Haller is asked to defend the scion of a wealthy family who might not be guilty of a murderous crime.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455500239.jpg",
+			"name": "THE LINCOLN LAWYER",
+			"publisher": "Little, Brown",
+			"rank": 3
+		},
+		{
+			"author": "by Jodi Picoult",
+			"description": "Picoult takes on the issue of gay rights in this novel about a music therapist who desperately wants a child.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781439102732.jpg",
+			"name": "SING YOU HOME",
+			"publisher": "Simon & Schuster",
+			"rank": 4
+		},
+		{
+			"author": "by James Patterson and Neil McMahon",
+			"description": "Hays Baker, a top operative for the Agency of Change and a national hero, suddenly finds himself a hunted fugitive who must fight to save humans from extinction.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780446571746.jpg",
+			"name": "TOYS",
+			"publisher": "Little, Brown",
+			"rank": 5
+		},
+		{
+			"author": "by Stieg Larsson",
+			"description": "The third volume of the Millennium trilogy, about a Swedish hacker and a journalist.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307593672.jpg",
+			"name": "THE GIRL WHO KICKED THE HORNET\u2019S NEST",
+			"publisher": "Knopf Doubleday",
+			"rank": 6
+		},
+		{
+			"author": "by Kristin Hannah",
+			"description": "Three teenagers make a calamitous decision that changes the course of their lives.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780312364434.jpg",
+			"name": "NIGHT ROAD",
+			"publisher": "St. Martin's",
+			"rank": 7
+		},
+		{
+			"author": "by Alexander McCall Smith",
+			"description": "Precious Ramotswe, Botswana\u2019s No. 1 Lady Detective, is asked to investigate the killing of two cows at a remote cattle post.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307472984.jpg",
+			"name": "THE SATURDAY BIG TENT WEDDING PARTY",
+			"publisher": "Knopf Doubleday",
+			"rank": 8
+		},
+		{
+			"author": "by Karen Kingsbury",
+			"description": "Bailey Flanigan is determined to take advantage of a once-in-a-lifetime opportunity to audition for a Broadway show.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780310411987.jpg",
+			"name": "LEAVING",
+			"publisher": "Zondervan",
+			"rank": 9
+		},
+		{
+			"author": "by Stieg Larsson",
+			"description": "A hacker and a journalist investigate the disappearance of a Swedish heiress 40 years earlier.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307949486.jpg",
+			"name": "THE GIRL WITH THE DRAGON TATTOO",
+			"publisher": "Knopf Doubleday",
+			"rank": 10
+		},
+		{
+			"author": "by Lisa Gardner",
+			"description": "Detective D. D. Warren must solve the case of a dead husband, a battered wife and a missing child.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780553908114.jpg",
+			"name": "LOVE YOU MORE",
+			"publisher": "Random House",
+			"rank": 11
+		},
+		{
+			"author": "by Stieg Larsson",
+			"description": "In the second volume of the Millennium trilogy, a Swedish hacker becomes a murder suspect.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307476159.jpg",
+			"name": "THE GIRL WHO PLAYED WITH FIRE",
+			"publisher": "Knopf Doubleday",
+			"rank": 12
+		},
+		{
+			"author": "by Abraham Verghese",
+			"description": "Twin brothers, conjoined at birth and then separated, grow up amid the political turmoil of Ethiopia.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780375714368.jpg",
+			"name": "CUTTING FOR STONE",
+			"publisher": "Knopf Doubleday",
+			"rank": 13
+		},
+		{
+			"author": "by Clive Cussler with Jack Du Brul",
+			"description": "Juan Cabrillo and the crew of the Oregon undertake rescue operations from Afghanistan to Myanmar.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780425246542.jpg",
+			"name": "THE JUNGLE",
+			"publisher": "Penguin Group",
+			"rank": 14
+		},
+		{
+			"author": "by Paula McLain",
+			"description": "Ernest Hemingway\u2019s first wife, Hadley, narrates this novel set in Paris.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345521323.jpg",
+			"name": "THE PARIS WIFE",
+			"publisher": "Random House",
+			"rank": 15
+		}
+	]
+}

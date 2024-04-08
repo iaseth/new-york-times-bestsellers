@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Lee Child",
+			"description": "Jack Reacher gets caught up in a turf war between Ukrainian and Albanian gangs.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399593543.jpg",
+			"name": "BLUE MOON",
+			"publisher": "Delacorte",
+			"rank": 1
+		},
+		{
+			"author": "by John Grisham",
+			"description": "Cullen Post, a lawyer and Episcopal minister, antagonizes some ruthless killers when he takes on a wrongful conviction case.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385544184.jpg",
+			"name": "THE GUARDIANS",
+			"publisher": "Doubleday",
+			"rank": 2
+		},
+		{
+			"author": "by Clive Cussler and Boyd Morrison",
+			"description": "The 14th book of the Oregon Files series. Juan Cabrillo\u2019s enemy has replicated a state-of-the-art ship.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525541820.jpg",
+			"name": "FINAL OPTION",
+			"publisher": "Putnam",
+			"rank": 3
+		},
+		{
+			"author": "by Erin Morgenstern",
+			"description": "Zachary Ezra Rawlins fights to save a labyrinthine underground repository of stories.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385541213.jpg",
+			"name": "THE STARLESS SEA",
+			"publisher": "Doubleday",
+			"rank": 4
+		},
+		{
+			"author": "by Michael Connelly",
+			"description": "Harry Bosch and Ren\u00e9e Ballard return to take up a case that held the attention of Bosch\u2019s mentor.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316485616.jpg",
+			"name": "THE NIGHT FIRE",
+			"publisher": "Little, Brown",
+			"rank": 5
+		},
+		{
+			"author": "by Delia Owens",
+			"description": "In a quiet town on the North Carolina coast in 1969, a young woman who survived alone in the marsh becomes a murder suspect.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735219090.jpg",
+			"name": "WHERE THE CRAWDADS SING",
+			"publisher": "Putnam",
+			"rank": 6
+		},
+		{
+			"author": "by Mary Higgins Clark",
+			"description": "An investigative journalist seeks to uncover sexual misconduct at a television news network.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501171710.jpg",
+			"name": "KISS THE GIRLS AND MAKE THEM CRY",
+			"publisher": "Simon & Schuster",
+			"rank": 7
+		},
+		{
+			"author": "by Christine Feehan",
+			"description": "The 12th book in the Leopard Series. Will Mitya and Ania's pasts get in the way of the hunger they have for each other?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984803559.jpg",
+			"name": "LEOPARD'S WRATH",
+			"publisher": "Berkley",
+			"rank": 8
+		},
+		{
+			"author": "by Elizabeth Strout",
+			"description": "In a follow-up to the Pulitzer Prize-winning novel \u201cOlive Kitteridge,\u201d new relationships, including a second marriage, are encountered in a seaside town in Maine.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812996548.jpg",
+			"name": "OLIVE, AGAIN",
+			"publisher": "Random House",
+			"rank": 9
+		},
+		{
+			"author": "by Jojo Moyes",
+			"description": "In Depression-era America, five women refuse to be cowed by men or convention as they deliver books throughout the mountains of Kentucky.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399562501.jpg",
+			"name": "THE GIVER OF STARS",
+			"publisher": "Pamela Dorman/Viking",
+			"rank": 10
+		},
+		{
+			"author": "by Lisa Jewell",
+			"description": "Libby Jones learns the identity of her parents and inherits a London mansion, but this comes with a mystery of multiple murders.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501190124.jpg",
+			"name": "THE FAMILY UPSTAIRS",
+			"publisher": "Atria",
+			"rank": 11
+		},
+		{
+			"author": "by Ann Patchett",
+			"description": "A sibling relationship is impacted when the family goes from poverty to wealth and back again over the course of many decades.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062963673.jpg",
+			"name": "THE DUTCH HOUSE",
+			"publisher": "Harper",
+			"rank": 12
+		},
+		{
+			"author": "by James Patterson and Maxine Paetro",
+			"description": "In the 19th installment of the Women's Murder Club series, detective Lindsay Boxer and company take on a fearsome criminal known only as \"Loman.\"",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316494021.jpg",
+			"name": "THE 19TH CHRISTMAS",
+			"publisher": "Little, Brown",
+			"rank": 13
+		},
+		{
+			"author": "by Nelson DeMille and Alex DeMille",
+			"description": "Two members of the Criminal Investigation Division must bring back a Delta Force soldier who disappeared.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501101755.jpg",
+			"name": "THE DESERTER",
+			"publisher": "Simon & Schuster",
+			"rank": 14
+		},
+		{
+			"author": "by Stephen King",
+			"description": "Children with special talents are abducted and sequestered in an institution where the sinister staff seeks to extract their gifts through harsh methods.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982110567.jpg",
+			"name": "THE INSTITUTE",
+			"publisher": "Scribner",
+			"rank": 15
+		}
+	]
+}

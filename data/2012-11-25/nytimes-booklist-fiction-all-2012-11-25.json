@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Nora Roberts",
+			"description": "The final volume of the Inn BoonsBoro trilogy sees sparks fly between Ryder Montgomery and the innkeeper.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101612231.jpg",
+			"name": "THE PERFECT HOPE",
+			"publisher": "Penguin Group",
+			"rank": 1
+		},
+		{
+			"author": "by John Grisham",
+			"description": "An imprisoned ex-lawyer schemes to exchange this information about who murdered a judge for his freedom.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385536882.jpg",
+			"name": "THE RACKETEER",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 2
+		},
+		{
+			"author": "by Clive Cussler and Dirk Cussler",
+			"description": "Dirk Pitt and his team look for the truth about a sophisticated attack submarine.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399162923.jpg",
+			"name": "POSEIDON'S ARROW",
+			"publisher": "Penguin Group",
+			"rank": 3
+		},
+		{
+			"author": "by E. L. James",
+			"description": "A college student falls in love with a tortured man with particular sexual tastes; the first of a trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345803481.jpg",
+			"name": "FIFTY SHADES OF GREY",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 4
+		},
+		{
+			"author": "by Sylvia Day",
+			"description": "Eva and Gideon, of \u201cBared to You,\u201d continue to struggle to make their relationship work.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101604915.jpg",
+			"name": "REFLECTED IN YOU",
+			"publisher": "Penguin Group",
+			"rank": 5
+		},
+		{
+			"author": "by Gillian Flynn",
+			"description": "A woman disappears on the day of her fifth anniversary; is her husband a killer?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307588388.jpg",
+			"name": "GONE GIRL",
+			"publisher": "Crown Publishing",
+			"rank": 6
+		},
+		{
+			"author": "by E. L. James",
+			"description": "The final book in an erotic trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781612130606.jpg",
+			"name": "FIFTY SHADES FREED",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 7
+		},
+		{
+			"author": "by E. L. James",
+			"description": "Ana Steele learns more about Christian Grey\u2019s troubled past; the second book in a trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345803498.jpg",
+			"name": "FIFTY SHADES DARKER",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 8
+		},
+		{
+			"author": "by Barbara Kingsolver",
+			"description": "An Appalachian woman becomes involved in an effort to save monarch butterflies.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062124289.jpg",
+			"name": "FLIGHT BEHAVIOR",
+			"publisher": "HarperCollins Publishers",
+			"rank": 9
+		},
+		{
+			"author": "by Jennifer Probst",
+			"description": "Max Gray is reluctantly forced to marry Carina Conte, his business partner\u2019s sister, after her mother surprises them in bed; Book 3 in the Marriage to a Billionaire series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476717531.jpg",
+			"name": "THE MARRIAGE MISTAKE",
+			"publisher": "Simon & Schuster",
+			"rank": 10
+		},
+		{
+			"author": "by Jessica Sorensen",
+			"description": "Childhood friends, long separated, get back together.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/A00B009LBO334.jpg",
+			"name": "THE SECRET OF ELLA AND MICHA",
+			"publisher": "Jessica Sorensen",
+			"rank": 11
+		},
+		{
+			"author": "by Yann Martel",
+			"description": "A teenage boy and a 450-pound tiger are thrown together in a lifeboat after a shipwreck; originally published in 2002 and now a movie.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780156027328.jpg",
+			"name": "LIFE OF PI",
+			"publisher": "Houghton Mifflin Harcourt",
+			"rank": 12
+		},
+		{
+			"author": "by Nelson DeMille",
+			"description": "In Yemen, the anti-terrorist task force agent John Corey and his wife pursue a high-ranking Qaeda operative.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455518371.jpg",
+			"name": "THE PANTHER",
+			"publisher": "Grand Central Publishing",
+			"rank": 13
+		},
+		{
+			"author": "by Nelson DeMille",
+			"description": "A detective probes the murder of a Long Island couple who may have been involved in germ warfare research; originally published in 1997.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780759528338.jpg",
+			"name": "PLUM ISLAND",
+			"publisher": "Grand Central Publishing",
+			"rank": 14
+		},
+		{
+			"author": "by James Patterson and Marshall Karp",
+			"description": "Detective Zach Jordan must stop a deranged killer at a New York film festival.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316199865.jpg",
+			"name": "NYPD RED",
+			"publisher": "Little, Brown & Company",
+			"rank": 15
+		}
+	]
+}

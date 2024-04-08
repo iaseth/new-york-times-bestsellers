@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Paul McCartney",
+			"description": "A two-volume celebration of 154 songs, with handwritten texts, paintings and photographs from the songwriter\u2019s archives.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781324094098.jpg",
+			"name": "THE LYRICS: 1956 TO THE PRESENT",
+			"publisher": "Liveright",
+			"rank": 1
+		},
+		{
+			"author": "by Philipp Dettmer",
+			"description": "The founder of the YouTube channel Kurzgesagt gives an overview of elements of the body\u2019s immune system.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593241318.jpg",
+			"name": "IMMUNE",
+			"publisher": "Random House",
+			"rank": 2
+		},
+		{
+			"author": "by Brian Kilmeade",
+			"description": "The Fox News host gives an account of the relationship between Abraham Lincoln and Frederick Douglass.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525540571.jpg",
+			"name": "THE PRESIDENT AND THE FREEDOM FIGHTER",
+			"publisher": "Sentinel",
+			"rank": 3
+		},
+		{
+			"author": "by Dave Grohl",
+			"description": "A memoir by the musician known for his work with Foo Fighters and Nirvana.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063076099.jpg",
+			"name": "THE STORYTELLER",
+			"publisher": "Dey Street",
+			"rank": 4
+		},
+		{
+			"author": "by Katie Couric",
+			"description": "The former anchor of the \u201cCBS Evening News\u201d and \u201cToday\u201d describes some of the personal and professional challenges she faced.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316535861.jpg",
+			"name": "GOING THERE",
+			"publisher": "Little, Brown",
+			"rank": 5
+		},
+		{
+			"author": "by Michael Imperioli and Steve Schirripa with Philip Lerman",
+			"description": "An oral history of \u201cThe Sopranos\u201d by two of its stars who host the podcast \u201cTalking Sopranos.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063090026.jpg",
+			"name": "WOKE UP THIS MORNING",
+			"publisher": "Morrow",
+			"rank": 6
+		},
+		{
+			"author": "by Daniel Levy and Eugene Levy",
+			"description": "Character profiles, major story moments and behind-the-scenes tales from the Emmy Award-winning series \u201cSchitt's Creek.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780762499502.jpg",
+			"name": "BEST WISHES, WARMEST REGARDS",
+			"publisher": "Black Dog & Leventhal",
+			"rank": 7
+		},
+		{
+			"author": "by Huma Abedin",
+			"description": "The aide and advisor to Hillary Clinton shares details from her time in public service as well as personal setbacks.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501194801.jpg",
+			"name": "BOTH/AND",
+			"publisher": "Scribner",
+			"rank": 8
+		},
+		{
+			"author": "by Bessel van der Kolk",
+			"description": "How trauma affects the body and mind, and innovative treatments for recovery.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780670785933.jpg",
+			"name": "THE BODY KEEPS THE SCORE",
+			"publisher": "Penguin",
+			"rank": 9
+		},
+		{
+			"author": "by Rachel Held Evans with Jeff Chu",
+			"description": "Reflections on the identity and purpose of Christianity completed posthumously.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062894472.jpg",
+			"name": "WHOLEHEARTED FAITH",
+			"publisher": "HarperOne",
+			"rank": 10
+		},
+		{
+			"author": "by Bret Baier with Catherine Whitney",
+			"description": "The Fox News chief political anchor recounts challenges faced by Ulysses S. Grant.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063039544.jpg",
+			"name": "TO RESCUE THE REPUBLIC",
+			"publisher": "Custom House",
+			"rank": 11
+		},
+		{
+			"author": "by James Patterson and Matt Eversmann with Chris Mooney",
+			"description": "A collection of stories from people working in big-city and small-town hospitals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780759554269.jpg",
+			"name": "E.R. NURSES",
+			"publisher": "Little, Brown",
+			"rank": 12
+		},
+		{
+			"author": "by Barack Obama and Bruce Springsteen",
+			"description": "Conversations between the 44th president and the multiple award-winning musician on a range of topics.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593236314.jpg",
+			"name": "RENEGADES",
+			"publisher": "Crown",
+			"rank": 13
+		},
+		{
+			"author": "by Bob Woodward and Robert Costa",
+			"description": "The Washington Post journalists detail the dangers and challenges during the transition to the Biden presidency.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982182915.jpg",
+			"name": "PERIL",
+			"publisher": "Simon & Schuster",
+			"rank": 14
+		},
+		{
+			"author": "by Yuval Noah Harari",
+			"description": "How Homo sapiens became Earth\u2019s dominant species.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062316097.jpg",
+			"name": "SAPIENS",
+			"publisher": "Harper",
+			"rank": 15
+		}
+	]
+}

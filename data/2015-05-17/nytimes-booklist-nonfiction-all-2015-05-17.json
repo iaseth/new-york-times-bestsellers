@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Amanda Berry and Gina DeJesus with Mary Jordan and Kevin Sullivan",
+			"description": "Two of the women who were kidnapped by a Cleveland school bus driver and imprisoned, raped and abused by him until they escaped after 10 years tell their story.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698178953.jpg",
+			"name": "HOPE",
+			"publisher": "Viking",
+			"rank": 1
+		},
+		{
+			"author": "by Dana Perino",
+			"description": "The Fox News contributor and former press secretary under President George W. Bush reviews her life and career and shares lessons she has learned.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455584901.jpg",
+			"name": "AND THE GOOD NEWS IS ...",
+			"publisher": "Twelve",
+			"rank": 2
+		},
+		{
+			"author": "by David Brooks",
+			"description": "The Times columnist extols personal virtues like kindness and honesty in a materialistic age.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812993257.jpg",
+			"name": "THE ROAD TO CHARACTER",
+			"publisher": "Random House",
+			"rank": 3
+		},
+		{
+			"author": "by Daniel James Brown",
+			"description": "The University of Washington\u2019s eight-oar crew and their quest for gold at the 1936 Berlin Olympics.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101622742.jpg",
+			"name": "THE BOYS IN THE BOAT",
+			"publisher": "Viking",
+			"rank": 4
+		},
+		{
+			"author": "by Erik Larson",
+			"description": "The last voyage of the Lusitania, by the author of \u201cThe Devil in the White City.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307408860.jpg",
+			"name": "DEAD WAKE",
+			"publisher": "Crown",
+			"rank": 5
+		},
+		{
+			"author": "by David Fisher",
+			"description": "Stories of the American West; a companion volume to the Fox News series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781627795081.jpg",
+			"name": "BILL O'REILLY'S LEGENDS AND LIES",
+			"publisher": "Holt",
+			"rank": 6
+		},
+		{
+			"author": "by Jon Krakauer",
+			"description": "The author of \u201cInto the Wild\u201d discusses cases of acquaintance rape in Missoula, Mont., home of the University of Montana.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385538749.jpg",
+			"name": "MISSOULA",
+			"publisher": "Doubleday",
+			"rank": 7
+		},
+		{
+			"author": "by Michelle Knight with Michelle Burford Weinstein",
+			"description": "The story of a woman kidnapped in Cleveland in 2002, then tortured, who escaped in 2013.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781602862579.jpg",
+			"name": "FINDING ME",
+			"publisher": "Weinstein Books",
+			"rank": 8
+		},
+		{
+			"author": "by Kate Andersen Brower",
+			"description": "Fifty years of White House lore, based on interviews with butlers, maids and other staff members.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062305213.jpg",
+			"name": "THE RESIDENCE",
+			"publisher": "Harper",
+			"rank": 9
+		},
+		{
+			"author": "by Chris Kyle with Scott McEwen and Jim DeFelice",
+			"description": "A former member of the Navy SEALs discusses his battlefield experiences during the Iraq war; now a movie.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062082374.jpg",
+			"name": "AMERICAN SNIPER",
+			"publisher": "Morrow/HarperCollins",
+			"rank": 10
+		},
+		{
+			"author": "by Oliver Sacks",
+			"description": "A memoir by the neurologist and writer, the author of \u201cAwakenings\u201d and many other books.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385352550.jpg",
+			"name": "ON THE MOVE",
+			"publisher": "Knopf",
+			"rank": 11
+		},
+		{
+			"author": "by Atul Gawande",
+			"description": "The surgeon and New Yorker writer considers how doctors fail patients at the end of life, and how they can do better.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780805095159.jpg",
+			"name": "BEING MORTAL",
+			"publisher": "Metropolitan/Holt",
+			"rank": 12
+		},
+		{
+			"author": "by Laura Hillenbrand",
+			"description": "An Olympic runner\u2019s story of survival as a prisoner of the Japanese in World War II; now a movie.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400064168.jpg",
+			"name": "UNBROKEN",
+			"publisher": "Random House",
+			"rank": 13
+		},
+		{
+			"author": "by Cheryl Strayed",
+			"description": "A woman\u2019s account of a life-changing 1,100-mile hike along the Pacific Crest Trail during the summer of 1995; now a movie.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307476074.jpg",
+			"name": "WILD",
+			"publisher": "Knopf",
+			"rank": 14
+		},
+		{
+			"author": "by Malcolm Gladwell",
+			"description": "How disadvantages can work in our favor; from the author of \"The Tipping Point\" and \"Outliers.\"",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316204361.jpg",
+			"name": "DAVID AND GOLIATH",
+			"publisher": "Little, Brown",
+			"rank": 15
+		}
+	]
+}

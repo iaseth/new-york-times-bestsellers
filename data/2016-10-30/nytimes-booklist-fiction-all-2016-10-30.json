@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Paula Hawkins",
+			"description": "A psychological thriller set in the environs of London is full of complications and betrayals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594633669.jpg",
+			"name": "THE GIRL ON THE TRAIN",
+			"publisher": "Riverhead",
+			"rank": 1
+		},
+		{
+			"author": "by Kyle Mills",
+			"description": "Flynn\u2019s character, the C.I.A. operative Mitch Rapp, uncovers a dangerous Russian plot. Flynn died in 2013.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476783505.jpg",
+			"name": "VINCE FLYNN: ORDER TO KILL",
+			"publisher": "Emily Bestler/Atria",
+			"rank": 2
+		},
+		{
+			"author": "by Jodi Picoult",
+			"description": "A medical crisis entangles a black nurse, a white supremacist father and a white lawyer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345544964.jpg",
+			"name": "SMALL GREAT THINGS",
+			"publisher": "Ballantine",
+			"rank": 3
+		},
+		{
+			"author": "by Nicholas Sparks",
+			"description": "A man who became a single father when his marriage and business collapsed learns to take a chance on a new love.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455520701.jpg",
+			"name": "TWO BY TWO",
+			"publisher": "Grand Central",
+			"rank": 4
+		},
+		{
+			"author": "by Fredrik Backman",
+			"description": "A curmudgeon's gruff exterior masks a generosity of spirit. Originally published in Sweden in 2014.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476738024.jpg",
+			"name": "A MAN CALLED OVE",
+			"publisher": "Washington Square",
+			"rank": 5
+		},
+		{
+			"author": "by Laurell K. Hamilton",
+			"description": "The vampire hunter Anita Blake, her friend Edward and her servant Damian travel to Ireland to battle an unusual vampire infestation.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101987735.jpg",
+			"name": "CRIMSON DEATH",
+			"publisher": "Berkley",
+			"rank": 6
+		},
+		{
+			"author": "by Harlan Coben",
+			"description": "Myron Bolitar and his friend Win locate a boy who was kidnapped 10 years earlier; the 11th Myron Bolitar novel.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698411449.jpg",
+			"name": "HOME",
+			"publisher": "Dutton",
+			"rank": 7
+		},
+		{
+			"author": "by Dan Brown",
+			"description": "The symbologist Robert Langdon, on the run in Florence, must decipher a series of codes created by a Dante-loving scientist.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400079155.jpg",
+			"name": "INFERNO",
+			"publisher": "Anchor",
+			"rank": 8
+		},
+		{
+			"author": "by Ann Patchett",
+			"description": "Five decades in the lives of two families \u2014 parents, children, siblings, stepchildren \u2014 remade by divorce.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062491817.jpg",
+			"name": "COMMONWEALTH",
+			"publisher": "Harper/HarperCollins",
+			"rank": 9
+		},
+		{
+			"author": "by James Patterson and Kathryn Fox",
+			"description": "Private Sydney's elite team looks for a seemingly untraceable man.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455568147.jpg",
+			"name": "MISSING",
+			"publisher": "Grand Central",
+			"rank": 10
+		},
+		{
+			"author": "by Alexander McCall Smith",
+			"description": "In the 17th installment of the No. 1 Ladies\u2019 Detective Agency series, Precious Ramotswe and Grace Makutski help a Canadian woman find the nursemaid who raised her in Botswana.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101871362.jpg",
+			"name": "PRECIOUS AND GRACE",
+			"publisher": "Pantheon",
+			"rank": 11
+		},
+		{
+			"author": "by Tana French",
+			"description": "In the sixth Dublin Murder Squad novel, Detective Antoinette Conway confronts a case that is more complicated than it appears.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780670026333.jpg",
+			"name": "THE TRESPASSER",
+			"publisher": "Viking",
+			"rank": 12
+		},
+		{
+			"author": "by M. L. Stedman",
+			"description": "An Australian lighthouse keeper and his wife decide to keep a baby who has washed ashore.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451681758.jpg",
+			"name": "THE LIGHT BETWEEN OCEANS",
+			"publisher": "Scribner",
+			"rank": 13
+		},
+		{
+			"author": "by James Patterson and Maxine Paetro",
+			"description": "The story of a (woman) doctor who, after a life of service and suffering, decides to become a Catholic priest.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316274029.jpg",
+			"name": "WOMAN OF GOD",
+			"publisher": "Little, Brown",
+			"rank": 14
+		},
+		{
+			"author": "by Maria Semple",
+			"description": "A calamitous day in the life of a cynical Seattle transplant from the author of \u201cWhere\u2019d You Go, Bernadette.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316403443.jpg",
+			"name": "TODAY WILL BE DIFFERENT",
+			"publisher": "Little, Brown",
+			"rank": 15
+		}
+	]
+}

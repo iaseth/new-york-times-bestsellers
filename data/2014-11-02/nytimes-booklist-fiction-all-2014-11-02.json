@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Gillian Flynn",
+			"description": "A woman disappears on the day of her fifth anniversary; is her husband a killer?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307588388.jpg",
+			"name": "GONE GIRL",
+			"publisher": "Crown",
+			"rank": 1
+		},
+		{
+			"author": "by Jodi Picoult",
+			"description": "After searching for her mother, who has disappeared, for more than 10 years, a woman employs a psychic and a detective.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345544933.jpg",
+			"name": "LEAVING TIME",
+			"publisher": "Ballantine",
+			"rank": 2
+		},
+		{
+			"author": "by Nicholas Sparks",
+			"description": "Twenty-five years after their high school romance ended, two classmates return to their North Carolina town for a funeral.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780446547642.jpg",
+			"name": "THE BEST OF ME",
+			"publisher": "Grand Central",
+			"rank": 3
+		},
+		{
+			"author": "by John Sandford",
+			"description": "Dognappers and a murdered reporter draw the attention of the Minnesota investigator Virgil Flowers.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101597767.jpg",
+			"name": "DEADLINE",
+			"publisher": "Putnam",
+			"rank": 4
+		},
+		{
+			"author": "by James Patterson and Michael Ledwidge",
+			"description": "Detective Michael Bennett, back in New York City, investigates a peculiar crime in Harlem.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316211024.jpg",
+			"name": "BURN",
+			"publisher": "Little, Brown",
+			"rank": 5
+		},
+		{
+			"author": "by Penelope Ward",
+			"description": "A bond, and an attraction, between two stepsiblings.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781942215035.jpg",
+			"name": "STEPBROTHER DEAREST",
+			"publisher": "Penelope Ward",
+			"rank": 6
+		},
+		{
+			"author": "by Gillian Flynn",
+			"description": "A woman who, as a child, was spared when her mother and sisters were murdered begins to reinvestigate the case against her imprisoned brother.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307341570.jpg",
+			"name": "DARK PLACES",
+			"publisher": "Broadway",
+			"rank": 7
+		},
+		{
+			"author": "by Ken Follett",
+			"description": "Five interrelated families grapple with the events of the 1960s through the 1980s; Book 3 of the Century Trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525953098.jpg",
+			"name": "EDGE OF ETERNITY",
+			"publisher": "Dutton",
+			"rank": 8
+		},
+		{
+			"author": "by Anthony Doerr",
+			"description": "The lives of a blind French girl and a gadget-obsessed German boy before and during World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476746586.jpg",
+			"name": "ALL THE LIGHT WE CANNOT SEE",
+			"publisher": "Scribner",
+			"rank": 9
+		},
+		{
+			"author": "by Lee Child",
+			"description": "Jack Reacher, a former military cop, helps the State Department and the C.I.A. stop a sniper who has targeted a G8 summit.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780804178747.jpg",
+			"name": "PERSONAL",
+			"publisher": "Delacorte",
+			"rank": 10
+		},
+		{
+			"author": "by Diana Gabaldon",
+			"description": "Claire Randall, an English nurse, is transported back to 1743 during a second honeymoon in the Scottish Highlands. There she begins an affair with James Fraser, a redheaded soldier. Originally published in 1991.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780440212560.jpg",
+			"name": "OUTLANDER",
+			"publisher": "Dell",
+			"rank": 11
+		},
+		{
+			"author": "by Bella Andre",
+			"description": "A guarded woman with a 10-month-old son tries to resist her attraction to a handsome boat builder.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781938127540.jpg",
+			"name": "I LOVE HOW YOU LOVE ME",
+			"publisher": "Bella Andre",
+			"rank": 12
+		},
+		{
+			"author": "by Gillian Flynn",
+			"description": "Fresh from a stay at a psychiatric hospital, a newspaper reporter returns (reluctantly) to her hometown to cover the murders of two girls.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307341556.jpg",
+			"name": "SHARP OBJECTS",
+			"publisher": "Broadway",
+			"rank": 13
+		},
+		{
+			"author": "by Liane Moriarty",
+			"description": "Who will end up dead, and how, when three mothers with children in the same school become friends?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698138636.jpg",
+			"name": "BIG LITTLE LIES",
+			"publisher": "Amy Einhorn/Putnam",
+			"rank": 14
+		},
+		{
+			"author": "by Christina Baker Kline",
+			"description": "A historical novel about orphans swept off the streets of New York and sent to the Midwest in the 1920s.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062101204.jpg",
+			"name": "ORPHAN TRAIN",
+			"publisher": "Morrow/HarperCollins",
+			"rank": 15
+		}
+	]
+}

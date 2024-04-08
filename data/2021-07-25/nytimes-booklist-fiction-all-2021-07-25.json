@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Miranda Cowley Heller",
+			"description": "After an extramarital dalliance, Elle must choose between her husband and her childhood love.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593329825.jpg",
+			"name": "THE PAPER PALACE",
+			"publisher": "Riverhead",
+			"rank": 1
+		},
+		{
+			"author": "by Danielle Steel",
+			"description": "After tragedy upsets her stable family life, Maggie must decide if she will take a risk with a thrill seeker.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984821430.jpg",
+			"name": "NINE LIVES",
+			"publisher": "Delacorte",
+			"rank": 2
+		},
+		{
+			"author": "by T.J. Newman",
+			"description": "A kidnapper demands that a pilot crash his plane with 144 passengers onboard to save his family.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982177881.jpg",
+			"name": "FALLING",
+			"publisher": "Avid Reader",
+			"rank": 3
+		},
+		{
+			"author": "by Laura Dave",
+			"description": "Hannah Hall discovers truths about her missing husband and bonds with his daughter from a previous relationship.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501171345.jpg",
+			"name": "THE LAST THING HE TOLD ME",
+			"publisher": "Simon & Schuster",
+			"rank": 4
+		},
+		{
+			"author": "by Emily Henry",
+			"description": "Opposites Poppy and Alex meet to vacation together one more time in hopes of saving their relationship.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984806758.jpg",
+			"name": "PEOPLE WE MEET ON VACATION",
+			"publisher": "Berkley",
+			"rank": 5
+		},
+		{
+			"author": "by Delia Owens",
+			"description": "In a quiet town on the North Carolina coast in 1969, a young woman who survived alone in the marsh becomes a murder suspect.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735219090.jpg",
+			"name": "WHERE THE CRAWDADS SING",
+			"publisher": "Putnam",
+			"rank": 6
+		},
+		{
+			"author": "by John Grisham",
+			"description": "The third book in the Jake Brigance series. A 16-year-old is accused of killing a deputy in Clanton, Miss., in 1990.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385545969.jpg",
+			"name": "A TIME FOR MERCY",
+			"publisher": "Doubleday",
+			"rank": 7
+		},
+		{
+			"author": "by Taylor Jenkins Reid",
+			"description": "An epic party has serious outcomes for four famous siblings.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524798659.jpg",
+			"name": "MALIBU RISING",
+			"publisher": "Ballantine",
+			"rank": 8
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "A battered wife raised in a violent home attempts to halt the cycle of abuse.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501110375.jpg",
+			"name": "IT ENDS WITH US",
+			"publisher": "Atria",
+			"rank": 9
+		},
+		{
+			"author": "by Quentin Tarantino",
+			"description": "A novelization of the film set in 1969, by its director and screenwriter.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063112520.jpg",
+			"name": "ONCE UPON A TIME IN HOLLYWOOD",
+			"publisher": "Harper Perennial",
+			"rank": 10
+		},
+		{
+			"author": "by Matt Haig",
+			"description": "Nora Seed finds a library beyond the edge of the universe that contains books with multiple possibilities of the lives one could have lived.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525559474.jpg",
+			"name": "THE MIDNIGHT LIBRARY",
+			"publisher": "Viking",
+			"rank": 11
+		},
+		{
+			"author": "by Kathy Reichs",
+			"description": "The 20th book in the Temperance Brennan series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982139988.jpg",
+			"name": "THE BONE CODE",
+			"publisher": "Scribner",
+			"rank": 12
+		},
+		{
+			"author": "by James Patterson and Bill Clinton",
+			"description": "Matthew Keating, a past president and former Navy SEAL, goes on his own to find his abducted teenage daughter.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316540711.jpg",
+			"name": "THE PRESIDENT'S DAUGHTER",
+			"publisher": "Little, Brown",
+			"rank": 13
+		},
+		{
+			"author": "by Alex Michaelides",
+			"description": "Theo Faber looks into the mystery of a famous painter who stops speaking after shooting her husband.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250301697.jpg",
+			"name": "THE SILENT PATIENT",
+			"publisher": "Celadon",
+			"rank": 14
+		},
+		{
+			"author": "by Madeline Miller",
+			"description": "A reimagining of Homer\u2019s \u201cIliad\u201d that is narrated by Achilles' companion Patroclus.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062060624.jpg",
+			"name": "THE SONG OF ACHILLES",
+			"publisher": "Ecco",
+			"rank": 15
+		}
+	]
+}

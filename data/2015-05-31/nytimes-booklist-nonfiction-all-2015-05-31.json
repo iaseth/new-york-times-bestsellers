@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by David McCullough",
+			"description": "The story of the bicycle mechanics from Ohio who ushered in the age of flight; by the author of \u201c1776\u201d and \u201cThe Greater Journey.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476728742.jpg",
+			"name": "THE WRIGHT BROTHERS",
+			"publisher": "Simon & Schuster",
+			"rank": 1
+		},
+		{
+			"author": "by Dana Perino",
+			"description": "The Fox News contributor and former press secretary under President George W. Bush reviews her life and career and shares lessons she has learned.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455584901.jpg",
+			"name": "AND THE GOOD NEWS IS ...",
+			"publisher": "Twelve",
+			"rank": 2
+		},
+		{
+			"author": "by Tom Brokaw",
+			"description": "The journalist describes the year following his diagnosis with multiple myeloma.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780679604662.jpg",
+			"name": "LUCKY LIFE INTERRUPTED",
+			"publisher": "Random House",
+			"rank": 3
+		},
+		{
+			"author": "by Daniel James Brown",
+			"description": "The University of Washington\u2019s eight-oar crew and their quest for gold at the 1936 Berlin Olympics.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101622742.jpg",
+			"name": "THE BOYS IN THE BOAT",
+			"publisher": "Penguin",
+			"rank": 4
+		},
+		{
+			"author": "by Peter Schweizer",
+			"description": "An examination of donations made to the Clinton Foundation by foreign entities.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062369307.jpg",
+			"name": "CLINTON CASH",
+			"publisher": "Harper/HarperCollins",
+			"rank": 5
+		},
+		{
+			"author": "by Erik Larson",
+			"description": "The last voyage of the Lusitania, the passenger liner sunk by a German torpedo in 1915; by the author of \u201cThe Devil in the White City.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307408860.jpg",
+			"name": "DEAD WAKE",
+			"publisher": "Crown",
+			"rank": 6
+		},
+		{
+			"author": "by David Brooks",
+			"description": "The Times columnist extols personal virtues like kindness and honesty in a materialistic age.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812993257.jpg",
+			"name": "THE ROAD TO CHARACTER",
+			"publisher": "Random House",
+			"rank": 7
+		},
+		{
+			"author": "by Melissa Rivers",
+			"description": "A memoir of life, often uproarious, with the comedian Joan Rivers, written by her daughter.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101903834.jpg",
+			"name": "THE BOOK OF JOAN",
+			"publisher": "Crown Archetype",
+			"rank": 8
+		},
+		{
+			"author": "by Amanda Berry and Gina DeJesus with Mary Jordan and Kevin Sullivan",
+			"description": "Two of the women abducted and abused by a Cleveland school bus driver until they escaped after 10 years tell their story.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698178953.jpg",
+			"name": "HOPE",
+			"publisher": "Viking",
+			"rank": 9
+		},
+		{
+			"author": "by David Fisher",
+			"description": "Stories of the American West; a companion volume to the Fox News series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781627795081.jpg",
+			"name": "BILL O'REILLY'S LEGENDS AND LIES",
+			"publisher": "Holt",
+			"rank": 10
+		},
+		{
+			"author": "by Willie Nelson with David Ritz",
+			"description": "The country music star discusses his life\u2019s journey, from selling encyclopedias to professional fame.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316403566.jpg",
+			"name": "IT'S A LONG STORY",
+			"publisher": "Little, Brown",
+			"rank": 11
+		},
+		{
+			"author": "by Chris Kyle with Scott McEwen and Jim DeFelice",
+			"description": "A former member of the Navy SEALs discusses his battlefield experiences during the Iraq war; now a movie.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062082374.jpg",
+			"name": "AMERICAN SNIPER",
+			"publisher": "Morrow/HarperCollins",
+			"rank": 12
+		},
+		{
+			"author": "by Taya Kyle with Jim DeFelice",
+			"description": "The widow of Chris Kyle, of \u201cAmerican Sniper\u201d fame, describes her life after his death.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062398109.jpg",
+			"name": "AMERICAN WIFE",
+			"publisher": "Morrow/HarperCollins",
+			"rank": 13
+		},
+		{
+			"author": "by Atul Gawande",
+			"description": "The surgeon and New Yorker writer considers how doctors fail patients at the end of life, and how they can do better.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780805095159.jpg",
+			"name": "BEING MORTAL",
+			"publisher": "Metropolitan/Holt",
+			"rank": 14
+		},
+		{
+			"author": "by Joseph J. Ellis",
+			"description": "How Washington, Hamilton, Jay and Madison created the Constitution.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385353403.jpg",
+			"name": "THE QUARTET",
+			"publisher": "Knopf",
+			"rank": 15
+		}
+	]
+}

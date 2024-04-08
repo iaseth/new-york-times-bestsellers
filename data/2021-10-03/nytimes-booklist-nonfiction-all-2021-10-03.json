@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Mark R. Levin",
+			"description": "The Fox News host gives his take on the Green New Deal, critical race theory and social activism.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501135972.jpg",
+			"name": "AMERICAN MARXISM",
+			"publisher": "Threshold Editions",
+			"rank": 1
+		},
+		{
+			"author": "by Chris Wallace with Mitch Weiss",
+			"description": "The intelligence gathering, security strategizing and military planning during the final eight months of the pursuit of Osama bin Laden.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982176525.jpg",
+			"name": "COUNTDOWN BIN LADEN",
+			"publisher": "Avid Reader",
+			"rank": 2
+		},
+		{
+			"author": "by Heather Heying and Bret Weinstein",
+			"description": "The evolutionary biologists posit that the modern world is out of sync with our ancient brains and bodies.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593086889.jpg",
+			"name": "A HUNTER-GATHERER'S GUIDE TO THE 21ST CENTURY",
+			"publisher": "Portfolio",
+			"rank": 3
+		},
+		{
+			"author": "by Mary Roach",
+			"description": "An exploration of disciplinary actions and preventative measures occuring at the intersection of human behavior and wildlife biology.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781324001935.jpg",
+			"name": "FUZZ",
+			"publisher": "Norton",
+			"rank": 4
+		},
+		{
+			"author": "by Bessel van der Kolk",
+			"description": "How trauma affects the body and mind, and innovative treatments for recovery.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780670785933.jpg",
+			"name": "THE BODY KEEPS THE SCORE",
+			"publisher": "Penguin",
+			"rank": 5
+		},
+		{
+			"author": "by Tarana Burke",
+			"description": "A memoir by the founder of the Me Too movement, which details her work supporting and empowering Black and brown girls.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250621733.jpg",
+			"name": "UNBOUND",
+			"publisher": "Flatiron",
+			"rank": 6
+		},
+		{
+			"author": "by Gabrielle Union with Kevin Carr O\u2019Leary",
+			"description": "The actress shares some of the challenges and changes she has faced in recent years.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062979933.jpg",
+			"name": "YOU GOT ANYTHING STRONGER?",
+			"publisher": "Dey Street",
+			"rank": 7
+		},
+		{
+			"author": "by Evan Osnos",
+			"description": "The National Book Award and Pulitzer Prize winner examines the shifts in American culture and politics by visiting three cities in which he has lived.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780374286675.jpg",
+			"name": "WILDLAND",
+			"publisher": "Farrar, Straus & Giroux",
+			"rank": 8
+		},
+		{
+			"author": "by Carmelo Anthony with D. Watkins",
+			"description": "The 10-time N.B.A. All-Star\u2019s life story from the housing projects of Red Hook, Brooklyn and Baltimore to his achievements on the basketball court.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982160593.jpg",
+			"name": "WHERE TOMORROWS AREN'T PROMISED",
+			"publisher": "Gallery",
+			"rank": 9
+		},
+		{
+			"author": "by Robin Wall Kimmerer",
+			"description": "A botanist and member of the Citizen Potawatomi Nation espouses having an understanding and appreciation of plants and animals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781571313560.jpg",
+			"name": "BRAIDING SWEETGRASS",
+			"publisher": "Milkweed Editions",
+			"rank": 10
+		},
+		{
+			"author": "by Tucker Carlson",
+			"description": "A collection of previously published essays from 1995 to 2016 by the Fox News host.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501183690.jpg",
+			"name": "THE LONG SLIDE",
+			"publisher": "Threshold Editions",
+			"rank": 11
+		},
+		{
+			"author": "by Nathaniel Philbrick",
+			"description": "In 2018, the author retraced the journey George Washington took through all 13 former colonies in 1789.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525562177.jpg",
+			"name": "TRAVELS WITH GEORGE",
+			"publisher": "Viking",
+			"rank": 12
+		},
+		{
+			"author": "by Bruce D. Perry and Oprah Winfrey",
+			"description": "An approach to dealing with trauma that shifts an essential question used to investigate it.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250223180.jpg",
+			"name": "WHAT HAPPENED TO YOU?",
+			"publisher": "Flatiron",
+			"rank": 13
+		},
+		{
+			"author": "by Qian Julie Wang",
+			"description": "A 7-year-old girl and her parents encounter difficulties in New York City when they leave China in the 1990s.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385547215.jpg",
+			"name": "BEAUTIFUL COUNTRY",
+			"publisher": "Doubleday",
+			"rank": 14
+		},
+		{
+			"author": "by Lucy Adlington",
+			"description": "Twenty-five young inmates of the Auschwitz-Birkenau concentration camp made garments for elite Nazi women.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063030930.jpg",
+			"name": "THE DRESSMAKERS OF AUSCHWITZ",
+			"publisher": "Harper",
+			"rank": 15
+		}
+	]
+}

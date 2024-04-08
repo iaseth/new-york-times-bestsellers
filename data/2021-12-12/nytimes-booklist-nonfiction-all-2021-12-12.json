@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "edited by Nikole Hannah-Jones, Caitlin Roper, Ilena Silverman and Jake Silverstein",
+			"description": "Viewing America\u2019s entanglement with slavery and its legacy, in essays adapted and expanded from The New York Times Magazine.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593230572.jpg",
+			"name": "THE 1619 PROJECT",
+			"publisher": "One World",
+			"rank": 1
+		},
+		{
+			"author": "by Will Smith with Mark Manson",
+			"description": "The actor, producer and musician tells his life story and lessons he learned along the way.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984877925.jpg",
+			"name": "WILL",
+			"publisher": "Penguin Press",
+			"rank": 2
+		},
+		{
+			"author": "by Dave Grohl",
+			"description": "A memoir by the musician known for his work with Foo Fighters and Nirvana.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063076099.jpg",
+			"name": "THE STORYTELLER",
+			"publisher": "Dey Street",
+			"rank": 3
+		},
+		{
+			"author": "by Paul McCartney",
+			"description": "A two-volume celebration of 154 songs, with handwritten texts, paintings and photographs from the songwriter\u2019s archives.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781324094098.jpg",
+			"name": "THE LYRICS: 1956 TO THE PRESENT",
+			"publisher": "Liveright",
+			"rank": 4
+		},
+		{
+			"author": "by Ann Patchett",
+			"description": "Essays on friendships, influences and the connection between life and art.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063092785.jpg",
+			"name": "THESE PRECIOUS DAYS",
+			"publisher": "Harper",
+			"rank": 5
+		},
+		{
+			"author": "by Rachel Campos-Duffy and Sean Duffy",
+			"description": "A collection of holiday memories from members of the staff of Fox News.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063046641.jpg",
+			"name": "ALL AMERICAN CHRISTMAS",
+			"publisher": "Broadside",
+			"rank": 6
+		},
+		{
+			"author": "by Robert F. Kennedy Jr.",
+			"description": "The anti-vaccine advocate gives his take on the chief medical advisor to the president.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781510766808.jpg",
+			"name": "THE REAL ANTHONY FAUCI",
+			"publisher": "Skyhorse",
+			"rank": 7
+		},
+		{
+			"author": "by Jonathan Karl",
+			"description": "The ABC News' chief Washington correspondent gives an account of the end of the Trump presidency.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593186329.jpg",
+			"name": "BETRAYAL",
+			"publisher": "Dutton",
+			"rank": 8
+		},
+		{
+			"author": "by Stanley Tucci",
+			"description": "The award-winning actor reflects on his career, Italian-American heritage, meals and mishaps.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982168018.jpg",
+			"name": "TASTE",
+			"publisher": "Gallery",
+			"rank": 9
+		},
+		{
+			"author": "by Brian Kilmeade",
+			"description": "The Fox News host gives an account of the relationship between Abraham Lincoln and Frederick Douglass.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525540571.jpg",
+			"name": "THE PRESIDENT AND THE FREEDOM FIGHTER",
+			"publisher": "Sentinel",
+			"rank": 10
+		},
+		{
+			"author": "by the Beatles",
+			"description": "The story of the making of the band\u2019s final album, gathered from transcripts of their conversations.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780935112962.jpg",
+			"name": "THE BEATLES: GET BACK",
+			"publisher": "Callaway",
+			"rank": 11
+		},
+		{
+			"author": "by Bessel van der Kolk",
+			"description": "How trauma affects the body and mind, and innovative treatments for recovery.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780670785933.jpg",
+			"name": "THE BODY KEEPS THE SCORE",
+			"publisher": "Penguin",
+			"rank": 12
+		},
+		{
+			"author": "by Brian Baumgartner and Ben Silverman",
+			"description": "An oral history of the TV series \u201cThe Office\u201d by one of its stars and one of its producers.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063082199.jpg",
+			"name": "WELCOME TO DUNDER MIFFLIN",
+			"publisher": "Custom House",
+			"rank": 13
+		},
+		{
+			"author": "by Sara G. Forden",
+			"description": "An account of the murder of Maurizio Gucci in 1995; the basis of the film.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063159983.jpg",
+			"name": "THE HOUSE OF GUCCI",
+			"publisher": "Custom House",
+			"rank": 14
+		},
+		{
+			"author": "by Hannah Brown with Mark Dagostino",
+			"description": "The reality TV star describes the pressures she felt in the public eye and the ways her faith was tested.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063098206.jpg",
+			"name": "GOD BLESS THIS MESS",
+			"publisher": "Harper",
+			"rank": 15
+		}
+	]
+}

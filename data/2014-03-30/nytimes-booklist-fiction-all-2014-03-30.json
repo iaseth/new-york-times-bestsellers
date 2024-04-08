@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Patricia Briggs",
+			"description": "The ex-wife of Adam, mate of the shape shifter Mercy Thompson, wants him back.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101638835.jpg",
+			"name": "NIGHT BROKEN",
+			"publisher": "Ace",
+			"rank": 1
+		},
+		{
+			"author": "by Sylvia Day",
+			"description": "Gianna Rossi and Jackson Rutledge navigate a cutthroat business world and its inner circle of glamour, sex and privilege.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781459245990.jpg",
+			"name": "AFTERSHOCK",
+			"publisher": "Harlequin",
+			"rank": 2
+		},
+		{
+			"author": "by Danielle Steel",
+			"description": "Two C.E.O.s \u2014 one a man, the other a woman \u2014 face very different challenges.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345530936.jpg",
+			"name": "POWER PLAY",
+			"publisher": "Delacorte",
+			"rank": 3
+		},
+		{
+			"author": "by Jeffrey Archer",
+			"description": "The Clifton Chronicles reach the 1960s in the fourth volume of the series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250034472.jpg",
+			"name": "BE CAREFUL WHAT YOU WISH FOR",
+			"publisher": "St. Martin's",
+			"rank": 4
+		},
+		{
+			"author": "by C. J. Box",
+			"description": "Joe Pickett, a Wyoming game warden and special assistant to the governor, investigates a mysterious wealthy rancher.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698150171.jpg",
+			"name": "STONE COLD",
+			"publisher": "Putnam",
+			"rank": 5
+		},
+		{
+			"author": "by Donna Tartt",
+			"description": "A painting smuggled out of the Metropolitan Museum of Art after a bombing becomes a boy\u2019s prize, guilt and burden.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316248679.jpg",
+			"name": "THE GOLDFINCH",
+			"publisher": "Little, Brown",
+			"rank": 6
+		},
+		{
+			"author": "by Sue Monk Kidd",
+			"description": "The relationship between a wealthy Charleston girl, Sarah Grimk\u00e9, who will grow up to become a prominent abolitionist, and the slave she is given for her 11th birthday.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780670024780.jpg",
+			"name": "THE INVENTION OF WINGS",
+			"publisher": "Viking",
+			"rank": 7
+		},
+		{
+			"author": "by Liane Moriarty",
+			"description": "A woman\u2019s life is upended when she discovers a letter from her husband she was not meant to read.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101636237.jpg",
+			"name": "THE HUSBAND'S SECRET",
+			"publisher": "Amy Einhorn/Putnam",
+			"rank": 8
+		},
+		{
+			"author": "by Christina Baker Kline",
+			"description": "A historical novel about orphans swept off the streets of New York and sent to the Midwest in the 1920s.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062101204.jpg",
+			"name": "ORPHAN TRAIN",
+			"publisher": "Morrow/HarperCollins",
+			"rank": 9
+		},
+		{
+			"author": "by John Grisham",
+			"description": "A sequel, about race and inheritance, to \u201cA Time to Kill.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385537926.jpg",
+			"name": "SYCAMORE ROW",
+			"publisher": "Doubleday",
+			"rank": 10
+		},
+		{
+			"author": "by Brandon Sanderson",
+			"description": "The second book of the Stormlight Archive fantasy epic, set in the world of Roshar.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780765326362.jpg",
+			"name": "WORDS OF RADIANCE",
+			"publisher": "Tor/Tom Doherty",
+			"rank": 11
+		},
+		{
+			"author": "by James Patterson and Mark Sullivan",
+			"description": "Jack Morgan and Justine Smith search for a high-powered celebrity couple who have disappeared.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316211123.jpg",
+			"name": "PRIVATE L.A.",
+			"publisher": "Little, Brown",
+			"rank": 12
+		},
+		{
+			"author": "by Paulo Coelho",
+			"description": "In this fable, a Spanish shepherd boy ventures to Egypt in search of treasure and his destiny. First published in 1993.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780061122415.jpg",
+			"name": "THE ALCHEMIST",
+			"publisher": "HarperCollins",
+			"rank": 13
+		},
+		{
+			"author": "by Janet Evanovich and Lee Goldberg",
+			"description": "Nicolas Fox (a handsome con man) and Kate O\u2019Hare (an F.B.I. agent) team up to steal back a Chinese artifact taken from the Smithsonian.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345543080.jpg",
+			"name": "THE CHASE",
+			"publisher": "Bantam",
+			"rank": 14
+		},
+		{
+			"author": "by Clive Cussler and Justin Scott",
+			"description": "The early-20th-century detective Isaac Bell tracks a wide-ranging international criminal enterprise.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698140738.jpg",
+			"name": "THE BOOTLEGGER",
+			"publisher": "Putnam",
+			"rank": 15
+		}
+	]
+}

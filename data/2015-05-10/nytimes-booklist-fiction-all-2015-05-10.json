@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by David Baldacci",
+			"description": "A police detective who left the force when his family was murdered teams up with his former partner to solve the case.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455586387.jpg",
+			"name": "MEMORY MAN",
+			"publisher": "Grand Central",
+			"rank": 1
+		},
+		{
+			"author": "by Paula Hawkins",
+			"description": "A psychological thriller set in the environs of London is full of complications and betrayals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594633669.jpg",
+			"name": "THE GIRL ON THE TRAIN",
+			"publisher": "Riverhead",
+			"rank": 2
+		},
+		{
+			"author": "by Greg Iles",
+			"description": "The prosecutor Penn Cage\u2019s attempt to find his father brings him up against the K.K.K.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062311146.jpg",
+			"name": "THE BONE TREE",
+			"publisher": "Morrow/HarperCollins",
+			"rank": 3
+		},
+		{
+			"author": "by Anthony Doerr",
+			"description": "The lives of a blind French girl and a gadget-obsessed German boy before and during World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476746586.jpg",
+			"name": "ALL THE LIGHT WE CANNOT SEE",
+			"publisher": "Scribner",
+			"rank": 4
+		},
+		{
+			"author": "by Nora Roberts",
+			"description": "After her husband\u2019s death, a woman returns with her daughter to her Smoky Mountain hometown, only to discover that her husband was a fraud who implicated her in his deceptions.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698161351.jpg",
+			"name": "THE LIAR",
+			"publisher": "Putnam",
+			"rank": 5
+		},
+		{
+			"author": "by Harlan Coben",
+			"description": "Characters\u2019 lives begin to fall apart as a mysterious stranger discloses secrets to them; a stand-alone thriller.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525953500.jpg",
+			"name": "THE STRANGER",
+			"publisher": "Dutton",
+			"rank": 6
+		},
+		{
+			"author": "by Amanda Quick",
+			"description": "The head of a secretarial service in Victorian London teams up with a client to discover why an employee was murdered.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399165153.jpg",
+			"name": "GARDEN OF LIES",
+			"publisher": "Putnam",
+			"rank": 7
+		},
+		{
+			"author": "by Nicholas Sparks",
+			"description": "The lives of two couples converge unexpectedly.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455520640.jpg",
+			"name": "THE LONGEST RIDE",
+			"publisher": "Grand Central",
+			"rank": 8
+		},
+		{
+			"author": "by Toni Morrison",
+			"description": "Her mother\u2019s rejection shapes the life of a dark-skinned woman who becomes successful in business but personally unhappy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307594174.jpg",
+			"name": "GOD HELP THE CHILD",
+			"publisher": "Knopf",
+			"rank": 9
+		},
+		{
+			"author": "by Kristin Hannah",
+			"description": "Two sisters are separated in World War II France: one struggling to survive in the countryside, the other joining the Resistance in Paris.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781466850606.jpg",
+			"name": "THE NIGHTINGALE",
+			"publisher": "St. Martin's",
+			"rank": 10
+		},
+		{
+			"author": "by Diana Gabaldon",
+			"description": "Claire Randall, an English nurse, is transported back to 1743 during a second honeymoon in the Scottish Highlands. There she begins an affair with James Fraser, a redheaded soldier. Originally published in 1991.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780440212560.jpg",
+			"name": "OUTLANDER",
+			"publisher": "Dell",
+			"rank": 11
+		},
+		{
+			"author": "by Lisa Scottoline",
+			"description": "A psychiatrist becomes the target of a sociopath.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250010117.jpg",
+			"name": "EVERY FIFTEEN MINUTES",
+			"publisher": "St. Martin's",
+			"rank": 12
+		},
+		{
+			"author": "by Jay Crownover",
+			"description": "Despite her better judgment, a police officer finds herself falling for the man she locked up.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062333087.jpg",
+			"name": "ASA",
+			"publisher": "Morrow/HarperCollins",
+			"rank": 13
+		},
+		{
+			"author": "by Penelope Douglas",
+			"description": "In the conclusion to the Fall Away series, an estranged couple wend their way to reconciliation.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698403871.jpg",
+			"name": "AFLAME",
+			"publisher": "InterMix",
+			"rank": 14
+		},
+		{
+			"author": "by Sarah McCoy",
+			"description": "A magazine writer becomes caught up in a woman\u2019s story of her painful experiences in Germany in World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307460202.jpg",
+			"name": "THE BAKER'S DAUGHTER",
+			"publisher": "Broadway",
+			"rank": 15
+		}
+	]
+}

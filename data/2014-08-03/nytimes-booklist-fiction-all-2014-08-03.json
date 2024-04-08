@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Deborah Harkness",
+			"description": "In the conclusion to the All Souls trilogy, the Oxford scholar/witch Diana Bishop and the vampire geneticist Matthew Clairmont return from Elizabethan London to the present.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698163478.jpg",
+			"name": "THE BOOK OF LIFE",
+			"publisher": "Viking",
+			"rank": 1
+		},
+		{
+			"author": "by Daniel Silva",
+			"description": "Gabriel Allon, an art restorer and occasional spy for the Israeli secret service, must track down a famous missing painting by Caravaggio.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062320070.jpg",
+			"name": "THE HEIST",
+			"publisher": "Harper",
+			"rank": 2
+		},
+		{
+			"author": "by Stuart Woods",
+			"description": "Complications abound as the New York lawyer Stone Barrington attends a political convention in Los Angeles.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399169113.jpg",
+			"name": "CUT AND THRUST",
+			"publisher": "Putnam",
+			"rank": 3
+		},
+		{
+			"author": "by Gillian Flynn",
+			"description": "A woman disappears on the day of her fifth anniversary; is her husband a killer?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307588388.jpg",
+			"name": "GONE GIRL",
+			"publisher": "Crown",
+			"rank": 4
+		},
+		{
+			"author": "by James Patterson and David Ellis",
+			"description": "Searching for her sister\u2019s killer, a former F.B.I. researcher finds a link between scores of unsolved cases.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316405409.jpg",
+			"name": "INVISIBLE",
+			"publisher": "Little, Brown",
+			"rank": 5
+		},
+		{
+			"author": "by Brad Thor",
+			"description": "The counterterrorism operative Scot Harvath undertakes two dangerous missions as America faces an imminent attack.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476717142.jpg",
+			"name": "ACT OF WAR",
+			"publisher": "Emily Bestler/Atria",
+			"rank": 6
+		},
+		{
+			"author": "by Donna Tartt",
+			"description": "A painting smuggled out of the Metropolitan Museum of Art after a bombing becomes a boy\u2019s prize, guilt and burden.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316248679.jpg",
+			"name": "THE GOLDFINCH",
+			"publisher": "Little, Brown",
+			"rank": 7
+		},
+		{
+			"author": "by Janet Evanovich",
+			"description": "The New Jersey bounty hunter Stephanie Plum pursues a dealer who sells more than used cars.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345542946.jpg",
+			"name": "TOP SECRET TWENTY-ONE",
+			"publisher": "Bantam",
+			"rank": 8
+		},
+		{
+			"author": "by Christina Baker Kline",
+			"description": "A historical novel about orphans swept off the streets of New York and sent to the Midwest in the 1920s.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062101204.jpg",
+			"name": "ORPHAN TRAIN",
+			"publisher": "Morrow/HarperCollins",
+			"rank": 9
+		},
+		{
+			"author": "by Robert Galbraith",
+			"description": "The private detective Cormoran Strike steps in when the author of a roman \u00e0 clef set in literary London is murdered; by J.\u2009K. Rowling, writing pseudonymously.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316206914.jpg",
+			"name": "THE SILKWORM",
+			"publisher": "Mulholland/Little, Brown",
+			"rank": 10
+		},
+		{
+			"author": "by Iris Johansen and Roy Johansen",
+			"description": "The investigator Kendra Michaels employs her highly developed senses to deal with an admirer who is also her most ruthless enemy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250020529.jpg",
+			"name": "SIGHT UNSEEN",
+			"publisher": "St. Martin's",
+			"rank": 11
+		},
+		{
+			"author": "by Catherine Coulter",
+			"description": "The F.B.I. agents Dillon Savich and Lacey Sherlock are out to discover who is trying to kill the ambassador to Britain.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698165786.jpg",
+			"name": "POWER PLAY",
+			"publisher": "Putnam",
+			"rank": 12
+		},
+		{
+			"author": "by Tracy Wolff",
+			"description": "As Chloe Girard discovers, there\u2019s love, and then there\u2019s addiction; an Ethan Frost novel.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780553394382.jpg",
+			"name": "ADDICTED",
+			"publisher": "Loveswept/Random House",
+			"rank": 13
+		},
+		{
+			"author": "by James Lee Burke",
+			"description": "A man\u2019s life is traced over decades, starting with his encounter, at age 16, with Bonnie and Clyde.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476710815.jpg",
+			"name": "WAYFARING STRANGER",
+			"publisher": "Simon & Schuster",
+			"rank": 14
+		},
+		{
+			"author": "by Stephen King",
+			"description": "A driver plows into a crowd at a job fair, killing eight. The killer then taunts a suicidal ex-cop, who must stop a deadlier attack.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476754468.jpg",
+			"name": "MR. MERCEDES",
+			"publisher": "Scribner",
+			"rank": 15
+		}
+	]
+}

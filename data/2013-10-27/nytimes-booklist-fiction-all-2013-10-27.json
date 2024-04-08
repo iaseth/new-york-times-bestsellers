@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by John Sandford",
+			"description": "The Minnesota investigator Virgil Flowers becomes involved in the hunt for an ancient inscribed stone smuggled out of the Middle East.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399159305.jpg",
+			"name": "STORM FRONT",
+			"publisher": "Putnam",
+			"rank": 1
+		},
+		{
+			"author": "by Stuart Woods",
+			"description": "The New York lawyer Stone Barrington teams up with a rogue former C.I.A. agent and heads West to protect Barrington\u2019s son and his friends from Russian assassins.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101615867.jpg",
+			"name": "DOING HARD TIME",
+			"publisher": "Putnam",
+			"rank": 2
+		},
+		{
+			"author": "by Stephen King",
+			"description": "Now grown up, Dan, the boy with psycho-intuitive powers in \u201cThe Shining,\u201d helps another child with a spectacular gift.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451698855.jpg",
+			"name": "DOCTOR SLEEP",
+			"publisher": "Scribner",
+			"rank": 3
+		},
+		{
+			"author": "by Liane Moriarty",
+			"description": "A woman\u2019s life is upended when she discovers a letter from her husband she was not meant to read until after his death.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101636237.jpg",
+			"name": "THE HUSBAND'S SECRET",
+			"publisher": "Amy Einhorn/Putnam",
+			"rank": 4
+		},
+		{
+			"author": "by Nicholas Sparks",
+			"description": "The lives of two couples converge unexpectedly.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455520640.jpg",
+			"name": "THE LONGEST RIDE",
+			"publisher": "Grand Central",
+			"rank": 5
+		},
+		{
+			"author": "by James Patterson and Michael Ledwidge",
+			"description": "Detective Michael Bennett, living with his 10 adopted children on a California farm, is pursued by the head of a Mexican drug cartel he once put in jail.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316211017.jpg",
+			"name": "GONE",
+			"publisher": "Little, Brown",
+			"rank": 6
+		},
+		{
+			"author": "by Debbie Macomber",
+			"description": "At Christmastime, a big-city columnist sets out to interview a reclusive author in Alaska.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345545527.jpg",
+			"name": "STARRY NIGHT",
+			"publisher": "Ballantine",
+			"rank": 7
+		},
+		{
+			"author": "by Orson Scott Card",
+			"description": "Government agencies breed child geniuses and train them as soldiers. Originally published in 1985.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812550702.jpg",
+			"name": "ENDER'S GAME",
+			"publisher": "Tor/Tom Doherty",
+			"rank": 8
+		},
+		{
+			"author": "by Gillian Flynn",
+			"description": "A woman disappears on the day of her fifth anniversary; is her husband a killer?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307588388.jpg",
+			"name": "GONE GIRL",
+			"publisher": "Crown",
+			"rank": 9
+		},
+		{
+			"author": "by Lee Child",
+			"description": "Jack Reacher is thrown into jail on trumped-up charges and must clear his name.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780440339373.jpg",
+			"name": "NEVER GO BACK",
+			"publisher": "Delacorte",
+			"rank": 10
+		},
+		{
+			"author": "by Dave Eggers",
+			"description": "A dystopian novel about life on the campus of a powerful Internet company.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345807298.jpg",
+			"name": "THE CIRCLE",
+			"publisher": "Knopf/McSweeney\u2019s",
+			"rank": 11
+		},
+		{
+			"author": "by Vi Keeland",
+			"description": "A hard-bodied mixed martial arts fighter and a steady lawyer have a lot more in common than they bargained for.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/A00B00FLG5B9S.jpg",
+			"name": "WORTH THE FIGHT",
+			"publisher": "Vi Keeland",
+			"rank": 12
+		},
+		{
+			"author": "by John Grisham",
+			"description": "An imprisoned ex-lawyer schemes to exchange information about who murdered a judge for his freedom.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385536882.jpg",
+			"name": "THE RACKETEER",
+			"publisher": "Doubleday",
+			"rank": 13
+		},
+		{
+			"author": "by Elizabeth Gilbert",
+			"description": "A 19th-century botanist\u2019s love of knowledge takes her to Tahiti; by the author of \u201cEat, Pray, Love.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101638002.jpg",
+			"name": "THE SIGNATURE OF ALL THINGS",
+			"publisher": "Viking",
+			"rank": 14
+		},
+		{
+			"author": "by Tijan",
+			"description": "A woman who kills her roommate\u2019s Mafia-connected rapist turns to the one person who can protect her.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/A00B00FIOBPC0.jpg",
+			"name": "CARTER REED",
+			"publisher": "Tijan",
+			"rank": 15
+		}
+	]
+}

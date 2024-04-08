@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Bessel van der Kolk",
+			"description": "How trauma affects the body and mind, and innovative treatments for recovery.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780670785933.jpg",
+			"name": "THE BODY KEEPS THE SCORE",
+			"publisher": "Penguin",
+			"rank": 1
+		},
+		{
+			"author": "by Jonathan Lemire",
+			"description": "The MSNBC host and White House bureau chief at Politico examines Donald Trump\u2019s continuing influence over the Republican Party.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250819628.jpg",
+			"name": "THE BIG LIE",
+			"publisher": "Flatiron",
+			"rank": 2
+		},
+		{
+			"author": "by David Sedaris",
+			"description": "The humorist portrays personal and public upheavals of his life in its seventh decade and the world in the time of a pandemic.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316392457.jpg",
+			"name": "HAPPY-GO-LUCKY",
+			"publisher": "Little, Brown",
+			"rank": 3
+		},
+		{
+			"author": "by Viola Davis",
+			"description": "The multiple award-winning actress describes the difficulties she encountered before claiming her sense of self and achieving professional success.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063037328.jpg",
+			"name": "FINDING ME",
+			"publisher": "HarperOne",
+			"rank": 4
+		},
+		{
+			"author": "by Mark Leibovich",
+			"description": "A staff writer at The Atlantic details how some Republicans shifted their loyalty to Donald Trump.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593296318.jpg",
+			"name": "THANK YOU FOR YOUR SERVITUDE",
+			"publisher": "Penguin Press",
+			"rank": 5
+		},
+		{
+			"author": "by Robin Wall Kimmerer",
+			"description": "A botanist and member of the Citizen Potawatomi Nation espouses having an understanding and appreciation of plants and animals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781571313560.jpg",
+			"name": "BRAIDING SWEETGRASS",
+			"publisher": "Milkweed Editions",
+			"rank": 6
+		},
+		{
+			"author": "by Tara Westover",
+			"description": "The daughter of survivalists, who is kept out of school, educates herself enough to leave home for university.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399590504.jpg",
+			"name": "EDUCATED",
+			"publisher": "Random House",
+			"rank": 7
+		},
+		{
+			"author": "by Michael Pollan",
+			"description": "A look at arbitrary beliefs surrounding opium, caffeine and mescaline, which are derived from plants.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593296905.jpg",
+			"name": "THIS IS YOUR MIND ON PLANTS",
+			"publisher": "Penguin Press",
+			"rank": 8
+		},
+		{
+			"author": "by Trevor Noah",
+			"description": "A memoir about growing up biracial in apartheid South Africa by the host of \u201cThe Daily Show.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399588181.jpg",
+			"name": "BORN A CRIME",
+			"publisher": "One World",
+			"rank": 9
+		},
+		{
+			"author": "by Michelle Zauner",
+			"description": "The daughter of a Korean mother and Jewish-American father, and leader of the indie rock project Japanese Breakfast, describes creating her own identity after losing her mother to cancer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525657743.jpg",
+			"name": "CRYING IN H MART",
+			"publisher": "Knopf",
+			"rank": 10
+		},
+		{
+			"author": "by Pete Hegseth with David Goodwin",
+			"description": "The \"Fox & Friends Weekend\" host makes his case for what he calls classical Christian education.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063215047.jpg",
+			"name": "BATTLE FOR THE AMERICAN MIND",
+			"publisher": "Broadside",
+			"rank": 11
+		},
+		{
+			"author": "by Matthew McConaughey",
+			"description": "The Academy Award-winning actor shares snippets from the diaries he kept over the last 35 years.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593139134.jpg",
+			"name": "GREENLIGHTS",
+			"publisher": "Crown",
+			"rank": 12
+		},
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "The 11th book in the conservative commentator\u2019s Killing series gives an account of the global war against terrorists.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250279255.jpg",
+			"name": "KILLING THE KILLERS",
+			"publisher": "St. Martin's",
+			"rank": 13
+		},
+		{
+			"author": "by Adam Grant",
+			"description": "An examination of the cognitive skills of rethinking and unlearning that could be used to adapt to a rapidly changing world.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984878106.jpg",
+			"name": "THINK AGAIN",
+			"publisher": "Viking",
+			"rank": 14
+		},
+		{
+			"author": "by bell hooks",
+			"description": "The late feminist icon explores the causes of a polarized society and the meaning of love.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780060959470.jpg",
+			"name": "ALL ABOUT LOVE",
+			"publisher": "Morrow",
+			"rank": 15
+		}
+	]
+}

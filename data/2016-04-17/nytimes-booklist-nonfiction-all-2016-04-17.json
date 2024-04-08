@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Paul Kalanithi",
+			"description": "A memoir by a physician who received a diagnosis of Stage IV lung cancer at the age of 36.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812988413.jpg",
+			"name": "WHEN BREATH BECOMES AIR",
+			"publisher": "Random House",
+			"rank": 1
+		},
+		{
+			"author": "by Erik Larson",
+			"description": "The last voyage of the Lusitania, the passenger liner sunk by a German torpedo in 1915; by the author of \u201cThe Devil in the White City.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307408860.jpg",
+			"name": "DEAD WAKE",
+			"publisher": "Crown",
+			"rank": 2
+		},
+		{
+			"author": "by Augusten Burroughs",
+			"description": "Burroughs's post-rehab social life in 1990s New York City, and its eventual happy ending.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780312342036.jpg",
+			"name": "LUST AND WONDER",
+			"publisher": "St. Martin's",
+			"rank": 3
+		},
+		{
+			"author": "by Ron Chernow",
+			"description": "A biography of the first Treasury secretary, a major author of the Federalist Papers and an advocate of strong central government. Originally published in 2004 and the basis of the Broadway musical.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780143034759.jpg",
+			"name": "ALEXANDER HAMILTON",
+			"publisher": "Penguin",
+			"rank": 4
+		},
+		{
+			"author": "by Peggy Orenstein",
+			"description": "Interviews with more than 70 teenagers shed light on their experience of sexuality.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062209733.jpg",
+			"name": "GIRLS AND SEX",
+			"publisher": "Harper/HarperCollins",
+			"rank": 5
+		},
+		{
+			"author": "by Christy Beam",
+			"description": "A mother tells the story of her once-sickly daughter, whose chronic ailments disappeared after a near-death experience.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316381833.jpg",
+			"name": "MIRACLES FROM HEAVEN",
+			"publisher": "Hachette",
+			"rank": 6
+		},
+		{
+			"author": "by Carlo Rovelli",
+			"description": "An introduction to modern physics.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399184437.jpg",
+			"name": "SEVEN BRIEF LESSONS ON PHYSICS",
+			"publisher": "Riverhead",
+			"rank": 7
+		},
+		{
+			"author": "by Ta-Nehisi Coates",
+			"description": "A meditation on race in America by The Atlantic's national correspondent; a National Book Award winner.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780679645986.jpg",
+			"name": "BETWEEN THE WORLD AND ME",
+			"publisher": "Spiegel & Grau",
+			"rank": 8
+		},
+		{
+			"author": "by Daniel James Brown",
+			"description": "The University of Washington\u2019s eight-oar crew and their quest for gold at the 1936 Berlin Olympics.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101622742.jpg",
+			"name": "THE BOYS IN THE BOAT",
+			"publisher": "Penguin",
+			"rank": 9
+		},
+		{
+			"author": "by Charles Duhigg",
+			"description": "The science of productivity, from the author of \u201cThe Power of Habit.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780679645429.jpg",
+			"name": "SMARTER FASTER BETTER",
+			"publisher": "Random House",
+			"rank": 10
+		},
+		{
+			"author": "by Kate Clifford Larson",
+			"description": "The tragic story of the Kennedys\u2019 intellectually disabled oldest daughter.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780547617954.jpg",
+			"name": "ROSEMARY",
+			"publisher": "Houghton Mifflin Harcourt",
+			"rank": 11
+		},
+		{
+			"author": "by Robert Kolker",
+			"description": "An account of the troubled young Internet prostitutes whose bodies were found in Suffolk County, Long Island, in 2010. Originally published in 2013.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062183675.jpg",
+			"name": "LOST GIRLS",
+			"publisher": "Harper",
+			"rank": 12
+		},
+		{
+			"author": "by Michael Lewis",
+			"description": "The people who saw the real estate crash coming and made billions. Originally published in 2010 and a 2015 movie.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780393072235.jpg",
+			"name": "THE BIG SHORT",
+			"publisher": "Norton",
+			"rank": 13
+		},
+		{
+			"author": "by Jane Mayer",
+			"description": "An account of how the Koch brothers and other super-wealthy donors deployed their money to change American politics.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385535601.jpg",
+			"name": "DARK MONEY",
+			"publisher": "Doubleday",
+			"rank": 14
+		},
+		{
+			"author": "by Timothy Egan",
+			"description": "The life of Thomas Francis Meagher, an Irish revolutionary who fled to America and was active in Irish-American politics, becoming the general of New York\u2019s Irish Brigade during the Civil War.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780544272880.jpg",
+			"name": "THE IMMORTAL IRISHMAN",
+			"publisher": "Houghton Mifflin Harcourt",
+			"rank": 15
+		}
+	]
+}

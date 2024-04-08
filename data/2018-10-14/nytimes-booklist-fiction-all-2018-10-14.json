@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Kyle Mills",
+			"description": "When the Russian prime minister plots to invade the Baltics, only Mitch Rapp can stop him.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501190612.jpg",
+			"name": "VINCE FLYNN: RED WAR",
+			"publisher": "Emily Bestler/Atria",
+			"rank": 1
+		},
+		{
+			"author": "by Hank Green",
+			"description": "After posting a video that goes viral, April May must deal with the pressures of becoming an internet sensation.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524743444.jpg",
+			"name": "AN ABSOLUTELY REMARKABLE THING",
+			"publisher": "Dutton",
+			"rank": 2
+		},
+		{
+			"author": "by Kate Atkinson",
+			"description": "Ten years later, figures from a BBC radio producer\u2019s past as an M15 recruit in 1940 confront her.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316479752.jpg",
+			"name": "TRANSCRIPTION",
+			"publisher": "Little, Brown",
+			"rank": 3
+		},
+		{
+			"author": "by Kevin Kwan",
+			"description": "A New Yorker gets a surprise when she spends the summer with her boyfriend in Singapore.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345803788.jpg",
+			"name": "CRAZY RICH ASIANS",
+			"publisher": "Anchor",
+			"rank": 4
+		},
+		{
+			"author": "by Robert Galbraith",
+			"description": "The fourth book in the Cormoran Strike series. Detectives Strike and Ellacott investigate a crime a young man may have witnessed as a child; by J. K. Rowling, writing pseudonymously.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316422741.jpg",
+			"name": "LETHAL WHITE",
+			"publisher": "Mulholland/Little, Brown",
+			"rank": 5
+		},
+		{
+			"author": "by James Patterson and Nancy Allen",
+			"description": "Ruby Bozarth defends a college football star charged in a felony case complicated by a second murder.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316474122.jpg",
+			"name": "JUROR #3",
+			"publisher": "Little, Brown",
+			"rank": 6
+		},
+		{
+			"author": "by Delia Owens",
+			"description": "In a quiet town on the North Carolina coast in 1969, a young woman who survived alone in the marsh becomes a murder suspect.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735219090.jpg",
+			"name": "WHERE THE CRAWDADS SING",
+			"publisher": "Putnam",
+			"rank": 7
+		},
+		{
+			"author": "by Lora Leigh",
+			"description": "A woman who is a mix of wolf, coyote and human sacrifices herself to save her sister.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101612521.jpg",
+			"name": "CROSS BREED",
+			"publisher": "Berkley",
+			"rank": 8
+		},
+		{
+			"author": "by Heather Morris",
+			"description": "A concentration camp detainee tasked with permanently marking fellow prisoners falls in love with one of them.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062797155.jpg",
+			"name": "THE TATTOOIST OF AUSCHWITZ",
+			"publisher": "Harper",
+			"rank": 9
+		},
+		{
+			"author": "by Jill Shalvis",
+			"description": "Things get complicated between Molly Malone and Lucas Knight after he gets shot on the job and she is assigned her first case.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062741844.jpg",
+			"name": "HOT WINTER NIGHTS",
+			"publisher": "Avon",
+			"rank": 10
+		},
+		{
+			"author": "by Dan Brown",
+			"description": "After reconnecting with one of his first students, who is now a billionaire futurist, symbology professor Robert Langdon must go on a perilous quest with a beautiful museum director.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385542692.jpg",
+			"name": "ORIGIN",
+			"publisher": "Doubleday",
+			"rank": 11
+		},
+		{
+			"author": "by Gail Honeyman",
+			"description": "A young woman\u2019s well-ordered life is disrupted by the I.T. guy from her office.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735220690.jpg",
+			"name": "ELEANOR OLIPHANT IS COMPLETELY FINE",
+			"publisher": "Penguin",
+			"rank": 12
+		},
+		{
+			"author": "by Kevin Kwan",
+			"description": "The second book in the Crazy Rich Asians trilogy. As her wedding draws near, Rachel Chu discovers her birth father.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780804172066.jpg",
+			"name": "CHINA RICH GIRLFRIEND",
+			"publisher": "Anchor",
+			"rank": 13
+		},
+		{
+			"author": "by Joanne Fluke",
+			"description": "While on the verge of opening her bakery, Hannah Swensen gets sidetracked by a mystery she discovers in an elderly local\u2019s notebooks.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781617732331.jpg",
+			"name": "CHRISTMAS CAKE MURDER",
+			"publisher": "Kensington",
+			"rank": 14
+		},
+		{
+			"author": "by Kevin Kwan",
+			"description": "The final book in the Crazy Rich Asians trilogy. Rivalries and jealousies arise among privileged families.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385542234.jpg",
+			"name": "RICH PEOPLE PROBLEMS",
+			"publisher": "Anchor",
+			"rank": 15
+		}
+	]
+}

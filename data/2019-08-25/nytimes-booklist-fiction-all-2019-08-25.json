@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Delia Owens",
+			"description": "In a quiet town on the North Carolina coast in 1969, a young woman who survived alone in the marsh becomes a murder suspect.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735219090.jpg",
+			"name": "WHERE THE CRAWDADS SING",
+			"publisher": "Putnam",
+			"rank": 1
+		},
+		{
+			"author": "by James Patterson with Candice Fox",
+			"description": "A former Boston police detective who is now an innkeeper must shield a seaside town from a crew of criminals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316528429.jpg",
+			"name": "THE INN",
+			"publisher": "Little, Brown",
+			"rank": 2
+		},
+		{
+			"author": "by Sandra Brown",
+			"description": "F.B.I. Agent Drex Easton has a hunch that the conman Weston Graham is also a serial killer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455572199.jpg",
+			"name": "OUTFOX",
+			"publisher": "Grand Central",
+			"rank": 3
+		},
+		{
+			"author": "by Robert Crais",
+			"description": "Elvis Cole and Joe Pike get more than they bargained for when they investigate the abduction of a bank teller.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525535713.jpg",
+			"name": "A DANGEROUS MAN",
+			"publisher": "Putnam",
+			"rank": 4
+		},
+		{
+			"author": "by Ruth Ware",
+			"description": "A nanny working in a technology-laden house in Scotland goes to jail when one of the children dies.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501188770.jpg",
+			"name": "THE TURN OF THE KEY",
+			"publisher": "Scout",
+			"rank": 5
+		},
+		{
+			"author": "by Garth Stein",
+			"description": "An insightful Lab-terrier mix helps his owner, a struggling race car driver.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780061537936v2.jpg",
+			"name": "THE ART OF RACING IN THE RAIN",
+			"publisher": "HarperCollins",
+			"rank": 6
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "A World War II veteran on parole must find the real killer in a small town or face going back to jail.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538750568.jpg",
+			"name": "ONE GOOD DEED",
+			"publisher": "Grand Central",
+			"rank": 7
+		},
+		{
+			"author": "by Daniel Silva",
+			"description": "Gabriel Allon, the chief of Israeli intelligence, partners with the crown prince of Saudi Arabia, whose daughter is kidnapped.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062834898.jpg",
+			"name": "THE NEW GIRL",
+			"publisher": "Harper",
+			"rank": 8
+		},
+		{
+			"author": "by Toni Morrison",
+			"description": "Winner of the 1988 Pulitzer Prize for fiction. A former slave living in Ohio is haunted by events at the Kentucky plantation from which she escaped 18 years ago.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400033416.jpg",
+			"name": "BELOVED",
+			"publisher": "Vintage",
+			"rank": 9
+		},
+		{
+			"author": "by Colson Whitehead",
+			"description": "Two boys respond to horrors at a Jim Crow-era reform school in ways that impact them decades later.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385537070.jpg",
+			"name": "THE NICKEL BOYS",
+			"publisher": "Doubleday",
+			"rank": 10
+		},
+		{
+			"author": "by John Grisham",
+			"description": "A decorated World War II veteran shoots and kills a pastor inside a Mississippi church.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385544160.jpg",
+			"name": "THE RECKONING",
+			"publisher": "Doubleday",
+			"rank": 11
+		},
+		{
+			"author": "by Elin Hilderbrand",
+			"description": "The Levin family undergoes dramatic events with a son in Vietnam, a daughter in protests and dark secrets hiding beneath the surface.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316420013.jpg",
+			"name": "SUMMER OF '69",
+			"publisher": "Little, Brown",
+			"rank": 12
+		},
+		{
+			"author": "by Heather Morris",
+			"description": "A concentration camp detainee tasked with permanently marking fellow prisoners falls in love with one of them.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062797155.jpg",
+			"name": "THE TATTOOIST OF AUSCHWITZ",
+			"publisher": "Harper",
+			"rank": 13
+		},
+		{
+			"author": "by Lisa Wingate",
+			"description": "A South Carolina lawyer learns about the questionable practices of a Tennessee orphanage.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780425284681.jpg",
+			"name": "BEFORE WE WERE YOURS",
+			"publisher": "Ballantine",
+			"rank": 14
+		},
+		{
+			"author": "by Celeste Ng",
+			"description": "An artist upends a quiet town outside Cleveland.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735224308.jpg",
+			"name": "LITTLE FIRES EVERYWHERE",
+			"publisher": "Penguin Press",
+			"rank": 15
+		}
+	]
+}

@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Gary J. Byrne with Grant M. Schmidt",
+			"description": "A former Secret Service officer claims to have witnessed scandalous behavior by the Clintons.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455568888.jpg",
+			"name": "CRISIS OF CHARACTER",
+			"publisher": "Center Street",
+			"rank": 1
+		},
+		{
+			"author": "by Ron Chernow",
+			"description": "A biography of the first Treasury secretary, a major author of the Federalist Papers and an advocate of strong central government. Originally published in 2004 and the basis of the Broadway musical.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780143034759.jpg",
+			"name": "ALEXANDER HAMILTON",
+			"publisher": "Penguin",
+			"rank": 2
+		},
+		{
+			"author": "by Paul Kalanithi",
+			"description": "A memoir by a physician who received a diagnosis of Stage IV lung cancer at the age of 36.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812988413.jpg",
+			"name": "WHEN BREATH BECOMES AIR",
+			"publisher": "Random House",
+			"rank": 3
+		},
+		{
+			"author": "by David Fisher",
+			"description": "Stories of the American Revolution; a companion volume to the Fox News series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781627797894.jpg",
+			"name": "BILL O'REILLY'S LEGENDS AND LIES: THE PATRIOTS",
+			"publisher": "Holt",
+			"rank": 4
+		},
+		{
+			"author": "by Carolyn Jessop",
+			"description": "A woman\u2019s account of her flight from a fundamentalist polygamous sect; first published in 2007.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780767927567.jpg",
+			"name": "ESCAPE",
+			"publisher": "Broadway",
+			"rank": 5
+		},
+		{
+			"author": "by Lin-Manuel Miranda and Jeremy McCarter",
+			"description": "The libretto of the Grammy-, Tony- and Pulitzer Prize-winning musical, annotated by its creator, along with backstage photos, a production history and interviews with the cast.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455567539.jpg",
+			"name": "HAMILTON: THE REVOLUTION",
+			"publisher": "Grand Central/Melcher Media",
+			"rank": 6
+		},
+		{
+			"author": "by Eric Bolling",
+			"description": "The Fox News Channel personality describes nine key American virtues that he maintains are under attack by President Obama and Hillary Clinton.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250112521.jpg",
+			"name": "WAKE UP AMERICA",
+			"publisher": "St. Martin's",
+			"rank": 7
+		},
+		{
+			"author": "by Ta-Nehisi Coates",
+			"description": "A meditation on race in America by The Atlantic's national correspondent; a National Book Award winner.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780679645986.jpg",
+			"name": "BETWEEN THE WORLD AND ME",
+			"publisher": "Spiegel & Grau",
+			"rank": 8
+		},
+		{
+			"author": "by Nancy Isenberg",
+			"description": "The role of the white poor in American history.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101608487.jpg",
+			"name": "WHITE TRASH",
+			"publisher": "Viking",
+			"rank": 9
+		},
+		{
+			"author": "by Daniel James Brown",
+			"description": "The University of Washington\u2019s eight-oar crew and their quest for gold at the 1936 Berlin Olympics.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101622742.jpg",
+			"name": "THE BOYS IN THE BOAT",
+			"publisher": "Penguin",
+			"rank": 10
+		},
+		{
+			"author": "by Angela Duckworth",
+			"description": "A psychologist argues that passion and perseverance are the keys to success.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501111129.jpg",
+			"name": "GRIT",
+			"publisher": "Scribner",
+			"rank": 11
+		},
+		{
+			"author": "by Jennifer Keishin Armstrong",
+			"description": "A history of the popular and influential sitcom, which ran from 1989 to 1998.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476756127.jpg",
+			"name": "SEINFELDIA",
+			"publisher": "Simon & Schuster",
+			"rank": 12
+		},
+		{
+			"author": "by Malcolm Gladwell",
+			"description": "Why some people succeed; from the author of \"Blink\" and \"The Tipping Point.\" Originally published in 2008.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316017930.jpg",
+			"name": "OUTLIERS",
+			"publisher": "Little, Brown",
+			"rank": 13
+		},
+		{
+			"author": "by Jean Edward Smith",
+			"description": "A critical biography of the 43rd president.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476741215.jpg",
+			"name": "BUSH",
+			"publisher": "Simon & Schuster",
+			"rank": 14
+		},
+		{
+			"author": "by Antonio Garc\u00eda Mart\u00ednez",
+			"description": "An account of success and failure in the tech industry.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062458216.jpg",
+			"name": "CHAOS MONKEYS",
+			"publisher": "Harper",
+			"rank": 15
+		}
+	]
+}

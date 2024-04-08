@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Chris Kyle with Scott McEwen and Jim DeFelice",
+			"description": "A former member of the Navy SEALs discusses his battlefield experiences during the Iraq war. Kyle was shot to death in Texas in 2013.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062082374.jpg",
+			"name": "AMERICAN SNIPER",
+			"publisher": "Morrow/HarperCollins",
+			"rank": 1
+		},
+		{
+			"author": "by Daniel James Brown",
+			"description": "The University of Washington\u2019s eight-oar crew and their quest for gold at the 1936 Berlin Olympics.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101622742.jpg",
+			"name": "THE BOYS IN THE BOAT",
+			"publisher": "Viking",
+			"rank": 2
+		},
+		{
+			"author": "by Cheryl Strayed",
+			"description": "A woman\u2019s account of a life-changing 1,100-mile hike along the Pacific Crest Trail during the summer of 1995; now a movie.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307476074.jpg",
+			"name": "WILD",
+			"publisher": "Knopf",
+			"rank": 3
+		},
+		{
+			"author": "by Laura Hillenbrand",
+			"description": "An Olympic runner\u2019s story of survival as a prisoner of the Japanese in World War II; now a movie.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400064168.jpg",
+			"name": "UNBROKEN",
+			"publisher": "Random House",
+			"rank": 4
+		},
+		{
+			"author": "by Atul Gawande",
+			"description": "The surgeon and New Yorker writer considers how doctors fail patients at the end of life, and how they can do better.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780805095159.jpg",
+			"name": "BEING MORTAL",
+			"publisher": "Metropolitan/Holt",
+			"rank": 5
+		},
+		{
+			"author": "by Helen Macdonald",
+			"description": "Overwhelmed by her father\u2019s death, a British woman decides to raise a goshawk, a bird that is fierce and notoriously difficult to tame.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780802123411.jpg",
+			"name": "H IS FOR HAWK",
+			"publisher": "Grove",
+			"rank": 6
+		},
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "The host of \u201cThe O\u2019Reilly Factor\u201d recounts the strange death of Gen. George S. Patton in December 1945.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780805096699.jpg",
+			"name": "KILLING PATTON",
+			"publisher": "Holt",
+			"rank": 7
+		},
+		{
+			"author": "by Amy Poehler",
+			"description": "A humorous miscellany from the comedian and actress.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062268341.jpg",
+			"name": "YES PLEASE",
+			"publisher": "Dey Street/Morrow",
+			"rank": 8
+		},
+		{
+			"author": "by George Crile",
+			"description": "A chronicle of a congressman\u2019s efforts in the 1980s to steer billions to the anti-Soviet side in Afghanistan.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781555848095.jpg",
+			"name": "CHARLIE WILSON'S WAR",
+			"publisher": "Grove",
+			"rank": 9
+		},
+		{
+			"author": "by Stephen Hawking",
+			"description": "The British cosmologist reviews efforts to create a unified theory of the universe; first published in 1988.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780553380163.jpg",
+			"name": "A BRIEF HISTORY OF TIME",
+			"publisher": "Bantam",
+			"rank": 10
+		},
+		{
+			"author": "by Kim Gordon",
+			"description": "A memoir by a founding member of Sonic Youth.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062295910.jpg",
+			"name": "GIRL IN A BAND",
+			"publisher": "Dey Street/Morrow",
+			"rank": 11
+		},
+		{
+			"author": "by Marcus Luttrell with Patrick Robinson",
+			"description": "The only survivor of a Navy SEALs operation in Afghanistan describes the battle and his escape.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316067607.jpg",
+			"name": "LONE SURVIVOR",
+			"publisher": "Little, Brown",
+			"rank": 12
+		},
+		{
+			"author": "by Bruce Schneier",
+			"description": "A security expert offers tips for protecting your privacy and proposes an alternative to mass surveillance by government and corporations.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780393244816.jpg",
+			"name": "DATA AND GOLIATH",
+			"publisher": "Norton",
+			"rank": 13
+		},
+		{
+			"author": "by Susan Cain",
+			"description": "Introverts \u2014 one-third of the population \u2014 are undervalued in American society.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307452207.jpg",
+			"name": "QUIET",
+			"publisher": "Crown",
+			"rank": 14
+		},
+		{
+			"author": "by Theresa Weir",
+			"description": "A memoir of paternal abandonment and a daughter\u2019s duty.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/A00B007MNAROM.jpg",
+			"name": "THE MAN WHO LEFT",
+			"publisher": "Theresa Weir",
+			"rank": 15
+		}
+	]
+}

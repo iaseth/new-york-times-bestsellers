@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by David Grann",
+			"description": "The story of a murder spree in 1920s Oklahoma that targeted Osage Indians, whose lands contained oil.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385534246.jpg",
+			"name": "KILLERS OF THE FLOWER MOON",
+			"publisher": "Doubleday",
+			"rank": 1
+		},
+		{
+			"author": "by Billy Walters with Armen Keteyian",
+			"description": "The sports gambler shares his life story and gives insights on his betting system.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781668032855.jpg",
+			"name": "GAMBLER",
+			"publisher": "Avid Reader",
+			"rank": 2
+		},
+		{
+			"author": "by Peter Attia with Bill Gifford",
+			"description": "A look at recent scientific research on aging and longevity.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593236598.jpg",
+			"name": "OUTLIVE",
+			"publisher": "Harmony",
+			"rank": 3
+		},
+		{
+			"author": "by Bessel van der Kolk",
+			"description": "How trauma affects the body and mind, and innovative treatments for recovery.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780670785933.jpg",
+			"name": "THE BODY KEEPS THE SCORE",
+			"publisher": "Penguin",
+			"rank": 4
+		},
+		{
+			"author": "by Kai Bird and Martin J. Sherwin",
+			"description": "A biography of J. Robert Oppenheimer. Winner of the Pulitzer Prize in 2006 and an inspiration for the film \u201cOppenheimer.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780375726262.jpg",
+			"name": "AMERICAN PROMETHEUS",
+			"publisher": "Vintage",
+			"rank": 5
+		},
+		{
+			"author": "by David Grann",
+			"description": "The survivors of a shipwrecked British vessel on a secret mission during an imperial war with Spain have different accounts of events.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385534260.jpg",
+			"name": "THE WAGER",
+			"publisher": "Doubleday",
+			"rank": 6
+		},
+		{
+			"author": "by Drew Gilpin Faust",
+			"description": "The former Harvard president and author of \u201cThis Republic of Suffering\u201d describes the misogyny and racism that compelled her to become a historian.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780374601805.jpg",
+			"name": "NECESSARY TROUBLE",
+			"publisher": "Farrar, Straus and Giroux",
+			"rank": 7
+		},
+		{
+			"author": "by Jennette McCurdy",
+			"description": "The actress and filmmaker describes her eating disorders and difficult relationship with her mother.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982185824.jpg",
+			"name": "I'M GLAD MY MOM DIED",
+			"publisher": "Simon & Schuster",
+			"rank": 8
+		},
+		{
+			"author": "by Michelle Zauner",
+			"description": "The daughter of a Korean mother and Jewish American father, and leader of the indie rock project Japanese Breakfast, describes creating her own identity after losing her mother to cancer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525657743.jpg",
+			"name": "CRYING IN H MART",
+			"publisher": "Vintage",
+			"rank": 9
+		},
+		{
+			"author": "by Robin Wall Kimmerer",
+			"description": "A botanist and member of the Citizen Potawatomi Nation espouses having an understanding and appreciation of plants and animals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781571313560.jpg",
+			"name": "BRAIDING SWEETGRASS",
+			"publisher": "Milkweed Editions",
+			"rank": 10
+		},
+		{
+			"author": "by Trevor Noah",
+			"description": "A memoir about growing up biracial in apartheid South Africa by the former host of \u201cThe Daily Show.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399588181.jpg",
+			"name": "BORN A CRIME",
+			"publisher": "One World",
+			"rank": 11
+		},
+		{
+			"author": "by Jennifer Breheny Wallace",
+			"description": "The journalist and social commentator looks at how the pressure to succeed affects parents, educators and children.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593191866.jpg",
+			"name": "NEVER ENOUGH",
+			"publisher": "Portfolio",
+			"rank": 12
+		},
+		{
+			"author": "by bell hooks",
+			"description": "The late feminist icon explores the causes of a polarized society and the meaning of love.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780060959470.jpg",
+			"name": "ALL ABOUT LOVE",
+			"publisher": "Morrow",
+			"rank": 13
+		},
+		{
+			"author": "by David Von Drehle",
+			"description": "The Washington Post columnist shares stories and wisdom he learned from a neighbor who was more than a century old.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476773926.jpg",
+			"name": "THE BOOK OF CHARLIE",
+			"publisher": "Simon & Schuster",
+			"rank": 14
+		},
+		{
+			"author": "by Dolly Alderton",
+			"description": "The British journalist shares stories and observations; the basis of the TV series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062968791.jpg",
+			"name": "EVERYTHING I KNOW ABOUT LOVE",
+			"publisher": "Harper Perennial",
+			"rank": 15
+		}
+	]
+}

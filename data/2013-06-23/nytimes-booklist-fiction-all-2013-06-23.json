@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Sylvia Day",
+			"description": "Eva and Gideon face the demons of their pasts and accept the consequences of their obsessive desires; a Crossfire novel.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780425263921.jpg",
+			"name": "ENTWINED WITH YOU",
+			"publisher": "Berkley",
+			"rank": 1
+		},
+		{
+			"author": "by Dan Brown",
+			"description": "The symbologist Robert Langdon, on the run in Florence, must decipher a series of codes created by a Dante-loving scientist.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400079155.jpg",
+			"name": "INFERNO",
+			"publisher": "Doubleday",
+			"rank": 2
+		},
+		{
+			"author": "by Khaled Hosseini",
+			"description": "A multigenerational family saga centers on a brother and sister born in Afghanistan.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594632389.jpg",
+			"name": "AND THE MOUNTAINS ECHOED",
+			"publisher": "Riverhead",
+			"rank": 3
+		},
+		{
+			"author": "by Stephen King",
+			"description": "In North Carolina in 1973, a college student working at an amusement park confronts the legacy of a vicious murder, the fate of a dying child, and the ways both will change his life forever.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781781167694.jpg",
+			"name": "JOYLAND",
+			"publisher": "Hard Case Crime",
+			"rank": 4
+		},
+		{
+			"author": "by Lauren Weisberger",
+			"description": "Andrea Sachs is now running a bridal magazine.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781439146958.jpg",
+			"name": "REVENGE WEARS PRADA",
+			"publisher": "Simon & Schuster",
+			"rank": 5
+		},
+		{
+			"author": "by Max Brooks",
+			"description": "An \u201coral history\u201d of an imagined Zombie War that nearly destroys civilization.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307351937.jpg",
+			"name": "WORLD WAR Z",
+			"publisher": "Broadway",
+			"rank": 6
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "The government hitman Will Robie uncovers a serious threat as he attempts to take out a fellow assassin who has gone rogue.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455521289.jpg",
+			"name": "THE HIT",
+			"publisher": "Grand Central",
+			"rank": 7
+		},
+		{
+			"author": "by George R.R. Martin",
+			"description": "In the frozen wastes to the north of Winterfell, sinister and supernatural forces are mustering.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780553897845.jpg",
+			"name": "A GAME OF THRONES",
+			"publisher": "Bantam",
+			"rank": 8
+		},
+		{
+			"author": "by Jeffery Deaver",
+			"description": "The quadriplegic forensics expert Lincoln Rhyme investigates the political assassination of a United States citizen.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455517077.jpg",
+			"name": "THE KILL ROOM",
+			"publisher": "Grand Central",
+			"rank": 9
+		},
+		{
+			"author": "by Georgia Cates",
+			"description": "Will Jack Henry\u2019s absence leave Laurelyn wanting more than her own success? Book 2 of the Beauty series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781628470352.jpg",
+			"name": "BEAUTY FROM SURRENDER",
+			"publisher": "Georgia Cates",
+			"rank": 10
+		},
+		{
+			"author": "by John Sandford",
+			"description": "Lucas Davenport is drawn into the investigation of a Minnesota political scandal and the disappearance of an operative.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780425267769.jpg",
+			"name": "SILKEN PREY",
+			"publisher": "Putnam",
+			"rank": 11
+		},
+		{
+			"author": "by Mary Kay Andrews",
+			"description": "After separating from her husband, a lifestyle blogger moves in with her mother and attends divorce counseling sessions.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250019677.jpg",
+			"name": "LADIES' NIGHT",
+			"publisher": "St. Martin's",
+			"rank": 12
+		},
+		{
+			"author": "by Gillian Flynn",
+			"description": "A woman disappears on the day of her fifth anniversary; is her husband a killer?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307588388.jpg",
+			"name": "GONE GIRL",
+			"publisher": "Crown",
+			"rank": 13
+		},
+		{
+			"author": "by James Patterson and Maxine Paetro",
+			"description": "A week after giving birth, Detective Lindsay Boxer returns to work to investigate some grisly murders.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316210843.jpg",
+			"name": "12TH OF NEVER",
+			"publisher": "Little, Brown",
+			"rank": 14
+		},
+		{
+			"author": "by Lee Child",
+			"description": "A carload of people involved in a conspiracy pick up a disheveled hitchhiker, Child\u2019s vigilante hero Jack Reacher.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385344333.jpg",
+			"name": "A WANTED MAN",
+			"publisher": "Dell",
+			"rank": 15
+		}
+	]
+}

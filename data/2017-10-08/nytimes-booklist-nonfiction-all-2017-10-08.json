@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Hillary Clinton",
+			"description": "The first woman nominated for president by a major political party details her campaign, mistakes she made, outside forces that affected the outcome and how she recovered in its aftermath.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501175565.jpg",
+			"name": "WHAT HAPPENED",
+			"publisher": "Simon & Schuster",
+			"rank": 1
+		},
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "Major events and battles during the Revolutionary War are told from the perspectives of George Washington, Benjamin Franklin and others.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781627790642.jpg",
+			"name": "KILLING ENGLAND",
+			"publisher": "Holt",
+			"rank": 2
+		},
+		{
+			"author": "by Katy Tur",
+			"description": "The NBC News correspondent describes her work covering the 2016 campaign of the Republican nominee for president and his behavior toward her.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062684929.jpg",
+			"name": "UNBELIEVABLE",
+			"publisher": "Dey St.",
+			"rank": 3
+		},
+		{
+			"author": "by Gucci Mane with Neil Martinez-Belkin",
+			"description": "A memoir by the East Atlanta hip-hop artist, who made a comeback after setbacks that included doing time in a maximum-security federal prison.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501165320.jpg",
+			"name": "THE AUTOBIOGRAPHY OF GUCCI MANE",
+			"publisher": "Simon & Schuster",
+			"rank": 4
+		},
+		{
+			"author": "by Jeannette Walls",
+			"description": "The author recalls a bizarre childhood. Originally published in 2005 and the basis of the movie.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780743247542.jpg",
+			"name": "THE GLASS CASTLE",
+			"publisher": "Scribner",
+			"rank": 5
+		},
+		{
+			"author": "by Jonathan Cahn",
+			"description": "Ancient figures from the Middle East are used to explain the rise and fall of contemporary leaders and events.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781629994765.jpg",
+			"name": "THE PARADIGM",
+			"publisher": "FrontLine",
+			"rank": 6
+		},
+		{
+			"author": "by Neil deGrasse Tyson",
+			"description": "A straightforward, easy-to-understand introduction to the laws that govern the universe.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780393609394.jpg",
+			"name": "ASTROPHYSICS FOR PEOPLE IN A HURRY",
+			"publisher": "Norton",
+			"rank": 7
+		},
+		{
+			"author": "by J.D. Vance",
+			"description": "A Yale Law School graduate looks at the struggles of the white working class through the story of his own childhood.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062300560.jpg",
+			"name": "HILLBILLY ELEGY",
+			"publisher": "HarperCollins",
+			"rank": 8
+		},
+		{
+			"author": "by Kurt Andersen",
+			"description": "The politics and culture of 21st-century America are put in the context of five centuries of historical events and movements, including elements of conspiracy theories, crackpot ideas and hucksterism.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400067213.jpg",
+			"name": "FANTASYLAND",
+			"publisher": "Random House",
+			"rank": 9
+		},
+		{
+			"author": "by Al Franken",
+			"description": "A memoir by the Democratic senator from Minnesota and former \u201cSaturday Night Live\u201d writer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455540419.jpg",
+			"name": "AL FRANKEN, GIANT OF THE SENATE",
+			"publisher": "Twelve",
+			"rank": 10
+		},
+		{
+			"author": "by Dan Jones",
+			"description": "A narrative history of a religious order formed after the First Crusade.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525428305.jpg",
+			"name": "THE TEMPLARS",
+			"publisher": "Viking",
+			"rank": 11
+		},
+		{
+			"author": "by Geoffrey C. Ward",
+			"description": "A companion to the PBS series by Ken Burns and Lynn Novick that looks at the events and the legacy of the war.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307700254.jpg",
+			"name": "THE VIETNAM WAR",
+			"publisher": "Knopf",
+			"rank": 12
+		},
+		{
+			"author": "by Atul Gawande",
+			"description": "The surgeon and New Yorker writer considers how doctors fail patients at the end of life, and how they can do better.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780805095159.jpg",
+			"name": "BEING MORTAL",
+			"publisher": "Metropolitan/Holt",
+			"rank": 13
+		},
+		{
+			"author": "by Timothy Snyder",
+			"description": "Twenty lessons from the 20th century about the course of tyranny.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780804190114.jpg",
+			"name": "ON TYRANNY",
+			"publisher": "Tim Duggan",
+			"rank": 14
+		},
+		{
+			"author": "by David Grann",
+			"description": "The story of a murder spree in 1920s Oklahoma that targeted Osage Indians, whose lands contained oil.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385534246.jpg",
+			"name": "KILLERS OF THE FLOWER MOON",
+			"publisher": "Doubleday",
+			"rank": 15
+		}
+	]
+}

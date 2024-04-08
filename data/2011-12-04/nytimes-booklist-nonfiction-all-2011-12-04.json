@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Walter Isaacson",
+			"description": "A biography of the recently deceased entrepreneur, based on 40 interviews with Jobs conducted over two years.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451648553.jpg",
+			"name": "STEVE JOBS",
+			"publisher": "Simon & Schuster",
+			"rank": 1
+		},
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "The anchor of \u201cThe O\u2019Reilly Factor\u201d recounts the assassination of Abraham Lincoln.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780805093070.jpg",
+			"name": "KILLING LINCOLN",
+			"publisher": "Holt",
+			"rank": 2
+		},
+		{
+			"author": "by Jeff Ashton with Lisa Pulitzer",
+			"description": "A prosecutor\u2019s account of the Casey Anthony trial.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062125323.jpg",
+			"name": "IMPERFECT JUSTICE",
+			"publisher": "HarperCollins Publishers",
+			"rank": 3
+		},
+		{
+			"author": "by Todd Burpo with Lynn Vincent",
+			"description": "A father recounts his 3-year-old son\u2019s encounter with Jesus and the angels during an appendectomy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780849949203.jpg",
+			"name": "HEAVEN IS FOR REAL",
+			"publisher": "Thomas Nelson",
+			"rank": 4
+		},
+		{
+			"author": "by Gabrielle Giffords and Mark Kelly with Jeffrey Zaslow",
+			"description": "The Arizona representative and her astronaut husband describe their lives in the aftermath of the assassination attempt against her in January 2011.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451661064.jpg",
+			"name": "GABBY",
+			"publisher": "Scribner",
+			"rank": 5
+		},
+		{
+			"author": "by Laura Hillenbrand",
+			"description": "An Olympic runner\u2019s story of survival as a prisoner of the Japanese in World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400064168.jpg",
+			"name": "UNBROKEN",
+			"publisher": "Random House Publishing",
+			"rank": 6
+		},
+		{
+			"author": "by Chris Matthews",
+			"description": "An admiring portrait.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451635096.jpg",
+			"name": "JACK KENNEDY",
+			"publisher": "Simon & Schuster",
+			"rank": 7
+		},
+		{
+			"author": "by Diane Keaton",
+			"description": "The actress uses her mother\u2019s diaries as a springboard for the examination of her own life.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781588369420.jpg",
+			"name": "THEN AGAIN",
+			"publisher": "Random House Publishing",
+			"rank": 8
+		},
+		{
+			"author": "by Regis Philbin",
+			"description": "The recently retired co-host of \u201cLive! With Regis and Kelly\u2019\u2019 looks back on his years in show business.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062109750.jpg",
+			"name": "HOW I GOT THIS WAY",
+			"publisher": "HarperCollins Publishers",
+			"rank": 9
+		},
+		{
+			"author": "by Bill Clinton",
+			"description": "The former president argues that cooperation between the private sector and government is necessary to restore prosperity.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307959751.jpg",
+			"name": "BACK TO WORK",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 10
+		},
+		{
+			"author": "by Peter Schweizer",
+			"description": "Insider trading in Congress and how it enriches the permanent political class.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780547575179.jpg",
+			"name": "THROW THEM ALL OUT",
+			"publisher": "Houghton Mifflin Harcourt Publishers",
+			"rank": 11
+		},
+		{
+			"author": "by Mindy Kaling",
+			"description": "Observations from the comedy writer and actress.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307886286.jpg",
+			"name": "IS EVERYONE HANGING OUT WITHOUT ME?",
+			"publisher": "Crown Publishing",
+			"rank": 12
+		},
+		{
+			"author": "by Michael Lewis",
+			"description": "A look at some of the places hardest hit by the financial collapse of 2008 and at how it happened.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780393082241.jpg",
+			"name": "BOOMERANG",
+			"publisher": "W. W. Norton & Company",
+			"rank": 13
+		},
+		{
+			"author": "by Maher Bill",
+			"description": "Humorous observations on politics and life.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399158414.jpg",
+			"name": "NEW NEW RULES",
+			"publisher": "Penguin Group",
+			"rank": 14
+		},
+		{
+			"author": "by Robert K. Massie",
+			"description": "The author of \u201cNicholas and Alexandra\u201d provides a sweeping narrative of the life of the minor 18th-century German princess who became Empress of All the Russias.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780679456728.jpg",
+			"name": "CATHERINE THE GREAT",
+			"publisher": "Random House Publishing",
+			"rank": 15
+		}
+	]
+}

@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Vince Flynn",
+			"description": "Mitch Rapp, a C.I.A. super-agent hunting down perpetrators of the Pan Am Lockerbie bombing, finds himself caught in a dangerous trap.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781439100523.jpg",
+			"name": "KILL SHOT",
+			"publisher": "Atria Books",
+			"rank": 1
+		},
+		{
+			"author": "by Lisa Gardner",
+			"description": "A woman asks the Boston detective D.D. Warren to prevent her being murdered in four days\u2019 time.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780451413437.jpg",
+			"name": "CATCH ME",
+			"publisher": "Penguin Group",
+			"rank": 2
+		},
+		{
+			"author": "by William Landay",
+			"description": "An assistant district attorney\u2019s life is shaken when his 14-year-old son is accused of murder.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345527592.jpg",
+			"name": "DEFENDING JACOB",
+			"publisher": "Delacorte Press",
+			"rank": 3
+		},
+		{
+			"author": "by Kathryn Stockett",
+			"description": "A young white woman and two black maids in 1960s Mississippi.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781440697661.jpg",
+			"name": "THE HELP",
+			"publisher": "Penguin Group",
+			"rank": 4
+		},
+		{
+			"author": "by Jonathan Safran Foer",
+			"description": "A 9-year-old boy searches New York City for the lock that fits a key belonging to his father, who died on Sept. 11.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780618711659.jpg",
+			"name": "EXTREMELY LOUD AND INCREDIBLY CLOSE",
+			"publisher": "Houghton Mifflin Harcourt Publishing",
+			"rank": 5
+		},
+		{
+			"author": "by James Patterson and Maxine Paetro",
+			"description": "Jack Morgan, the head of an investigative firm, is accused of murder.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316097413.jpg",
+			"name": "PRIVATE: #1 SUSPECT",
+			"publisher": "Grand Central Publishing",
+			"rank": 6
+		},
+		{
+			"author": "by Barbara Freethy",
+			"description": "An entrepreneur must deal with his dotty grandfather, the sudden death of his ex-wife and the appearance of a beautiful redhead.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/A00B004T3RQQK.jpg",
+			"name": "THE SWEETEST THING",
+			"publisher": "Barbara Freethy",
+			"rank": 7
+		},
+		{
+			"author": "by Stieg Larsson",
+			"description": "In Volume 2 of the Millennium trilogy, a Swedish hacker becomes a murder suspect.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307476159.jpg",
+			"name": "THE GIRL WHO PLAYED WITH FIRE",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 8
+		},
+		{
+			"author": "by Stieg Larsson",
+			"description": "A hacker and a journalist investigate the 40-year-old disappearance of a Swedish heiress.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307949486.jpg",
+			"name": "THE GIRL WITH THE DRAGON TATTOO",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 9
+		},
+		{
+			"author": "by Stieg Larsson",
+			"description": "Volume 3 of the Millennium trilogy, about a Swedish hacker and a journalist.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307593672.jpg",
+			"name": "THE GIRL WHO KICKED THE HORNET\u2019S NEST",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 10
+		},
+		{
+			"author": "by Kristin Hannah",
+			"description": "A woman\u2019s husband and children are challenged when she is deployed to Iraq.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781429942218.jpg",
+			"name": "HOME FRONT",
+			"publisher": "St. Martin\u2019s Press",
+			"rank": 11
+		},
+		{
+			"author": "by Stephen King",
+			"description": "An English teacher travels back to 1958 by way of a time portal in a Maine diner. His assignment is to stop Lee Harvey Oswald.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451627299.jpg",
+			"name": "11/22/63",
+			"publisher": "Scribner",
+			"rank": 12
+		},
+		{
+			"author": "by Catherine Bybee",
+			"description": "A wealthy, titled Englishman who must marry to receive his inheritance offers the American owner of a matchmaking firm $10 million to enter a sham marriage. But will it remain a sham?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/2940013652019.jpg",
+			"name": "WIFE BY WEDNESDAY",
+			"publisher": "Catherine Bybee",
+			"rank": 13
+		},
+		{
+			"author": "by J. A. Jance",
+			"description": "Ali Reynolds seeks justice for an old friend and an unidentified woman, both victims of brutal attacks.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451628586.jpg",
+			"name": "LEFT FOR DEAD",
+			"publisher": "Simon & Schuster",
+			"rank": 14
+		},
+		{
+			"author": "by John Grisham",
+			"description": "Partners in a small law firm take on a big case after a fast-track burnout joins them.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385535137.jpg",
+			"name": "THE LITIGATORS",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 15
+		}
+	]
+}

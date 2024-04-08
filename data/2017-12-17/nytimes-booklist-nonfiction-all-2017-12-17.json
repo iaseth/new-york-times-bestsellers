@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Walter Isaacson",
+			"description": "A biography of the Italian Renaissance polymath which connects his work in various disciplines.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501139154.jpg",
+			"name": "LEONARDO DA VINCI",
+			"publisher": "Simon & Schuster",
+			"rank": 1
+		},
+		{
+			"author": "by Neil deGrasse Tyson",
+			"description": "A straightforward, easy-to-understand introduction to the laws that govern the universe.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780393609394.jpg",
+			"name": "ASTROPHYSICS FOR PEOPLE IN A HURRY",
+			"publisher": "Norton",
+			"rank": 2
+		},
+		{
+			"author": "by Ron Chernow",
+			"description": "A biography of the Union general of the Civil War and two-term president of the United States.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594204876.jpg",
+			"name": "GRANT",
+			"publisher": "Penguin Press",
+			"rank": 3
+		},
+		{
+			"author": "by Pete Souza",
+			"description": "More than 300 pictures of the former president by his White House photographer, with behind-the-scenes stories.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316512589.jpg",
+			"name": "OBAMA",
+			"publisher": "Little, Brown",
+			"rank": 4
+		},
+		{
+			"author": "by Yuval Noah Harari",
+			"description": "How Homo sapiens became Earth\u2019s dominant species.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062316097.jpg",
+			"name": "SAPIENS",
+			"publisher": "Harper",
+			"rank": 5
+		},
+		{
+			"author": "by J.D. Vance",
+			"description": "A Yale Law School graduate looks at the struggles of the white working class through the story of his own childhood.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062300560.jpg",
+			"name": "HILLBILLY ELEGY",
+			"publisher": "HarperCollins",
+			"rank": 6
+		},
+		{
+			"author": "by Joe Biden",
+			"description": "The former vice president recalls his toughest year in office, as his son battled brain cancer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250171672.jpg",
+			"name": "PROMISE ME, DAD",
+			"publisher": "Flatiron Books",
+			"rank": 7
+		},
+		{
+			"author": "by Brian Kilmeade and Don Yaeger",
+			"description": "Major General Jackson takes on the British in Louisiana.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735213234.jpg",
+			"name": "ANDREW JACKSON AND THE MIRACLE OF NEW ORLEANS",
+			"publisher": "Sentinel",
+			"rank": 8
+		},
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "Major events and battles during the Revolutionary War are told from several perspectives.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781627790642.jpg",
+			"name": "KILLING ENGLAND",
+			"publisher": "Holt",
+			"rank": 9
+		},
+		{
+			"author": "by Chris Matthews",
+			"description": "The New York senator's journey from his formative years to his tragic run for president.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501111860.jpg",
+			"name": "BOBBY KENNEDY",
+			"publisher": "Simon & Schuster",
+			"rank": 10
+		},
+		{
+			"author": "by Jenna Bush Hager and Barbara Pierce Bush. Illustrated by Ramona Kaulitzki",
+			"description": "How the twin daughters of former president George W. Bush grew up in the public eye.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538711415.jpg",
+			"name": "SISTERS FIRST",
+			"publisher": "Grand Central",
+			"rank": 11
+		},
+		{
+			"author": "by Hillary Clinton",
+			"description": "An inside look at her campaign and how she recovered in its aftermath.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501175565.jpg",
+			"name": "WHAT HAPPENED",
+			"publisher": "Simon & Schuster",
+			"rank": 12
+		},
+		{
+			"author": "by Luke Harding",
+			"description": "The British journalist recounts his meeting with the former MI6 officer Christopher Steele and makes his case for a connection between Moscow and Donald Trump.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525562511.jpg",
+			"name": "COLLUSION",
+			"publisher": "Vintage",
+			"rank": 13
+		},
+		{
+			"author": "by Scott Kelly",
+			"description": "A memoir by the retired astronaut and former commander of the International Space Station.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524731595.jpg",
+			"name": "ENDURANCE",
+			"publisher": "Knopf",
+			"rank": 14
+		},
+		{
+			"author": "by David Grann",
+			"description": "The story of a murder spree in 1920s Oklahoma that targeted Osage Indians, whose lands contained oil.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385534246.jpg",
+			"name": "KILLERS OF THE FLOWER MOON",
+			"publisher": "Doubleday",
+			"rank": 15
+		}
+	]
+}

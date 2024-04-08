@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by J.D. Vance",
+			"description": "A Yale Law School graduate looks at the struggles of the white working class through the story of his own childhood.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062300560.jpg",
+			"name": "HILLBILLY ELEGY",
+			"publisher": "HarperCollins",
+			"rank": 1
+		},
+		{
+			"author": "by Neil deGrasse Tyson",
+			"description": "A straightforward, easy-to-understand introduction to the laws that govern the universe.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780393609394.jpg",
+			"name": "ASTROPHYSICS FOR PEOPLE IN A HURRY",
+			"publisher": "Norton",
+			"rank": 2
+		},
+		{
+			"author": "by Mark R. Levin",
+			"description": "The radio host argues that the founding fathers would be shocked by the expansion of modern government.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476773087.jpg",
+			"name": "REDISCOVERING AMERICANISM",
+			"publisher": "Threshold Editions",
+			"rank": 3
+		},
+		{
+			"author": "by Al Franken",
+			"description": "A memoir by the Democratic senator from Minnesota and former \u201cSaturday Night Live\u201d writer and performer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455540419.jpg",
+			"name": "AL FRANKEN, GIANT OF THE SENATE",
+			"publisher": "Twelve",
+			"rank": 4
+		},
+		{
+			"author": "by Milo Yiannopoulos",
+			"description": "The alt-right provocateur criticizes political correctness.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780692893449.jpg",
+			"name": "DANGEROUS",
+			"publisher": "Dangerous Books",
+			"rank": 5
+		},
+		{
+			"author": "by Jeannette Walls",
+			"description": "The author recalls a bizarre childhood. Originally published in 2005 and the basis of a forthcoming movie.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780743247542.jpg",
+			"name": "THE GLASS CASTLE",
+			"publisher": "Scribner",
+			"rank": 6
+		},
+		{
+			"author": "by Eric Bolling",
+			"description": "The Fox News host suggests how Donald Trump can fight corruption and cronyism in Washington.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250150189.jpg",
+			"name": "THE SWAMP",
+			"publisher": "St. Martin's",
+			"rank": 7
+		},
+		{
+			"author": "by Sheryl Sandberg and Adam Grant",
+			"description": "Sandberg\u2019s experience after her husband\u2019s sudden death and Grant\u2019s psychological research combine to provide insight on facing adversity and building resilience.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524732684.jpg",
+			"name": "OPTION B",
+			"publisher": "Knopf",
+			"rank": 8
+		},
+		{
+			"author": "by David Grann",
+			"description": "The story of a murder spree in 1920s Oklahoma that targeted Osage Indians, whose lands contained oil.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385534246.jpg",
+			"name": "KILLERS OF THE FLOWER MOON",
+			"publisher": "Doubleday",
+			"rank": 9
+		},
+		{
+			"author": "by Newt Gingrich",
+			"description": "The former House speaker explains the president\u2019s philosophy and political agenda.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781478923084.jpg",
+			"name": "UNDERSTANDING TRUMP",
+			"publisher": "Center Street",
+			"rank": 10
+		},
+		{
+			"author": "by Mark Bowden",
+			"description": "An account of the Tet offensive battle that was a turning point in the American war in Vietnam.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780802127006.jpg",
+			"name": "HUE 1968",
+			"publisher": "Atlantic Monthly",
+			"rank": 11
+		},
+		{
+			"author": "by Kevin Hart with Neil Strauss",
+			"description": "The comedian\u2019s personal and professional life.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501155567.jpg",
+			"name": "I CAN'T MAKE THIS UP",
+			"publisher": "37 INK/Atria",
+			"rank": 12
+		},
+		{
+			"author": "by Lin-Manuel Miranda and Jeremy McCarter",
+			"description": "The libretto of the Grammy-, Tony- and Pulitzer Prize-winning musical, annotated by its creator, along with backstage photos and interviews.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455567539.jpg",
+			"name": "HAMILTON: THE REVOLUTION",
+			"publisher": "Grand Central/Melcher Media",
+			"rank": 13
+		},
+		{
+			"author": "by Trevor Noah",
+			"description": "A memoir about growing up biracial in apartheid South Africa by the comedian, now the host of \u201cThe Daily Show.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399588181.jpg",
+			"name": "BORN A CRIME",
+			"publisher": "Spiegel & Grau",
+			"rank": 14
+		},
+		{
+			"author": "by Bill Nye",
+			"description": "Part memoir, part celebration of science and problem-solving.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781623367916.jpg",
+			"name": "EVERYTHING ALL AT ONCE",
+			"publisher": "Rodale",
+			"rank": 15
+		}
+	]
+}

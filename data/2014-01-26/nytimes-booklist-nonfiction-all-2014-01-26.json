@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Marcus Luttrell with Patrick Robinson",
+			"description": "The only survivor of a Navy SEALs operation in northern Afghanistan describes his the battle and his escape. First published in 2007; the basis for the movie.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316067607.jpg",
+			"name": "LONE SURVIVOR",
+			"publisher": "Little, Brown",
+			"rank": 1
+		},
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "The host of \"The O'Reilly Factor\" recounts the events leading up to Jesus' execution.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780805098549.jpg",
+			"name": "KILLING JESUS",
+			"publisher": "Holt",
+			"rank": 2
+		},
+		{
+			"author": "by Charles Krauthammer",
+			"description": "Three decades\u2019 worth of essays from the conservative columnist.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385349178.jpg",
+			"name": "THINGS THAT MATTER",
+			"publisher": "Crown Forum",
+			"rank": 3
+		},
+		{
+			"author": "by Malcolm Gladwell",
+			"description": "How disadvantages can work in our favor; from the author of \"The Tipping Point\" and \"Outliers.\"",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316204361.jpg",
+			"name": "DAVID AND GOLIATH",
+			"publisher": "Little, Brown",
+			"rank": 4
+		},
+		{
+			"author": "by Jordan Belfort",
+			"description": "The rise and ugly fall of a high-living investment-firm founder. First published in 2007; the basis for the movie.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780553904246.jpg",
+			"name": "THE WOLF OF WALL STREET",
+			"publisher": "Bantam",
+			"rank": 5
+		},
+		{
+			"author": "by Cheryl Strayed",
+			"description": "A woman\u2019s account of a life-changing 1,100-mile hike along the Pacific Crest Trail during the summer of 1995.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307476074.jpg",
+			"name": "WILD",
+			"publisher": "Knopf",
+			"rank": 6
+		},
+		{
+			"author": "by Daniel J. Siegel",
+			"description": "Understanding the adolescent mind.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781585429356.jpg",
+			"name": "BRAINSTORM",
+			"publisher": "Tarcher/Penguin",
+			"rank": 7
+		},
+		{
+			"author": "by Robert M. Edsel with Bret Witter",
+			"description": "The attempt to preserve, and later to locate, art works stolen by the Nazis during World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316240055.jpg",
+			"name": "THE MONUMENTS MEN",
+			"publisher": "Center Street",
+			"rank": 8
+		},
+		{
+			"author": "by Brian Kilmeade and Don Yaeger",
+			"description": "The story of the Culper spy ring, which aided the American cause during the Revolution.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698137653.jpg",
+			"name": "GEORGE WASHINGTON'S SECRET SIX",
+			"publisher": "Sentinel",
+			"rank": 9
+		},
+		{
+			"author": "by Todd Burpo with Lynn Vincent",
+			"description": "A father recounts his 3-year-old son\u2019s encounter with Jesus during an appendectomy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780849949203.jpg",
+			"name": "HEAVEN IS FOR REAL",
+			"publisher": "Thomas Nelson",
+			"rank": 10
+		},
+		{
+			"author": "by Malala Yousafzai with Christina Lamb",
+			"description": "The experience of the Pakistani girl who advocated for women\u2019s education and was shot by the Taliban.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316322409.jpg",
+			"name": "I AM MALALA",
+			"publisher": "Little, Brown",
+			"rank": 11
+		},
+		{
+			"author": "by Sheryl Sandberg with Nell Scovell",
+			"description": "The chief operating officer of Facebook urges women to pursue their careers without ambivalence.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385349956.jpg",
+			"name": "LEAN IN",
+			"publisher": "Knopf",
+			"rank": 12
+		},
+		{
+			"author": "by Piper Kerman",
+			"description": "A memoir by a Brooklyn woman whose relationship with a drug runner gets her sentenced to a year in prison. The basis for the Netflix series, originally published in 2010.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385530262.jpg",
+			"name": "ORANGE IS THE NEW BLACK",
+			"publisher": "Spiegel & Grau",
+			"rank": 13
+		},
+		{
+			"author": "by Laura Hillenbrand",
+			"description": "An Olympic runner\u2019s story of survival as a prisoner of the Japanese in World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400064168.jpg",
+			"name": "UNBROKEN",
+			"publisher": "Random House",
+			"rank": 14
+		},
+		{
+			"author": "by Gary Shteyngart",
+			"description": "A memoir of growing up in a family that immigrated from Leningrad to Queens.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812995336.jpg",
+			"name": "LITTLE FAILURE",
+			"publisher": "Random House",
+			"rank": 15
+		}
+	]
+}

@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "The host of \u201cThe O\u2019Reilly Factor\u201d recounts the strange death of Gen. George S. Patton in December 1945.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780805096699.jpg",
+			"name": "KILLING PATTON",
+			"publisher": "Holt",
+			"rank": 1
+		},
+		{
+			"author": "by Lena Dunham",
+			"description": "A collection of revealing and often humorous personal essays from the creator and star of \u201cGirls.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812995008.jpg",
+			"name": "NOT THAT KIND OF GIRL",
+			"publisher": "Random House",
+			"rank": 2
+		},
+		{
+			"author": "by Laura Hillenbrand",
+			"description": "An Olympic runner\u2019s story of survival as a prisoner of the Japanese in World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400064168.jpg",
+			"name": "UNBROKEN",
+			"publisher": "Random House",
+			"rank": 3
+		},
+		{
+			"author": "by Daniel James Brown",
+			"description": "The University of Washington\u2019s eight-oar crew and their quest for gold at the 1936 Berlin Olympics.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101622742.jpg",
+			"name": "THE BOYS IN THE BOAT",
+			"publisher": "Viking",
+			"rank": 4
+		},
+		{
+			"author": "by Jim Gaffigan",
+			"description": "The comedian, author of \u201cDad Is Fat,\u201d describes his relationship with his subject.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780804140423.jpg",
+			"name": "FOOD",
+			"publisher": "Crown Archetype",
+			"rank": 5
+		},
+		{
+			"author": "by Atul Gawande",
+			"description": "The surgeon and New Yorker writer considers how doctors fail patients at the end of life, and how they can do better.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780805095159.jpg",
+			"name": "BEING MORTAL",
+			"publisher": "Metropolitan/Holt",
+			"rank": 6
+		},
+		{
+			"author": "by Richard Preston",
+			"description": "The discovery of the Ebola virus, and the efforts to keep it from spreading; first published in 1994.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307817655.jpg",
+			"name": "THE HOT ZONE",
+			"publisher": "Anchor",
+			"rank": 7
+		},
+		{
+			"author": "by Cary Elwes with Joe Layden",
+			"description": "The making of the movie \u201cThe Princess Bride,\u201d 25 years ago.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476764030.jpg",
+			"name": "AS YOU WISH",
+			"publisher": "Touchstone/Simon & Schuster",
+			"rank": 8
+		},
+		{
+			"author": "by Neil Patrick Harris with David Javerbaum",
+			"description": "The actor\u2019s life story is structured as a Choose Your Own Adventure book.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385347006.jpg",
+			"name": "NEIL PATRICK HARRIS: CHOOSE YOUR OWN AUTOBIOGRAPHY",
+			"publisher": "Crown Archetype",
+			"rank": 9
+		},
+		{
+			"author": "by Walter Isaacson",
+			"description": "Studies of the people who created computers and the Internet, beginning in the 1840s.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476708713.jpg",
+			"name": "THE INNOVATORS",
+			"publisher": "Simon & Schuster",
+			"rank": 10
+		},
+		{
+			"author": "by Andrew Burstein and Nancy Isenberg",
+			"description": "A dual biography of the third and fourth presidents; first published in 2010.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780679604105.jpg",
+			"name": "MADISON AND JEFFERSON",
+			"publisher": "Random House",
+			"rank": 11
+		},
+		{
+			"author": "by Michael Savage",
+			"description": "The radio host urges true patriots to save the country from the machinations of the left.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455582433.jpg",
+			"name": "STOP THE COMING CIVIL WAR",
+			"publisher": "Center Street",
+			"rank": 12
+		},
+		{
+			"author": "by Jay Sekulow with Jordan Sekulow and others",
+			"description": "An examination of the jihadist group and a warning about its dangers.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501105135.jpg",
+			"name": "RISE OF ISIS",
+			"publisher": "Howard Books",
+			"rank": 13
+		},
+		{
+			"author": "by Cheryl Strayed",
+			"description": "A woman\u2019s account of a life-changing 1,100-mile hike along the Pacific Crest Trail during the summer of 1995.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307476074.jpg",
+			"name": "WILD",
+			"publisher": "Knopf",
+			"rank": 14
+		},
+		{
+			"author": "by Steven Johnson",
+			"description": "A history of innovation focused on the development of six key technologies of modern life; the companion volume to a PBS series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698154506.jpg",
+			"name": "HOW WE GOT TO NOW",
+			"publisher": "Riverhead",
+			"rank": 15
+		}
+	]
+}

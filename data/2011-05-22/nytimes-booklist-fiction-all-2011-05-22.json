@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Charlaine Harris",
+			"description": "The telepathic waitress Sookie Stackhouse seeks the culprit in a firebombing.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781937007355.jpg",
+			"name": "DEAD RECKONING",
+			"publisher": "Penguin Group",
+			"rank": 1
+		},
+		{
+			"author": "by James Patterson and Maxine Paetro",
+			"description": "Detective Lindsay Boxer and the Women\u2019s Murder Club race to find a missing baby.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316126946.jpg",
+			"name": "10TH ANNIVERSARY",
+			"publisher": "Little, Brown",
+			"rank": 2
+		},
+		{
+			"author": "by Sara Gruen",
+			"description": "After his parents are killed in a car accident, a young veterinary student \u2014 and an elephant \u2014 save a Depression-era circus.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781616200718.jpg",
+			"name": "WATER FOR ELEPHANTS",
+			"publisher": "Algonquin",
+			"rank": 3
+		},
+		{
+			"author": "by Emily Giffin",
+			"description": "A maid of honor to her charmed friend, Rachel White has always played by the rules. But that changes on her 30th birthday.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780312600723.jpg",
+			"name": "SOMETHING BORROWED",
+			"publisher": "St. Martin's",
+			"rank": 4
+		},
+		{
+			"author": "by Kathryn Stockett",
+			"description": "A young white woman and two black maids in 1960s Mississippi.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781440697661.jpg",
+			"name": "THE HELP",
+			"publisher": "Penguin Group",
+			"rank": 5
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "The lawyer for an alleged serial killer is murdered, and two former Secret Service agents are on the case.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780446573092.jpg",
+			"name": "THE SIXTH MAN",
+			"publisher": "Grand Central",
+			"rank": 6
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "When an expert assassin takes a mysterious job, he has no idea that it will force him to delve deeply into his own past.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455504398.jpg",
+			"name": "NO TIME LEFT",
+			"publisher": "Grand Central",
+			"rank": 7
+		},
+		{
+			"author": "by George R.R. Martin",
+			"description": "In the frozen wastes to the north of Winterfell, sinister and supernatural forces are mustering.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780553897845.jpg",
+			"name": "A GAME OF THRONES",
+			"publisher": "Random House",
+			"rank": 8
+		},
+		{
+			"author": "by Michael Connelly",
+			"description": "Routinely doing business from his Lincoln Town Cars, the bottom-feeding attorney Mickey Haller is asked to defend the scion of a wealthy family who might not be guilty of a murderous crime.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455500239.jpg",
+			"name": "THE LINCOLN LAWYER",
+			"publisher": "Little, Brown",
+			"rank": 9
+		},
+		{
+			"author": "by Robert B. Parker",
+			"description": "In the final Spenser novel, a woman dies in an actor\u2019s hotel room.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399157264.jpg",
+			"name": "SIXKILL",
+			"publisher": "Penguin Group",
+			"rank": 10
+		},
+		{
+			"author": "by Michael Connelly",
+			"description": "The defense lawyer Mickey Haller represents a woman facing home foreclosure who is accused of killing a banker.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455510313.jpg",
+			"name": "THE FIFTH WITNESS",
+			"publisher": "Little, Brown",
+			"rank": 11
+		},
+		{
+			"author": "by Mary Higgins Clark",
+			"description": "A woman haunted by the disappearance of her young son discovers that someone has stolen her identity.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781439180976.jpg",
+			"name": "I\u2019LL WALK ALONE",
+			"publisher": "Simon & Schuster",
+			"rank": 12
+		},
+		{
+			"author": "by Nora Roberts",
+			"description": "A smoke jumper faces a new season of firefighting in Montana after the loss of her partner.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780515150636.jpg",
+			"name": "CHASING FIRE",
+			"publisher": "Penguin Group",
+			"rank": 13
+		},
+		{
+			"author": "by Jean M. Auel",
+			"description": "The latest volume in a series that began with \u201cThe Clan of the Cave Bear,\u201d set during the ice age.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780517580516.jpg",
+			"name": "THE LAND OF PAINTED CAVES",
+			"publisher": "Crown",
+			"rank": 14
+		},
+		{
+			"author": "by Nora Roberts",
+			"description": "A canine search-and-rescue trainer has found peace after losing her fianc\u00e9 to a serial killer. But her life is shaken by a new man and a copycat murderer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399156571.jpg",
+			"name": "THE SEARCH",
+			"publisher": "Penguin Group",
+			"rank": 15
+		}
+	]
+}

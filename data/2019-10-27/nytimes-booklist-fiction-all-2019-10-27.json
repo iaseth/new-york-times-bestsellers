@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by James Patterson and Maxine Paetro",
+			"description": "In the 19th installment of the Women's Murder Club series, detective Lindsay Boxer and company take on a fearsome criminal known only as \"Loman.\"",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316494021.jpg",
+			"name": "THE 19TH CHRISTMAS",
+			"publisher": "Little, Brown",
+			"rank": 1
+		},
+		{
+			"author": "by Elin Hilderbrand",
+			"description": "In the sequel to \"Winter in Paradise,\" Irene Steele visits the island of St. John to get to the bottom of the mysterious life and death of her husband.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316435574.jpg",
+			"name": "WHAT HAPPENS IN PARADISE",
+			"publisher": "Little, Brown",
+			"rank": 2
+		},
+		{
+			"author": "by Delia Owens",
+			"description": "In a quiet town on the North Carolina coast in 1969, a young woman who survived alone in the marsh becomes a murder suspect.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735219090.jpg",
+			"name": "WHERE THE CRAWDADS SING",
+			"publisher": "Putnam",
+			"rank": 3
+		},
+		{
+			"author": "by Danielle Steel",
+			"description": "A prestigious New York lawyer learns that the life she constructed for her children and herself isn't exactly what she thought it was.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399179518.jpg",
+			"name": "CHILD'S PLAY",
+			"publisher": "Delacorte",
+			"rank": 4
+		},
+		{
+			"author": "by Leigh Bardugo",
+			"description": "After mysteriously surviving a multiple homicide, Galaxy Stern comes face to face with dark magic, murder and more at Yale University.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250313072.jpg",
+			"name": "NINTH HOUSE",
+			"publisher": "Flatiron",
+			"rank": 5
+		},
+		{
+			"author": "by Stephen King",
+			"description": "Children with special talents are abducted and sequestered in an institution where the sinister staff seeks to extract their gifts through harsh methods.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982110567.jpg",
+			"name": "THE INSTITUTE",
+			"publisher": "Scribner",
+			"rank": 6
+		},
+		{
+			"author": "by Jojo Moyes",
+			"description": "In Depression-era America, five women refuse to be cowed by men or convention as they deliver books throughout the mountains of Kentucky.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399562501.jpg",
+			"name": "THE GIVER OF STARS",
+			"publisher": "Pamela Dorman/Viking",
+			"rank": 7
+		},
+		{
+			"author": "by John Sandford",
+			"description": "The 12th book in the Virgil Flowers series. A fight between university departments turns deadly.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525536611.jpg",
+			"name": "BLOODY GENIUS",
+			"publisher": "Putnam",
+			"rank": 8
+		},
+		{
+			"author": "by Ann Patchett",
+			"description": "A sibling relationship is impacted when the family goes from poverty to wealth and back again over the course of many decades.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062963673.jpg",
+			"name": "THE DUTCH HOUSE",
+			"publisher": "Harper",
+			"rank": 9
+		},
+		{
+			"author": "by Ta-Nehisi Coates",
+			"description": "A young man who was gifted with a mysterious power becomes part of a war between slavers and the enslaved.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399590597.jpg",
+			"name": "THE WATER DANCER",
+			"publisher": "One World",
+			"rank": 10
+		},
+		{
+			"author": "by Margaret Atwood",
+			"description": "In a sequel to \u201cThe Handmaid\u2019s Tale,\u201d old secrets bring three women together as the Republic of Gilead\u2019s theocratic regime shows signs of decay.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385543781.jpg",
+			"name": "THE TESTAMENTS",
+			"publisher": "Nan A. Talese/Doubleday",
+			"rank": 11
+		},
+		{
+			"author": "by Kyle Mills",
+			"description": "Mexican cartels, ISIS and a possible pandemic bring Mitch Rapp back into action.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501190643.jpg",
+			"name": "VINCE FLYNN: LETHAL AGENT",
+			"publisher": "Emily Bestler/Atria",
+			"rank": 12
+		},
+		{
+			"author": "by Heather Morris",
+			"description": "A concentration camp detainee tasked with permanently marking fellow prisoners falls in love with one of them.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062797155.jpg",
+			"name": "THE TATTOOIST OF AUSCHWITZ",
+			"publisher": "Harper",
+			"rank": 13
+		},
+		{
+			"author": "by Kristin Hannah",
+			"description": "A former prisoner of war returns from Vietnam and moves his family to Alaska, where they face tough conditions.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250165619.jpg",
+			"name": "THE GREAT ALONE",
+			"publisher": "St. Martin's",
+			"rank": 14
+		},
+		{
+			"author": "by Stephen King",
+			"description": "Now grown up, Dan, the boy with psycho-intuitive powers in \u201cThe Shining,\u201d helps another child with a spectacular gift.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451698855.jpg",
+			"name": "DOCTOR SLEEP",
+			"publisher": "Scribner",
+			"rank": 15
+		}
+	]
+}

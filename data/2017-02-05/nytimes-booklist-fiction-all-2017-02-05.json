@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by James Patterson and Candice Fox",
+			"description": "Harriet Blue, a Sydney sex crimes detective, is sent to the outback (the never never) to investigate the disappearance of a mine worker. The first in a new series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316434720.jpg",
+			"name": "NEVER NEVER",
+			"publisher": "Little, Brown",
+			"rank": 1
+		},
+		{
+			"author": "by W. Bruce Cameron",
+			"description": "A canine narrator undergoes a series of reincarnations.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780765330345.jpg",
+			"name": "A DOG'S PURPOSE",
+			"publisher": "Forge Books",
+			"rank": 2
+		},
+		{
+			"author": "by Fredrik Backman",
+			"description": "A curmudgeon's gruff exterior masks a generosity of spirit. Originally published in Sweden in 2014.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476738024.jpg",
+			"name": "A MAN CALLED OVE",
+			"publisher": "Washington Square",
+			"rank": 3
+		},
+		{
+			"author": "by Karen Marie Moning",
+			"description": "A group of superhuman beings fight to save Dublin (and humanity); the conclusion of the Fever series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780425284360.jpg",
+			"name": "FEVERSONG",
+			"publisher": "Delacorte",
+			"rank": 4
+		},
+		{
+			"author": "by Vi Keeland",
+			"description": "An embittered attorney and a psychologist share an office space and a growing attraction.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781942215561.jpg",
+			"name": "EGOMANIAC",
+			"publisher": "EverAfter Romance",
+			"rank": 5
+		},
+		{
+			"author": "by Paula Hawkins",
+			"description": "A psychological thriller set in the environs of London is full of complications and betrayals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594633669.jpg",
+			"name": "THE GIRL ON THE TRAIN",
+			"publisher": "Riverhead",
+			"rank": 6
+		},
+		{
+			"author": "by John Grisham",
+			"description": "A whistleblower alerts a Florida investigator to judicial corruption involving the Mob and Indian casinos.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385541206.jpg",
+			"name": "THE WHISTLER",
+			"publisher": "Doubleday",
+			"rank": 7
+		},
+		{
+			"author": "by Rupi Kaur",
+			"description": "Poetic approaches to surviving adversity and loss.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781449474256.jpg",
+			"name": "MILK AND HONEY",
+			"publisher": "Andrews McMeel",
+			"rank": 8
+		},
+		{
+			"author": "by Danielle Steel",
+			"description": "The beautiful mistress of a Russian oligarch falls in love with an artist and yearns for freedom.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780425285350.jpg",
+			"name": "THE MISTRESS",
+			"publisher": "Delacorte",
+			"rank": 9
+		},
+		{
+			"author": "by Colson Whitehead",
+			"description": "A teenage girl heads north on the network that helped slaves escape to freedom, envisioned in this novel as a secret system of actual tracks and tunnels.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385542364.jpg",
+			"name": "THE UNDERGROUND RAILROAD",
+			"publisher": "Doubleday",
+			"rank": 10
+		},
+		{
+			"author": "by Jodi Picoult",
+			"description": "A medical crisis entangles a black nurse, a white supremacist father and a white lawyer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345544964.jpg",
+			"name": "SMALL GREAT THINGS",
+			"publisher": "Ballantine",
+			"rank": 11
+		},
+		{
+			"author": "by Aleatha Romig",
+			"description": "Nox and Charli find their happily ever after in the conclusion to the Infidelity series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780996839440.jpg",
+			"name": "FIDELITY",
+			"publisher": "Romig Works",
+			"rank": 12
+		},
+		{
+			"author": "by Fredrik Backman",
+			"description": "A girl is instructed to deliver a series of letters after her grandmother dies.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501115073.jpg",
+			"name": "MY GRANDMOTHER ASKED ME TO TELL YOU SHE'S SORRY",
+			"publisher": "Washington Square Press",
+			"rank": 13
+		},
+		{
+			"author": "by Nicholas Sparks",
+			"description": "A man who became a single father after both his marriage and his business collapsed learns to take a chance on a new love.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455520701.jpg",
+			"name": "TWO BY TWO",
+			"publisher": "Grand Central",
+			"rank": 14
+		},
+		{
+			"author": "by James Patterson",
+			"description": "Detective Alex Cross and his wife, Bree, team up to catch a killer causing chaos in Washington, D.C.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316407168.jpg",
+			"name": "CROSS THE LINE",
+			"publisher": "Little, Brown",
+			"rank": 15
+		}
+	]
+}

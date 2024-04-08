@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Maggie Haberman",
+			"description": "The New York Times White House correspondent traces events from Donald Trump\u2019s rise in New York City through to his post-presidency.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593297346.jpg",
+			"name": "CONFIDENCE MAN",
+			"publisher": "Penguin Press",
+			"rank": 1
+		},
+		{
+			"author": "by Jennette McCurdy",
+			"description": "The actress and filmmaker describes her eating disorders and difficult relationship with her mother.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982185824.jpg",
+			"name": "I'M GLAD MY MOM DIED",
+			"publisher": "Simon & Schuster",
+			"rank": 2
+		},
+		{
+			"author": "by Kelly Ripa",
+			"description": "The Daytime Emmy Award-winning TV host shares stories from her life on and off screen.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063073302.jpg",
+			"name": "LIVE WIRE",
+			"publisher": "Dey Street",
+			"rank": 3
+		},
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "The conservative commentator\u2019s Killing series profiles Elvis Presley, John Lennon and Muhammad Ali.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250283306.jpg",
+			"name": "KILLING THE LEGENDS",
+			"publisher": "St. Martin's",
+			"rank": 4
+		},
+		{
+			"author": "by Bessel van der Kolk",
+			"description": "How trauma affects the body and mind, and innovative treatments for recovery.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780670785933.jpg",
+			"name": "THE BODY KEEPS THE SCORE",
+			"publisher": "Penguin",
+			"rank": 5
+		},
+		{
+			"author": "by Scott Galloway",
+			"description": "An overview of events from 1945 to the present and how they might inform potential crises in the near future.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593542408.jpg",
+			"name": "ADRIFT",
+			"publisher": "Portfolio",
+			"rank": 6
+		},
+		{
+			"author": "by Neil deGrasse Tyson",
+			"description": "The astrophysicist and director of the Hayden Planetarium delves into subjects including politics, religion, gender and race.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250861504.jpg",
+			"name": "STARRY MESSENGER",
+			"publisher": "Holt",
+			"rank": 7
+		},
+		{
+			"author": "by Gabor Mat\u00e9 with Daniel Mat\u00e9",
+			"description": "The potential ways in which trauma and stress from modern-day living can affect our physical health.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593083888.jpg",
+			"name": "THE MYTH OF NORMAL",
+			"publisher": "Avery",
+			"rank": 8
+		},
+		{
+			"author": "by Peter Baker and Susan Glasser",
+			"description": "The married journalists who write for The New York Times and The New Yorker posit that Donald Trump began to emulate the foreign autocrats he admired.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385546539.jpg",
+			"name": "THE DIVIDER",
+			"publisher": "Doubleday",
+			"rank": 9
+		},
+		{
+			"author": "by Nikki R. Haley",
+			"description": "The former governor of South Carolina and U.S. ambassador to the United Nations shares her journey and profiles female leaders.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250284976.jpg",
+			"name": "IF YOU WANT SOMETHING DONE",
+			"publisher": "St. Martin's",
+			"rank": 10
+		},
+		{
+			"author": "by Walt Bogdanich and Michael Forsythe",
+			"description": "Investigative reporters for The New York Times examine the international consulting firm McKinsey & Company.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385546232.jpg",
+			"name": "WHEN MCKINSEY COMES TO TOWN",
+			"publisher": "Doubleday",
+			"rank": 11
+		},
+		{
+			"author": "by Nina Totenberg",
+			"description": "The NPR legal affairs correspondent details her professional accomplishments and friendship with the late Supreme Court Justice Ruth Bader Ginsburg.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982188085.jpg",
+			"name": "DINNERS WITH RUTH",
+			"publisher": "Simon & Schuster",
+			"rank": 12
+		},
+		{
+			"author": "by Cody Keenan",
+			"description": "The former speechwriter for President Obama recounts events that took place during 10 days in June 2015.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780358651895.jpg",
+			"name": "GRACE",
+			"publisher": "Mariner",
+			"rank": 13
+		},
+		{
+			"author": "by Randall Munroe",
+			"description": "The creator of the web comic \u201cxkcd\u201d and former NASA roboticist looks into hypothetical and oddball scenarios.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525537113.jpg",
+			"name": "WHAT IF? 2",
+			"publisher": "Riverhead",
+			"rank": 14
+		},
+		{
+			"author": "by Buzz Bissinger",
+			"description": "The Pulitzer Prize-winning journalist depicts the service of college football players who served in the Marines during World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062879929.jpg",
+			"name": "THE MOSQUITO BOWL",
+			"publisher": "Harper",
+			"rank": 15
+		}
+	]
+}

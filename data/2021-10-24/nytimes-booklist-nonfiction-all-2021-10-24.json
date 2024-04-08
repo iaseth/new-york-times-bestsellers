@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Dave Grohl",
+			"description": "A memoir by the musician known for his work with Foo Fighters and Nirvana.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063076099.jpg",
+			"name": "THE STORYTELLER",
+			"publisher": "\u200eDey Street",
+			"rank": 1
+		},
+		{
+			"author": "by Stephanie Grisham",
+			"description": "The former White House press secretary and communications director recounts her time in the Trump inner circle.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063142930.jpg",
+			"name": "I'LL TAKE YOUR QUESTIONS NOW",
+			"publisher": "Harper",
+			"rank": 2
+		},
+		{
+			"author": "by Bob Woodward and Robert Costa",
+			"description": "The Washington Post journalists detail the dangers and challenges during the transition to the Biden presidency.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982182915.jpg",
+			"name": "PERIL",
+			"publisher": "Simon & Schuster",
+			"rank": 3
+		},
+		{
+			"author": "by Stanley Tucci",
+			"description": "The award-winning actor reflects on his career, Italian-American heritage, meals and mishaps.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982168018.jpg",
+			"name": "TASTE",
+			"publisher": "Gallery",
+			"rank": 4
+		},
+		{
+			"author": "by Anderson Cooper and Katherine Howe",
+			"description": "The CNN host and descendant of the Vanderbilt family charts the rise and fall of this American dynasty.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062964618.jpg",
+			"name": "VANDERBILT",
+			"publisher": "Harper",
+			"rank": 5
+		},
+		{
+			"author": "by Victor Davis Hanson",
+			"description": "The author of \u201cThe Case for Trump\u201d gives his take on globalization and tribalism.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781541647534.jpg",
+			"name": "THE DYING CITIZEN",
+			"publisher": "Basic",
+			"rank": 6
+		},
+		{
+			"author": "by Mark R. Levin",
+			"description": "The Fox News host gives his take on the Green New Deal, critical race theory and social activism.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501135972.jpg",
+			"name": "AMERICAN MARXISM",
+			"publisher": "Threshold Editions",
+			"rank": 7
+		},
+		{
+			"author": "by Fiona Hill",
+			"description": "The foreign policy expert traces her life from being a coal miner\u2019s daughter in northern England to her testimony in the first impeachment inquiry of former President Trump.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780358574316.jpg",
+			"name": "THERE IS NOTHING FOR YOU HERE",
+			"publisher": "Mariner",
+			"rank": 8
+		},
+		{
+			"author": "by David Sedaris",
+			"description": "Public and private moments chronicled from the humorist\u2019s 2003-20 diaries.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316558792.jpg",
+			"name": "A CARNIVAL OF SNACKERY",
+			"publisher": "Little, Brown",
+			"rank": 9
+		},
+		{
+			"author": "by Bessel van der Kolk",
+			"description": "How trauma affects the body and mind, and innovative treatments for recovery.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780670785933.jpg",
+			"name": "THE BODY KEEPS THE SCORE",
+			"publisher": "Penguin",
+			"rank": 10
+		},
+		{
+			"author": "by Stephanie Land",
+			"description": "An unexpected pregnancy forces the author to navigate challenges faced by the working poor.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316505116.jpg",
+			"name": "MAID",
+			"publisher": "Legacy Lit",
+			"rank": 11
+		},
+		{
+			"author": "by Timothy Snyder",
+			"description": "Twenty lessons from the 20th century about the course of tyranny.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780804190114.jpg",
+			"name": "ON TYRANNY",
+			"publisher": "Tim Duggan",
+			"rank": 12
+		},
+		{
+			"author": "by John Lithgow",
+			"description": "An illustrated collection of poems and illustrations profiling scoundrels from America\u2019s past and present.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781797209470.jpg",
+			"name": "A CONFEDERACY OF DUMPTYS",
+			"publisher": "Chronicle Prism",
+			"rank": 13
+		},
+		{
+			"author": "by Malcolm Gladwell",
+			"description": "Famous examples of miscommunication serve as the backdrop to explain potential conflicts and misunderstandings.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316478526.jpg",
+			"name": "TALKING TO STRANGERS",
+			"publisher": "Little, Brown",
+			"rank": 14
+		},
+		{
+			"author": "by Laurie Woolever",
+			"description": "An oral biography of the late chef, writer and television host by his longtime assistant and confidante.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062909107.jpg",
+			"name": "BOURDAIN",
+			"publisher": "Ecco",
+			"rank": 15
+		}
+	]
+}

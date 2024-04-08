@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by James Comey",
+			"description": "The former F.B.I. director recounts cases and personal events that shaped his outlook on justice, and analyzes the leadership styles of three presidents.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250192455.jpg",
+			"name": "A HIGHER LOYALTY",
+			"publisher": "Flatiron",
+			"rank": 1
+		},
+		{
+			"author": "by Michelle McNamara",
+			"description": "The late true-crime journalist's search for the serial murderer and rapist known as \"the Golden State Killer.\"",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062319784.jpg",
+			"name": "I'LL BE GONE IN THE DARK",
+			"publisher": "Harper",
+			"rank": 2
+		},
+		{
+			"author": "by J.D. Vance",
+			"description": "A Yale Law School graduate looks at the struggles of the white working class through the story of his own childhood.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062300560.jpg",
+			"name": "HILLBILLY ELEGY",
+			"publisher": "HarperCollins",
+			"rank": 3
+		},
+		{
+			"author": "by Tara Westover",
+			"description": "The daughter of survivalists, who is kept out of school, educates herself enough to leave home for university.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399590504.jpg",
+			"name": "EDUCATED",
+			"publisher": "Random House",
+			"rank": 4
+		},
+		{
+			"author": "by David Grann",
+			"description": "The story of a murder spree in 1920s Oklahoma that targeted Osage Indians, whose lands contained oil.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385534246.jpg",
+			"name": "KILLERS OF THE FLOWER MOON",
+			"publisher": "Doubleday",
+			"rank": 5
+		},
+		{
+			"author": "by Ronan Farrow",
+			"description": "The Pulitzer Prize-winning journalist chronicles the deterioration of American diplomacy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780393652109.jpg",
+			"name": "WAR ON PEACE",
+			"publisher": "Norton",
+			"rank": 6
+		},
+		{
+			"author": "by Madeleine Albright with Bill Woodward",
+			"description": "The former secretary of state examines the legacy of fascism in the 20th century and its potential revival.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062802187.jpg",
+			"name": "FASCISM: A Warning",
+			"publisher": "Harper",
+			"rank": 7
+		},
+		{
+			"author": "by Michael V. Hayden",
+			"description": "A former director of the N.S.A. and the C.I.A. identifies domestic and international threats to the American intelligence community.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525558583.jpg",
+			"name": "THE ASSAULT ON INTELLIGENCE",
+			"publisher": "Penguin Press",
+			"rank": 8
+		},
+		{
+			"author": "by Denise Kiernan",
+			"description": "The story of Biltmore House, the largest mansion ever built in the United States, and the Vanderbilt family members who lived there.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476794044.jpg",
+			"name": "THE LAST CASTLE",
+			"publisher": "Touchstone",
+			"rank": 9
+		},
+		{
+			"author": "by Neil deGrasse Tyson",
+			"description": "A straightforward, easy-to-understand introduction to the laws that govern the universe.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780393609394.jpg",
+			"name": "ASTROPHYSICS FOR PEOPLE IN A HURRY",
+			"publisher": "Norton",
+			"rank": 10
+		},
+		{
+			"author": "by Ainsley Earhardt with Mark Tabb",
+			"description": "A memoir by one of the hosts of \u201cFox & Friends.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062697479.jpg",
+			"name": "THE LIGHT WITHIN ME",
+			"publisher": "Harper",
+			"rank": 11
+		},
+		{
+			"author": "by Hans Rosling with Ola Rosling and Anna Rosling Ronnlund",
+			"description": "A look at our biases and the argument for why the world is in a better state than we might think.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250123817.jpg",
+			"name": "FACTFULNESS",
+			"publisher": "Flatiron",
+			"rank": 12
+		},
+		{
+			"author": "by Pete Souza",
+			"description": "More than 300 pictures of the former president by his White House photographer, with behind-the-scenes stories.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316512589.jpg",
+			"name": "OBAMA",
+			"publisher": "Little, Brown",
+			"rank": 13
+		},
+		{
+			"author": "by Jonah Goldberg",
+			"description": "A senior editor at National Review assesses issues plaguing the left and the right.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101904930.jpg",
+			"name": "SUICIDE OF THE WEST",
+			"publisher": "Crown Forum",
+			"rank": 14
+		},
+		{
+			"author": "by Lawrence Wright",
+			"description": "An exploration of the history, politics and economics of the Lone Star State.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525520108.jpg",
+			"name": "GOD SAVE TEXAS",
+			"publisher": "Knopf",
+			"rank": 15
+		}
+	]
+}

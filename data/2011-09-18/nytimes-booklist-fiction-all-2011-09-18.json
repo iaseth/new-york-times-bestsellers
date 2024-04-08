@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Kathryn Stockett",
+			"description": "A young white woman and two black maids in 1960s Mississippi.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781440697661.jpg",
+			"name": "THE HELP",
+			"publisher": "Penguin Group",
+			"rank": 1
+		},
+		{
+			"author": "by James Patterson and Marshall Karp",
+			"description": "When a young man finds a bag of diamonds, he gets the attention of the Ghost, a major assassin.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316097550.jpg",
+			"name": "KILL ME IF YOU CAN",
+			"publisher": "Little, Brown",
+			"rank": 2
+		},
+		{
+			"author": "by Debbie Macomber",
+			"description": "Bruce Peyton's pregnant wife has left him, and he's not the only one with problems. Book 11 of the Cedar Cove series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780778312512.jpg",
+			"name": "1105 YAKIMA STREET",
+			"publisher": "Mira",
+			"rank": 3
+		},
+		{
+			"author": "by CJ Lyons",
+			"description": "A woman finds no closure after a man is executed for the murder of her husband and son.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/A00B0043M6J92.jpg",
+			"name": "BLIND FAITH",
+			"publisher": "Legacy",
+			"rank": 4
+		},
+		{
+			"author": "by Darcie Chan",
+			"description": "Only one man knows an abused widow's secret, which revealed will change many lives in her Vermont town.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780615523774.jpg",
+			"name": "THE MILL RIVER RECLUSE",
+			"publisher": "Darcie Chan",
+			"rank": 5
+		},
+		{
+			"author": "by Chris Culver",
+			"description": "Against orders, a former homicide detective begins an investigation into his niece's murder.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/A00B004M18ZRS.jpg",
+			"name": "THE ABBEY",
+			"publisher": "Chris Culver",
+			"rank": 6
+		},
+		{
+			"author": "by Michael Connelly",
+			"description": "Routinely doing business from his Lincoln Town Cars, the bottom-feeding attorney Mickey Haller is asked to defend the scion of a wealthy family who might not be guilty of a murderous crime.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455500239.jpg",
+			"name": "THE LINCOLN LAWYER",
+			"publisher": "Little, Brown",
+			"rank": 7
+		},
+		{
+			"author": "by Jayne Castle",
+			"description": "After 15 years, Charlotte Enright and her teenage crush, Slade Attridge, have returned to Rainshadow.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780515149883.jpg",
+			"name": "CANYONS OF NIGHT",
+			"publisher": "Penguin Group",
+			"rank": 8
+		},
+		{
+			"author": "by Tatiana de Rosnay",
+			"description": "A contemporary American journalist investigates what happened to a little girl during the roundup of Jews in Paris in 1942.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780312370848.jpg",
+			"name": "SARAH\u2019S KEY",
+			"publisher": "St. Martin\u2019s",
+			"rank": 9
+		},
+		{
+			"author": "by David Nicholls",
+			"description": "Checking in year by year on the confused, halting romance of two children of the '80s.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307946713.jpg",
+			"name": "ONE DAY",
+			"publisher": "Knopf Doubleday",
+			"rank": 10
+		},
+		{
+			"author": "by Lee Child",
+			"description": "Jack Reacher is stationed with his family on a military base in Okinawa in the mid-1970s.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345529725.jpg",
+			"name": "SECOND SON",
+			"publisher": "Delacorte",
+			"rank": 11
+		},
+		{
+			"author": "by Susan Mallery",
+			"description": "Montana Hendrix has found her calling \u2014 working with therapy dogs. And now perhaps she has found Mr. Right.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780373775941.jpg",
+			"name": "ONLY YOURS",
+			"publisher": "Harlequin",
+			"rank": 12
+		},
+		{
+			"author": "by Jeaniene Frost",
+			"description": "Having narrowly averted an underworld war, Cat Crawfield wants nothing more than a little downtime with her vampire husband, Bones. Unfortunately, she will have to face another battle instead.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780061783197.jpg",
+			"name": "ONE GRAVE AT A TIME",
+			"publisher": "HarperCollins",
+			"rank": 13
+		},
+		{
+			"author": "by George R. R. Martin",
+			"description": "After a colossal battle, the Seven Kingdoms face new threats; Book 5 of \u201cA Song of Ice and Fire.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780553582017.jpg",
+			"name": "A DANCE WITH DRAGONS",
+			"publisher": "Random House",
+			"rank": 14
+		},
+		{
+			"author": "by Stephanie Laurens",
+			"description": "Heather Cynster is to be wed, but not before she encounters kidnapping, danger and a daring rescue at the hands of Viscount Breckenridge.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062066190.jpg",
+			"name": "VISCOUNT BRECKENRIDGE TO THE RESCUE",
+			"publisher": "HarperCollins",
+			"rank": 15
+		}
+	]
+}

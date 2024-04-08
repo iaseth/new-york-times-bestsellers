@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Glennon Doyle",
+			"description": "The activist and public speaker describes her journey of listening to her inner voice.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984801258.jpg",
+			"name": "UNTAMED",
+			"publisher": "Dial",
+			"rank": 1
+		},
+		{
+			"author": "by Robin DiAngelo",
+			"description": "Historical and cultural analyses on what causes defensive moves by white people and how this inhibits cross-racial dialogue.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780807047415.jpg",
+			"name": "WHITE FRAGILITY",
+			"publisher": "Beacon Press",
+			"rank": 2
+		},
+		{
+			"author": "by Ibram X. Kendi",
+			"description": "A primer for creating a more just and equitable society through identifying and opposing racism.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525509288.jpg",
+			"name": "HOW TO BE AN ANTIRACIST",
+			"publisher": "One World",
+			"rank": 3
+		},
+		{
+			"author": "by Judy Mikovits and Kent Heckenlively",
+			"description": "The controversial virologist gives her account of her work over nearly four decades.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781510752245.jpg",
+			"name": "PLAGUE OF CORRUPTION",
+			"publisher": "Skyhorse",
+			"rank": 4
+		},
+		{
+			"author": "by Michelle Obama",
+			"description": "The former first lady describes her journey from the South Side of Chicago to the White House, and how she balanced work, family and her husband\u2019s political ascent.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524763138.jpg",
+			"name": "BECOMING",
+			"publisher": "Crown",
+			"rank": 5
+		},
+		{
+			"author": "by Erik Larson",
+			"description": "An examination of the leadership of the prime minister Winston Churchill.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385348713.jpg",
+			"name": "THE SPLENDID AND THE VILE",
+			"publisher": "Crown",
+			"rank": 6
+		},
+		{
+			"author": "by James Nestor",
+			"description": "A re-examination of a basic biological function and a look at the science behind ancient breathing practices.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735213616.jpg",
+			"name": "BREATH",
+			"publisher": "Riverhead",
+			"rank": 7
+		},
+		{
+			"author": "by Tara Westover",
+			"description": "The daughter of survivalists, who is kept out of school, educates herself enough to leave home for university.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399590504.jpg",
+			"name": "EDUCATED",
+			"publisher": "Random House",
+			"rank": 8
+		},
+		{
+			"author": "by John M. Barry",
+			"description": "An overview of the 1918 flu epidemic and cautionary tale for similar kinds of large-scale outbreaks.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780143036494.jpg",
+			"name": "THE GREAT INFLUENZA",
+			"publisher": "Penguin",
+			"rank": 9
+		},
+		{
+			"author": "by Michelle Alexander",
+			"description": "A law professor takes aim at the \u201cwar on drugs,\u201d mass incarceration and their impact on black men.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781595586438.jpg",
+			"name": "THE NEW JIM CROW",
+			"publisher": "New Press",
+			"rank": 10
+		},
+		{
+			"author": "by Ron Chernow",
+			"description": "A biography of the Union general of the Civil War and two-term president of the United States.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594204876.jpg",
+			"name": "GRANT",
+			"publisher": "Penguin Press",
+			"rank": 11
+		},
+		{
+			"author": "by Mikel Jollett",
+			"description": "The musician and author retraces his time growing up in an experimental commune and the difficulties he encountered after escaping it.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250621566.jpg",
+			"name": "HOLLYWOOD PARK",
+			"publisher": "Celadon",
+			"rank": 12
+		},
+		{
+			"author": "by Ijeoma Oluo",
+			"description": "A look at the contemporary racial landscape of the United States.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781580056786.jpg",
+			"name": "SO YOU WANT TO TALK ABOUT RACE",
+			"publisher": "Seal",
+			"rank": 13
+		},
+		{
+			"author": "by Sonia Purnell",
+			"description": "The true story of a Baltimore socialite who joined a spy organization during World War II and became essential to the French Resistance.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735225299.jpg",
+			"name": "A WOMAN OF NO IMPORTANCE",
+			"publisher": "Viking",
+			"rank": 14
+		},
+		{
+			"author": "by Layla F. Saad",
+			"description": "Ways to understand and possibly counteract white privilege.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781728209807.jpg",
+			"name": "ME AND WHITE SUPREMACY",
+			"publisher": "Sourcebooks",
+			"rank": 15
+		}
+	]
+}

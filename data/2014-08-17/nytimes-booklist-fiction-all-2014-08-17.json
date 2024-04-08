@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Liane Moriarty",
+			"description": "Who will end up dead, and how, when three mothers with children in the same school become friends?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698138636.jpg",
+			"name": "BIG LITTLE LIES",
+			"publisher": "Amy Einhorn/Putnam",
+			"rank": 1
+		},
+		{
+			"author": "by Lee Child",
+			"description": "In this e-book short story, Jack Reacher is on a summer hike when the trail is suddenly closed and the military police show up.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780804178839.jpg",
+			"name": "NOT A DRILL",
+			"publisher": "Delacorte",
+			"rank": 2
+		},
+		{
+			"author": "by Julie Garwood",
+			"description": "A woman faces threats as she searches for the truth about her long-dead mother, aided by her best friend\u2019s attractive older brother.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698157156.jpg",
+			"name": "FAST TRACK",
+			"publisher": "Dutton",
+			"rank": 3
+		},
+		{
+			"author": "by E. L. James",
+			"description": "An innocent college student falls in love with a tortured man with particular sexual tastes; the first of a trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345803481.jpg",
+			"name": "FIFTY SHADES OF GREY",
+			"publisher": "Vintage",
+			"rank": 4
+		},
+		{
+			"author": "by Gillian Flynn",
+			"description": "A woman disappears on the day of her fifth anniversary; is her husband a killer?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307588388.jpg",
+			"name": "GONE GIRL",
+			"publisher": "Crown",
+			"rank": 5
+		},
+		{
+			"author": "by Kylie Scott",
+			"description": "A rock singer goes to rehab, and a new assistant is hired to keep him out of trouble.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781466854215.jpg",
+			"name": "LEAD",
+			"publisher": "St. Martin's Griffin",
+			"rank": 6
+		},
+		{
+			"author": "by Ilona Andrews",
+			"description": "In the seventh Kate Daniels novel, Kate deals with paranormal politics in Atlanta as she prepares the Pack for an attack.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698146402.jpg",
+			"name": "MAGIC BREAKS",
+			"publisher": "Ace",
+			"rank": 7
+		},
+		{
+			"author": "by Donna Tartt",
+			"description": "A painting smuggled out of the Metropolitan Museum of Art after a bombing becomes a boy\u2019s prize, guilt and burden.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316248679.jpg",
+			"name": "THE GOLDFINCH",
+			"publisher": "Little, Brown",
+			"rank": 8
+		},
+		{
+			"author": "by Daniel Silva",
+			"description": "Gabriel Allon, an art restorer and occasional spy for the Israeli secret service, must track down a famous missing painting by Caravaggio.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062320070.jpg",
+			"name": "THE HEIST",
+			"publisher": "Harper",
+			"rank": 9
+		},
+		{
+			"author": "by E. L. James",
+			"description": "Daunted by Christian\u2019s dark secrets, Anastasia ends their relationship \u2014 but desire still dominates her every thought; the second book in a trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345803498.jpg",
+			"name": "FIFTY SHADES DARKER",
+			"publisher": "Vintage",
+			"rank": 10
+		},
+		{
+			"author": "by Lisa Jackson",
+			"description": "Someone in Grizzly Falls, Mont., is killing women and cutting off their ring fingers.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781420135183.jpg",
+			"name": "DESERVES TO DIE",
+			"publisher": "Zebra",
+			"rank": 11
+		},
+		{
+			"author": "by Deborah Harkness",
+			"description": "In the conclusion to the All Souls trilogy, the Oxford scholar/witch Diana Bishop and the vampire geneticist Matthew Clairmont return from Elizabethan London to the present.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698163478.jpg",
+			"name": "THE BOOK OF LIFE",
+			"publisher": "Viking",
+			"rank": 12
+		},
+		{
+			"author": "by Brad Thor",
+			"description": "The counterterrorism operative Scot Harvath undertakes two dangerous missions as America faces an imminent attack.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476717142.jpg",
+			"name": "ACT OF WAR",
+			"publisher": "Emily Bestler/Atria",
+			"rank": 13
+		},
+		{
+			"author": "by James Patterson and David Ellis",
+			"description": "Searching for her sister\u2019s killer, a former F.B.I. researcher finds a link between scores of unsolved cases.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316405409.jpg",
+			"name": "INVISIBLE",
+			"publisher": "Little, Brown",
+			"rank": 14
+		},
+		{
+			"author": "by Christina Baker Kline",
+			"description": "A historical novel about orphans swept off the streets of New York and sent to the Midwest in the 1920s.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062101204.jpg",
+			"name": "ORPHAN TRAIN",
+			"publisher": "Morrow/HarperCollins",
+			"rank": 15
+		}
+	]
+}

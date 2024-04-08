@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Delia Owens",
+			"description": "In a quiet town on the North Carolina coast in 1969, a young woman who survived alone in the marsh becomes a murder suspect.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735219090.jpg",
+			"name": "WHERE THE CRAWDADS SING",
+			"publisher": "Putnam",
+			"rank": 1
+		},
+		{
+			"author": "by Christine Feehan",
+			"description": "The fourth book in the Shadow Riders series. A member of a Chicago crime family falls for a woman during a kidnapping.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984803535.jpg",
+			"name": "SHADOW WARRIOR",
+			"publisher": "Berkley",
+			"rank": 2
+		},
+		{
+			"author": "by James Patterson and David Ellis",
+			"description": "A string of seemingly accidental and unrelated deaths confound F.B.I. agent Emmy Dockery.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316419826.jpg",
+			"name": "UNSOLVED",
+			"publisher": "Little ,Brown",
+			"rank": 3
+		},
+		{
+			"author": "by Elizabeth Gilbert",
+			"description": "An 89-year-old Vivian Morris looks back at the direction her life took when she entered the 1940s New York theater scene.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594634734.jpg",
+			"name": "CITY OF GIRLS",
+			"publisher": "Riverhead",
+			"rank": 4
+		},
+		{
+			"author": "by Neal Stephenson",
+			"description": "A dead multibillionaire\u2019s brain is scanned and turned back on at a time when humans live as digital souls.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062458735.jpg",
+			"name": "FALL; OR DODGE IN HELL",
+			"publisher": "Morrow",
+			"rank": 5
+		},
+		{
+			"author": "by Stuart Woods and Parnell Hall",
+			"description": "The third book in the Teddy Fay series. Teddy Fay scours Paris\u2019s underworld to find a treasonous criminal.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735219168.jpg",
+			"name": "SKIN GAME",
+			"publisher": "Putnam",
+			"rank": 6
+		},
+		{
+			"author": "by Lisa Wingate",
+			"description": "A South Carolina lawyer learns about the questionable practices of a Tennessee orphanage.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780425284681.jpg",
+			"name": "BEFORE WE WERE YOURS",
+			"publisher": "Ballantine",
+			"rank": 7
+		},
+		{
+			"author": "by Nalini Singh",
+			"description": "The third book in the Psy-Changeling Trinity series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984803603.jpg",
+			"name": "WOLF RAIN",
+			"publisher": "Berkley",
+			"rank": 8
+		},
+		{
+			"author": "by Celeste Ng",
+			"description": "An artist upends a quiet town outside Cleveland.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735224308.jpg",
+			"name": "LITTLE FIRES EVERYWHERE",
+			"publisher": "Penguin Press",
+			"rank": 9
+		},
+		{
+			"author": "by Dorothea Benton Frank",
+			"description": "A beekeeper\u2019s quiet life is unsettled by her demanding mother, outgoing sister and neighboring widower.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062861214.jpg",
+			"name": "QUEEN BEE",
+			"publisher": "Morrow",
+			"rank": 10
+		},
+		{
+			"author": "by Pam Jenoff",
+			"description": "Grace Healey investigates the fates of 12 women who were sent to occupied Europe to help the resistance during World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780778330271.jpg",
+			"name": "THE LOST GIRLS OF PARIS",
+			"publisher": "Park Row",
+			"rank": 11
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "The fifth book in the Memory Man series. The first man Amos Decker put behind bars asks to have his name cleared.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538761434.jpg",
+			"name": "REDEMPTION",
+			"publisher": "Grand Central",
+			"rank": 12
+		},
+		{
+			"author": "by Jean Kwok",
+			"description": "An immigrant Chinese family\u2019s secrets emerge as Amy looks for her older sister, who vanished after flying to the Netherlands.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062834331.jpg",
+			"name": "SEARCHING FOR SYLVIE LEE",
+			"publisher": "Morrow",
+			"rank": 13
+		},
+		{
+			"author": "by Heather Morris",
+			"description": "A concentration camp detainee tasked with permanently marking fellow prisoners falls in love with one of them.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062797155.jpg",
+			"name": "THE TATTOOIST OF AUSCHWITZ",
+			"publisher": "Harper",
+			"rank": 14
+		},
+		{
+			"author": "by Lee Child",
+			"description": "Jack Reacher explores the New England town where his father was born and a Canadian couple now find themselves stranded.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399593512.jpg",
+			"name": "PAST TENSE",
+			"publisher": "Bantam/Dell",
+			"rank": 15
+		}
+	]
+}

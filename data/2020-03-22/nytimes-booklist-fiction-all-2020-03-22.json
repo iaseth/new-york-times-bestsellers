@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Sarah J. Maas",
+			"description": "Passion arises between Bryce Quinlan and Hunt Athalar as they seek to avenge the deaths of Bryce\u2019s friends.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781635574043.jpg",
+			"name": "HOUSE OF EARTH AND BLOOD",
+			"publisher": "Bloomsbury",
+			"rank": 1
+		},
+		{
+			"author": "by C.J. Box",
+			"description": "The 20th book in the Joe Pickett series. A grizzly bear attack and an attempted assassination of a local judge baffle the Wyoming game warden.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525538233.jpg",
+			"name": "LONG RANGE",
+			"publisher": "Putnam",
+			"rank": 2
+		},
+		{
+			"author": "by Danielle Steel",
+			"description": "An affair wrecks a marriage and a daughter seeks to get out from her family\u2019s shadow while old dreams and new love are pursued.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399179563.jpg",
+			"name": "THE NUMBERS GAME",
+			"publisher": "Delacorte",
+			"rank": 3
+		},
+		{
+			"author": "by Jeanine Cummins",
+			"description": "A bookseller flees Mexico for the United States with her son while pursued by the head of a drug cartel.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250209764.jpg",
+			"name": "AMERICAN DIRT",
+			"publisher": "Flatiron",
+			"rank": 4
+		},
+		{
+			"author": "by Delia Owens",
+			"description": "In a quiet town on the North Carolina coast in 1969, a young woman who survived alone in the marsh becomes a murder suspect.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735219090.jpg",
+			"name": "WHERE THE CRAWDADS SING",
+			"publisher": "Putnam",
+			"rank": 5
+		},
+		{
+			"author": "by James Patterson and James O. Born",
+			"description": "The 12th book in the Michael Bennett series. A serial-killing spree might impact national security.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316420334.jpg",
+			"name": "BLINDSIDE",
+			"publisher": "Little, Brown",
+			"rank": 6
+		},
+		{
+			"author": "by Christine Feehan",
+			"description": "The 16th book in the GhostWalker series. When Amaryllis is endangered, Malichai\u2019s true identity risks being exposed.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593099773.jpg",
+			"name": "LETHAL GAME",
+			"publisher": "Berkley",
+			"rank": 7
+		},
+		{
+			"author": "by Celeste Ng",
+			"description": "An artist upends a quiet town outside Cleveland.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735224308.jpg",
+			"name": "LITTLE FIRES EVERYWHERE",
+			"publisher": "Penguin Press",
+			"rank": 8
+		},
+		{
+			"author": "by Greer Hendricks and Sarah Pekkanen",
+			"description": "Shay Miller\u2019s bad luck may get even worse when she meets a pair of sisters who always get what they want.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250202031.jpg",
+			"name": "YOU ARE NOT ALONE",
+			"publisher": "St. Martin's",
+			"rank": 9
+		},
+		{
+			"author": "by Donna Leon",
+			"description": "The 29th novel in the Commissario Guido Brunetti series. Circumstances around a motorcycle accident reveal that Venice\u2019s water supply might be at risk.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780802148698.jpg",
+			"name": "TRACE ELEMENTS",
+			"publisher": "Atlantic Monthly",
+			"rank": 10
+		},
+		{
+			"author": "by Alex Michaelides",
+			"description": "Theo Faber looks into the mystery of a famous painter who stops speaking after shooting her husband.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250301697.jpg",
+			"name": "THE SILENT PATIENT",
+			"publisher": "Celadon",
+			"rank": 11
+		},
+		{
+			"author": "by Lily King",
+			"description": "Casey Peabody goes through a big life transition as she tries to maintain a creative life.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780802148537.jpg",
+			"name": "WRITERS & LOVERS",
+			"publisher": "Grove",
+			"rank": 12
+		},
+		{
+			"author": "by Amanda Eyre Ward",
+			"description": "Old pains are unpacked as the fractured Perkins family goes on a trip through Europe.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399181894.jpg",
+			"name": "THE JETSETTERS",
+			"publisher": "Ballantine",
+			"rank": 13
+		},
+		{
+			"author": "by Ann Patchett",
+			"description": "A sibling relationship is impacted when the family goes from poverty to wealth and back again over the course of many decades.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062963673.jpg",
+			"name": "THE DUTCH HOUSE",
+			"publisher": "Harper",
+			"rank": 14
+		},
+		{
+			"author": "by Sally Rooney",
+			"description": "The connection between a high school star athlete and a loner ebbs and flows when they go to Trinity College in Dublin.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984822178.jpg",
+			"name": "NORMAL PEOPLE",
+			"publisher": "Hogarth",
+			"rank": 15
+		}
+	]
+}

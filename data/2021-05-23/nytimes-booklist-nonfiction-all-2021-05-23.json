@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "The 10th book in the conservative commentator\u2019s Killing series looks at organized crime in the United States during the 20th century.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250273659.jpg",
+			"name": "KILLING THE MOB",
+			"publisher": "St. Martin's",
+			"rank": 1
+		},
+		{
+			"author": "by Michael Lewis",
+			"description": "Stories of skeptics who went against the official response of the Trump administration to the outbreak of Covid-19.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780393881554.jpg",
+			"name": "THE PREMONITION",
+			"publisher": "Norton",
+			"rank": 2
+		},
+		{
+			"author": "by Bruce D. Perry and Oprah Winfrey",
+			"description": "An approach to dealing with trauma that shifts an essential question used to investigate it.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250223180.jpg",
+			"name": "WHAT HAPPENED TO YOU?",
+			"publisher": "Flatiron",
+			"rank": 3
+		},
+		{
+			"author": "by Malcolm Gladwell",
+			"description": "A look at the key players and outcomes of precision bombing during World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316296618.jpg",
+			"name": "THE BOMBER MAFIA",
+			"publisher": "Little, Brown",
+			"rank": 4
+		},
+		{
+			"author": "by Suzanne Simard",
+			"description": "An ecologist describes ways trees communicate, cooperate and compete.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525656098.jpg",
+			"name": "FINDING THE MOTHER TREE",
+			"publisher": "Knopf",
+			"rank": 5
+		},
+		{
+			"author": "by Bessel van der Kolk",
+			"description": "How trauma affects the body and mind, and innovative treatments for recovery.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780670785933.jpg",
+			"name": "THE BODY KEEPS THE SCORE",
+			"publisher": "Penguin",
+			"rank": 6
+		},
+		{
+			"author": "by Elizabeth Warren",
+			"description": "The senior senator from Massachusetts shares six influential perspectives that shaped her life and advocacy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250799241.jpg",
+			"name": "PERSIST",
+			"publisher": "Metropolitan/Holt",
+			"rank": 7
+		},
+		{
+			"author": "by Matthew McConaughey",
+			"description": "The Academy Award-winning actor shares snippets from the diaries he kept over the last 35 years.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593139134.jpg",
+			"name": "GREENLIGHTS",
+			"publisher": "Crown",
+			"rank": 8
+		},
+		{
+			"author": "by Glennon Doyle",
+			"description": "The activist and public speaker describes her journey of listening to her inner voice.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984801258.jpg",
+			"name": "UNTAMED",
+			"publisher": "Dial",
+			"rank": 9
+		},
+		{
+			"author": "by Michelle Obama",
+			"description": "The former first lady describes her journey from the South Side of Chicago to the White House, and how she balanced work, family and her husband\u2019s political ascent.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524763138.jpg",
+			"name": "BECOMING",
+			"publisher": "Crown",
+			"rank": 10
+		},
+		{
+			"author": "by Josh Hawley",
+			"description": "The Republican senator from Missouri gives his assessment of Google, Facebook, Amazon and Apple.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781684512393.jpg",
+			"name": "THE TYRANNY OF BIG TECH",
+			"publisher": "Regnery",
+			"rank": 11
+		},
+		{
+			"author": "by Michelle Zauner",
+			"description": "The daughter of a Korean mother and Jewish-American father, and leader of the indie rock project Japanese Breakfast, describes creating her own identity after losing her mother to cancer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525657743.jpg",
+			"name": "CRYING IN H MART",
+			"publisher": "Knopf",
+			"rank": 12
+		},
+		{
+			"author": "by Isabel Wilkerson",
+			"description": "The Pulitzer Prize-winning journalist examines aspects of caste systems across civilizations and reveals a rigid hierarchy in America today.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593230251.jpg",
+			"name": "CASTE",
+			"publisher": "Random House",
+			"rank": 13
+		},
+		{
+			"author": "by Annette Gordon-Reed",
+			"description": "The Pulitzer Prize winner weaves together American history with personal memoir to show the importance of events in Galveston, Texas, on June 19, 1865.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781631498831.jpg",
+			"name": "ON JUNETEENTH",
+			"publisher": "Liveright",
+			"rank": 14
+		},
+		{
+			"author": "by Casey Wilson",
+			"description": "Essays by the actress and comedian on the ups and downs of womanhood and motherhood.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062960580.jpg",
+			"name": "THE WRECKAGE OF MY PRESENCE",
+			"publisher": "Harper",
+			"rank": 15
+		}
+	]
+}

@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Mark R. Levin",
+			"description": "The conservative commentator and radio host makes his case that the press is aligned with political ideology.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476773094.jpg",
+			"name": "UNFREEDOM OF THE PRESS",
+			"publisher": "Threshold Editions",
+			"rank": 1
+		},
+		{
+			"author": "by Michael Wolff",
+			"description": "The author of \u201cFire and Fury\u201d weaves a story of the second year of the Trump White House.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250253828.jpg",
+			"name": "SIEGE",
+			"publisher": "Holt",
+			"rank": 2
+		},
+		{
+			"author": "by Tara Westover",
+			"description": "The daughter of survivalists, who is kept out of school, educates herself enough to leave home for university.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399590504.jpg",
+			"name": "EDUCATED",
+			"publisher": "Random House",
+			"rank": 3
+		},
+		{
+			"author": "with related materials by The Washington Post",
+			"description": "Redacted findings from the special counsel\u2019s investigation into Russian interference in the 2016 presidential election and potential obstruction of justice by the president.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982129736.jpg",
+			"name": "THE MUELLER REPORT",
+			"publisher": "Scribner",
+			"rank": 4
+		},
+		{
+			"author": "by David McCullough",
+			"description": "The Pulitzer Prize-winning historian tells the story of the settling of the Northwest Territory through five main characters.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501168680.jpg",
+			"name": "THE PIONEERS",
+			"publisher": "Simon & Schuster",
+			"rank": 5
+		},
+		{
+			"author": "by Howard Stern",
+			"description": "The radio interviewer delves into some of his favorite on-air conversations from the past four decades of his career.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501194290.jpg",
+			"name": "HOWARD STERN COMES AGAIN",
+			"publisher": "Simon & Schuster",
+			"rank": 6
+		},
+		{
+			"author": "by Michelle Obama",
+			"description": "The former first lady describes her journey from the South Side of Chicago to the White House, and how she balanced work, family and her husband\u2019s political ascent.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524763138.jpg",
+			"name": "BECOMING",
+			"publisher": "Crown",
+			"rank": 7
+		},
+		{
+			"author": "by William H. McRaven",
+			"description": "A memoir by the retired four-star Navy admiral, including the capture of Saddam Hussein and the raid to kill Osama bin Laden.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538729748.jpg",
+			"name": "SEA STORIES",
+			"publisher": "Grand Central",
+			"rank": 8
+		},
+		{
+			"author": "by David Epstein",
+			"description": "An argument for how generalists excel more than specialists, especially in complex and unpredictable fields.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735214484.jpg",
+			"name": "RANGE",
+			"publisher": "Riverhead",
+			"rank": 9
+		},
+		{
+			"author": "by Melinda Gates",
+			"description": "The philanthropist shares stories of empowering women to improve society.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250240521.jpg",
+			"name": "THE MOMENT OF LIFT",
+			"publisher": "Flatiron",
+			"rank": 10
+		},
+		{
+			"author": "by Rick Atkinson",
+			"description": "The Pulitzer Prize-winning historian and journalist begins his Revolution Trilogy with events from 1775 to 1777.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781627790437.jpg",
+			"name": "THE BRITISH ARE COMING",
+			"publisher": "Holt",
+			"rank": 11
+		},
+		{
+			"author": "by George F. Will",
+			"description": "The Pulitzer Prize-winning columnist describes what he considers to be threats to conservatism.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316480932.jpg",
+			"name": "THE CONSERVATIVE SENSIBILITY",
+			"publisher": "Hachette",
+			"rank": 12
+		},
+		{
+			"author": "by Trevor Noah",
+			"description": "A memoir about growing up biracial in apartheid South Africa by the host of \u201cThe Daily Show.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399588181.jpg",
+			"name": "BORN A CRIME",
+			"publisher": "Spiegel & Grau",
+			"rank": 13
+		},
+		{
+			"author": "with an introduction by Alan Dershowitz",
+			"description": "Redacted findings from the special counsel\u2019s investigation into Russian interference in the 2016 presidential election and potential obstruction of justice by the president.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781510750173.jpg",
+			"name": "THE MUELLER REPORT",
+			"publisher": "Skyhorse",
+			"rank": 14
+		},
+		{
+			"author": "by Sonia Purnell",
+			"description": "The true story of a Baltimore socialite who joined a spy organization during World War II and became essential to the French Resistance.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735225299.jpg",
+			"name": "A WOMAN OF NO IMPORTANCE",
+			"publisher": "Viking",
+			"rank": 15
+		}
+	]
+}

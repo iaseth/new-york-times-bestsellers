@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Britney Spears",
+			"description": "The Grammy Award-winning pop star details her personal and professional experiences, including the years she spent under a conservatorship overseen by her father.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781668009048.jpg",
+			"name": "THE WOMAN IN ME",
+			"publisher": "Gallery",
+			"rank": 1
+		},
+		{
+			"author": "by David Grann",
+			"description": "The story of a murder spree in 1920s Oklahoma that targeted Osage Indians, whose lands contained oil.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385534246.jpg",
+			"name": "KILLERS OF THE FLOWER MOON",
+			"publisher": "Doubleday",
+			"rank": 2
+		},
+		{
+			"author": "by McKay Coppins",
+			"description": "A staff writer at The Atlantic profiles the Republican senator from Utah and former governor of Massachusetts.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982196202.jpg",
+			"name": "ROMNEY",
+			"publisher": "Scribner",
+			"rank": 3
+		},
+		{
+			"author": "by Rachel Maddow",
+			"description": "The MSNBC host and co-author of \u201cBag Man\u201d details a campaign to overthrow the U.S. government and install authoritarian rule prior to and during our involvement in World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593444511.jpg",
+			"name": "PREQUEL",
+			"publisher": "Crown",
+			"rank": 4
+		},
+		{
+			"author": "by John Stamos with Daphne Young",
+			"description": "A memoir by the star of \u201cFull House,\u201d \u201cER\u201d and \u201cGeneral Hospital.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250890979.jpg",
+			"name": "IF YOU WOULD HAVE TOLD ME",
+			"publisher": "Holt",
+			"rank": 5
+		},
+		{
+			"author": "by Walter Isaacson",
+			"description": "The author of \u201cThe Code Breaker\u201d traces Musk\u2019s life and summarizes his work on electric vehicles, private space exploration and artificial intelligence.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982181284.jpg",
+			"name": "ELON MUSK",
+			"publisher": "Simon & Schuster",
+			"rank": 6
+		},
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "The 13th book in the conservative commentator\u2019s Killing series gives a portrayal of the events of 1692 and 1693 in Salem Village, Mass.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250283320.jpg",
+			"name": "KILLING THE WITCHES",
+			"publisher": "St. Martin's",
+			"rank": 7
+		},
+		{
+			"author": "by Mary Beard",
+			"description": "The author of \u201cSPQR\u201d questions some assumptions about imperial power as she examines the social and political world of Roman emperors.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780871404220.jpg",
+			"name": "EMPEROR OF ROME",
+			"publisher": "Liveright",
+			"rank": 8
+		},
+		{
+			"author": "by Bessel van der Kolk",
+			"description": "How trauma affects the body and mind, and innovative treatments for recovery.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780670785933.jpg",
+			"name": "THE BODY KEEPS THE SCORE",
+			"publisher": "Penguin",
+			"rank": 9
+		},
+		{
+			"author": "by Cassidy Hutchinson",
+			"description": "The former special assistant to President Trump and his chief of staff, Mark Meadows, details events surrounding the crisis of conscience she faced.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781668028285.jpg",
+			"name": "ENOUGH",
+			"publisher": "Simon & Schuster",
+			"rank": 10
+		},
+		{
+			"author": "by Hadley Vlahos",
+			"description": "A hospice nurse shares some of her most impactful experiences and questions some of society's beliefs around end-of-life care.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593499931.jpg",
+			"name": "THE IN-BETWEEN",
+			"publisher": "Ballantine",
+			"rank": 11
+		},
+		{
+			"author": "by Michael Lewis",
+			"description": "The author of \u201cThe Big Short\u201d and \u201cThe Premonition\u201d chronicles the rise and fall of Sam Bankman-Fried and FTX.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781324074335.jpg",
+			"name": "GOING INFINITE",
+			"publisher": "Norton",
+			"rank": 12
+		},
+		{
+			"author": "by Peter Attia with Bill Gifford",
+			"description": "A look at recent scientific research on aging and longevity.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593236598.jpg",
+			"name": "OUTLIVE",
+			"publisher": "Harmony",
+			"rank": 13
+		},
+		{
+			"author": "by Jada Pinkett Smith",
+			"description": "The actress and talk-show host describes personal and professional difficulties she encountered and her journey to finding self-love.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063320680.jpg",
+			"name": "WORTHY",
+			"publisher": "Dey Street",
+			"rank": 14
+		},
+		{
+			"author": "by Harry Dunn",
+			"description": "A memoir by a Capitol Police officer who was on duty on Jan. 6.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780306831133.jpg",
+			"name": "STANDING MY GROUND",
+			"publisher": "Hachette",
+			"rank": 15
+		}
+	]
+}

@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Paula Hawkins",
+			"description": "In this psychological thriller by the author of \u201cThe Girl on the Train,\u201d women are found drowned in a river in an English town.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735211216.jpg",
+			"name": "INTO THE WATER",
+			"publisher": "Riverhead",
+			"rank": 1
+		},
+		{
+			"author": "by Helen Hardt",
+			"description": "More Steel family secrets are revealed as Melanie gains confidence in her love for guilt-plagued Jonah.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/A00B01L9WY8PU.jpg",
+			"name": "SURRENDER",
+			"publisher": "Waterhouse",
+			"rank": 2
+		},
+		{
+			"author": "by Lee Child",
+			"description": "A complete collection of Jack Reacher stories.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399593581.jpg",
+			"name": "NO MIDDLE NAME",
+			"publisher": "Delacorte",
+			"rank": 3
+		},
+		{
+			"author": "by Stephen King and Richard Chizmar",
+			"description": "King returns to Castle Rock, Me., in this novella set in 1974.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781587676109.jpg",
+			"name": "GWENDY'S BUTTON BOX",
+			"publisher": "Cemetery Dance",
+			"rank": 4
+		},
+		{
+			"author": "by James Patterson and Maxine Paetro",
+			"description": "In San Francisco, Detective Lindsay Boxer and the Women\u2019s Murder Club face their toughest case yet.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316553452.jpg",
+			"name": "16TH SEDUCTION",
+			"publisher": "Little, Brown",
+			"rank": 5
+		},
+		{
+			"author": "by Margaret Atwood",
+			"description": "In a dystopian future, men and women perform the services assigned to them. Originally published in 1986.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780547345666.jpg",
+			"name": "THE HANDMAID'S TALE",
+			"publisher": "Houghton Mifflin Harcourt",
+			"rank": 6
+		},
+		{
+			"author": "by Dorothea Benton Frank",
+			"description": "Two couples form a lifelong friendship during their annual reunions on one of South Carolina\u2019s barrier islands.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062390806.jpg",
+			"name": "SAME BEACH, NEXT YEAR",
+			"publisher": "Morrow",
+			"rank": 7
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "The detective Amos Decker (\u201cMemory Man\u201d) witnesses a murder-suicide that turns out to be a matter of national security.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455586561.jpg",
+			"name": "THE FIX",
+			"publisher": "Grand Central",
+			"rank": 8
+		},
+		{
+			"author": "by Lee Child",
+			"description": "Jack Reacher, still in the Army, becomes involved in an investigation with elite agents from the F.B.I. and C.I.A.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780804178815.jpg",
+			"name": "NIGHT SCHOOL",
+			"publisher": "Delacorte",
+			"rank": 9
+		},
+		{
+			"author": "by Scott Turow",
+			"description": "A former Illinois prosecutor joins the International Criminal Court to investigate a massacre in Bosnia.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455553549.jpg",
+			"name": "TESTIMONY",
+			"publisher": "Grand Central",
+			"rank": 10
+		},
+		{
+			"author": "by Lincoln Child",
+			"description": "Could hikers in the Adirondacks have been killed by werewolves?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385531436.jpg",
+			"name": "FULL WOLF MOON",
+			"publisher": "Doubleday",
+			"rank": 11
+		},
+		{
+			"author": "by Penelope Sky",
+			"description": "After Pearl's retreat to New York City, the conflicted Crow follows.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/A00B01MSJEQRO.jpg",
+			"name": "BUTTONS AND PAIN",
+			"publisher": "Penelope Sky",
+			"rank": 12
+		},
+		{
+			"author": "by John Sandford",
+			"description": "Lucas Davenport, now a U.S. Marshal, pursues a thief who robbed a drug cartel and killed a child in Biloxi, Miss.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399184581.jpg",
+			"name": "GOLDEN PREY",
+			"publisher": "Putnam",
+			"rank": 13
+		},
+		{
+			"author": "by Ruth Ware",
+			"description": "A travel writer on a cruise is certain she has heard a body thrown overboard, but no one believes her.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501132940.jpg",
+			"name": "THE WOMAN IN CABIN 10",
+			"publisher": "Scout",
+			"rank": 14
+		},
+		{
+			"author": "by Martha Hall Kelly",
+			"description": "A story of three women\u2019s lives during and after World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101883075.jpg",
+			"name": "LILAC GIRLS",
+			"publisher": "Ballantine",
+			"rank": 15
+		}
+	]
+}

@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Mindy Kaling",
+			"description": "More personal essays from the comedian and actress.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780804138154.jpg",
+			"name": "WHY NOT ME?",
+			"publisher": "Crown Archetype",
+			"rank": 1
+		},
+		{
+			"author": "by Daniel James Brown",
+			"description": "The University of Washington\u2019s eight-oar crew and their quest for gold at the 1936 Berlin Olympics.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101622742.jpg",
+			"name": "THE BOYS IN THE BOAT",
+			"publisher": "Penguin",
+			"rank": 2
+		},
+		{
+			"author": "by Suzy Favor Hamilton with Sarah Tomlinson",
+			"description": "Bipolar disorder drove a former Olympic runner to become a high-priced Las Vegas escort until she received treatment.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062346223.jpg",
+			"name": "FAST GIRL",
+			"publisher": "Dey St./Morrow",
+			"rank": 3
+		},
+		{
+			"author": "by Ta-Nehisi Coates",
+			"description": "A meditation on race in America as well as a personal story by the national correspondent of The Atlantic, framed as a letter to his teenage son.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780679645986.jpg",
+			"name": "BETWEEN THE WORLD AND ME",
+			"publisher": "Spiegel & Grau",
+			"rank": 4
+		},
+		{
+			"author": "by Bill Bryson",
+			"description": "A journey to rediscover America by trekking the 2,100 miles of the Appalachian Trail. First published in 1998; now a movie.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307717832.jpg",
+			"name": "A WALK IN THE WOODS",
+			"publisher": "Broadway",
+			"rank": 5
+		},
+		{
+			"author": "by Caroline Moorehead",
+			"description": "The fate of 230 Frenchwomen, members of the Resistance, sent to Auschwitz in 1943; originally published in 2011.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062097767.jpg",
+			"name": "A TRAIN IN WINTER",
+			"publisher": "Harper",
+			"rank": 6
+		},
+		{
+			"author": "by David McCullough",
+			"description": "The story of the bicycle mechanics from Ohio who ushered in the age of flight.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476728742.jpg",
+			"name": "THE WRIGHT BROTHERS",
+			"publisher": "Simon & Schuster",
+			"rank": 7
+		},
+		{
+			"author": "by Atul Gawande",
+			"description": "The surgeon and New Yorker writer considers how doctors fail patients at the end of life, and how they can do better.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780805095159.jpg",
+			"name": "BEING MORTAL",
+			"publisher": "Metropolitan/Holt",
+			"rank": 8
+		},
+		{
+			"author": "by Mary Karr",
+			"description": "The author of \u201cThe Liars\u2019 Club,\u201d \u2009\u201cCherry\u201d and \u201cLit\u201d offers instruction in memoir-writing and discusses her favorite writers\u2019 work.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062223067.jpg",
+			"name": "THE ART OF MEMOIR",
+			"publisher": "Harper",
+			"rank": 9
+		},
+		{
+			"author": "by Malala Yousafzai with Christina Lamb",
+			"description": "The experience of the Pakistani girl who advocated for women\u2019s education and was shot by the Taliban.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316322409.jpg",
+			"name": "I AM MALALA",
+			"publisher": "Little, Brown",
+			"rank": 10
+		},
+		{
+			"author": "by Glenn Beck",
+			"description": "The talk-radio host looks to Muslim teachings for the roots of Islamic extremism.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501126130.jpg",
+			"name": "IT IS ABOUT ISLAM",
+			"publisher": "Threshold Editions/Mercury Radio Arts",
+			"rank": 11
+		},
+		{
+			"author": "by Aziz Ansari with Eric Klinenberg",
+			"description": "The comedian enlists a sociologist to help him understand today\u2019s dating scene.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698179967.jpg",
+			"name": "MODERN ROMANCE",
+			"publisher": "Penguin Press",
+			"rank": 12
+		},
+		{
+			"author": "by Nadia Bolz-Weber",
+			"description": "A comic turned pastor documents encounters with grace and finding divinity in unlikely places.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781601427557.jpg",
+			"name": "ACCIDENTAL SAINTS",
+			"publisher": "Convergent",
+			"rank": 13
+		},
+		{
+			"author": "by David Brock",
+			"description": "A former right-wing operative describes his transformation and passionately defends Hillary Clinton",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455533763.jpg",
+			"name": "KILLING THE MESSENGER",
+			"publisher": "Twelve",
+			"rank": 14
+		},
+		{
+			"author": "by Dick Lehr and Gerald O'Neill",
+			"description": "The consequences of the Boston F.B.I.'s protection of James (Whitey) Bulger, the head of the Irish mob. Originally published in 2000; now a movie.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781610395533.jpg",
+			"name": "BLACK MASS",
+			"publisher": "PublicAffairs",
+			"rank": 15
+		}
+	]
+}

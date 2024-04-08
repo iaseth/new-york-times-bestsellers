@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by John Grisham",
+			"description": "A sequel, about race and inheritance, to \u201cA Time to Kill.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385537926.jpg",
+			"name": "SYCAMORE ROW",
+			"publisher": "Doubleday",
+			"rank": 1
+		},
+		{
+			"author": "by Donna Tartt",
+			"description": "A painting smuggled out of the Metropolitan Museum of Art after a bombing becomes a boy\u2019s prize, guilt and burden.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316248679.jpg",
+			"name": "THE GOLDFINCH",
+			"publisher": "Little, Brown",
+			"rank": 2
+		},
+		{
+			"author": "by Orson Scott Card",
+			"description": "Government agencies breed child geniuses and train them as soldiers. Originally published in 1985.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812550702.jpg",
+			"name": "ENDER'S GAME",
+			"publisher": "Tor/Tom Doherty",
+			"rank": 3
+		},
+		{
+			"author": "by Wally Lamb",
+			"description": "About to marry the woman who is her gallery owner, a divorced artist and mother must confront secrets from her past.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062199027.jpg",
+			"name": "WE ARE WATER",
+			"publisher": "Harper",
+			"rank": 4
+		},
+		{
+			"author": "by Liane Moriarty",
+			"description": "A woman\u2019s life is upended when she discovers a letter from her husband she was not meant to read.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101636237.jpg",
+			"name": "THE HUSBAND'S SECRET",
+			"publisher": "Amy Einhorn/Putnam",
+			"rank": 5
+		},
+		{
+			"author": "by Stephen King",
+			"description": "Now grown up, Dan, the boy with psycho-intuitive powers in \u201cThe Shining,\u201d helps another child with a spectacular gift.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451698855.jpg",
+			"name": "DOCTOR SLEEP",
+			"publisher": "Scribner",
+			"rank": 6
+		},
+		{
+			"author": "by Jessica Sorensen",
+			"description": "Lila Summers and Ethan Gregory are close friends, but will they become even closer?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455574902.jpg",
+			"name": "THE TEMPTATION OF LILA AND ETHAN",
+			"publisher": "Grand Central",
+			"rank": 7
+		},
+		{
+			"author": "by Nicholas Sparks",
+			"description": "The lives of two couples converge unexpectedly.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455520640.jpg",
+			"name": "THE LONGEST RIDE",
+			"publisher": "Grand Central",
+			"rank": 8
+		},
+		{
+			"author": "by John Sandford",
+			"description": "The Minnesota investigator Virgil Flowers becomes involved in the hunt for an ancient inscribed stone smuggled out of the Middle East.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399159305.jpg",
+			"name": "STORM FRONT",
+			"publisher": "Putnam",
+			"rank": 9
+		},
+		{
+			"author": "by Scott Turow",
+			"description": "Paul Giannis, running for mayor of Kindle County, is accused of having played a role in the murder of his identical twin brother\u2019s girlfriend \u2014 for which his brother, Cass, has already served time.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455527212.jpg",
+			"name": "IDENTICAL",
+			"publisher": "Grand Central",
+			"rank": 10
+		},
+		{
+			"author": "by J.C. Reed",
+			"description": "Continuing the story of Brooke Stewart and Jett Mayfield begun in \"Surrender Your Love\" and \"Conquer Your Love.\"",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/A00B00FVAKOY6.jpg",
+			"name": "TREASURE YOUR LOVE",
+			"publisher": "J.C. Reed",
+			"rank": 11
+		},
+		{
+			"author": "by James Patterson and Michael Ledwidge",
+			"description": "Detective Michael Bennett, living with his 10 adopted children on a California farm, is pursued by the head of a Mexican drug cartel he once put in jail.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316211017.jpg",
+			"name": "GONE",
+			"publisher": "Little, Brown",
+			"rank": 12
+		},
+		{
+			"author": "by E. L. James",
+			"description": "An innocent college student falls in love with a tortured man with particular sexual tastes; the first of a trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345803481.jpg",
+			"name": "FIFTY SHADES OF GREY",
+			"publisher": "Vintage",
+			"rank": 13
+		},
+		{
+			"author": "by John Grisham",
+			"description": "An imprisoned ex-lawyer schemes to exchange information about who murdered a judge for his freedom.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385536882.jpg",
+			"name": "THE RACKETEER",
+			"publisher": "Doubleday",
+			"rank": 14
+		},
+		{
+			"author": "by Gillian Flynn",
+			"description": "A woman disappears on the day of her fifth anniversary; is her husband a killer?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307588388.jpg",
+			"name": "GONE GIRL",
+			"publisher": "Crown",
+			"rank": 15
+		}
+	]
+}

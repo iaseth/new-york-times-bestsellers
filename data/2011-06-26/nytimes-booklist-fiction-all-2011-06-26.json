@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Kathryn Stockett",
+			"description": "A young white woman and two black maids in 1960s Mississippi.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781440697661.jpg",
+			"name": "THE HELP",
+			"publisher": "Penguin Group",
+			"rank": 1
+		},
+		{
+			"author": "by Laurell K. Hamilton",
+			"description": "The Mother of All Darkness stalks the vampire hunter Anita Blake, who is pursuing a serial killer in the Pacific Northwest.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780515150896.jpg",
+			"name": "HIT LIST",
+			"publisher": "Penguin Group",
+			"rank": 2
+		},
+		{
+			"author": "by Sara Gruen",
+			"description": "After his parents are killed in a car accident, a young veterinary student \u2014 and an elephant \u2014 save a Depression-era circus.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781616200718.jpg",
+			"name": "WATER FOR ELEPHANTS",
+			"publisher": "Algonquin",
+			"rank": 3
+		},
+		{
+			"author": "by Ann Patchett",
+			"description": "In the Amazon basin, a medical researcher searches for her former mentor, a despotic scientist who is developing a miracle fertility drug.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062049827.jpg",
+			"name": "STATE OF WONDER",
+			"publisher": "HarperCollins",
+			"rank": 4
+		},
+		{
+			"author": "by Clive Cussler with Grant Blackwood",
+			"description": "Husband-and-wife treasure hunters travel to Asia in an adventure involving missing persons, black-market fossils and the ancient Tibetan kingdom of Mustang.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399157424.jpg",
+			"name": "THE KINGDOM",
+			"publisher": "Penguin Group",
+			"rank": 5
+		},
+		{
+			"author": "by John Sandford",
+			"description": "The Minneapolis detective Lucas Davenport investigates the murders of two girls who were kidnapped in 1985.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780425247891.jpg",
+			"name": "BURIED PREY",
+			"publisher": "Penguin Group",
+			"rank": 6
+		},
+		{
+			"author": "by James Patterson and Maxine Paetro",
+			"description": "Detective Lindsay Boxer and the Women\u2019s Murder Club race to find a missing baby.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316126946.jpg",
+			"name": "10TH ANNIVERSARY",
+			"publisher": "Little, Brown",
+			"rank": 7
+		},
+		{
+			"author": "by George R.R. Martin",
+			"description": "In the frozen wastes to the north of Winterfell, sinister and supernatural forces are mustering.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780553897845.jpg",
+			"name": "A GAME OF THRONES",
+			"publisher": "Random House",
+			"rank": 8
+		},
+		{
+			"author": "by Emily Giffin",
+			"description": "A maid of honor to her charmed friend, Rachel White has always played by the rules. But that changes on her 30th birthday.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780312600723.jpg",
+			"name": "SOMETHING BORROWED",
+			"publisher": "St. Martin's",
+			"rank": 9
+		},
+		{
+			"author": "by Barbara Freethy",
+			"description": "Three sailboat-racing sisters close ranks against a tenacious reporter who digs into a devastating secret from their past.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780983599333.jpg",
+			"name": "SUMMER SECRETS",
+			"publisher": "Recorded Books",
+			"rank": 10
+		},
+		{
+			"author": "by Susanna Kearsley",
+			"description": "A novelist writing about James Stuart\u2019s claim to the throne wonders if she is being inspired by ancestral memory.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781402261084.jpg",
+			"name": "THE WINTER SEA",
+			"publisher": "Sourcebooks",
+			"rank": 11
+		},
+		{
+			"author": "by Emma Donoghue",
+			"description": "The entire world of the 5-year-old boy who narrates this novel is the 11-by-11-foot room in which his mother is being held prisoner.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316223232.jpg",
+			"name": "ROOM",
+			"publisher": "Little, Brown",
+			"rank": 12
+		},
+		{
+			"author": "by Mary Kay Andrews",
+			"description": "Three friends in their mid-30s spend a month on the Outer Banks of North Carolina.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781429987059.jpg",
+			"name": "SUMMER RENTAL",
+			"publisher": "St. Martin's",
+			"rank": 13
+		},
+		{
+			"author": "by Charlaine Harris",
+			"description": "The telepathic waitress Sookie Stackhouse seeks the culprit in a firebombing.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781937007355.jpg",
+			"name": "DEAD RECKONING",
+			"publisher": "Penguin Group",
+			"rank": 14
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "The lawyer for an alleged serial killer is murdered, and two former Secret Service agents are on the case.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780446573092.jpg",
+			"name": "THE SIXTH MAN",
+			"publisher": "Grand Central",
+			"rank": 15
+		}
+	]
+}

@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Kristin Hannah",
+			"description": "In 1965, a nursing student follows her brother to serve during the Vietnam War and returns to a divided America.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250178633.jpg",
+			"name": "THE WOMEN",
+			"publisher": "St. Martin's",
+			"rank": 1
+		},
+		{
+			"author": "by Freida McFadden",
+			"description": "A math teacher at Caseham High suspects there is more going on behind a scandal involving a teacher and a student.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781728296210.jpg",
+			"name": "THE TEACHER",
+			"publisher": "Poisoned Pen",
+			"rank": 2
+		},
+		{
+			"author": "by Sarah J. Maas",
+			"description": "The third book in the Crescent City series. Bryce wants to return home while Hunt is trapped in Asteri's dungeons.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781635574104.jpg",
+			"name": "HOUSE OF FLAME AND SHADOW",
+			"publisher": "Bloomsbury",
+			"rank": 3
+		},
+		{
+			"author": "by Ali Hazelwood",
+			"description": "Issues of trust arise when an alliance is made between a Vampyre named Misery Lark and a Were named Lowe Moreland.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593550403.jpg",
+			"name": "BRIDE",
+			"publisher": "Berkley",
+			"rank": 4
+		},
+		{
+			"author": "by Rebecca Yarros",
+			"description": "Violet Sorrengail is urged by the commanding general, who also is her mother, to become a candidate for the elite dragon riders.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781649374042.jpg",
+			"name": "FOURTH WING",
+			"publisher": "Red Tower",
+			"rank": 5
+		},
+		{
+			"author": "by Rebecca Yarros",
+			"description": "The second book in the Empyrean series. Violet Sorrengail\u2019s next round of training might require her to betray the man she loves.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781649374172.jpg",
+			"name": "IRON FLAME",
+			"publisher": "Red Tower",
+			"rank": 6
+		},
+		{
+			"author": "by Sarah J. Maas",
+			"description": "Passion arises between Bryce Quinlan and Hunt Athalar as they seek to avenge the deaths of Bryce\u2019s friends.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781635574043.jpg",
+			"name": "HOUSE OF EARTH AND BLOOD",
+			"publisher": "Bloomsbury",
+			"rank": 7
+		},
+		{
+			"author": "by James McBride",
+			"description": "Secrets held by the residents of a dilapidated neighborhood come to life when a skeleton is found at the bottom of a well.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593422946.jpg",
+			"name": "THE HEAVEN & EARTH GROCERY STORE",
+			"publisher": "Riverhead",
+			"rank": 8
+		},
+		{
+			"author": "by Jonathan Kellerman",
+			"description": "The 39th book in the Alex Delaware series. Milo and Alex dig up the pasts of two homicide victims found in Bel Air.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593497678.jpg",
+			"name": "THE GHOST ORCHID",
+			"publisher": "Ballantine",
+			"rank": 9
+		},
+		{
+			"author": "by Freida McFadden",
+			"description": "Troubles surface when a woman looking to make a fresh start takes a job in the home of the Winchesters.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538742570.jpg",
+			"name": "THE HOUSEMAID",
+			"publisher": "Grand Central",
+			"rank": 10
+		},
+		{
+			"author": "by Ashley Elston",
+			"description": "A woman who works for a mysterious boss takes on a new identity to dig up information on someone.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593492918.jpg",
+			"name": "FIRST LIE WINS",
+			"publisher": "Pamela Dorman",
+			"rank": 11
+		},
+		{
+			"author": "by Sarah J. Maas",
+			"description": "The fifth book in the Court of Thorns and Roses series. Nesta Archeron is forced into close quarters with a warrior named Cassian.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781681196282.jpg",
+			"name": "A COURT OF SILVER FLAMES",
+			"publisher": "Bloomsbury",
+			"rank": 12
+		},
+		{
+			"author": "by Hannah Grace",
+			"description": "Anastasia might need the help of the captain of a college hockey team to get on the Olympic figure skating team.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781668026038.jpg",
+			"name": "ICEBREAKER",
+			"publisher": "Atria",
+			"rank": 13
+		},
+		{
+			"author": "by Sarah J. Maas",
+			"description": "The second book in the Crescent City series. Bryce Quinlan and Hunt Athalar must choose to fight or stay silent.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781635574074.jpg",
+			"name": "HOUSE OF SKY AND BREATH",
+			"publisher": "Bloomsbury",
+			"rank": 14
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "A battered wife raised in a violent home attempts to halt the cycle of abuse.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501110375.jpg",
+			"name": "IT ENDS WITH US",
+			"publisher": "Atria",
+			"rank": 15
+		}
+	]
+}

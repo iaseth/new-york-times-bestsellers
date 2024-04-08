@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Diane Ackerman",
+			"description": "How a Warsaw couple sheltered Jews and members of the Resistance during World War II. Originally published in 2007; now the basis of a movie,",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780393333060.jpg",
+			"name": "THE ZOOKEEPER\u2019S WIFE",
+			"publisher": "Norton",
+			"rank": 1
+		},
+		{
+			"author": "by J.D. Vance",
+			"description": "A Yale Law School graduate looks at the struggles of the white working class through the story of his own childhood in the Rust Belt.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062300560.jpg",
+			"name": "HILLBILLY ELEGY",
+			"publisher": "HarperCollins",
+			"rank": 2
+		},
+		{
+			"author": "by the Dalai Lama and Desmond Tutu with Douglas Abrams",
+			"description": "A discussion between two spiritual leaders about how to find joy in the face of suffering.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399185045.jpg",
+			"name": "THE BOOK OF JOY",
+			"publisher": "Avery",
+			"rank": 3
+		},
+		{
+			"author": "by Margot Lee Shetterly",
+			"description": "The story of the black women mathematicians at then-segregated NASA and its precursor. The basis of the movie.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062363619.jpg",
+			"name": "HIDDEN FIGURES",
+			"publisher": "Morrow/HarperCollins",
+			"rank": 4
+		},
+		{
+			"author": "by Chris Hayes",
+			"description": "The MSNC host discusses race relations with a focus on the differences in policing in the white nation and its black colony.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780393254228.jpg",
+			"name": "A COLONY IN A NATION",
+			"publisher": "Norton",
+			"rank": 5
+		},
+		{
+			"author": "by Timothy Snyder",
+			"description": "Twenty lessons from the 20th century about the course of tyranny.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780804190114.jpg",
+			"name": "ON TYRANNY",
+			"publisher": "Tim Duggan",
+			"rank": 6
+		},
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "The host of \u201cThe O\u2019Reilly Factor\u201d recounts the final years of World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781627790635.jpg",
+			"name": "KILLING THE RISING SUN",
+			"publisher": "Holt",
+			"rank": 7
+		},
+		{
+			"author": "by Yuval Noah Harari",
+			"description": "How Homo sapiens became Earth\u2019s dominant species.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062316097.jpg",
+			"name": "SAPIENS",
+			"publisher": "Harper",
+			"rank": 8
+		},
+		{
+			"author": "by Michael Finkel",
+			"description": "The story of a hermit who lived by stealing food in the Maine woods for 27 years until caught in 2013.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101875681.jpg",
+			"name": "THE STRANGER IN THE WOODS",
+			"publisher": "Knopf",
+			"rank": 9
+		},
+		{
+			"author": "by Michael Savage",
+			"description": "The radio host discusses the challenges President Trump faces as he strives to fulfill his promises.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781478976677.jpg",
+			"name": "TRUMP'S WAR",
+			"publisher": "Center Street",
+			"rank": 10
+		},
+		{
+			"author": "by Alyssa Mastromonaco with Lauren Oyler",
+			"description": "A memoir by an aide to Barack Obama for 10 years, starting in her 20s.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455588220.jpg",
+			"name": "WHO THOUGHT THIS WAS A GOOD IDEA?",
+			"publisher": "Twelve",
+			"rank": 11
+		},
+		{
+			"author": "by George W. Bush",
+			"description": "Sixty-six color paintings and a four-panel mural, accompanied by brief biographies, show members of the military who have served since 9/11. By the former president.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780804189767.jpg",
+			"name": "PORTRAITS OF COURAGE",
+			"publisher": "Crown",
+			"rank": 12
+		},
+		{
+			"author": "by Chip Gaines and Joanna Gaines with Mark Dagostino",
+			"description": "The couple who star in the HGTV show \u201cFixer Upper.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780718081539.jpg",
+			"name": "THE MAGNOLIA STORY",
+			"publisher": "W Publishing/Thomas Nelson",
+			"rank": 13
+		},
+		{
+			"author": "by Paul Kalanithi",
+			"description": "A memoir by a physician who received a diagnosis of Stage IV lung cancer at the age of 36.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812988413.jpg",
+			"name": "WHEN BREATH BECOMES AIR",
+			"publisher": "Random House",
+			"rank": 14
+		},
+		{
+			"author": "by Yuval Noah Harari",
+			"description": "A provocative look into the future by the author of \u201cSapiens.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062464316.jpg",
+			"name": "HOMO DEUS",
+			"publisher": "Harper/HarperCollins",
+			"rank": 15
+		}
+	]
+}

@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Kathryn Stockett",
+			"description": "A young white woman and two black maids in 1960s Mississippi.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781440697661.jpg",
+			"name": "THE HELP",
+			"publisher": "Penguin Group",
+			"rank": 1
+		},
+		{
+			"author": "by Douglas Preston and Lincoln Child",
+			"description": "Devastated to learn that his wife was murdered, the F.B.I. agent Aloysius Pendergast seeks retribution.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780446554985.jpg",
+			"name": "COLD VENGEANCE",
+			"publisher": "Grand Central",
+			"rank": 2
+		},
+		{
+			"author": "by James Patterson and Michael Ledwidge",
+			"description": "Nina Bloom, who years ago changed her identity to save her life, is forced to confront the past and the killer she thought she had escaped.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316127233.jpg",
+			"name": "NOW YOU SEE HER",
+			"publisher": "Little, Brown",
+			"rank": 3
+		},
+		{
+			"author": "by Brad Thor",
+			"description": "The covert counterterrorism operative Scot Harvath has a plan to stop a terrorist group that wants to take down the United States.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781416586616.jpg",
+			"name": "FULL BLACK",
+			"publisher": "Simon & Schuster",
+			"rank": 4
+		},
+		{
+			"author": "by J. A. Jance",
+			"description": "A Seattle homicide detective\u2019s search for the killer of a little girl leads him into a murky world of religious fanaticism.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780061758225.jpg",
+			"name": "UNTIL PROVEN GUILTY",
+			"publisher": "HarperCollins",
+			"rank": 5
+		},
+		{
+			"author": "by Sherrilyn Kenyon",
+			"description": "Brought back to life by a Greek goddess, the former gunslinger Jess Brady is tasked with finding the creature who\u2019s assassinating Dark-Hunters.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781429987608.jpg",
+			"name": "RETRIBUTION",
+			"publisher": "St. Martin\u2019s",
+			"rank": 6
+		},
+		{
+			"author": "by George R.R. Martin",
+			"description": "In the frozen wastes to the north of Winterfell, sinister and supernatural forces are mustering.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780553897845.jpg",
+			"name": "A GAME OF THRONES",
+			"publisher": "Random House",
+			"rank": 7
+		},
+		{
+			"author": "by George R. R. Martin",
+			"description": "After a colossal battle, the Seven Kingdoms face new threats; Book 5 of \u201cA Song of Ice and Fire.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780553582017.jpg",
+			"name": "A DANCE WITH DRAGONS",
+			"publisher": "Random House",
+			"rank": 8
+		},
+		{
+			"author": "by John Grisham",
+			"description": "A criminal wants to save an innocent man on death row, but he must convince the authorities he\u2019s telling the truth.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780440245117.jpg",
+			"name": "THE CONFESSION",
+			"publisher": "Knopf Doubleday",
+			"rank": 9
+		},
+		{
+			"author": "by Nicholas Sparks",
+			"description": "A young woman, while putting down roots in a small North Carolina town, is haunted by a dark secret from her past.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455523542.jpg",
+			"name": "SAFE HAVEN",
+			"publisher": "Grand Central",
+			"rank": 10
+		},
+		{
+			"author": "by Tatiana de Rosnay",
+			"description": "A contemporary American journalist investigates what happened to a little girl and her family during the roundup of Jews in Paris in 1942.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780312370848.jpg",
+			"name": "SARAH\u2019S KEY",
+			"publisher": "St. Martin\u2019s",
+			"rank": 11
+		},
+		{
+			"author": "by Sara Gruen",
+			"description": "After his parents are killed in a car accident, a young veterinary student \u2014 and an elephant \u2014 save a Depression-era circus.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781616200718.jpg",
+			"name": "WATER FOR ELEPHANTS",
+			"publisher": "Algonquin",
+			"rank": 12
+		},
+		{
+			"author": "by David Nicholls",
+			"description": "Checking in year by year on the confused, halting romance of two children of the \u201980s.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307946713.jpg",
+			"name": "ONE DAY",
+			"publisher": "Knopf Doubleday",
+			"rank": 13
+		},
+		{
+			"author": "by Jim Butcher",
+			"description": "Harry Dresden, the wizard detective in Chicago, has been murdered. But that doesn\u2019t stop him when his friends are in danger.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101476178.jpg",
+			"name": "GHOST STORY",
+			"publisher": "Penguin Group",
+			"rank": 14
+		},
+		{
+			"author": "by Daniel Silva",
+			"description": "To stop a network of death, an international operative must reach into his violent past.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062072184.jpg",
+			"name": "PORTRAIT OF A SPY",
+			"publisher": "HarperCollins",
+			"rank": 15
+		}
+	]
+}

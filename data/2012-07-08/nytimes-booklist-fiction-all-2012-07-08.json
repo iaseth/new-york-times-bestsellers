@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by E. L. James",
+			"description": "An inexperienced college student falls in love with a tortured man who has particular sexual tastes; the first book in a trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345803481.jpg",
+			"name": "FIFTY SHADES OF GREY",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 1
+		},
+		{
+			"author": "by E. L. James",
+			"description": "Ana Steele learns more about Christian Grey\u2019s troubled past; the second book in a trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345803498.jpg",
+			"name": "FIFTY SHADES DARKER",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 2
+		},
+		{
+			"author": "by E. L. James",
+			"description": "The final book in an erotic trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781612130606.jpg",
+			"name": "FIFTY SHADES FREED",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 3
+		},
+		{
+			"author": "by Janet Evanovich",
+			"description": "The Salem, Mass., pastry chef Lizzy Tucker and her partner, Diesel, take up a murdered Harvard professor\u2019s quest for a powerful ancient relic",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345527776.jpg",
+			"name": "WICKED BUSINESS",
+			"publisher": "Random House Publishing",
+			"rank": 4
+		},
+		{
+			"author": "by Gillian Flynn",
+			"description": "A woman disappears on the day of her fifth anniversary; is her husband a killer?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307588388.jpg",
+			"name": "GONE GIRL",
+			"publisher": "Crown Publishing",
+			"rank": 5
+		},
+		{
+			"author": "by Sylvia Day",
+			"description": "Two troubled people develop an intense, obsessive relationship.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780425263907.jpg",
+			"name": "BARED TO YOU",
+			"publisher": "Penguin Group",
+			"rank": 6
+		},
+		{
+			"author": "by E. L. James",
+			"description": "The three \u201cFifty Shades\u201d novels in one bundle.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345803573.jpg",
+			"name": "FIFTY SHADES TRILOGY",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 7
+		},
+		{
+			"author": "by Seth Grahame-Smith",
+			"description": "A journal reveals Lincoln\u2019s fight against the undead.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780446563086.jpg",
+			"name": "ABRAHAM LINCOLN: VAMPIRE HUNTER",
+			"publisher": "Grand Central Publishing",
+			"rank": 8
+		},
+		{
+			"author": "by Jennifer Probst",
+			"description": "A billionaire who needs a wife offers a one-year marriage in name only to a bookstore owner.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781620612798.jpg",
+			"name": "THE MARRIAGE BARGAIN",
+			"publisher": "Entangled Publishing",
+			"rank": 9
+		},
+		{
+			"author": "by George R.R. Martin",
+			"description": "In the frozen wastes to the north of Winterfell, sinister and supernatural forces are mustering.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780553897845.jpg",
+			"name": "A GAME OF THRONES",
+			"publisher": "Random House Publishing",
+			"rank": 10
+		},
+		{
+			"author": "by James Patterson and Maxine Paetro",
+			"description": "Detective Lindsay Boxer and the Women\u2019s Murder Club investigate a possible serial killer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780446571821.jpg",
+			"name": "11TH HOUR",
+			"publisher": "Little, Brown & Company",
+			"rank": 11
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "A hit man who has become a target of the government rescues a teenage girl whose parents were murdered.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780446573009.jpg",
+			"name": "THE INNOCENT",
+			"publisher": "Grand Central Publishing",
+			"rank": 12
+		},
+		{
+			"author": "by Jamie McGuire",
+			"description": "A college girl in search of a new beginning makes a bet with an attractive but dangerous man.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476712048.jpg",
+			"name": "BEAUTIFUL DISASTER",
+			"publisher": "Jamie McGuire",
+			"rank": 13
+		},
+		{
+			"author": "by Dean Koontz",
+			"description": "This story, the second in an e-book series, finds Odd Thomas at a mysterious Pacific Coast motel.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345536778.jpg",
+			"name": "ODD INTERLUDE #2",
+			"publisher": "Random House Publishing",
+			"rank": 14
+		},
+		{
+			"author": "by John Sandford",
+			"description": "When a Minnesota family is murdered, the investigator Lucas Davenport believes a Mexican drug gang is involved.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101584910.jpg",
+			"name": "STOLEN PREY",
+			"publisher": "Penguin Group",
+			"rank": 15
+		}
+	]
+}

@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Bessel van der Kolk",
+			"description": "How trauma affects the body and mind, and innovative treatments for recovery.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780670785933.jpg",
+			"name": "THE BODY KEEPS THE SCORE",
+			"publisher": "Penguin",
+			"rank": 1
+		},
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "The 10th book in the conservative commentator\u2019s Killing series looks at organized crime in the United States during the 20th century.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250273659.jpg",
+			"name": "KILLING THE MOB",
+			"publisher": "St. Martin's",
+			"rank": 2
+		},
+		{
+			"author": "by Malcolm Gladwell",
+			"description": "A look at the key players and outcomes of precision bombing during World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316296618.jpg",
+			"name": "THE BOMBER MAFIA",
+			"publisher": "Little, Brown",
+			"rank": 3
+		},
+		{
+			"author": "by Matthew McConaughey",
+			"description": "The Academy Award-winning actor shares snippets from the diaries he kept over the last 35 years.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593139134.jpg",
+			"name": "GREENLIGHTS",
+			"publisher": "Crown",
+			"rank": 4
+		},
+		{
+			"author": "by Glennon Doyle",
+			"description": "The activist and public speaker describes her journey of listening to her inner voice.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984801258.jpg",
+			"name": "UNTAMED",
+			"publisher": "Dial",
+			"rank": 5
+		},
+		{
+			"author": "by Isabel Wilkerson",
+			"description": "The Pulitzer Prize-winning journalist examines aspects of caste systems across civilizations and reveals a rigid hierarchy in America today.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593230251.jpg",
+			"name": "CASTE",
+			"publisher": "Random House",
+			"rank": 6
+		},
+		{
+			"author": "by Michael Lewis",
+			"description": "Stories of skeptics who went against the official response of the Trump administration to the outbreak of Covid-19. The profiles include a local public-health officer and a group of doctors nicknamed the Wolverines.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780393881554.jpg",
+			"name": "THE PREMONITION",
+			"publisher": "Norton",
+			"rank": 7
+		},
+		{
+			"author": "by Michelle Zauner",
+			"description": "The daughter of a Korean mother and Jewish-American father, and leader of the indie rock project Japanese Breakfast, describes creating her own identity after losing her mother to cancer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525657743.jpg",
+			"name": "CRYING IN H MART",
+			"publisher": "Knopf",
+			"rank": 8
+		},
+		{
+			"author": "by Robin Wall Kimmerer",
+			"description": "A botanist and member of the Citizen Potawatomi Nation espouses having an understanding and appreciation of plants and animals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781571313560.jpg",
+			"name": "BRAIDING SWEETGRASS",
+			"publisher": "Milkweed Editions",
+			"rank": 9
+		},
+		{
+			"author": "by John Green",
+			"description": "A collection of personal essays that review different facets of the human-centered planet.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525555216.jpg",
+			"name": "THE ANTHROPOCENE REVIEWED",
+			"publisher": "Dutton",
+			"rank": 10
+		},
+		{
+			"author": "by Clint Smith",
+			"description": "A staff writer at The Atlantic explores the legacy of slavery and its imprint on centuries of American history.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316492935.jpg",
+			"name": "HOW THE WORD IS PASSED",
+			"publisher": "Little, Brown",
+			"rank": 11
+		},
+		{
+			"author": "by Bruce D. Perry and Oprah Winfrey",
+			"description": "An approach to dealing with trauma that shifts an essential question used to investigate it.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250223180.jpg",
+			"name": "WHAT HAPPENED TO YOU?",
+			"publisher": "Flatiron",
+			"rank": 12
+		},
+		{
+			"author": "by Trevor Noah",
+			"description": "A memoir about growing up biracial in apartheid South Africa by the host of \u201cThe Daily Show.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399588181.jpg",
+			"name": "BORN A CRIME",
+			"publisher": "Spiegel & Grau",
+			"rank": 13
+		},
+		{
+			"author": "by Adam Grant",
+			"description": "An examination of the cognitive skills of rethinking and unlearning that could be used to adapt to a rapidly changing world.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984878106.jpg",
+			"name": "THINK AGAIN",
+			"publisher": "Viking",
+			"rank": 14
+		},
+		{
+			"author": "by Annette Gordon-Reed",
+			"description": "The Pulitzer Prize winner weaves together American history with personal memoir to show the importance of events in Galveston, Texas, on June 19, 1865.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781631498831.jpg",
+			"name": "ON JUNETEENTH",
+			"publisher": "Liveright",
+			"rank": 15
+		}
+	]
+}

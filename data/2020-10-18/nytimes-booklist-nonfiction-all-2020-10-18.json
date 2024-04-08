@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Mariah Carey with Michaela Angela Davis",
+			"description": "The career highlights, public life and private struggles of the singer and songwriter.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250164681.jpg",
+			"name": "THE MEANING OF MARIAH CAREY",
+			"publisher": "Andy Cohen/Holt",
+			"rank": 1
+		},
+		{
+			"author": "by Bob Woodward",
+			"description": "Based on 17 on-the-record interviews with President Trump and other reporting, the Pulitzer Prize-winning journalist details the president\u2019s perspective on multiple crises.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982131739.jpg",
+			"name": "RAGE",
+			"publisher": "Simon & Schuster",
+			"rank": 2
+		},
+		{
+			"author": "by Isabel Wilkerson",
+			"description": "The Pulitzer Prize-winning journalist examines aspects of caste systems across civilizations and reveals a rigid hierarchy in America today.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593230251.jpg",
+			"name": "CASTE",
+			"publisher": "Random House",
+			"rank": 3
+		},
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "The ninth book in the conservative commentator\u2019s Killing series focuses on conflicts with Native Americans.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781627797047.jpg",
+			"name": "KILLING CRAZY HORSE",
+			"publisher": "Holt",
+			"rank": 4
+		},
+		{
+			"author": "by John Lithgow",
+			"description": "A second illustrated collection of poems chronicling and satirizing current events.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781797209463.jpg",
+			"name": "TRUMPTY DUMPTY WANTED A CROWN",
+			"publisher": "Chronicle Prism",
+			"rank": 5
+		},
+		{
+			"author": "by Ruth Bader Ginsburg with Mary Hartnett and Wendy W. Williams",
+			"description": "A collection of articles and speeches by the Supreme Court justice.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501145247.jpg",
+			"name": "MY OWN WORDS",
+			"publisher": "Simon & Schuster",
+			"rank": 6
+		},
+		{
+			"author": "by Glennon Doyle",
+			"description": "The activist and public speaker describes her journey of listening to her inner voice.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984801258.jpg",
+			"name": "UNTAMED",
+			"publisher": "Dial",
+			"rank": 7
+		},
+		{
+			"author": "by Michael Cohen",
+			"description": "An account of President Trump\u2019s business empire, political campaign and presidential administration by his former personal attorney.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781510764699.jpg",
+			"name": "DISLOYAL",
+			"publisher": "Skyhorse",
+			"rank": 8
+		},
+		{
+			"author": "by Andrew Weissmann",
+			"description": "A former lead prosecutor in the special counsel\u2019s office gives his account of the investigation into the 2016 election.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593138571.jpg",
+			"name": "WHERE LAW ENDS",
+			"publisher": "Random House",
+			"rank": 9
+		},
+		{
+			"author": "by Robin DiAngelo",
+			"description": "Historical and cultural analyses on what causes defensive moves by white people and how this inhibits cross-racial dialogue.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780807047415.jpg",
+			"name": "WHITE FRAGILITY",
+			"publisher": "Beacon Press",
+			"rank": 10
+		},
+		{
+			"author": "by Ted Cruz",
+			"description": "The Republican senator from Texas gives his views on what might happen if liberals gain a simple majority on the Supreme Court.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781684511341.jpg",
+			"name": "ONE VOTE AWAY",
+			"publisher": "Regnery",
+			"rank": 11
+		},
+		{
+			"author": "by Candace Owens",
+			"description": "The conservative commentator makes her case that Black Americans should part ways with the Democratic Party.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982133276.jpg",
+			"name": "BLACKOUT",
+			"publisher": "Threshold Editions",
+			"rank": 12
+		},
+		{
+			"author": "by Ibram X. Kendi",
+			"description": "A primer for creating a more just and equitable society through identifying and opposing racism.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525509288.jpg",
+			"name": "HOW TO BE AN ANTIRACIST",
+			"publisher": "One World",
+			"rank": 13
+		},
+		{
+			"author": "by Peter Baker and Susan Glasser",
+			"description": "A biography of White House chief of staff and secretary of state James A. Baker III by a married couple who are a correspondent for The New York Times and a staff writer for The New Yorker.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385540551.jpg",
+			"name": "THE MAN WHO RAN WASHINGTON",
+			"publisher": "Doubleday",
+			"rank": 14
+		},
+		{
+			"author": "by Mary L. Trump",
+			"description": "The clinical psychologist gives her assessment of events and patterns inside her family and how they shaped President Trump.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982141462.jpg",
+			"name": "TOO MUCH AND NEVER ENOUGH",
+			"publisher": "Simon & Schuster",
+			"rank": 15
+		}
+	]
+}

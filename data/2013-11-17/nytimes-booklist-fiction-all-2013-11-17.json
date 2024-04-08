@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Nora Roberts",
+			"description": "In the first book of the Cousins O'Dwyer trilogy, Iona Sheehan moves to Ireland to investigate her family's history.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101626368.jpg",
+			"name": "DARK WITCH",
+			"publisher": "Berkley",
+			"rank": 1
+		},
+		{
+			"author": "by John Grisham",
+			"description": "A sequel, about race and inheritance, to \u201cA Time to Kill.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385537926.jpg",
+			"name": "SYCAMORE ROW",
+			"publisher": "Doubleday",
+			"rank": 2
+		},
+		{
+			"author": "by Orson Scott Card",
+			"description": "Government agencies breed child geniuses and train them as soldiers. Originally published in 1985; now a movie.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812550702.jpg",
+			"name": "ENDER'S GAME",
+			"publisher": "Tor/Tom Doherty",
+			"rank": 3
+		},
+		{
+			"author": "by George R. R. Martin",
+			"description": "After a colossal battle, the Seven Kingdoms face new threats; Book 5 of \u201cA Song of Ice and Fire.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780553582017.jpg",
+			"name": "A DANCE WITH DRAGONS",
+			"publisher": "Random House",
+			"rank": 4
+		},
+		{
+			"author": "by Charlaine Harris",
+			"description": "A coda to the Sookie Stackhouse novels that inspired \u201cTrue Blood.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101635988.jpg",
+			"name": "AFTER DEAD",
+			"publisher": "Ace",
+			"rank": 5
+		},
+		{
+			"author": "by Danielle Steel",
+			"description": "Six people with intertwined lives, among them an aspiring Olympic skier who is gravely injured, struggle to surmount challenges.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385343220.jpg",
+			"name": "WINNERS",
+			"publisher": "Delacorte",
+			"rank": 6
+		},
+		{
+			"author": "by Christina Lauren",
+			"description": "The bookish Hanna has vowed to get out and start dating. And who better to turn her into a sultry siren than her brother\u2019s best friend, Will, a venture capitalist and unapologetic playboy?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476751412.jpg",
+			"name": "BEAUTIFUL PLAYER",
+			"publisher": "Simon & Schuster",
+			"rank": 7
+		},
+		{
+			"author": "by Liane Moriarty",
+			"description": "A woman\u2019s life is upended when she discovers a letter from her husband she was not meant to read.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101636237.jpg",
+			"name": "THE HUSBAND'S SECRET",
+			"publisher": "Amy Einhorn/Putnam",
+			"rank": 8
+		},
+		{
+			"author": "by Donna Tartt",
+			"description": "A painting smuggled out of the Metropolitan Museum of Art after a bombing becomes a boy\u2019s prize, guilt and burden.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316248679.jpg",
+			"name": "THE GOLDFINCH",
+			"publisher": "Little, Brown",
+			"rank": 9
+		},
+		{
+			"author": "by Julia Quinn",
+			"description": "Sarah Pleinsworth can\u2019t forgive Hugh Prentice for the duel he fought three years ago that nearly destroyed her family. But first impressions aren't always reliable.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062072931.jpg",
+			"name": "THE SUM OF ALL KISSES",
+			"publisher": "HarperCollins",
+			"rank": 10
+		},
+		{
+			"author": "by Lisa Scottoline",
+			"description": "Mary DiNunzio is now a partner at the all-women Philadelphia law firm of Rosato & Associates.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250027658.jpg",
+			"name": "ACCUSED",
+			"publisher": "St. Martin's",
+			"rank": 11
+		},
+		{
+			"author": "by Stephen King",
+			"description": "Now grown up, Dan, the boy with psycho-intuitive powers in \u201cThe Shining,\u201d helps another child with a spectacular gift.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451698855.jpg",
+			"name": "DOCTOR SLEEP",
+			"publisher": "Scribner",
+			"rank": 12
+		},
+		{
+			"author": "by Nicholas Sparks",
+			"description": "The lives of two couples converge unexpectedly.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455520640.jpg",
+			"name": "THE LONGEST RIDE",
+			"publisher": "Grand Central",
+			"rank": 13
+		},
+		{
+			"author": "by Diana Palmer",
+			"description": "The former border agent Dalton Kirk has returned to his Wyoming ranch, eager for a little peace \u2014 until Merissa, a local eccentric who can glimpse the future, knocks on his door.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780373777242.jpg",
+			"name": "WYOMING BOLD",
+			"publisher": "Harlequin",
+			"rank": 14
+		},
+		{
+			"author": "by Karen Kingsbury",
+			"description": "Fame turns the head of a contestant on a reality TV show. Can he regain what is important in his life?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451647068.jpg",
+			"name": "FIFTEEN MINUTES",
+			"publisher": "Howard Books",
+			"rank": 15
+		}
+	]
+}

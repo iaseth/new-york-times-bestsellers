@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Louise Penny",
+			"description": "Chief Inspector Armand Gamache, retired from the S\u00fbret\u00e9 du Qu\u00e9bec and settled in the village of Three Pines, searches for a neighbor\u2019s missing husband.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250022073.jpg",
+			"name": "THE LONG WAY HOME",
+			"publisher": "Minotaur",
+			"rank": 1
+		},
+		{
+			"author": "by Robyn Carr",
+			"description": "After a terrible accident puts an end to his professional football career, a young man returns home to Thunder Point to face his mistakes.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781460338391.jpg",
+			"name": "THE HOMECOMING",
+			"publisher": "Harlequin Mira",
+			"rank": 2
+		},
+		{
+			"author": "by James Patterson and Michael White",
+			"description": "The world\u2019s most exclusive detective agency has opened an office in Australia, and within days Craig Gisto and his new team have their hands full with a series of grisly crimes.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455529780.jpg",
+			"name": "PRIVATE DOWN UNDER",
+			"publisher": "Grand Central",
+			"rank": 3
+		},
+		{
+			"author": "by Gillian Flynn",
+			"description": "A woman disappears on the day of her fifth anniversary; is her husband a killer?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307588388.jpg",
+			"name": "GONE GIRL",
+			"publisher": "Crown",
+			"rank": 4
+		},
+		{
+			"author": "by Liane Moriarty",
+			"description": "Who will end up dead, and how, when three mothers with children in the same school become friends?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698138636.jpg",
+			"name": "BIG LITTLE LIES",
+			"publisher": "Amy Einhorn/Putnam",
+			"rank": 5
+		},
+		{
+			"author": "by Jayne Castle",
+			"description": "Sedona\u2019s new job managing a hotel and tavern on Rainshadow Island is helping her move on from her tragic past, but a bizarre disaster has brought a pack of rowdy ghost hunters to her inn.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780515154726.jpg",
+			"name": "THE HOT ZONE",
+			"publisher": "Jove",
+			"rank": 6
+		},
+		{
+			"author": "by Diana Gabaldon",
+			"description": "Claire Randall, an English nurse, is transported back to 1743 during a second honeymoon in the Scottish Highlands. There she begins an affair with James Fraser, a redheaded soldier. Originally published in 1991.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780440212560.jpg",
+			"name": "OUTLANDER",
+			"publisher": "Dell",
+			"rank": 7
+		},
+		{
+			"author": "by Sandra Brown",
+			"description": "A North Carolina pediatrician is held captive by a mysterious man who forces her to question her life.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455581139.jpg",
+			"name": "MEAN STREAK",
+			"publisher": "Grand Central",
+			"rank": 8
+		},
+		{
+			"author": "by John Grisham",
+			"description": "A sequel, about race and inheritance, to \u201cA Time to Kill.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385537926.jpg",
+			"name": "SYCAMORE ROW",
+			"publisher": "Doubleday",
+			"rank": 9
+		},
+		{
+			"author": "by Donna Tartt",
+			"description": "A painting smuggled out of the Metropolitan Museum of Art after a bombing becomes a boy\u2019s prize, guilt and burden.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316248679.jpg",
+			"name": "THE GOLDFINCH",
+			"publisher": "Little, Brown",
+			"rank": 10
+		},
+		{
+			"author": "by Brent Weeks",
+			"description": "A fantasy sequel to \u201cThe Black Prism\u201d and \u201cThe Blinding Knife.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316079921.jpg",
+			"name": "THE BROKEN EYE",
+			"publisher": "Orbit",
+			"rank": 11
+		},
+		{
+			"author": "by Christina Baker Kline",
+			"description": "A historical novel about orphans swept off the streets of New York and sent to the Midwest in the 1920s.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062101204.jpg",
+			"name": "ORPHAN TRAIN",
+			"publisher": "Morrow/HarperCollins",
+			"rank": 12
+		},
+		{
+			"author": "by Lisa Jackson",
+			"description": "Sarah McAdams returns to her childhood home with her daughters. But there are rumors that their house is haunted, and it holds other dark memories for Sarah.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781617735189.jpg",
+			"name": "CLOSE TO HOME",
+			"publisher": "Kensington",
+			"rank": 13
+		},
+		{
+			"author": "by Diana Gabaldon",
+			"description": "Volume 2 of the Outlander series, about an 18th-century Scottish warrior and a time-traveling World War II-era nurse; first published in 1992.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780440335184.jpg",
+			"name": "DRAGONFLY IN AMBER",
+			"publisher": "Dell",
+			"rank": 14
+		},
+		{
+			"author": "by Lori Foster",
+			"description": "An inheritance reunites a mixed martial arts fighter with the woman he\u2019s never forgotten.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781460338445.jpg",
+			"name": "NO LIMITS",
+			"publisher": "Harlequin",
+			"rank": 15
+		}
+	]
+}

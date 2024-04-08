@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Tessa Bailey",
+			"description": "Hannah Bellinger begins to fall for her roommate, who is a fisherman and a notorious ladies\u2019 man.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063045699.jpg",
+			"name": "HOOK, LINE, AND SINKER",
+			"publisher": "Avon",
+			"rank": 1
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "A battered wife raised in a violent home attempts to halt the cycle of abuse.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501110375.jpg",
+			"name": "IT ENDS WITH US",
+			"publisher": "Atria",
+			"rank": 2
+		},
+		{
+			"author": "by Lucy Foley",
+			"description": "Jess has suspicions about her half-brother\u2019s neighbors when he goes missing.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063003057.jpg",
+			"name": "THE PARIS APARTMENT",
+			"publisher": "Morrow",
+			"rank": 3
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "Lowen Ashleigh is hired by the husband of an injured writer to complete her popular series and uncovers a horrifying truth.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781791392796.jpg",
+			"name": "VERITY",
+			"publisher": "Grand Central",
+			"rank": 4
+		},
+		{
+			"author": "by Taylor Jenkins Reid",
+			"description": "A movie icon recounts stories of her loves and career to a struggling magazine writer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501161933.jpg",
+			"name": "THE SEVEN HUSBANDS OF EVELYN HUGO",
+			"publisher": "Washington Square/Atria",
+			"rank": 5
+		},
+		{
+			"author": "by Christine Feehan",
+			"description": "The 18th book in the GhostWalker series. Jonas must convince Camellia to not run away from him.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593439098.jpg",
+			"name": "PHANTOM GAME",
+			"publisher": "Berkley",
+			"rank": 6
+		},
+		{
+			"author": "by Sarah J. Maas",
+			"description": "The second book in the Crescent City series. Bryce Quinlan and Hunt Athalar must choose to fight or stay silent.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781635574074.jpg",
+			"name": "HOUSE OF SKY AND BREATH",
+			"publisher": "Bloomsbury",
+			"rank": 7
+		},
+		{
+			"author": "by Rebecca Serle",
+			"description": "During a summer trip in Italy, Katy\u2019s late mother reappears as a 30-year-old woman.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982166793.jpg",
+			"name": "ONE ITALIAN SUMMER",
+			"publisher": "Atria",
+			"rank": 8
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "Tate Collins and Miles Archer,\u00a0an airline pilot, think they can handle a no strings attached arrangement. But they can't.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476753195.jpg",
+			"name": "UGLY LOVE",
+			"publisher": "Atria",
+			"rank": 9
+		},
+		{
+			"author": "by Ali Hazelwood",
+			"description": "A young professor agrees to pretend to be a third-year Ph.D. candidate\u2019s boyfriend.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593336823.jpg",
+			"name": "THE LOVE HYPOTHESIS",
+			"publisher": "Berkley",
+			"rank": 10
+		},
+		{
+			"author": "by John Grisham",
+			"description": "Samuel Sooleymon receives a basketball scholarship to North Carolina Central and determines to bring his family over from a civil war-ravaged South Sudan.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385547680.jpg",
+			"name": "SOOLEY",
+			"publisher": "Doubleday",
+			"rank": 11
+		},
+		{
+			"author": "by Nita Prose",
+			"description": "When a wealthy man is found dead in his room, a maid at the Regency Grand Hotel becomes a lead suspect.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593356159.jpg",
+			"name": "THE MAID",
+			"publisher": "Ballantine",
+			"rank": 12
+		},
+		{
+			"author": "by Amor Towles",
+			"description": "Two friends who escaped from a juvenile work farm take Emmett Watson on an unexpected journey to New York City in 1954.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735222359.jpg",
+			"name": "THE LINCOLN HIGHWAY",
+			"publisher": "Viking",
+			"rank": 13
+		},
+		{
+			"author": "by Olivie Blake",
+			"description": "Atlas Blakely recruits six candidates to fight for five spots in a secret society of magical academicians.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250854513.jpg",
+			"name": "THE ATLAS SIX",
+			"publisher": "Tor",
+			"rank": 14
+		},
+		{
+			"author": "by Ellery Lloyd",
+			"description": "Off the English coast, the body count rises at a celebrity members\u2019 club.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062997425.jpg",
+			"name": "THE CLUB",
+			"publisher": "Harper",
+			"rank": 15
+		}
+	]
+}

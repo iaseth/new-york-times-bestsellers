@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Kristin Hannah",
+			"description": "A woman\u2019s husband and children are challenged when she is deployed to Iraq.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781429942218.jpg",
+			"name": "HOME FRONT",
+			"publisher": "St. Martin\u2019s Press",
+			"rank": 1
+		},
+		{
+			"author": "by Stephanie Laurens",
+			"description": "To save his castle and his clan, the eighth Earl of Glencrae has no choice but to kidnap the headstrong Angelica Cynster.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062066220.jpg",
+			"name": "THE CAPTURE OF THE EARL OF GLENCRAE",
+			"publisher": "HarperCollins Publishers",
+			"rank": 2
+		},
+		{
+			"author": "by Jonathan Safran Foer",
+			"description": "A 9-year-old boy searches New York City for the lock that fits a key belonging to his father, who died on Sept. 11.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780618711659.jpg",
+			"name": "EXTREMELY LOUD AND INCREDIBLY CLOSE",
+			"publisher": "Houghton Mifflin Harcourt Publishing",
+			"rank": 3
+		},
+		{
+			"author": "by Sherryl Woods",
+			"description": "Falling for Moira was the unexpected highlight of Luke\u2019s Dublin holiday. So when she pays a surprise visit to Chesapeake Shores, he\u2019s thrilled ... at first.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781459220300.jpg",
+			"name": "THE SUMMER GARDEN",
+			"publisher": "Harlequin",
+			"rank": 4
+		},
+		{
+			"author": "by Kathryn Stockett",
+			"description": "A young white woman and two black maids in 1960s Mississippi.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781440697661.jpg",
+			"name": "THE HELP",
+			"publisher": "Penguin Group",
+			"rank": 5
+		},
+		{
+			"author": "by James Patterson and Maxine Paetro",
+			"description": "Jack Morgan, the head of an investigative firm, is accused of murder.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316097413.jpg",
+			"name": "PRIVATE: #1 SUSPECT",
+			"publisher": "Grand Central Publishing",
+			"rank": 6
+		},
+		{
+			"author": "by William Landay",
+			"description": "An assistant district attorney\u2019s life is shaken when his 14-year-old son is accused of murder.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345527592.jpg",
+			"name": "DEFENDING JACOB",
+			"publisher": "Delacorte Press",
+			"rank": 7
+		},
+		{
+			"author": "by Stieg Larsson",
+			"description": "A hacker and a journalist investigate the 40-year-old disappearance of a Swedish heiress.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307949486.jpg",
+			"name": "THE GIRL WITH THE DRAGON TATTOO",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 8
+		},
+		{
+			"author": "by Stieg Larsson",
+			"description": "In Volume 2 of the Millennium trilogy, a Swedish hacker becomes a murder suspect.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307476159.jpg",
+			"name": "THE GIRL WHO PLAYED WITH FIRE",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 9
+		},
+		{
+			"author": "by Stieg Larsson",
+			"description": "Volume 3 of the Millennium trilogy, about a Swedish hacker and a journalist.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307593672.jpg",
+			"name": "THE GIRL WHO KICKED THE HORNET\u2019S NEST",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 10
+		},
+		{
+			"author": "by Kristin Hannah",
+			"description": "Three teenagers make a calamitous decision that changes the course of their lives.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780312364434.jpg",
+			"name": "NIGHT ROAD",
+			"publisher": "St. Martin\u2019s Press",
+			"rank": 11
+		},
+		{
+			"author": "by Stephen King",
+			"description": "An English teacher travels back to 1958 by way of a time portal in a Maine diner. His assignment is to stop Lee Harvey Oswald.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451627299.jpg",
+			"name": "11/22/63",
+			"publisher": "Scribner",
+			"rank": 12
+		},
+		{
+			"author": "by Janet Evanovich",
+			"description": "Stephanie Plum, a Jersey girl with turquoise eye shadow, enters the business of crime-busting; first published in 1994.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780684867311.jpg",
+			"name": "ONE FOR THE MONEY",
+			"publisher": "Simon & Schuster",
+			"rank": 13
+		},
+		{
+			"author": "by Robert Crais",
+			"description": "It\u2019s Joe Pike to the rescue when Elvis Cole is seized by human traffickers.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101554272.jpg",
+			"name": "TAKEN",
+			"publisher": "G.P. Putnam's Sons",
+			"rank": 14
+		},
+		{
+			"author": "by John Grisham",
+			"description": "Partners in a small law firm take on a big case after a fast-track burnout joins them.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385535137.jpg",
+			"name": "THE LITIGATORS",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 15
+		}
+	]
+}

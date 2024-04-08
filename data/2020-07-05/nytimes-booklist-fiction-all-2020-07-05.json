@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Elin Hilderbrand",
+			"description": "A relationship that started in 1993 between Mallory Blessing and Jake McCloud comes to light while she is on her deathbed and his wife runs for president.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316420044.jpg",
+			"name": "28 SUMMERS",
+			"publisher": "Little, Brown",
+			"rank": 1
+		},
+		{
+			"author": "by Delia Owens",
+			"description": "In a quiet town on the North Carolina coast in 1969, a young woman who survived alone in the marsh becomes a murder suspect.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735219090.jpg",
+			"name": "WHERE THE CRAWDADS SING",
+			"publisher": "Putnam",
+			"rank": 2
+		},
+		{
+			"author": "by John Grisham",
+			"description": "The line between fact and fiction becomes blurred when an author of thrillers is found dead after a hurricane hits Camino Island.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385545938.jpg",
+			"name": "CAMINO WINDS",
+			"publisher": "Doubleday",
+			"rank": 3
+		},
+		{
+			"author": "by Brit Bennett",
+			"description": "The lives of twin sisters who run away from a Southern black community at age 16 diverge as one returns and the other takes on a different racial identity but their fates intertwine.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525536291.jpg",
+			"name": "THE VANISHING HALF",
+			"publisher": "Riverhead",
+			"rank": 4
+		},
+		{
+			"author": "by James Patterson and Brendan DuBois",
+			"description": "Jeremiah Cook, a veteran and former N.Y.P.D. cop, investigates a mass murder near a lake in Georgia.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316539555.jpg",
+			"name": "THE SUMMER HOUSE",
+			"publisher": "Little, Brown",
+			"rank": 5
+		},
+		{
+			"author": "by Celeste Ng",
+			"description": "An artist upends a quiet town outside Cleveland.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735224308.jpg",
+			"name": "LITTLE FIRES EVERYWHERE",
+			"publisher": "Penguin Press",
+			"rank": 6
+		},
+		{
+			"author": "by Michael Connelly",
+			"description": "The third book in the Jack McEvoy series. A reporter tracks a killer who uses genetic data to pick his victims.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316539425.jpg",
+			"name": "FAIR WARNING",
+			"publisher": "Little Brown",
+			"rank": 7
+		},
+		{
+			"author": "by Kim Harrison",
+			"description": "The 14th book in the Hollows series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593101438.jpg",
+			"name": "AMERICAN DEMON",
+			"publisher": "Ace",
+			"rank": 8
+		},
+		{
+			"author": "by John Grisham",
+			"description": "Cullen Post, a lawyer and Episcopal minister, antagonizes some ruthless killers when he takes on a wrongful conviction case.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385544184.jpg",
+			"name": "THE GUARDIANS",
+			"publisher": "Doubleday",
+			"rank": 9
+		},
+		{
+			"author": "by Lucy Foley",
+			"description": "A wedding between a TV star and a magazine publisher on an island off the coast of Ireland turns deadly.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062868930.jpg",
+			"name": "THE GUEST LIST",
+			"publisher": "Morrow",
+			"rank": 10
+		},
+		{
+			"author": "by James McBride",
+			"description": "In 1969, secrets in a South Brooklyn neighborhood are uncovered when a church deacon known as Sportcoat shoots a drug dealer in public.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735216723.jpg",
+			"name": "DEACON KING KONG",
+			"publisher": "Riverhead",
+			"rank": 11
+		},
+		{
+			"author": "by Max Brooks",
+			"description": "In the aftermath of Mount Rainier erupting, Kate Holland\u2019s newly discovered journals tell the tale of the creature known as Bigfoot.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984826787.jpg",
+			"name": "DEVOLUTION",
+			"publisher": "Del Rey",
+			"rank": 12
+		},
+		{
+			"author": "by Stephen King",
+			"description": "Four novellas: \u201cMr. Harrigan\u2019s Phone,\u201d \u201cThe Life of Chuck,\u201d \u201cRat\u201d and \u201cIf It Bleeds.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982137977.jpg",
+			"name": "IF IT BLEEDS",
+			"publisher": "Scribner",
+			"rank": 13
+		},
+		{
+			"author": "by Nora Roberts",
+			"description": "A child star escapes her abductors, gathers herself in western Ireland and returns to Hollywood.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250207104.jpg",
+			"name": "HIDEAWAY",
+			"publisher": "St. Martin's",
+			"rank": 14
+		},
+		{
+			"author": "by Jeanine Cummins",
+			"description": "A bookseller flees Mexico for the United States with her son while pursued by the head of a drug cartel.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250209764.jpg",
+			"name": "AMERICAN DIRT",
+			"publisher": "Flatiron",
+			"rank": 15
+		}
+	]
+}

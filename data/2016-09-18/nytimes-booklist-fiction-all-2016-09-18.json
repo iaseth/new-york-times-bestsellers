@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Louise Penny",
+			"description": "An instructor at the police academy is found murdered, perhaps by one of the cadets favored by Armand Gamache, the retired homicide chief of the S\u00fbret\u00e9 du Qu\u00e9bec.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250022134.jpg",
+			"name": "A GREAT RECKONING",
+			"publisher": "Minotaur",
+			"rank": 1
+		},
+		{
+			"author": "by Paula Hawkins",
+			"description": "A psychological thriller set in the environs of London is full of complications and betrayals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594633669.jpg",
+			"name": "THE GIRL ON THE TRAIN",
+			"publisher": "Riverhead",
+			"rank": 2
+		},
+		{
+			"author": "by M. L. Stedman",
+			"description": "An Australian lighthouse keeper and his wife decide to keep a baby who has washed ashore.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451681758.jpg",
+			"name": "THE LIGHT BETWEEN OCEANS",
+			"publisher": "Scribner",
+			"rank": 3
+		},
+		{
+			"author": "by Danielle Steel",
+			"description": "Six people cope with a hurricane in New York City.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780425285374.jpg",
+			"name": "RUSHING WATERS",
+			"publisher": "Delacorte",
+			"rank": 4
+		},
+		{
+			"author": "by Colson Whitehead",
+			"description": "A teenage girl heads north on the network that helped slaves escape to freedom, envisioned in this novel as a secret system of actual tracks and tunnels.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385542364.jpg",
+			"name": "THE UNDERGROUND RAILROAD",
+			"publisher": "Doubleday",
+			"rank": 5
+		},
+		{
+			"author": "by Fredrik Backman",
+			"description": "A curmudgeon's gruff exterior masks a generosity of spirit. Originally published in Sweden in 2014.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476738024.jpg",
+			"name": "A MAN CALLED OVE",
+			"publisher": "Washington Square",
+			"rank": 6
+		},
+		{
+			"author": "by Linda Lael Miller",
+			"description": "A rancher and an animal researcher soon realize they have more in common than wrangling stallions.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781460394137.jpg",
+			"name": "ALWAYS A COWBOY",
+			"publisher": "HQN",
+			"rank": 7
+		},
+		{
+			"author": "by Sandra Brown",
+			"description": "A hired killer and a woman he kidnapped join forces to elude the F.B.I. agents and others who are searching for her corrupt brother.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455581238.jpg",
+			"name": "STING",
+			"publisher": "Grand Central",
+			"rank": 8
+		},
+		{
+			"author": "by Fern Michaels",
+			"description": "With the Sisterhood on assignment, their significant others look into a Vegas casino with leaky security.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781420140644.jpg",
+			"name": "FAST AND LOOSE",
+			"publisher": "Zebra",
+			"rank": 9
+		},
+		{
+			"author": "by Liane Moriarty",
+			"description": "Tense turning points for three couples at a backyard barbecue gone wrong.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250069818.jpg",
+			"name": "TRULY MADLY GUILTY",
+			"publisher": "Flatiron",
+			"rank": 10
+		},
+		{
+			"author": "by Ruth Ware",
+			"description": "A travel writer on a cruise is certain she has heard a body thrown overboard, but no one believes her.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501132940.jpg",
+			"name": "THE WOMAN IN CABIN 10",
+			"publisher": "Scout",
+			"rank": 11
+		},
+		{
+			"author": "by Patricia Cornwell",
+			"description": "A psychopath sends Dr. Kay Scarpetta videos from the past about her niece in the series\u2019s 23rd book.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062325426.jpg",
+			"name": "DEPRAVED HEART",
+			"publisher": "Morrow/HarperCollins",
+			"rank": 12
+		},
+		{
+			"author": "by Sarah MacLean",
+			"description": "To avert scandal, a sheltered ward turns to a pomp-resistant duke.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062379443.jpg",
+			"name": "A SCOT IN THE DARK",
+			"publisher": "Avon",
+			"rank": 13
+		},
+		{
+			"author": "by James Lee Burke",
+			"description": "A coming-of-age story set in 1952 Houston and featuring a member of the Holland family completes a trilogy with \u201cWayfaring Stranger\u201d and \u201cRising Sun.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501107481.jpg",
+			"name": "THE JEALOUS KIND",
+			"publisher": "Simon & Schuster",
+			"rank": 14
+		},
+		{
+			"author": "by Tijan",
+			"description": "Summer heads to college with designs on her stepbrother, but his fraternity mate turns her head instead.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781682307557.jpg",
+			"name": "ANTI-STEPBROTHER",
+			"publisher": "Tijan",
+			"rank": 15
+		}
+	]
+}

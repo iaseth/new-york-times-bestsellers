@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Philip Rucker and Carol Leonnig",
+			"description": "The Pulitzer Prize-winning journalists use firsthand accounts to chart patterns of behavior within the Trump administration.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984877499.jpg",
+			"name": "A VERY STABLE GENIUS",
+			"publisher": "Penguin Press",
+			"rank": 1
+		},
+		{
+			"author": "by Peter Schweizer",
+			"description": "The author of \u201cClinton Cash\u201d gives his evaluations of members of the Democratic Party.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062897909.jpg",
+			"name": "PROFILES IN CORRUPTION",
+			"publisher": "Harper",
+			"rank": 2
+		},
+		{
+			"author": "by Tara Westover",
+			"description": "The daughter of survivalists, who is kept out of school, educates herself enough to leave home for university.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399590504.jpg",
+			"name": "EDUCATED",
+			"publisher": "Random House",
+			"rank": 3
+		},
+		{
+			"author": "by Bryan Stevenson",
+			"description": "A law professor and MacArthur grant recipient\u2019s memoir of his decades of work to free innocent people condemned to death.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812994520.jpg",
+			"name": "JUST MERCY",
+			"publisher": "Spiegel & Grau",
+			"rank": 4
+		},
+		{
+			"author": "by Malcolm Gladwell",
+			"description": "Famous examples of miscommunication serve as the backdrop to explain potential conflicts and misunderstandings.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316478526.jpg",
+			"name": "TALKING TO STRANGERS",
+			"publisher": "Little, Brown",
+			"rank": 5
+		},
+		{
+			"author": "by Michelle Obama",
+			"description": "The former first lady describes her journey from the South Side of Chicago to the White House, and how she balanced work, family and her husband\u2019s political ascent.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524763138.jpg",
+			"name": "BECOMING",
+			"publisher": "Crown",
+			"rank": 6
+		},
+		{
+			"author": "by Lori Gottlieb",
+			"description": "A psychotherapist gains unexpected insights when she becomes another therapist\u2019s patient.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781328662057.jpg",
+			"name": "MAYBE YOU SHOULD TALK TO SOMEONE",
+			"publisher": "Houghton Mifflin Harcourt",
+			"rank": 7
+		},
+		{
+			"author": "by Bessel van der Kolk",
+			"description": "How trauma affects the body and mind, and innovative treatments for recovery.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780670785933.jpg",
+			"name": "THE BODY KEEPS THE SCORE",
+			"publisher": "Penguin",
+			"rank": 8
+		},
+		{
+			"author": "by Yuval Noah Harari",
+			"description": "How Homo sapiens became Earth\u2019s dominant species.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062316097.jpg",
+			"name": "SAPIENS",
+			"publisher": "Harper",
+			"rank": 9
+		},
+		{
+			"author": "by Christopher Caldwell",
+			"description": "An assessment of some potential social, cultural and economic causes of our current political fissure.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501106897.jpg",
+			"name": "THE AGE OF ENTITLEMENT",
+			"publisher": "Simon & Schuster",
+			"rank": 10
+		},
+		{
+			"author": "by Ada Calhoun",
+			"description": "The cultural and political contexts of the crises that Generation X women face.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780802147851.jpg",
+			"name": "WHY WE CAN'T SLEEP",
+			"publisher": "Grove",
+			"rank": 11
+		},
+		{
+			"author": "by Ronan Farrow",
+			"description": "The Pulitzer Prize-winning reporter details some surveillance and intimidation tactics used to pressure journalists and elude consequences by certain wealthy and connected men.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316486637.jpg",
+			"name": "CATCH AND KILL",
+			"publisher": "Little, Brown",
+			"rank": 12
+		},
+		{
+			"author": "by Nicholas D. Kristof and Sheryl WuDunn",
+			"description": "The Pulitzer Prize-winning authors examine issues affecting working-class Americans.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525655084.jpg",
+			"name": "TIGHTROPE",
+			"publisher": "Knopf",
+			"rank": 13
+		},
+		{
+			"author": "by Rick Wilson",
+			"description": "The Republican strategist offers his insights on how to potentially defeat President Trump in the upcoming election.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593137581.jpg",
+			"name": "RUNNING AGAINST THE DEVIL",
+			"publisher": "Crown Forum",
+			"rank": 14
+		},
+		{
+			"author": "by Matthew Walker",
+			"description": "A neuroscientist uses recent scientific discoveries to explain the functions of sleep and dreams.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501144318.jpg",
+			"name": "WHY WE SLEEP",
+			"publisher": "Scribner",
+			"rank": 15
+		}
+	]
+}

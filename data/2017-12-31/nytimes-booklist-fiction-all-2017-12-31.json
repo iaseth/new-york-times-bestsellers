@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by John Grisham",
+			"description": "Three students at a sleazy for-profit law school hope to expose the student-loan banker who runs it.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385541183.jpg",
+			"name": "THE ROOSTER BAR",
+			"publisher": "Doubleday",
+			"rank": 1
+		},
+		{
+			"author": "by Dan Brown",
+			"description": "A symbology professor goes on a perilous quest with a beautiful museum director.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385542692.jpg",
+			"name": "ORIGIN",
+			"publisher": "Doubleday",
+			"rank": 2
+		},
+		{
+			"author": "by Rupi Kaur",
+			"description": "A new collection of poetry from the author of \"Milk and Honey.\"",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781449486792.jpg",
+			"name": "THE SUN AND HER FLOWERS",
+			"publisher": "Andrews McMeel",
+			"rank": 3
+		},
+		{
+			"author": "by E.L. James",
+			"description": "Christian Grey's tormented and difficult pursuit of Anastasia Steele is told from his perspective.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385543989.jpg",
+			"name": "DARKER",
+			"publisher": "Vintage",
+			"rank": 4
+		},
+		{
+			"author": "by James Patterson",
+			"description": "Detective Cross takes on a case even though he has been suspended from the department and taken to federal court to stand trial on murder charges.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316273909.jpg",
+			"name": "THE PEOPLE VS. ALEX CROSS",
+			"publisher": "Little, Brown",
+			"rank": 5
+		},
+		{
+			"author": "by Lee Child",
+			"description": "Jack Reacher tracks down the owner of a pawned West Point class ring and stumbles upon a large criminal enterprise.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399593499.jpg",
+			"name": "THE MIDNIGHT LINE",
+			"publisher": "Delacorte",
+			"rank": 6
+		},
+		{
+			"author": "by Rupi Kaur",
+			"description": "Poetic approaches to surviving adversity and loss.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781449474256.jpg",
+			"name": "MILK AND HONEY",
+			"publisher": "Andrews McMeel",
+			"rank": 7
+		},
+		{
+			"author": "by Nora Roberts",
+			"description": "When a pandemic strikes and the world spins into chaos, several travelers head west to find a new life.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250122957.jpg",
+			"name": "YEAR ONE",
+			"publisher": "St. Martin's",
+			"rank": 8
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "Jessica Reel and Will Robie fight a dangerous adversary in Colorado.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455586639.jpg",
+			"name": "END GAME",
+			"publisher": "Grand Central",
+			"rank": 9
+		},
+		{
+			"author": "by Andy Weir",
+			"description": "A small-time smuggler living in a lunar colony schemes to pay off an old debt by pulling off a challenging heist.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780553448122.jpg",
+			"name": "ARTEMIS",
+			"publisher": "Crown",
+			"rank": 10
+		},
+		{
+			"author": "by Ernest Cline",
+			"description": "It\u2019s 2044, life on a resource-depleted Earth has grown increasingly grim, and the key to a vast fortune is hidden in a virtual-reality world.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307887443.jpg",
+			"name": "READY PLAYER ONE",
+			"publisher": "Broadway",
+			"rank": 11
+		},
+		{
+			"author": "by Celeste Ng",
+			"description": "An artist upends a quiet town outside Cleveland.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735224308.jpg",
+			"name": "LITTLE FIRES EVERYWHERE",
+			"publisher": "Penguin Press",
+			"rank": 12
+		},
+		{
+			"author": "by Marc Cameron",
+			"description": "President Jack Ryan seeks to identify the hidden forces escalating the tensions between China and the United States.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735215900.jpg",
+			"name": "TOM CLANCY POWER AND EMPIRE",
+			"publisher": "Putnam",
+			"rank": 13
+		},
+		{
+			"author": "by Janet Evanovich",
+			"description": "When a homeless man is murdered, the bounty hunter Stephanie Plum searches for the killer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399179204.jpg",
+			"name": "HARDCORE TWENTY-FOUR",
+			"publisher": "Putnam",
+			"rank": 14
+		},
+		{
+			"author": "by Michael Connelly",
+			"description": "While he investigates the murder of two pharmacists, an old case comes back to haunt Harry Bosch.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316225915.jpg",
+			"name": "TWO KINDS OF TRUTH",
+			"publisher": "Little, Brown",
+			"rank": 15
+		}
+	]
+}

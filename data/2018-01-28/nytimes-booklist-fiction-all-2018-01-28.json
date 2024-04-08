@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by A.J. Finn",
+			"description": "A recluse who drinks heavily and takes prescription drugs may have witnessed a crime across from her Harlem townhouse.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062678416.jpg",
+			"name": "THE WOMAN IN THE WINDOW",
+			"publisher": "Morrow",
+			"rank": 1
+		},
+		{
+			"author": "by Greer Hendricks and Sarah Pekkanen",
+			"description": "The events surrounding a hedge fund manager, his ex-wife and his fianc\u00e9e are told from several points of view.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250130921.jpg",
+			"name": "THE WIFE BETWEEN US",
+			"publisher": "St. Martin's",
+			"rank": 2
+		},
+		{
+			"author": "by J.R. Ward",
+			"description": "The third book in the Black Dagger Legacy series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698193321.jpg",
+			"name": "BLOOD FURY",
+			"publisher": "Ballantine",
+			"rank": 3
+		},
+		{
+			"author": "by Celeste Ng",
+			"description": "An artist upends a quiet town outside Cleveland.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735224308.jpg",
+			"name": "LITTLE FIRES EVERYWHERE",
+			"publisher": "Penguin Press",
+			"rank": 4
+		},
+		{
+			"author": "by Dan Brown",
+			"description": "A symbology professor goes on a perilous quest with a beautiful museum director.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385542692.jpg",
+			"name": "ORIGIN",
+			"publisher": "Doubleday",
+			"rank": 5
+		},
+		{
+			"author": "by John Grisham",
+			"description": "Three students at a sleazy for-profit law school hope to expose the student-loan banker who runs it.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385541183.jpg",
+			"name": "THE ROOSTER BAR",
+			"publisher": "Doubleday",
+			"rank": 6
+		},
+		{
+			"author": "by Rupi Kaur",
+			"description": "A new collection of poetry from the author of \"Milk and Honey.\"",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781449486792.jpg",
+			"name": "THE SUN AND HER FLOWERS",
+			"publisher": "Andrews McMeel",
+			"rank": 7
+		},
+		{
+			"author": "by Lee Child",
+			"description": "A complete collection of Jack Reacher stories.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399593581.jpg",
+			"name": "NO MIDDLE NAME",
+			"publisher": "Delacorte",
+			"rank": 8
+		},
+		{
+			"author": "by Lisa Wingate",
+			"description": "A South Carolina lawyer learns about the questionable practices of a Tennessee orphanage.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780425284681.jpg",
+			"name": "BEFORE WE WERE YOURS",
+			"publisher": "Ballantine",
+			"rank": 9
+		},
+		{
+			"author": "by Rupi Kaur",
+			"description": "Poetic approaches to surviving adversity and loss.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781449474256.jpg",
+			"name": "MILK AND HONEY",
+			"publisher": "Andrews McMeel",
+			"rank": 10
+		},
+		{
+			"author": "by Ernest Cline",
+			"description": "It\u2019s 2044, life on a resource-depleted Earth has grown increasingly grim, and the key to a vast fortune is hidden in a virtual-reality world.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307887443.jpg",
+			"name": "READY PLAYER ONE",
+			"publisher": "Broadway",
+			"rank": 11
+		},
+		{
+			"author": "by Chloe Benjamin",
+			"description": "Four adolescents learn the dates of their deaths from a psychic.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735213180.jpg",
+			"name": "THE IMMORTALISTS",
+			"publisher": "Putnam",
+			"rank": 12
+		},
+		{
+			"author": "by Margaret Atwood",
+			"description": "Men and women in a dystopian future. The basis of the Hulu series; originally published in 1985.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780547345666.jpg",
+			"name": "THE HANDMAID'S TALE",
+			"publisher": "Houghton Mifflin Harcourt",
+			"rank": 13
+		},
+		{
+			"author": "by E.L. James",
+			"description": "Christian Grey's tormented and difficult pursuit of Anastasia Steele is told from his perspective.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385543989.jpg",
+			"name": "DARKER",
+			"publisher": "Vintage",
+			"rank": 14
+		},
+		{
+			"author": "by Brad Taylor",
+			"description": "Pike Logan's team uncovers a plot to bring down a country in Africa when they track an American arms dealer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101984826.jpg",
+			"name": "OPERATOR DOWN",
+			"publisher": "Dutton",
+			"rank": 15
+		}
+	]
+}

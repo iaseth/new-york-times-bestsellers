@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Paula Hawkins",
+			"description": "A psychological thriller set in the environs of London is full of complications and betrayals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594633669.jpg",
+			"name": "THE GIRL ON THE TRAIN",
+			"publisher": "Riverhead",
+			"rank": 1
+		},
+		{
+			"author": "by Nicholas Sparks",
+			"description": "A man who became a single father when his marriage and business collapsed learns to take a chance on a new love.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455520701.jpg",
+			"name": "TWO BY TWO",
+			"publisher": "Grand Central",
+			"rank": 2
+		},
+		{
+			"author": "by James Patterson and Kathryn Fox",
+			"description": "Private Sydney's elite team looks for a seemingly untraceable man.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455568147.jpg",
+			"name": "MISSING",
+			"publisher": "Grand Central",
+			"rank": 3
+		},
+		{
+			"author": "by Tana French",
+			"description": "In the sixth Dublin Murder Squad novel, Detective Antoinette Conway confronts a case that is more complicated than it appears.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780670026333.jpg",
+			"name": "THE TRESPASSER",
+			"publisher": "Viking",
+			"rank": 4
+		},
+		{
+			"author": "by Harlan Coben",
+			"description": "Myron Bolitar and his friend Win locate a boy who was kidnapped 10 years earlier; the 11th Myron Bolitar novel.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698411449.jpg",
+			"name": "HOME",
+			"publisher": "Dutton",
+			"rank": 5
+		},
+		{
+			"author": "by Fredrik Backman",
+			"description": "A curmudgeon's gruff exterior masks a generosity of spirit. Originally published in Sweden in 2014.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476738024.jpg",
+			"name": "A MAN CALLED OVE",
+			"publisher": "Washington Square",
+			"rank": 6
+		},
+		{
+			"author": "by Debbie Macomber",
+			"description": "A woman starts a blog about her attempt to reach out to a grumpy neighbor at Christmastime, and finds herself falling for him.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780553391749.jpg",
+			"name": "TWELVE DAYS OF CHRISTMAS",
+			"publisher": "Ballantine",
+			"rank": 7
+		},
+		{
+			"author": "by Ann Patchett",
+			"description": "Five decades in the lives of two families \u2014 parents, children, siblings, stepchildren \u2014 remade by divorce.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062491817.jpg",
+			"name": "COMMONWEALTH",
+			"publisher": "Harper/HarperCollins",
+			"rank": 8
+		},
+		{
+			"author": "by Maria Semple",
+			"description": "A calamitous day in the life of a cynical Seattle transplant from the author of \u201cWhere\u2019d You Go, Bernadette.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316403443.jpg",
+			"name": "TODAY WILL BE DIFFERENT",
+			"publisher": "Little, Brown",
+			"rank": 9
+		},
+		{
+			"author": "by Dan Brown",
+			"description": "The symbologist Robert Langdon, on the run in Florence, must decipher a series of codes created by a Dante-loving scientist.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400079155.jpg",
+			"name": "INFERNO",
+			"publisher": "Anchor",
+			"rank": 10
+		},
+		{
+			"author": "by Elin Hilderbrand",
+			"description": "In the final book of the Winter Street trilogy, a huge snowstorm bearing down on Nantucket threatens the Quinn family\u2019s Christmas, after a year of significant events.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316261173.jpg",
+			"name": "WINTER STORMS",
+			"publisher": "Little, Brown",
+			"rank": 11
+		},
+		{
+			"author": "by James Patterson and Maxine Paetro",
+			"description": "The story of a (woman) doctor who, after a life of service and suffering, decides to become a Catholic priest.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316274029.jpg",
+			"name": "WOMAN OF GOD",
+			"publisher": "Little, Brown",
+			"rank": 12
+		},
+		{
+			"author": "by M. L. Stedman",
+			"description": "An Australian lighthouse keeper and his wife decide to keep a baby who has washed ashore.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451681758.jpg",
+			"name": "THE LIGHT BETWEEN OCEANS",
+			"publisher": "Scribner",
+			"rank": 13
+		},
+		{
+			"author": "by Ruth Ware",
+			"description": "A travel writer on a cruise is certain she has heard a body thrown overboard, but no one believes her.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501132940.jpg",
+			"name": "THE WOMAN IN CABIN 10",
+			"publisher": "Scout",
+			"rank": 14
+		},
+		{
+			"author": "by W.E.B. Griffin and William E. Butterworth",
+			"description": "A Philadelphia homicide sergeant investigates a dubious suicide.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399171208.jpg",
+			"name": "BROKEN TRUST",
+			"publisher": "Putnam",
+			"rank": 15
+		}
+	]
+}

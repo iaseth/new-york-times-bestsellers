@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "The host of \u201cThe O\u2019Reilly Factor\u201d recounts the events surrounding the attempted assassination of President Reagan in 1981.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781627792424.jpg",
+			"name": "KILLING REAGAN",
+			"publisher": "Holt",
+			"rank": 1
+		},
+		{
+			"author": "by Mindy Kaling",
+			"description": "More personal essays from the comedian and actress.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780804138154.jpg",
+			"name": "WHY NOT ME?",
+			"publisher": "Crown Archetype",
+			"rank": 2
+		},
+		{
+			"author": "by Jenny Lawson",
+			"description": "A humorous treatment of the author\u2019s experience of depression and anxiety disorder.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250077004.jpg",
+			"name": "FURIOUSLY HAPPY",
+			"publisher": "Flatiron",
+			"rank": 3
+		},
+		{
+			"author": "by Daniel James Brown",
+			"description": "The University of Washington\u2019s eight-oar crew and their quest for gold at the 1936 Berlin Olympics.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101622742.jpg",
+			"name": "THE BOYS IN THE BOAT",
+			"publisher": "Penguin",
+			"rank": 4
+		},
+		{
+			"author": "by Ta-Nehisi Coates",
+			"description": "A meditation on race in America as well as a personal story by the national correspondent of The Atlantic, framed as a letter to his teenage son.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780679645986.jpg",
+			"name": "BETWEEN THE WORLD AND ME",
+			"publisher": "Spiegel & Grau",
+			"rank": 5
+		},
+		{
+			"author": "by Bill Bryson",
+			"description": "A journey to rediscover America by trekking the 2,100 miles of the Appalachian Trail. First published in 1998; now a movie.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307717832.jpg",
+			"name": "A WALK IN THE WOODS",
+			"publisher": "Broadway",
+			"rank": 6
+		},
+		{
+			"author": "by David McCullough",
+			"description": "The story of the bicycle mechanics from Ohio who ushered in the age of flight.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476728742.jpg",
+			"name": "THE WRIGHT BROTHERS",
+			"publisher": "Simon & Schuster",
+			"rank": 7
+		},
+		{
+			"author": "by Atul Gawande",
+			"description": "The surgeon and New Yorker writer considers how doctors fail patients at the end of life, and how they can do better.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780805095159.jpg",
+			"name": "BEING MORTAL",
+			"publisher": "Metropolitan/Holt",
+			"rank": 8
+		},
+		{
+			"author": "by Rochus Misch and others",
+			"description": "An account of Hitler's private life by a soldier who was part of his SS bodyguard, and died in 2013.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781473837027.jpg",
+			"name": "HITLER'S LAST WITNESS",
+			"publisher": "Frontline",
+			"rank": 9
+		},
+		{
+			"author": "by Jay Winik",
+			"description": "A pivotal year that saw D-Day, the liberation of Paris, Franklin Roosevelt\u2019s re-election and the Battle of the Bulge.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781439136478.jpg",
+			"name": "1944",
+			"publisher": "Simon & Schuster",
+			"rank": 10
+		},
+		{
+			"author": "by Malala Yousafzai with Christina Lamb",
+			"description": "The experience of the Pakistani girl who advocated for women\u2019s education and was shot by the Taliban.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316322409.jpg",
+			"name": "I AM MALALA",
+			"publisher": "Little, Brown",
+			"rank": 11
+		},
+		{
+			"author": "by Aziz Ansari with Eric Klinenberg",
+			"description": "The comedian enlists a sociologist to help him understand today\u2019s dating scene.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698179967.jpg",
+			"name": "MODERN ROMANCE",
+			"publisher": "Penguin Press",
+			"rank": 12
+		},
+		{
+			"author": "by Dick Lehr and Gerald O'Neill",
+			"description": "The consequences of the Boston F.B.I.'s protection of James (Whitey) Bulger, the head of the Irish mob. Originally published in 2000; now a movie.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781610395533.jpg",
+			"name": "BLACK MASS",
+			"publisher": "PublicAffairs",
+			"rank": 13
+		},
+		{
+			"author": "by Suzy Favor Hamilton with Sarah Tomlinson",
+			"description": "Bipolar disorder drove a former Olympic runner to become a high-priced Las Vegas escort until she received treatment.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062346223.jpg",
+			"name": "FAST GIRL",
+			"publisher": "Dey Street/Morrow",
+			"rank": 14
+		},
+		{
+			"author": "by Glenn Beck",
+			"description": "The talk-radio host looks to Muslim teachings for the roots of Islamic extremism.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501126130.jpg",
+			"name": "IT IS ABOUT ISLAM",
+			"publisher": "Threshold Editions/Mercury Radio Arts",
+			"rank": 15
+		}
+	]
+}

@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Janet Evanovich",
+			"description": "The 28th book in the Stephanie Plum series. Diesel and Stephanie track the international computer hacker Oswald Wednesday.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982154875.jpg",
+			"name": "GAME ON",
+			"publisher": "Atria",
+			"rank": 1
+		},
+		{
+			"author": "by John Grisham",
+			"description": "The second book in the Whistler series. Investigator Lacy Stoltz goes after a serial killer and closes in on a sitting judge.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385546027.jpg",
+			"name": "THE JUDGE'S LIST",
+			"publisher": "Doubleday",
+			"rank": 2
+		},
+		{
+			"author": "by Mitch Albom",
+			"description": "After a ship explodes, 10 people struggling to survive pull a man who claims to be the Lord out of the sea.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062888341.jpg",
+			"name": "THE STRANGER IN THE LIFEBOAT",
+			"publisher": "Harper",
+			"rank": 3
+		},
+		{
+			"author": "by Lee Child and Andrew Child",
+			"description": "The 26th book in the Jack Reacher series. Reacher helps an F.B.I. agent look for her missing brother and takes on a foe named Dendoncker.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984818508.jpg",
+			"name": "BETTER OFF DEAD",
+			"publisher": "Delacorte",
+			"rank": 4
+		},
+		{
+			"author": "by Amor Towles",
+			"description": "Two friends who escaped from a juvenile work farm take Emmett Watson on an unexpected journey to New York City in 1954.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735222359.jpg",
+			"name": "THE LINCOLN HIGHWAY",
+			"publisher": "Viking",
+			"rank": 5
+		},
+		{
+			"author": "by Frank Herbert",
+			"description": "The 1965 science fiction novel that is the basis of several adaptations, including the recent film directed by Denis Villeneuve.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593438374.jpg",
+			"name": "DUNE",
+			"publisher": "Ace",
+			"rank": 6
+		},
+		{
+			"author": "by Nicholas Sparks",
+			"description": "Maggie Dawes, a renowned travel photographer, struggles with a medical diagnosis over Christmas.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538728628.jpg",
+			"name": "THE WISH",
+			"publisher": "Grand Central",
+			"rank": 7
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "A battered wife raised in a violent home attempts to halt the cycle of abuse.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501110375.jpg",
+			"name": "IT ENDS WITH US",
+			"publisher": "Atria",
+			"rank": 8
+		},
+		{
+			"author": "by Liane Moriarty",
+			"description": "The Delaney siblings suspect their father of causing the disappearance of their mother.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250220257.jpg",
+			"name": "APPLES NEVER FALL",
+			"publisher": "Holt",
+			"rank": 9
+		},
+		{
+			"author": "by Taylor Jenkins Reid",
+			"description": "A movie icon recounts stories of her loves and career to a struggling magazine writer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501161933.jpg",
+			"name": "THE SEVEN HUSBANDS OF EVELYN HUGO",
+			"publisher": "Washington Square/Atria",
+			"rank": 10
+		},
+		{
+			"author": "by Anthony Doerr",
+			"description": "An interconnected cast of dreamers and outsiders are in dangerous and disparate settings past, present and future.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982168438.jpg",
+			"name": "CLOUD CUCKOO LAND",
+			"publisher": "Scribner",
+			"rank": 11
+		},
+		{
+			"author": "by Hillary Rodham Clinton and Louise Penny",
+			"description": "In the wake of the previous administration\u2019s mishandling of international affairs, the new Secretary of State Ellen Adams confronts interconnected global threats.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982173678.jpg",
+			"name": "STATE OF TERROR",
+			"publisher": "Simon & Schuster, St. Martin\u2019s",
+			"rank": 12
+		},
+		{
+			"author": "by Gary Shteyngart",
+			"description": "Betrayals emerge and romances develop when eight friends wait out the pandemic in a country house.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984855121.jpg",
+			"name": "OUR COUNTRY FRIENDS",
+			"publisher": "Random House",
+			"rank": 13
+		},
+		{
+			"author": "by Karen White",
+			"description": "The seventh book in the Tradd Street series. Melanie Trenholm\u2019s husband asks for a separation while ghosts invade her home.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698193024.jpg",
+			"name": "THE ATTIC ON QUEEN STREET",
+			"publisher": "Berkley",
+			"rank": 14
+		},
+		{
+			"author": "by Ali Hazelwood",
+			"description": "A young professor agrees to pretend to be a third-year Ph.D. candidate\u2019s boyfriend.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593336823.jpg",
+			"name": "THE LOVE HYPOTHESIS",
+			"publisher": "Berkley",
+			"rank": 15
+		}
+	]
+}

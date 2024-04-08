@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Margot Lee Shetterly",
+			"description": "he story, based in part on interviews, of the black women mathematicians who were hired as \u201ccomputers\u201d by the precursor of NASA during World War II. The basis of the movie.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062363619.jpg",
+			"name": "HIDDEN FIGURES",
+			"publisher": "Morrow/HarperCollins",
+			"rank": 1
+		},
+		{
+			"author": "by J.D. Vance",
+			"description": "A Yale Law School graduate looks at the struggles of the white working class through the story of his own childhood in the Rust Belt.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062300560.jpg",
+			"name": "HILLBILLY ELEGY",
+			"publisher": "HarperCollins",
+			"rank": 2
+		},
+		{
+			"author": "by Bret Baier with Catherine Whitney",
+			"description": "Eisenhower\u2019s farewell address and his role in the Kennedy transition.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062569066.jpg",
+			"name": "THREE DAYS IN JANUARY",
+			"publisher": "Morrow/HarperCollins",
+			"rank": 3
+		},
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "The host of \u201cThe O\u2019Reilly Factor\u201d recounts the final years of World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781627790635.jpg",
+			"name": "KILLING THE RISING SUN",
+			"publisher": "Holt",
+			"rank": 4
+		},
+		{
+			"author": "by Douglas Preston",
+			"description": "A frightening search for a lost civilization in the Honduran rain forest.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455540020.jpg",
+			"name": "THE LOST CITY OF THE MONKEY GOD",
+			"publisher": "Grand Central",
+			"rank": 5
+		},
+		{
+			"author": "by Carrie Fisher",
+			"description": "Recollections of life on the set of the first Star Wars movie by the actress and writer, who died in December.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399173592.jpg",
+			"name": "THE PRINCESS DIARIST",
+			"publisher": "Blue Rider",
+			"rank": 6
+		},
+		{
+			"author": "by Chip Gaines and Joanna Gaines with Mark Dagostino",
+			"description": "The couple who star in the HGTV show \u201cFixer Upper.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780718081539.jpg",
+			"name": "THE MAGNOLIA STORY",
+			"publisher": "W Publishing/Thomas Nelson",
+			"rank": 7
+		},
+		{
+			"author": "by Carrie Fisher",
+			"description": "A memoir based on Fisher\u2019s one-woman autobiographical show. Originally published in 2008.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781439102251.jpg",
+			"name": "WISHFUL DRINKING",
+			"publisher": "Simon & Schuster",
+			"rank": 8
+		},
+		{
+			"author": "by Michael Lewis",
+			"description": "How the psychologists Daniel Kahneman and Amos Tversky upended assumptions about the decision-making process and invented the field of behavioral economics.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780393254600.jpg",
+			"name": "THE UNDOING PROJECT",
+			"publisher": "Norton",
+			"rank": 9
+		},
+		{
+			"author": "by Paul Kalanithi",
+			"description": "A memoir by a physician who received a diagnosis of Stage IV lung cancer at the age of 36.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812988413.jpg",
+			"name": "WHEN BREATH BECOMES AIR",
+			"publisher": "Random House",
+			"rank": 10
+		},
+		{
+			"author": "by Debbie Reynolds and Dorian Hannaway",
+			"description": "A second memoir by the actress, singer and dancer presents stories about her show-business friends, her man and money troubles, and her children.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062213655.jpg",
+			"name": "UNSINKABLE",
+			"publisher": "Morrow/HarperCollins",
+			"rank": 11
+		},
+		{
+			"author": "by Ron Chernow",
+			"description": "A biography of the first Treasury secretary. Originally published in 2004 and the basis of the Broadway musical.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780143034759.jpg",
+			"name": "ALEXANDER HAMILTON",
+			"publisher": "Penguin",
+			"rank": 12
+		},
+		{
+			"author": "by Thomas L. Friedman",
+			"description": "How the globalization, climate change and the accelerating pace of technology are reshaping the world, and what we can do about it.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780374715144.jpg",
+			"name": "THANK YOU FOR BEING LATE",
+			"publisher": "Farrar, Straus & Giroux",
+			"rank": 13
+		},
+		{
+			"author": "by the Dalai Lama and Desmond Tutu with Douglas Abrams",
+			"description": "A discussion between two spiritual leaders about how to find joy in the face of suffering.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399185045.jpg",
+			"name": "THE BOOK OF JOY",
+			"publisher": "Avery",
+			"rank": 14
+		},
+		{
+			"author": "by David M. Smick",
+			"description": "A call for economic policies that will promote economic growth by encouraging Main Street capitalism (small businesses and start-ups) rather than Wall Street capitalism.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781610397841.jpg",
+			"name": "THE GREAT EQUALIZER",
+			"publisher": "PublicAffairs",
+			"rank": 15
+		}
+	]
+}

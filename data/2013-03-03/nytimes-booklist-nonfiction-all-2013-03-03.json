@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Chris Kyle with Scott McEwen and Jim DeFelice",
+			"description": "A member of the Navy SEALs, recently shot to death in Texas, discusses his battlefield experiences.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062082374.jpg",
+			"name": "AMERICAN SNIPER",
+			"publisher": "HarperCollins Publishers",
+			"rank": 1
+		},
+		{
+			"author": "by Brandi Glanville with Leslie Bruce",
+			"description": "One of the \u201cReal Housewives of Beverly Hills\u201d describes growing up poor, her contentious divorce, her D.U.I. and other adventures.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476707648.jpg",
+			"name": "DRINKING AND TWEETING",
+			"publisher": "Gallery Books",
+			"rank": 2
+		},
+		{
+			"author": "by Eben Alexander",
+			"description": "A neurosurgeon recounts his near death experience during a coma from bacterial meningitis.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451695199.jpg",
+			"name": "PROOF OF HEAVEN",
+			"publisher": "Simon & Schuster",
+			"rank": 3
+		},
+		{
+			"author": "by Ben C. Carson and Candy Carson",
+			"description": "A doctor explores what makes America great.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780310330714.jpg",
+			"name": "AMERICA THE BEAUTIFUL",
+			"publisher": "Zondervan",
+			"rank": 4
+		},
+		{
+			"author": "by Sonia Sotomayor",
+			"description": "The Supreme Court justice recalls growing up in the Bronx, attending Princeton, working for the Manhattan District Attorney\u2019s office and becoming a federal judge.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307594884.jpg",
+			"name": "MY BELOVED WORLD",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 5
+		},
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "The host of \u201cThe O\u2019Reilly Factor\u201d recounts the assassination of John F. Kennedy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780805096668.jpg",
+			"name": "KILLING KENNEDY",
+			"publisher": "Henry Holt & Company",
+			"rank": 6
+		},
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "The host of \u201cThe O\u2019Reilly Factor\u201d recounts the assassination of Abraham Lincoln.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780805093070.jpg",
+			"name": "KILLING LINCOLN",
+			"publisher": "Henry Holt & Company",
+			"rank": 7
+		},
+		{
+			"author": "by Amity Shlaes",
+			"description": "The 30th president is reclaimed as a conservative hero in this biography.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062097972.jpg",
+			"name": "COOLIDGE",
+			"publisher": "HarperCollins Publishers",
+			"rank": 8
+		},
+		{
+			"author": "by Susan Cain",
+			"description": "Introverts \u2014 one-third of the population \u2014 are undervalued in American society.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307452207.jpg",
+			"name": "QUIET",
+			"publisher": "Crown Publishing",
+			"rank": 9
+		},
+		{
+			"author": "by Terry Francona and Dan Shaughnessy",
+			"description": "The manager\u2019s Red Sox years.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780547928173.jpg",
+			"name": "FRANCONA",
+			"publisher": "Houghton Mifflin Harcourt Publishing",
+			"rank": 10
+		},
+		{
+			"author": "by Mark Owen with Kevin Maurer",
+			"description": "An account of the mission that killed Osama bin Laden, by a former member of the Navy SEALs.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101611302.jpg",
+			"name": "NO EASY DAY",
+			"publisher": "Penguin Group",
+			"rank": 11
+		},
+		{
+			"author": "by Mike Piazza with Lonnie Wheeler",
+			"description": "The catcher\u2019s memoir.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781439163030.jpg",
+			"name": "LONG SHOT",
+			"publisher": "Simon & Schuster",
+			"rank": 12
+		},
+		{
+			"author": "by Lawrence Wright",
+			"description": "The Pulitzer Prize-winning author examines the world of Scientology.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307700667.jpg",
+			"name": "GOING CLEAR",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 13
+		},
+		{
+			"author": "by Al Gore",
+			"description": "The six drivers of global change that are reshaping our world.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780679644309.jpg",
+			"name": "FUTURE",
+			"publisher": "Random House Publishing",
+			"rank": 14
+		},
+		{
+			"author": "by Jenna Miscavige Hill with Lisa Pulitzer",
+			"description": "How the niece of the Scientology leader David Miscavige left the church at 21.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062248497.jpg",
+			"name": "BEYOND BELIEF",
+			"publisher": "HarperCollins Publishers",
+			"rank": 15
+		}
+	]
+}

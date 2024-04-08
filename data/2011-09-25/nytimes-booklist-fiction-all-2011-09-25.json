@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Kathryn Stockett",
+			"description": "A young white woman and two black maids in 1960s Mississippi.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781440697661.jpg",
+			"name": "THE HELP",
+			"publisher": "Penguin Group",
+			"rank": 1
+		},
+		{
+			"author": "by James Patterson and Marshall Karp",
+			"description": "When a young man finds a bag of diamonds, he gets the attention of the Ghost, a major assassin, and a rival assassin who wants the Ghost gone forever.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316097550.jpg",
+			"name": "KILL ME IF YOU CAN",
+			"publisher": "Little, Brown",
+			"rank": 2
+		},
+		{
+			"author": "by Darcie Chan",
+			"description": "Only one man knows an abused widow, which revealed will change many lives in her small Vermont town.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780615523774.jpg",
+			"name": "THE MILL RIVER RECLUSE",
+			"publisher": "Darcie Chan",
+			"rank": 3
+		},
+		{
+			"author": "by CJ Lyons",
+			"description": "A woman finds no closure after a man is executed for the murder of her husband and son.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/A00B0043M6J92.jpg",
+			"name": "BLIND FAITH",
+			"publisher": "Legacy",
+			"rank": 4
+		},
+		{
+			"author": "by Stephen King",
+			"description": "Unsuspecting drivers wind up dead after pulling into a boarded-up rest stop on a Maine highway.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451665604.jpg",
+			"name": "MILE 81",
+			"publisher": "Scribner",
+			"rank": 5
+		},
+		{
+			"author": "by Debbie Macomber",
+			"description": "Bruce Peyton\u2019s pregnant wife has left him, and he\u2019s not the only one in town with problems; the 11th book of the Cedar Cove series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780778312512.jpg",
+			"name": "1105 YAKIMA STREET",
+			"publisher": "Mira",
+			"rank": 6
+		},
+		{
+			"author": "by Chris Culver",
+			"description": "Against orders, a former homicide detective begins an investigation into his niece",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/A00B004M18ZRS.jpg",
+			"name": "THE ABBEY",
+			"publisher": "Chris Culver",
+			"rank": 7
+		},
+		{
+			"author": "by Christine Feehan",
+			"description": "A master executioner who has had a long and savage journey returns home to Peru; a Carpathian novel.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101547724.jpg",
+			"name": "DARK PREDATOR",
+			"publisher": "Berkley",
+			"rank": 8
+		},
+		{
+			"author": "by Clive Cussler and Justin Scott",
+			"description": "It is 1910 and the age of flying machines is still in its infancy. Detective Isaac Bell\u2019s new adventure is taking off.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399157813.jpg",
+			"name": "THE RACE",
+			"publisher": "Penguin Group",
+			"rank": 9
+		},
+		{
+			"author": "by J.R. Ward",
+			"description": "As the son of a serial killer, the homicide detective Thomas DelVecchio Jr. atones for his father\u2019s sins while fighting his own inner demons.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101529423.jpg",
+			"name": "ENVY",
+			"publisher": "Penguin Group",
+			"rank": 10
+		},
+		{
+			"author": "by Tatiana de Rosnay",
+			"description": "A contemporary American journalist investigates what happened to a little girl during the roundup of Jews in Paris in 1942.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780312370848.jpg",
+			"name": "SARAH\u2019S KEY",
+			"publisher": "St. Martin\u2019s",
+			"rank": 11
+		},
+		{
+			"author": "by Linda Howard",
+			"description": "Confronted by danger in the wild, a woman who owns a guide business and her male competitor must join forces if they are both to survive.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345506917.jpg",
+			"name": "PREY",
+			"publisher": "Random House",
+			"rank": 12
+		},
+		{
+			"author": "by Michael Connelly",
+			"description": "The Los Angeles detective Harry Bosch investigates the scandalous death of a narcotics officer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780759525788.jpg",
+			"name": "THE BLACK ICE",
+			"publisher": "Little, Brown",
+			"rank": 13
+		},
+		{
+			"author": "by George R. R. Martin",
+			"description": "After a colossal battle, the Seven Kingdoms face new threats; Book 5 of \u201cA Song of Ice and Fire.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780553582017.jpg",
+			"name": "A DANCE WITH DRAGONS",
+			"publisher": "Random House",
+			"rank": 14
+		},
+		{
+			"author": "by George R.R. Martin",
+			"description": "In the frozen wastes to the north of Winterfell, sinister and supernatural forces are mustering.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780553897845.jpg",
+			"name": "A GAME OF THRONES",
+			"publisher": "Random House",
+			"rank": 15
+		}
+	]
+}

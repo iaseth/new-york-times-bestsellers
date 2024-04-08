@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by John Grisham",
+			"description": "The line between fact and fiction becomes blurred when an author of thrillers is found dead after a hurricane hits Camino Island.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385545938.jpg",
+			"name": "CAMINO WINDS",
+			"publisher": "Doubleday",
+			"rank": 1
+		},
+		{
+			"author": "by Stephen King",
+			"description": "Four novellas: \u201cMr. Harrigan\u2019s Phone,\u201d \u201cThe Life of Chuck,\u201d \u201cRat\u201d and \u201cIf It Bleeds.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982137977.jpg",
+			"name": "IF IT BLEEDS",
+			"publisher": "Scribner",
+			"rank": 2
+		},
+		{
+			"author": "by Celeste Ng",
+			"description": "An artist upends a quiet town outside Cleveland.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735224308.jpg",
+			"name": "LITTLE FIRES EVERYWHERE",
+			"publisher": "Penguin Press",
+			"rank": 3
+		},
+		{
+			"author": "by Delia Owens",
+			"description": "In a quiet town on the North Carolina coast in 1969, a young woman who survived alone in the marsh becomes a murder suspect.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735219090.jpg",
+			"name": "WHERE THE CRAWDADS SING",
+			"publisher": "Putnam",
+			"rank": 4
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "The sixth book in the Memory Man series. Decker and Jamison investigate a murder in a North Dakota town in a fracking boom.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538761465.jpg",
+			"name": "WALK THE WIRE",
+			"publisher": "Grand Central",
+			"rank": 5
+		},
+		{
+			"author": "by Danielle Steel",
+			"description": "The triumphs and losses of one family over the last century are recounted as a symbolic piece of apparel gets handed down through the generations.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399179594.jpg",
+			"name": "THE WEDDING DRESS",
+			"publisher": "Delacorte",
+			"rank": 6
+		},
+		{
+			"author": "by Sally Rooney",
+			"description": "The connection between a high school star athlete and a loner ebbs and flows when they go to Trinity College in Dublin.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984822178.jpg",
+			"name": "NORMAL PEOPLE",
+			"publisher": "Hogarth",
+			"rank": 7
+		},
+		{
+			"author": "by Jeanine Cummins",
+			"description": "A bookseller flees Mexico for the United States with her son while pursued by the head of a drug cartel.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250209764.jpg",
+			"name": "AMERICAN DIRT",
+			"publisher": "Flatiron",
+			"rank": 8
+		},
+		{
+			"author": "by Sue Monk Kidd",
+			"description": "A scholarly young woman named Ana meets an 18-year-old Jesus and becomes caught up in a confluence of dangers.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525429760.jpg",
+			"name": "THE BOOK OF LONGINGS",
+			"publisher": "Viking",
+			"rank": 9
+		},
+		{
+			"author": "by John Sandford",
+			"description": "The 30th book in the Prey series. Washington politicians ask Lucas Davenport to look into someone who is targeting their children.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525539520.jpg",
+			"name": "MASKED PREY",
+			"publisher": "Putnam",
+			"rank": 10
+		},
+		{
+			"author": "by A.J. Finn",
+			"description": "A recluse who drinks heavily and takes prescription drugs may have witnessed a crime across from her Harlem townhouse.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062678416.jpg",
+			"name": "THE WOMAN IN THE WINDOW",
+			"publisher": "Morrow",
+			"rank": 11
+		},
+		{
+			"author": "by Lawrence Wright",
+			"description": "Henry Parsons, a microbiologist and epidemiologist, goes to Indonesia to check out a deadly virus that soon will affect the entire planet.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525658658.jpg",
+			"name": "THE END OF OCTOBER",
+			"publisher": "Knopf",
+			"rank": 12
+		},
+		{
+			"author": "by Alex Michaelides",
+			"description": "Theo Faber looks into the mystery of a famous painter who stops speaking after shooting her husband.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250301697.jpg",
+			"name": "THE SILENT PATIENT",
+			"publisher": "Celadon",
+			"rank": 13
+		},
+		{
+			"author": "by Lee Child",
+			"description": "Jack Reacher gets caught up in a turf war between Ukrainian and Albanian gangs.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399593543.jpg",
+			"name": "BLUE MOON",
+			"publisher": "Delacorte",
+			"rank": 14
+		},
+		{
+			"author": "by Jojo Moyes",
+			"description": "In Depression-era Kentucky, five women refuse to be cowed by men or convention as they deliver books.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399562501.jpg",
+			"name": "THE GIVER OF STARS",
+			"publisher": "Pamela Dorman/Viking",
+			"rank": 15
+		}
+	]
+}

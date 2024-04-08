@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "The 10th book in the conservative commentator\u2019s Killing series looks at organized crime in the United States during the 20th century.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250273659.jpg",
+			"name": "KILLING THE MOB",
+			"publisher": "St. Martin's",
+			"rank": 1
+		},
+		{
+			"author": "by Bessel van der Kolk",
+			"description": "How trauma affects the body and mind, and innovative treatments for recovery.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780670785933.jpg",
+			"name": "THE BODY KEEPS THE SCORE",
+			"publisher": "Penguin",
+			"rank": 2
+		},
+		{
+			"author": "by Bruce D. Perry and Oprah Winfrey",
+			"description": "An approach to dealing with trauma that shifts an essential question used to investigate it.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250223180.jpg",
+			"name": "WHAT HAPPENED TO YOU?",
+			"publisher": "Flatiron",
+			"rank": 3
+		},
+		{
+			"author": "by Clint Smith",
+			"description": "A staff writer at The Atlantic explores the legacy of slavery and its imprint on centuries of American history.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316492935.jpg",
+			"name": "HOW THE WORD IS PASSED",
+			"publisher": "Little, Brown",
+			"rank": 4
+		},
+		{
+			"author": "by Matthew McConaughey",
+			"description": "The Academy Award-winning actor shares snippets from the diaries he kept over the last 35 years.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593139134.jpg",
+			"name": "GREENLIGHTS",
+			"publisher": "Crown",
+			"rank": 5
+		},
+		{
+			"author": "by Michael Lewis",
+			"description": "Stories of skeptics who went against the official response of the Trump administration to the outbreak of Covid-19. The profiles include a local public-health officer and a group of doctors nicknamed the Wolverines.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780393881554.jpg",
+			"name": "THE PREMONITION",
+			"publisher": "Norton",
+			"rank": 6
+		},
+		{
+			"author": "by Glennon Doyle",
+			"description": "The activist and public speaker describes her journey of listening to her inner voice.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984801258.jpg",
+			"name": "UNTAMED",
+			"publisher": "Dial",
+			"rank": 7
+		},
+		{
+			"author": "by Malcolm Gladwell",
+			"description": "A look at the key players and outcomes of precision bombing during World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316296618.jpg",
+			"name": "THE BOMBER MAFIA",
+			"publisher": "Little, Brown",
+			"rank": 8
+		},
+		{
+			"author": "by Isabel Wilkerson",
+			"description": "The Pulitzer Prize-winning journalist examines aspects of caste systems across civilizations and reveals a rigid hierarchy in America today.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593230251.jpg",
+			"name": "CASTE",
+			"publisher": "Random House",
+			"rank": 9
+		},
+		{
+			"author": "by John Green",
+			"description": "A collection of personal essays that review different facets of the human-centered planet.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525555216.jpg",
+			"name": "THE ANTHROPOCENE REVIEWED",
+			"publisher": "Dutton",
+			"rank": 10
+		},
+		{
+			"author": "by Michelle Zauner",
+			"description": "The daughter of a Korean mother and Jewish-American father, and leader of the indie rock project Japanese Breakfast, describes creating her own identity after losing her mother to cancer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525657743.jpg",
+			"name": "CRYING IN H MART",
+			"publisher": "Knopf",
+			"rank": 11
+		},
+		{
+			"author": "by Ben Rhodes",
+			"description": "A former White House aide and close confidant to President Barack Obama traveled the globe to discover just how much America\u2019s fingerprints are on the world we shaped.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984856050.jpg",
+			"name": "AFTER THE FALL",
+			"publisher": "Random House",
+			"rank": 12
+		},
+		{
+			"author": "by Ashley C. Ford",
+			"description": "A memoir about growing up a poor Black girl in Indiana with a family fragmented by incarceration.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250305978.jpg",
+			"name": "SOMEBODY'S DAUGHTER",
+			"publisher": "Flatiron",
+			"rank": 13
+		},
+		{
+			"author": "by Carol Leonnig",
+			"description": "The three-time Pulitzer Prize winner brings to light the secrets, scandals and shortcomings of the Secret Service.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399589010.jpg",
+			"name": "ZERO FAIL",
+			"publisher": "Random House",
+			"rank": 14
+		},
+		{
+			"author": "by Robin Wall Kimmerer",
+			"description": "A botanist and member of the Citizen Potawatomi Nation espouses having an understanding and appreciation of plants and animals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781571313560.jpg",
+			"name": "BRAIDING SWEETGRASS",
+			"publisher": "Milkweed Editions",
+			"rank": 15
+		}
+	]
+}

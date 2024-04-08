@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Howard Stern",
+			"description": "The radio interviewer delves into some of his favorite on-air conversations from the past four decades of his career.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501194290.jpg",
+			"name": "HOWARD STERN COMES AGAIN",
+			"publisher": "Simon & Schuster",
+			"rank": 1
+		},
+		{
+			"author": "by David McCullough",
+			"description": "The Pulitzer Prize-winning historian tells the story of the settling of the Northwest Territory through five main characters.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501168680.jpg",
+			"name": "THE PIONEERS",
+			"publisher": "Simon & Schuster",
+			"rank": 2
+		},
+		{
+			"author": "by Tara Westover",
+			"description": "The daughter of survivalists, who is kept out of school, educates herself enough to leave home for university.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399590504.jpg",
+			"name": "EDUCATED",
+			"publisher": "Random House",
+			"rank": 3
+		},
+		{
+			"author": "by Michelle Obama",
+			"description": "The former first lady describes her journey from the South Side of Chicago to the White House, and how she balanced work, family and her husband\u2019s political ascent.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524763138.jpg",
+			"name": "BECOMING",
+			"publisher": "Crown",
+			"rank": 4
+		},
+		{
+			"author": "with related materials by The Washington Post",
+			"description": "Redacted findings from the special counsel\u2019s investigation into Russian interference in the 2016 presidential election and potential obstruction of justice by the president.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982129736.jpg",
+			"name": "THE MUELLER REPORT",
+			"publisher": "Scribner",
+			"rank": 5
+		},
+		{
+			"author": "by Rick Atkinson",
+			"description": "The Pulitzer Prize-winning historian and journalist begins his Revolution Trilogy with events from 1775 to 1777.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781627790437.jpg",
+			"name": "THE BRITISH ARE COMING",
+			"publisher": "Holt",
+			"rank": 6
+		},
+		{
+			"author": "by Melinda Gates",
+			"description": "The philanthropist shares stories of empowering women to improve society.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250240521.jpg",
+			"name": "THE MOMENT OF LIFT",
+			"publisher": "Flatiron",
+			"rank": 7
+		},
+		{
+			"author": "by Casey Cep",
+			"description": "Harper Lee\u2019s work on the true-crime story about a rural preacher accused of murdering five of his family members in the 1970s.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101947869.jpg",
+			"name": "FURIOUS HOURS",
+			"publisher": "Knopf",
+			"rank": 8
+		},
+		{
+			"author": "by Tom Cotton",
+			"description": "The veteran and Republican senator from Arkansas describes the services enacted by the Army unit known as the Old Guard.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062863157.jpg",
+			"name": "SACRED DUTY",
+			"publisher": "Morrow",
+			"rank": 9
+		},
+		{
+			"author": "by David Brooks",
+			"description": "A New York Times Op-Ed columnist espouses having an outward focus to attain a meaningful life.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812993264.jpg",
+			"name": "THE SECOND MOUNTAIN",
+			"publisher": "Random House",
+			"rank": 10
+		},
+		{
+			"author": "with an introduction by Alan Dershowitz",
+			"description": "Redacted findings from the special counsel\u2019s investigation into Russian interference in the 2016 presidential election and potential obstruction of justice by the president.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781510750173.jpg",
+			"name": "THE MUELLER REPORT",
+			"publisher": "Skyhorse",
+			"rank": 11
+		},
+		{
+			"author": "by Lori Gottlieb",
+			"description": "A psychotherapist gains unexpected insights when she becomes another therapist\u2019s patient.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781328662057.jpg",
+			"name": "MAYBE YOU SHOULD TALK TO SOMEONE",
+			"publisher": "Houghton Mifflin Harcourt",
+			"rank": 12
+		},
+		{
+			"author": "by Rick Reilly",
+			"description": "A sportswriter handicaps the current president\u2019s character, based on how he plays golf.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316528085.jpg",
+			"name": "COMMANDER IN CHEAT",
+			"publisher": "Hachette",
+			"rank": 13
+		},
+		{
+			"author": "by Chelsea Handler",
+			"description": "The comedian chronicles going into therapy and becoming an advocate for change.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525511779.jpg",
+			"name": "LIFE WILL BE THE DEATH OF ME",
+			"publisher": "Spiegel & Grau",
+			"rank": 14
+		},
+		{
+			"author": "by Yuval Noah Harari",
+			"description": "How Homo sapiens became Earth\u2019s dominant species.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062316097.jpg",
+			"name": "SAPIENS",
+			"publisher": "Harper",
+			"rank": 15
+		}
+	]
+}

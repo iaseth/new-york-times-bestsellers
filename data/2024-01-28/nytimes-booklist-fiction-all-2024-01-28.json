@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Rebecca Yarros",
+			"description": "Violet Sorrengail is urged by the commanding general, who also is her mother, to become a candidate for the elite dragon riders.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781649374042.jpg",
+			"name": "FOURTH WING",
+			"publisher": "Red Tower",
+			"rank": 1
+		},
+		{
+			"author": "by Rebecca Yarros",
+			"description": "The second book in the Empyrean series. Violet Sorrengail\u2019s next round of training might require her to betray the man she loves.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781649374172.jpg",
+			"name": "IRON FLAME",
+			"publisher": "Red Tower",
+			"rank": 2
+		},
+		{
+			"author": "by James McBride",
+			"description": "Secrets held by the residents of a dilapidated neighborhood come to life when a skeleton is found at the bottom of a well.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593422946.jpg",
+			"name": "THE HEAVEN & EARTH GROCERY STORE",
+			"publisher": "Riverhead",
+			"rank": 3
+		},
+		{
+			"author": "by James Patterson and Brian Sitts",
+			"description": "Three private investigators working in New York City draw the attention of an N.Y.P.D. detective.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316405195.jpg",
+			"name": "HOLMES, MARPLE & POE",
+			"publisher": "Little, Brown",
+			"rank": 4
+		},
+		{
+			"author": "by Ashley Elston",
+			"description": "A woman who works for a mysterious boss takes on a new identity to dig up information on someone.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593492918.jpg",
+			"name": "FIRST LIE WINS",
+			"publisher": "Pamela Dorman",
+			"rank": 5
+		},
+		{
+			"author": "by Hannah Grace",
+			"description": "Anastasia might need the help of the captain of a college hockey team to get on the Olympic figure skating team.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781668026038.jpg",
+			"name": "ICEBREAKER",
+			"publisher": "Atria",
+			"rank": 6
+		},
+		{
+			"author": "by Freida McFadden",
+			"description": "Troubles surface when a woman looking to make a fresh start takes a job in the home of the Winchesters.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538742570.jpg",
+			"name": "THE HOUSEMAID",
+			"publisher": "Grand Central",
+			"rank": 7
+		},
+		{
+			"author": "by Aurora Ascher",
+			"description": "When Harrow takes an interest in a winged beast new to the area, old enemies turn up to get their revenge on her.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781649374110.jpg",
+			"name": "SANCTUARY OF THE SHADOW",
+			"publisher": "Red Tower",
+			"rank": 8
+		},
+		{
+			"author": "by Sarah J. Maas",
+			"description": "Passion arises between Bryce Quinlan and Hunt Athalar as they seek to avenge the deaths of Bryce\u2019s friends.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781635574043.jpg",
+			"name": "HOUSE OF EARTH AND BLOOD",
+			"publisher": "Bloomsbury",
+			"rank": 9
+		},
+		{
+			"author": "by Bonnie Garmus",
+			"description": "A scientist and single mother living in California in the 1960s becomes a star on a TV cooking show.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385547345.jpg",
+			"name": "LESSONS IN CHEMISTRY",
+			"publisher": "Doubleday",
+			"rank": 10
+		},
+		{
+			"author": "by Sarah J. Maas",
+			"description": "The fifth book in the Court of Thorns and Roses series. Nesta Archeron is forced into close quarters with a warrior named Cassian.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781681196282.jpg",
+			"name": "A COURT OF SILVER FLAMES",
+			"publisher": "Bloomsbury",
+			"rank": 11
+		},
+		{
+			"author": "by Sarah J. Maas",
+			"description": "The second book in the Crescent City series. Bryce Quinlan and Hunt Athalar must choose to fight or stay silent.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781635574074.jpg",
+			"name": "HOUSE OF SKY AND BREATH",
+			"publisher": "Bloomsbury",
+			"rank": 12
+		},
+		{
+			"author": "by Ana Huang",
+			"description": "The first book in the Twisted series. Secrets emerge when Ava explores things with her brother\u2019s best friend.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781728274867.jpg",
+			"name": "TWISTED LOVE",
+			"publisher": "Bloom",
+			"rank": 13
+		},
+		{
+			"author": "by Shelby Van Pelt",
+			"description": "A widow working the night shift at the Sowell Bay Aquarium is aided in solving a mystery by a giant Pacific octopus living there.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063204157.jpg",
+			"name": "REMARKABLY BRIGHT CREATURES",
+			"publisher": "Ecco",
+			"rank": 14
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "A battered wife raised in a violent home attempts to halt the cycle of abuse.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501110375.jpg",
+			"name": "IT ENDS WITH US",
+			"publisher": "Atria",
+			"rank": 15
+		}
+	]
+}

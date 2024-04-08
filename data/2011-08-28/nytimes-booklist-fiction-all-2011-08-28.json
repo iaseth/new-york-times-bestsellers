@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Kathryn Stockett",
+			"description": "A young white woman and two black maids in 1960s Mississippi.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781440697661.jpg",
+			"name": "THE HELP",
+			"publisher": "Penguin Group",
+			"rank": 1
+		},
+		{
+			"author": "by Julie Garwood",
+			"description": "A doctor who witnesses the shooting of an F.B.I. agent finds herself drawn to another agent leading the case.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525952251.jpg",
+			"name": "THE IDEAL MAN",
+			"publisher": "Dutton",
+			"rank": 2
+		},
+		{
+			"author": "by James Patterson and Michael Ledwidge",
+			"description": "Nina Bloom, who years ago changed her identity to save her life, is forced to confront the past and the killer she thought she had escaped.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316127233.jpg",
+			"name": "NOW YOU SEE HER",
+			"publisher": "Little, Brown",
+			"rank": 3
+		},
+		{
+			"author": "by J. A. Jance",
+			"description": "A Seattle homicide detective\u2019s search for the killer of a little girl leads him into a murky world of religious fanaticism.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780061758225.jpg",
+			"name": "UNTIL PROVEN GUILTY",
+			"publisher": "HarperCollins",
+			"rank": 4
+		},
+		{
+			"author": "by David Nicholls",
+			"description": "Checking in year by year on the confused, halting romance of two children of the \u201980s.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307946713.jpg",
+			"name": "ONE DAY",
+			"publisher": "Knopf Doubleday",
+			"rank": 5
+		},
+		{
+			"author": "by George R.R. Martin",
+			"description": "In the frozen wastes to the north of Winterfell, sinister and supernatural forces are mustering.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780553897845.jpg",
+			"name": "A GAME OF THRONES",
+			"publisher": "Random House",
+			"rank": 6
+		},
+		{
+			"author": "by George R. R. Martin",
+			"description": "After a colossal battle, the Seven Kingdoms face new threats; Book 5 of \u201cA Song of Ice and Fire.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780553582017.jpg",
+			"name": "A DANCE WITH DRAGONS",
+			"publisher": "Random House",
+			"rank": 7
+		},
+		{
+			"author": "by Brad Thor",
+			"description": "The covert counterterrorism operative Scot Harvath has a plan to stop a terrorist group that wants to take down the United States.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781416586616.jpg",
+			"name": "FULL BLACK",
+			"publisher": "Simon & Schuster",
+			"rank": 8
+		},
+		{
+			"author": "by Tatiana de Rosnay",
+			"description": "A contemporary American journalist investigates what happened to a little girl during the roundup of Jews in Paris in 1942.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780312370848.jpg",
+			"name": "SARAH\u2019S KEY",
+			"publisher": "St. Martin\u2019s",
+			"rank": 9
+		},
+		{
+			"author": "by John Grisham",
+			"description": "A criminal wants to save an innocent man on death row, but he must convince the authorities he\u2019s telling the truth.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780440245117.jpg",
+			"name": "THE CONFESSION",
+			"publisher": "Knopf Doubleday",
+			"rank": 10
+		},
+		{
+			"author": "by Nicholas Sparks",
+			"description": "A young woman, while putting down roots in a small North Carolina town, is haunted by a dark secret from her past.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455523542.jpg",
+			"name": "SAFE HAVEN",
+			"publisher": "Grand Central",
+			"rank": 11
+		},
+		{
+			"author": "by W. E. B. Griffin and William E. Butterworth IV",
+			"description": "Weeks after Hitler\u2019s suicide, Cletus Frade and his colleagues in the O.S.S. are up to their necks in battles that are as fierce as the ones just ended; an Honor Bound novel.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780515150988.jpg",
+			"name": "VICTORY AND HONOR",
+			"publisher": "Putnam",
+			"rank": 12
+		},
+		{
+			"author": "by Michael Prescott",
+			"description": "A serial killer who kidnaps women in order to hunt them down in the desert is thrown off balance upon finding that he himself is being mysteriously stalked.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/A00B00547KH66.jpg",
+			"name": "STEALING FACES",
+			"publisher": "Michael Prescott",
+			"rank": 13
+		},
+		{
+			"author": "by Sara Gruen",
+			"description": "After his parents die in a car accident, a young veterinary student \u2014 and an elephant \u2014 save a Depression-era circus.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781616200718.jpg",
+			"name": "WATER FOR ELEPHANTS",
+			"publisher": "Algonquin",
+			"rank": 14
+		},
+		{
+			"author": "by Douglas Preston and Lincoln Child",
+			"description": "After his wife\u2019s murder, the F.B.I. agent Aloysius Pendergast seeks retribution.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780446554985.jpg",
+			"name": "COLD VENGEANCE",
+			"publisher": "Grand Central",
+			"rank": 15
+		}
+	]
+}

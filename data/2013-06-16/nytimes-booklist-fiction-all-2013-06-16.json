@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Dan Brown",
+			"description": "The symbologist Robert Langdon, on the run in Florence, must decipher a series of codes created by a Dante-loving scientist.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400079155.jpg",
+			"name": "INFERNO",
+			"publisher": "Doubleday",
+			"rank": 1
+		},
+		{
+			"author": "by Khaled Hosseini",
+			"description": "A multigenerational family saga centers on a brother and sister born in Afghanistan.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594632389.jpg",
+			"name": "AND THE MOUNTAINS ECHOED",
+			"publisher": "Riverhead",
+			"rank": 2
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "The government hitman Will Robie uncovers a serious threat as he attempts to take out a fellow assassin who has gone rogue.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455521289.jpg",
+			"name": "THE HIT",
+			"publisher": "Grand Central",
+			"rank": 3
+		},
+		{
+			"author": "by Dean Koontz",
+			"description": "Odd Thomas, who can communicate with the dead, must forestall a crime by discovering the three innocent people who have been targeted by an evil killer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780553593082.jpg",
+			"name": "DEEPLY ODD",
+			"publisher": "Bantam",
+			"rank": 4
+		},
+		{
+			"author": "by Jessica Sorensen",
+			"description": "When a new tragedy strikes Ella and Micha, one will make a choice that could break them apart forever.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455574872.jpg",
+			"name": "THE FOREVER OF ELLA AND MICHA",
+			"publisher": "Forever",
+			"rank": 5
+		},
+		{
+			"author": "by Clive Cussler and Graham Brown",
+			"description": "Kurt Austin, Joe Zavala and the rest of the Numa team search for a physicist\u2019s machine, buried in an ocean trench, that can cause deadly earthquakes; the 11th Numa Files novel.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780425267776.jpg",
+			"name": "ZERO HOUR",
+			"publisher": "Putnam",
+			"rank": 6
+		},
+		{
+			"author": "by Max Brooks",
+			"description": "An \u201coral history\u201d of an imagined Zombie War that nearly destroys civilization.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307351937.jpg",
+			"name": "WORLD WAR Z",
+			"publisher": "Broadway",
+			"rank": 7
+		},
+		{
+			"author": "by Sherryl Woods",
+			"description": "With her two sisters heading for the altar, Samantha is finding it hard to ignore her feelings for Ethan, the local war hero.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780778314462.jpg",
+			"name": "SEA GLASS ISLAND",
+			"publisher": "Harlequin Mira",
+			"rank": 8
+		},
+		{
+			"author": "by John Sandford",
+			"description": "Lucas Davenport is drawn into the investigation of a Minnesota political scandal and the disappearance of an operative.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780425267769.jpg",
+			"name": "SILKEN PREY",
+			"publisher": "Putnam",
+			"rank": 9
+		},
+		{
+			"author": "by James Patterson and Maxine Paetro",
+			"description": "A week after giving birth, Detective Lindsay Boxer returns to work to investigate some grisly murders.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316210843.jpg",
+			"name": "12TH OF NEVER",
+			"publisher": "Little, Brown",
+			"rank": 10
+		},
+		{
+			"author": "by Georgia Cates",
+			"description": "Will Jack Henry\u2019s absence leave Laurelyn wanting more than her own success? Book 2 of the Beauty series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781628470352.jpg",
+			"name": "BEAUTY FROM SURRENDER",
+			"publisher": "Georgia Cates",
+			"rank": 11
+		},
+		{
+			"author": "by Christine Feehan",
+			"description": "A killer is on the loose in New Orleans, and a sultry jazz singer draws the leopard-shifter Remy Boudreaux deep into the shadows.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780515151558.jpg",
+			"name": "LEOPARD'S PREY",
+			"publisher": "Jove",
+			"rank": 12
+		},
+		{
+			"author": "by Amy Harmon",
+			"description": "A young British teacher takes a tough, troubled and overtly sexy high school senior under his wing.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/A00B00C2GEJT8.jpg",
+			"name": "A DIFFERENT BLUE",
+			"publisher": "Amy Harmon",
+			"rank": 13
+		},
+		{
+			"author": "by Nora Roberts",
+			"description": "A former criminal attorney who has been acquitted of his wife\u2019s murder retreats to his family estate on a rocky New England cliff, where he is comforted by the house\u2019s caretaker amid continuing danger.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399159893.jpg",
+			"name": "WHISKEY BEACH",
+			"publisher": "Putnam",
+			"rank": 14
+		},
+		{
+			"author": "by Orson Scott Card",
+			"description": "Government agencies breed child geniuses and train them as soldiers.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812550702.jpg",
+			"name": "ENDER'S GAME",
+			"publisher": "Tor/Tom Doherty",
+			"rank": 15
+		}
+	]
+}

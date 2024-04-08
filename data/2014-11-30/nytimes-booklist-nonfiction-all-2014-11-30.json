@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by George W. Bush",
+			"description": "The 43rd president\u2019s portrait of his father, George H.\u2009W. Bush, the 41st.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780553447798.jpg",
+			"name": "41",
+			"publisher": "Crown",
+			"rank": 1
+		},
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "The host of \u201cThe O\u2019Reilly Factor\u201d recounts the strange death of Gen. George S. Patton in December 1945.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780805096699.jpg",
+			"name": "KILLING PATTON",
+			"publisher": "Holt",
+			"rank": 2
+		},
+		{
+			"author": "by Andy Cohen",
+			"description": "One year in the (social) life of the TV producer and host of \u201cWatch What Happens Live.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781627792295.jpg",
+			"name": "THE ANDY COHEN DIARIES",
+			"publisher": "Holt",
+			"rank": 3
+		},
+		{
+			"author": "by Amy Poehler",
+			"description": "A humorous miscellany from the comedian and actress, the \u201cSaturday Night Live\u201d alumna and star of \u201cParks and Recreation.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062268341.jpg",
+			"name": "YES PLEASE",
+			"publisher": "Dey St./Morrow",
+			"rank": 4
+		},
+		{
+			"author": "by Laura Hillenbrand",
+			"description": "An Olympic runner\u2019s story of survival as a prisoner of the Japanese in World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400064168.jpg",
+			"name": "UNBROKEN",
+			"publisher": "Random House",
+			"rank": 5
+		},
+		{
+			"author": "by Daniel James Brown",
+			"description": "The University of Washington\u2019s eight-oar crew and their quest for gold at the 1936 Berlin Olympics.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101622742.jpg",
+			"name": "THE BOYS IN THE BOAT",
+			"publisher": "Viking",
+			"rank": 6
+		},
+		{
+			"author": "by Anne Lamott",
+			"description": "Essays about forgiveness, transformation and grace.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698189744.jpg",
+			"name": "SMALL VICTORIES",
+			"publisher": "Riverhead",
+			"rank": 7
+		},
+		{
+			"author": "by Mark Owen with Kevin Maurer",
+			"description": "In a follow-up to \u201cNo Easy Day,\u201d the Navy SEAL team member Matt Bissonnette, writing pseudonymously, describes the challenges of SEAL training and other missions in which he participated.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698164444.jpg",
+			"name": "NO HERO",
+			"publisher": "Dutton",
+			"rank": 8
+		},
+		{
+			"author": "by Atul Gawande",
+			"description": "The surgeon and New Yorker writer considers how doctors fail patients at the end of life, and how they can do better.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780805095159.jpg",
+			"name": "BEING MORTAL",
+			"publisher": "Metropolitan/Holt",
+			"rank": 9
+		},
+		{
+			"author": "by Lena Dunham",
+			"description": "A collection of revealing and often humorous personal essays from the creator and star of \u201cGirls.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812995008.jpg",
+			"name": "NOT THAT KIND OF GIRL",
+			"publisher": "Random House",
+			"rank": 10
+		},
+		{
+			"author": "by Amanda Palmer",
+			"description": "An expansion of a popular TED talk by the singer and blogger about the value of art and of pursuing dreams.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455533770.jpg",
+			"name": "THE ART OF ASKING",
+			"publisher": "Grand Central",
+			"rank": 11
+		},
+		{
+			"author": "by Marin Katusa",
+			"description": "A hedge fund manager argues that Vladimir Putin\u2019s ambition is to consolidate Russian power by taking control of the world\u2019s energy resources.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781118799949.jpg",
+			"name": "THE COLDER WAR",
+			"publisher": "Wiley/Casey Research",
+			"rank": 12
+		},
+		{
+			"author": "by Cheryl Strayed",
+			"description": "A woman\u2019s account of a life-changing 1,100-mile hike along the Pacific Crest Trail during the summer of 1995.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307476074.jpg",
+			"name": "WILD",
+			"publisher": "Knopf",
+			"rank": 13
+		},
+		{
+			"author": "by Duncan Barrett and Nuala Calvi",
+			"description": "The story of four British women who crossed the Atlantic for love after World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062328069.jpg",
+			"name": "GI BRIDES",
+			"publisher": "HarperCollins",
+			"rank": 14
+		},
+		{
+			"author": "by Sharyl Attkisson",
+			"description": "An investigative reporter complains of harassment and intimidation by the Obama administration.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062322869.jpg",
+			"name": "STONEWALLED",
+			"publisher": "Harper",
+			"rank": 15
+		}
+	]
+}

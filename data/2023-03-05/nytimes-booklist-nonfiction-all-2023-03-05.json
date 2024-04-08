@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Prince Harry",
+			"description": "The Duke of Sussex details his struggles with the royal family, loss of his mother, service in the British Army and marriage to Meghan Markle.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593593806.jpg",
+			"name": "SPARE",
+			"publisher": "Random House",
+			"rank": 1
+		},
+		{
+			"author": "by Bessel van der Kolk",
+			"description": "How trauma affects the body and mind, and innovative treatments for recovery.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780670785933.jpg",
+			"name": "THE BODY KEEPS THE SCORE",
+			"publisher": "Penguin",
+			"rank": 2
+		},
+		{
+			"author": "by James B. Stewart and Rachel Abrams",
+			"description": "Two New York Times journalists portray power struggles within Paramount Global, the multibillion-dollar entertainment empire controlled by the Redstone family.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984879424.jpg",
+			"name": "UNSCRIPTED",
+			"publisher": "Penguin Press",
+			"rank": 3
+		},
+		{
+			"author": "by Jennette McCurdy",
+			"description": "The actress and filmmaker describes her eating disorders and difficult relationship with her mother.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982185824.jpg",
+			"name": "I'M GLAD MY MOM DIED",
+			"publisher": "Simon & Schuster",
+			"rank": 4
+		},
+		{
+			"author": "by Isabel Wilkerson",
+			"description": "The Pulitzer Prize-winning journalist examines aspects of caste systems across civilizations and reveals a rigid hierarchy in America today.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593230251.jpg",
+			"name": "CASTE",
+			"publisher": "Random House",
+			"rank": 5
+		},
+		{
+			"author": "by Michelle Obama",
+			"description": "The former first lady shares personal stories and the tools she uses to deal with difficult situations.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593237465.jpg",
+			"name": "THE LIGHT WE CARRY",
+			"publisher": "Crown",
+			"rank": 6
+		},
+		{
+			"author": "by Pamela Anderson",
+			"description": "The actress and activist details her childhood, rise to fame and the ways she is reclaiming the narrative of her life.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063226562.jpg",
+			"name": "LOVE, PAMELA",
+			"publisher": "Dey Street",
+			"rank": 7
+		},
+		{
+			"author": "by Susan Cain",
+			"description": "The author of \u201cQuiet\u201d suggests ways to embrace loss and suffering within ourselves and others.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780451499783.jpg",
+			"name": "BITTERSWEET",
+			"publisher": "Crown",
+			"rank": 8
+		},
+		{
+			"author": "by Greta Thunberg",
+			"description": "The activist exposes greenwashing efforts and shares insights from leaders in various fields about climate challenges.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593492307.jpg",
+			"name": "THE CLIMATE BOOK",
+			"publisher": "Penguin Press",
+			"rank": 9
+		},
+		{
+			"author": "by Brad Meltzer and Josh Mensch",
+			"description": "The story of a Nazi plot to kill President Roosevelt, Joseph Stalin and Winston Churchill.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250777263.jpg",
+			"name": "THE NAZI CONSPIRACY",
+			"publisher": "Flatiron",
+			"rank": 10
+		},
+		{
+			"author": "by James Patterson and Matt Eversmann with Chris Mooney",
+			"description": "A collection of stories about police officers.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316406604.jpg",
+			"name": "WALK THE BLUE LINE",
+			"publisher": "Little, Brown",
+			"rank": 11
+		},
+		{
+			"author": "by David Grann",
+			"description": "The story of a murder spree in 1920s Oklahoma that targeted Osage Indians, whose lands contained oil.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385534246.jpg",
+			"name": "KILLERS OF THE FLOWER MOON",
+			"publisher": "Doubleday",
+			"rank": 12
+		},
+		{
+			"author": "by bell hooks",
+			"description": "The late feminist icon explores the causes of a polarized society and the meaning of love.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780060959470.jpg",
+			"name": "ALL ABOUT LOVE",
+			"publisher": "Morrow",
+			"rank": 13
+		},
+		{
+			"author": "by Mike Pompeo",
+			"description": "The former secretary of state gives his account of his time serving under President Trump, with a focus on an America First approach.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063247444.jpg",
+			"name": "NEVER GIVE AN INCH",
+			"publisher": "Broadside",
+			"rank": 14
+		},
+		{
+			"author": "by Matthew Perry",
+			"description": "The actor, known for playing Chandler Bing on \u201cFriends,\u201d shares stories from his childhood and his struggles with sobriety.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250866448.jpg",
+			"name": "FRIENDS, LOVERS, AND THE BIG TERRIBLE THING",
+			"publisher": "Flatiron",
+			"rank": 15
+		}
+	]
+}

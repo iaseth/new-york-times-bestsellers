@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by J.D. Robb",
+			"description": "The 50th book of the In Death series. Eve Dallas seeks the sender of packages that give off toxic airborne fumes.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250207203.jpg",
+			"name": "GOLDEN IN DEATH",
+			"publisher": "St. Martin's",
+			"rank": 1
+		},
+		{
+			"author": "by Douglas Preston and Lincoln Child",
+			"description": "The 19th book in the Agent Pendergast series. Human feet inside nondescript shoes wash ashore in Florida.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538747254.jpg",
+			"name": "CROOKED RIVER",
+			"publisher": "Grand Central",
+			"rank": 2
+		},
+		{
+			"author": "by Jeanine Cummins",
+			"description": "A bookseller flees Mexico for the United States with her son while pursued by the head of a drug cartel.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250209764.jpg",
+			"name": "AMERICAN DIRT",
+			"publisher": "Flatiron",
+			"rank": 3
+		},
+		{
+			"author": "by Delia Owens",
+			"description": "In a quiet town on the North Carolina coast in 1969, a young woman who survived alone in the marsh becomes a murder suspect.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735219090.jpg",
+			"name": "WHERE THE CRAWDADS SING",
+			"publisher": "Putnam",
+			"rank": 4
+		},
+		{
+			"author": "by Jonathan Kellerman",
+			"description": "The 35th book in the Alex Delaware series. Four unrelated victims are found slaughtered in a limousine.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525618522.jpg",
+			"name": "THE MUSEUM OF DESIRE",
+			"publisher": "Ballantine",
+			"rank": 5
+		},
+		{
+			"author": "by Andrzej Sapkowski",
+			"description": "Linked stories follow the exploits of Geralt of Rivia, a monster-slaying mercenary.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316438964.jpg",
+			"name": "THE LAST WISH",
+			"publisher": "Orbit",
+			"rank": 6
+		},
+		{
+			"author": "by Alex Michaelides",
+			"description": "Theo Faber looks into the mystery of a famous painter who stops speaking after shooting her husband.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250301697.jpg",
+			"name": "THE SILENT PATIENT",
+			"publisher": "Celadon",
+			"rank": 7
+		},
+		{
+			"author": "by Ann Patchett",
+			"description": "A sibling relationship is impacted when the family goes from poverty to wealth and back again over the course of many decades.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062963673.jpg",
+			"name": "THE DUTCH HOUSE",
+			"publisher": "Harper",
+			"rank": 8
+		},
+		{
+			"author": "by Kiley Reid",
+			"description": "Tumult ensues when Alix Chamberlain\u2019s babysitter is mistakenly accused of kidnapping her charge.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525541905.jpg",
+			"name": "SUCH A FUN AGE",
+			"publisher": "Putnam",
+			"rank": 9
+		},
+		{
+			"author": "by Celeste Ng",
+			"description": "An artist upends a quiet town outside Cleveland.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735224308.jpg",
+			"name": "LITTLE FIRES EVERYWHERE",
+			"publisher": "Penguin Press",
+			"rank": 10
+		},
+		{
+			"author": "by Jojo Moyes",
+			"description": "In Depression-era Kentucky, five women refuse to be cowed by men or convention as they deliver books.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399562501.jpg",
+			"name": "THE GIVER OF STARS",
+			"publisher": "Pamela Dorman/Viking",
+			"rank": 11
+		},
+		{
+			"author": "by John Grisham",
+			"description": "Cullen Post, a lawyer and Episcopal minister, antagonizes some ruthless killers when he takes on a wrongful conviction case.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385544184.jpg",
+			"name": "THE GUARDIANS",
+			"publisher": "Doubleday",
+			"rank": 12
+		},
+		{
+			"author": "by Ann Napolitano",
+			"description": "A 12-year-old boy tries to start over after becoming the sole survivor of a plane crash in which he lost his immediate family.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984854780.jpg",
+			"name": "DEAR EDWARD",
+			"publisher": "Dial",
+			"rank": 13
+		},
+		{
+			"author": "by Heather Morris",
+			"description": "A concentration camp detainee tasked with permanently marking fellow prisoners falls in love with one of them.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062797155.jpg",
+			"name": "THE TATTOOIST OF AUSCHWITZ",
+			"publisher": "Harper",
+			"rank": 14
+		},
+		{
+			"author": "by James Patterson and James O. Born",
+			"description": "The new head of an F.B.I. task force takes on a crime syndicate run by a pair of Russian nationals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316493987.jpg",
+			"name": "LOST",
+			"publisher": "Little, Brown",
+			"rank": 15
+		}
+	]
+}

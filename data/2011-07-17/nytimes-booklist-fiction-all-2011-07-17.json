@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by James Patterson and Michael Ledwidge",
+			"description": "Nina Bloom, who years ago changed her identity to save her life, is forced to confront the past and the killer she thought she had escaped.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316127233.jpg",
+			"name": "NOW YOU SEE HER",
+			"publisher": "Little, Brown",
+			"rank": 1
+		},
+		{
+			"author": "by Kathryn Stockett",
+			"description": "A young white woman and two black maids in 1960s Mississippi.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781440697661.jpg",
+			"name": "THE HELP",
+			"publisher": "Penguin Group",
+			"rank": 2
+		},
+		{
+			"author": "by Janet Evanovich",
+			"description": "A killer is after the bounty hunter Stephanie Plum, who faces further complications as she tries to choose a boyfriend.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345527691.jpg",
+			"name": "SMOKIN\u2019 SEVENTEEN",
+			"publisher": "Random House",
+			"rank": 3
+		},
+		{
+			"author": "by Sara Gruen",
+			"description": "After his parents die in a car accident, a young veterinary student \u2014 and an elephant \u2014 save a Depression-era circus.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781616200718.jpg",
+			"name": "WATER FOR ELEPHANTS",
+			"publisher": "Algonquin",
+			"rank": 4
+		},
+		{
+			"author": "by Lara Adrian",
+			"description": "Protecting a woman once held prisoner by the vampire Dragos, the Breed called Hunter vows to seek justice.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780440339915.jpg",
+			"name": "DEEPER THAN MIDNIGHT",
+			"publisher": "Random House",
+			"rank": 5
+		},
+		{
+			"author": "by Ann Patchett",
+			"description": "In the Amazon, a medical researcher seeks her former mentor, a despotic scientist developing a miracle fertility drug.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062049827.jpg",
+			"name": "STATE OF WONDER",
+			"publisher": "HarperCollins",
+			"rank": 6
+		},
+		{
+			"author": "by Linda Lael Miller",
+			"description": "Carolyn Simmons is looking for Mr. Right in Lonesome Bend. Instead she falls for the rough-and-tumble rodeo cowboy Brody Creed, the opposite of everything she wants.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781459207684.jpg",
+			"name": "THE CREED LEGACY",
+			"publisher": "Harlequin",
+			"rank": 7
+		},
+		{
+			"author": "by George R.R. Martin",
+			"description": "In the frozen wastes to the north of Winterfell, sinister and supernatural forces are mustering.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780553897845.jpg",
+			"name": "A GAME OF THRONES",
+			"publisher": "Random House",
+			"rank": 8
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "As Christmas nears, a terminally ill man is preparing his family for his death when another tragedy strikes.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780446583145.jpg",
+			"name": "ONE SUMMER",
+			"publisher": "Grand Central",
+			"rank": 9
+		},
+		{
+			"author": "by George R.R. Martin",
+			"description": "From the citadel of Dragonstone to the shores of Winterfell, factions vie for control of a divided land; Book 2 of \"A Song of Ice and Fire.\"",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780553579901.jpg",
+			"name": "A CLASH OF KINGS",
+			"publisher": "Random House",
+			"rank": 10
+		},
+		{
+			"author": "by Tom Clancy with Peter Telep",
+			"description": "Maxwell Moore pursues the terrorists who killed his C.I.A. colleagues in a bomb attack in Pakistan.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780425246061.jpg",
+			"name": "AGAINST ALL ENEMIES",
+			"publisher": "Penguin Group",
+			"rank": 11
+		},
+		{
+			"author": "by Emma Donoghue",
+			"description": "The entire world of the 5-year-old boy who narrates this novel is the 11-by-11-foot room in which his mother is being held prisoner.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316223232.jpg",
+			"name": "ROOM",
+			"publisher": "Little, Brown",
+			"rank": 12
+		},
+		{
+			"author": "by Lori Foster",
+			"description": "She may be aloof, but Alani Rivers is the kind of woman the hot-blooded mercenary Jackson Savor can\u2019t forget.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780373775828.jpg",
+			"name": "SAVOR THE DANGER",
+			"publisher": "Harlequin",
+			"rank": 13
+		},
+		{
+			"author": "by Michael Connelly",
+			"description": "The Los Angeles homicide detective Hieronymus Bosch investigates the death of a fellow Vietnam veteran.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780759525771.jpg",
+			"name": "THE BLACK ECHO",
+			"publisher": "Little, Brown",
+			"rank": 14
+		},
+		{
+			"author": "by Elin Hilderbrand",
+			"description": "The wife of a Wall Street crook retreats to Nantucket, where she faces an array of relationship troubles.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316099646.jpg",
+			"name": "SILVER GIRL",
+			"publisher": "Little, Brown",
+			"rank": 15
+		}
+	]
+}

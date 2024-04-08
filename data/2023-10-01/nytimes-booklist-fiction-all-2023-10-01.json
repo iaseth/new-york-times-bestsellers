@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Kyle Mills",
+			"description": "The 22nd book in the Mitch Rapp series. Rapp and his team try to foil a plot by Russia without being discovered.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982164997.jpg",
+			"name": "VINCE FLYNN: CODE RED",
+			"publisher": "Atria/Emily Bestler",
+			"rank": 1
+		},
+		{
+			"author": "by Stephen King",
+			"description": "The private detective Holly Gibney investigates whether a married pair of octogenarian academics had anything to do with Bonnie Dahl\u2019s disappearance.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781668016138.jpg",
+			"name": "HOLLY",
+			"publisher": "Scribner",
+			"rank": 2
+		},
+		{
+			"author": "by Rebecca Yarros",
+			"description": "Violet Sorrengail is urged by the commanding general, who also is her mother, to become a candidate for the elite dragon riders.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781649374042.jpg",
+			"name": "FOURTH WING",
+			"publisher": "Red Tower",
+			"rank": 3
+		},
+		{
+			"author": "by James Patterson",
+			"description": "Three thrillers: \u201c23 \u00bd Lies\u201d (written with Maxine Paetro), \u201cFallen Ranger\u201d (written with Andrew Bourelle) and \u201cWatch Your Back\u201d (written with Loren D. Estleman).",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538752685.jpg",
+			"name": "23 1/2 LIES",
+			"publisher": "Grand Central",
+			"rank": 4
+		},
+		{
+			"author": "by Lucy Score",
+			"description": "The third book in the Knockemout series. A mogul and a small-town librarian share a dark secret from their past.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781728276120.jpg",
+			"name": "THINGS WE LEFT BEHIND",
+			"publisher": "Bloom",
+			"rank": 5
+		},
+		{
+			"author": "by Jennifer L. Armentrout",
+			"description": "In a world where only nine cities were spared divine destruction, Calista must decide whether to follow her intuition to safety or court calamity by pursuing a love.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250750198.jpg",
+			"name": "FALL OF RUIN AND WRATH",
+			"publisher": "Bramble",
+			"rank": 6
+		},
+		{
+			"author": "by Ann Patchett",
+			"description": "Three daughters, who return to their family orchard in the spring of 2020, learn about their mother\u2019s relationship with a famous actor.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063327528.jpg",
+			"name": "TOM LAKE",
+			"publisher": "Harper",
+			"rank": 7
+		},
+		{
+			"author": "by Bonnie Garmus",
+			"description": "A scientist and single mother living in California in the 1960s becomes a star on a TV cooking show.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385547345.jpg",
+			"name": "LESSONS IN CHEMISTRY",
+			"publisher": "Doubleday",
+			"rank": 8
+		},
+		{
+			"author": "by Freida McFadden",
+			"description": "Troubles surface when a woman looking to make a fresh start takes a job in the home of the Winchesters.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538742570.jpg",
+			"name": "THE HOUSEMAID",
+			"publisher": "Grand Central",
+			"rank": 9
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "Dangers develop when a drug trafficker becomes obsessed with a woman who has a mutual attraction to a D.E.A. agent.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538756591.jpg",
+			"name": "TOO LATE",
+			"publisher": "Grand Central",
+			"rank": 10
+		},
+		{
+			"author": "by Abraham Verghese",
+			"description": "Three generations of a family living on South India\u2019s Malabar Coast suffer the loss of a family member by drowning.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780802162175.jpg",
+			"name": "THE COVENANT OF WATER",
+			"publisher": "Grove",
+			"rank": 11
+		},
+		{
+			"author": "by J.D. Robb",
+			"description": "The 57th book of the In Death series. Eve Dallas looks into the death of an internal affairs captain.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250284099.jpg",
+			"name": "PAYBACK IN DEATH",
+			"publisher": "St. Martin's",
+			"rank": 12
+		},
+		{
+			"author": "by Hannah Nicole Maehrer",
+			"description": "Evie Sage gets a job doing unspecified office duties for the most infamous villain in the kingdom of Rennedawn.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781649375803.jpg",
+			"name": "ASSISTANT TO THE VILLAIN",
+			"publisher": "Red Tower",
+			"rank": 13
+		},
+		{
+			"author": "by Barbara Kingsolver",
+			"description": "Winner of a 2023 Pulitzer Prize for fiction. A reimagining of Charles Dickens\u2019s \u201cDavid Copperfield\u201d set in the mountains of southern Appalachia.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063251922.jpg",
+			"name": "DEMON COPPERHEAD",
+			"publisher": "Harper",
+			"rank": 14
+		},
+		{
+			"author": "by Lauren Groff",
+			"description": "A servant girl, who escapes with almost nothing from a colonial settlement, finds the beliefs she learned are tested.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593418390.jpg",
+			"name": "THE VASTER WILDS",
+			"publisher": "Riverhead",
+			"rank": 15
+		}
+	]
+}

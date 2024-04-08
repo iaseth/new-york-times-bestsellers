@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Rebecca Yarros",
+			"description": "Violet Sorrengail is urged by the commanding general, who also is her mother, to become a candidate for the elite dragon riders.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781649374042.jpg",
+			"name": "FOURTH WING",
+			"publisher": "Red Tower",
+			"rank": 1
+		},
+		{
+			"author": "by Nelson DeMille and Alex DeMille",
+			"description": "The second book in the Scott Brodie and Maggie Taylor series. After a mission in Venezuela, Brodie and Taylor search for the murderer of a fellow agent.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501101816.jpg",
+			"name": "BLOOD LINES",
+			"publisher": "Scribner",
+			"rank": 2
+		},
+		{
+			"author": "by Hannah Grace",
+			"description": "The second book in the Maple Hills series. Two summer camp counselors who previously had a one-night stand may run afoul of the camp\u2019s rules.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781668026274.jpg",
+			"name": "WILDFIRE",
+			"publisher": "Atria",
+			"rank": 3
+		},
+		{
+			"author": "by Bonnie Garmus",
+			"description": "A scientist and single mother living in California in the 1960s becomes a star on a TV cooking show.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385547345.jpg",
+			"name": "LESSONS IN CHEMISTRY",
+			"publisher": "Doubleday",
+			"rank": 4
+		},
+		{
+			"author": "by John Sandford",
+			"description": "The 33rd book in the Prey series. Davenport and Flowers investigate the murder of a federal judge and his two young sons.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593542811.jpg",
+			"name": "JUDGMENT PREY",
+			"publisher": "Putnam",
+			"rank": 5
+		},
+		{
+			"author": "by Stephen King",
+			"description": "The private detective Holly Gibney investigates whether a married pair of octogenarian academics had anything to do with Bonnie Dahl\u2019s disappearance.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781668016138.jpg",
+			"name": "HOLLY",
+			"publisher": "Scribner",
+			"rank": 6
+		},
+		{
+			"author": "by Hannah Grace",
+			"description": "Anastasia might need the help of the captain of a college hockey team to get on the Olympic figure skating team.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781668026038.jpg",
+			"name": "ICEBREAKER",
+			"publisher": "Atria",
+			"rank": 7
+		},
+		{
+			"author": "by Ann Patchett",
+			"description": "Three daughters, who return to their family orchard in the spring of 2020, learn about their mother\u2019s relationship with a famous actor.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063327528.jpg",
+			"name": "TOM LAKE",
+			"publisher": "Harper",
+			"rank": 8
+		},
+		{
+			"author": "by Cassandra Clare",
+			"description": "An orphan who is the body double for a royal heir and a woman with magical abilities are drawn into the underworld of the city-state of Castellane.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525619994.jpg",
+			"name": "SWORD CATCHER",
+			"publisher": "Del Rey",
+			"rank": 9
+		},
+		{
+			"author": "by Freida McFadden",
+			"description": "Troubles surface when a woman looking to make a fresh start takes a job in the home of the Winchesters.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538742570.jpg",
+			"name": "THE HOUSEMAID",
+			"publisher": "Grand Central",
+			"rank": 10
+		},
+		{
+			"author": "by Taylor Jenkins Reid",
+			"description": "A movie icon recounts stories of her loves and career to a struggling magazine writer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501161933.jpg",
+			"name": "THE SEVEN HUSBANDS OF EVELYN HUGO",
+			"publisher": "Washington Square/Atria",
+			"rank": 11
+		},
+		{
+			"author": "by Ken Follett",
+			"description": "The fifth book in the Kingsbridge series. Change and turmoil affect various aspects of society in the latter part of the 18th century.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525954996.jpg",
+			"name": "THE ARMOR OF LIGHT",
+			"publisher": "Viking",
+			"rank": 12
+		},
+		{
+			"author": "by Ana Huang",
+			"description": "The first book in the Twisted series. Secrets emerge when Ava explores things with her brother\u2019s best friend.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781728274867.jpg",
+			"name": "TWISTED LOVE",
+			"publisher": "Bloom",
+			"rank": 13
+		},
+		{
+			"author": "by Lucy Score",
+			"description": "The third book in the Knockemout series. A mogul and a small-town librarian share a dark secret from their past.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781728276120.jpg",
+			"name": "THINGS WE LEFT BEHIND",
+			"publisher": "Bloom",
+			"rank": 14
+		},
+		{
+			"author": "by Lucy Score",
+			"description": "A runaway bride becomes the guardian of her evil twin's daughter and gets some help from a bad-boy barber.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781945631832.jpg",
+			"name": "THINGS WE NEVER GOT OVER",
+			"publisher": "Bloom",
+			"rank": 15
+		}
+	]
+}

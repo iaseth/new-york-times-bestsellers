@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by David Baldacci",
+			"description": "Amos Decker, known as the Memory Man, puts his talents toward solving a string of murders in a Rust Belt town.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538761397.jpg",
+			"name": "THE FALLEN",
+			"publisher": "Grand Central",
+			"rank": 1
+		},
+		{
+			"author": "by Ernest Cline",
+			"description": "It\u2019s 2044, life on a resource-depleted Earth is grim, and the key to a vast fortune is hidden in a virtual-reality world.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307887443.jpg",
+			"name": "READY PLAYER ONE",
+			"publisher": "Broadway",
+			"rank": 2
+		},
+		{
+			"author": "by Lisa Scottoline",
+			"description": "A woman marries a widower and reunites with her teenage daughter who is murdered soon after, and the husband is put on trial for it.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250099679.jpg",
+			"name": "AFTER ANNA",
+			"publisher": "St. Martin's",
+			"rank": 3
+		},
+		{
+			"author": "by John Grisham",
+			"description": "A search for stolen rare manuscripts leads to a Florida island.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385543057.jpg",
+			"name": "CAMINO ISLAND",
+			"publisher": "Doubleday",
+			"rank": 4
+		},
+		{
+			"author": "by Kristin Hannah",
+			"description": "A former prisoner of war returns from Vietnam and moves his family to Alaska, where they face tough conditions.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250165619.jpg",
+			"name": "THE GREAT ALONE",
+			"publisher": "St. Martin's",
+			"rank": 5
+		},
+		{
+			"author": "by Robyn Carr",
+			"description": "The third book in the Sullivan\u2019s Crossing series. Four siblings try to accept one another as adults.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781488023552.jpg",
+			"name": "THE FAMILY GATHERING",
+			"publisher": "MIRA",
+			"rank": 6
+		},
+		{
+			"author": "by Celeste Ng",
+			"description": "An artist upends a quiet town outside Cleveland.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735224308.jpg",
+			"name": "LITTLE FIRES EVERYWHERE",
+			"publisher": "Penguin Press",
+			"rank": 7
+		},
+		{
+			"author": "by Lisa Wingate",
+			"description": "A South Carolina lawyer learns about the questionable practices of a Tennessee orphanage.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780425284681.jpg",
+			"name": "BEFORE WE WERE YOURS",
+			"publisher": "Ballantine",
+			"rank": 8
+		},
+		{
+			"author": "by Mary Higgins Clark",
+			"description": "A high school guidance counselor tries to uncover the identity of her sister\u2019s murderer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501171697.jpg",
+			"name": "I'VE GOT MY EYES ON YOU",
+			"publisher": "Simon & Schuster",
+			"rank": 9
+		},
+		{
+			"author": "by Christopher Moore",
+			"description": "In the summer of 1947, a woman and an Air Force general attract the attention of a San Francisco bartender while a suspicious flying object is spotted near the coast.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062433978.jpg",
+			"name": "NOIR",
+			"publisher": "Morrow",
+			"rank": 10
+		},
+		{
+			"author": "by Lisa Jewell",
+			"description": "Ten years after her daughter disappears, a woman tries to get her life in order but remains haunted by unanswered questions.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501154669.jpg",
+			"name": "THEN SHE WAS GONE",
+			"publisher": "Atria",
+			"rank": 11
+		},
+		{
+			"author": "by Stuart Woods",
+			"description": "Stone Barrington searches for the person who plotted to kill the woman behind a cutting-edge software startup.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735217225.jpg",
+			"name": "SHOOT FIRST",
+			"publisher": "Putnam",
+			"rank": 12
+		},
+		{
+			"author": "by Danielle Steel",
+			"description": "The author Alexandra Winslow, writing under the pseudonym Alexander Green, creates a double life that isolates her.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101883952.jpg",
+			"name": "THE RIGHT TIME",
+			"publisher": "Delacorte",
+			"rank": 13
+		},
+		{
+			"author": "by A.J. Finn",
+			"description": "A recluse who drinks heavily and takes prescription drugs may have witnessed a crime across from her Harlem townhouse.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062678416.jpg",
+			"name": "THE WOMAN IN THE WINDOW",
+			"publisher": "Morrow",
+			"rank": 14
+		},
+		{
+			"author": "by James Patterson and Marshall Karp",
+			"description": "The fifth book in the NYPD Red series. Detectives Zach Jordan and Kylie MacDonald investigate the death of a documentary filmmaker and an explosion at a charity benefit.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316395588.jpg",
+			"name": "RED ALERT",
+			"publisher": "Little, Brown",
+			"rank": 15
+		}
+	]
+}

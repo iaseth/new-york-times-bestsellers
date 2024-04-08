@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by James Patterson and David Ellis",
+			"description": "Searching for her sister\u2019s killer, a former F.B.I. researcher finds a link between scores of unsolved cases.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316405409.jpg",
+			"name": "INVISIBLE",
+			"publisher": "Little, Brown",
+			"rank": 1
+		},
+		{
+			"author": "by Janet Evanovich",
+			"description": "The New Jersey bounty hunter Stephanie Plum pursues a dealer who sells more than used cars.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345542946.jpg",
+			"name": "TOP SECRET TWENTY-ONE",
+			"publisher": "Bantam",
+			"rank": 2
+		},
+		{
+			"author": "by Robyn Carr",
+			"description": "Love blossoms between a widowed doctor in Thunder Point, Ore., and the physician\u2019s assistant applying for a job at his clinic.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781460334539.jpg",
+			"name": "THE PROMISE",
+			"publisher": "Harlequin Mira",
+			"rank": 3
+		},
+		{
+			"author": "by Robert Galbraith",
+			"description": "The private detective Cormoran Strike steps in when the author of a roman \u00e0 clef set in literary London is murdered; by J.\u2009K. Rowling, writing pseudonymously.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316206914.jpg",
+			"name": "THE SILKWORM",
+			"publisher": "Mulholland/Little, Brown",
+			"rank": 4
+		},
+		{
+			"author": "by Maya Banks",
+			"description": "Swanson, part of an elite, family-run task force, is called upon to protect a supermodel.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101602614.jpg",
+			"name": "WHEN DAY BREAKS",
+			"publisher": "Berkley",
+			"rank": 5
+		},
+		{
+			"author": "by Susan Mallery",
+			"description": "After a family tragedy, a P.R. executive keeps everyone in Fool\u2019s Gold, Calif., at arm\u2019s length. That includes the employee who has feelings for him.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781460334577.jpg",
+			"name": "UNTIL WE TOUCH",
+			"publisher": "Harlequin",
+			"rank": 6
+		},
+		{
+			"author": "by Donna Tartt",
+			"description": "A painting smuggled out of the Metropolitan Museum of Art after a bombing becomes a boy\u2019s prize, guilt and burden.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316248679.jpg",
+			"name": "THE GOLDFINCH",
+			"publisher": "Little, Brown",
+			"rank": 7
+		},
+		{
+			"author": "by Stephen King",
+			"description": "A driver plows into a crowd at a job fair, killing eight. The killer then taunts a suicidal ex-cop, who must stop a deadlier attack.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476754468.jpg",
+			"name": "MR. MERCEDES",
+			"publisher": "Scribner",
+			"rank": 8
+		},
+		{
+			"author": "by Jennifer Weiner",
+			"description": "A woman becomes addicted to pain medication.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451617801.jpg",
+			"name": "ALL FALL DOWN",
+			"publisher": "Atria",
+			"rank": 9
+		},
+		{
+			"author": "by Gillian Flynn",
+			"description": "A woman disappears on the day of her fifth anniversary; is her husband a killer?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307588388.jpg",
+			"name": "GONE GIRL",
+			"publisher": "Crown",
+			"rank": 10
+		},
+		{
+			"author": "by Karin Slaughter",
+			"description": "In Atlanta in 1974, two women cops, both with something to prove, join in the search for a serial killer who is targeting the police.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345547514.jpg",
+			"name": "COP TOWN",
+			"publisher": "Delacorte",
+			"rank": 11
+		},
+		{
+			"author": "by Diana Gabaldon",
+			"description": "In the eighth Outlander time-traveling romance, Jamie Fraser and his family face challenges in the 18th and 20th centuries.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780440246442.jpg",
+			"name": "WRITTEN IN MY OWN HEART'S BLOOD",
+			"publisher": "Delacorte",
+			"rank": 12
+		},
+		{
+			"author": "by Alice Clayton",
+			"description": "Caroline and Simon negotiate their new relationship while house-sitting in Sausalito; Book 2 of the Cocktail series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476766737.jpg",
+			"name": "RUSTY NAILED",
+			"publisher": "Gallery Books",
+			"rank": 13
+		},
+		{
+			"author": "by Christina Baker Kline",
+			"description": "A historical novel about orphans swept off the streets of New York and sent to the Midwest in the 1920s.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062101204.jpg",
+			"name": "ORPHAN TRAIN",
+			"publisher": "Morrow/HarperCollins",
+			"rank": 14
+		},
+		{
+			"author": "by Fern Michaels",
+			"description": "When a string of anonymous emails suggests shady dealings at an assisted-living facility, the Sisterhood members Myra Rutledge and Annie de Silva are ready to beat a con artist at his own game.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781420130140.jpg",
+			"name": "KISS AND TELL",
+			"publisher": "Zebra/Kensington",
+			"rank": 15
+		}
+	]
+}

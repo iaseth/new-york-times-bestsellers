@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Nicholas Sparks",
+			"description": "The arrival of a mysterious young woman in a small North Carolina town raises questions about her past.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455523542.jpg",
+			"name": "SAFE HAVEN",
+			"publisher": "Grand Central Publishing",
+			"rank": 1
+		},
+		{
+			"author": "by James Patterson and Mark Sullivan",
+			"description": "A superstar agent at the German headquarters of a powerful investigation firm disappears, and the resulting search reveals many secrets.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316211178.jpg",
+			"name": "PRIVATE BERLIN",
+			"publisher": "Little, Brown & Company",
+			"rank": 2
+		},
+		{
+			"author": "by Gillian Flynn",
+			"description": "A woman disappears on the day of her fifth anniversary; is her husband a killer?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307588388.jpg",
+			"name": "GONE GIRL",
+			"publisher": "Crown Publishing",
+			"rank": 3
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "The man who has been relentlessly pursuing Sky Davis is not who he pretends to be.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781481251884.jpg",
+			"name": "HOPELESS",
+			"publisher": "Colleen Hoover",
+			"rank": 4
+		},
+		{
+			"author": "by E. L. James",
+			"description": "A college student falls in love with a tortured man with particular sexual tastes; the first of a trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345803481.jpg",
+			"name": "FIFTY SHADES OF GREY",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 5
+		},
+		{
+			"author": "by Robert Crais",
+			"description": "A Los Angeles policeman and a German shepherd that has worked in Iraq and Afghanistan, both suffering from PTSD, search for the killers of the cop\u2019s partner.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399161483.jpg",
+			"name": "SUSPECT",
+			"publisher": "Penguin Group",
+			"rank": 6
+		},
+		{
+			"author": "by Kim Harrison",
+			"description": "The witch Rachel Morgan and an unlikely ally battle a demon in order to prevent an apocalypse",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780061957918.jpg",
+			"name": "EVER AFTER",
+			"publisher": "HarperCollins Publishers",
+			"rank": 7
+		},
+		{
+			"author": "by E. L. James",
+			"description": "Ana Steele learns more about Christian Grey\u2019s troubled past; the second book in a trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345803498.jpg",
+			"name": "FIFTY SHADES DARKER",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 8
+		},
+		{
+			"author": "by E. L. James",
+			"description": "The final book in an erotic trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781612130606.jpg",
+			"name": "FIFTY SHADES FREED",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 9
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "The military investigator John Puller probes his aunt\u2019s mysterious death in Florida.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455523153.jpg",
+			"name": "THE FORGOTTEN",
+			"publisher": "Grand Central Publishing",
+			"rank": 10
+		},
+		{
+			"author": "by John Grisham",
+			"description": "An imprisoned ex-lawyer schemes to exchange this information about who murdered a judge for his freedom.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385536882.jpg",
+			"name": "THE RACKETEER",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 11
+		},
+		{
+			"author": "by Addison Moore",
+			"description": "A one-night stand turns into love for two college students.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781624300004.jpg",
+			"name": "SOMEONE TO LOVE",
+			"publisher": "Addison Moore",
+			"rank": 12
+		},
+		{
+			"author": "by Jessica Sorensen",
+			"description": "A boy and girl, both with tragedy in their past, come together after a chance encounter.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/A00B00ANDLC6K.jpg",
+			"name": "THE COINCIDENCE OF CALLIE AND KAYDEN",
+			"publisher": "Jessica Sorensen",
+			"rank": 13
+		},
+		{
+			"author": "by Brad Meltzer",
+			"description": "Tracking an assassin who is recreating the crimes of the four men who murdered presidents, Beecher White discovers that they all were working together.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780446553971.jpg",
+			"name": "THE FIFTH ASSASSIN",
+			"publisher": "Grand Central Publishing",
+			"rank": 14
+		},
+		{
+			"author": "by Sylvia Day",
+			"description": "Two troubled people develop an intense, obsessive relationship.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780425263907.jpg",
+			"name": "BARED TO YOU",
+			"publisher": "Penguin Group",
+			"rank": 15
+		}
+	]
+}

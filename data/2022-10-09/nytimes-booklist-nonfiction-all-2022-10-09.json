@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Jennette McCurdy",
+			"description": "The actress and filmmaker describes her eating disorders and difficult relationship with her mother.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982185824.jpg",
+			"name": "I'M GLAD MY MOM DIED",
+			"publisher": "Simon & Schuster",
+			"rank": 1
+		},
+		{
+			"author": "by Peter Baker and Susan Glasser",
+			"description": "The married journalists who write for The New York Times and The New Yorker posit that Donald Trump began to emulate the foreign autocrats he admired.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385546539.jpg",
+			"name": "THE DIVIDER",
+			"publisher": "Doubleday",
+			"rank": 2
+		},
+		{
+			"author": "by Neil deGrasse Tyson",
+			"description": "The astrophysicist and director of the Hayden Planetarium delves into subjects including politics, religion, gender and race.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250861504.jpg",
+			"name": "STARRY MESSENGER",
+			"publisher": "Holt",
+			"rank": 3
+		},
+		{
+			"author": "by Bessel van der Kolk",
+			"description": "How trauma affects the body and mind, and innovative treatments for recovery.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780670785933.jpg",
+			"name": "THE BODY KEEPS THE SCORE",
+			"publisher": "Penguin",
+			"rank": 4
+		},
+		{
+			"author": "by Nina Totenberg",
+			"description": "The NPR legal affairs correspondent details her professional accomplishments and friendship with the late Supreme Court Justice Ruth Bader Ginsburg.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982188085.jpg",
+			"name": "DINNERS WITH RUTH",
+			"publisher": "Simon & Schuster",
+			"rank": 5
+		},
+		{
+			"author": "by Gabor Mat\u00e9 with Daniel Mat\u00e9",
+			"description": "The potential ways in which trauma and stress from modern-day living can affect our physical health.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593083888.jpg",
+			"name": "THE MYTH OF NORMAL",
+			"publisher": "Avery",
+			"rank": 6
+		},
+		{
+			"author": "by Randall Munroe",
+			"description": "The creator of the web comic \u201cxkcd\u201d and former NASA roboticist looks into hypothetical and oddball scenarios.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525537113.jpg",
+			"name": "WHAT IF? 2",
+			"publisher": "Riverhead",
+			"rank": 7
+		},
+		{
+			"author": "by Buzz Bissinger",
+			"description": "The Pulitzer Prize-winning journalist depicts the service of college football players who served in the Marines during World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062879929.jpg",
+			"name": "THE MOSQUITO BOWL",
+			"publisher": "Harper",
+			"rank": 8
+		},
+		{
+			"author": "by Jared Kushner",
+			"description": "An account of time spent in the Trump White House by the former president\u2019s son-in-law and senior adviser.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063221482.jpg",
+			"name": "BREAKING HISTORY",
+			"publisher": "Broadside",
+			"rank": 9
+		},
+		{
+			"author": "by Sean Carroll",
+			"description": "The ways in which physics can be used to explain how some things function in the universe.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593186589.jpg",
+			"name": "THE BIGGEST IDEAS IN THE UNIVERSE",
+			"publisher": "Dutton",
+			"rank": 10
+		},
+		{
+			"author": "by Geoffrey Berman",
+			"description": "The former U.S. attorney for the Southern District of New York gives his account of pushing back against the Trump Justice Department.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593300299.jpg",
+			"name": "HOLDING THE LINE",
+			"publisher": "Penguin Press",
+			"rank": 11
+		},
+		{
+			"author": "by Jann S. Wenner",
+			"description": "A memoir by the founder, co-editor and publisher of Rolling Stone magazine.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316415194.jpg",
+			"name": "LIKE A ROLLING STONE",
+			"publisher": "Little, Brown",
+			"rank": 12
+		},
+		{
+			"author": "by Javier Zamora",
+			"description": "The poet describes his journey over two months from El Salvador to the United States to reconnect with his parents who left years earlier.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593498064.jpg",
+			"name": "SOLITO",
+			"publisher": "Hogarth",
+			"rank": 13
+		},
+		{
+			"author": "by Andy Borowitz",
+			"description": "The creator of \u201cThe Borowitz Report\u201d looks at the declining knowledge of some public officials over the last 50 years.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781668003886.jpg",
+			"name": "PROFILES IN IGNORANCE",
+			"publisher": "Avid Reader",
+			"rank": 14
+		},
+		{
+			"author": "by Dahlia Lithwick",
+			"description": "The senior legal correspondent at Slate chronicles the work of some women lawyers during the Trump presidency.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525561385.jpg",
+			"name": "LADY JUSTICE",
+			"publisher": "Penguin Press",
+			"rank": 15
+		}
+	]
+}

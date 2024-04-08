@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Delia Owens",
+			"description": "In a quiet town on the North Carolina coast in 1969, a young woman who survived alone in the marsh becomes a murder suspect.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735219090.jpg",
+			"name": "WHERE THE CRAWDADS SING",
+			"publisher": "Putnam",
+			"rank": 1
+		},
+		{
+			"author": "by Lisa Scottoline",
+			"description": "A dark secret emerges when Allie Garvey returns home to attend a childhood friend\u2019s funeral.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525539643.jpg",
+			"name": "SOMEONE KNOWS",
+			"publisher": "Putnam",
+			"rank": 2
+		},
+		{
+			"author": "by Martha Hall Kelly",
+			"description": "In 1914, the New York socialite Eliza Ferriday works to help White Russian families escape from the revolution.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524796372.jpg",
+			"name": "LOST ROSES",
+			"publisher": "Ballantine",
+			"rank": 3
+		},
+		{
+			"author": "by Anne Hillerman",
+			"description": "Investigations by Leaphorn, Chee and Manuelito overlap in the desert Southwest.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062391971.jpg",
+			"name": "THE TALE TELLER",
+			"publisher": "Harper",
+			"rank": 4
+		},
+		{
+			"author": "by Heather Morris",
+			"description": "A concentration camp detainee tasked with permanently marking fellow prisoners falls in love with one of them.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062797155.jpg",
+			"name": "THE TATTOOIST OF AUSCHWITZ",
+			"publisher": "Harper",
+			"rank": 5
+		},
+		{
+			"author": "by A.J. Finn",
+			"description": "A recluse who drinks heavily and takes prescription drugs may have witnessed a crime across from her Harlem townhouse.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062678416.jpg",
+			"name": "THE WOMAN IN THE WINDOW",
+			"publisher": "Morrow",
+			"rank": 6
+		},
+		{
+			"author": "by Amor Towles",
+			"description": "A Russian count undergoes 30 years of house arrest in the Metropol hotel, across from the Kremlin.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780670026197.jpg",
+			"name": "A GENTLEMAN IN MOSCOW",
+			"publisher": "Penguin",
+			"rank": 7
+		},
+		{
+			"author": "by James Patterson and Brendan DuBois",
+			"description": "Sally Grissom investigates the disappearance of President Harrison Tucker\u2019s wife.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538714928.jpg",
+			"name": "THE FIRST LADY",
+			"publisher": "Grand Central",
+			"rank": 8
+		},
+		{
+			"author": "by Harlan Coben",
+			"description": "A family is torn apart when the daughter becomes addicted to drugs and goes missing.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538748466.jpg",
+			"name": "RUN AWAY",
+			"publisher": "Grand Central",
+			"rank": 9
+		},
+		{
+			"author": "by Anna Todd",
+			"description": "A college freshman leaves behind a reliable boyfriend in her hometown and falls for a bad boy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982111007.jpg",
+			"name": "AFTER",
+			"publisher": "Simon & Schuster",
+			"rank": 10
+		},
+		{
+			"author": "by James Patterson and Brendan DuBois",
+			"description": "An Army intelligence officer must commit a crime or lose her kidnapped husband and daughter.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316485555.jpg",
+			"name": "THE CORNWALLS ARE GONE",
+			"publisher": "Little, Brown",
+			"rank": 11
+		},
+		{
+			"author": "by Bobby Hall",
+			"description": "A depressed young man\u2019s secrets are exposed when the grocery store where he works becomes a crime scene.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982127138.jpg",
+			"name": "SUPERMARKET",
+			"publisher": "Simon & Schuster",
+			"rank": 12
+		},
+		{
+			"author": "by Karen Kingsbury",
+			"description": "A pregnant 18-year-old has limited time to change her mind about giving her baby up for adoption.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476707433.jpg",
+			"name": "TWO WEEKS",
+			"publisher": "Howard",
+			"rank": 13
+		},
+		{
+			"author": "by Alex Michaelides",
+			"description": "Theo Faber looks into the mystery of a famous painter who stops speaking after shooting her husband.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250301697.jpg",
+			"name": "THE SILENT PATIENT",
+			"publisher": "Celadon",
+			"rank": 14
+		},
+		{
+			"author": "by Philip Kerr",
+			"description": "Bernie Gunther joins the Murder Commission in Berlin in 1928. The final Bernie Gunther novel completed before the author\u2019s death.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735218918.jpg",
+			"name": "METROPOLIS",
+			"publisher": "Marian Wood/Putnam",
+			"rank": 15
+		}
+	]
+}

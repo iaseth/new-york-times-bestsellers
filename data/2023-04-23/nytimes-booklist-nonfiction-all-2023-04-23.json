@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Peter Attia with Bill Gifford",
+			"description": "A look at recent scientific research on aging and longevity.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593236598.jpg",
+			"name": "OUTLIVE",
+			"publisher": "Harmony",
+			"rank": 1
+		},
+		{
+			"author": "by Bessel van der Kolk",
+			"description": "How trauma affects the body and mind, and innovative treatments for recovery.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780670785933.jpg",
+			"name": "THE BODY KEEPS THE SCORE",
+			"publisher": "Penguin",
+			"rank": 2
+		},
+		{
+			"author": "by Michelle Zauner",
+			"description": "The daughter of a Korean mother and Jewish American father, and leader of the indie rock project Japanese Breakfast, describes creating her own identity after losing her mother to cancer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525657743.jpg",
+			"name": "CRYING IN H MART",
+			"publisher": "Vintage",
+			"rank": 3
+		},
+		{
+			"author": "by Jennette McCurdy",
+			"description": "The actress and filmmaker describes her eating disorders and difficult relationship with her mother.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982185824.jpg",
+			"name": "I'M GLAD MY MOM DIED",
+			"publisher": "Simon & Schuster",
+			"rank": 4
+		},
+		{
+			"author": "by Prince Harry",
+			"description": "The Duke of Sussex details his struggles with the royal family, loss of his mother, service in the British Army and marriage to Meghan Markle.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593593806.jpg",
+			"name": "SPARE",
+			"publisher": "Random House",
+			"rank": 5
+		},
+		{
+			"author": "by Des Linden with Bonnie D. Ford",
+			"description": "The Boston Marathon winner and Olympian shares her racing highlights and training methods.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593186640.jpg",
+			"name": "CHOOSING TO RUN",
+			"publisher": "Dutton",
+			"rank": 6
+		},
+		{
+			"author": "by Matthew Desmond",
+			"description": "The Pulitzer Prize-winning author of \u201cEvicted\u201d examines the ways in which affluent Americans keep poor people poor.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593239919.jpg",
+			"name": "POVERTY, BY AMERICA",
+			"publisher": "Crown",
+			"rank": 7
+		},
+		{
+			"author": "by Mike Greenberg with Paul Hembekides",
+			"description": "The ESPN host partners with his producer to create their list of top 100 sports legends.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781368073561.jpg",
+			"name": "GOT YOUR NUMBER",
+			"publisher": "Hyperion Avenue",
+			"rank": 8
+		},
+		{
+			"author": "by Timothy Egan",
+			"description": "The Pulitzer and National Book Award-winning author details the Ku Klux Klan's rise to the height of its power in the 1920s and how one brutalized woman\u2019s testimony diminished it.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735225268.jpg",
+			"name": "A FEVER IN THE HEARTLAND",
+			"publisher": "Viking",
+			"rank": 9
+		},
+		{
+			"author": "by James Patterson and Matt Eversmann with Chris Mooney",
+			"description": "A collection of stories about police officers.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316406604.jpg",
+			"name": "WALK THE BLUE LINE",
+			"publisher": "Little, Brown",
+			"rank": 10
+		},
+		{
+			"author": "by Tom Clavin",
+			"description": "A portrayal of a ranger named Leander McNelly and his men in 1870s Texas.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250214553.jpg",
+			"name": "FOLLOW ME TO HELL",
+			"publisher": "St. Martin's",
+			"rank": 11
+		},
+		{
+			"author": "by bell hooks",
+			"description": "The late feminist icon explores the causes of a polarized society and the meaning of love.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780060959470.jpg",
+			"name": "ALL ABOUT LOVE",
+			"publisher": "Morrow",
+			"rank": 12
+		},
+		{
+			"author": "by Michelle Obama",
+			"description": "The former first lady shares personal stories and the tools she uses to deal with difficult situations.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593237465.jpg",
+			"name": "THE LIGHT WE CARRY",
+			"publisher": "Crown",
+			"rank": 13
+		},
+		{
+			"author": "by Benjamin Hall",
+			"description": "The Fox News journalist gives his account of the injuries he sustained from a Russian attack while covering the war in Ukraine.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063309661.jpg",
+			"name": "SAVED",
+			"publisher": "Harper",
+			"rank": 14
+		},
+		{
+			"author": "by Robin Wall Kimmerer",
+			"description": "A botanist and member of the Citizen Potawatomi Nation espouses having an understanding and appreciation of plants and animals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781571313560.jpg",
+			"name": "BRAIDING SWEETGRASS",
+			"publisher": "Milkweed Editions",
+			"rank": 15
+		}
+	]
+}

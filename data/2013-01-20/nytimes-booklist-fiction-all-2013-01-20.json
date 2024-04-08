@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Nicholas Sparks",
+			"description": "The arrival of a mysterious young woman in a small North Carolina town raises questions about her past.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455523542.jpg",
+			"name": "SAFE HAVEN",
+			"publisher": "Grand Central Publishing",
+			"rank": 1
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "The man who has been relentlessly pursuing Sky Davis is not who he pretends to be.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781481251884.jpg",
+			"name": "HOPELESS",
+			"publisher": "Colleen Hoover",
+			"rank": 2
+		},
+		{
+			"author": "by Gillian Flynn",
+			"description": "A woman disappears on the day of her fifth anniversary; is her husband a killer?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307588388.jpg",
+			"name": "GONE GIRL",
+			"publisher": "Crown Publishing",
+			"rank": 3
+		},
+		{
+			"author": "by Jessica Sorensen",
+			"description": "A boy and girl, both with tragedy in their past, come together after a chance encounter.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/A00B00ANDLC6K.jpg",
+			"name": "THE COINCIDENCE OF CALLIE AND KAYDEN",
+			"publisher": "Jessica Sorensen",
+			"rank": 4
+		},
+		{
+			"author": "by E. L. James",
+			"description": "A college student falls in love with a tortured man with particular sexual tastes; the first of a trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345803481.jpg",
+			"name": "FIFTY SHADES OF GREY",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 5
+		},
+		{
+			"author": "by E. L. James",
+			"description": "Ana Steele learns more about Christian Grey\u2019s troubled past; the second book in a trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345803498.jpg",
+			"name": "FIFTY SHADES DARKER",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 6
+		},
+		{
+			"author": "by E. L. James",
+			"description": "The final book in an erotic trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781612130606.jpg",
+			"name": "FIFTY SHADES FREED",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 7
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "The military investigator John Puller probes his aunt\u2019s mysterious death in Florida.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455523153.jpg",
+			"name": "THE FORGOTTEN",
+			"publisher": "Grand Central Publishing",
+			"rank": 8
+		},
+		{
+			"author": "by John Grisham",
+			"description": "An imprisoned ex-lawyer schemes to exchange this information about who murdered a judge for his freedom.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385536882.jpg",
+			"name": "THE RACKETEER",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 9
+		},
+		{
+			"author": "by Addison Moore",
+			"description": "A one-night stand turns into love for two college students.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781624300004.jpg",
+			"name": "SOMEONE TO LOVE",
+			"publisher": "Addison Moore",
+			"rank": 10
+		},
+		{
+			"author": "by Maya Banks",
+			"description": "P.J., part of a family-run task force, doesn\u2019t want to drag her teammates into her quest for vengeance. But her team refuses to let her go it alone.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101614648.jpg",
+			"name": "SHADES OF GRAY",
+			"publisher": "Penguin Group",
+			"rank": 11
+		},
+		{
+			"author": "by Linda Howard",
+			"description": "A woman is the target of a far-reaching conspiracy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345535924.jpg",
+			"name": "SHADOW WOMAN",
+			"publisher": "Random House Publishing",
+			"rank": 12
+		},
+		{
+			"author": "by James Patterson and Mark Pearson",
+			"description": "The former Royal Military Police sergeant Dan Carter and his ex-wife, Kirsty Webb, look into why young women are being abducted in London.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455515530.jpg",
+			"name": "PRIVATE LONDON",
+			"publisher": "Grand Central Publishing",
+			"rank": 13
+		},
+		{
+			"author": "by James Patterson",
+			"description": "Detective Alex Cross confronts both a hostage situation and a terrorist act at Christmas.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316210683.jpg",
+			"name": "MERRY CHRISTMAS, ALEX CROSS",
+			"publisher": "Little, Brown & Company",
+			"rank": 14
+		},
+		{
+			"author": "by W. E. B. Griffin and William E. Butterworth IV",
+			"description": "An O.S.S. agent\u2019s plan to help his German intelligence counterparts reach Argentina encounters trouble; Book 7 of the Honor Bound series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399160660.jpg",
+			"name": "EMPIRE AND HONOR",
+			"publisher": "Penguin Group",
+			"rank": 15
+		}
+	]
+}

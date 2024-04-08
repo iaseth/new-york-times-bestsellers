@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Richard Osman",
+			"description": "The fourth book in the Thursday Murder Club series. When an old friend is killed, the gang comes up against drug dealers, art forgers and online fraudsters.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593299425.jpg",
+			"name": "THE LAST DEVIL TO DIE",
+			"publisher": "Pamela Dorman",
+			"rank": 1
+		},
+		{
+			"author": "by Rebecca Yarros",
+			"description": "Violet Sorrengail is urged by the commanding general, who also is her mother, to become a candidate for the elite dragon riders.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781649374042.jpg",
+			"name": "FOURTH WING",
+			"publisher": "Red Tower",
+			"rank": 2
+		},
+		{
+			"author": "by Stephen King",
+			"description": "The private detective Holly Gibney investigates whether a married pair of octogenarian academics had anything to do with Bonnie Dahl\u2019s disappearance.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781668016138.jpg",
+			"name": "HOLLY",
+			"publisher": "Scribner",
+			"rank": 3
+		},
+		{
+			"author": "by Ann Patchett",
+			"description": "Three daughters, who return to their family orchard in the spring of 2020, learn about their mother\u2019s relationship with a famous actor.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063327528.jpg",
+			"name": "TOM LAKE",
+			"publisher": "Harper",
+			"rank": 4
+		},
+		{
+			"author": "by Lucy Score",
+			"description": "The third book in the Knockemout series. A mogul and a small-town librarian share a dark secret from their past.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781728276120.jpg",
+			"name": "THINGS WE LEFT BEHIND",
+			"publisher": "Bloom",
+			"rank": 5
+		},
+		{
+			"author": "by Bonnie Garmus",
+			"description": "A scientist and single mother living in California in the 1960s becomes a star on a TV cooking show.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385547345.jpg",
+			"name": "LESSONS IN CHEMISTRY",
+			"publisher": "Doubleday",
+			"rank": 6
+		},
+		{
+			"author": "by Kyle Mills",
+			"description": "The 22nd book in the Mitch Rapp series. Rapp and his team try to foil a plot by Russia without being discovered.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982164997.jpg",
+			"name": "VINCE FLYNN: CODE RED",
+			"publisher": "Atria/Emily Bestler",
+			"rank": 7
+		},
+		{
+			"author": "by Freida McFadden",
+			"description": "Troubles surface when a woman looking to make a fresh start takes a job in the home of the Winchesters.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538742570.jpg",
+			"name": "THE HOUSEMAID",
+			"publisher": "Grand Central",
+			"rank": 8
+		},
+		{
+			"author": "by James Patterson",
+			"description": "Three thrillers: \u201c23 \u00bd Lies\u201d (written with Maxine Paetro), \u201cFallen Ranger\u201d (written with Andrew Bourelle) and \u201cWatch Your Back\u201d (written with Loren D. Estleman).",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538752685.jpg",
+			"name": "23 1/2 LIES",
+			"publisher": "Grand Central",
+			"rank": 9
+		},
+		{
+			"author": "by Abraham Verghese",
+			"description": "Three generations of a family living on South India\u2019s Malabar Coast suffer the loss of a family member by drowning.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780802162175.jpg",
+			"name": "THE COVENANT OF WATER",
+			"publisher": "Grove",
+			"rank": 10
+		},
+		{
+			"author": "by Cara Hunter",
+			"description": "Written as the teleplay of a true-crime documentary, the evidence of the unsolved murder of the stepfather of an acclaimed filmmaker is put forward.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063272071.jpg",
+			"name": "MURDER IN THE FAMILY",
+			"publisher": "Morrow",
+			"rank": 11
+		},
+		{
+			"author": "by John Scalzi",
+			"description": "A down on his luck substitute teacher is helped by unionized dolphins and a terrifying henchperson to tackle the heap of troubles he inherits along with his uncle\u2019s supervillain business.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780765389220.jpg",
+			"name": "STARTER VILLAIN",
+			"publisher": "Tor",
+			"rank": 12
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "Dangers develop when a drug trafficker becomes obsessed with a woman who has a mutual attraction to a D.E.A. agent.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538756591.jpg",
+			"name": "TOO LATE",
+			"publisher": "Grand Central",
+			"rank": 13
+		},
+		{
+			"author": "by Breanne Randall",
+			"description": "A former lover, an estranged twin brother and a dying grandmother force Sadie Revelare to choose between love or magic.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781639105731.jpg",
+			"name": "THE UNFORTUNATE SIDE EFFECTS OF HEARTBREAK AND MAGIC",
+			"publisher": "Alcove",
+			"rank": 14
+		},
+		{
+			"author": "by J.A. Jance",
+			"description": "Sheriff Joanna Brady assists a federal investigator who finds resonance between a cold case he is assigned and his family's past.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063010116.jpg",
+			"name": "BLESSING OF THE LOST GIRLS",
+			"publisher": "Morrow",
+			"rank": 15
+		}
+	]
+}

@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by James Patterson and Maxine Paetro",
+			"description": "The 18th book in the Women's Murder Club series. Lindsay Boxer investigates the disappearance of three female teachers.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316528443.jpg",
+			"name": "THE 18TH ABDUCTION",
+			"publisher": "Little, Brown",
+			"rank": 1
+		},
+		{
+			"author": "by Delia Owens",
+			"description": "In a quiet town on the North Carolina coast in 1969, a young woman who survived alone in the marsh becomes a murder suspect.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735219090.jpg",
+			"name": "WHERE THE CRAWDADS SING",
+			"publisher": "Putnam",
+			"rank": 2
+		},
+		{
+			"author": "by E L James",
+			"description": "Maxim Trevelyan inherits several estates and beds his cleaner Alessia Demachi, an Albanian piano prodigy who has been trafficked into England.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984898326.jpg",
+			"name": "THE MISTER",
+			"publisher": "Vintage",
+			"rank": 3
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "The fifth book in the Memory Man series. The first man Amos Decker put behind bars asks to have his name cleared.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538761434.jpg",
+			"name": "REDEMPTION",
+			"publisher": "Grand Central",
+			"rank": 4
+		},
+		{
+			"author": "by John Sandford",
+			"description": "The 29th book in the Prey series. Lucas Davenport goes after a serial killer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525536598.jpg",
+			"name": "NEON PREY",
+			"publisher": "Putnam",
+			"rank": 5
+		},
+		{
+			"author": "by Lee Child",
+			"description": "Jack Reacher explores the New England town where his father was born and a Canadian couple now find themselves stranded.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399593512.jpg",
+			"name": "PAST TENSE",
+			"publisher": "Bantam/Dell",
+			"rank": 6
+		},
+		{
+			"author": "by Heather Morris",
+			"description": "A concentration camp detainee tasked with permanently marking fellow prisoners falls in love with one of them.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062797155.jpg",
+			"name": "THE TATTOOIST OF AUSCHWITZ",
+			"publisher": "Harper",
+			"rank": 7
+		},
+		{
+			"author": "by George R.R. Martin",
+			"description": "In the frozen wastes to the north of Winterfell, sinister and supernatural forces are mustering. Basis of the HBO series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780553897845.jpg",
+			"name": "A GAME OF THRONES",
+			"publisher": "Bantam",
+			"rank": 8
+		},
+		{
+			"author": "by A.J. Finn",
+			"description": "A recluse who drinks heavily and takes prescription drugs may have witnessed a crime across from her Harlem townhouse.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062678416.jpg",
+			"name": "THE WOMAN IN THE WINDOW",
+			"publisher": "Morrow",
+			"rank": 9
+		},
+		{
+			"author": "by Brad Thor",
+			"description": "The 18th book in the Scot Harvath series. As a war looms, a counterterrorism operative takes on a new role his own way.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476789439.jpg",
+			"name": "SPYMASTER",
+			"publisher": "Emily Bestler/Atria",
+			"rank": 10
+		},
+		{
+			"author": "by Kristen Ashley",
+			"description": "The second book in the Moonlight and Motor Oil series. Two brothers fall for two sisters in Kentucky.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/2022678993.jpg",
+			"name": "THE SLOW BURN",
+			"publisher": "Kristen Ashley",
+			"rank": 11
+		},
+		{
+			"author": "by Robyn Carr",
+			"description": "Lauren Delaney leaves her controlling husband and meets a man in a rocky marriage.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781488098727.jpg",
+			"name": "THE VIEW FROM ALAMEDA ISLAND",
+			"publisher": "MIRA",
+			"rank": 12
+		},
+		{
+			"author": "by Nora Roberts",
+			"description": "Former high school sweethearts fall tentatively back into each other\u2019s orbits after more than a decade.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781459273702.jpg",
+			"name": "UNFINISHED BUSINESS",
+			"publisher": "Harlequin",
+			"rank": 13
+		},
+		{
+			"author": "by Stephanie Laurens",
+			"description": "Miss Sylvia Buckleberry confronts an aristocrat when his yacht business displaces her school for impoverished children.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781488088667.jpg",
+			"name": "THE PURSUITS OF LORD KIT CAVANAUGH",
+			"publisher": "MIRA",
+			"rank": 14
+		},
+		{
+			"author": "by Allison Brennan",
+			"description": "The 15th book in the Lucy Kincaid series. An F.B.I. agent uncovers lies when she tracks a killer of married men.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250297648.jpg",
+			"name": "NOTHING TO HIDE",
+			"publisher": "Minotaur",
+			"rank": 15
+		}
+	]
+}

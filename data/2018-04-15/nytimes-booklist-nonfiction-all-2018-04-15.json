@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Chrissy Metz",
+			"description": "A star of \u201cThis Is Us\u201d describes her journey toward self-acceptance.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062837875.jpg",
+			"name": "THIS IS ME",
+			"publisher": "Dey St.",
+			"rank": 1
+		},
+		{
+			"author": "by Stephen Hawking",
+			"description": "The British cosmologist reviews efforts to create a unified theory of the universe; first published in 1988.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780553380163.jpg",
+			"name": "A BRIEF HISTORY OF TIME",
+			"publisher": "Bantam",
+			"rank": 2
+		},
+		{
+			"author": "by Michael Isikoff and David Corn",
+			"description": "Details of the 2016 presidential election, with an emphasis on Russia's possible involvement.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538728758.jpg",
+			"name": "RUSSIAN ROULETTE",
+			"publisher": "Twelve",
+			"rank": 3
+		},
+		{
+			"author": "by Jennifer Palmieri",
+			"description": "The director of communications for Hillary Clinton\u2019s 2016 presidential campaign and the Obama White House prescribes a new model of leadership.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538713457.jpg",
+			"name": "DEAR MADAM PRESIDENT",
+			"publisher": "Grand Central",
+			"rank": 4
+		},
+		{
+			"author": "by Jeff Benedict and Armen Keteyian",
+			"description": "A deeper look at the personal and professional triumphs and disasters of the champion golfer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501126420.jpg",
+			"name": "TIGER WOODS",
+			"publisher": "Simon & Schuster",
+			"rank": 5
+		},
+		{
+			"author": "by Peter Schweizer",
+			"description": "The author of \u201cClinton Cash\u201d describes what some politicians might do to enrich themselves while in office.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062569363.jpg",
+			"name": "SECRET EMPIRES",
+			"publisher": "Harper",
+			"rank": 6
+		},
+		{
+			"author": "by Tara Westover",
+			"description": "The daughter of survivalists, who is kept out of school, educates herself enough to leave home for university.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399590504.jpg",
+			"name": "EDUCATED",
+			"publisher": "Random House",
+			"rank": 7
+		},
+		{
+			"author": "by Timothy Snyder",
+			"description": "Twenty lessons from the 20th century about the course of tyranny.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780804190114.jpg",
+			"name": "ON TYRANNY",
+			"publisher": "Tim Duggan",
+			"rank": 8
+		},
+		{
+			"author": "by Michelle McNamara",
+			"description": "The late true-crime journalist's search for the serial murderer and rapist known as \"the Golden State Killer.\"",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062319784.jpg",
+			"name": "I'LL BE GONE IN THE DARK",
+			"publisher": "Harper",
+			"rank": 9
+		},
+		{
+			"author": "by James Patterson and Alex Abramovich with Mike Harvkey",
+			"description": "The story of Aaron Hernandez, the New England Patriots tight end convicted of first-degree murder.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316412650.jpg",
+			"name": "ALL-AMERICAN MURDER",
+			"publisher": "Little, Brown",
+			"rank": 10
+		},
+		{
+			"author": "by Kate Bowler",
+			"description": "A divinity school professor examines her tacit beliefs when she learns she has late-stage colon cancer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399592065.jpg",
+			"name": "EVERYTHING HAPPENS FOR A REASON",
+			"publisher": "Random House",
+			"rank": 11
+		},
+		{
+			"author": "by Jimmy Carter",
+			"description": "The former president discusses the broader meaning of faith and its effect on our lives, including its religious aspects.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501184413.jpg",
+			"name": "FAITH",
+			"publisher": "Simon & Schuster",
+			"rank": 12
+		},
+		{
+			"author": "by Neil deGrasse Tyson",
+			"description": "A straightforward, easy-to-understand introduction to the laws that govern the universe.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780393609394.jpg",
+			"name": "ASTROPHYSICS FOR PEOPLE IN A HURRY",
+			"publisher": "Norton",
+			"rank": 13
+		},
+		{
+			"author": "by Michael Wolff",
+			"description": "A journalist offers an inside account of the first year of the Trump White House.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250158079.jpg",
+			"name": "FIRE AND FURY",
+			"publisher": "Holt",
+			"rank": 14
+		},
+		{
+			"author": "by Jerome R. Corsi",
+			"description": "The conservative commentator describes a secret conspiracy to undermine the Trump presidency. From the author of \"The Obama Nation.\"",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781630061029.jpg",
+			"name": "KILLING THE DEEP STATE",
+			"publisher": "Humanix",
+			"rank": 15
+		}
+	]
+}

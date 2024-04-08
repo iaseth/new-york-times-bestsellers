@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Gillian Flynn",
+			"description": "A woman disappears on the day of her fifth anniversary; is her husband a killer?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307588388.jpg",
+			"name": "GONE GIRL",
+			"publisher": "Crown",
+			"rank": 1
+		},
+		{
+			"author": "by James Patterson and Michael Ledwidge",
+			"description": "Detective Michael Bennett, back in New York City, investigates a peculiar crime in Harlem.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316211024.jpg",
+			"name": "BURN",
+			"publisher": "Little, Brown",
+			"rank": 2
+		},
+		{
+			"author": "by Catherine Coulter and J. T. Ellison",
+			"description": "Nicholas Drummond of Scotland Yard, now an F.B.I. agent, investigates a Wall Street stabbing that involves secrets reaching back to World War I.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101618752.jpg",
+			"name": "THE LOST KEY",
+			"publisher": "Putnam",
+			"rank": 3
+		},
+		{
+			"author": "by Nicholas Sparks",
+			"description": "Twenty-five years after their high school romance ended, two classmates return to their North Carolina town for a funeral.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780446547642.jpg",
+			"name": "THE BEST OF ME",
+			"publisher": "Grand Central",
+			"rank": 4
+		},
+		{
+			"author": "by Ken Follett",
+			"description": "Five interrelated families grapple with the events of the 1960s through the 1980s; Book 3 of the Century Trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525953098.jpg",
+			"name": "EDGE OF ETERNITY",
+			"publisher": "Dutton",
+			"rank": 5
+		},
+		{
+			"author": "by Diana Gabaldon",
+			"description": "Claire Randall, an English nurse, is transported back to 1743 during a second honeymoon in the Scottish Highlands.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780440212560.jpg",
+			"name": "OUTLANDER",
+			"publisher": "Dell",
+			"rank": 6
+		},
+		{
+			"author": "by Penelope Ward",
+			"description": "A bond, and an attraction, between two stepsiblings.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781942215035.jpg",
+			"name": "STEPBROTHER DEAREST",
+			"publisher": "Penelope Ward",
+			"rank": 7
+		},
+		{
+			"author": "by Lee Child",
+			"description": "Jack Reacher, a former military cop, helps the State Department and the C.I.A. stop a sniper who has targeted a G8 summit.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780804178747.jpg",
+			"name": "PERSONAL",
+			"publisher": "Delacorte",
+			"rank": 8
+		},
+		{
+			"author": "by Diana Gabaldon",
+			"description": "Volume 2 of the Outlander series, about an 18th-century Scottish warrior and a time-traveling World War II-era nurse; first published in 1992.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780440335184.jpg",
+			"name": "DRAGONFLY IN AMBER",
+			"publisher": "Dell",
+			"rank": 9
+		},
+		{
+			"author": "by Liane Moriarty",
+			"description": "Who will end up dead, and how, when three mothers with children in the same school become friends?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698138636.jpg",
+			"name": "BIG LITTLE LIES",
+			"publisher": "Amy Einhorn/Putnam",
+			"rank": 10
+		},
+		{
+			"author": "by Iris Johansen",
+			"description": "A teenager with psychic abilities is rescued by a mysterious man who has a task for her.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250020062.jpg",
+			"name": "THE PERFECT WITNESS",
+			"publisher": "St. Martin's",
+			"rank": 11
+		},
+		{
+			"author": "by Stephen King",
+			"description": "An unsuspecting accountant's wife makes a disturbing discovery; first published in 2010, now a movie.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501104428.jpg",
+			"name": "A GOOD MARRIAGE",
+			"publisher": "Scribner",
+			"rank": 12
+		},
+		{
+			"author": "by Kristan Higgins",
+			"description": "Will Emmaline's date to her ex-fianc\u00e9's wedding turn into more?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781460340240.jpg",
+			"name": "IN YOUR DREAMS",
+			"publisher": "Harlequin",
+			"rank": 13
+		},
+		{
+			"author": "by Gillian Flynn",
+			"description": "A woman who, as a child, was spared when her mother and sisters were murdered begins to reinvestigate the case against her imprisoned brother.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307341570.jpg",
+			"name": "DARK PLACES",
+			"publisher": "Broadway",
+			"rank": 14
+		},
+		{
+			"author": "by Harper Sloan",
+			"description": "Emmy loves Maddox, but his demons may destroy both of them; a Corps Security novel.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/A00B00NOCBOUG.jpg",
+			"name": "LOCKE",
+			"publisher": "Harper Sloan",
+			"rank": 15
+		}
+	]
+}

@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Janet Evanovich",
+			"description": "The New Jersey bounty hunter Stephanie Plum joins with Joe Morelli to track down a con man who disappeared from a hospital; meanwhile, she takes a second job guarding Ranger.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345527752.jpg",
+			"name": "NOTORIOUS NINETEEN",
+			"publisher": "Random House Publishing",
+			"rank": 1
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "The military investigator John Puller probes his aunt\u2019s mysterious death in Florida.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455523153.jpg",
+			"name": "THE FORGOTTEN",
+			"publisher": "Grand Central Publishing",
+			"rank": 2
+		},
+		{
+			"author": "by Vince Flynn",
+			"description": "The counterterrorism operative Mitch Rapp searches for a missing C.I.A. asset amid treachery in Afghanistan.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781439100530.jpg",
+			"name": "THE LAST MAN",
+			"publisher": "Simon & Schuster",
+			"rank": 3
+		},
+		{
+			"author": "by John Grisham",
+			"description": "An imprisoned ex-lawyer schemes to exchange this information about who murdered a judge for his freedom.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385536882.jpg",
+			"name": "THE RACKETEER",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 4
+		},
+		{
+			"author": "by James Patterson",
+			"description": "Detective Alex Cross confronts both a hostage situation and a terrorist act at Christmas.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316210683.jpg",
+			"name": "MERRY CHRISTMAS, ALEX CROSS",
+			"publisher": "Little, Brown & Company",
+			"rank": 5
+		},
+		{
+			"author": "by Yann Martel",
+			"description": "A teenage boy and a 450-pound tiger are thrown together in a lifeboat after a shipwreck; originally published in 2002 and now a movie.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780156027328.jpg",
+			"name": "LIFE OF PI",
+			"publisher": "Houghton Mifflin Harcourt Publishers",
+			"rank": 6
+		},
+		{
+			"author": "by Glenn Beck with Harriet Parke",
+			"description": "A girl begins to question the authorities who run the Republic, the totalitarian successor to the United States created by the U.N.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476717005.jpg",
+			"name": "AGENDA 21",
+			"publisher": "Simon & Schuster",
+			"rank": 7
+		},
+		{
+			"author": "by Gillian Flynn",
+			"description": "A woman disappears on the day of her fifth anniversary; is her husband a killer?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307588388.jpg",
+			"name": "GONE GIRL",
+			"publisher": "Crown Publishing",
+			"rank": 8
+		},
+		{
+			"author": "by E. L. James",
+			"description": "A college student falls in love with a tortured man with particular sexual tastes; the first of a trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345803481.jpg",
+			"name": "FIFTY SHADES OF GREY",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 9
+		},
+		{
+			"author": "by Nora Roberts",
+			"description": "The final volume of the Inn BoonsBoro trilogy sees sparks fly between Ryder Montgomery and the innkeeper.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101612231.jpg",
+			"name": "THE PERFECT HOPE",
+			"publisher": "Penguin Group",
+			"rank": 10
+		},
+		{
+			"author": "by E. L. James",
+			"description": "The final book in an erotic trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781612130606.jpg",
+			"name": "FIFTY SHADES FREED",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 11
+		},
+		{
+			"author": "by E. L. James",
+			"description": "Ana Steele learns more about Christian Grey\u2019s troubled past; the second book in a trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345803498.jpg",
+			"name": "FIFTY SHADES DARKER",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 12
+		},
+		{
+			"author": "by Sylvia Day",
+			"description": "Eva and Gideon, of \u201cBared to You,\u201d continue to struggle to make their relationship work.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101604915.jpg",
+			"name": "REFLECTED IN YOU",
+			"publisher": "Penguin Group",
+			"rank": 13
+		},
+		{
+			"author": "by Raine Miller",
+			"description": "In Book 2 of the Blackstone Affair trilogy, Brynne has left Ethan, but he is determined to win her back.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781301501953.jpg",
+			"name": "ALL IN",
+			"publisher": "Raine Miller",
+			"rank": 14
+		},
+		{
+			"author": "by J. K. Rowling",
+			"description": "The sudden death of a parish councilman reveals bitter social divisions in an idyllic English town.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316228558.jpg",
+			"name": "THE CASUAL VACANCY",
+			"publisher": "Little, Brown & Company",
+			"rank": 15
+		}
+	]
+}

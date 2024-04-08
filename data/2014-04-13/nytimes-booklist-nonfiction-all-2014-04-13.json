@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Arianna Huffington",
+			"description": "Personal well-being as the indispensable third measure \u2014 after money and power \u2014 of success.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780804140843.jpg",
+			"name": "THRIVE",
+			"publisher": "Harmony",
+			"rank": 1
+		},
+		{
+			"author": "by Todd Burpo with Lynn Vincent",
+			"description": "A father recounts his 3-year-old son\u2019s encounter with Jesus during an appendectomy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780849949203.jpg",
+			"name": "HEAVEN IS FOR REAL",
+			"publisher": "Thomas Nelson",
+			"rank": 2
+		},
+		{
+			"author": "by Solomon Northup",
+			"description": "The narrative, first published in 1853, of a freeman who was kidnapped and sold into slavery, and spent 12 years in bondage before escaping; the basis of the movie.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781443433099.jpg",
+			"name": "TWELVE YEARS A SLAVE",
+			"publisher": "Various publishers",
+			"rank": 3
+		},
+		{
+			"author": "by Jimmy Carter",
+			"description": "The former president denounces discrimination and violence against women.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476773971.jpg",
+			"name": "CALL TO ACTION",
+			"publisher": "Simon & Schuster",
+			"rank": 4
+		},
+		{
+			"author": "by Edith H. Beer with Susan Dworkin",
+			"description": "The story of a Jewish woman who hid her identity and married a Nazi Party member, thus saving her life.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062190048.jpg",
+			"name": "THE NAZI OFFICER'S WIFE",
+			"publisher": "HarperCollins",
+			"rank": 5
+		},
+		{
+			"author": "by Chelsea Handler",
+			"description": "Humorous travel stories.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455599721.jpg",
+			"name": "UGANDA BE KIDDING ME",
+			"publisher": "Grand Central",
+			"rank": 6
+		},
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "The host of \"The O'Reilly Factor\" recounts the events leading up to Jesus' execution.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780805098549.jpg",
+			"name": "KILLING JESUS",
+			"publisher": "Holt",
+			"rank": 7
+		},
+		{
+			"author": "by Dan Harris",
+			"description": "A co-anchor of \"Nightline\" reports on the science and spiritual dimensions of meditation and  how it has improved his life.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062265425.jpg",
+			"name": "10% HAPPIER",
+			"publisher": "It Books",
+			"rank": 8
+		},
+		{
+			"author": "by Laura Hillenbrand",
+			"description": "An Olympic runner\u2019s story of survival as a prisoner of the Japanese in World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400064168.jpg",
+			"name": "UNBROKEN",
+			"publisher": "Random House",
+			"rank": 9
+		},
+		{
+			"author": "by Marcus Luttrell with Patrick Robinson",
+			"description": "The only survivor of a Navy SEALs operation in northern Afghanistan describes the battle and his escape. First published in 2007; the basis for the movie.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316067607.jpg",
+			"name": "LONE SURVIVOR",
+			"publisher": "Little, Brown",
+			"rank": 10
+		},
+		{
+			"author": "by Greg Gutfeld",
+			"description": "The Fox News Channel host, author of \u201cThe Joy of Hate,\u201d denounces the hipster elite and their pop cultural dominance.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780804138543.jpg",
+			"name": "NOT COOL",
+			"publisher": "Crown Forum",
+			"rank": 11
+		},
+		{
+			"author": "by Robert M. Edsel with Bret Witter",
+			"description": "The fight to preserve art works stolen by the Nazis during World War II. The basis for the movie.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316240055.jpg",
+			"name": "THE MONUMENTS MEN",
+			"publisher": "Center Street",
+			"rank": 12
+		},
+		{
+			"author": "by Sheryl Sandberg with Nell Scovell",
+			"description": "The chief operating officer of Facebook urges women to pursue their careers without ambivalence.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385349956.jpg",
+			"name": "LEAN IN",
+			"publisher": "Knopf",
+			"rank": 13
+		},
+		{
+			"author": "by Malcolm Gladwell",
+			"description": "How disadvantages can work in our favor; from the author of \"The Tipping Point\" and \"Outliers.\"",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316204361.jpg",
+			"name": "DAVID AND GOLIATH",
+			"publisher": "Little, Brown",
+			"rank": 14
+		},
+		{
+			"author": "by Susan Cain",
+			"description": "Introverts \u2014 one-third of the population \u2014 are undervalued in American society.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307452207.jpg",
+			"name": "QUIET",
+			"publisher": "Crown",
+			"rank": 15
+		}
+	]
+}

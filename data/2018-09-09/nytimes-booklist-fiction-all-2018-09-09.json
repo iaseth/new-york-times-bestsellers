@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Kevin Kwan",
+			"description": "A New Yorker gets a surprise when she spends the summer with her boyfriend in Singapore.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345803788.jpg",
+			"name": "CRAZY RICH ASIANS",
+			"publisher": "Anchor",
+			"rank": 1
+		},
+		{
+			"author": "by Karin Slaughter",
+			"description": "When a violent incident reveals her mother\u2019s secret past, Andrea Oliver searches for clues to save her.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062430298.jpg",
+			"name": "PIECES OF HER",
+			"publisher": "Morrow",
+			"rank": 2
+		},
+		{
+			"author": "by James Patterson and Andrew Bourelle",
+			"description": "Rory Yates's job and reputation are at risk when he is accused of killing his ex-wife.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316556682.jpg",
+			"name": "TEXAS RANGER",
+			"publisher": "Little, Brown",
+			"rank": 3
+		},
+		{
+			"author": "by Kevin Kwan",
+			"description": "The second book in the Crazy Rich Asians trilogy. As her wedding draws near, Rachel Chu discovers her birth father.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780804172066.jpg",
+			"name": "CHINA RICH GIRLFRIEND",
+			"publisher": "Anchor",
+			"rank": 4
+		},
+		{
+			"author": "by Kevin Kwan",
+			"description": "The final book in the Crazy Rich Asians trilogy. Rivalries and jealousies arise among privileged families.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385542234.jpg",
+			"name": "RICH PEOPLE PROBLEMS",
+			"publisher": "Anchor",
+			"rank": 5
+		},
+		{
+			"author": "by Dan Brown",
+			"description": "A symbology professor goes on a perilous quest with a beautiful museum director.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385542692.jpg",
+			"name": "ORIGIN",
+			"publisher": "Doubleday",
+			"rank": 6
+		},
+		{
+			"author": "by Gillian Flynn",
+			"description": "After a stay at a psychiatric hospital, a reporter reluctantly returns to her hometown to cover the murders of two girls.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307341556.jpg",
+			"name": "SHARP OBJECTS",
+			"publisher": "Broadway",
+			"rank": 7
+		},
+		{
+			"author": "by Jodi Picoult",
+			"description": "A medical crisis entangles a black nurse, a white supremacist father and a white lawyer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345544964.jpg",
+			"name": "SMALL GREAT THINGS",
+			"publisher": "Ballantine",
+			"rank": 8
+		},
+		{
+			"author": "by Andrew Sean Greer",
+			"description": "Winner of the 2018 Pulitzer Prize in fiction. To avoid an ex-boyfriend's wedding, a failed novelist attends literary events around the world.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316316132.jpg",
+			"name": "LESS",
+			"publisher": "Back Bay",
+			"rank": 9
+		},
+		{
+			"author": "by James Patterson and Bill Clinton",
+			"description": "President Jonathan Duncan, a Gulf War veteran and widower, takes on adversaries at home and abroad.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316412698.jpg",
+			"name": "THE PRESIDENT IS MISSING",
+			"publisher": "Little, Brown and Knopf",
+			"rank": 10
+		},
+		{
+			"author": "by James Patterson and David Ellis",
+			"description": "Searching for her sister\u2019s killer, a former F.B.I. researcher finds a link between scores of unsolved cases.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316405409.jpg",
+			"name": "INVISIBLE",
+			"publisher": "Little, Brown",
+			"rank": 11
+		},
+		{
+			"author": "by Nora Roberts",
+			"description": "When a pandemic strikes and the world spins into chaos, several travelers head west to find a new life.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250122957.jpg",
+			"name": "YEAR ONE",
+			"publisher": "St. Martin's",
+			"rank": 12
+		},
+		{
+			"author": "by Sandra Brown",
+			"description": "A pilot navigates treacherous situations when he attempts to deliver a mysterious black box to a doctor in Georgia.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455572168.jpg",
+			"name": "TAILSPIN",
+			"publisher": "Grand Central",
+			"rank": 13
+		},
+		{
+			"author": "by William Kent Krueger",
+			"description": "An independent investigation into a deadly plane crash in a remote part of a Native American reservation faces a menace.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501147487.jpg",
+			"name": "DESOLATION MOUNTAIN",
+			"publisher": "Atria",
+			"rank": 14
+		},
+		{
+			"author": "by Tayari Jones",
+			"description": "A newlywed couple's relationship is tested when the husband is sentenced to 12 years in prison.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781616207601.jpg",
+			"name": "AN AMERICAN MARRIAGE",
+			"publisher": "Algonquin",
+			"rank": 15
+		}
+	]
+}

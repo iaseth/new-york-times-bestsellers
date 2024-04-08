@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Delia Owens",
+			"description": "In a quiet town on the North Carolina coast in 1969, a young woman who survived alone in the marsh becomes a murder suspect.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735219090.jpg",
+			"name": "WHERE THE CRAWDADS SING",
+			"publisher": "Putnam",
+			"rank": 1
+		},
+		{
+			"author": "by Christine Feehan",
+			"description": "The second book in the Torpedo Ink series. Complications rev up between Breezy and Steele.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780451490155.jpg",
+			"name": "VENGEANCE ROAD",
+			"publisher": "Berkley",
+			"rank": 2
+		},
+		{
+			"author": "by Pam Jenoff",
+			"description": "Grace Healey investigates the fates of 12 women who were sent to occupied Europe to help the resistance during World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780778330271.jpg",
+			"name": "THE LOST GIRLS OF PARIS",
+			"publisher": "Park Row",
+			"rank": 3
+		},
+		{
+			"author": "by Heather Morris",
+			"description": "A concentration camp detainee tasked with permanently marking fellow prisoners falls in love with one of them.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062797155.jpg",
+			"name": "THE TATTOOIST OF AUSCHWITZ",
+			"publisher": "Harper",
+			"rank": 4
+		},
+		{
+			"author": "by Lynsay Sands",
+			"description": "The seventh book in the Highland Brides series. While her ailing father needs her help, Lady Evina Maclean is distracted by Rory Buchanan.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062469007.jpg",
+			"name": "THE WRONG HIGHLANDER",
+			"publisher": "Avon",
+			"rank": 5
+		},
+		{
+			"author": "by Greer Hendricks and Sarah Pekkanen",
+			"description": "Jessica Farris\u2019s life unravels when she signs up for Dr. Shields\u2019s psychology study.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250133731.jpg",
+			"name": "AN ANONYMOUS GIRL",
+			"publisher": "St. Martin's",
+			"rank": 6
+		},
+		{
+			"author": "by John Grisham",
+			"description": "A decorated World War II veteran shoots and kills a pastor inside a Mississippi church.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385544160.jpg",
+			"name": "THE RECKONING",
+			"publisher": "Doubleday",
+			"rank": 7
+		},
+		{
+			"author": "by Gail Honeyman",
+			"description": "A young woman\u2019s well-ordered life is disrupted by the I.T. guy from her office.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735220690.jpg",
+			"name": "ELEANOR OLIPHANT IS COMPLETELY FINE",
+			"publisher": "Penguin",
+			"rank": 8
+		},
+		{
+			"author": "by James Patterson and Candice Fox",
+			"description": "Detective Harriet Blue has become a dangerous fugitive from the law as she pursues the murderer Regan Banks.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316418256.jpg",
+			"name": "LIAR LIAR",
+			"publisher": "Little, Brown",
+			"rank": 9
+		},
+		{
+			"author": "by Kristen Ashley",
+			"description": "Members of the Chaos Motorcycle Club have more battles to fight.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/A00B07K8WXXL8.jpg",
+			"name": "FREE",
+			"publisher": "Kristen Ashley",
+			"rank": 10
+		},
+		{
+			"author": "by Kristin Hannah",
+			"description": "A child psychiatrist helps a 6-year-old girl found in the Olympic National Forest.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345522184.jpg",
+			"name": "MAGIC HOUR",
+			"publisher": "Ballantine",
+			"rank": 11
+		},
+		{
+			"author": "by James Rollins",
+			"description": "Monk Kokkalis and Commander Gray Pierce use arcane clues in hopes of preventing a potential apocalypse.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062381781.jpg",
+			"name": "CRUCIBLE",
+			"publisher": "Morrow",
+			"rank": 12
+		},
+		{
+			"author": "by Joseph Finder",
+			"description": "Juliana Brody, a judge in the Superior Court of Massachusetts, has a one-night stand that might be her undoing.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101985823.jpg",
+			"name": "JUDGMENT",
+			"publisher": "Dutton",
+			"rank": 13
+		},
+		{
+			"author": "by Danielle Steel",
+			"description": "Four American trauma doctors face difficult choices when they join a mass-casualty training program in Paris.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399179365.jpg",
+			"name": "TURNING POINT",
+			"publisher": "Delacorte",
+			"rank": 14
+		},
+		{
+			"author": "by Gregg Hurwitz",
+			"description": "The fourth book in the Orphan X series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250120441.jpg",
+			"name": "OUT OF THE DARK",
+			"publisher": "Minotaur",
+			"rank": 15
+		}
+	]
+}

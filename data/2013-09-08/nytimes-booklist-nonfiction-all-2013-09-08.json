@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Mark R. Levin",
+			"description": "The talk-radio host offers 11 proposals for returning to America\u0092s founding principles.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451606270.jpg",
+			"name": "THE LIBERTY AMENDMENTS",
+			"publisher": "Threshold Editions",
+			"rank": 1
+		},
+		{
+			"author": "by Reza Aslan",
+			"description": "A biography of Jesus of Nazareth presents him in the context of his times as the leader of a revolutionary movement.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400069224.jpg",
+			"name": "ZEALOT",
+			"publisher": "Random House",
+			"rank": 2
+		},
+		{
+			"author": "by Piper Kerman",
+			"description": "A memoir by a Brooklyn woman whose relationship with a drug runner gets her sentenced to a year in prison. The basis for the Netflix series, originally published in 2010.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385530262.jpg",
+			"name": "ORANGE IS THE NEW BLACK",
+			"publisher": "Spiegel & Grau",
+			"rank": 3
+		},
+		{
+			"author": "by Jane Velez-Mitchell",
+			"description": "The story of Jodi Arias, who was convicted of murdering her boyfriend, Travis Alexander.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062303998.jpg",
+			"name": "EXPOSED",
+			"publisher": "Morrow/HarperCollins",
+			"rank": 4
+		},
+		{
+			"author": "by Phil Robertson with Mark Schlabach",
+			"description": "The Duck Commander pays tribute to \u0093faith, family and ducks.\u0094",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476726090.jpg",
+			"name": "HAPPY, HAPPY, HAPPY",
+			"publisher": "Howard Books",
+			"rank": 5
+		},
+		{
+			"author": "by Eben Alexander",
+			"description": "A neurosurgeon recounts his near death experience during a coma from bacterial meningitis.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451695199.jpg",
+			"name": "PROOF OF HEAVEN",
+			"publisher": "Simon & Schuster",
+			"rank": 6
+		},
+		{
+			"author": "by Sheryl Sandberg with Nell Scovell",
+			"description": "The chief operating officer of Facebook urges women to pursue their careers without ambivalence.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385349956.jpg",
+			"name": "LEAN IN",
+			"publisher": "Knopf",
+			"rank": 7
+		},
+		{
+			"author": "by Scott Anderson",
+			"description": "A history of the Arab revolt against the Turks in World War I focuses on T.E. Lawrence and other adventurers.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307476418.jpg",
+			"name": "LAWRENCE IN ARABIA",
+			"publisher": "Doubleday",
+			"rank": 8
+		},
+		{
+			"author": "by Eric Metaxas",
+			"description": "A biography of Dietrich Bonhoeffer, the German theologian who was hanged for his role in an assassination plot against Hitler.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781418556341.jpg",
+			"name": "BONHOEFFER",
+			"publisher": "Thomas Nelson",
+			"rank": 9
+		},
+		{
+			"author": "by Wil Haygood",
+			"description": "Eugene Allen served eight presidents from Harry Truman to Ronald Reagan. Haygood\u0092s Washington Post article about him inspired the movie \"Lee Daniels' The Butler.\"",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476753270.jpg",
+			"name": "BUTLER",
+			"publisher": "37 INK/Atria",
+			"rank": 10
+		},
+		{
+			"author": "by Malcolm Gladwell",
+			"description": "Why some people succeed; from the author of \"Blink\" and \"The Tipping Point.\"",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316017930.jpg",
+			"name": "OUTLIERS",
+			"publisher": "Little, Brown",
+			"rank": 11
+		},
+		{
+			"author": "by Laura Hillenbrand",
+			"description": "An Olympic runner\u0092s story of survival as a prisoner of the Japanese in World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400064168.jpg",
+			"name": "UNBROKEN",
+			"publisher": "Random House",
+			"rank": 12
+		},
+		{
+			"author": "by Susan Cain",
+			"description": "Introverts \u0097 one-third of the population \u0097 are undervalued in American society.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307452207.jpg",
+			"name": "QUIET",
+			"publisher": "Crown",
+			"rank": 13
+		},
+		{
+			"author": "by Cheryl Strayed",
+			"description": "A woman\u0092s account of a life-changing 1,100-mile hike along the Pacific Crest Trail during the summer of 1995.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307476074.jpg",
+			"name": "WILD",
+			"publisher": "Knopf",
+			"rank": 14
+		},
+		{
+			"author": "by Jeannette Walls",
+			"description": "The author recalls a bizarre childhood during which she was constantly moved from place to place.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780743247542.jpg",
+			"name": "THE GLASS CASTLE",
+			"publisher": "Simon & Schuster",
+			"rank": 15
+		}
+	]
+}

@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Jojo Moyes",
+			"description": "A woman who has barely been beyond her English village finds herself while caring for a wealthy, embittered quadriplegic.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780143124542.jpg",
+			"name": "ME BEFORE YOU",
+			"publisher": "Penguin",
+			"rank": 1
+		},
+		{
+			"author": "by James Patterson and Maxine Paetro",
+			"description": "When a brutal murder threatens the domestic happiness of the San Francisco police detective Lindsay Boxer, she turns for help to the Women\u2019s Murder Club.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316407076.jpg",
+			"name": "15TH AFFAIR",
+			"publisher": "Little, Brown",
+			"rank": 2
+		},
+		{
+			"author": "by Mary Kay Andrews",
+			"description": "On the North Carolina island of Belle Isle, a woman investigates her husband\u2019s shady financial affairs after his mysterious death.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781466872929.jpg",
+			"name": "THE WEEKENDERS",
+			"publisher": "St. Martin's",
+			"rank": 3
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "In a sequel to \u201cMemory Man,\u201d Amos Decker, a detective with an extraordinary memory, investigates the case of a convicted killer who wins a last-minute reprieve.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455586455.jpg",
+			"name": "THE LAST MILE",
+			"publisher": "Grand Central",
+			"rank": 4
+		},
+		{
+			"author": "by Joe Hill",
+			"description": "During an epidemic that causes people to spontaneously combust, an infected New Hampshire nurse fights to stay alive, aided by a mysterious figure known as the Fireman.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062200655.jpg",
+			"name": "THE FIREMAN",
+			"publisher": "Morrow/HarperCollins",
+			"rank": 5
+		},
+		{
+			"author": "by Douglas Preston and Lincoln Child",
+			"description": "In a sequel to \u201cThe Ice Limit\u201d (2000), Gideon Crew pursues a meteorite that has sunk to the ocean floor. Or is it only a meteorite?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455525881.jpg",
+			"name": "BEYOND THE ICE LIMIT",
+			"publisher": "Grand Central",
+			"rank": 6
+		},
+		{
+			"author": "by Paula Hawkins",
+			"description": "A psychological thriller set in the environs of London is full of complications and betrayals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594633669.jpg",
+			"name": "THE GIRL ON THE TRAIN",
+			"publisher": "Riverhead",
+			"rank": 7
+		},
+		{
+			"author": "by John Sandford",
+			"description": "Lucas Davenport, who has left the Minnesota Bureau of Criminal Apprehension, is in Iowa trying to foil a plot to assassinate a Hillary Clinton-like candidate. The 26th Lucas Davenport thriller.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698407107.jpg",
+			"name": "EXTREME PREY",
+			"publisher": "Putnam",
+			"rank": 8
+		},
+		{
+			"author": "by Denise Grover Swank",
+			"description": "A nemesis is arrested, but his extensive network threatens revenge in the ninth book in the Rose Gardner mystery series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781939996398.jpg",
+			"name": "THIRTY-SIX AND A HALF MOTIVES",
+			"publisher": "Denise Grover Swank",
+			"rank": 9
+		},
+		{
+			"author": "by Jane Green",
+			"description": "When a widow on Nantucket learns she may lose her house, she turns it into a bed-and-breakfast. Originally published in 2008.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781440635861.jpg",
+			"name": "THE BEACH HOUSE",
+			"publisher": "Berkley",
+			"rank": 10
+		},
+		{
+			"author": "by Craig Johnson",
+			"description": "Wyoming\u2019s Sheriff Walt Longmire (the inspiration for the Netflix series \u201cLongmire\u201d) encounters the supernatural in this novella.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735220898.jpg",
+			"name": "THE HIGHWAYMAN",
+			"publisher": "Viking",
+			"rank": 11
+		},
+		{
+			"author": "by Cynthia D'Aprix Sweeney",
+			"description": "Siblings in a dysfunctional New York family must grapple with a reduced inheritance.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062414236.jpg",
+			"name": "THE NEST",
+			"publisher": "Ecco/HarperCollins",
+			"rank": 12
+		},
+		{
+			"author": "by Jojo Moyes",
+			"description": "After the death of Will Traynor, Louisa Clark joins a grief support group that may lead her to new love.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698152045.jpg",
+			"name": "AFTER YOU",
+			"publisher": "Pamela Dorman/Viking",
+			"rank": 13
+		},
+		{
+			"author": "by Kristin Hannah",
+			"description": "Two sisters are separated in World War II France: one in the countryside, the other in Paris.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781466850606.jpg",
+			"name": "THE NIGHTINGALE",
+			"publisher": "St. Martin's",
+			"rank": 14
+		},
+		{
+			"author": "by Danielle Steel",
+			"description": "Four young women share a Hell\u2019s Kitchen loft.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780804179676.jpg",
+			"name": "THE APARTMENT",
+			"publisher": "Delacorte",
+			"rank": 15
+		}
+	]
+}

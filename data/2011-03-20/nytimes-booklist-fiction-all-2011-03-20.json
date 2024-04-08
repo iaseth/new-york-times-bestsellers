@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Jodi Picoult",
+			"description": "Picoult takes on the issue of gay rights in this novel about a music therapist who desperately wants a child.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781439102732.jpg",
+			"name": "SING YOU HOME",
+			"publisher": "Simon & Schuster",
+			"rank": 1
+		},
+		{
+			"author": "by Patrick Rothfuss",
+			"description": "In this sequel to \u201cThe Name of the Wind,\u201d the magician Kvothe continues to narrate his fantastical life story.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780756407124.jpg",
+			"name": "THE WISE MAN'S FEAR",
+			"publisher": "Penguin Group",
+			"rank": 2
+		},
+		{
+			"author": "by Patricia Briggs",
+			"description": "The shapeshifter Mercy Thompson and her mate, the Alpha werewolf Adam, must confront evil lurking in the Columbia River.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780441019731.jpg",
+			"name": "RIVER MARKED",
+			"publisher": "Penguin Group",
+			"rank": 3
+		},
+		{
+			"author": "by Sara Gruen",
+			"description": "After his parents die in a car accident, young veterinary student \u2014 and an elephant \u2014 save a Depression-era circus.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781616200718.jpg",
+			"name": "WATER FOR ELEPHANTS",
+			"publisher": "Algonquin",
+			"rank": 4
+		},
+		{
+			"author": "by James Patterson and Michael Ledwidge",
+			"description": "The New York detective Michael Bennett enlists the help of a former colleague to solve a rash of horrifying crimes that are throwing the city into chaos.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780446584333.jpg",
+			"name": "TICK TOCK",
+			"publisher": "Little, Brown",
+			"rank": 5
+		},
+		{
+			"author": "by Stieg Larsson",
+			"description": "The third volume of the Millennium trilogy, about a Swedish hacker and a journalist.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307593672.jpg",
+			"name": "THE GIRL WHO KICKED THE HORNET\u2019S NEST",
+			"publisher": "Knopf Doubleday",
+			"rank": 6
+		},
+		{
+			"author": "by Stieg Larsson",
+			"description": "A hacker and a journalist investigate the disappearance of a Swedish heiress 40 years earlier.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307949486.jpg",
+			"name": "THE GIRL WITH THE DRAGON TATTOO",
+			"publisher": "Knopf Doubleday",
+			"rank": 7
+		},
+		{
+			"author": "by J. D. Robb",
+			"description": "Eve Dallas and her partner, Peabody, investigate a grocer\u2019s murder.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399157035.jpg",
+			"name": "TREACHERY IN DEATH",
+			"publisher": "Penguin Group",
+			"rank": 8
+		},
+		{
+			"author": "by Lisa Gardner",
+			"description": "A woman who survived a childhood abduction may have tricked the Massachusetts police sniper Bobby Dodge into killing her husband.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780553901139.jpg",
+			"name": "ALONE",
+			"publisher": "Random House",
+			"rank": 9
+		},
+		{
+			"author": "by Stieg Larsson",
+			"description": "In the second volume of the Millennium trilogy, a Swedish hacker becomes a murder suspect.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307476159.jpg",
+			"name": "THE GIRL WHO PLAYED WITH FIRE",
+			"publisher": "Knopf Doubleday",
+			"rank": 10
+		},
+		{
+			"author": "by Deborah Harkness",
+			"description": "The recovery of a lost ancient manuscript in a library at Oxford sets a fantastical underworld stirring.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101475690.jpg",
+			"name": "A DISCOVERY OF WITCHES",
+			"publisher": "Penguin Group",
+			"rank": 11
+		},
+		{
+			"author": "by Maeve Binchy",
+			"description": "A motherless girl is cared for by a Dublin community.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307595164.jpg",
+			"name": "MINDING FRANKIE",
+			"publisher": "Knopf Doubleday",
+			"rank": 12
+		},
+		{
+			"author": "by Lora Leigh",
+			"description": "Jordan Malone, commander of the Elite Ops, is driven to distraction by the one woman he cannot resist: Tehya Talamosi, code name Enigma.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780312945848.jpg",
+			"name": "LIVE WIRE",
+			"publisher": "St. Martin\u2019s",
+			"rank": 13
+		},
+		{
+			"author": "by Abraham Verghese",
+			"description": "Twin brothers, conjoined at birth and then separated, grow up amid the political turmoil of Ethiopia.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780375714368.jpg",
+			"name": "CUTTING FOR STONE",
+			"publisher": "Knopf Doubleday",
+			"rank": 14
+		},
+		{
+			"author": "by Linda Lael Miller",
+			"description": "Steven Creed becomes the guardian of a 5-year-old boy, trading his law firm for a ranch near his McKettrick family in Stone Creek, Ariz.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781426887697.jpg",
+			"name": "A CREED IN STONE CREEK",
+			"publisher": "Harlequin",
+			"rank": 15
+		}
+	]
+}

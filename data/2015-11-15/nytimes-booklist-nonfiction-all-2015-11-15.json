@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "The host of \u201cThe O\u2019Reilly Factor\u201d recounts the events surrounding the attempted assassination of President Reagan in 1981.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781627792424.jpg",
+			"name": "KILLING REAGAN",
+			"publisher": "Holt",
+			"rank": 1
+		},
+		{
+			"author": "by Stacy Schiff",
+			"description": "An account of the Salem witch trials of 1692.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316200615.jpg",
+			"name": "THE WITCHES",
+			"publisher": "Little, Brown",
+			"rank": 2
+		},
+		{
+			"author": "by Jocko Willink and Leif Babin",
+			"description": "Applying the principles of Navy SEALs leadership training to any organization.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781466874961.jpg",
+			"name": "EXTREME OWNERSHIP",
+			"publisher": "St. Martin's",
+			"rank": 3
+		},
+		{
+			"author": "by Michael Savage",
+			"description": "The radio host warns Americans against Islamists and the Obama administration, which, he says, aims to impose absolute rule and destroy our civilization.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781478907084.jpg",
+			"name": "GOVERNMENT ZERO",
+			"publisher": "Center Street",
+			"rank": 4
+		},
+		{
+			"author": "by Ben Carson with Candy Carson",
+			"description": "A discussion of the Constitution by the candidate for the Republican presidential nomination.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781591848042.jpg",
+			"name": "A MORE PERFECT UNION",
+			"publisher": "Sentinel",
+			"rank": 5
+		},
+		{
+			"author": "by Tyler Oakley",
+			"description": "Personal essays from the L.G.B.T.Q. YouTube personality.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501117718.jpg",
+			"name": "BINGE",
+			"publisher": "Gallery Books",
+			"rank": 6
+		},
+		{
+			"author": "by Drew Barrymore",
+			"description": "The actress shares stories about her life.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101983805.jpg",
+			"name": "WILDFLOWER",
+			"publisher": "Dutton",
+			"rank": 7
+		},
+		{
+			"author": "by Ted Koppel",
+			"description": "The journalist describes how a cyberattack on the nation\u2019s power grids could paralyze our infrastructure, warns that government has not planned for the possibility, and visits \u201cpreppers\u201d who are taking their own precautions.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780553419979.jpg",
+			"name": "LIGHTS OUT",
+			"publisher": "Crown",
+			"rank": 8
+		},
+		{
+			"author": "by Irin Carmon and Shana Knizhnik",
+			"description": "A celebration of the life and career of Supreme Court Justice Ruth Bader Ginsburg.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062415837.jpg",
+			"name": "NOTORIOUS RBG",
+			"publisher": "Dey Street",
+			"rank": 9
+		},
+		{
+			"author": "by Ta-Nehisi Coates",
+			"description": "A meditation on race in America as well as a personal story by the Atlantic's national correspondent.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780679645986.jpg",
+			"name": "BETWEEN THE WORLD AND ME",
+			"publisher": "Spiegel & Grau",
+			"rank": 10
+		},
+		{
+			"author": "by Carrie Brownstein",
+			"description": "The guitarist of the riot girrl band Sleater-Kinney (and co-star of \u201cPortlandia\u201d) describes finding a life in music.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594486630.jpg",
+			"name": "HUNGER MAKES ME A MODERN GIRL",
+			"publisher": "Riverhead",
+			"rank": 11
+		},
+		{
+			"author": "by Daniel James Brown",
+			"description": "The University of Washington\u2019s eight-oar crew and their quest for gold at the 1936 Berlin Olympics.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101622742.jpg",
+			"name": "THE BOYS IN THE BOAT",
+			"publisher": "Penguin",
+			"rank": 12
+		},
+		{
+			"author": "by Gloria Steinem",
+			"description": "A memoir by the feminist writer and activist is also a history of the movement.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780679456209.jpg",
+			"name": "MY LIFE ON THE ROAD",
+			"publisher": "Random House",
+			"rank": 13
+		},
+		{
+			"author": "by Brandon Stanton",
+			"description": "Photographs and interviews from the creator of the blog and the book \u201cHumans of New York.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250058904.jpg",
+			"name": "HUMANS OF NEW YORK: STORIES",
+			"publisher": "St. Martin's",
+			"rank": 14
+		},
+		{
+			"author": "by Mindy Kaling",
+			"description": "More personal essays from the comedian and actress.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780804138154.jpg",
+			"name": "WHY NOT ME?",
+			"publisher": "Crown Archetype",
+			"rank": 15
+		}
+	]
+}

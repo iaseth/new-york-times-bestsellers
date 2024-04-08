@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by John Grisham",
+			"description": "The attorney Sebastian Rudd is a \u201clone gunman\u201d who hates injustice and the system and defends unpopular clients.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385539449.jpg",
+			"name": "ROGUE LAWYER",
+			"publisher": "Doubleday",
+			"rank": 1
+		},
+		{
+			"author": "by Robert Galbraith",
+			"description": "In the third novel about the private investigative team of Cormoran Strike and Robin Ellacott, the pair pursue a psychotic stalker; by J.\u2009K. Rowling, writing pseudonymously.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316349932.jpg",
+			"name": "CAREER OF EVIL",
+			"publisher": "Mulholland/Little, Brown",
+			"rank": 2
+		},
+		{
+			"author": "by Nicholas Sparks",
+			"description": "A couple in love are threatened by secrets from the past.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455520619.jpg",
+			"name": "SEE ME",
+			"publisher": "Grand Central",
+			"rank": 3
+		},
+		{
+			"author": "by Andy Weir",
+			"description": "Abandoned by his crew, an astronaut embarks on a dogged quest to stay alive.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780804139038.jpg",
+			"name": "THE MARTIAN",
+			"publisher": "Crown",
+			"rank": 4
+		},
+		{
+			"author": "by Vince Flynn and Kyle Mills",
+			"description": "A counterterrorism operative must control the damage from a leak of C.I.A. documents.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476783475.jpg",
+			"name": "THE SURVIVOR",
+			"publisher": "Emily Bestler/Atria",
+			"rank": 5
+		},
+		{
+			"author": "by Kate Morton",
+			"description": "A London detective investigating a missing-persons case becomes curious about an unsolved 1933 kidnapping in Cornwall.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451649376.jpg",
+			"name": "THE LAKE HOUSE",
+			"publisher": "Atria",
+			"rank": 6
+		},
+		{
+			"author": "by James Patterson and David Ellis",
+			"description": "When bodies are found at a Hamptons estate where a series of grisly murders once occurred, a local detective and former New York City cop investigates.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316337977.jpg",
+			"name": "THE MURDER HOUSE",
+			"publisher": "Little, Brown",
+			"rank": 7
+		},
+		{
+			"author": "by Joseph Fink and Jeffrey Cranor",
+			"description": "The lives of two women intersect in a desert town home to supernatural and paranormal occurrences.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062351425.jpg",
+			"name": "WELCOME TO NIGHT VALE",
+			"publisher": "Harper Perennial/HarperCollins",
+			"rank": 8
+		},
+		{
+			"author": "by Tijan",
+			"description": "A golden-boy killer and the woman whose life he saved are reunited.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/A00B016TO0AOG.jpg",
+			"name": "KIAN",
+			"publisher": "Tijan",
+			"rank": 9
+		},
+		{
+			"author": "by David Lagercrantz",
+			"description": "Mikael Blomkvist and Lisbeth Salander are back in this continuation of Steig Larsson's Millennium series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385354288.jpg",
+			"name": "THE GIRL IN THE SPIDER'S WEB",
+			"publisher": "Knopf",
+			"rank": 10
+		},
+		{
+			"author": "by Paula Hawkins",
+			"description": "A psychological thriller set in the environs of London is full of complications and betrayals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594633669.jpg",
+			"name": "THE GIRL ON THE TRAIN",
+			"publisher": "Riverhead",
+			"rank": 11
+		},
+		{
+			"author": "by Karin Slaughter",
+			"description": "A woman discovers secrets about her husband that lead her to reconnect with her estranged sister.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062429063.jpg",
+			"name": "PRETTY GIRLS",
+			"publisher": "Morrow/HarperCollins",
+			"rank": 12
+		},
+		{
+			"author": "by Anthony Doerr",
+			"description": "The lives of a blind French girl and a gadget-obsessed German boy before and during World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476746586.jpg",
+			"name": "ALL THE LIGHT WE CANNOT SEE",
+			"publisher": "Scribner",
+			"rank": 13
+		},
+		{
+			"author": "by Jana Aston",
+			"description": "An unlucky-in-love student barista falls for an older doctor.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780692527771.jpg",
+			"name": "WRONG",
+			"publisher": "Rutherford",
+			"rank": 14
+		},
+		{
+			"author": "by Lee Child",
+			"description": "Jack Reacher pries open a missing-persons case that takes him across the country and into the shadowy reaches of the Internet.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780804178785.jpg",
+			"name": "MAKE ME",
+			"publisher": "Delacorte",
+			"rank": 15
+		}
+	]
+}

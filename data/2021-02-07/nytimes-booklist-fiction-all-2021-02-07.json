@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Julia Quinn",
+			"description": "The first book in the Bridgerton series. Daphne Bridgerton\u2019s reputation soars when she colludes with the Duke of Hastings. The basis of the Netflix series \u201cBridgerton.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062424037.jpg",
+			"name": "THE DUKE AND I",
+			"publisher": "Avon",
+			"rank": 1
+		},
+		{
+			"author": "by Lisa Gardner",
+			"description": "A recovering alcoholic puts herself in danger when she searches for a Haitian teenager in a Boston neighborhood.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524745042.jpg",
+			"name": "BEFORE SHE DISAPPEARED",
+			"publisher": "Dutton",
+			"rank": 2
+		},
+		{
+			"author": "by Brit Bennett",
+			"description": "The lives of twin sisters who run away from a Southern Black community at age 16 diverge as one returns and the other takes on a different racial identity but their fates intertwine.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525536291.jpg",
+			"name": "THE VANISHING HALF",
+			"publisher": "Riverhead",
+			"rank": 3
+		},
+		{
+			"author": "by Matt Haig",
+			"description": "Nora Seed finds a library beyond the edge of the universe that contains books with multiple possibilities of the lives one could have lived.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525559474.jpg",
+			"name": "THE MIDNIGHT LIBRARY",
+			"publisher": "Viking",
+			"rank": 4
+		},
+		{
+			"author": "by V.E. Schwab",
+			"description": "A Faustian bargain comes with a curse that affects the adventure Addie LaRue has across centuries.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780765387561.jpg",
+			"name": "THE INVISIBLE LIFE OF ADDIE LARUE",
+			"publisher": "Tor/Forge",
+			"rank": 5
+		},
+		{
+			"author": "by Ashley Audrain",
+			"description": "A devastating event forces a mother who questions her child\u2019s behavior and her own sanity to confront the truth.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984881663.jpg",
+			"name": "THE PUSH",
+			"publisher": "Pamela Dorman",
+			"rank": 6
+		},
+		{
+			"author": "by Danielle Steel",
+			"description": "A Hollywood recluse\u2019s perspective changes when she invites her neighbors into her mansion after an earthquake.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984821379.jpg",
+			"name": "NEIGHBORS",
+			"publisher": "Delacorte",
+			"rank": 7
+		},
+		{
+			"author": "by Delia Owens",
+			"description": "In a quiet town on the North Carolina coast in 1969, a young woman who survived alone in the marsh becomes a murder suspect.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735219090.jpg",
+			"name": "WHERE THE CRAWDADS SING",
+			"publisher": "Putnam",
+			"rank": 8
+		},
+		{
+			"author": "by Fredrik Backman",
+			"description": "A failed bank robber holds a group of strangers hostage at an apartment open house.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501160837.jpg",
+			"name": "ANXIOUS PEOPLE",
+			"publisher": "Atria",
+			"rank": 9
+		},
+		{
+			"author": "by Kristin Hannah",
+			"description": "A friendship between two women in the Pacific Northwest endures for more than three decades.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781429927840.jpg",
+			"name": "FIREFLY LANE",
+			"publisher": "St. Martin's Griffin",
+			"rank": 10
+		},
+		{
+			"author": "by John Grisham",
+			"description": "The third book in the Jake Brigance series. A 16-year-old is accused of killing a deputy in Clanton, Miss., in 1990.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385545969.jpg",
+			"name": "A TIME FOR MERCY",
+			"publisher": "Doubleday",
+			"rank": 11
+		},
+		{
+			"author": "by Julia Quinn",
+			"description": "The second book in the Bridgerton series. Kate Sheffield gets in the way of Anthony Bridgerton's intent to marry.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062424075.jpg",
+			"name": "THE VISCOUNT WHO LOVED ME",
+			"publisher": "Avon",
+			"rank": 12
+		},
+		{
+			"author": "by Douglas Preston and Lincoln Child",
+			"description": "The second book in the Nora Kelly series. An F.B.I. agent and an archaeologist identify a mummified corpse and its gruesome cause of death.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538747278.jpg",
+			"name": "THE SCORPION'S TAIL",
+			"publisher": "Grand Central",
+			"rank": 13
+		},
+		{
+			"author": "by Paulette Jiles",
+			"description": "Following the Civil War, a man who reads newspapers to paying audiences agrees to deliver an orphan girl across difficult terrain to her relatives.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063011953.jpg",
+			"name": "NEWS OF THE WORLD",
+			"publisher": "Morrow",
+			"rank": 14
+		},
+		{
+			"author": "by Ann Patchett",
+			"description": "A sibling relationship is impacted when the family goes from poverty to wealth and back again over the course of many decades.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062963673.jpg",
+			"name": "THE DUTCH HOUSE",
+			"publisher": "Harper",
+			"rank": 15
+		}
+	]
+}

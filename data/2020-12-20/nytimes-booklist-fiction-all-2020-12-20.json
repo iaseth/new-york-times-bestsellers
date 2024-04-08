@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Ernest Cline",
+			"description": "In a sequel to \u201cReady Player One,\u201d Wade Watts discovers a technological advancement and goes on a new quest.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524761332.jpg",
+			"name": "READY PLAYER TWO",
+			"publisher": "Ballantine",
+			"rank": 1
+		},
+		{
+			"author": "by John Grisham",
+			"description": "The third book in the Jake Brigance series. A 16-year-old is accused of killing a deputy in Clanton, Miss., in 1990.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385545969.jpg",
+			"name": "A TIME FOR MERCY",
+			"publisher": "Doubleday",
+			"rank": 2
+		},
+		{
+			"author": "by James Patterson",
+			"description": "The 28th book in the Alex Cross series. An investigation of a double homicide sends Alex Cross to Alabama.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316420259.jpg",
+			"name": "DEADLY CROSS",
+			"publisher": "Little, Brown",
+			"rank": 3
+		},
+		{
+			"author": "by Nicholas Sparks",
+			"description": "A doctor serving in the Navy in Afghanistan goes back to North Carolina where two women change his life.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538728574.jpg",
+			"name": "THE RETURN",
+			"publisher": "Grand Central",
+			"rank": 4
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "The F.B.I. agent Atlee Pine\u2019s search for her twin sister overlaps with a military investigator\u2019s hunt for someone involved in a global conspiracy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538761694.jpg",
+			"name": "DAYLIGHT",
+			"publisher": "Grand Central",
+			"rank": 5
+		},
+		{
+			"author": "by Jeanine Cummins",
+			"description": "A bookseller flees Mexico for the United States with her son while pursued by the head of a drug cartel.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250209764.jpg",
+			"name": "AMERICAN DIRT",
+			"publisher": "Flatiron",
+			"rank": 6
+		},
+		{
+			"author": "by Brit Bennett",
+			"description": "The lives of twin sisters who run away from a Southern Black community at age 16 diverge as one returns and the other takes on a different racial identity but their fates intertwine.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525536291.jpg",
+			"name": "THE VANISHING HALF",
+			"publisher": "Riverhead",
+			"rank": 7
+		},
+		{
+			"author": "by Michael Connelly",
+			"description": "The sixth book in the Mickey Haller series. Haller defends himself when police find the body of a former client in his car\u2019s trunk.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316485623.jpg",
+			"name": "THE LAW OF INNOCENCE",
+			"publisher": "Little, Brown",
+			"rank": 8
+		},
+		{
+			"author": "by Lee Child and Andrew Child",
+			"description": "Jack Reacher intervenes on an ambush in Tennessee and uncovers a conspiracy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984818461.jpg",
+			"name": "THE SENTINEL",
+			"publisher": "Delacorte",
+			"rank": 9
+		},
+		{
+			"author": "by Nora Roberts",
+			"description": "The first book in the Dragon Heart Legacy series. Breen Kelly travels through a portal in Ireland to a land of faeries and mermaids.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250272614.jpg",
+			"name": "THE AWAKENING",
+			"publisher": "St. Martin's",
+			"rank": 10
+		},
+		{
+			"author": "by Rupi Kaur",
+			"description": "Poems and illustrations by the author of \u201cMilk and Honey\u201d and \u201cThe Sun and Her Flowers.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781449486808.jpg",
+			"name": "HOME BODY",
+			"publisher": "Andrews McMeel",
+			"rank": 11
+		},
+		{
+			"author": "by Brandon Sanderson",
+			"description": "The fourth book in the Stormlight Archive series. Technological discoveries and an ensuing arms race change how a war is fought.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780765326386.jpg",
+			"name": "RHYTHM OF WAR",
+			"publisher": "Tor",
+			"rank": 12
+		},
+		{
+			"author": "by Janet Evanovich",
+			"description": "The 27th book in the Stephanie Plum series. Stephanie deals with a soldier of fortune from Little Havana.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982154837.jpg",
+			"name": "FORTUNE AND GLORY",
+			"publisher": "Atria",
+			"rank": 13
+		},
+		{
+			"author": "by Fredrik Backman",
+			"description": "A failed bank robber holds a group of strangers hostage at an apartment open house.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501160837.jpg",
+			"name": "ANXIOUS PEOPLE",
+			"publisher": "Atria",
+			"rank": 14
+		},
+		{
+			"author": "by Delia Owens",
+			"description": "In a quiet town on the North Carolina coast in 1969, a young woman who survived alone in the marsh becomes a murder suspect.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735219090.jpg",
+			"name": "WHERE THE CRAWDADS SING",
+			"publisher": "Putnam",
+			"rank": 15
+		}
+	]
+}

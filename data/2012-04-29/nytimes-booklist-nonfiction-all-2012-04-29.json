@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Walter Lord",
+			"description": "This reissue of Lord\u2019s classic 1955 you-are-there account of the Titanic\u2019s sinking includes an introduction by Nathaniel Philbrick.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781453246474.jpg",
+			"name": "A NIGHT TO REMEMBER",
+			"publisher": "Open Road Integrated Media",
+			"rank": 1
+		},
+		{
+			"author": "by Rachel Maddow",
+			"description": "America\u2019s path to war has become too easy, with excessive power ceded to the executive branch, the MSNBC host argues.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307461001.jpg",
+			"name": "DRIFT",
+			"publisher": "Crown Publishing",
+			"rank": 2
+		},
+		{
+			"author": "by Clint Hill",
+			"description": "Recollections of the Secret Service agent assigned to guard Jacqueline Kennedy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451648447.jpg",
+			"name": "MRS. KENNEDY AND ME",
+			"publisher": "Gallery Books",
+			"rank": 3
+		},
+		{
+			"author": "by Todd Burpo with Lynn Vincent",
+			"description": "A father recounts his 3-year-old son\u2019s encounter with Jesus and the angels during an appendectomy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780849949203.jpg",
+			"name": "HEAVEN IS FOR REAL",
+			"publisher": "Thomas Nelson",
+			"rank": 4
+		},
+		{
+			"author": "by Hank Haney",
+			"description": "The golf coach\u2019s memoir describes his six eventful years with Tiger Woods.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307985989.jpg",
+			"name": "THE BIG MISS",
+			"publisher": "Crown Publishing",
+			"rank": 5
+		},
+		{
+			"author": "by Charles Duhigg",
+			"description": "A Times reporter\u2019s account of the science behind how we form, and break, habits.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812981605.jpg",
+			"name": "THE POWER OF HABIT",
+			"publisher": "Random House Publishing",
+			"rank": 6
+		},
+		{
+			"author": "by Jonah Lehrer",
+			"description": "An account of the science of creativity argues that it is not a gift but a group of thought processes that can be learned.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780547386072.jpg",
+			"name": "IMAGINE",
+			"publisher": "Houghton Mifflin Harcourt",
+			"rank": 7
+		},
+		{
+			"author": "by A. J. Jacobs",
+			"description": "The author of \u201cThe Know-It-All\u201d and \u201cThe Year of Living Biblically\u201d samples workouts, diets and gadgets in pursuit of optimal health in every organ.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781439110157.jpg",
+			"name": "DROP DEAD HEALTHY",
+			"publisher": "Simon & Schuster",
+			"rank": 8
+		},
+		{
+			"author": "by Walter Isaacson",
+			"description": "A biography of the recently deceased entrepreneur, based on 40 interviews with Jobs conducted over two years.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451648553.jpg",
+			"name": "STEVE JOBS",
+			"publisher": "Simon & Schuster",
+			"rank": 9
+		},
+		{
+			"author": "by Elizabeth Kaye",
+			"description": "Stories of the passengers in the Titanic\u2019s lifeboat No. 8, one of the first to leave the sinking ship.",
+			"imageSrc": "https://s1.nyt.com/du/books/images/default-image.png",
+			"name": "LIFEBOAT NO. 8",
+			"publisher": "Byliner",
+			"rank": 10
+		},
+		{
+			"author": "by Carole King",
+			"description": "A memoir by the songwriter, singer and activist.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455512614.jpg",
+			"name": "A NATURAL WOMAN",
+			"publisher": "Grand Central Publishing",
+			"rank": 11
+		},
+		{
+			"author": "by Cheryl Strayed",
+			"description": "A woman\u2019s account of a life-changing 1,100-mile hike along the Pacific Crest Trail.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307476074.jpg",
+			"name": "WILD",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 12
+		},
+		{
+			"author": "by Laura Hillenbrand",
+			"description": "An Olympic runner\u2019s story of survival as a prisoner of the Japanese in World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400064168.jpg",
+			"name": "UNBROKEN",
+			"publisher": "Random House Publishing",
+			"rank": 13
+		},
+		{
+			"author": "by Blaine Harden",
+			"description": "A journalist\u2019s account of the life of Shin Dong-hyuk, who escaped the North Korean prison camp where he was born and raised.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101561263.jpg",
+			"name": "ESCAPE FROM CAMP 14",
+			"publisher": "Penguin Group",
+			"rank": 14
+		},
+		{
+			"author": "by Chris Kyle with Scott McEwen and Jim DeFelice",
+			"description": "A member of the Navy SEALs discusses his battlefield experiences.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062082374.jpg",
+			"name": "AMERICAN SNIPER",
+			"publisher": "HarperCollins Publishers",
+			"rank": 15
+		}
+	]
+}

@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Glennon Doyle",
+			"description": "The activist and public speaker describes her journey of listening to her inner voice.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984801258.jpg",
+			"name": "UNTAMED",
+			"publisher": "Dial",
+			"rank": 1
+		},
+		{
+			"author": "by Erik Larson",
+			"description": "An examination of the leadership of the prime minister Winston Churchill.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385348713.jpg",
+			"name": "THE SPLENDID AND THE VILE",
+			"publisher": "Crown",
+			"rank": 2
+		},
+		{
+			"author": "by Robert Kolker",
+			"description": "From 1945 to 1965, a family in Colorado had 12 children, six of whom went on to develop schizophrenia.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385543767.jpg",
+			"name": "HIDDEN VALLEY ROAD",
+			"publisher": "Doubleday",
+			"rank": 3
+		},
+		{
+			"author": "by Tara Westover",
+			"description": "The daughter of survivalists, who is kept out of school, educates herself enough to leave home for university.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399590504.jpg",
+			"name": "EDUCATED",
+			"publisher": "Random House",
+			"rank": 4
+		},
+		{
+			"author": "by John M. Barry",
+			"description": "An overview of the 1918 flu epidemic and cautionary tale for similar kinds of large-scale outbreaks.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780143036494.jpg",
+			"name": "THE GREAT INFLUENZA",
+			"publisher": "Penguin",
+			"rank": 5
+		},
+		{
+			"author": "by Michelle Obama",
+			"description": "The former first lady describes her journey from the South Side of Chicago to the White House, and how she balanced work, family and her husband\u2019s political ascent.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524763138.jpg",
+			"name": "BECOMING",
+			"publisher": "Crown",
+			"rank": 6
+		},
+		{
+			"author": "by Sonia Purnell",
+			"description": "The true story of a Baltimore socialite who joined a spy organization during World War II and became essential to the French Resistance.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735225299.jpg",
+			"name": "A WOMAN OF NO IMPORTANCE",
+			"publisher": "Viking",
+			"rank": 7
+		},
+		{
+			"author": "by James Patterson and Cynthia Fagen",
+			"description": "A look at the achievements of the political family and what has been called \u201cthe Kennedy curse.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316454483.jpg",
+			"name": "THE HOUSE OF KENNEDY",
+			"publisher": "Little, Brown",
+			"rank": 8
+		},
+		{
+			"author": "by Kobe Bryant",
+			"description": "Various skills and techniques used on the court by the late Los Angeles Lakers player.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780374201234.jpg",
+			"name": "THE MAMBA MENTALITY",
+			"publisher": "Melcher Media/MCD/Farrar, Straus & Giroux",
+			"rank": 9
+		},
+		{
+			"author": "by Jonathan Karl",
+			"description": "The ABC News chief White House correspondent gives his perspective on our current president and describes the shifts within their relationship.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524745646.jpg",
+			"name": "FRONT ROW AT THE TRUMP SHOW",
+			"publisher": "Dutton",
+			"rank": 10
+		},
+		{
+			"author": "by Yuval Noah Harari",
+			"description": "How Homo sapiens became Earth\u2019s dominant species.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062316097.jpg",
+			"name": "SAPIENS",
+			"publisher": "Harper",
+			"rank": 11
+		},
+		{
+			"author": "by Dave Rubin",
+			"description": "The internet show host explains why he moved away from progressive politics.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593084298.jpg",
+			"name": "DON'T BURN THIS BOOK",
+			"publisher": "Sentinel",
+			"rank": 12
+		},
+		{
+			"author": "by Deborah Feldman",
+			"description": "A woman breaks free of the Satmar Hasidic community in Brooklyn in which she was raised.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781439187012.jpg",
+			"name": "UNORTHODOX",
+			"publisher": "Simon & Schuster",
+			"rank": 13
+		},
+		{
+			"author": "by Alicia Keys with Michelle Burford",
+			"description": "The Grammy Award-winning musician retraces her path to discovering her own worth.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250153296.jpg",
+			"name": "MORE MYSELF",
+			"publisher": "Flatiron",
+			"rank": 14
+		},
+		{
+			"author": "by Dan Crenshaw",
+			"description": "The Texas congressman and former Navy SEAL prescribes ways to overcome adversity.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538733301.jpg",
+			"name": "FORTITUDE",
+			"publisher": "Grand Central",
+			"rank": 15
+		}
+	]
+}

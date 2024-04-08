@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Sandra Brown",
+			"description": "The TV journalist Kerra Bailey and former federal agent John Trapper join forces to expose a web of conspiracy behind a hotel bombing in Dallas.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455572106.jpg",
+			"name": "SEEING RED",
+			"publisher": "Grand Central",
+			"rank": 1
+		},
+		{
+			"author": "by James Patterson and Richard DiLallo",
+			"description": "Two New York writers go undercover to expose the secrets of a powerful retailer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316395540.jpg",
+			"name": "THE STORE",
+			"publisher": "Little, Brown",
+			"rank": 2
+		},
+		{
+			"author": "by Tess Gerritsen",
+			"description": "Rizzoli and Isles investigate two separate homicides and uncover other dangerous mysteries.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345543899.jpg",
+			"name": "I KNOW A SECRET",
+			"publisher": "Ballantine",
+			"rank": 3
+		},
+		{
+			"author": "by Michael Connelly",
+			"description": "Ren\u00e9e Ballard, a young detective with the L.A.P.D., investigates crimes against two women.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316225984.jpg",
+			"name": "THE LATE SHOW",
+			"publisher": "Little, Brown",
+			"rank": 4
+		},
+		{
+			"author": "by John Grisham",
+			"description": "A whistleblower alerts a Florida investigator to judicial corruption involving the Mob and Indian casinos.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385541206.jpg",
+			"name": "THE WHISTLER",
+			"publisher": "Doubleday",
+			"rank": 5
+		},
+		{
+			"author": "by John Grisham",
+			"description": "A search for stolen rare manuscripts leads to a Florida island.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385543057.jpg",
+			"name": "CAMINO ISLAND",
+			"publisher": "Doubleday",
+			"rank": 6
+		},
+		{
+			"author": "by Ruth Ware",
+			"description": "A travel writer on a cruise is certain she has heard a body thrown overboard, but no one believes her.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501132940.jpg",
+			"name": "THE WOMAN IN CABIN 10",
+			"publisher": "Scout",
+			"rank": 7
+		},
+		{
+			"author": "by Lisa Scottoline",
+			"description": "Bennie Rosato and Mary DiNunzio find themselves on opposite sides of a lawsuit, threatening their friendship and their law firm.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250099730.jpg",
+			"name": "EXPOSED",
+			"publisher": "St. Martin's",
+			"rank": 8
+		},
+		{
+			"author": "by Lisa Wingate",
+			"description": "A South Carolina lawyer, researching her grandmother\u2019s past, learns about a Tennessee orphanage that kidnapped children and placed them for adoption with wealthy people. Based on a real-life scandal.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780425284681.jpg",
+			"name": "BEFORE WE WERE YOURS",
+			"publisher": "Ballantine",
+			"rank": 9
+		},
+		{
+			"author": "by Rupi Kaur",
+			"description": "Poetic approaches to surviving adversity and loss.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781449474256.jpg",
+			"name": "MILK AND HONEY",
+			"publisher": "Andrews McMeel",
+			"rank": 10
+		},
+		{
+			"author": "by N. K. Jemisin",
+			"description": "The final book of the trilogy that includes the Hugo Award-winning titles \"The Fifth Season\" and \"The Obelisk Gate.\"",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316229258.jpg",
+			"name": "THE STONE SKY",
+			"publisher": "Orbit",
+			"rank": 11
+		},
+		{
+			"author": "by Gabrielle Zevin",
+			"description": "A down-on-his-luck bookseller gets a second chance when a small, mysterious package arrives at his store.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781616203214.jpg",
+			"name": "THE STORIED LIFE OF A. J. FIKRY",
+			"publisher": "Algonquin",
+			"rank": 12
+		},
+		{
+			"author": "by Ernest Cline",
+			"description": "It\u2019s 2044, life on a resource-depleted Earth has grown increasingly grim, and the key to a vast fortune is hidden in a virtual-reality world.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307887443.jpg",
+			"name": "READY PLAYER ONE",
+			"publisher": "Broadway",
+			"rank": 13
+		},
+		{
+			"author": "by George R.R. Martin",
+			"description": "In the frozen wastes to the north of Winterfell, sinister and supernatural forces are mustering. Basis of the HBO series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780553897845.jpg",
+			"name": "A GAME OF THRONES",
+			"publisher": "Bantam",
+			"rank": 14
+		},
+		{
+			"author": "by Margaret Atwood",
+			"description": "Men and women in a dystopian future. The basis of the Hulu series; originally published in 1985.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780547345666.jpg",
+			"name": "THE HANDMAID'S TALE",
+			"publisher": "Houghton Mifflin Harcourt",
+			"rank": 15
+		}
+	]
+}

@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Nicholas Sparks",
+			"description": "The arrival of a mysterious young woman in a small North Carolina town raises questions about her past.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455523542.jpg",
+			"name": "SAFE HAVEN",
+			"publisher": "Grand Central Publishing",
+			"rank": 1
+		},
+		{
+			"author": "by Danielle Steel",
+			"description": "The stories of two relationships, at different times, intersect unexpectedly.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345538659.jpg",
+			"name": "UNTIL THE END OF TIME",
+			"publisher": "Random House Publishing",
+			"rank": 2
+		},
+		{
+			"author": "by Gillian Flynn",
+			"description": "A woman disappears on the day of her fifth anniversary; is her husband a killer?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307588388.jpg",
+			"name": "GONE GIRL",
+			"publisher": "Crown Publishing",
+			"rank": 3
+		},
+		{
+			"author": "by James Patterson and Mark Sullivan",
+			"description": "A superstar agent at the German headquarters of a powerful investigation firm disappears.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316211178.jpg",
+			"name": "PRIVATE BERLIN",
+			"publisher": "Little, Brown & Company",
+			"rank": 4
+		},
+		{
+			"author": "by E. L. James",
+			"description": "A college student falls in love with a tortured man with particular sexual tastes; the first of a trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345803481.jpg",
+			"name": "FIFTY SHADES OF GREY",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 5
+		},
+		{
+			"author": "by Gail McHugh",
+			"description": "A young woman who has just graduated from college and lost her mother gives up her thoughtful boyfriend for a rich playboy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/A00B00B385VCU.jpg",
+			"name": "COLLIDE",
+			"publisher": "Gail McHugh",
+			"rank": 6
+		},
+		{
+			"author": "by Robert Crais",
+			"description": "A Los Angeles policeman and a German shepherd, both suffering from PTSD, search for the killers of the cop\u2019s partner.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399161483.jpg",
+			"name": "SUSPECT",
+			"publisher": "Penguin Group",
+			"rank": 7
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "The man who has been relentlessly pursuing Sky Davis is not who he pretends to be.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781481251884.jpg",
+			"name": "HOPELESS",
+			"publisher": "Colleen Hoover",
+			"rank": 8
+		},
+		{
+			"author": "by E. L. James",
+			"description": "The final book in an erotic trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781612130606.jpg",
+			"name": "FIFTY SHADES FREED",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 9
+		},
+		{
+			"author": "by E. L. James",
+			"description": "Ana Steele learns more about Christian Grey\u2019s troubled past; the second book in a trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345803498.jpg",
+			"name": "FIFTY SHADES DARKER",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 10
+		},
+		{
+			"author": "by Debbie Macomber",
+			"description": "A hospital volunteer who loves to sing meets a gruff record producer who is a patient; originally published in 1984.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345545220.jpg",
+			"name": "HEARTSONG",
+			"publisher": "Random House Publishing",
+			"rank": 11
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "The military investigator John Puller probes his aunt\u2019s mysterious death in Florida.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455523153.jpg",
+			"name": "THE FORGOTTEN",
+			"publisher": "Grand Central Publishing",
+			"rank": 12
+		},
+		{
+			"author": "by George Saunders",
+			"description": "Stories that take on the big questions.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812993813.jpg",
+			"name": "TENTH OF DECEMBER",
+			"publisher": "Random House Publishing",
+			"rank": 13
+		},
+		{
+			"author": "by Matthew Quick",
+			"description": "A man recently released from a mental institution has two obsessions: his estranged wife and the Philadelphia Eagles. The basis of the movie; originally published in 2009.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780374533571.jpg",
+			"name": "THE SILVER LININGS PLAYBOOK",
+			"publisher": "Farrar, Straus & Giroux",
+			"rank": 14
+		},
+		{
+			"author": "by Brad Meltzer",
+			"description": "Tracking an assassin who is recreating the crimes of the four men who murdered presidents, Beecher White discovers that they all were working together.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780446553971.jpg",
+			"name": "THE FIFTH ASSASSIN",
+			"publisher": "Grand Central Publishing",
+			"rank": 15
+		}
+	]
+}

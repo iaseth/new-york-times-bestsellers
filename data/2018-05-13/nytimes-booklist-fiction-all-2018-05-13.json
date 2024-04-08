@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by John Sandford",
+			"description": "The 28th book in the Prey series. A federal marshal looks into the actions of a member of the Senate Intelligence Committee.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735217362.jpg",
+			"name": "TWISTED PREY",
+			"publisher": "Putnam",
+			"rank": 1
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "Amos Decker, known as the Memory Man, puts his talents toward solving a string of murders in a Rust Belt town.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538761397.jpg",
+			"name": "THE FALLEN",
+			"publisher": "Grand Central",
+			"rank": 2
+		},
+		{
+			"author": "by Lee Child",
+			"description": "Jack Reacher tracks down the owner of a pawned West Point class ring and stumbles upon a large criminal enterprise.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399593499.jpg",
+			"name": "THE MIDNIGHT LINE",
+			"publisher": "Delacorte",
+			"rank": 3
+		},
+		{
+			"author": "by Lisa Jackson and Nancy Bush",
+			"description": "A couple reunites uneasily five years after a gunman opened fire on their wedding party.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781420136135.jpg",
+			"name": "ONE LAST BREATH",
+			"publisher": "Zebra",
+			"rank": 4
+		},
+		{
+			"author": "by Iris Johansen",
+			"description": "A forensic sculptor receives a mysterious package containing a skull she reconstructs to discover its identity.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781466887244.jpg",
+			"name": "SHATTERED MIRROR",
+			"publisher": "St. Martin's",
+			"rank": 5
+		},
+		{
+			"author": "by Ernest Cline",
+			"description": "It\u2019s 2044, life on a resource-depleted Earth is grim, and the key to a vast fortune is hidden in a virtual-reality world.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307887443.jpg",
+			"name": "READY PLAYER ONE",
+			"publisher": "Broadway",
+			"rank": 6
+		},
+		{
+			"author": "by Celeste Ng",
+			"description": "An artist upends a quiet town outside Cleveland.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735224308.jpg",
+			"name": "LITTLE FIRES EVERYWHERE",
+			"publisher": "Penguin Press",
+			"rank": 7
+		},
+		{
+			"author": "by John Grisham",
+			"description": "A search for stolen rare manuscripts leads to a Florida island.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385543057.jpg",
+			"name": "CAMINO ISLAND",
+			"publisher": "Doubleday",
+			"rank": 8
+		},
+		{
+			"author": "by Kristin Hannah",
+			"description": "A former prisoner of war returns from Vietnam and moves his family to Alaska, where they face tough conditions.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250165619.jpg",
+			"name": "THE GREAT ALONE",
+			"publisher": "St. Martin's",
+			"rank": 9
+		},
+		{
+			"author": "by Meghan March",
+			"description": "The second book of the Savage Trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781943796083.jpg",
+			"name": "IRON PRINCESS",
+			"publisher": "Red Dress Press",
+			"rank": 10
+		},
+		{
+			"author": "by Lisa Scottoline",
+			"description": "A woman marries a widower and reunites with her teenage daughter who is murdered soon after, and the husband is put on trial for it.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250099679.jpg",
+			"name": "AFTER ANNA",
+			"publisher": "St. Martin's",
+			"rank": 11
+		},
+		{
+			"author": "by Lisa Wingate",
+			"description": "A South Carolina lawyer learns about the questionable practices of a Tennessee orphanage.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780425284681.jpg",
+			"name": "BEFORE WE WERE YOURS",
+			"publisher": "Ballantine",
+			"rank": 12
+		},
+		{
+			"author": "by Mary Higgins Clark",
+			"description": "A high school guidance counselor tries to uncover the identity of her sister\u2019s murderer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501171697.jpg",
+			"name": "I'VE GOT MY EYES ON YOU",
+			"publisher": "Simon & Schuster",
+			"rank": 13
+		},
+		{
+			"author": "by Bella Andre and Jennifer Skully",
+			"description": "The fifth book in the Maverick Billionaires series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781945253430.jpg",
+			"name": "WILD IN LOVE",
+			"publisher": "Oak Press",
+			"rank": 14
+		},
+		{
+			"author": "by Kevin Kwan",
+			"description": "A New Yorker gets a surprise when she spends the summer with her boyfriend in Singapore.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345803788.jpg",
+			"name": "CRAZY RICH ASIANS",
+			"publisher": "Anchor",
+			"rank": 15
+		}
+	]
+}

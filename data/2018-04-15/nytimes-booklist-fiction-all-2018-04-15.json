@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by C.J. Box",
+			"description": "A Wyoming game warden teams up with his daughter to find a missing British businesswoman.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698410114.jpg",
+			"name": "THE DISAPPEARED",
+			"publisher": "Putnam",
+			"rank": 1
+		},
+		{
+			"author": "by James Patterson and Marshall Karp",
+			"description": "The fifth book in the NYPD Red series. Detectives Zach Jordan and Kylie MacDonald investigate the death of a documentary filmmaker and an explosion at a charity benefit.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316395588.jpg",
+			"name": "RED ALERT",
+			"publisher": "Little, Brown",
+			"rank": 2
+		},
+		{
+			"author": "by Ernest Cline",
+			"description": "It\u2019s 2044, life on a resource-depleted Earth has grown increasingly grim, and the key to a vast fortune is hidden in a virtual-reality world.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307887443.jpg",
+			"name": "READY PLAYER ONE",
+			"publisher": "Broadway",
+			"rank": 3
+		},
+		{
+			"author": "by John Grisham",
+			"description": "A search for stolen rare manuscripts leads to a Florida island.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385543057.jpg",
+			"name": "CAMINO ISLAND",
+			"publisher": "Doubleday",
+			"rank": 4
+		},
+		{
+			"author": "by Kristin Hannah",
+			"description": "A former prisoner of war returns from Vietnam and moves his family to Alaska, where they face tough conditions.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250165619.jpg",
+			"name": "THE GREAT ALONE",
+			"publisher": "St. Martin's",
+			"rank": 5
+		},
+		{
+			"author": "by Danielle Steel",
+			"description": "Strangers pull together to avert a disaster involving two flights from New York to San Francisco.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101884102.jpg",
+			"name": "ACCIDENTAL HEROES",
+			"publisher": "Delacorte",
+			"rank": 6
+		},
+		{
+			"author": "by Jacqueline Winspear",
+			"description": "In 1940, months after Britain declared war on Germany, Maisie Dobbs investigates the disappearance of an apprentice working on a government contract.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062436658.jpg",
+			"name": "TO DIE BUT ONCE",
+			"publisher": "Harper",
+			"rank": 7
+		},
+		{
+			"author": "by Lynsay Sands",
+			"description": "The immortal Elspeth Argeneau tracks vampires and seeks romance after moving away from her mother.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062468871.jpg",
+			"name": "TWICE BITTEN",
+			"publisher": "Avon",
+			"rank": 8
+		},
+		{
+			"author": "by Celeste Ng",
+			"description": "An artist upends a quiet town outside Cleveland.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735224308.jpg",
+			"name": "LITTLE FIRES EVERYWHERE",
+			"publisher": "Penguin Press",
+			"rank": 9
+		},
+		{
+			"author": "by Lisa Wingate",
+			"description": "A South Carolina lawyer learns about the questionable practices of a Tennessee orphanage.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780425284681.jpg",
+			"name": "BEFORE WE WERE YOURS",
+			"publisher": "Ballantine",
+			"rank": 10
+		},
+		{
+			"author": "by A.J. Finn",
+			"description": "A recluse who drinks heavily and takes prescription drugs may have witnessed a crime across from her Harlem townhouse.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062678416.jpg",
+			"name": "THE WOMAN IN THE WINDOW",
+			"publisher": "Morrow",
+			"rank": 11
+		},
+		{
+			"author": "by Brad Meltzer",
+			"description": "Nola Brown, a painter and trained soldier, discovers a military secret that traces back to Harry Houdini.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455559527.jpg",
+			"name": "THE ESCAPE ARTIST",
+			"publisher": "Grand Central",
+			"rank": 12
+		},
+		{
+			"author": "by Tayari Jones",
+			"description": "A newlywed couple's relationship is tested when the husband is sentenced to 12 years in prison.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781616207601.jpg",
+			"name": "AN AMERICAN MARRIAGE",
+			"publisher": "Algonquin",
+			"rank": 13
+		},
+		{
+			"author": "by Meghan March",
+			"description": "The first book in the Savage trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781943796069.jpg",
+			"name": "SAVAGE PRINCE",
+			"publisher": "Red Dress",
+			"rank": 14
+		},
+		{
+			"author": "by Jason Matthews",
+			"description": "A Russian intelligence officer trained in the art of seduction becomes entangled with a young C.I.A. officer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476706122.jpg",
+			"name": "RED SPARROW",
+			"publisher": "Scribner",
+			"rank": 15
+		}
+	]
+}

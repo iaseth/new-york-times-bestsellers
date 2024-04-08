@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by James Patterson and Maxine Paetro",
+			"description": "The 21st book in the Women\u2019s Murder Club series. New evidence changes the investigation of a missing mother.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316499347.jpg",
+			"name": "21ST BIRTHDAY",
+			"publisher": "Little, Brown",
+			"rank": 1
+		},
+		{
+			"author": "by Laura Dave",
+			"description": "Hannah Hall discovers truths about her missing husband and bonds with his daughter from a previous relationship.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501171345.jpg",
+			"name": "THE LAST THING HE TOLD ME",
+			"publisher": "Simon & Schuster",
+			"rank": 2
+		},
+		{
+			"author": "by Andy Weir",
+			"description": "Ryland Grace awakes from a long sleep alone and far from home, and the fate of humanity rests on his shoulders.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593135204.jpg",
+			"name": "PROJECT HAIL MARY",
+			"publisher": "Ballantine",
+			"rank": 3
+		},
+		{
+			"author": "by John Grisham",
+			"description": "Samuel Sooleymon receives a basketball scholarship to North Carolina Central and determines to bring his family over from a civil war-ravaged South Sudan.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385547680.jpg",
+			"name": "SOOLEY",
+			"publisher": "Doubleday",
+			"rank": 4
+		},
+		{
+			"author": "by Delia Owens",
+			"description": "In a quiet town on the North Carolina coast in 1969, a young woman who survived alone in the marsh becomes a murder suspect.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735219090.jpg",
+			"name": "WHERE THE CRAWDADS SING",
+			"publisher": "Putnam",
+			"rank": 5
+		},
+		{
+			"author": "by Kristin Hannah",
+			"description": "As dust storms roll during the Great Depression, Elsa must choose between saving the family and farm or heading West.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250178602.jpg",
+			"name": "THE FOUR WINDS",
+			"publisher": "St. Martin's",
+			"rank": 6
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "Aloysius Archer, a World War II veteran, seeks to apprentice with Willie Dash, a private eye, in a corrupt California town.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538719671.jpg",
+			"name": "A GAMBLING MAN",
+			"publisher": "Grand Central",
+			"rank": 7
+		},
+		{
+			"author": "by Mary Kay Andrews",
+			"description": "After discovering her sister dead, Letty Carnahan drives away with her niece and finds potential trouble with a police detective at a Florida motel.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250256966.jpg",
+			"name": "THE NEWCOMER",
+			"publisher": "St. Martin's",
+			"rank": 8
+		},
+		{
+			"author": "by Amanda Gorman",
+			"description": "The poem read on President Joe Biden's Inauguration Day, by the youngest poet to write and perform an inaugural poem.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593465271.jpg",
+			"name": "THE HILL WE CLIMB",
+			"publisher": "Viking",
+			"rank": 9
+		},
+		{
+			"author": "by Matt Haig",
+			"description": "Nora Seed finds a library beyond the edge of the universe that contains books with multiple possibilities of the lives one could have lived.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525559474.jpg",
+			"name": "THE MIDNIGHT LIBRARY",
+			"publisher": "Viking",
+			"rank": 10
+		},
+		{
+			"author": "by Danielle Steel",
+			"description": "Two estranged sisters, one a former best-selling author, the other a nun, reconnect as one searches for the child the other gave up.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984821461.jpg",
+			"name": "FINDING ASHLEY",
+			"publisher": "Delacorte",
+			"rank": 11
+		},
+		{
+			"author": "by Alex Michaelides",
+			"description": "Theo Faber looks into the mystery of a famous painter who stops speaking after shooting her husband.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250301697.jpg",
+			"name": "THE SILENT PATIENT",
+			"publisher": "Celadon",
+			"rank": 12
+		},
+		{
+			"author": "by Lee Child and Andrew Child",
+			"description": "Jack Reacher intervenes on an ambush in Tennessee and uncovers a conspiracy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984818461.jpg",
+			"name": "THE SENTINEL",
+			"publisher": "Dell",
+			"rank": 13
+		},
+		{
+			"author": "by Chris Bohjalian",
+			"description": "In 1662 Boston, a young Puritan woman seeks to escape from a cruel husband and rumors that might mean her death.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385542432.jpg",
+			"name": "HOUR OF THE WITCH",
+			"publisher": "Doubleday",
+			"rank": 14
+		},
+		{
+			"author": "by Sunny Hostin",
+			"description": "Amelia Vaux Tanner plans to give a cottage in a Black beach community to one of her three favorite guests.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062994172.jpg",
+			"name": "SUMMER ON THE BLUFFS",
+			"publisher": "Morrow",
+			"rank": 15
+		}
+	]
+}

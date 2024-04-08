@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Jodi Picoult",
+			"description": "The lives of patients, doctors and activists intersect when a gunman holds them all hostage in a woman's health center in Mississippi.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345544995.jpg",
+			"name": "A SPARK OF LIGHT",
+			"publisher": "Ballantine",
+			"rank": 1
+		},
+		{
+			"author": "by Kyle Mills",
+			"description": "When the Russian prime minister plots to invade the Baltics, only Mitch Rapp can stop him.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501190612.jpg",
+			"name": "VINCE FLYNN: RED WAR",
+			"publisher": "Emily Bestler/Atria",
+			"rank": 2
+		},
+		{
+			"author": "by Debbie Macomber",
+			"description": "A Seattleite cook stuck in remote Ponder, Alaska, grapples with her feelings for the local swordsmith.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399181290.jpg",
+			"name": "ALASKAN HOLIDAY",
+			"publisher": "Ballantine",
+			"rank": 3
+		},
+		{
+			"author": "by Kevin Kwan",
+			"description": "A New Yorker gets a surprise when she spends the summer with her boyfriend in Singapore.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345803788.jpg",
+			"name": "CRAZY RICH ASIANS",
+			"publisher": "Anchor",
+			"rank": 4
+		},
+		{
+			"author": "by Delia Owens",
+			"description": "In a quiet town on the North Carolina coast in 1969, a young woman who survived alone in the marsh becomes a murder suspect.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735219090.jpg",
+			"name": "WHERE THE CRAWDADS SING",
+			"publisher": "Putnam",
+			"rank": 5
+		},
+		{
+			"author": "by Robert Galbraith",
+			"description": "The fourth book in the Cormoran Strike series. Detectives Strike and Ellacott investigate a crime a young man may have witnessed as a child; by J. K. Rowling, writing pseudonymously.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316422741.jpg",
+			"name": "LETHAL WHITE",
+			"publisher": "Mulholland/Little, Brown",
+			"rank": 6
+		},
+		{
+			"author": "by James Patterson and Nancy Allen",
+			"description": "Ruby Bozarth defends a college football star charged in a felony case complicated by a second murder.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316474122.jpg",
+			"name": "JUROR #3",
+			"publisher": "Little, Brown",
+			"rank": 7
+		},
+		{
+			"author": "by  David Weber",
+			"description": "The Star Kingdom\u2019s Grand Fleet commander takes on the Solarian League\u2019s corrupt leaders and its navy. The 19th book in the Honor Harrington series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781481483506.jpg",
+			"name": "UNCOMPROMISING HONOR",
+			"publisher": "Baen",
+			"rank": 8
+		},
+		{
+			"author": "by J.R. Ward",
+			"description": "Anne Ashburn teams up with fireman Danny Maguire to track down a serial arsonist.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501194924.jpg",
+			"name": "CONSUMED",
+			"publisher": "Gallery",
+			"rank": 9
+		},
+		{
+			"author": "by Heather Morris",
+			"description": "A concentration camp detainee tasked with permanently marking fellow prisoners falls in love with one of them.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062797155.jpg",
+			"name": "THE TATTOOIST OF AUSCHWITZ",
+			"publisher": "Harper",
+			"rank": 10
+		},
+		{
+			"author": "by Anne Rice",
+			"description": "The latest in the Vampire Chronicles series details Prince Lestat\u2019s reign over the vampire world.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524732646.jpg",
+			"name": "BLOOD COMMUNION",
+			"publisher": "Knopf",
+			"rank": 11
+		},
+		{
+			"author": "by Gail Honeyman",
+			"description": "A young woman\u2019s well-ordered life is disrupted by the I.T. guy from her office.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735220690.jpg",
+			"name": "ELEANOR OLIPHANT IS COMPLETELY FINE",
+			"publisher": "Penguin",
+			"rank": 12
+		},
+		{
+			"author": "by Bernard Cornwell",
+			"description": "The Saxon Tales series continues as Uhtred of Bebbanburg fights a new foe who controls an army of wolf-warriors and wants to rule Northumbria.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062563194.jpg",
+			"name": "WAR OF THE WOLF",
+			"publisher": "Harper",
+			"rank": 13
+		},
+		{
+			"author": "by Hank Green",
+			"description": "After posting a video that goes viral, April May must deal with the pressures of becoming an internet sensation.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524743444.jpg",
+			"name": "AN ABSOLUTELY REMARKABLE THING",
+			"publisher": "Dutton",
+			"rank": 14
+		},
+		{
+			"author": "by Kevin Kwan",
+			"description": "The second book in the Crazy Rich Asians trilogy. As her wedding draws near, Rachel Chu discovers her birth father.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780804172066.jpg",
+			"name": "CHINA RICH GIRLFRIEND",
+			"publisher": "Anchor",
+			"rank": 15
+		}
+	]
+}

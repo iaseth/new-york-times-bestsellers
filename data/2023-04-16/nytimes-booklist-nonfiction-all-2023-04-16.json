@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Peter Attia with Bill Gifford",
+			"description": "A look at recent scientific research on aging and longevity.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593236598.jpg",
+			"name": "OUTLIVE",
+			"publisher": "Harmony",
+			"rank": 1
+		},
+		{
+			"author": "by Bessel van der Kolk",
+			"description": "How trauma affects the body and mind, and innovative treatments for recovery.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780670785933.jpg",
+			"name": "THE BODY KEEPS THE SCORE",
+			"publisher": "Penguin",
+			"rank": 2
+		},
+		{
+			"author": "by Matthew Desmond",
+			"description": "The Pulitzer Prize-winning author of \u201cEvicted\u201d examines the ways in which affluent Americans keep poor people poor.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593239919.jpg",
+			"name": "POVERTY, BY AMERICA",
+			"publisher": "Crown",
+			"rank": 3
+		},
+		{
+			"author": "by Prince Harry",
+			"description": "The Duke of Sussex details his struggles with the royal family, loss of his mother, service in the British Army and marriage to Meghan Markle.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593593806.jpg",
+			"name": "SPARE",
+			"publisher": "Random House",
+			"rank": 4
+		},
+		{
+			"author": "by Michelle Zauner",
+			"description": "The daughter of a Korean mother and Jewish American father, and leader of the indie rock project Japanese Breakfast, describes creating her own identity after losing her mother to cancer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525657743.jpg",
+			"name": "CRYING IN H MART",
+			"publisher": "Vintage",
+			"rank": 5
+		},
+		{
+			"author": "by Jennette McCurdy",
+			"description": "The actress and filmmaker describes her eating disorders and difficult relationship with her mother.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982185824.jpg",
+			"name": "I'M GLAD MY MOM DIED",
+			"publisher": "Simon & Schuster",
+			"rank": 6
+		},
+		{
+			"author": "by Benjamin Hall",
+			"description": "The Fox News journalist gives his account of the injuries he sustained from a Russian attack while covering the war in Ukraine.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063309661.jpg",
+			"name": "SAVED",
+			"publisher": "Harper",
+			"rank": 7
+		},
+		{
+			"author": "by Michelle Obama",
+			"description": "The former first lady shares personal stories and the tools she uses to deal with difficult situations.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593237465.jpg",
+			"name": "THE LIGHT WE CARRY",
+			"publisher": "Crown",
+			"rank": 8
+		},
+		{
+			"author": "by Ron DeSantis",
+			"description": "The Florida governor gives his account of his achievements and shares his opinions about the political left.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063276000.jpg",
+			"name": "THE COURAGE TO BE FREE",
+			"publisher": "Broadside",
+			"rank": 9
+		},
+		{
+			"author": "by bell hooks",
+			"description": "The late feminist icon explores the causes of a polarized society and the meaning of love.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780060959470.jpg",
+			"name": "ALL ABOUT LOVE",
+			"publisher": "Morrow",
+			"rank": 10
+		},
+		{
+			"author": "by Robin Wall Kimmerer",
+			"description": "A botanist and member of the Citizen Potawatomi Nation espouses having an understanding and appreciation of plants and animals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781571313560.jpg",
+			"name": "BRAIDING SWEETGRASS",
+			"publisher": "Milkweed Editions",
+			"rank": 11
+		},
+		{
+			"author": "by Jeff Sharlet",
+			"description": "A look at the religious dimensions of American politics.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781324006503.jpg",
+			"name": "THE UNDERTOW",
+			"publisher": "Norton",
+			"rank": 12
+		},
+		{
+			"author": "by Daniel Kahneman",
+			"description": "The winner of the Nobel in economic science discusses how we make choices.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781429969352.jpg",
+			"name": "THINKING, FAST AND SLOW",
+			"publisher": "Farrar, Straus & Giroux",
+			"rank": 13
+		},
+		{
+			"author": "by Paris Hilton",
+			"description": "The entrepreneur and pop culture icon shares her personal and professional rise in the age of influencers.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063224629.jpg",
+			"name": "PARIS",
+			"publisher": "Dey Street",
+			"rank": 14
+		},
+		{
+			"author": "by David Grann",
+			"description": "The story of a murder spree in 1920s Oklahoma that targeted Osage Indians, whose lands contained oil.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385534246.jpg",
+			"name": "KILLERS OF THE FLOWER MOON",
+			"publisher": "Doubleday",
+			"rank": 15
+		}
+	]
+}

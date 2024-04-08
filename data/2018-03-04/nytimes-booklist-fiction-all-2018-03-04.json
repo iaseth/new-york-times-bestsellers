@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Kristin Hannah",
+			"description": "A former prisoner of war returns from Vietnam and moves his family to Alaska, where they face tough conditions.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250165619.jpg",
+			"name": "THE GREAT ALONE",
+			"publisher": "St. Martin's",
+			"rank": 1
+		},
+		{
+			"author": "by Helen Hardt",
+			"description": "The ninth book in the Steel Brothers Saga.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781947222120.jpg",
+			"name": "UNRAVELED",
+			"publisher": "Waterhouse",
+			"rank": 2
+		},
+		{
+			"author": "by Jonathan Kellerman",
+			"description": "Homicide detective Milo Sturgis enlists the psychologist Alex Delaware to help solve a John Doe case.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345541475.jpg",
+			"name": "NIGHT MOVES",
+			"publisher": "Ballantine",
+			"rank": 3
+		},
+		{
+			"author": "by Tayari Jones",
+			"description": "A newlywed couple's relationship is tested when the husband is sentenced to 12 years in prison.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781616207601.jpg",
+			"name": "AN AMERICAN MARRIAGE",
+			"publisher": "Algonquin",
+			"rank": 4
+		},
+		{
+			"author": "by A.J. Finn",
+			"description": "A recluse who drinks heavily and takes prescription drugs may have witnessed a crime across from her Harlem townhouse.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062678416.jpg",
+			"name": "THE WOMAN IN THE WINDOW",
+			"publisher": "Morrow",
+			"rank": 5
+		},
+		{
+			"author": "by Jojo Moyes",
+			"description": "Louisa Clark moves to New York and is torn between high society and the life she enjoys at a vintage clothing store.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399562471.jpg",
+			"name": "STILL ME",
+			"publisher": "Pamela Dorman/Viking",
+			"rank": 6
+		},
+		{
+			"author": "by Ernest Cline",
+			"description": "It\u2019s 2044, life on a resource-depleted Earth has grown increasingly grim, and the key to a vast fortune is hidden in a virtual-reality world.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307887443.jpg",
+			"name": "READY PLAYER ONE",
+			"publisher": "Broadway",
+			"rank": 7
+		},
+		{
+			"author": "by Jason Matthews",
+			"description": "A counterintelligence chief and her lover, who is a C.I.A. agent, learn of Vladimir Putin\u2019s plan to assassinate a United States official.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501140105.jpg",
+			"name": "THE KREMLIN'S CANDIDATE",
+			"publisher": "Scribner",
+			"rank": 8
+		},
+		{
+			"author": "by Celeste Ng",
+			"description": "An artist upends a quiet town outside Cleveland.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735224308.jpg",
+			"name": "LITTLE FIRES EVERYWHERE",
+			"publisher": "Penguin Press",
+			"rank": 9
+		},
+		{
+			"author": "by Lisa Gardner",
+			"description": "Sergeant Detective D.D. Warren teams up with a torture survivor to find a missing teenager whose family members were gunned down.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524742065.jpg",
+			"name": "LOOK FOR ME",
+			"publisher": "Dutton",
+			"rank": 10
+		},
+		{
+			"author": "by J.D. Robb",
+			"description": "Lieutenant Eve Dallas must find a killer inspired by police thrillers before another victim is murdered.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250161550.jpg",
+			"name": "DARK IN DEATH",
+			"publisher": "St. Martin's",
+			"rank": 11
+		},
+		{
+			"author": "by Lisa Wingate",
+			"description": "A South Carolina lawyer learns about the questionable practices of a Tennessee orphanage.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780425284681.jpg",
+			"name": "BEFORE WE WERE YOURS",
+			"publisher": "Ballantine",
+			"rank": 12
+		},
+		{
+			"author": "by Greer Hendricks and Sarah Pekkanen",
+			"description": "The story of a love triangle is told from several points of view.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250130921.jpg",
+			"name": "THE WIFE BETWEEN US",
+			"publisher": "St. Martin's",
+			"rank": 13
+		},
+		{
+			"author": "by Dan Brown",
+			"description": "A symbology professor goes on a perilous quest with a beautiful museum director.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385542692.jpg",
+			"name": "ORIGIN",
+			"publisher": "Doubleday",
+			"rank": 14
+		},
+		{
+			"author": "by Sophie Kinsella",
+			"description": "A scandal from the past threatens to shake up a seemingly perfect marriage.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399592898.jpg",
+			"name": "SURPRISE ME",
+			"publisher": "Dial",
+			"rank": 15
+		}
+	]
+}

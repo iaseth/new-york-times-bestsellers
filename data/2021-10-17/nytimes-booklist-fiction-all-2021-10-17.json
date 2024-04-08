@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Nicholas Sparks",
+			"description": "Maggie Dawes, a renowned travel photographer, struggles with a medical diagnosis over Christmas.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538728628.jpg",
+			"name": "THE WISH",
+			"publisher": "Grand Central",
+			"rank": 1
+		},
+		{
+			"author": "by Anthony Doerr",
+			"description": "An interconnected cast of dreamers and outsiders are in dangerous and disparate settings past, present and future.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982168438.jpg",
+			"name": "CLOUD CUCKOO LAND",
+			"publisher": "Scribner",
+			"rank": 2
+		},
+		{
+			"author": "by Liane Moriarty",
+			"description": "The Delaney siblings suspect their father of causing the disappearance of their mother.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250220257.jpg",
+			"name": "APPLES NEVER FALL",
+			"publisher": "Holt",
+			"rank": 3
+		},
+		{
+			"author": "by Naomi Novik",
+			"description": "The second book in the Scholomance series. Will students now in their senior year make it out alive?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593128862.jpg",
+			"name": "THE LAST GRADUATE",
+			"publisher": "Del Rey",
+			"rank": 4
+		},
+		{
+			"author": "by Richard Osman",
+			"description": "The second book in the Thursday Murder Club series. A ruthless murderer is out to get four septuagenarian friends.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984880994.jpg",
+			"name": "THE MAN WHO DIED TWICE",
+			"publisher": "Pamela Dorman",
+			"rank": 5
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "A battered wife raised in a violent home attempts to halt the cycle of abuse.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501110375.jpg",
+			"name": "IT ENDS WITH US",
+			"publisher": "Atria",
+			"rank": 6
+		},
+		{
+			"author": "by Colson Whitehead",
+			"description": "Ray Carney, a family man who sells furniture on 125th Street, gets a new clientele made up of vicious and unsavory characters.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385545136.jpg",
+			"name": "HARLEM SHUFFLE",
+			"publisher": "Doubleday",
+			"rank": 7
+		},
+		{
+			"author": "by James Patterson and Nancy Allen",
+			"description": "A young lawyer winds up in an Alabama jail that remains mysteriously crowded.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316276627.jpg",
+			"name": "THE JAILHOUSE LAWYER",
+			"publisher": "Little, Brown",
+			"rank": 8
+		},
+		{
+			"author": "by Kyle Mills",
+			"description": "Anthony Cook, an autocratic president, distrusts Mitch Rapp, who is working to uncover a traitor.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982164881.jpg",
+			"name": "VINCE FLYNN: ENEMY AT THE GATES",
+			"publisher": "Emily Bestler/Atria",
+			"rank": 9
+		},
+		{
+			"author": "by Laura Dave",
+			"description": "Hannah Hall discovers truths about her missing husband and bonds with his daughter from a previous relationship.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501171345.jpg",
+			"name": "THE LAST THING HE TOLD ME",
+			"publisher": "Simon & Schuster",
+			"rank": 10
+		},
+		{
+			"author": "by Richard Powers",
+			"description": "An astrobiologist and single father learns of a neurofeedback treatment that may improve his son\u2019s emotional control.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780393881141.jpg",
+			"name": "BEWILDERMENT",
+			"publisher": "Norton",
+			"rank": 11
+		},
+		{
+			"author": "by Mary Kay Andrews",
+			"description": "A recently divorced woman searching the pockets of an old Santa suit finds a child\u2019s wish that her father return from war.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250279316.jpg",
+			"name": "THE SANTA SUIT",
+			"publisher": "St. Martin's",
+			"rank": 12
+		},
+		{
+			"author": "by Lynsay Sands",
+			"description": "The 33rd book in the Argeneau series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062956361.jpg",
+			"name": "MILE HIGH WITH A VAMPIRE",
+			"publisher": "Avon",
+			"rank": 13
+		},
+		{
+			"author": "by Stephen King",
+			"description": "A killer for hire who only takes out bad guys seeks redemption as he does one final job.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982173616.jpg",
+			"name": "BILLY SUMMERS",
+			"publisher": "Scribner",
+			"rank": 14
+		},
+		{
+			"author": "by Taylor Jenkins Reid",
+			"description": "A movie icon recounts stories of her loves and career to a struggling magazine writer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501161933.jpg",
+			"name": "THE SEVEN HUSBANDS OF EVELYN HUGO",
+			"publisher": "Washington Square/Atria",
+			"rank": 15
+		}
+	]
+}

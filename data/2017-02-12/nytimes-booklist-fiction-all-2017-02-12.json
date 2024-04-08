@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by W. Bruce Cameron",
+			"description": "A canine narrator undergoes a series of reincarnations.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780765330345.jpg",
+			"name": "A DOG'S PURPOSE",
+			"publisher": "Forge Books",
+			"rank": 1
+		},
+		{
+			"author": "by Fredrik Backman",
+			"description": "A curmudgeon's gruff exterior masks a generosity of spirit. Originally published in Sweden in 2014.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476738024.jpg",
+			"name": "A MAN CALLED OVE",
+			"publisher": "Washington Square",
+			"rank": 2
+		},
+		{
+			"author": "by James Patterson and Candice Fox",
+			"description": "Harriet Blue, a Sydney sex crimes detective, is sent to the outback (the never never) to investigate the disappearance of a mine worker. The first in a new series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316434720.jpg",
+			"name": "NEVER NEVER",
+			"publisher": "Little, Brown",
+			"rank": 3
+		},
+		{
+			"author": "by Christine Feehan",
+			"description": "A supersoldier with enhanced abilities teams up with a genetically engineered spy in this GhostWalker novel.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399583919.jpg",
+			"name": "POWER GAME",
+			"publisher": "Berkley",
+			"rank": 4
+		},
+		{
+			"author": "by Gwynn White and various authors",
+			"description": "A boxed set of science fiction and fantasy offerings.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/A00B01MCYGPQM.jpg",
+			"name": "DARK HUMANITY",
+			"publisher": "genreCrave",
+			"rank": 5
+		},
+		{
+			"author": "by Jill Shalvis",
+			"description": "A security expert starts to sabotage Elle's love life.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062448071.jpg",
+			"name": "ACCIDENTALLY ON PURPOSE",
+			"publisher": "Avon",
+			"rank": 6
+		},
+		{
+			"author": "by Paula Hawkins",
+			"description": "A psychological thriller set in the environs of London is full of complications and betrayals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594633669.jpg",
+			"name": "THE GIRL ON THE TRAIN",
+			"publisher": "Riverhead",
+			"rank": 7
+		},
+		{
+			"author": "by John Grisham",
+			"description": "A whistleblower alerts a Florida investigator to judicial corruption involving the Mob and Indian casinos.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385541206.jpg",
+			"name": "THE WHISTLER",
+			"publisher": "Doubleday",
+			"rank": 8
+		},
+		{
+			"author": "by Rupi Kaur",
+			"description": "Poetic approaches to surviving adversity and loss.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781449474256.jpg",
+			"name": "MILK AND HONEY",
+			"publisher": "Andrews McMeel",
+			"rank": 9
+		},
+		{
+			"author": "by Danielle Steel",
+			"description": "Four young women share a Hell\u2019s Kitchen loft.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780804179676.jpg",
+			"name": "THE APARTMENT",
+			"publisher": "Delacorte",
+			"rank": 10
+		},
+		{
+			"author": "by J P Delaney",
+			"description": "A sadistic architect builds a modern house that controls its (young, female) inhabitants in this psychological thriller.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780425285053.jpg",
+			"name": "THE GIRL BEFORE",
+			"publisher": "Ballantine",
+			"rank": 11
+		},
+		{
+			"author": "by William P. Young",
+			"description": "A man whose daughter was abducted is invited to an isolated shack, apparently by God.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780964729230.jpg",
+			"name": "THE SHACK",
+			"publisher": "Windblown Media",
+			"rank": 12
+		},
+		{
+			"author": "by Colson Whitehead",
+			"description": "A teenage girl heads north on the network that helped slaves escape to freedom, envisioned in this novel as a secret system of actual tracks and tunnels.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385542364.jpg",
+			"name": "THE UNDERGROUND RAILROAD",
+			"publisher": "Doubleday",
+			"rank": 13
+		},
+		{
+			"author": "by Jodi Picoult",
+			"description": "A medical crisis entangles a black nurse, a white supremacist father and a white lawyer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345544964.jpg",
+			"name": "SMALL GREAT THINGS",
+			"publisher": "Ballantine",
+			"rank": 14
+		},
+		{
+			"author": "by Fredrik Backman",
+			"description": "A girl is instructed to deliver a series of letters after her grandmother dies.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501115073.jpg",
+			"name": "MY GRANDMOTHER ASKED ME TO TELL YOU SHE'S SORRY",
+			"publisher": "Washington Square",
+			"rank": 15
+		}
+	]
+}

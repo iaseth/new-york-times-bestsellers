@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Amanda Gorman",
+			"description": "The poem read on President Joe Biden's Inauguration Day, by the youngest poet to write and perform an inaugural poem.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593465271.jpg",
+			"name": "THE HILL WE CLIMB",
+			"publisher": "Viking",
+			"rank": 1
+		},
+		{
+			"author": "by Kristin Hannah",
+			"description": "As dust storms roll during the Great Depression, Elsa must choose between saving the family and farm or heading West.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250178602.jpg",
+			"name": "THE FOUR WINDS",
+			"publisher": "St. Martin's",
+			"rank": 2
+		},
+		{
+			"author": "by Delia Owens",
+			"description": "In a quiet town on the North Carolina coast in 1969, a young woman who survived alone in the marsh becomes a murder suspect.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735219090.jpg",
+			"name": "WHERE THE CRAWDADS SING",
+			"publisher": "Putnam",
+			"rank": 3
+		},
+		{
+			"author": "by Matt Haig",
+			"description": "Nora Seed finds a library beyond the edge of the universe that contains books with multiple possibilities of the lives one could have lived.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525559474.jpg",
+			"name": "THE MIDNIGHT LIBRARY",
+			"publisher": "Viking",
+			"rank": 4
+		},
+		{
+			"author": "by Cynthia D'Aprix Sweeney",
+			"description": "The foundation of a marriage between actors is shaken when they reunite with an old friend who is now a TV star.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062876003.jpg",
+			"name": "GOOD COMPANY",
+			"publisher": "Ecco",
+			"rank": 5
+		},
+		{
+			"author": "by James Patterson and David Ellis",
+			"description": "The second book in the Black Book thriller series. Chicago detective Billy Harney investigates his own past.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316499408.jpg",
+			"name": "THE RED BOOK",
+			"publisher": "Little, Brown",
+			"rank": 6
+		},
+		{
+			"author": "by Harlan Coben",
+			"description": "Windsor Horne Lockwood III might rectify cold cases connected to his family that have eluded the F.B.I. for decades.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538748213.jpg",
+			"name": "WIN",
+			"publisher": "Grand Central",
+			"rank": 7
+		},
+		{
+			"author": "by Flynn Berry",
+			"description": "The sister of a BBC producer may have joined the Irish Republican Army.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735224995.jpg",
+			"name": "NORTHERN SPY",
+			"publisher": "Viking",
+			"rank": 8
+		},
+		{
+			"author": "by Madeline Miller",
+			"description": "A reimagining of Homer\u2019s \u201cIliad\u201d that is narrated by Achilles' companion Patroclus.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062060624.jpg",
+			"name": "THE SONG OF ACHILLES",
+			"publisher": "Ecco",
+			"rank": 9
+		},
+		{
+			"author": "by Stephen King",
+			"description": "An N.Y.P.D. detective asks the son of a struggling single mother to use his unnatural ability to track a killer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781789096491.jpg",
+			"name": "LATER",
+			"publisher": "Hard Case Crime",
+			"rank": 10
+		},
+		{
+			"author": "by Haruki Murakami",
+			"description": "A collection of eight short stories on love, childhood and memory.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593318072.jpg",
+			"name": "FIRST PERSON SINGULAR",
+			"publisher": "Knopf",
+			"rank": 11
+		},
+		{
+			"author": "by Julia Quinn",
+			"description": "The first book in the Bridgerton series. Daphne Bridgerton\u2019s reputation soars when she colludes with the Duke of Hastings. The basis of the Netflix series \u201cBridgerton.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062424037.jpg",
+			"name": "THE DUKE AND I",
+			"publisher": "Avon",
+			"rank": 12
+		},
+		{
+			"author": "by Kate Quinn",
+			"description": "As a post-World War II royal wedding approaches, an encrypted letter resurrects an alliance between three female code breakers.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062943477.jpg",
+			"name": "THE ROSE CODE",
+			"publisher": "Morrow",
+			"rank": 13
+		},
+		{
+			"author": "by Abby Jimenez",
+			"description": "The third book in the Friend Zone series. Vanessa Price deals with unexpected changes.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538715666.jpg",
+			"name": "LIFE'S TOO SHORT",
+			"publisher": "Forever",
+			"rank": 14
+		},
+		{
+			"author": "by Caroline Kepnes",
+			"description": "The third book in the You series. Joe becomes interested in a librarian who appears to be too busy for him.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593133781.jpg",
+			"name": "YOU LOVE ME",
+			"publisher": "Random House",
+			"rank": 15
+		}
+	]
+}

@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Tara Westover",
+			"description": "The daughter of survivalists, who is kept out of school, educates herself enough to leave home for university.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399590504.jpg",
+			"name": "EDUCATED",
+			"publisher": "Random House",
+			"rank": 1
+		},
+		{
+			"author": "by Elton John",
+			"description": "The multi-award-winning solo artist's first autobiography chronicles his career, relationships and private struggles.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250147608.jpg",
+			"name": "ME",
+			"publisher": "Holt",
+			"rank": 2
+		},
+		{
+			"author": "by Michelle Obama",
+			"description": "The former first lady describes her journey from the South Side of Chicago to the White House, and how she balanced work, family and her husband\u2019s political ascent.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524763138.jpg",
+			"name": "BECOMING",
+			"publisher": "Crown",
+			"rank": 3
+		},
+		{
+			"author": "by Brian Kilmeade",
+			"description": "The \"Fox & Friends\u201d host gives an account of the battle against the Mexican Army in 1836.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525540533.jpg",
+			"name": "SAM HOUSTON AND THE ALAMO AVENGERS",
+			"publisher": "Sentinel",
+			"rank": 4
+		},
+		{
+			"author": "by Malcolm Gladwell",
+			"description": "Famous examples of miscommunication serve as the backdrop to explain potential conflicts and misunderstandings.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316478526.jpg",
+			"name": "TALKING TO STRANGERS",
+			"publisher": "Little, Brown",
+			"rank": 5
+		},
+		{
+			"author": "by Hillary Rodham Clinton and Chelsea Clinton",
+			"description": "Profiles of women from around the world who have blazed trails and challenged the status quo.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501178412.jpg",
+			"name": "THE BOOK OF GUTSY WOMEN",
+			"publisher": "Simon & Schuster",
+			"rank": 6
+		},
+		{
+			"author": "by Bill Bryson",
+			"description": "An owner\u2019s manual of the human body covering various parts, functions and what happens when things go wrong.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385539302.jpg",
+			"name": "THE BODY",
+			"publisher": "Doubleday",
+			"rank": 7
+		},
+		{
+			"author": "by Charles Brandt",
+			"description": "A World War II veteran works for a crime boss and comes into contact with the union boss Jimmy Hoffa. The basis of the movie \"The Irishman.\"",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781586422479.jpg",
+			"name": "I HEARD YOU PAINT HOUSES",
+			"publisher": "Steerforth",
+			"rank": 8
+		},
+		{
+			"author": "by Mitch Albom",
+			"description": "Lessons learned by the Alboms when they bring a Haitian orphan with a life-threatening illness into their family.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062952394.jpg",
+			"name": "FINDING CHIKA",
+			"publisher": "Harper",
+			"rank": 9
+		},
+		{
+			"author": "by Rachel Maddow",
+			"description": "The MSNBC host argues that the global oil and gas industry has weakened democracies and bolstered authoritarians.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525575474.jpg",
+			"name": "BLOWOUT",
+			"publisher": "Crown",
+			"rank": 10
+		},
+		{
+			"author": "by Anonymous",
+			"description": "A senior official in the Trump administration offers an assessment of the president and makes a moral appeal.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538718469.jpg",
+			"name": "A WARNING",
+			"publisher": "Twelve",
+			"rank": 11
+		},
+		{
+			"author": "by Donald Trump Jr",
+			"description": "Forays into politics and views on liberals from the executive vice president of the Trump Organization.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781546086031.jpg",
+			"name": "TRIGGERED",
+			"publisher": "Center Street",
+			"rank": 12
+		},
+		{
+			"author": "by Julie Andrews and Emma Walton Hamilton",
+			"description": "The musical theater icon's second installment of her memoir describes her arrival in Hollywood, becoming a mother and her relationship with Blake Edwards.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316349253.jpg",
+			"name": "HOME WORK",
+			"publisher": "Hachette",
+			"rank": 13
+		},
+		{
+			"author": "by Mike Rowe",
+			"description": "The television personality relays stories from his podcast and personal anecdotes.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982130855.jpg",
+			"name": "THE WAY I HEARD IT",
+			"publisher": "Gallery",
+			"rank": 14
+		},
+		{
+			"author": "by David McCullough",
+			"description": "The Pulitzer Prize-winning historian tells the story of the settling of the Northwest Territory through five main characters.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501168680.jpg",
+			"name": "THE PIONEERS",
+			"publisher": "Simon & Schuster",
+			"rank": 15
+		}
+	]
+}

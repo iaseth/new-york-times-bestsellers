@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Anthony Doerr",
+			"description": "The lives of a blind French girl and a gadget-obsessed German boy before and during World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476746586.jpg",
+			"name": "ALL THE LIGHT WE CANNOT SEE",
+			"publisher": "Scribner",
+			"rank": 1
+		},
+		{
+			"author": "by Gillian Flynn",
+			"description": "A woman disappears on the day of her fifth anniversary; is her husband a killer?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307588388.jpg",
+			"name": "GONE GIRL",
+			"publisher": "Crown",
+			"rank": 2
+		},
+		{
+			"author": "by Stuart Woods",
+			"description": "Distributing the estate of a friend, the New York lawyer Stone Barrington unearths disturbing secrets.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698154155.jpg",
+			"name": "INSATIABLE APPETITES",
+			"publisher": "Putnam",
+			"rank": 3
+		},
+		{
+			"author": "by Liane Moriarty",
+			"description": "Who will end up dead, and how, when three mothers with children in the same school become friends?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698138636.jpg",
+			"name": "BIG LITTLE LIES",
+			"publisher": "Amy Einhorn/Putnam",
+			"rank": 4
+		},
+		{
+			"author": "by J.\u2009S. Cooper and Helen Cooper",
+			"description": "A romantic fling between two wedding guests is more complicated than they thought.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781940218335.jpg",
+			"name": "ONE NIGHT STAND",
+			"publisher": "J.S. Cooper and Helen Cooper",
+			"rank": 5
+		},
+		{
+			"author": "by John Grisham",
+			"description": "A downsized Wall Street lawyer joins a legal clinic in a small Virginia town, and becomes involved in litigation against the coal mining industry.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385537148.jpg",
+			"name": "GRAY MOUNTAIN",
+			"publisher": "Doubleday",
+			"rank": 6
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "John Puller, a special agent with the Army, hunts for his brother, who was convicted of treason and has escaped from prison.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455521197.jpg",
+			"name": "THE ESCAPE",
+			"publisher": "Grand Central",
+			"rank": 7
+		},
+		{
+			"author": "by Jayne Ann Krentz",
+			"description": "A woman who is being stalked is aided by an unlikely ally.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101621004.jpg",
+			"name": "TRUST NO ONE",
+			"publisher": "Putnam",
+			"rank": 8
+		},
+		{
+			"author": "by Pierce Brown",
+			"description": "In Book 2 of the Red Rising trilogy, set in a dystopian future, a young laborer in the mines of Mars fights his world\u2019s ruling elite.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345539816.jpg",
+			"name": "GOLDEN SON",
+			"publisher": "Del Rey",
+			"rank": 9
+		},
+		{
+			"author": "by E. L. James",
+			"description": "An innocent college student falls in love with a tortured man with particular sexual tastes; the first of a trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345803481.jpg",
+			"name": "FIFTY SHADES OF GREY",
+			"publisher": "Vintage",
+			"rank": 10
+		},
+		{
+			"author": "by James Patterson",
+			"description": "Detective Alex Cross\u2019s family is kidnapped by a madman who wants to turn Cross into a perfect killer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316210942.jpg",
+			"name": "HOPE TO DIE",
+			"publisher": "Little, Brown",
+			"rank": 11
+		},
+		{
+			"author": "by Michael Connelly",
+			"description": "The Los Angeles detective Harry Bosch and his new partner investigate two long-unsolved cases.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316225939.jpg",
+			"name": "THE BURNING ROOM",
+			"publisher": "Little, Brown",
+			"rank": 12
+		},
+		{
+			"author": "by Karina Halle",
+			"description": "Years ago, Steph and Linden made a promise to each other. Now it's time to test their commitment.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781311179036.jpg",
+			"name": "THE PACT",
+			"publisher": "Metal Blonde",
+			"rank": 13
+		},
+		{
+			"author": "by Lisa Genova",
+			"description": "A 50-year-old Harvard professor learns she has early-onset Alzheimer's disease; now a movie.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781439102817.jpg",
+			"name": "STILL ALICE",
+			"publisher": "Pocket Books",
+			"rank": 14
+		},
+		{
+			"author": "by Gillian Flynn",
+			"description": "A woman who was spared when her mother and sisters were murdered begins to reinvestigate the case against her imprisoned brother.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307341570.jpg",
+			"name": "DARK PLACES",
+			"publisher": "Broadway",
+			"rank": 15
+		}
+	]
+}

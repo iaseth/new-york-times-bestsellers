@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by James Comey",
+			"description": "The former F.B.I. director recounts cases and personal events that shaped his outlook on justice, and analyzes the leadership styles of three presidents.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250192455.jpg",
+			"name": "A HIGHER LOYALTY",
+			"publisher": "Flatiron",
+			"rank": 1
+		},
+		{
+			"author": "by Michelle McNamara",
+			"description": "The late true-crime journalist's search for the serial murderer and rapist known as \"the Golden State Killer.\"",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062319784.jpg",
+			"name": "I'LL BE GONE IN THE DARK",
+			"publisher": "Harper",
+			"rank": 2
+		},
+		{
+			"author": "by Ronan Farrow",
+			"description": "The Pulitzer Prize-winning journalist chronicles the deterioration of American diplomacy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780393652109.jpg",
+			"name": "WAR ON PEACE",
+			"publisher": "Norton",
+			"rank": 3
+		},
+		{
+			"author": "by Jonah Goldberg",
+			"description": "A senior editor at National Review assesses issues plaguing the left and the right.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101904930.jpg",
+			"name": "SUICIDE OF THE WEST",
+			"publisher": "Crown Forum",
+			"rank": 4
+		},
+		{
+			"author": "by David Grann",
+			"description": "The story of a murder spree in 1920s Oklahoma that targeted Osage Indians, whose lands contained oil.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385534246.jpg",
+			"name": "KILLERS OF THE FLOWER MOON",
+			"publisher": "Doubleday",
+			"rank": 5
+		},
+		{
+			"author": "by Madeleine Albright with Bill Woodward",
+			"description": "The former secretary of state examines the legacy of fascism in the 20th century and its potential revival.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062802187.jpg",
+			"name": "FASCISM: A Warning",
+			"publisher": "Harper",
+			"rank": 6
+		},
+		{
+			"author": "by Ainsley Earhardt with Mark Tabb",
+			"description": "A memoir by one of the hosts of \u201cFox & Friends.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062697479.jpg",
+			"name": "THE LIGHT WITHIN ME",
+			"publisher": "Harper",
+			"rank": 7
+		},
+		{
+			"author": "by Tara Westover",
+			"description": "The daughter of survivalists, who is kept out of school, educates herself enough to leave home for university.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399590504.jpg",
+			"name": "EDUCATED",
+			"publisher": "Random House",
+			"rank": 8
+		},
+		{
+			"author": "by Amy Chozick",
+			"description": "A New York Times journalist recounts her coverage of Hillary Clinton\u2019s 2008 and 2016 presidential campaigns, and her own personal and professional milestones.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062413598.jpg",
+			"name": "CHASING HILLARY",
+			"publisher": "Harper",
+			"rank": 9
+		},
+		{
+			"author": "by Ali Wentworth",
+			"description": "Through comic vignettes, the actress shares lessons she has learned.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062466013.jpg",
+			"name": "GO ASK ALI",
+			"publisher": "Harper",
+			"rank": 10
+		},
+		{
+			"author": "by John Doerr",
+			"description": "How a goal-setting system helped large tech companies succeed.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525536222.jpg",
+			"name": "MEASURE WHAT MATTERS",
+			"publisher": "Portfolio/Penguin",
+			"rank": 11
+		},
+		{
+			"author": "by David Reich",
+			"description": "An exploration of how technological advances have changed our understanding of human prehistory through the extraction of DNA from ancient bones.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101870327.jpg",
+			"name": "WHO WE ARE AND HOW WE GOT HERE",
+			"publisher": "Pantheon",
+			"rank": 12
+		},
+		{
+			"author": "by Neil deGrasse Tyson",
+			"description": "A straightforward, easy-to-understand introduction to the laws that govern the universe.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780393609394.jpg",
+			"name": "ASTROPHYSICS FOR PEOPLE IN A HURRY",
+			"publisher": "Norton",
+			"rank": 13
+		},
+		{
+			"author": "by Clemantine Wamariya and Elizabeth Weil",
+			"description": "A child and her sister flee the Rwandan genocide and suffer hardships together in Africa, only to go on different paths as refugees in the United States.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780451495327.jpg",
+			"name": "THE GIRL WHO SMILED BEADS",
+			"publisher": "Crown",
+			"rank": 14
+		},
+		{
+			"author": "by Ian Bremmer",
+			"description": "A look at the factions recently formed around the world in reaction to a perceived failure of globalism.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525533184.jpg",
+			"name": "US VS. THEM",
+			"publisher": "Portfolio/Penguin",
+			"rank": 15
+		}
+	]
+}

@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Mark Owen with Kevin Maurer",
+			"description": "An account of the mission that killed Osama bin Laden, by a former member of the Navy SEALs.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101611302.jpg",
+			"name": "NO EASY DAY",
+			"publisher": "Penguin Group",
+			"rank": 1
+		},
+		{
+			"author": "by Neil Young",
+			"description": "The rocker\u2019s memoir ranges over his personal life and his music, including his days with Crosby, Stills, Nash & Young.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399159466.jpg",
+			"name": "WAGING HEAVY PEACE",
+			"publisher": "Penguin Group",
+			"rank": 2
+		},
+		{
+			"author": "by Ann Coulter",
+			"description": "The political commentator traces racial demagoguery from the 1970s to the present.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781595230997.jpg",
+			"name": "MUGGED",
+			"publisher": "Penguin Group",
+			"rank": 3
+		},
+		{
+			"author": "by Dakota Meyer and Bing West",
+			"description": "A Medal of Honor winner\u2019s firsthand account of a crucial battle in the Afghan war.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812993400.jpg",
+			"name": "INTO THE FIRE",
+			"publisher": "Random House Publishing",
+			"rank": 4
+		},
+		{
+			"author": "by Bob Woodward",
+			"description": "Inside the debt-ceiling negotiations of 2011 with the Washington Post journalist.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451651102.jpg",
+			"name": "THE PRICE OF POLITICS",
+			"publisher": "Simon & Schuster",
+			"rank": 5
+		},
+		{
+			"author": "by Salman Rushdie",
+			"description": "The novelist\u2019s life for nearly 10 years under the Ayatollah Khomeini\u2019s death sentence for writing \u201cThe Satanic Verses.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780679643883.jpg",
+			"name": "JOSEPH ANTON",
+			"publisher": "Random House Publishing",
+			"rank": 6
+		},
+		{
+			"author": "by Paul Tough",
+			"description": "An argument that the qualities that matter most have to do with character, not intelligence.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780544104402.jpg",
+			"name": "HOW CHILDREN SUCCEED",
+			"publisher": "Houghton Mifflin Harcourt Publishing",
+			"rank": 7
+		},
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "The anchor of \u201cThe O\u2019Reilly Factor\u201d recounts the assassination of Abraham Lincoln.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780805093070.jpg",
+			"name": "KILLING LINCOLN",
+			"publisher": "Henry Holt & Company",
+			"rank": 8
+		},
+		{
+			"author": "by Nate Silver",
+			"description": "An examination of predictions, the ones that come true and the ones that don\u2019t.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594204111.jpg",
+			"name": "THE SIGNAL AND THE NOISE",
+			"publisher": "Penguin Group",
+			"rank": 9
+		},
+		{
+			"author": "by Laura Hillenbrand",
+			"description": "An Olympic runner\u2019s story of survival as a prisoner of the Japanese in World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400064168.jpg",
+			"name": "UNBROKEN",
+			"publisher": "Random House Publishing",
+			"rank": 10
+		},
+		{
+			"author": "by Cheryl Strayed",
+			"description": "A woman\u2019s account of a life-changing 1,100-mile hike along the Pacific Crest Trail.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307476074.jpg",
+			"name": "WILD",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 11
+		},
+		{
+			"author": "by Tony La Russa with Rick Hummel",
+			"description": "The former manager of the St. Louis Cardinals describes the team\u2019s remarkable 2011 World Series title.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062207531.jpg",
+			"name": "ONE LAST STRIKE",
+			"publisher": "HarperCollins Publishers",
+			"rank": 12
+		},
+		{
+			"author": "by Jeffrey Toobin",
+			"description": "The ideological battles between President Obama and the Supreme Court.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385536301.jpg",
+			"name": "OATH",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 13
+		},
+		{
+			"author": "by Damien Echols",
+			"description": "The boyhood and prison life of a man who was released last year after serving 17 years on a wrongful conviction for the murder of three boys in Arkansas.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101598580.jpg",
+			"name": "LIFE AFTER DEATH",
+			"publisher": "Penguin Group",
+			"rank": 14
+		},
+		{
+			"author": "by Christopher Hitchens",
+			"description": "Reports and reflections on his illness and impending death by the writer, who died in December 2011.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455502752.jpg",
+			"name": "MORTALITY",
+			"publisher": "Grand Central Publishing",
+			"rank": 15
+		}
+	]
+}

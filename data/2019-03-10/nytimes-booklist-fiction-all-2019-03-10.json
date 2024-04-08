@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Delia Owens",
+			"description": "In a quiet town on the North Carolina coast in 1969, a young woman who survived alone in the marsh becomes a murder suspect.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735219090.jpg",
+			"name": "WHERE THE CRAWDADS SING",
+			"publisher": "Putnam",
+			"rank": 1
+		},
+		{
+			"author": "by James Patterson and Max DiLallo",
+			"description": "Caleb Rooney, a police detective and celebrity food truck chef, must clear his name of murder allegations.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316530002.jpg",
+			"name": "THE CHEF",
+			"publisher": "Little, Brown",
+			"rank": 2
+		},
+		{
+			"author": "by Lisa Gardner",
+			"description": "D.D. Warren and Flora Dane investigate whether a pregnant woman shot and killed her husband.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524742096.jpg",
+			"name": "NEVER TELL",
+			"publisher": "Dutton",
+			"rank": 3
+		},
+		{
+			"author": "by Lisa Kleypas",
+			"description": "Desire burns between the young widow Phoebe, Lady Clare, and West Ravenel, her late husband's tormentor.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062371928.jpg",
+			"name": "DEVIL'S DAUGHTER",
+			"publisher": "Avon",
+			"rank": 4
+		},
+		{
+			"author": "by Mark Greaney",
+			"description": "The eighth book in the Gray Man series. Court Gentry must track down assassins.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780451488961.jpg",
+			"name": "MISSION CRITICAL",
+			"publisher": "Berkley",
+			"rank": 5
+		},
+		{
+			"author": "by Heather Morris",
+			"description": "A concentration camp detainee tasked with permanently marking fellow prisoners falls in love with one of them.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062797155.jpg",
+			"name": "THE TATTOOIST OF AUSCHWITZ",
+			"publisher": "Harper",
+			"rank": 6
+		},
+		{
+			"author": "by Pam Jenoff",
+			"description": "Grace Healey investigates the fates of 12 women who were sent to occupied Europe to help the resistance during World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780778330271.jpg",
+			"name": "THE LOST GIRLS OF PARIS",
+			"publisher": "Park Row",
+			"rank": 7
+		},
+		{
+			"author": "by Alex Michaelides",
+			"description": "Theo Faber looks into the mystery of a famous painter who stops speaking after shooting her husband.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250301697.jpg",
+			"name": "THE SILENT PATIENT",
+			"publisher": "Celadon",
+			"rank": 8
+		},
+		{
+			"author": "by J.D. Robb",
+			"description": "Eve Dallas scours tattoo parlors and strip joints for clues to the cause of Lyle Pickering\u2019s mysterious death.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250201584.jpg",
+			"name": "CONNECTIONS IN DEATH",
+			"publisher": "St. Martin's",
+			"rank": 9
+		},
+		{
+			"author": "by Gail Honeyman",
+			"description": "A young woman\u2019s well-ordered life is disrupted by the I.T. guy from her office.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735220690.jpg",
+			"name": "ELEANOR OLIPHANT IS COMPLETELY FINE",
+			"publisher": "Penguin",
+			"rank": 10
+		},
+		{
+			"author": "by Jonathan Kellerman",
+			"description": "Milo Sturgis and Alex Delaware investigate the death of a stranger at a wedding reception.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525618508.jpg",
+			"name": "THE WEDDING GUEST",
+			"publisher": "Ballantine",
+			"rank": 11
+		},
+		{
+			"author": "by Elle Kennedy",
+			"description": "The second book in the Briar U series. A rival player pretends to date a hockey coach's daughter.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780994054463.jpg",
+			"name": "THE RISK",
+			"publisher": "Elle Kennedy",
+			"rank": 12
+		},
+		{
+			"author": "by Greer Hendricks and Sarah Pekkanen",
+			"description": "Jessica Farris\u2019s life unravels when she signs up for Dr. Shields\u2019s psychology study.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250133731.jpg",
+			"name": "AN ANONYMOUS GIRL",
+			"publisher": "St. Martin's",
+			"rank": 13
+		},
+		{
+			"author": "by John Grisham",
+			"description": "A decorated World War II veteran shoots and kills a pastor inside a Mississippi church.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385544160.jpg",
+			"name": "THE RECKONING",
+			"publisher": "Doubleday",
+			"rank": 14
+		},
+		{
+			"author": "by Marlon James",
+			"description": "A loner named Tracker teams up with a group of unusual characters in search of a mysterious boy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735220171.jpg",
+			"name": "BLACK LEOPARD, RED WOLF",
+			"publisher": "Riverhead",
+			"rank": 15
+		}
+	]
+}

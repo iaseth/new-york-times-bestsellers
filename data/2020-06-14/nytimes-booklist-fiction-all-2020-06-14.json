@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Nora Roberts",
+			"description": "A child star escapes her abductors, gathers herself in western Ireland and returns to Hollywood.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250207104.jpg",
+			"name": "HIDEAWAY",
+			"publisher": "St. Martin's",
+			"rank": 1
+		},
+		{
+			"author": "by Michael Connelly",
+			"description": "The third book in the Jack McEvoy series. A reporter tracks a killer who uses genetic data to pick his victims.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316539425.jpg",
+			"name": "FAIR WARNING",
+			"publisher": "Little Brown",
+			"rank": 2
+		},
+		{
+			"author": "by Delia Owens",
+			"description": "In a quiet town on the North Carolina coast in 1969, a young woman who survived alone in the marsh becomes a murder suspect.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735219090.jpg",
+			"name": "WHERE THE CRAWDADS SING",
+			"publisher": "Putnam",
+			"rank": 3
+		},
+		{
+			"author": "by John Grisham",
+			"description": "The line between fact and fiction becomes blurred when an author of thrillers is found dead after a hurricane hits Camino Island.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385545938.jpg",
+			"name": "CAMINO WINDS",
+			"publisher": "Doubleday",
+			"rank": 4
+		},
+		{
+			"author": "by Celeste Ng",
+			"description": "An artist upends a quiet town outside Cleveland.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735224308.jpg",
+			"name": "LITTLE FIRES EVERYWHERE",
+			"publisher": "Penguin Press",
+			"rank": 5
+		},
+		{
+			"author": "by Jennifer Weiner",
+			"description": "Daphne Berg\u2019s former best friend asks her to be the maid of honor at her wedding in Cape Cod.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501133510.jpg",
+			"name": "BIG SUMMER",
+			"publisher": "Atria",
+			"rank": 6
+		},
+		{
+			"author": "by Sally Rooney",
+			"description": "The connection between a high school star athlete and a loner ebbs and flows when they go to Trinity College in Dublin.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984822178.jpg",
+			"name": "NORMAL PEOPLE",
+			"publisher": "Hogarth",
+			"rank": 7
+		},
+		{
+			"author": "by Jeanine Cummins",
+			"description": "A bookseller flees Mexico for the United States with her son while pursued by the head of a drug cartel.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250209764.jpg",
+			"name": "AMERICAN DIRT",
+			"publisher": "Flatiron",
+			"rank": 8
+		},
+		{
+			"author": "by Clive Cussler and Robin Burcell",
+			"description": "The 12th book in the Sam and Remi Fargo Adventure series. A kingpin is released from prison and a final showdown takes place in Greece.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593087886.jpg",
+			"name": "WRATH OF POSEIDON",
+			"publisher": "Penguin",
+			"rank": 9
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "The sixth book in the Memory Man series. Decker and Jamison investigate a murder in a North Dakota town in a fracking boom.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538761465.jpg",
+			"name": "WALK THE WIRE",
+			"publisher": "Grand Central",
+			"rank": 10
+		},
+		{
+			"author": "by Stephen King",
+			"description": "Four novellas: \u201cMr. Harrigan\u2019s Phone,\u201d \u201cThe Life of Chuck,\u201d \u201cRat\u201d and \u201cIf It Bleeds.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982137977.jpg",
+			"name": "IF IT BLEEDS",
+			"publisher": "Scribner",
+			"rank": 11
+		},
+		{
+			"author": "by Stuart Woods and Parnell Hall",
+			"description": "Gossip and a grudge put Teddy Fay in a tough spot back in Hollywood.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593083277.jpg",
+			"name": "BOMBSHELL",
+			"publisher": "Putnam",
+			"rank": 12
+		},
+		{
+			"author": "by Emma Straub",
+			"description": "A repressed memory triggers Astrid Strick to weigh the outcomes of her parenting of her now-grown children.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594634697.jpg",
+			"name": "ALL ADULTS HERE",
+			"publisher": "Riverhead",
+			"rank": 13
+		},
+		{
+			"author": "by James Patterson and Maxine Paetro",
+			"description": "The 20th book in the Women\u2019s Murder Club series. Lindsay Boxer looks into the murders of disreputable persons in three separate cities.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316420280.jpg",
+			"name": "THE 20TH VICTIM",
+			"publisher": "Little Brown",
+			"rank": 14
+		},
+		{
+			"author": "by Alka Joshi",
+			"description": "In 1950s Jaipur, a young woman who escaped an abusive marriage and started a new life is confronted by her husband.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780778309451.jpg",
+			"name": "THE HENNA ARTIST",
+			"publisher": "MIRA",
+			"rank": 15
+		}
+	]
+}

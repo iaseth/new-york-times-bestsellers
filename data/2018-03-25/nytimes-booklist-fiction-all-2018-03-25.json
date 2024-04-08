@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Patricia Briggs",
+			"description": "The fifth book in the Alpha and Omega series. Mated werewolves Charles Cornick and Anna Latham answer a call of distress.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698195837.jpg",
+			"name": "BURN BRIGHT",
+			"publisher": "Ace",
+			"rank": 1
+		},
+		{
+			"author": "by Brad Meltzer",
+			"description": "Nola Brown, a painter and trained soldier, discovers a military secret that traces back to Harry Houdini.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455559527.jpg",
+			"name": "THE ESCAPE ARTIST",
+			"publisher": "Grand Central",
+			"rank": 2
+		},
+		{
+			"author": "by John Grisham",
+			"description": "A search for stolen rare manuscripts leads to a Florida island.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385543057.jpg",
+			"name": "CAMINO ISLAND",
+			"publisher": "Doubleday",
+			"rank": 3
+		},
+		{
+			"author": "by Kristin Hannah",
+			"description": "A former prisoner of war returns from Vietnam and moves his family to Alaska, where they face tough conditions.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250165619.jpg",
+			"name": "THE GREAT ALONE",
+			"publisher": "St. Martin's",
+			"rank": 4
+		},
+		{
+			"author": "by Jason Matthews",
+			"description": "A Russian intelligence officer trained in the art of seduction becomes entangled with a young C.I.A. officer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476706122.jpg",
+			"name": "RED SPARROW",
+			"publisher": "Scribner",
+			"rank": 5
+		},
+		{
+			"author": "by Jason Fry",
+			"description": "An adaptation of the film, written with input from its director, Rian Johnson, which includes scenes from alternate versions of the script.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524797119.jpg",
+			"name": "STAR WARS: THE LAST JEDI",
+			"publisher": "Del Rey",
+			"rank": 6
+		},
+		{
+			"author": "by Ernest Cline",
+			"description": "It\u2019s 2044, life on a resource-depleted Earth has grown increasingly grim, and the key to a vast fortune is hidden in a virtual-reality world.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307887443.jpg",
+			"name": "READY PLAYER ONE",
+			"publisher": "Broadway",
+			"rank": 7
+		},
+		{
+			"author": "by Linda Howard",
+			"description": "An on-site drone operator for a paramilitary organization is tested when a congresswoman works to destroy the unit.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062419033.jpg",
+			"name": "THE WOMAN LEFT BEHIND",
+			"publisher": "Morrow",
+			"rank": 8
+		},
+		{
+			"author": "by Celeste Ng",
+			"description": "An artist upends a quiet town outside Cleveland.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735224308.jpg",
+			"name": "LITTLE FIRES EVERYWHERE",
+			"publisher": "Penguin Press",
+			"rank": 9
+		},
+		{
+			"author": "by Karen Marie Moning",
+			"description": "The 10th book of the Fever series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399593673.jpg",
+			"name": "HIGH VOLTAGE",
+			"publisher": "Delacorte",
+			"rank": 10
+		},
+		{
+			"author": "by A.J. Finn",
+			"description": "A recluse who drinks heavily and takes prescription drugs may have witnessed a crime across from her Harlem townhouse.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062678416.jpg",
+			"name": "THE WOMAN IN THE WINDOW",
+			"publisher": "Morrow",
+			"rank": 11
+		},
+		{
+			"author": "by Tayari Jones",
+			"description": "A newlywed couple's relationship is tested when the husband is sentenced to 12 years in prison.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781616207601.jpg",
+			"name": "AN AMERICAN MARRIAGE",
+			"publisher": "Algonquin",
+			"rank": 12
+		},
+		{
+			"author": "by James Patterson and Candice Fox",
+			"description": "Detective Harriet Blue tries to clear her brother's name and save a small Australian town from being massacred.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316513241.jpg",
+			"name": "FIFTY FIFTY",
+			"publisher": "Little, Brown",
+			"rank": 13
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "The detective Amos Decker (\u201cMemory Man\u201d) witnesses a murder-suicide that turns out to be a matter of national security.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455586561.jpg",
+			"name": "THE FIX",
+			"publisher": "Grand Central",
+			"rank": 14
+		},
+		{
+			"author": "by Lisa Wingate",
+			"description": "A South Carolina lawyer learns about the questionable practices of a Tennessee orphanage.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780425284681.jpg",
+			"name": "BEFORE WE WERE YOURS",
+			"publisher": "Ballantine",
+			"rank": 15
+		}
+	]
+}

@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Michelle Obama",
+			"description": "The former first lady describes her journey from the South Side of Chicago to the White House, and how she balanced work, family and her husband\u2019s political ascent.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524763138.jpg",
+			"name": "BECOMING",
+			"publisher": "Crown",
+			"rank": 1
+		},
+		{
+			"author": "by Tara Westover",
+			"description": "The daughter of survivalists, who is kept out of school, educates herself enough to leave home for university.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399590504.jpg",
+			"name": "EDUCATED",
+			"publisher": "Random House",
+			"rank": 2
+		},
+		{
+			"author": "by Stephanie Land",
+			"description": "An unexpected pregnancy forces the author to navigate challenges faced by the working poor.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316505116.jpg",
+			"name": "MAID",
+			"publisher": "Hachette",
+			"rank": 3
+		},
+		{
+			"author": "by Brad Meltzer and Josh Mensch",
+			"description": "The story of a secret plot to kill George Washington in 1776.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250130334.jpg",
+			"name": "THE FIRST CONSPIRACY",
+			"publisher": "Flatiron",
+			"rank": 4
+		},
+		{
+			"author": "by Kamala Harris",
+			"description": "A memoir by a daughter of immigrants who was raised in Oakland, Calif., and became the second black woman ever elected to the United States Senate.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525560715.jpg",
+			"name": "THE TRUTHS WE HOLD",
+			"publisher": "Penguin Press",
+			"rank": 5
+		},
+		{
+			"author": "by Yuval Noah Harari",
+			"description": "How Homo sapiens became Earth\u2019s dominant species.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062316097.jpg",
+			"name": "SAPIENS",
+			"publisher": "Harper",
+			"rank": 6
+		},
+		{
+			"author": "by John Carreyrou",
+			"description": "The rise and fall of Theranos, the biotech startup that failed to deliver on its promise to make blood testing more efficient.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524731663.jpg",
+			"name": "BAD BLOOD",
+			"publisher": "Knopf",
+			"rank": 7
+		},
+		{
+			"author": "by Susan Orlean",
+			"description": "The story of the 1986 fire at the Los Angeles Public Library provides a backdrop to the evolution and purpose of libraries.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476740188.jpg",
+			"name": "THE LIBRARY BOOK",
+			"publisher": "Simon & Schuster",
+			"rank": 8
+		},
+		{
+			"author": "by Sally Field",
+			"description": "A memoir by the two-time Academy Award and three-time Emmy Award winner.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538763025.jpg",
+			"name": "IN PIECES",
+			"publisher": "Grand Central",
+			"rank": 9
+		},
+		{
+			"author": "by Charles Krauthammer, edited by Daniel Krauthammer",
+			"description": "A collection of essays, speeches and unpublished writings by the late conservative columnist.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984825483.jpg",
+			"name": "THE POINT OF IT ALL",
+			"publisher": "Crown Forum",
+			"rank": 10
+		},
+		{
+			"author": "by Irin Carmon and Shana Knizhnik",
+			"description": "A celebration of the life and career of Supreme Court Justice Ruth Bader Ginsburg.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062415837.jpg",
+			"name": "NOTORIOUS RBG",
+			"publisher": "Dey Street",
+			"rank": 11
+		},
+		{
+			"author": "by Andrew Roberts",
+			"description": "A biography focusing on what motivated the war leader and how he learned from his mistakes.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101980996.jpg",
+			"name": "CHURCHILL: WALKING WITH DESTINY",
+			"publisher": "Viking",
+			"rank": 12
+		},
+		{
+			"author": "by Mary Pipher",
+			"description": "Reflections on the ageism, misogyny and loss that women might encounter as they grow older.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781632869609.jpg",
+			"name": "WOMEN ROWING NORTH",
+			"publisher": "Bloomsbury",
+			"rank": 13
+		},
+		{
+			"author": "by Dani Shapiro",
+			"description": "Secrets and identity in a fast-paced age of science and technology are explored through the story of a woman who discovered her biological father.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524732714.jpg",
+			"name": "INHERITANCE",
+			"publisher": "Knopf",
+			"rank": 14
+		},
+		{
+			"author": "by Hans Rosling with Ola Rosling and Anna Rosling Ronnlund",
+			"description": "A look at our biases and the argument for why the world is in a better state than we might think.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250123817.jpg",
+			"name": "FACTFULNESS",
+			"publisher": "Flatiron",
+			"rank": 15
+		}
+	]
+}

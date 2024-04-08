@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Walter Isaacson",
+			"description": "A biography of the recently deceased entrepreneur, based on 40 interviews with Jobs conducted over two years.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451648553.jpg",
+			"name": "STEVE JOBS",
+			"publisher": "Simon & Schuster",
+			"rank": 1
+		},
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "The anchor of \u201cThe O\u2019Reilly Factor\u201d recounts the assassination of Abraham Lincoln.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780805093070.jpg",
+			"name": "KILLING LINCOLN",
+			"publisher": "Holt",
+			"rank": 2
+		},
+		{
+			"author": "by Todd Burpo with Lynn Vincent",
+			"description": "A father recounts his 3-year-old son\u2019s encounter with Jesus and the angels during an appendectomy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780849949203.jpg",
+			"name": "HEAVEN IS FOR REAL",
+			"publisher": "Thomas Nelson",
+			"rank": 3
+		},
+		{
+			"author": "by Laura Hillenbrand",
+			"description": "An Olympic runner\u2019s story of survival as a prisoner of the Japanese in World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400064168.jpg",
+			"name": "UNBROKEN",
+			"publisher": "Random House Publishing",
+			"rank": 4
+		},
+		{
+			"author": "by Tim Tebow with Nathan Whitaker",
+			"description": "The Broncos quarterback chronicles his personal and professional course.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062072153.jpg",
+			"name": "THROUGH MY EYES",
+			"publisher": "HarperCollins Publishers",
+			"rank": 5
+		},
+		{
+			"author": "by Chris Matthews",
+			"description": "An admiring portrait of the 35th president.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451635096.jpg",
+			"name": "JACK KENNEDY",
+			"publisher": "Simon & Schuster",
+			"rank": 6
+		},
+		{
+			"author": "by Glenn Beck and Kevin Balfe",
+			"description": "How Washington turned himself into the indispensable (if imperfect) man.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451659269.jpg",
+			"name": "BEING GEORGE WASHINGTON",
+			"publisher": "Threshold Editions",
+			"rank": 7
+		},
+		{
+			"author": "by Daniel Kahneman",
+			"description": "The winner of the Nobel in economic science discusses how we make choices in business and personal life and when we can and cannot trust our intuitions.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781429969352.jpg",
+			"name": "THINKING, FAST AND SLOW",
+			"publisher": "Farrar, Straus & Giroux",
+			"rank": 8
+		},
+		{
+			"author": "by Robert K. Massie",
+			"description": "The author of \u201cNicholas and Alexandra\u201d provides a sweeping narrative of the life of the minor 18th-century German princess who became Empress of All the Russias.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780679456728.jpg",
+			"name": "CATHERINE THE GREAT",
+			"publisher": "Random House Publishing",
+			"rank": 9
+		},
+		{
+			"author": "by Tina Fey",
+			"description": "A memoir from the former \"Saturday Night Live\" star and creator of \"30 Rock.\"",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316056892.jpg",
+			"name": "BOSSYPANTS",
+			"publisher": "Little, Brown & Company",
+			"rank": 10
+		},
+		{
+			"author": "by Erik Larson",
+			"description": "William E. Dodd, the U.S. ambassador to Germany, and his daughter, Martha, in 1930s Berlin.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307887955.jpg",
+			"name": "IN THE GARDEN OF BEASTS",
+			"publisher": "Crown Publishing",
+			"rank": 11
+		},
+		{
+			"author": "by Michael Lewis",
+			"description": "A look at some of the places \u2014 Greece, Ireland, Iceland \u2014 hardest hit by the financial collapse of 2008 and at how it happened.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780393082241.jpg",
+			"name": "BOOMERANG",
+			"publisher": "W. W. Norton & Company",
+			"rank": 12
+		},
+		{
+			"author": "by Diane Keaton",
+			"description": "The actress uses her mother\u2019s diaries as a springboard for the examination of her own life.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781588369420.jpg",
+			"name": "THEN AGAIN",
+			"publisher": "Random House Publishing",
+			"rank": 13
+		},
+		{
+			"author": "by Ellen DeGeneres",
+			"description": "A collection of humor pieces from the stand-up comedian and talk-show host.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780446585033.jpg",
+			"name": "SERIOUSLY... I'M KIDDING",
+			"publisher": "Grand Central Publishing",
+			"rank": 14
+		},
+		{
+			"author": "by Max Brooks",
+			"description": "The comedy writer offers a plan for safeguarding yourself from the living dead.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400049622.jpg",
+			"name": "THE ZOMBIE SURVIVAL GUIDE",
+			"publisher": "Crown Publishing",
+			"rank": 15
+		}
+	]
+}

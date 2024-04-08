@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Dan Brown",
+			"description": "A symbology professor goes on a perilous quest with a beautiful museum director.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385542692.jpg",
+			"name": "ORIGIN",
+			"publisher": "Doubleday",
+			"rank": 1
+		},
+		{
+			"author": "by Rupi Kaur",
+			"description": "A new collection of poetry from the author of \"Milk and Honey.\"",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781449486792.jpg",
+			"name": "THE SUN AND HER FLOWERS",
+			"publisher": "Andrews McMeel",
+			"rank": 2
+		},
+		{
+			"author": "by Danielle Steel",
+			"description": "Camille Lammenais returns from college to manage her family's winery in Napa Valley and is forced to deal with tragedy and unexpected dangers.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101884065.jpg",
+			"name": "FAIRYTALE",
+			"publisher": "Delacorte",
+			"rank": 3
+		},
+		{
+			"author": "by Kristin Hannah",
+			"description": "Two sisters are separated in World War II France: one in the countryside, the other in Paris.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781466850606.jpg",
+			"name": "THE NIGHTINGALE",
+			"publisher": "St. Martin's",
+			"rank": 4
+		},
+		{
+			"author": "by Stephen King",
+			"description": "The fears of seven teenagers are rekindled in their adult lives by the terrifying title character. Originally published in 1986.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501141232.jpg",
+			"name": "IT",
+			"publisher": "Scribner",
+			"rank": 5
+		},
+		{
+			"author": "by Nelson DeMille",
+			"description": "A Miami lawyer solicits an Army veteran to go on a secret mission to recover $60 million stashed away in Cuba.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501101748.jpg",
+			"name": "THE CUBAN AFFAIR",
+			"publisher": "Simon & Schuster",
+			"rank": 6
+		},
+		{
+			"author": "by Stephen King and Owen King",
+			"description": "Women who fall asleep become shrouded in mysterious cocoons while the men battle one another.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501163401.jpg",
+			"name": "SLEEPING BEAUTIES",
+			"publisher": "Scribner",
+			"rank": 7
+		},
+		{
+			"author": "by Ken Follett",
+			"description": "A pair of lovers find themselves on opposite sides of a conflict while Queen Elizabeth fights to maintain her throne.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735224476.jpg",
+			"name": "A COLUMN OF FIRE",
+			"publisher": "Viking",
+			"rank": 8
+		},
+		{
+			"author": "by Harlan Coben",
+			"description": "Det. Napoleon Dumas investigates a murder and uncovers clues about personal events that happened 15 years ago.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698411661.jpg",
+			"name": "DON'T LET GO",
+			"publisher": "Dutton",
+			"rank": 9
+		},
+		{
+			"author": "by Alice Hoffman",
+			"description": "Three singular siblings in the 1960s uncover secrets as they each try to break a family curse.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501137495.jpg",
+			"name": "THE RULES OF MAGIC",
+			"publisher": "Simon & Schuster",
+			"rank": 10
+		},
+		{
+			"author": "by Bella Andre",
+			"description": "The latest book in the Sullivans series. A New York heiress falls in love with a billionaire.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781945253461.jpg",
+			"name": "YOU DO SOMETHING TO ME",
+			"publisher": "Oak Press",
+			"rank": 11
+		},
+		{
+			"author": "by Jennifer Egan",
+			"description": "The first female diver at the Brooklyn Naval Yard during World War II tries to understand why her father disappeared.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476716732.jpg",
+			"name": "MANHATTAN BEACH",
+			"publisher": "Scribner",
+			"rank": 12
+		},
+		{
+			"author": "by David Lagercrantz",
+			"description": "Stieg Larsson's character Lisbeth Salander seeks to uncover the secrets of her childhood.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780451494337.jpg",
+			"name": "THE GIRL WHO TAKES AN EYE FOR AN EYE",
+			"publisher": "Knopf",
+			"rank": 13
+		},
+		{
+			"author": "by Rupi Kaur",
+			"description": "Poetic approaches to surviving adversity and loss.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781449474256.jpg",
+			"name": "MILK AND HONEY",
+			"publisher": "Andrews McMeel",
+			"rank": 14
+		},
+		{
+			"author": "by Lisa Wingate",
+			"description": "A South Carolina lawyer learns about the questionable practices of a Tennessee orphanage.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780425284681.jpg",
+			"name": "BEFORE WE WERE YOURS",
+			"publisher": "Ballantine",
+			"rank": 15
+		}
+	]
+}

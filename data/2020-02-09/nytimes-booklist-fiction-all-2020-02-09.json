@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Jeanine Cummins",
+			"description": "A bookseller flees Mexico for the United States with her son while pursued by the head of a drug cartel.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250209764.jpg",
+			"name": "AMERICAN DIRT",
+			"publisher": "Flatiron",
+			"rank": 1
+		},
+		{
+			"author": "by Delia Owens",
+			"description": "In a quiet town on the North Carolina coast in 1969, a young woman who survived alone in the marsh becomes a murder suspect.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735219090.jpg",
+			"name": "WHERE THE CRAWDADS SING",
+			"publisher": "Putnam",
+			"rank": 2
+		},
+		{
+			"author": "by James Patterson and James O. Born",
+			"description": "The new head of an F.B.I. task force takes on a crime syndicate run by a pair of Russian nationals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316493987.jpg",
+			"name": "LOST",
+			"publisher": "Little, Brown",
+			"rank": 3
+		},
+		{
+			"author": "by Alex Michaelides",
+			"description": "Theo Faber looks into the mystery of a famous painter who stops speaking after shooting her husband.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250301697.jpg",
+			"name": "THE SILENT PATIENT",
+			"publisher": "Celadon",
+			"rank": 4
+		},
+		{
+			"author": "by John Grisham",
+			"description": "Cullen Post, a lawyer and Episcopal minister, antagonizes some ruthless killers when he takes on a wrongful conviction case.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385544184.jpg",
+			"name": "THE GUARDIANS",
+			"publisher": "Doubleday",
+			"rank": 5
+		},
+		{
+			"author": "by Celeste Ng",
+			"description": "An artist upends a quiet town outside Cleveland.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735224308.jpg",
+			"name": "LITTLE FIRES EVERYWHERE",
+			"publisher": "Penguin Press",
+			"rank": 6
+		},
+		{
+			"author": "by Ann Napolitano",
+			"description": "A 12-year-old boy tries to start over after becoming the sole survivor of a plane crash in which he lost his immediate family.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984854780.jpg",
+			"name": "DEAR EDWARD",
+			"publisher": "Dial",
+			"rank": 7
+		},
+		{
+			"author": "by Kiley Reid",
+			"description": "Tumult ensues when Alix Chamberlain\u2019s babysitter is mistakenly accused of kidnapping her charge.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525541905.jpg",
+			"name": "SUCH A FUN AGE",
+			"publisher": "Putnam",
+			"rank": 8
+		},
+		{
+			"author": "by William Gibson",
+			"description": "Ainsley Lowbeer can see alternate outcomes for Verity Jane and her digital assistant, who lived in the previous century.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101986950.jpg",
+			"name": "AGENCY",
+			"publisher": "Berkley",
+			"rank": 9
+		},
+		{
+			"author": "by Stephen King",
+			"description": "A detective investigates a seemingly wholesome member of the community when an 11-year-old boy\u2019s body is found.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501180989.jpg",
+			"name": "THE OUTSIDER",
+			"publisher": "Scribner",
+			"rank": 10
+		},
+		{
+			"author": "by Ann Patchett",
+			"description": "A sibling relationship is impacted when the family goes from poverty to wealth and back again over the course of many decades.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062963673.jpg",
+			"name": "THE DUTCH HOUSE",
+			"publisher": "Harper",
+			"rank": 11
+		},
+		{
+			"author": "by Liz Moore",
+			"description": "Mickey risks her job with the Philadelphia police force by going after a murderer and searching for her missing sister.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525540670.jpg",
+			"name": "LONG BRIGHT RIVER",
+			"publisher": "Riverhead",
+			"rank": 12
+		},
+		{
+			"author": "by Jojo Moyes",
+			"description": "In Depression-era Kentucky, five women refuse to be cowed by men or convention as they deliver books.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399562501.jpg",
+			"name": "THE GIVER OF STARS",
+			"publisher": "Pamela Dorman/Viking",
+			"rank": 13
+		},
+		{
+			"author": "by Isabel Allende",
+			"description": "A young pregnant widow and an Army doctor take a ship to Chile to escape the aftermath of the Spanish Civil War.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984820150.jpg",
+			"name": "A LONG PETAL OF THE SEA",
+			"publisher": "Ballantine",
+			"rank": 14
+		},
+		{
+			"author": "by Andrzej Sapkowski",
+			"description": "Linked stories follow the exploits of Geralt of Rivia, a monster-slaying mercenary.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316438964.jpg",
+			"name": "THE LAST WISH",
+			"publisher": "Orbit",
+			"rank": 15
+		}
+	]
+}

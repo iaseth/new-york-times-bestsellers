@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by John Sandford",
+			"description": "Letty Davenport, the adopted daughter of Lucas Davenport, looks into oil thefts in Texas.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593328682.jpg",
+			"name": "THE INVESTIGATOR",
+			"publisher": "Putnam",
+			"rank": 1
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "A battered wife raised in a violent home attempts to halt the cycle of abuse.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501110375.jpg",
+			"name": "IT ENDS WITH US",
+			"publisher": "Atria",
+			"rank": 2
+		},
+		{
+			"author": "by Delia Owens",
+			"description": "In a quiet town on the North Carolina coast in 1969, a young woman who survived alone in the marsh becomes a murder suspect.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735219090.jpg",
+			"name": "WHERE THE CRAWDADS SING",
+			"publisher": "Putnam",
+			"rank": 3
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "Lowen Ashleigh is hired by the husband of an injured writer to complete her popular series and uncovers a horrifying truth.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781791392796.jpg",
+			"name": "VERITY",
+			"publisher": "Grand Central",
+			"rank": 4
+		},
+		{
+			"author": "by Taylor Jenkins Reid",
+			"description": "A movie icon recounts stories of her loves and career to a struggling magazine writer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501161933.jpg",
+			"name": "THE SEVEN HUSBANDS OF EVELYN HUGO",
+			"publisher": "Washington Square/Atria",
+			"rank": 5
+		},
+		{
+			"author": "by Dolly Parton and James Patterson",
+			"description": "A singer-songwriter goes to Nashville seeking stardom but is followed by her dark past.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780759554344.jpg",
+			"name": "RUN, ROSE, RUN",
+			"publisher": "Little, Brown",
+			"rank": 6
+		},
+		{
+			"author": "by Anne Hillerman",
+			"description": "Chee seeks to solve a mystery that eluded Leaphorn decades ago while Manuelito gets into a life-threatening situation.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062908360.jpg",
+			"name": "THE SACRED BRIDGE",
+			"publisher": "Harper",
+			"rank": 7
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "Tate Collins and Miles Archer,\u00a0an airline pilot, think they can handle a no strings attached arrangement. But they can't.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476753195.jpg",
+			"name": "UGLY LOVE",
+			"publisher": "Atria",
+			"rank": 8
+		},
+		{
+			"author": "by Julia Quinn",
+			"description": "The second book in the Bridgerton series. Kate Sheffield gets in the way of Anthony Bridgerton's intent to marry.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062424075.jpg",
+			"name": "THE VISCOUNT WHO LOVED ME",
+			"publisher": "Avon",
+			"rank": 9
+		},
+		{
+			"author": "by Emily St. John Mandel",
+			"description": "A detective investigating in the wilderness discovers that his actions might affect the timeline of the universe.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593321447.jpg",
+			"name": "SEA OF TRANQUILITY",
+			"publisher": "Knopf",
+			"rank": 10
+		},
+		{
+			"author": "by Lisa Scottoline",
+			"description": "A brush with members of a drug-trafficking organization ushers a suburban family to go into the witness protection program.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525539674.jpg",
+			"name": "WHAT HAPPENED TO THE BENNETTS",
+			"publisher": "Putnam",
+			"rank": 11
+		},
+		{
+			"author": "by Julia Quinn",
+			"description": "The first book in the Bridgerton series. Daphne Bridgerton\u2019s reputation soars when she colludes with the Duke of Hastings. The basis of the Netflix series \u201cBridgerton.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062424037.jpg",
+			"name": "THE DUKE AND I",
+			"publisher": "Avon",
+			"rank": 12
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "Is Ben using his relationship with Fallon as fodder for his novel?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501110351.jpg",
+			"name": "NOVEMBER 9",
+			"publisher": "Atria",
+			"rank": 13
+		},
+		{
+			"author": "by Lucy Foley",
+			"description": "Jess has suspicions about her half-brother\u2019s neighbors when he goes missing.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063003057.jpg",
+			"name": "THE PARIS APARTMENT",
+			"publisher": "Morrow",
+			"rank": 14
+		},
+		{
+			"author": "by Ali Hazelwood",
+			"description": "A young professor agrees to pretend to be a third-year Ph.D. candidate\u2019s boyfriend.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593336823.jpg",
+			"name": "THE LOVE HYPOTHESIS",
+			"publisher": "Berkley",
+			"rank": 15
+		}
+	]
+}

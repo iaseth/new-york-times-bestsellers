@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Kevin Kwan",
+			"description": "A New Yorker gets a surprise when she spends the summer with her boyfriend in Singapore.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345803788.jpg",
+			"name": "CRAZY RICH ASIANS",
+			"publisher": "Anchor",
+			"rank": 1
+		},
+		{
+			"author": "by Ilona Andrews",
+			"description": "The 10th book in the Kate Daniels series. After starting a family with a former Beast Lord, Kate faces the threat of war from an ancient enemy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698136823.jpg",
+			"name": "MAGIC TRIUMPHS",
+			"publisher": "Ace",
+			"rank": 2
+		},
+		{
+			"author": "by Kevin Kwan",
+			"description": "The second book in the Crazy Rich Asians trilogy. As her wedding draws near, Rachel Chu discovers her birth father.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780804172066.jpg",
+			"name": "CHINA RICH GIRLFRIEND",
+			"publisher": "Anchor",
+			"rank": 3
+		},
+		{
+			"author": "by Gillian Flynn",
+			"description": "After a stay at a psychiatric hospital, a reporter reluctantly returns to her hometown to cover the murders of two girls.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307341556.jpg",
+			"name": "SHARP OBJECTS",
+			"publisher": "Broadway",
+			"rank": 4
+		},
+		{
+			"author": "by James Patterson and Andrew Bourelle",
+			"description": "Rory Yates's job and reputation are at risk when he is accused of killing his ex-wife.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316556682.jpg",
+			"name": "TEXAS RANGER",
+			"publisher": "Little, Brown",
+			"rank": 5
+		},
+		{
+			"author": "by Kevin Kwan",
+			"description": "The final book in the Crazy Rich Asians trilogy. Rivalries and jealousies arise among privileged families.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385542234.jpg",
+			"name": "RICH PEOPLE PROBLEMS",
+			"publisher": "Anchor",
+			"rank": 6
+		},
+		{
+			"author": "by J.R.R. Tolkien",
+			"description": "Thousands of years before the events of \u201cThe Lord of the Rings,\u201d a hero named Tuor visits a secret city. Edited by Christopher Tolkien.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781328613042.jpg",
+			"name": "THE FALL OF GONDOLIN",
+			"publisher": "Houghton Mifflin Harcourt",
+			"rank": 7
+		},
+		{
+			"author": "by Dan Brown",
+			"description": "A symbology professor goes on a perilous quest with a beautiful museum director.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385542692.jpg",
+			"name": "ORIGIN",
+			"publisher": "Doubleday",
+			"rank": 8
+		},
+		{
+			"author": "by James Patterson and Bill Clinton",
+			"description": "President Jonathan Duncan, a Gulf War veteran and widower, takes on adversaries at home and abroad.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316412698.jpg",
+			"name": "THE PRESIDENT IS MISSING",
+			"publisher": "Little, Brown and Knopf",
+			"rank": 9
+		},
+		{
+			"author": "by Tessa Dare",
+			"description": "The second book in the Girl Meets Duke series. Alexandra Mountbatten tries to tame the infamous rake Chase Reynaud.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062672131.jpg",
+			"name": "THE GOVERNESS GAME",
+			"publisher": "Avon",
+			"rank": 10
+		},
+		{
+			"author": "by Sherrilyn Kenyon",
+			"description": "The 29th book in the Dark-Hunter series. A trained slayer forms alliances with enemies.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250102706.jpg",
+			"name": "STYGIAN",
+			"publisher": "Tor",
+			"rank": 11
+		},
+		{
+			"author": "by Gail Honeyman",
+			"description": "A young woman\u2019s well-ordered life is disrupted by the I.T. guy from her office.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735220690.jpg",
+			"name": "ELEANOR OLIPHANT IS COMPLETELY FINE",
+			"publisher": "Penguin",
+			"rank": 12
+		},
+		{
+			"author": "by Kyle Mills",
+			"description": "Vince Flynn's character Mitch Rapp leaves the C.I.A. to go on a manhunt when the nephew of a Saudi King finances a terrorist group.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476783543.jpg",
+			"name": "ENEMY OF THE STATE",
+			"publisher": "Atria/Emily Bestler",
+			"rank": 13
+		},
+		{
+			"author": "by Sandra Brown",
+			"description": "A pilot navigates treacherous situations when he attempts to deliver a mysterious black box to a doctor in Georgia.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455572168.jpg",
+			"name": "TAILSPIN",
+			"publisher": "Grand Central",
+			"rank": 14
+		},
+		{
+			"author": "by Lee Child",
+			"description": "For Jack Reacher, an elite military police officer, it all started in 1997. A lonely railroad track. A crime scene. A cover-up.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780440339359.jpg",
+			"name": "THE AFFAIR",
+			"publisher": "Delacorte",
+			"rank": 15
+		}
+	]
+}

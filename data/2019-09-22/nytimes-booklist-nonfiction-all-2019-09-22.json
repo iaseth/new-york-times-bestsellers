@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Jim Mattis and Bing West",
+			"description": "The former Marine infantry officer and secretary of defense recounts key moments from his career and imparts his leadership philosophy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812996838.jpg",
+			"name": "CALL SIGN CHAOS",
+			"publisher": "Random House",
+			"rank": 1
+		},
+		{
+			"author": "by Tara Westover",
+			"description": "The daughter of survivalists, who is kept out of school, educates herself enough to leave home for university.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399590504.jpg",
+			"name": "EDUCATED",
+			"publisher": "Random House",
+			"rank": 2
+		},
+		{
+			"author": "by Michelle Obama",
+			"description": "The former first lady describes her journey from the South Side of Chicago to the White House, and how she balanced work, family and her husband\u2019s political ascent.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524763138.jpg",
+			"name": "BECOMING",
+			"publisher": "Crown",
+			"rank": 3
+		},
+		{
+			"author": "by Jeanine Pirro",
+			"description": "The Fox News host posits those she labels anti-Trump conspirators have committed possible crimes and a plot to destroy liberty.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781546085188.jpg",
+			"name": "RADICALS, RESISTANCE AND REVENGE",
+			"publisher": "Center Street",
+			"rank": 4
+		},
+		{
+			"author": "by David McCullough",
+			"description": "The Pulitzer Prize-winning historian tells the story of the settling of the Northwest Territory through five main characters.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501168680.jpg",
+			"name": "THE PIONEERS",
+			"publisher": "Simon & Schuster",
+			"rank": 5
+		},
+		{
+			"author": "by Lori Gottlieb",
+			"description": "A psychotherapist gains unexpected insights when she becomes another therapist\u2019s patient.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781328662057.jpg",
+			"name": "MAYBE YOU SHOULD TALK TO SOMEONE",
+			"publisher": "Houghton Mifflin Harcourt",
+			"rank": 6
+		},
+		{
+			"author": "by Trevor Noah",
+			"description": "A memoir about growing up biracial in apartheid South Africa by the host of \u201cThe Daily Show.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399588181.jpg",
+			"name": "BORN A CRIME",
+			"publisher": "Spiegel & Grau",
+			"rank": 7
+		},
+		{
+			"author": "by Seth Abramson",
+			"description": "The BBC and CNN political and legal analyst argues that Middle Eastern geopolitics were central to Donald Trump\u2019s election and foreign policy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250256713.jpg",
+			"name": "PROOF OF CONSPIRACY",
+			"publisher": "St. Martin's",
+			"rank": 8
+		},
+		{
+			"author": "by Mike Isaac",
+			"description": "A technology reporter for The New York Times chronicles the rise and fall of Uber, and how this serves as a corporate cautionary tale.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780393652246.jpg",
+			"name": "SUPER PUMPED",
+			"publisher": "Norton",
+			"rank": 9
+		},
+		{
+			"author": "by Yuval Noah Harari",
+			"description": "How Homo sapiens became Earth\u2019s dominant species.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062316097.jpg",
+			"name": "SAPIENS",
+			"publisher": "Harper",
+			"rank": 10
+		},
+		{
+			"author": "by Lisa Taddeo",
+			"description": "The inequality of female desire is explored through the sex lives of a homemaker, a high school student and a restaurant owner.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451642292.jpg",
+			"name": "THREE WOMEN",
+			"publisher": "Avid Reader",
+			"rank": 11
+		},
+		{
+			"author": "by Bryan Stevenson",
+			"description": "A law professor and MacArthur grant recipient\u2019s memoir of his decades of work to free innocent people condemned to death.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812994520.jpg",
+			"name": "JUST MERCY",
+			"publisher": "Spiegel & Grau",
+			"rank": 12
+		},
+		{
+			"author": "by Ibram X. Kendi",
+			"description": "A primer for creating a more just and equitable society through identifying and opposing racism.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525509288.jpg",
+			"name": "HOW TO BE AN ANTIRACIST",
+			"publisher": "One World",
+			"rank": 13
+		},
+		{
+			"author": "by Jason Chaffetz",
+			"description": "The Fox News contributor and former U.S. representative from Utah describes how he believes the Democrats are trying to maintain their grip on power.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062944429.jpg",
+			"name": "POWER GRAB",
+			"publisher": "Broadside",
+			"rank": 14
+		},
+		{
+			"author": "by Jia Tolentino",
+			"description": "Nine essays delving into late capitalism, online engagement and the author\u2019s personal history.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525510543.jpg",
+			"name": "TRICK MIRROR",
+			"publisher": "Random House",
+			"rank": 15
+		}
+	]
+}

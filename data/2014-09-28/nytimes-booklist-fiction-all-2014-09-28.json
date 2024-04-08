@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by J. D. Robb",
+			"description": "At Christmas, Lt. Eve Dallas investigates the murder of a narcissistic personal trainer; by Nora Roberts, writing pseudonymously.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399164446.jpg",
+			"name": "FESTIVE IN DEATH",
+			"publisher": "Putnam",
+			"rank": 1
+		},
+		{
+			"author": "by Lee Child",
+			"description": "Jack Reacher, a former military cop, helps the State Department and the C.I.A. stop a sniper who has targeted a G8 summit.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780804178747.jpg",
+			"name": "PERSONAL",
+			"publisher": "Delacorte",
+			"rank": 2
+		},
+		{
+			"author": "by Gillian Flynn",
+			"description": "A woman disappears on the day of her fifth anniversary; is her husband a killer?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307588388.jpg",
+			"name": "GONE GIRL",
+			"publisher": "Crown",
+			"rank": 3
+		},
+		{
+			"author": "by Kim Harrison",
+			"description": "The final book of the Hollows series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062356017.jpg",
+			"name": "THE WITCH WITH NO NAME",
+			"publisher": "Harper Voyager",
+			"rank": 4
+		},
+		{
+			"author": "by Paulo Coelho",
+			"description": "In this fable, a Spanish shepherd boy ventures to Egypt in search of treasure and his destiny. First published in 1993.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780061122415.jpg",
+			"name": "THE ALCHEMIST",
+			"publisher": "HarperCollins",
+			"rank": 5
+		},
+		{
+			"author": "by Diana Gabaldon",
+			"description": "Claire Randall, an English nurse, is transported back to 1743 during a second honeymoon in the Scottish Highlands. There she begins an affair with James Fraser, a redheaded soldier. Originally published in 1991.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780440212560.jpg",
+			"name": "OUTLANDER",
+			"publisher": "Dell",
+			"rank": 6
+		},
+		{
+			"author": "by Sandra Brown",
+			"description": "A North Carolina pediatrician is held captive by a mysterious man who forces her to question her life.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455581139.jpg",
+			"name": "MEAN STREAK",
+			"publisher": "Grand Central",
+			"rank": 7
+		},
+		{
+			"author": "by Liane Moriarty",
+			"description": "Who will end up dead, and how, when three mothers with children in the same school become friends?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698138636.jpg",
+			"name": "BIG LITTLE LIES",
+			"publisher": "Amy Einhorn/Putnam",
+			"rank": 8
+		},
+		{
+			"author": "by Jan Karon",
+			"description": "The Mitford character Father Tim Kavanagh returns to his native town to find friends and family wrestling with difficulties.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399167447.jpg",
+			"name": "SOMEWHERE SAFE WITH SOMEBODY GOOD",
+			"publisher": "Putnam",
+			"rank": 9
+		},
+		{
+			"author": "by Philippa Gregory",
+			"description": "As chief lady-in-waiting to Katherine of Aragon, Margaret Pole is torn between the queen and her husband, Henry VIII.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451626162.jpg",
+			"name": "THE KING'S CURSE",
+			"publisher": "Touchstone",
+			"rank": 10
+		},
+		{
+			"author": "by Ian McEwan",
+			"description": "A judge wrestles with a challenging case and a crisis in her marriage.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385539715.jpg",
+			"name": "THE CHILDREN ACT",
+			"publisher": "Nan A. Talese/Doubleday",
+			"rank": 11
+		},
+		{
+			"author": "by Reed Farrel Coleman",
+			"description": "Jesse Stone confronts a murder and kidnapping in Paradise, Mass.; a continuation of the series by Parker, who died in 2010.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698155626.jpg",
+			"name": "ROBERT B. PARKER'S BLIND SPOT",
+			"publisher": "Putnam",
+			"rank": 12
+		},
+		{
+			"author": "by John Grisham",
+			"description": "A sequel, about race and inheritance, to \u201cA Time to Kill.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385537926.jpg",
+			"name": "SYCAMORE ROW",
+			"publisher": "Doubleday",
+			"rank": 13
+		},
+		{
+			"author": "by Christina Baker Kline",
+			"description": "A historical novel about orphans swept off the streets of New York and sent to the Midwest in the 1920s.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062101204.jpg",
+			"name": "ORPHAN TRAIN",
+			"publisher": "Morrow/HarperCollins",
+			"rank": 14
+		},
+		{
+			"author": "by James Patterson and Michael White",
+			"description": "The world\u2019s most exclusive detective agency has opened an office in Australia, and within days Craig Gisto and his new team have their hands full with a series of grisly crimes.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455529780.jpg",
+			"name": "PRIVATE DOWN UNDER",
+			"publisher": "Grand Central",
+			"rank": 15
+		}
+	]
+}

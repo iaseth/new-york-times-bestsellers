@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Lee Child",
+			"description": "Jack Reacher is thrown into jail on trumped-up charges and must clear his name.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780440339373.jpg",
+			"name": "NEVER GO BACK",
+			"publisher": "Delacorte",
+			"rank": 1
+		},
+		{
+			"author": "by Liane Moriarty",
+			"description": "A woman\u2019s life is upended when she discovers a letter from her husband she was not meant to read.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101636237.jpg",
+			"name": "THE HUSBAND'S SECRET",
+			"publisher": "Amy Einhorn/Putnam",
+			"rank": 2
+		},
+		{
+			"author": "by Sherrilyn Kenyon",
+			"description": "Acheron and Styxx, his often-estranged brother, must learn to trust each other in this Dark-Hunter novel.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250029904.jpg",
+			"name": "STYXX",
+			"publisher": "St. Martin's",
+			"rank": 3
+		},
+		{
+			"author": "by Christine Feehan",
+			"description": "Tatijana of the Dragonseekers encounters Fenris Dalka, who has returned to the Carpathian Mountains.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780425268339.jpg",
+			"name": "DARK LYCAN",
+			"publisher": "Berkley",
+			"rank": 4
+		},
+		{
+			"author": "by Melody Anne",
+			"description": "Two years after Arianna Harlow walked away from him, Rafe Palazzo wants her back again. Volume 3 of the Surrender series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781938786853.jpg",
+			"name": "SEDUCED",
+			"publisher": "Gossamer",
+			"rank": 5
+		},
+		{
+			"author": "by Robert Galbraith",
+			"description": "A detective investigates a supermodel\u2019s suicide; by J.K. Rowling, writing pseudonymously.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316206860.jpg",
+			"name": "THE CUCKOO'S CALLING",
+			"publisher": "Mulholland/Little, Brown",
+			"rank": 6
+		},
+		{
+			"author": "by Clive Cussler and Thomas Perry",
+			"description": "Sam and Remi Fargo, a husband-and-wife treasure-hunting team, discover a Mayan codex.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399162497.jpg",
+			"name": "THE MAYAN SECRETS",
+			"publisher": "Putnam",
+			"rank": 7
+		},
+		{
+			"author": "by E. L. James",
+			"description": "An innocent college student falls in love with a tortured man with particular sexual tastes; the first of a trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345803481.jpg",
+			"name": "FIFTY SHADES OF GREY",
+			"publisher": "Vintage",
+			"rank": 8
+		},
+		{
+			"author": "by John Grisham",
+			"description": "An imprisoned ex-lawyer schemes to exchange information about who murdered a judge for his freedom.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385536882.jpg",
+			"name": "THE RACKETEER",
+			"publisher": "Doubleday",
+			"rank": 9
+		},
+		{
+			"author": "by  H.M. Ward",
+			"description": "Jonathan, the youngest Ferro brother, re-encounters Cassie Hale three years after she broke his heart. Can they make a go of it again?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780985547387.jpg",
+			"name": "STRIPPED",
+			"publisher": "Laree Bailey",
+			"rank": 10
+		},
+		{
+			"author": "by M. Leighton",
+			"description": "In the conclusion to the Bad Boys series, the privileged Marissa is drawn to the sexy man who kidnapped her in a case of mistaken identity.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101637456.jpg",
+			"name": "EVERYTHING FOR US",
+			"publisher": "Berkley",
+			"rank": 11
+		},
+		{
+			"author": "by Dan Brown",
+			"description": "The symbologist Robert Langdon, on the run in Florence, must decipher a series of codes created by a Dante-loving scientist.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400079155.jpg",
+			"name": "INFERNO",
+			"publisher": "Doubleday",
+			"rank": 12
+		},
+		{
+			"author": "by Robyn Carr",
+			"description": "In a moment of desperation, Devon McAllister takes her daughter and flees to Thunder Point, Ore., where she meets the man who could heal her wounded heart.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781460317976.jpg",
+			"name": "THE HERO",
+			"publisher": "Harlequin Mira",
+			"rank": 13
+		},
+		{
+			"author": "by Orson Scott Card",
+			"description": "Government agencies breed child geniuses and train them as soldiers. Originally published in 1985.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812550702.jpg",
+			"name": "ENDER'S GAME",
+			"publisher": "Tor/Tom Doherty",
+			"rank": 14
+		},
+		{
+			"author": "by James Patterson and David Ellis",
+			"description": "When he begins to investigate a friend\u2019s mysterious death, a man discovers she was leading a double life.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316211079.jpg",
+			"name": "MISTRESS",
+			"publisher": "Little, Brown",
+			"rank": 15
+		}
+	]
+}

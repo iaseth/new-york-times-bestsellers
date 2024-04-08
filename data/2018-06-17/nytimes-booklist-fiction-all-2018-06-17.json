@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Nora Roberts",
+			"description": "Survivors of a mass shooting outside a mall in Portland, Me., develop different coping mechanisms and face a new menace.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250161611.jpg",
+			"name": "SHELTER IN PLACE",
+			"publisher": "St. Martin's",
+			"rank": 1
+		},
+		{
+			"author": "by Stephen King",
+			"description": "A detective investigates a seemingly wholesome member of the community when an 11-year-old boy\u2019s body is found.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501180989.jpg",
+			"name": "THE OUTSIDER",
+			"publisher": "Scribner",
+			"rank": 2
+		},
+		{
+			"author": "by Christine Feehan",
+			"description": "A follow-up to \"Shadow Rider\" and \"Shadow Reaper.\"",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780451490131.jpg",
+			"name": "SHADOW KEEPER",
+			"publisher": "Berkley",
+			"rank": 3
+		},
+		{
+			"author": "by Clive Cussler and Robin Burcell",
+			"description": "Sam and Remi Fargo search for a Rolls-Royce prototype that has vanished for a second time.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735218741.jpg",
+			"name": "THE GRAY GHOST",
+			"publisher": "Putnam",
+			"rank": 4
+		},
+		{
+			"author": "by Ruth Ware",
+			"description": "A tarot card reader mistakenly receives an inheritance letter and attends the funeral of the deceased.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501156212.jpg",
+			"name": "THE DEATH OF MRS. WESTAWAY",
+			"publisher": "Gallery/Scout",
+			"rank": 5
+		},
+		{
+			"author": "by Kate Quinn",
+			"description": "A pregnant American college student and a French spy join together on a mission in London in 1947.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062654205.jpg",
+			"name": "THE ALICE NETWORK",
+			"publisher": "Morrow",
+			"rank": 6
+		},
+		{
+			"author": "by Eloisa James",
+			"description": "The second book in the Wildes of Lindow Castle series. Despite a scandal, Lord Roland Northbridge Wilde still yearns for Miss Diana Belgrave.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062692405.jpg",
+			"name": "TOO WILDE TO WED",
+			"publisher": "Avon",
+			"rank": 7
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "Amos Decker, known as the Memory Man, puts his talents toward solving a string of murders in a Rust Belt town.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538761397.jpg",
+			"name": "THE FALLEN",
+			"publisher": "Grand Central",
+			"rank": 8
+		},
+		{
+			"author": "by James Patterson and Maxine Paetro",
+			"description": "The latest installment in the Women\u2019s Murder Club series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316412261.jpg",
+			"name": "THE 17TH SUSPECT",
+			"publisher": "Little, Brown",
+			"rank": 9
+		},
+		{
+			"author": "by Karen Kingsbury",
+			"description": "A man whose mother died in the Oklahoma City bombing seeks to reconnect with a woman also affected by the tragedy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451687651.jpg",
+			"name": "TO THE MOON AND BACK",
+			"publisher": "Howard",
+			"rank": 10
+		},
+		{
+			"author": "by Kat Martin",
+			"description": "Victoria Langford and her 4-year-old daughter flee from her abusive ex-fianc\u00e9 to a Texas ranch run by a veteran who fought in Afghanistan.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781420143201.jpg",
+			"name": "BEYOND CONTROL",
+			"publisher": "Zebra",
+			"rank": 11
+		},
+		{
+			"author": "by Brad Thor",
+			"description": "The counterterrorism operative Scot Harvath is called in when a missing terrorism suspect drowns off the Italian coast.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476789408.jpg",
+			"name": "USE OF FORCE",
+			"publisher": "Atria/Emily Bestler",
+			"rank": 12
+		},
+		{
+			"author": "by Lee Child",
+			"description": "Jack Reacher tracks down the owner of a pawned West Point class ring and stumbles upon a large criminal enterprise.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399593499.jpg",
+			"name": "THE MIDNIGHT LINE",
+			"publisher": "Delacorte",
+			"rank": 13
+		},
+		{
+			"author": "by Celeste Ng",
+			"description": "An artist upends a quiet town outside Cleveland.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735224308.jpg",
+			"name": "LITTLE FIRES EVERYWHERE",
+			"publisher": "Penguin Press",
+			"rank": 14
+		},
+		{
+			"author": "by Heather Graham",
+			"description": "When Marnie Davante's co-star is murdered, the private investigator Bryan McFadden tries to protect her.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781488031458.jpg",
+			"name": "FADE TO BLACK",
+			"publisher": "MIRA",
+			"rank": 15
+		}
+	]
+}

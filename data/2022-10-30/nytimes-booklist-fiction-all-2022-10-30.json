@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by David Baldacci",
+			"description": "The seventh book in the Memory Man series. Decker works with a new partner to investigate a double homicide.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538719824.jpg",
+			"name": "LONG SHADOWS",
+			"publisher": "Grand Central",
+			"rank": 1
+		},
+		{
+			"author": "by Nelson DeMille",
+			"description": "The eighth book in the John Corey series. When a former lover offers him a job, Corey comes out of forced retirement to track a serial killer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501101786.jpg",
+			"name": "THE MAZE",
+			"publisher": "Scribner",
+			"rank": 2
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "Lowen Ashleigh is hired by the husband of an injured writer to complete her popular series and uncovers a horrifying truth.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781791392796.jpg",
+			"name": "VERITY",
+			"publisher": "Grand Central",
+			"rank": 3
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "A battered wife raised in a violent home attempts to halt the cycle of abuse.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501110375.jpg",
+			"name": "IT ENDS WITH US",
+			"publisher": "Atria",
+			"rank": 4
+		},
+		{
+			"author": "by Stephen King",
+			"description": "A high school kid inherits a shed that is a portal to another world where good and evil are at war.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781668002179.jpg",
+			"name": "FAIRY TALE",
+			"publisher": "Scribner",
+			"rank": 5
+		},
+		{
+			"author": "by Delia Owens",
+			"description": "In a quiet town on the North Carolina coast in 1969, a young woman who survived alone in the marsh becomes a murder suspect.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735219090.jpg",
+			"name": "WHERE THE CRAWDADS SING",
+			"publisher": "Putnam",
+			"rank": 6
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "Tate Collins and Miles Archer,\u00a0an airline pilot, think they can handle a no strings attached arrangement. But they can't.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476753195.jpg",
+			"name": "UGLY LOVE",
+			"publisher": "Atria",
+			"rank": 7
+		},
+		{
+			"author": "by Jodi Picoult and Jennifer Finney Boylan",
+			"description": "After returning to her hometown, Olivia McAfee\u2019s son gets accused of killing his crush.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984818386.jpg",
+			"name": "MAD HONEY",
+			"publisher": "Ballantine",
+			"rank": 8
+		},
+		{
+			"author": "by Nicholas Sparks",
+			"description": "Musicians from different backgrounds are attracted to each other and a mother flees with her son from an abusive husband.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593449554.jpg",
+			"name": "DREAMLAND",
+			"publisher": "Random House",
+			"rank": 9
+		},
+		{
+			"author": "by Danielle Steel",
+			"description": "Beginning at age 12, Iris Cooper endures a number of hardships in hopes of finding success as a singer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984821744.jpg",
+			"name": "THE HIGH NOTES",
+			"publisher": "Delacorte",
+			"rank": 10
+		},
+		{
+			"author": "by Stuart Woods",
+			"description": "The 63rd book in the Stone Barrington series. Further adventures begin when a dead man turns up on Stone\u2019s doorstep.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593540039.jpg",
+			"name": "DISTANT THUNDER",
+			"publisher": "Putnam",
+			"rank": 11
+		},
+		{
+			"author": "by Christine Feehan",
+			"description": "The 36th book in the Dark/Carpathian series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593439173.jpg",
+			"name": "DARK WHISPER",
+			"publisher": "Berkley",
+			"rank": 12
+		},
+		{
+			"author": "by John Sandford",
+			"description": "The 32nd book in the Prey series. Virgil Flowers and Lucas Davenport go after a group of vigilante killers.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593422472.jpg",
+			"name": "RIGHTEOUS PREY",
+			"publisher": "Putnam",
+			"rank": 13
+		},
+		{
+			"author": "by Taylor Jenkins Reid",
+			"description": "A movie icon recounts stories of her loves and career to a struggling magazine writer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501161933.jpg",
+			"name": "THE SEVEN HUSBANDS OF EVELYN HUGO",
+			"publisher": "Washington Square/Atria",
+			"rank": 14
+		},
+		{
+			"author": "by Celeste Ng",
+			"description": "Twelve-year-old Bird Gardner goes on a quest to find his mother, a Chinese American poet whose work he was taught to disavow.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593492543.jpg",
+			"name": "OUR MISSING HEARTS",
+			"publisher": "Penguin Press",
+			"rank": 15
+		}
+	]
+}

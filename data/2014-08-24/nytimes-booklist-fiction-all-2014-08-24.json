@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Diana Gabaldon",
+			"description": "Claire Randall, an English nurse, is transported back to 1743 during a second honeymoon in the Scottish Highlands. There she begins an affair with James Fraser, a redheaded soldier. Originally published in 1991.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780440212560.jpg",
+			"name": "OUTLANDER",
+			"publisher": "Dell",
+			"rank": 1
+		},
+		{
+			"author": "by Liane Moriarty",
+			"description": "Who will end up dead, and how, when three mothers with children in the same school become friends?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698138636.jpg",
+			"name": "BIG LITTLE LIES",
+			"publisher": "Amy Einhorn/Putnam",
+			"rank": 2
+		},
+		{
+			"author": "by Gillian Flynn",
+			"description": "A woman disappears on the day of her fifth anniversary; is her husband a killer?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307588388.jpg",
+			"name": "GONE GIRL",
+			"publisher": "Crown",
+			"rank": 3
+		},
+		{
+			"author": "by Maya Banks",
+			"description": "A married couple try to renew their marriage, but one fateful night could ruin everything. Book 3 of the Surrender trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698148185.jpg",
+			"name": "TAKING IT ALL",
+			"publisher": "Berkley",
+			"rank": 4
+		},
+		{
+			"author": "by Kresley Cole",
+			"description": "Will a scarred warrior and the beautiful sorceress with the power to heal him overcome the challenges of their warring families and the chaotic battles around them? Book 15 in the Immortals After Dark series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451649963.jpg",
+			"name": "DARK SKYE",
+			"publisher": "Gallery",
+			"rank": 5
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "Tate Collins and Miles Archer,\u00a0an airline pilot, think they can handle a no strings attached arrangement. But they can't.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476753195.jpg",
+			"name": "UGLY LOVE",
+			"publisher": "Atria",
+			"rank": 6
+		},
+		{
+			"author": "by E. L. James",
+			"description": "An innocent college student falls in love with a tortured man with particular sexual tastes; the first of a trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345803481.jpg",
+			"name": "FIFTY SHADES OF GREY",
+			"publisher": "Vintage",
+			"rank": 7
+		},
+		{
+			"author": "by Douglas Preston and Lincoln Child",
+			"description": "Gideon Crew, scientist and thief, pursues an extraordinary treasure for his mysterious employer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455525782.jpg",
+			"name": "THE LOST ISLAND",
+			"publisher": "Grand Central",
+			"rank": 8
+		},
+		{
+			"author": "by Donna Tartt",
+			"description": "A painting smuggled out of the Metropolitan Museum of Art after a bombing becomes a boy\u2019s prize, guilt and burden.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316248679.jpg",
+			"name": "THE GOLDFINCH",
+			"publisher": "Little, Brown",
+			"rank": 9
+		},
+		{
+			"author": "by Lev Grossman",
+			"description": "Quentin, an exiled magician, tries a risky heist in the final installment of a trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101633533.jpg",
+			"name": "THE MAGICIAN'S LAND",
+			"publisher": "Viking",
+			"rank": 10
+		},
+		{
+			"author": "by Daniel Silva",
+			"description": "Gabriel Allon, an art restorer and occasional spy for the Israeli secret service, must track down a famous missing painting by Caravaggio.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062320070.jpg",
+			"name": "THE HEIST",
+			"publisher": "Harper",
+			"rank": 11
+		},
+		{
+			"author": "by Terry Goodkind",
+			"description": "Book 14 of the Sword of Truth series returns to Richard Rahl, Kahlan Amnell and their world.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781429948449.jpg",
+			"name": "SEVERED SOULS",
+			"publisher": "Tor/Tom Doherty",
+			"rank": 12
+		},
+		{
+			"author": "by Nora Roberts",
+			"description": "A famous songwriter retreats to a small town and hires a sexy landscaper. When he discovers human remains on her property, everyone she knows becomes a suspect.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781460342787.jpg",
+			"name": "NIGHT MOVES",
+			"publisher": "Silhouette",
+			"rank": 13
+		},
+		{
+			"author": "by Christina Baker Kline",
+			"description": "A historical novel about orphans swept off the streets of New York and sent to the Midwest in the 1920s.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062101204.jpg",
+			"name": "ORPHAN TRAIN",
+			"publisher": "Morrow/HarperCollins",
+			"rank": 14
+		},
+		{
+			"author": "by Lee Child",
+			"description": "In this e-book short story, Jack Reacher is on a summer hike when the trail is suddenly closed and the military police show up.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780804178839.jpg",
+			"name": "NOT A DRILL",
+			"publisher": "Delacorte",
+			"rank": 15
+		}
+	]
+}

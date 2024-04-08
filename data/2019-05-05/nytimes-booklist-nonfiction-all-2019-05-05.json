@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Michelle Obama",
+			"description": "The former first lady describes her journey from the South Side of Chicago to the White House, and how she balanced work, family and her husband\u2019s political ascent.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524763138.jpg",
+			"name": "BECOMING",
+			"publisher": "Crown",
+			"rank": 1
+		},
+		{
+			"author": "by David Brooks",
+			"description": "A New York Times Op-Ed columnist espouses having an outward focus to attain a meaningful life.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812993264.jpg",
+			"name": "THE SECOND MOUNTAIN",
+			"publisher": "Random House",
+			"rank": 2
+		},
+		{
+			"author": "by Tara Westover",
+			"description": "The daughter of survivalists, who is kept out of school, educates herself enough to leave home for university.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399590504.jpg",
+			"name": "EDUCATED",
+			"publisher": "Random House",
+			"rank": 3
+		},
+		{
+			"author": "by Chelsea Handler",
+			"description": "The comedian chronicles going into therapy and becoming an advocate for change.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525511779.jpg",
+			"name": "LIFE WILL BE THE DEATH OF ME",
+			"publisher": "Spiegel & Grau",
+			"rank": 4
+		},
+		{
+			"author": "by Yuval Noah Harari",
+			"description": "How Homo sapiens became Earth\u2019s dominant species.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062316097.jpg",
+			"name": "SAPIENS",
+			"publisher": "Harper",
+			"rank": 5
+		},
+		{
+			"author": "by Pete Buttigieg",
+			"description": "A memoir by the current mayor of South Bend, Ind., and the first openly gay Democratic candidate to run for president of the United States.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781631494369.jpg",
+			"name": "SHORTEST WAY HOME",
+			"publisher": "Liveright",
+			"rank": 6
+		},
+		{
+			"author": "by Lori Gottlieb",
+			"description": "A psychotherapist gains unexpected insights when she becomes another therapist\u2019s patient.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781328662057.jpg",
+			"name": "MAYBE YOU SHOULD TALK TO SOMEONE",
+			"publisher": "Houghton Mifflin Harcourt",
+			"rank": 7
+		},
+		{
+			"author": "by Susan Page",
+			"description": "A biography of the former first lady Barbara Bush, based on interviews and her private diaries.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538713648.jpg",
+			"name": "THE MATRIARCH",
+			"publisher": "Twelve",
+			"rank": 8
+		},
+		{
+			"author": "by Ruth Reichl",
+			"description": "A memoir by the former restaurant critic of The New York Times and editor in chief of Gourmet.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400069996.jpg",
+			"name": "SAVE ME THE PLUMS",
+			"publisher": "Random House",
+			"rank": 9
+		},
+		{
+			"author": "by John Carreyrou",
+			"description": "The rise and fall of Theranos, the biotech startup that failed to deliver on its promise to make blood testing more efficient.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524731663.jpg",
+			"name": "BAD BLOOD",
+			"publisher": "Knopf",
+			"rank": 10
+		},
+		{
+			"author": "by Dave Barry",
+			"description": "The humorist tries to emulate his dog\u2019s grace in contending with old age.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501161155.jpg",
+			"name": "LESSONS FROM LUCY",
+			"publisher": "Simon & Schuster",
+			"rank": 11
+		},
+		{
+			"author": "by Trevor Noah",
+			"description": "A memoir about growing up biracial in apartheid South Africa by the host of \u201cThe Daily Show.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399588181.jpg",
+			"name": "BORN A CRIME",
+			"publisher": "Spiegel & Grau",
+			"rank": 12
+		},
+		{
+			"author": "by Ben Shapiro",
+			"description": "The conservative political commentator reflects upon what he considers most impactful to Western civilization.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062857903.jpg",
+			"name": "THE RIGHT SIDE OF HISTORY",
+			"publisher": "Broadside",
+			"rank": 13
+		},
+		{
+			"author": "by Sonia Purnell",
+			"description": "The true story of a Baltimore socialite who joined a spy organization during World War II and became essential to the French Resistance.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735225299.jpg",
+			"name": "A WOMAN OF NO IMPORTANCE",
+			"publisher": "Viking",
+			"rank": 14
+		},
+		{
+			"author": "by Bill McKibben",
+			"description": "How unchecked climate change, robotics and artificial intelligence threaten human existence.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250178268.jpg",
+			"name": "FALTER",
+			"publisher": "Holt",
+			"rank": 15
+		}
+	]
+}

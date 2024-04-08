@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Sister Souljah",
+			"description": "In a sequel to \u201cThe Coldest Winter Ever,\u201d Winter Santiaga emerges after time served and seeks revenge.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982139131.jpg",
+			"name": "LIFE AFTER DEATH",
+			"publisher": "Atria/Emily Bestler",
+			"rank": 1
+		},
+		{
+			"author": "by Stephen King",
+			"description": "An N.Y.P.D. detective asks the son of a struggling single mother to use his unnatural ability to track a killer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781789096491.jpg",
+			"name": "LATER",
+			"publisher": "Hard Case Crime",
+			"rank": 2
+		},
+		{
+			"author": "by C.J. Box",
+			"description": "The 21st book in the Joe Pickett series. The Wyoming game warden becomes a target when taking a tech baron on an elk hunting trip.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525538271.jpg",
+			"name": "DARK SKY",
+			"publisher": "Putnam",
+			"rank": 3
+		},
+		{
+			"author": "by Kristin Hannah",
+			"description": "As dust storms roll during the Great Depression, Elsa must choose between saving the family and farm or heading West.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250178602.jpg",
+			"name": "THE FOUR WINDS",
+			"publisher": "St. Martin's",
+			"rank": 4
+		},
+		{
+			"author": "by Danielle Steel",
+			"description": "A French author's extramarital relationship affects various members of his wife\u2019s family.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984821409.jpg",
+			"name": "THE AFFAIR",
+			"publisher": "Delacorte",
+			"rank": 5
+		},
+		{
+			"author": "by Kazuo Ishiguro",
+			"description": "An \u201cArtificial Friend\u201d named Klara is purchased to serve as a companion to an ailing 14-year-old girl.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593318171.jpg",
+			"name": "KLARA AND THE SUN",
+			"publisher": "Knopf",
+			"rank": 6
+		},
+		{
+			"author": "by Colson Whitehead",
+			"description": "A teenage girl heads north on the network that helped slaves escape to freedom, envisioned in this novel as a secret system of actual tracks and tunnels.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385542364.jpg",
+			"name": "THE UNDERGROUND RAILROAD",
+			"publisher": "Doubleday",
+			"rank": 7
+		},
+		{
+			"author": "by Matt Haig",
+			"description": "Nora Seed finds a library beyond the edge of the universe that contains books with multiple possibilities of the lives one could have lived.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525559474.jpg",
+			"name": "THE MIDNIGHT LIBRARY",
+			"publisher": "Viking",
+			"rank": 8
+		},
+		{
+			"author": "by Julia Quinn",
+			"description": "The first book in the Bridgerton series. Daphne Bridgerton\u2019s reputation soars when she colludes with the Duke of Hastings. The basis of the Netflix series \u201cBridgerton.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062424037.jpg",
+			"name": "THE DUKE AND I",
+			"publisher": "Avon",
+			"rank": 9
+		},
+		{
+			"author": "by Christine Feehan",
+			"description": "The 17th book in the GhostWalker series. Rubin returns to his family\u2019s homestead and Jonquille cannot control the lightning her body produces.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593333112.jpg",
+			"name": "LIGHTNING GAME",
+			"publisher": "Berkley",
+			"rank": 10
+		},
+		{
+			"author": "by Kristin Hannah",
+			"description": "A friendship between two women in the Pacific Northwest endures for more than three decades.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781429927840.jpg",
+			"name": "FIREFLY LANE",
+			"publisher": "St. Martin's Griffin",
+			"rank": 11
+		},
+		{
+			"author": "by Sarah Penner",
+			"description": "An aspiring historian in London finds a clue that might put to rest unsolved apothecary murders from 200 years ago.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780778311010.jpg",
+			"name": "THE LOST APOTHECARY",
+			"publisher": "Harlequin",
+			"rank": 12
+		},
+		{
+			"author": "by John Grisham",
+			"description": "The line between fact and fiction becomes blurred when an author of thrillers is found dead after a hurricane hits Camino Island.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385545938.jpg",
+			"name": "CAMINO WINDS",
+			"publisher": "Doubleday",
+			"rank": 13
+		},
+		{
+			"author": "by Julia Quinn",
+			"description": "The second book in the Bridgerton series. Kate Sheffield gets in the way of Anthony Bridgerton's intent to marry.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062424075.jpg",
+			"name": "THE VISCOUNT WHO LOVED ME",
+			"publisher": "Avon",
+			"rank": 14
+		},
+		{
+			"author": "by Brit Bennett",
+			"description": "The lives of twin sisters who run away from a Southern Black community at age 16 diverge as one returns and the other takes on a different racial identity but their fates intertwine.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525536291.jpg",
+			"name": "THE VANISHING HALF",
+			"publisher": "Riverhead",
+			"rank": 15
+		}
+	]
+}

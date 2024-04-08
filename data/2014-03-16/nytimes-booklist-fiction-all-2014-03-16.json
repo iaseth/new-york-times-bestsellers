@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Robyn Carr",
+			"description": "There\u2019s an obvious attraction between two newcomers to Thunder Point, Ore., but their differences may run too deep.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781460326992.jpg",
+			"name": "THE CHANCE",
+			"publisher": "Harlequin Mira",
+			"rank": 1
+		},
+		{
+			"author": "by Janet Evanovich and Lee Goldberg",
+			"description": "Nicolas Fox (a handsome con man) and Kate O\u2019Hare (an F.B.I. agent) team up to steal back a Chinese artifact taken from the Smithsonian.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345543080.jpg",
+			"name": "THE CHASE",
+			"publisher": "Bantam",
+			"rank": 2
+		},
+		{
+			"author": "by Debbie Macomber",
+			"description": "The tender story of two people daring to be more than \"just friends\"; first published in 1986.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781941824016.jpg",
+			"name": "FRIENDS \u2014 AND THEN SOME",
+			"publisher": "Debbie Macomber Books",
+			"rank": 3
+		},
+		{
+			"author": "by Kim Harrison",
+			"description": "The witch Rachel Morgan must prevent all-out supernatural war; the 12th book in the Hollows series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062300157.jpg",
+			"name": "THE UNDEAD POOL",
+			"publisher": "HarperVoyager",
+			"rank": 4
+		},
+		{
+			"author": "by Donna Tartt",
+			"description": "A painting smuggled out of the Metropolitan Museum of Art after a bombing becomes a boy\u2019s prize, guilt and burden.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316248679.jpg",
+			"name": "THE GOLDFINCH",
+			"publisher": "Little, Brown",
+			"rank": 5
+		},
+		{
+			"author": "by James Patterson and Mark Sullivan",
+			"description": "Jack Morgan and Justine Smith search for a high-powered celebrity couple who have disappeared.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316211123.jpg",
+			"name": "PRIVATE L.A.",
+			"publisher": "Little, Brown",
+			"rank": 6
+		},
+		{
+			"author": "by Abbi Glines",
+			"description": "A woman\u2019s half sister despises her, but the half sister\u2019s hunky fling feels different emotions; a Rosemary Beach novel.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476756561.jpg",
+			"name": "TAKE A CHANCE",
+			"publisher": "Atria",
+			"rank": 7
+		},
+		{
+			"author": "by J. D. Robb",
+			"description": "Lt. Eve Dallas is on the case when the demolition of a building that once sheltered troubled teenagers reveals skeletons hidden in the walls; by Nora Roberts, writing pseudonymously.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399164439.jpg",
+			"name": "CONCEALED IN DEATH",
+			"publisher": "Putnam",
+			"rank": 8
+		},
+		{
+			"author": "by Liane Moriarty",
+			"description": "A woman\u2019s life is upended when she discovers a letter from her husband she was not meant to read.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101636237.jpg",
+			"name": "THE HUSBAND'S SECRET",
+			"publisher": "Amy Einhorn/Putnam",
+			"rank": 9
+		},
+		{
+			"author": "by John Grisham",
+			"description": "A sequel, about race and inheritance, to \u201cA Time to Kill.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385537926.jpg",
+			"name": "SYCAMORE ROW",
+			"publisher": "Doubleday",
+			"rank": 10
+		},
+		{
+			"author": "by Sue Monk Kidd",
+			"description": "The relationship between a wealthy Charleston girl, Sarah Grimk\u00e9, who will grow up to become a prominent abolitionist, and the slave she is given for her 11th birthday.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780670024780.jpg",
+			"name": "THE INVENTION OF WINGS",
+			"publisher": "Viking",
+			"rank": 11
+		},
+		{
+			"author": "by H. M. Ward",
+			"description": "The Ferro Family erotic series continues.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781630350208.jpg",
+			"name": "THE ARRANGEMENT 14",
+			"publisher": "H. M. Ward Press",
+			"rank": 12
+		},
+		{
+			"author": "by Jonathan Kellerman",
+			"description": "The psychologist and police consultant Alex Delaware becomes embroiled in a child custody dispute that escalates into murder.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345548412.jpg",
+			"name": "KILLER",
+			"publisher": "Ballantine",
+			"rank": 13
+		},
+		{
+			"author": "by Christina Baker Kline",
+			"description": "A historical novel about orphans swept off the streets of New York and sent to the Midwest in the 1920s.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062101204.jpg",
+			"name": "ORPHAN TRAIN",
+			"publisher": "Morrow/HarperCollins",
+			"rank": 14
+		},
+		{
+			"author": "by Joanne Fluke",
+			"description": "The Minnesota baker Hannah Swensen accidentally hits a stranger with her cookie truck. Recipes included.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780758280398.jpg",
+			"name": "BLACKBERRY PIE MURDER",
+			"publisher": "Kensington",
+			"rank": 15
+		}
+	]
+}

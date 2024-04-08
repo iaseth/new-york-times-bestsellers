@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Sandra Brown",
+			"description": "Arden Maxwell returns home to uncover the truth about her father\u2019s involvement in a heist that went wrong 20 years ago.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538751947.jpg",
+			"name": "THICK AS THIEVES",
+			"publisher": "Grand Central",
+			"rank": 1
+		},
+		{
+			"author": "by Carl Hiaasen",
+			"description": "A dead dowager, hungry pythons and occupants of the winter White House shake up the Palm Beach charity ball season.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524733452.jpg",
+			"name": "SQUEEZE ME",
+			"publisher": "Knopf",
+			"rank": 2
+		},
+		{
+			"author": "by Brit Bennett",
+			"description": "The lives of twin sisters who run away from a Southern Black community at age 16 diverge as one returns and the other takes on a different racial identity but their fates intertwine.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525536291.jpg",
+			"name": "THE VANISHING HALF",
+			"publisher": "Riverhead",
+			"rank": 3
+		},
+		{
+			"author": "by Delia Owens",
+			"description": "In a quiet town on the North Carolina coast in 1969, a young woman who survived alone in the marsh becomes a murder suspect.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735219090.jpg",
+			"name": "WHERE THE CRAWDADS SING",
+			"publisher": "Putnam",
+			"rank": 4
+		},
+		{
+			"author": "by Ilona Andrews",
+			"description": "The latest installment in the Hidden Legacy series. Catalina Baylor overcomes heartbreak to team up with Alessandro Sagredo.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062878373.jpg",
+			"name": "EMERALD BLAZE",
+			"publisher": "Avon",
+			"rank": 5
+		},
+		{
+			"author": "by Lucy Foley",
+			"description": "A wedding between a TV star and a magazine publisher on an island off the coast of Ireland turns deadly.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062868930.jpg",
+			"name": "THE GUEST LIST",
+			"publisher": "Morrow",
+			"rank": 6
+		},
+		{
+			"author": "by Mary Balogh",
+			"description": "The seventh book in the Westcott series. Gabriel Thorne\u2019s intention to wed Lady Jessica Archer misses its mark at first.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984802408.jpg",
+			"name": "SOMEONE TO ROMANCE",
+			"publisher": "Berkley",
+			"rank": 7
+		},
+		{
+			"author": "by Danielle Steel",
+			"description": "In 1943, the 17-year-old Princess Charlotte assumes a new identity in the country and falls in love.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399179655.jpg",
+			"name": "ROYAL",
+			"publisher": "Delacorte",
+			"rank": 8
+		},
+		{
+			"author": "by Jeanine Cummins",
+			"description": "A bookseller flees Mexico for the United States with her son while pursued by the head of a drug cartel.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250209764.jpg",
+			"name": "AMERICAN DIRT",
+			"publisher": "Flatiron",
+			"rank": 9
+		},
+		{
+			"author": "by Lisa Jewell",
+			"description": "Ten years after her daughter disappears, a woman tries to get her life in order but remains haunted by unanswered questions.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501154669.jpg",
+			"name": "THEN SHE WAS GONE",
+			"publisher": "Atria",
+			"rank": 10
+		},
+		{
+			"author": "by Fern Michaels",
+			"description": "The 31st book in the Sisterhood series. A con artist is behind a scheme involving fertility clinics.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781420146066.jpg",
+			"name": "TRUTH AND JUSTICE",
+			"publisher": "Zebra",
+			"rank": 11
+		},
+		{
+			"author": "by Elin Hilderbrand",
+			"description": "A relationship that started in 1993 between Mallory Blessing and Jake McCloud comes to light while she is on her deathbed and his wife runs for president.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316420044.jpg",
+			"name": "28 SUMMERS",
+			"publisher": "Little, Brown",
+			"rank": 12
+		},
+		{
+			"author": "by Christina Baker Kline",
+			"description": "Three young women are sent to the fledgling British penal colony of Australia in the 1840s.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062356345.jpg",
+			"name": "THE EXILES",
+			"publisher": "Custom House",
+			"rank": 13
+		},
+		{
+			"author": "by James Patterson and Richard DiLallo",
+			"description": "A single mom teams up with an N.Y.P.D. detective to solve a case involving misdeeds at a university hospital.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538718872.jpg",
+			"name": "THE MIDWIFE MURDERS",
+			"publisher": "Grand Central",
+			"rank": 14
+		},
+		{
+			"author": "by Celeste Ng",
+			"description": "An artist upends a quiet town outside Cleveland.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735224308.jpg",
+			"name": "LITTLE FIRES EVERYWHERE",
+			"publisher": "Penguin Press",
+			"rank": 15
+		}
+	]
+}

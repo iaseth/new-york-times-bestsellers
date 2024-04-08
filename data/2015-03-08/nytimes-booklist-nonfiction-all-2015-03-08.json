@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Chris Kyle with Scott McEwen and Jim DeFelice",
+			"description": "A former member of the Navy SEALs discusses his battlefield experiences during the Iraq war. Kyle was shot to death in Texas in 2013.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062082374.jpg",
+			"name": "AMERICAN SNIPER",
+			"publisher": "Morrow/HarperCollins",
+			"rank": 1
+		},
+		{
+			"author": "by Laura Hillenbrand",
+			"description": "An Olympic runner\u2019s story of survival as a prisoner of the Japanese in World War II; now a movie.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400064168.jpg",
+			"name": "UNBROKEN",
+			"publisher": "Random House",
+			"rank": 2
+		},
+		{
+			"author": "by Cheryl Strayed",
+			"description": "A woman\u2019s account of a life-changing 1,100-mile hike along the Pacific Crest Trail during the summer of 1995; now a movie.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307476074.jpg",
+			"name": "WILD",
+			"publisher": "Knopf",
+			"rank": 3
+		},
+		{
+			"author": "by Daniel James Brown",
+			"description": "The University of Washington\u2019s eight-oar crew and their quest for gold at the 1936 Berlin Olympics.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101622742.jpg",
+			"name": "THE BOYS IN THE BOAT",
+			"publisher": "Viking",
+			"rank": 4
+		},
+		{
+			"author": "by Atul Gawande",
+			"description": "The surgeon and New Yorker writer considers how doctors fail patients at the end of life, and how they can do better.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780805095159.jpg",
+			"name": "BEING MORTAL",
+			"publisher": "Metropolitan/Holt",
+			"rank": 5
+		},
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "The host of \u201cThe O\u2019Reilly Factor\u201d recounts the strange death of Gen. George S. Patton in December 1945.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780805096699.jpg",
+			"name": "KILLING PATTON",
+			"publisher": "Holt",
+			"rank": 6
+		},
+		{
+			"author": "by Erik Larson",
+			"description": "Intertwined stories of early-20th-century murder and scientific intrigue, by the author of \"The Devil in the White City\"; first published in 2006.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307351920.jpg",
+			"name": "THUNDERSTRUCK",
+			"publisher": "Broadway",
+			"rank": 7
+		},
+		{
+			"author": "by David Axelrod",
+			"description": "A memoir by the political consultant who became Barack Obama\u2019s campaign strategist and White House adviser.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698145665.jpg",
+			"name": "BELIEVER",
+			"publisher": "Penguin Press",
+			"rank": 8
+		},
+		{
+			"author": "by Amy Poehler",
+			"description": "A humorous miscellany from the comedian and actress.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062268341.jpg",
+			"name": "YES PLEASE",
+			"publisher": "Dey Street/Morrow",
+			"rank": 9
+		},
+		{
+			"author": "by Tom Reiss",
+			"description": "A biography of the first Alexandre Dumas, a mixed-race general of the French Revolution.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307952950.jpg",
+			"name": "THE BLACK COUNT",
+			"publisher": "Crown",
+			"rank": 10
+		},
+		{
+			"author": "Martin Pistorius with Megan Lloyd Davies",
+			"description": "A South African man learned how to communicate and live a full life despite a mysterious disease that left him mute and in a wheelchair; originally published in 2011.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400205844.jpg",
+			"name": "GHOST BOY",
+			"publisher": "Thomas Nelson",
+			"rank": 11
+		},
+		{
+			"author": "by J. B. West with Mary Lynn Kotz",
+			"description": "Reminiscences by a former White House major-domo. First published in 1974.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781480449794.jpg",
+			"name": "UPSTAIRS AT THE WHITE HOUSE",
+			"publisher": "Open Road",
+			"rank": 12
+		},
+		{
+			"author": "by Marcus Luttrell with Patrick Robinson",
+			"description": "The only survivor of a Navy SEALs operation in Afghanistan describes the battle and his escape.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316067607.jpg",
+			"name": "LONE SURVIVOR",
+			"publisher": "Little, Brown",
+			"rank": 13
+		},
+		{
+			"author": "by Alexandra Fuller",
+			"description": "A memoir of a marriage\u2019s collapse, by the author of \u201cDon\u2019t Let\u2019s Go to the Dogs Tonight.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698145610.jpg",
+			"name": "LEAVING BEFORE THE RAINS COME",
+			"publisher": "Penguin Press",
+			"rank": 14
+		},
+		{
+			"author": "by Laurence Leamer",
+			"description": "The first volume of a multigenerational history.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062039880.jpg",
+			"name": "THE KENNEDY MEN, 1901-1963",
+			"publisher": "HarperCollins",
+			"rank": 15
+		}
+	]
+}

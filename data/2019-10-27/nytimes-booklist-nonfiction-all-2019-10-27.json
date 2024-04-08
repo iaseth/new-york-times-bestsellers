@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Rachel Maddow",
+			"description": "The MSNBC host argues that the global oil and gas industry has weakened democracies and bolstered authoritarians.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525575474.jpg",
+			"name": "BLOWOUT",
+			"publisher": "Crown",
+			"rank": 1
+		},
+		{
+			"author": "by Malcolm Gladwell",
+			"description": "Famous examples of miscommunication serve as the backdrop to explain potential conflicts and misunderstandings.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316478526.jpg",
+			"name": "TALKING TO STRANGERS",
+			"publisher": "Little, Brown",
+			"rank": 2
+		},
+		{
+			"author": "by Gregg Jarrett",
+			"description": "The Fox News commentator offers his analysis of the Mueller Report.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062960092.jpg",
+			"name": "WITCH HUNT",
+			"publisher": "Broadside",
+			"rank": 3
+		},
+		{
+			"author": "by Bill O'Reilly",
+			"description": "The conservative commentator weaves interviews and personal history to portray the power and influence of the 45th president.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250237224.jpg",
+			"name": "THE UNITED STATES OF TRUMP",
+			"publisher": "Holt",
+			"rank": 4
+		},
+		{
+			"author": "by Tara Westover",
+			"description": "The daughter of survivalists, who is kept out of school, educates herself enough to leave home for university.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399590504.jpg",
+			"name": "EDUCATED",
+			"publisher": "Random House",
+			"rank": 5
+		},
+		{
+			"author": "by Susan Rice",
+			"description": "The former national security adviser and U.S. ambassador to the United Nations gives an insider's perspective on some of the country's most pivotal moments of the 21st century.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501189975.jpg",
+			"name": "TOUGH LOVE",
+			"publisher": "Simon & Schuster",
+			"rank": 6
+		},
+		{
+			"author": "by Demi Moore",
+			"description": "The Hollywood star chronicles the rocky relationships, body image issues and public perceptions that affected her attempts to balance family and fame.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062049537.jpg",
+			"name": "INSIDE OUT",
+			"publisher": "Harper",
+			"rank": 7
+		},
+		{
+			"author": "by Hillary Rodham Clinton and Chelsea Clinton",
+			"description": "Profiles of women from around the world who have blazed trails and challenged the status quo.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501178412.jpg",
+			"name": "THE BOOK OF GUTSY WOMEN",
+			"publisher": "Simon & Schuster",
+			"rank": 8
+		},
+		{
+			"author": "by James B. Stewart",
+			"description": "The New York Times columnist gives a deconstruction of the various accounts of what happened leading up to the 2016 presidential election.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525559108.jpg",
+			"name": "DEEP STATE",
+			"publisher": "Penguin Press",
+			"rank": 9
+		},
+		{
+			"author": "by Timothy Snyder",
+			"description": "Twenty lessons from the 20th century about the course of tyranny.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780804190114.jpg",
+			"name": "ON TYRANNY",
+			"publisher": "Tim Duggan",
+			"rank": 10
+		},
+		{
+			"author": "by Neil deGrasse Tyson",
+			"description": "In a hand-picked collection of 101 letters, the celebrity astrophysicist answers a vast array of questions from science to faith and Pluto.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781324003311.jpg",
+			"name": "LETTERS FROM AN ASTROPHYSICIST",
+			"publisher": "Norton",
+			"rank": 11
+		},
+		{
+			"author": "by Jim Mattis and Bing West",
+			"description": "The former Marine infantry officer and secretary of defense recounts key moments from his career and imparts his leadership philosophy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812996838.jpg",
+			"name": "CALL SIGN CHAOS",
+			"publisher": "Random House",
+			"rank": 12
+		},
+		{
+			"author": "by Michelle Obama",
+			"description": "The former first lady describes her journey from the South Side of Chicago to the White House, and how she balanced work, family and her husband\u2019s political ascent.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524763138.jpg",
+			"name": "BECOMING",
+			"publisher": "Crown",
+			"rank": 13
+		},
+		{
+			"author": "by Chanel Miller",
+			"description": "A sexual assault victim reclaims her identity and challenges our culture and criminal justice system as they relate to this issue.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735223707.jpg",
+			"name": "KNOW MY NAME",
+			"publisher": "Viking",
+			"rank": 14
+		},
+		{
+			"author": "by Jonathan Van Ness",
+			"description": "How the hairstylist, comedian and \"Queer Eye\" star overcame ridicule and trauma.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062906373.jpg",
+			"name": "OVER THE TOP",
+			"publisher": "HarperOne",
+			"rank": 15
+		}
+	]
+}

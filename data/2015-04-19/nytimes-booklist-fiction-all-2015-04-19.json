@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Paula Hawkins",
+			"description": "A psychological thriller set in London is full of complications and betrayals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594633669.jpg",
+			"name": "THE GIRL ON THE TRAIN",
+			"publisher": "Riverhead",
+			"rank": 1
+		},
+		{
+			"author": "by J. R. Ward",
+			"description": "Book 13 of the Black Dagger Brotherhood series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780451417077.jpg",
+			"name": "THE SHADOWS",
+			"publisher": "New American Library",
+			"rank": 2
+		},
+		{
+			"author": "by Harlan Coben",
+			"description": "Characters\u2019 lives begin to fall apart as a mysterious stranger discloses secrets to them; a stand-alone thriller.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525953500.jpg",
+			"name": "THE STRANGER",
+			"publisher": "Dutton",
+			"rank": 3
+		},
+		{
+			"author": "by Steve Berry",
+			"description": "The former government operative Cotton Malone searches for a North Korean who may have acquired Treasury files.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781466862609.jpg",
+			"name": "THE PATRIOT THREAT",
+			"publisher": "Minotaur",
+			"rank": 4
+		},
+		{
+			"author": "by Kylie Scott",
+			"description": "A night in Las Vegas leaves Lizzy pregnant and preoccupied with the bassist she spent it with.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781466854222.jpg",
+			"name": "DEEP",
+			"publisher": "St. Martin's Griffin",
+			"rank": 5
+		},
+		{
+			"author": "by Nicholas Sparks",
+			"description": "The lives of two couples converge unexpectedly.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455520640.jpg",
+			"name": "THE LONGEST RIDE",
+			"publisher": "Grand Central",
+			"rank": 6
+		},
+		{
+			"author": "by Anthony Doerr",
+			"description": "The lives of a blind French girl and a gadget-obsessed German boy before and during World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476746586.jpg",
+			"name": "ALL THE LIGHT WE CANNOT SEE",
+			"publisher": "Scribner",
+			"rank": 7
+		},
+		{
+			"author": "by James Patterson and Marshall Karp",
+			"description": "Investigating the disappearance of a billionaire\u2019s son, Detective Zach Jordan and his partner (and ex-girlfriend) find themselves in the midst of a conspiracy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316406994.jpg",
+			"name": "NYPD RED 3",
+			"publisher": "Little, Brown",
+			"rank": 8
+		},
+		{
+			"author": "by Sara Gruen",
+			"description": "A socialite travels to the Scottish Highlands with her husband and his friend, who are searching for the Loch Ness monster; there she uncovers secrets about her husband and family.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385523233.jpg",
+			"name": "AT THE WATER'S EDGE",
+			"publisher": "Spiegel & Grau",
+			"rank": 9
+		},
+		{
+			"author": "by Kristin Hannah",
+			"description": "Two sisters are separated in World War II France: one struggling to survive in the countryside, the other joining the Resistance in Paris.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781466850606.jpg",
+			"name": "THE NIGHTINGALE",
+			"publisher": "St. Martin's",
+			"rank": 10
+		},
+		{
+			"author": "by Eloisa James",
+			"description": "Vander withholds his affection from his wife until he realizes he wants it otherwise.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062223920.jpg",
+			"name": "FOUR NIGHTS WITH THE DUKE",
+			"publisher": "Avon",
+			"rank": 11
+		},
+		{
+			"author": "by Liane Moriarty",
+			"description": "A woman\u2019s life is upended when she discovers a letter from her husband she was not yet meant to read.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101636237.jpg",
+			"name": "THE HUSBAND'S SECRET",
+			"publisher": "Amy Einhorn/Putnam",
+			"rank": 12
+		},
+		{
+			"author": "by Peter V. Brett",
+			"description": "Book 4 of the Demon Cycle.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345531483.jpg",
+			"name": "THE SKULL THRONE",
+			"publisher": "Del Rey",
+			"rank": 13
+		},
+		{
+			"author": "by Anne Tyler",
+			"description": "Four generations of a family are drawn to a house in the Baltimore suburbs.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101874288.jpg",
+			"name": "A SPOOL OF BLUE THREAD",
+			"publisher": "Knopf",
+			"rank": 14
+		},
+		{
+			"author": "by Diana Gabaldon",
+			"description": "Claire Randall, an English nurse, is transported back to 1743 during a second honeymoon in the Scottish Highlands. There she begins an affair with James Fraser, a redheaded soldier. Originally published in 1991.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780440212560.jpg",
+			"name": "OUTLANDER",
+			"publisher": "Dell",
+			"rank": 15
+		}
+	]
+}

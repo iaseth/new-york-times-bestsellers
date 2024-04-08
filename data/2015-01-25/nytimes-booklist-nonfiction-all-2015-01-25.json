@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Laura Hillenbrand",
+			"description": "An Olympic runner\u2019s story of survival as a prisoner of the Japanese in World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400064168.jpg",
+			"name": "UNBROKEN",
+			"publisher": "Random House",
+			"rank": 1
+		},
+		{
+			"author": "by Chris Kyle with Scott McEwen and Jim DeFelice",
+			"description": "A former member of the Navy SEALs discusses his battlefield experiences during the Iraq war. Kyle was shot to death in Texas in 2013.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062082374.jpg",
+			"name": "AMERICAN SNIPER",
+			"publisher": "Morrow/HarperCollins",
+			"rank": 2
+		},
+		{
+			"author": "by Cheryl Strayed",
+			"description": "A woman\u2019s account of a life-changing 1,100-mile hike along the Pacific Crest Trail during the summer of 1995.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307476074.jpg",
+			"name": "WILD",
+			"publisher": "Knopf",
+			"rank": 3
+		},
+		{
+			"author": "by Daniel James Brown",
+			"description": "The University of Washington\u2019s eight-oar crew and their quest for gold at the 1936 Berlin Olympics.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101622742.jpg",
+			"name": "THE BOYS IN THE BOAT",
+			"publisher": "Viking",
+			"rank": 4
+		},
+		{
+			"author": "by Rebecca Skloot",
+			"description": "The story of a woman whose cancer cells were cultured without her permission in 1951.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400052189.jpg",
+			"name": "THE IMMORTAL LIFE OF HENRIETTA LACKS",
+			"publisher": "Broadway",
+			"rank": 5
+		},
+		{
+			"author": "by Amy Poehler",
+			"description": "A humorous miscellany from the comedian and actress, the \u201cSaturday Night Live\u201d alumna and star of \u201cParks and Recreation.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062268341.jpg",
+			"name": "YES PLEASE",
+			"publisher": "Dey Street/Morrow",
+			"rank": 6
+		},
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "The host of \u201cThe O\u2019Reilly Factor\u201d recounts the strange death of Gen. George S. Patton in December 1945.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780805096699.jpg",
+			"name": "KILLING PATTON",
+			"publisher": "Holt",
+			"rank": 7
+		},
+		{
+			"author": "by Atul Gawande",
+			"description": "The surgeon and New Yorker writer considers how doctors fail patients at the end of life, and how they can do better.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780805095159.jpg",
+			"name": "BEING MORTAL",
+			"publisher": "Metropolitan/Holt",
+			"rank": 8
+		},
+		{
+			"author": "by Andie Mitchell",
+			"description": "A memoir about the author\u2019s long struggle with, and eventual victory over, obesity.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780770433260.jpg",
+			"name": "IT WAS ME ALL ALONG",
+			"publisher": "Clarkson Potter",
+			"rank": 9
+		},
+		{
+			"author": "by Steven Brill",
+			"description": "The issues in American health care and health care reform and recent developments including the drafting and implementation of the Affordable Care Act, by the journalist, editor and lawyer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812996968.jpg",
+			"name": "AMERICA'S BITTER PILL",
+			"publisher": "Random House",
+			"rank": 10
+		},
+		{
+			"author": "by Dan Harris",
+			"description": "A co-anchor of \"Nightline\" reports on the science and spiritual dimensions of meditation and how it has improved his life.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062265425.jpg",
+			"name": "10% HAPPIER",
+			"publisher": "It Books",
+			"rank": 11
+		},
+		{
+			"author": "by John Bailey",
+			"description": "The story of an enigmatic woman\u2019s fight for freedom in 19th-century New Orleans; first published in 2003.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780802199782.jpg",
+			"name": "THE LOST GERMAN SLAVE GIRL",
+			"publisher": "Grove",
+			"rank": 12
+		},
+		{
+			"author": "by Lena Dunham",
+			"description": "A collection of revealing and often humorous personal essays from the creator and star of \u201cGirls.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812995008.jpg",
+			"name": "NOT THAT KIND OF GIRL",
+			"publisher": "Random House",
+			"rank": 13
+		},
+		{
+			"author": "by Moises Naim",
+			"description": "From board rooms to battlefields, why being in charge isn\u2019t what it used to be.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780465065684.jpg",
+			"name": "THE END OF POWER",
+			"publisher": "Basic Books",
+			"rank": 14
+		},
+		{
+			"author": "by Randall Munroe",
+			"description": "Scientific (but often funny) answers to hypothetical questions, based in part on the author\u2019s website, xkcd.com.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780544272644.jpg",
+			"name": "WHAT IF?",
+			"publisher": "Houghton Mifflin Harcourt",
+			"rank": 15
+		}
+	]
+}

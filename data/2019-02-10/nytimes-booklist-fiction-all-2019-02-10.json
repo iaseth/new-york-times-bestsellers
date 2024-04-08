@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Delia Owens",
+			"description": "In a quiet town on the North Carolina coast in 1969, a young woman who survived alone in the marsh becomes a murder suspect.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735219090.jpg",
+			"name": "WHERE THE CRAWDADS SING",
+			"publisher": "Putnam",
+			"rank": 1
+		},
+		{
+			"author": "by James Rollins",
+			"description": "Monk Kokkalis and Commander Gray Pierce use arcane clues in hopes of preventing a potential apocalypse.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062381781.jpg",
+			"name": "CRUCIBLE",
+			"publisher": "Morrow",
+			"rank": 2
+		},
+		{
+			"author": "by Heather Morris",
+			"description": "A concentration camp detainee tasked with permanently marking fellow prisoners falls in love with one of them.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062797155.jpg",
+			"name": "THE TATTOOIST OF AUSCHWITZ",
+			"publisher": "Harper",
+			"rank": 3
+		},
+		{
+			"author": "by Jill Shalvis",
+			"description": "The seventh book in the Heartbreaker Bay series. A tattoo artist and a mogul are forced to face their undeniable chemistry.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062741868.jpg",
+			"name": "PLAYING FOR KEEPS",
+			"publisher": "Avon",
+			"rank": 4
+		},
+		{
+			"author": "by Greer Hendricks and Sarah Pekkanen",
+			"description": "Jessica Farris\u2019s life unravels when she signs up for Dr. Shields\u2019s psychology study.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250133731.jpg",
+			"name": "AN ANONYMOUS GIRL",
+			"publisher": "St. Martin's",
+			"rank": 5
+		},
+		{
+			"author": "by John Grisham",
+			"description": "A decorated World War II veteran shoots and kills a pastor inside a Mississippi church.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385544160.jpg",
+			"name": "THE RECKONING",
+			"publisher": "Doubleday",
+			"rank": 6
+		},
+		{
+			"author": "by Alan Bradley",
+			"description": "Flavia de Luce, a 12-year-old detective, is on the case when a human finger ends up in her sister\u2019s wedding cake.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345540041.jpg",
+			"name": "THE GOLDEN TRESSES OF THE DEAD",
+			"publisher": "Delacorte",
+			"rank": 7
+		},
+		{
+			"author": "by John Lescroart",
+			"description": "Dismas Hardy must solve a mystery involving his secretary, who is arrested for abetting a murder.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501115752.jpg",
+			"name": "THE RULE OF LAW",
+			"publisher": "Atria",
+			"rank": 8
+		},
+		{
+			"author": "by Ken Follett",
+			"description": "The fate of a German aristocrat and spy known as the Needle relies on the loyalty of an Englishwoman.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101990247.jpg",
+			"name": "EYE OF THE NEEDLE",
+			"publisher": "Penguin",
+			"rank": 9
+		},
+		{
+			"author": "by Vi Keeland",
+			"description": "Love and hate bring a potential office romance to a boil.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781942215943.jpg",
+			"name": "WE SHOULDN'T",
+			"publisher": "Vi Keeland",
+			"rank": 10
+		},
+		{
+			"author": "by James Patterson and Candice Fox",
+			"description": "Detective Harriet Blue has become a dangerous fugitive from the law as she pursues the murderer Regan Banks.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316418256.jpg",
+			"name": "LIAR LIAR",
+			"publisher": "Little, Brown",
+			"rank": 11
+		},
+		{
+			"author": "by Danielle Steel",
+			"description": "Four American trauma doctors face difficult choices when they join a mass-casualty training program in Paris.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399179365.jpg",
+			"name": "TURNING POINT",
+			"publisher": "Delacorte",
+			"rank": 12
+		},
+		{
+			"author": "by Gail Honeyman",
+			"description": "A young woman\u2019s well-ordered life is disrupted by the I.T. guy from her office.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735220690.jpg",
+			"name": "ELEANOR OLIPHANT IS COMPLETELY FINE",
+			"publisher": "Penguin",
+			"rank": 13
+		},
+		{
+			"author": "by Tayari Jones",
+			"description": "A newlywed couple's relationship is tested when the husband is sentenced to 12 years in prison.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781616207601.jpg",
+			"name": "AN AMERICAN MARRIAGE",
+			"publisher": "Algonquin",
+			"rank": 14
+		},
+		{
+			"author": "by Deborah Harkness",
+			"description": "The recovery of a lost ancient manuscript in a library at Oxford sets a fantastical underworld stirring.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101475690.jpg",
+			"name": "A DISCOVERY OF WITCHES",
+			"publisher": "Penguin Group",
+			"rank": 15
+		}
+	]
+}

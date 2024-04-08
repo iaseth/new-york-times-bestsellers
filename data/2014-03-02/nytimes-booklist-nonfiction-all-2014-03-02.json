@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Robert M. Edsel with Bret Witter",
+			"description": "The fight to preserve art works stolen by the Nazis during World War II. The basis for the movie.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316240055.jpg",
+			"name": "THE MONUMENTS MEN",
+			"publisher": "Center Street",
+			"rank": 1
+		},
+		{
+			"author": "by Marcus Luttrell with Patrick Robinson",
+			"description": "The only survivor of a Navy SEALs operation in northern Afghanistan describes the battle and his escape. First published in 2007; the basis for the movie.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316067607.jpg",
+			"name": "LONE SURVIVOR",
+			"publisher": "Little, Brown",
+			"rank": 2
+		},
+		{
+			"author": "by Robert M. Gates",
+			"description": "The former defense secretary recounts his experience serving Presidents Bush and Obama during the wars in Iraq and Afghanistan.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307959485.jpg",
+			"name": "DUTY",
+			"publisher": "Knopf",
+			"rank": 3
+		},
+		{
+			"author": "by Solomon Northup",
+			"description": "The narrative, first published in 1853, of a freeman who was kidnapped and sold into slavery, and spent 12 years in bondage before escaping; the basis of the recently released movie.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781443433099.jpg",
+			"name": "TWELVE YEARS A SLAVE",
+			"publisher": "Various publishers",
+			"rank": 4
+		},
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "The host of \"The O'Reilly Factor\" recounts the events leading up to Jesus' execution.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780805098549.jpg",
+			"name": "KILLING JESUS",
+			"publisher": "Holt",
+			"rank": 5
+		},
+		{
+			"author": "by Elizabeth Kolbert",
+			"description": "The New Yorker writer examines the role of man-made influences in causing plant and animal loss.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780805099799.jpg",
+			"name": "THE SIXTH EXTINCTION",
+			"publisher": "Holt",
+			"rank": 6
+		},
+		{
+			"author": "by Charles Krauthammer",
+			"description": "Three decades\u2019 worth of essays from the conservative columnist.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385349178.jpg",
+			"name": "THINGS THAT MATTER",
+			"publisher": "Crown Forum",
+			"rank": 7
+		},
+		{
+			"author": "by Malcolm Gladwell",
+			"description": "How disadvantages can work in our favor; from the author of \"The Tipping Point\" and \"Outliers.\"",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316204361.jpg",
+			"name": "DAVID AND GOLIATH",
+			"publisher": "Little, Brown",
+			"rank": 8
+		},
+		{
+			"author": "by Cheryl Strayed",
+			"description": "A woman\u2019s account of a life-changing 1,100-mile hike along the Pacific Crest Trail during the summer of 1995.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307476074.jpg",
+			"name": "WILD",
+			"publisher": "Knopf",
+			"rank": 9
+		},
+		{
+			"author": "by Brandi Glanville with Leslie Bruce",
+			"description": "Observations on hooking up, from the \u201cReal Housewives of Beverly Hills\u201d star.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062297174.jpg",
+			"name": "DRINKING AND DATING",
+			"publisher": "HarperOne/HarperCollins",
+			"rank": 10
+		},
+		{
+			"author": "by Laura Hillenbrand",
+			"description": "An Olympic runner\u2019s story of survival as a prisoner of the Japanese in World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400064168.jpg",
+			"name": "UNBROKEN",
+			"publisher": "Random House",
+			"rank": 11
+		},
+		{
+			"author": "by Jonathan Allen and Amie Parnes",
+			"description": "An account of Hillary Clinton\u2019s years in the State Department.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780804136761.jpg",
+			"name": "HRC",
+			"publisher": "Crown",
+			"rank": 12
+		},
+		{
+			"author": "by Sheryl Sandberg with Nell Scovell",
+			"description": "The chief operating officer of Facebook urges women to pursue their careers without ambivalence.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385349956.jpg",
+			"name": "LEAN IN",
+			"publisher": "Knopf",
+			"rank": 13
+		},
+		{
+			"author": "by Brian Kilmeade and Don Yaeger",
+			"description": "The story of the Culper spy ring, which aided the American cause during the Revolution.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698137653.jpg",
+			"name": "GEORGE WASHINGTON'S SECRET SIX",
+			"publisher": "Sentinel",
+			"rank": 14
+		},
+		{
+			"author": "by Todd Burpo with Lynn Vincent",
+			"description": "A father recounts his 3-year-old son\u2019s encounter with Jesus during an appendectomy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780849949203.jpg",
+			"name": "HEAVEN IS FOR REAL",
+			"publisher": "Thomas Nelson",
+			"rank": 15
+		}
+	]
+}

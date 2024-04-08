@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Anthony Bourdain",
+			"description": "A memoir-expos\u00e9 of the restaurant world. Originally published in 2000.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781596917248.jpg",
+			"name": "KITCHEN CONFIDENTIAL",
+			"publisher": "Ecco",
+			"rank": 1
+		},
+		{
+			"author": "by David Sedaris",
+			"description": "A collection of comedic stories on mortality, middle age and a beach house dubbed the Sea Section.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316392389.jpg",
+			"name": "CALYPSO",
+			"publisher": "Little, Brown",
+			"rank": 2
+		},
+		{
+			"author": "by Newt Gingrich",
+			"description": "The former speaker of the House\u2019s views on the achievements of and obstacles facing the current administration.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781546077060.jpg",
+			"name": "TRUMP'S AMERICA",
+			"publisher": "Center Street",
+			"rank": 3
+		},
+		{
+			"author": "by Anthony Ray Hinton with Lara Love Hardin",
+			"description": "A wrongfully imprisoned man on death row becomes a beacon to his fellow inmates.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250205797.jpg",
+			"name": "THE SUN DOES SHINE",
+			"publisher": "St. Martin's",
+			"rank": 4
+		},
+		{
+			"author": "by Ben Rhodes",
+			"description": "A memoir by the former speechwriter and deputy national security advisor to President Obama.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525509356.jpg",
+			"name": "THE WORLD AS IT IS",
+			"publisher": "Random House",
+			"rank": 5
+		},
+		{
+			"author": "by Michael Pollan",
+			"description": "A personal account of how psychedelics might help the mentally ill and people dealing with everyday challenges.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594204227.jpg",
+			"name": "HOW TO CHANGE YOUR MIND",
+			"publisher": "Penguin Press",
+			"rank": 6
+		},
+		{
+			"author": "by Hans Rosling with Ola Rosling and Anna Rosling Ronnlund",
+			"description": "A look at our biases and the argument for why the world is in a better state than we might think.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250123817.jpg",
+			"name": "FACTFULNESS",
+			"publisher": "Flatiron",
+			"rank": 7
+		},
+		{
+			"author": "by Jon Meacham",
+			"description": "The present political climate is contextualized through the lens of difficult moments in American history.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399589812.jpg",
+			"name": "THE SOUL OF AMERICA",
+			"publisher": "Random House",
+			"rank": 8
+		},
+		{
+			"author": "by Dan Abrams and David Fisher",
+			"description": "The 1859 courtroom battle in which Abraham Lincoln defended the murderer of his prot\u00e9g\u00e9.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781335424693.jpg",
+			"name": "LINCOLN'S LAST TRIAL",
+			"publisher": "Hanover Square",
+			"rank": 9
+		},
+		{
+			"author": "by David Grann",
+			"description": "The story of a murder spree in 1920s Oklahoma that targeted Osage Indians, whose lands contained oil.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385534246.jpg",
+			"name": "KILLERS OF THE FLOWER MOON",
+			"publisher": "Doubleday",
+			"rank": 10
+		},
+		{
+			"author": "by Tara Westover",
+			"description": "The daughter of survivalists, who is kept out of school, educates herself enough to leave home for university.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399590504.jpg",
+			"name": "EDUCATED",
+			"publisher": "Random House",
+			"rank": 11
+		},
+		{
+			"author": "by Yuval Noah Harari",
+			"description": "How Homo sapiens became Earth\u2019s dominant species.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062316097.jpg",
+			"name": "SAPIENS",
+			"publisher": "Harper",
+			"rank": 12
+		},
+		{
+			"author": "by John McCain and Mark Salter",
+			"description": "A memoir by the Republican senator from Arizona.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501178009.jpg",
+			"name": "THE RESTLESS WAVE",
+			"publisher": "Simon & Schuster",
+			"rank": 13
+		},
+		{
+			"author": "by J.D. Vance",
+			"description": "A Yale Law School graduate looks at the struggles of the white working class through the story of his own childhood.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062300560.jpg",
+			"name": "HILLBILLY ELEGY",
+			"publisher": "HarperCollins",
+			"rank": 14
+		},
+		{
+			"author": "by John Carreyrou",
+			"description": "The rise and fall of Theranos, the biotech startup that failed to deliver on its promise to make blood testing more efficient.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524731663.jpg",
+			"name": "BAD BLOOD",
+			"publisher": "Knopf",
+			"rank": 15
+		}
+	]
+}

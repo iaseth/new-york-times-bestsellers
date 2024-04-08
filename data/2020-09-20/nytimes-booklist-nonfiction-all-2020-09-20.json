@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Stephanie Winston Wolkoff",
+			"description": "The former director of special events at Vogue describes parting ways with the First Lady after being made the scapegoat for inauguration finance irregularities.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982151249.jpg",
+			"name": "MELANIA AND ME",
+			"publisher": "Gallery",
+			"rank": 1
+		},
+		{
+			"author": "by Isabel Wilkerson",
+			"description": "The Pulitzer Prize-winning journalist examines aspects of caste systems across civilizations and reveals a rigid hierarchy in America today.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593230251.jpg",
+			"name": "CASTE",
+			"publisher": "Random House",
+			"rank": 2
+		},
+		{
+			"author": "by Michael S. Schmidt",
+			"description": "The New York Times Washington correspondent details actions by officials who attempted to contain the president.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984854667.jpg",
+			"name": "DONALD TRUMP V. THE UNITED STATES",
+			"publisher": "Random House",
+			"rank": 3
+		},
+		{
+			"author": "by Glennon Doyle",
+			"description": "The activist and public speaker describes her journey of listening to her inner voice.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984801258.jpg",
+			"name": "UNTAMED",
+			"publisher": "Dial",
+			"rank": 4
+		},
+		{
+			"author": "by Mary L. Trump",
+			"description": "The clinical psychologist gives her assessment of events and patterns inside her family and how they shaped President Trump.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982141462.jpg",
+			"name": "TOO MUCH AND NEVER ENOUGH",
+			"publisher": "Simon & Schuster",
+			"rank": 5
+		},
+		{
+			"author": "by Ibram X. Kendi",
+			"description": "A primer for creating a more just and equitable society through identifying and opposing racism.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525509288.jpg",
+			"name": "HOW TO BE AN ANTIRACIST",
+			"publisher": "One World",
+			"rank": 6
+		},
+		{
+			"author": "by Robin DiAngelo",
+			"description": "Historical and cultural analyses on what causes defensive moves by white people and how this inhibits cross-racial dialogue.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780807047415.jpg",
+			"name": "WHITE FRAGILITY",
+			"publisher": "Beacon Press",
+			"rank": 7
+		},
+		{
+			"author": "by Sean Hannity",
+			"description": "The Fox News host offers his assessment on what is at stake in the 2020 election.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982149970.jpg",
+			"name": "LIVE FREE OR DIE",
+			"publisher": "Threshold Editions",
+			"rank": 8
+		},
+		{
+			"author": "by Ian W. Toll",
+			"description": "The third book in the Pacific War trilogy describes the last year of World War II in the Pacific.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780393080650.jpg",
+			"name": "TWILIGHT OF THE GODS",
+			"publisher": "Norton",
+			"rank": 9
+		},
+		{
+			"author": "by Jon Meacham",
+			"description": "The Pulitzer Prize-winning biographer creates a portrait of Representative John Lewis, the late civil rights leader and congressman for Georgia\u2019s Fifth Congressional District.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984855022.jpg",
+			"name": "HIS TRUTH IS MARCHING ON",
+			"publisher": "Random House",
+			"rank": 10
+		},
+		{
+			"author": "by Brian Stelter",
+			"description": "The CNN anchor and chief media correspondent examines the inner workings of Fox News and its relationship with President Trump.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982142445.jpg",
+			"name": "HOAX",
+			"publisher": "One Signal/Atria",
+			"rank": 11
+		},
+		{
+			"author": "by Jeff Benedict",
+			"description": "The history of the New England Patriots from N.F.L. laughingstock to making 10 trips to the Super Bowl.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982134105.jpg",
+			"name": "THE DYNASTY",
+			"publisher": "Avid Reader/Simon & Schuster",
+			"rank": 12
+		},
+		{
+			"author": "by Chasten Buttigieg",
+			"description": "The educator and advocate describes growing up gay in a small Midwestern town and meeting his husband, Pete.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982138127.jpg",
+			"name": "I HAVE SOMETHING TO TELL YOU",
+			"publisher": "Atria",
+			"rank": 13
+		},
+		{
+			"author": "by Bryan Stevenson",
+			"description": "A law professor and MacArthur grant recipient\u2019s memoir of his decades of work to free innocent people condemned to death.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812994520.jpg",
+			"name": "JUST MERCY",
+			"publisher": "Spiegel & Grau",
+			"rank": 14
+		},
+		{
+			"author": "by Trevor Noah",
+			"description": "A memoir about growing up biracial in apartheid South Africa by the host of \u201cThe Daily Show.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399588181.jpg",
+			"name": "BORN A CRIME",
+			"publisher": "Spiegel & Grau",
+			"rank": 15
+		}
+	]
+}

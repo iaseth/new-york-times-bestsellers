@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Diana Gabaldon",
+			"description": "The ninth book in the Outlander series. As the Revolutionary War moves closer to Fraser\u2019s Ridge, Claire and Jamie reunite with their daughter and her family.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101885680.jpg",
+			"name": "GO TELL THE BEES THAT I AM GONE",
+			"publisher": "Delacorte",
+			"rank": 1
+		},
+		{
+			"author": "by Nora Roberts",
+			"description": "The second book in the Dragon Heart Legacy series. Breen returns to Talamh as her grandfather Odran plots destruction.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250272706.jpg",
+			"name": "THE BECOMING",
+			"publisher": "St. Martin's",
+			"rank": 2
+		},
+		{
+			"author": "by James Patterson",
+			"description": "The 29th book in the Alex Cross series. Cross fights the mastermind who has stalked him for years.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316499149.jpg",
+			"name": "FEAR NO EVIL",
+			"publisher": "Little, Brown",
+			"rank": 3
+		},
+		{
+			"author": "by John Grisham",
+			"description": "The second book in the Whistler series. Investigator Lacy Stoltz goes after a serial killer and closes in on a sitting judge.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385546027.jpg",
+			"name": "THE JUDGE'S LIST",
+			"publisher": "Doubleday",
+			"rank": 4
+		},
+		{
+			"author": "by Nicholas Sparks",
+			"description": "Maggie Dawes, a renowned travel photographer, struggles with a medical diagnosis over Christmas.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538728628.jpg",
+			"name": "THE WISH",
+			"publisher": "Grand Central",
+			"rank": 5
+		},
+		{
+			"author": "by Danielle Steel",
+			"description": "Six women join the Medical Air Evacuation Transport Squadron during World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984821553.jpg",
+			"name": "FLYING ANGELS",
+			"publisher": "Delacorte",
+			"rank": 6
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "A battered wife raised in a violent home attempts to halt the cycle of abuse.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501110375.jpg",
+			"name": "IT ENDS WITH US",
+			"publisher": "Atria",
+			"rank": 7
+		},
+		{
+			"author": "by Mitch Albom",
+			"description": "After a ship explodes, 10 people struggling to survive pull a man who claims to be the Lord out of the sea.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062888341.jpg",
+			"name": "THE STRANGER IN THE LIFEBOAT",
+			"publisher": "Harper",
+			"rank": 8
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "The fourth book in the Atlee Pine series. Atlee discovers her twin sister survived an abduction at the age of 6.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538719725.jpg",
+			"name": "MERCY",
+			"publisher": "Grand Central",
+			"rank": 9
+		},
+		{
+			"author": "by Amor Towles",
+			"description": "Two friends who escaped from a juvenile work farm take Emmett Watson on an unexpected journey to New York City in 1954.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735222359.jpg",
+			"name": "THE LINCOLN HIGHWAY",
+			"publisher": "Viking",
+			"rank": 10
+		},
+		{
+			"author": "by Michael Connelly",
+			"description": "A death on New Year\u2019s Eve, an unsolved murder and a hunt for serial rapists bring Bosch and Ballard back together.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316485647.jpg",
+			"name": "THE DARK HOURS",
+			"publisher": "Little, Brown",
+			"rank": 11
+		},
+		{
+			"author": "by Richard Paul Evans",
+			"description": "Richelle writes a book about her estranged and deceased twin sister, Michelle, that is titled \u201cThe Prodigal Daughter.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982177423.jpg",
+			"name": "THE CHRISTMAS PROMISE",
+			"publisher": "Gallery",
+			"rank": 12
+		},
+		{
+			"author": "by Taylor Jenkins Reid",
+			"description": "A movie icon recounts stories of her loves and career to a struggling magazine writer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501161933.jpg",
+			"name": "THE SEVEN HUSBANDS OF EVELYN HUGO",
+			"publisher": "Washington Square/Atria",
+			"rank": 13
+		},
+		{
+			"author": "by Hillary Rodham Clinton and Louise Penny",
+			"description": "In the wake of the previous administration\u2019s mishandling of international affairs, the new Secretary of State Ellen Adams confronts interconnected global threats.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982173678.jpg",
+			"name": "STATE OF TERROR",
+			"publisher": "Simon & Schuster, St. Martin\u2019s",
+			"rank": 14
+		},
+		{
+			"author": "by Andy Weir",
+			"description": "Ryland Grace awakes from a long sleep alone and far from home, and the fate of humanity rests on his shoulders.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593135204.jpg",
+			"name": "PROJECT HAIL MARY",
+			"publisher": "Ballantine",
+			"rank": 15
+		}
+	]
+}

@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Kristin Hannah",
+			"description": "As dust storms roll during the Great Depression, Elsa must choose between saving the family and farm or heading West.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250178602.jpg",
+			"name": "THE FOUR WINDS",
+			"publisher": "St. Martin's",
+			"rank": 1
+		},
+		{
+			"author": "by Kristin Hannah",
+			"description": "A friendship between two women in the Pacific Northwest endures for more than three decades.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781429927840.jpg",
+			"name": "FIREFLY LANE",
+			"publisher": "St. Martin's Griffin",
+			"rank": 2
+		},
+		{
+			"author": "by Steve Berry",
+			"description": "The 16th book in the Cotton Malone series. A newly discovered dossier from World War II might change the course of Germany\u2019s upcoming elections.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250140340.jpg",
+			"name": "THE KAISER'S WEB",
+			"publisher": "Minotaur",
+			"rank": 3
+		},
+		{
+			"author": "by Sarah J. Maas",
+			"description": "The fifth book in A Court of Thorns and Roses series. Nesta Archeron is forced into close quarters with a warrior named Cassian.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781681196282.jpg",
+			"name": "A COURT OF SILVER FLAMES",
+			"publisher": "Bloomsbury",
+			"rank": 4
+		},
+		{
+			"author": "by Julia Quinn",
+			"description": "The first book in the Bridgerton series. Daphne Bridgerton\u2019s reputation soars when she colludes with the Duke of Hastings. The basis of the Netflix series \u201cBridgerton.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062424037.jpg",
+			"name": "THE DUKE AND I",
+			"publisher": "Avon",
+			"rank": 5
+		},
+		{
+			"author": "by Matt Haig",
+			"description": "Nora Seed finds a library beyond the edge of the universe that contains books with multiple possibilities of the lives one could have lived.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525559474.jpg",
+			"name": "THE MIDNIGHT LIBRARY",
+			"publisher": "Viking",
+			"rank": 6
+		},
+		{
+			"author": "by Karen Marie Moning",
+			"description": "The 11th book in the Fever series. As High Queen of the Fae, MacKayla Lane must rule those she was born to kill.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399593697.jpg",
+			"name": "KINGDOM OF SHADOW AND LIGHT",
+			"publisher": "Delacorte",
+			"rank": 7
+		},
+		{
+			"author": "by Julia Quinn",
+			"description": "The second book in the Bridgerton series. Kate Sheffield gets in the way of Anthony Bridgerton's intent to marry.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062424075.jpg",
+			"name": "THE VISCOUNT WHO LOVED ME",
+			"publisher": "Avon",
+			"rank": 8
+		},
+		{
+			"author": "by Brit Bennett",
+			"description": "The lives of twin sisters who run away from a Southern Black community at age 16 diverge as one returns and the other takes on a different racial identity but their fates intertwine.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525536291.jpg",
+			"name": "THE VANISHING HALF",
+			"publisher": "Riverhead",
+			"rank": 9
+		},
+		{
+			"author": "by Sarah Pearse",
+			"description": "Elin Warner must find her estranged brother\u2019s fianc\u00e9e, who goes missing as a storm approaches a hotel that was once a sanatorium in the Swiss Alps.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593296677.jpg",
+			"name": "THE SANATORIUM",
+			"publisher": "Pamela Dorman",
+			"rank": 10
+		},
+		{
+			"author": "by Joanne Fluke",
+			"description": "Easter orders are put on hold at Hannah Swenson\u2019s bakery while she investigates the murder of Mayor Bascomb.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781496718921.jpg",
+			"name": "TRIPLE CHOCOLATE CHEESECAKE MURDER",
+			"publisher": "Kensington",
+			"rank": 11
+		},
+		{
+			"author": "by Julia Quinn",
+			"description": "The third book in the Bridgerton series. Sophie Beckett spends time in the arms of Benedict Bridgerton during a masquerade ball.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501946127.jpg",
+			"name": "AN OFFER FROM A GENTLEMAN",
+			"publisher": "Avon",
+			"rank": 12
+		},
+		{
+			"author": "by J.D. Robb",
+			"description": "The 52nd book of the In Death series. Eve Dallas investigates the murder of a young sculptor in the West Village.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250272751.jpg",
+			"name": "FAITHLESS IN DEATH",
+			"publisher": "St. Martin's",
+			"rank": 13
+		},
+		{
+			"author": "by V.E. Schwab",
+			"description": "A Faustian bargain comes with a curse that affects the adventure Addie LaRue has across centuries.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780765387561.jpg",
+			"name": "THE INVISIBLE LIFE OF ADDIE LARUE",
+			"publisher": "Tor/Forge",
+			"rank": 14
+		},
+		{
+			"author": "by Delia Owens",
+			"description": "In a quiet town on the North Carolina coast in 1969, a young woman who survived alone in the marsh becomes a murder suspect.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735219090.jpg",
+			"name": "WHERE THE CRAWDADS SING",
+			"publisher": "Putnam",
+			"rank": 15
+		}
+	]
+}

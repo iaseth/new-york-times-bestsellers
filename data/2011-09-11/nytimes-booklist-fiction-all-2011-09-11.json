@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Kathryn Stockett",
+			"description": "A young white woman and two black maids in 1960s Mississippi.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781440697661.jpg",
+			"name": "THE HELP",
+			"publisher": "Penguin Group",
+			"rank": 1
+		},
+		{
+			"author": "by CJ Lyons",
+			"description": "A woman finds no closure after a man is executed for the murder of her husband and son.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/A00B0043M6J92.jpg",
+			"name": "BLIND FAITH",
+			"publisher": "Legacy",
+			"rank": 2
+		},
+		{
+			"author": "by Lee Child",
+			"description": "Jack Reacher is stationed with his family on a military base in Okinawa in the mid-1970s.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345529725.jpg",
+			"name": "SECOND SON",
+			"publisher": "Delacorte",
+			"rank": 3
+		},
+		{
+			"author": "by Sara Gruen",
+			"description": "After his parents die in a car accident, a young veterinary student \u2014 and an elephant \u2014 save a Depression-era circus.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781616200718.jpg",
+			"name": "WATER FOR ELEPHANTS",
+			"publisher": "Algonquin",
+			"rank": 4
+		},
+		{
+			"author": "by Kathy Reichs",
+			"description": "A turbocharged case unfolds for the forensic anthropologist Temperance Brennan in the series behind the TV show \u201cBones.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451646696.jpg",
+			"name": "FLASH AND BONES",
+			"publisher": "Simon & Schuster",
+			"rank": 5
+		},
+		{
+			"author": "by David Nicholls",
+			"description": "Checking in year by year on the confused, halting romance of two children of the \u201980s.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307946713.jpg",
+			"name": "ONE DAY",
+			"publisher": "Knopf Doubleday",
+			"rank": 6
+		},
+		{
+			"author": "by Chris Culver",
+			"description": "Against orders, a former homicide detective begins an investigation into his niece\u2019s murder.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/A00B004M18ZRS.jpg",
+			"name": "THE ABBEY",
+			"publisher": "Chris Culver",
+			"rank": 7
+		},
+		{
+			"author": "by Darcie Chan",
+			"description": "Only one man knows an abused widow\u2019s secret, which revealed will change many lives in her Vermont town.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780615523774.jpg",
+			"name": "THE MILL RIVER RECLUSE",
+			"publisher": "Darcie Chan",
+			"rank": 8
+		},
+		{
+			"author": "by Tatiana de Rosnay",
+			"description": "A contemporary American journalist investigates what happened to a little girl during the roundup of Jews in Paris in 1942.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780312370848.jpg",
+			"name": "SARAH\u2019S KEY",
+			"publisher": "St. Martin\u2019s",
+			"rank": 9
+		},
+		{
+			"author": "by George R.R. Martin",
+			"description": "In the frozen wastes to the north of Winterfell, sinister and supernatural forces are mustering.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780553897845.jpg",
+			"name": "A GAME OF THRONES",
+			"publisher": "Random House",
+			"rank": 10
+		},
+		{
+			"author": "by James Patterson and Michael Ledwidge",
+			"description": "Nina Bloom, who years ago changed her identity to save her life, is forced to confront the past and the killer she thought she had escaped.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316127233.jpg",
+			"name": "NOW YOU SEE HER",
+			"publisher": "Little, Brown",
+			"rank": 11
+		},
+		{
+			"author": "by J. A. Jance",
+			"description": "A Seattle homicide detective\u2019s search for the killer of a little girl leads him into a murky world of religious fanaticism.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780061758225.jpg",
+			"name": "UNTIL PROVEN GUILTY",
+			"publisher": "HarperCollins",
+			"rank": 12
+		},
+		{
+			"author": "by George R. R. Martin",
+			"description": "After a colossal battle, the Seven Kingdoms face new threats; Book 5 of \u201cA Song of Ice and Fire.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780553582017.jpg",
+			"name": "A DANCE WITH DRAGONS",
+			"publisher": "Random House",
+			"rank": 13
+		},
+		{
+			"author": "by John Grisham",
+			"description": "A criminal wants to save an innocent man on death row, but to do so, he must convince the authorities he\u2019s telling the truth.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780440245117.jpg",
+			"name": "THE CONFESSION",
+			"publisher": "Knopf Doubleday",
+			"rank": 14
+		},
+		{
+			"author": "by Johanna Lindsey",
+			"description": "A beautiful captive becomes the captor of a handsome thane in the age of the Vikings.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062106544.jpg",
+			"name": "HEARTS AFLAME",
+			"publisher": "HarperCollins",
+			"rank": 15
+		}
+	]
+}

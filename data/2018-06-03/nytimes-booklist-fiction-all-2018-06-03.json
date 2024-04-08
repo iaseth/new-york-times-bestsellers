@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Danielle Steel",
+			"description": "A magazine columnist meets an array of Hollywood professionals when a producer turns a story about her grandmother into a TV series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101884041.jpg",
+			"name": "THE CAST",
+			"publisher": "Delacorte",
+			"rank": 1
+		},
+		{
+			"author": "by James Patterson and Maxine Paetro",
+			"description": "The latest installment in the Women\u2019s Murder Club series. Detective Lindsay Boxer searches for a killer in San Francisco.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316412261.jpg",
+			"name": "THE 17TH SUSPECT",
+			"publisher": "Little, Brown",
+			"rank": 2
+		},
+		{
+			"author": "by Dorothea Benton Frank",
+			"description": "Two families are brought together when the daughter of a Chicago power broker and the son of a Southern peach farmer decide to wed.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062390837.jpg",
+			"name": "BY INVITATION ONLY",
+			"publisher": "Morrow",
+			"rank": 3
+		},
+		{
+			"author": "by James Patterson and Rees Jones",
+			"description": "Princess Caroline calls on Jack Morgan when her friend goes missing.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538714454.jpg",
+			"name": "PRINCESS",
+			"publisher": "Grand Central",
+			"rank": 4
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "Amos Decker, known as the Memory Man, puts his talents toward solving a string of murders in a Rust Belt town.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538761397.jpg",
+			"name": "THE FALLEN",
+			"publisher": "Grand Central",
+			"rank": 5
+		},
+		{
+			"author": "by Lee Child",
+			"description": "Jack Reacher tracks down the owner of a pawned West Point class ring and stumbles upon a large criminal enterprise.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399593499.jpg",
+			"name": "THE MIDNIGHT LINE",
+			"publisher": "Delacorte",
+			"rank": 6
+		},
+		{
+			"author": "by John Sandford",
+			"description": "The 28th book in the Prey series. A federal marshal looks into the actions of a member of the Senate Intelligence Committee.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735217362.jpg",
+			"name": "TWISTED PREY",
+			"publisher": "Putnam",
+			"rank": 7
+		},
+		{
+			"author": "by Mary Kay Andrews",
+			"description": "An eccentric millionaire enlists the attorney Brooke Trappnell to fix old wrongs, which sets up a potential scandal and murder.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250126092.jpg",
+			"name": "THE HIGH TIDE CLUB",
+			"publisher": "St. Martin's",
+			"rank": 8
+		},
+		{
+			"author": "by Celeste Ng",
+			"description": "An artist upends a quiet town outside Cleveland.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735224308.jpg",
+			"name": "LITTLE FIRES EVERYWHERE",
+			"publisher": "Penguin Press",
+			"rank": 9
+		},
+		{
+			"author": "by Kristin Hannah",
+			"description": "A former prisoner of war returns from Vietnam and moves his family to Alaska, where they face tough conditions.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250165619.jpg",
+			"name": "THE GREAT ALONE",
+			"publisher": "St. Martin's",
+			"rank": 10
+		},
+		{
+			"author": "by Greer Hendricks and Sarah Pekkanen",
+			"description": "The story of a love triangle is told from several points of view.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250130921.jpg",
+			"name": "THE WIFE BETWEEN US",
+			"publisher": "St. Martin's",
+			"rank": 11
+		},
+		{
+			"author": "by Paula Hawkins",
+			"description": "In this psychological thriller by the author of \u201cThe Girl on the Train,\u201d drowned women are found in an English river town.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735211216.jpg",
+			"name": "INTO THE WATER",
+			"publisher": "Riverhead",
+			"rank": 12
+		},
+		{
+			"author": "by Lisa Wingate",
+			"description": "A South Carolina lawyer learns about the questionable practices of a Tennessee orphanage.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780425284681.jpg",
+			"name": "BEFORE WE WERE YOURS",
+			"publisher": "Ballantine",
+			"rank": 13
+		},
+		{
+			"author": "by Margaret Atwood",
+			"description": "Men and women in a dystopian future. The basis of the Hulu series; originally published in 1985.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780547345666.jpg",
+			"name": "THE HANDMAID'S TALE",
+			"publisher": "Houghton Mifflin Harcourt",
+			"rank": 14
+		},
+		{
+			"author": "by Shari Lapena",
+			"description": "A couple\u2019s secrets emerge after their baby disappears.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735221086.jpg",
+			"name": "THE COUPLE NEXT DOOR",
+			"publisher": "Penguin",
+			"rank": 15
+		}
+	]
+}

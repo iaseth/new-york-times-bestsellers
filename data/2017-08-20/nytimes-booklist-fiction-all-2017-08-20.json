@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by James Patterson with Maxine Paetro",
+			"description": "The lover of a cheating millionairess is murdered and she is left for dead. Part of the Women's Murder Club series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316504836.jpg",
+			"name": "THE MEDICAL EXAMINER",
+			"publisher": "BookShots",
+			"rank": 1
+		},
+		{
+			"author": "by Michael Connelly",
+			"description": "Ren\u00e9e Ballard, a young detective with the L.A.P.D., investigates crimes against two women.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316225984.jpg",
+			"name": "THE LATE SHOW",
+			"publisher": "Little, Brown",
+			"rank": 2
+		},
+		{
+			"author": "by John Grisham",
+			"description": "A whistleblower alerts a Florida investigator to judicial corruption involving the Mob and Indian casinos.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385541206.jpg",
+			"name": "THE WHISTLER",
+			"publisher": "Doubleday",
+			"rank": 3
+		},
+		{
+			"author": "by John Grisham",
+			"description": "A search for stolen rare manuscripts leads to a Florida island.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385543057.jpg",
+			"name": "CAMINO ISLAND",
+			"publisher": "Doubleday",
+			"rank": 4
+		},
+		{
+			"author": "by Stephen King",
+			"description": "The first volume of the Dark Tower series, originally published in 1989.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501166112.jpg",
+			"name": "THE GUNSLINGER",
+			"publisher": "Pocket Books",
+			"rank": 5
+		},
+		{
+			"author": "by Ruth Ware",
+			"description": "A travel writer on a cruise is certain she has heard a body thrown overboard, but no one believes her.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501132940.jpg",
+			"name": "THE WOMAN IN CABIN 10",
+			"publisher": "Scout",
+			"rank": 6
+		},
+		{
+			"author": "by Ernest Cline",
+			"description": "It\u2019s 2044, life on a resource-depleted Earth has grown increasingly grim, and the key to a vast fortune is hidden in a virtual-reality world.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307887443.jpg",
+			"name": "READY PLAYER ONE",
+			"publisher": "Broadway",
+			"rank": 7
+		},
+		{
+			"author": "by Daniel Silva",
+			"description": "Gabriel Allon, the Israeli art restorer and spy, now the head of Israel\u2019s secret intelligence service, pursues an ISIS mastermind.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062354365.jpg",
+			"name": "HOUSE OF SPIES",
+			"publisher": "Harper",
+			"rank": 8
+		},
+		{
+			"author": "by Ruth Ware",
+			"description": "Four school friends come together as their long-held secret threatens to emerge.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501156007.jpg",
+			"name": "THE LYING GAME",
+			"publisher": "Scout",
+			"rank": 9
+		},
+		{
+			"author": "by Rupi Kaur",
+			"description": "Poetic approaches to surviving adversity and loss.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781449474256.jpg",
+			"name": "MILK AND HONEY",
+			"publisher": "Andrews McMeel",
+			"rank": 10
+		},
+		{
+			"author": "by Jonathan Kellerman and Jesse Kellerman",
+			"description": "Clay Edison, a deputy coroner and former star athlete, investigates a possible murder.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399594618.jpg",
+			"name": "CRIME SCENE",
+			"publisher": "Ballantine",
+			"rank": 11
+		},
+		{
+			"author": "by Martha Hall Kelly",
+			"description": "A story of three women\u2019s lives during and after World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101883075.jpg",
+			"name": "LILAC GIRLS",
+			"publisher": "Ballantine",
+			"rank": 12
+		},
+		{
+			"author": "by Margaret Atwood",
+			"description": "Men and women in a dystopian future. The basis of the Hulu series; originally published in 1985.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780547345666.jpg",
+			"name": "THE HANDMAID'S TALE",
+			"publisher": "Houghton Mifflin Harcourt",
+			"rank": 13
+		},
+		{
+			"author": "by Lisa Wingate",
+			"description": "A prominent South Carolina lawyer, researching her grandmother\u2019s past, learns about a Tennessee orphanage that kidnapped children and placed them for adoption with wealthy people. Based on a real-life scandal.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780425284681.jpg",
+			"name": "BEFORE WE WERE YOURS",
+			"publisher": "Ballantine",
+			"rank": 14
+		},
+		{
+			"author": "by J. D. Robb",
+			"description": "Lt. Eve Dallas of the N.Y.P.D. investigates a fatal home invasion. By Nora Roberts, writing pseudonymously.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250123145.jpg",
+			"name": "ECHOES IN DEATH",
+			"publisher": "St. Martin's",
+			"rank": 15
+		}
+	]
+}

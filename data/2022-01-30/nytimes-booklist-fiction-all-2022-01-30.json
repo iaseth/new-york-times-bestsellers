@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Colleen Hoover",
+			"description": "A battered wife raised in a violent home attempts to halt the cycle of abuse.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501110375.jpg",
+			"name": "IT ENDS WITH US",
+			"publisher": "Atria",
+			"rank": 1
+		},
+		{
+			"author": "by Elizabeth George",
+			"description": "The 21st book in the Inspector Lynley series. Lynley pursues a killer who might be hiding in North London's Nigerian community.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593296844.jpg",
+			"name": "SOMETHING TO HIDE",
+			"publisher": "Viking",
+			"rank": 2
+		},
+		{
+			"author": "by Taylor Jenkins Reid",
+			"description": "A movie icon recounts stories of her loves and career to a struggling magazine writer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501161933.jpg",
+			"name": "THE SEVEN HUSBANDS OF EVELYN HUGO",
+			"publisher": "Washington Square/Atria",
+			"rank": 3
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "Lowen Ashleigh is hired by the husband of an injured writer to complete her popular series and uncovers a horrifying truth.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781791392796.jpg",
+			"name": "VERITY",
+			"publisher": "Grand Central",
+			"rank": 4
+		},
+		{
+			"author": "by Nita Prose",
+			"description": "When a wealthy man is found dead in his room, a maid at the Regency Grand Hotel becomes a lead suspect.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593356159.jpg",
+			"name": "THE MAID",
+			"publisher": "Ballantine",
+			"rank": 5
+		},
+		{
+			"author": "by James Patterson and Mike Lupica",
+			"description": "As the Paris Olympics draw near, a mother and daughter, who are champion horse riders, compete against each other.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316499774.jpg",
+			"name": "THE HORSEWOMAN",
+			"publisher": "Little, Brown",
+			"rank": 6
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "Tate Collins and Miles Archer,\u00a0an airline pilot, think they can handle a no strings attached arrangement. But they can't.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476753195.jpg",
+			"name": "UGLY LOVE",
+			"publisher": "Atria",
+			"rank": 7
+		},
+		{
+			"author": "by Amor Towles",
+			"description": "Two friends who escaped from a juvenile work farm take Emmett Watson on an unexpected journey to New York City in 1954.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735222359.jpg",
+			"name": "THE LINCOLN HIGHWAY",
+			"publisher": "Viking",
+			"rank": 8
+		},
+		{
+			"author": "by Hanya Yanagihara",
+			"description": "Difficult circumstances and societal pressures affect characters living in America in 1893, 1993 and 2093.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385547932.jpg",
+			"name": "TO PARADISE",
+			"publisher": "Doubleday",
+			"rank": 9
+		},
+		{
+			"author": "by John Grisham",
+			"description": "The second book in the Whistler series. Investigator Lacy Stoltz goes after a serial killer and closes in on a sitting judge.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385546027.jpg",
+			"name": "THE JUDGE'S LIST",
+			"publisher": "Doubleday",
+			"rank": 10
+		},
+		{
+			"author": "by Laura Dave",
+			"description": "Hannah Hall discovers truths about her missing husband and bonds with his daughter from a previous relationship.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501171345.jpg",
+			"name": "THE LAST THING HE TOLD ME",
+			"publisher": "Simon & Schuster",
+			"rank": 11
+		},
+		{
+			"author": "by Jodi Picoult",
+			"description": "Diana O\u2019Toole re-evaluates her seemingly perfect life when a pandemic disrupts her vacation in the Gal\u00e1pagos Islands.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984818416.jpg",
+			"name": "WISH YOU WERE HERE",
+			"publisher": "Ballantine",
+			"rank": 12
+		},
+		{
+			"author": "by Matt Haig",
+			"description": "Nora Seed finds a library beyond the edge of the universe that contains books with multiple possibilities of the lives one could have lived.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525559474.jpg",
+			"name": "THE MIDNIGHT LIBRARY",
+			"publisher": "Viking",
+			"rank": 13
+		},
+		{
+			"author": "by Ali Hazelwood",
+			"description": "A young professor agrees to pretend to be a third-year Ph.D. candidate\u2019s boyfriend.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593336823.jpg",
+			"name": "THE LOVE HYPOTHESIS",
+			"publisher": "Berkley",
+			"rank": 14
+		},
+		{
+			"author": "by Brad Taylor",
+			"description": "The 16th book in the Pike Logan thriller series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062886125.jpg",
+			"name": "END OF DAYS",
+			"publisher": "Morrow",
+			"rank": 15
+		}
+	]
+}

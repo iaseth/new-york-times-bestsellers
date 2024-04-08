@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Gillian Flynn",
+			"description": "A woman disappears on the day of her fifth anniversary; is her husband a killer?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307588388.jpg",
+			"name": "GONE GIRL",
+			"publisher": "Crown Publishing",
+			"rank": 1
+		},
+		{
+			"author": "by John Grisham",
+			"description": "An imprisoned ex-lawyer schemes to exchange this information about who murdered a judge for his freedom.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385536882.jpg",
+			"name": "THE RACKETEER",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 2
+		},
+		{
+			"author": "by Douglas Preston and Lincoln Child",
+			"description": "Special Agent Aloysius Pendergast pursues a serial killer as well as his abducted wife.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780446554992.jpg",
+			"name": "TWO GRAVES",
+			"publisher": "Grand Central Publishing",
+			"rank": 3
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "The military investigator John Puller probes his aunt\u2019s mysterious death in Florida.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455523153.jpg",
+			"name": "THE FORGOTTEN",
+			"publisher": "Grand Central Publishing",
+			"rank": 4
+		},
+		{
+			"author": "by E. L. James",
+			"description": "A college student falls in love with a tortured man with particular sexual tastes; the first of a trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345803481.jpg",
+			"name": "FIFTY SHADES OF GREY",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 5
+		},
+		{
+			"author": "by Tom Clancy with Mark Greaney",
+			"description": "As China threatens to invade Taiwan, the covert intelligence expert Jack Ryan Jr. aids his father\u2019s administration  \u2014 but his agency is no longer secret.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399160455.jpg",
+			"name": "THREAT VECTOR",
+			"publisher": "Penguin Group",
+			"rank": 6
+		},
+		{
+			"author": "by James Patterson",
+			"description": "Detective Alex Cross confronts both a hostage situation and a terrorist act at Christmas.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316210683.jpg",
+			"name": "MERRY CHRISTMAS, ALEX CROSS",
+			"publisher": "Little, Brown & Company",
+			"rank": 7
+		},
+		{
+			"author": "by Janet Evanovich",
+			"description": "The New Jersey bounty hunter Stephanie Plum tracks a con man who disappeared from a hospital.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345527752.jpg",
+			"name": "NOTORIOUS NINETEEN",
+			"publisher": "Random House Publishing",
+			"rank": 8
+		},
+		{
+			"author": "by Michael Connelly",
+			"description": "The Los Angeles detective Harry Bosch links the bullet from a recent crime to the killing of a young female photographer during race riots in 1992.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316069441.jpg",
+			"name": "THE BLACK BOX",
+			"publisher": "Little, Brown & Company",
+			"rank": 9
+		},
+		{
+			"author": "by Yann Martel",
+			"description": "A teenage boy and a 450-pound tiger are thrown together in a lifeboat after a shipwreck; now a movie.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780156027328.jpg",
+			"name": "LIFE OF PI",
+			"publisher": "Houghton Mifflin Harcourt Publishers",
+			"rank": 10
+		},
+		{
+			"author": "by Vince Flynn",
+			"description": "The counterterrorism operative Mitch Rapp searches for a missing C.I.A. asset amid treachery in Afghanistan.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781439100530.jpg",
+			"name": "THE LAST MAN",
+			"publisher": "Simon & Schuster",
+			"rank": 11
+		},
+		{
+			"author": "by  J.A. Redmerski",
+			"description": "A woman impulsively boards a Greyhound bus to start everything afresh, and meets a man with a dark secret.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455548996.jpg",
+			"name": "THE EDGE OF NEVER",
+			"publisher": "J.A. Redmerski",
+			"rank": 12
+		},
+		{
+			"author": "by E. L. James",
+			"description": "The final book in an erotic trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781612130606.jpg",
+			"name": "FIFTY SHADES FREED",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 13
+		},
+		{
+			"author": "by E. L. James",
+			"description": "Ana Steele learns more about Christian Grey\u2019s troubled past; the second book in a trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345803498.jpg",
+			"name": "FIFTY SHADES DARKER",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 14
+		},
+		{
+			"author": "by Ayana Mathis",
+			"description": "Fifty-some years in the life of an African-American family, starting with Hattie Shepherd, who leaves Georgia for Philadelphia in 1923.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385350280.jpg",
+			"name": "THE TWELVE TRIBES OF HATTIE",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 15
+		}
+	]
+}

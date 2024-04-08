@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Al Franken",
+			"description": "A memoir by the Democratic senator from Minnesota and former \u201cSaturday Night Live\u201d writer and performer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455540419.jpg",
+			"name": "AL FRANKEN, GIANT OF THE SENATE",
+			"publisher": "Twelve",
+			"rank": 1
+		},
+		{
+			"author": "by David Sedaris",
+			"description": "Excerpts from the writer\u2019s diaries, 1977-2002.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316154727.jpg",
+			"name": "THEFT BY FINDING",
+			"publisher": "Little, Brown",
+			"rank": 2
+		},
+		{
+			"author": "by Neil deGrasse Tyson",
+			"description": "A straightforward, easy-to-understand introduction to the laws that govern the universe.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780393609394.jpg",
+			"name": "ASTROPHYSICS FOR PEOPLE IN A HURRY",
+			"publisher": "Norton",
+			"rank": 3
+		},
+		{
+			"author": "by Sheryl Sandberg and Adam Grant",
+			"description": "Sandberg\u2019s experience after her husband\u2019s sudden death and Grant\u2019s psychological research combine to provide insight on facing adversity and building resilience.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524732684.jpg",
+			"name": "OPTION B",
+			"publisher": "Knopf",
+			"rank": 4
+		},
+		{
+			"author": "by J.D. Vance",
+			"description": "A Yale Law School graduate looks at the struggles of the white working class through the story of his own childhood.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062300560.jpg",
+			"name": "HILLBILLY ELEGY",
+			"publisher": "HarperCollins",
+			"rank": 5
+		},
+		{
+			"author": "by Timothy Snyder",
+			"description": "Twenty lessons from the 20th century about the course of tyranny.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780804190114.jpg",
+			"name": "ON TYRANNY",
+			"publisher": "Tim Duggan",
+			"rank": 6
+		},
+		{
+			"author": "by Steven Pinker",
+			"description": "The Harvard psychologist argues that we are living in the most peaceable period of human existence. Originally published in 2011.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780143122012.jpg",
+			"name": "THE BETTER ANGELS OF OUR NATURE",
+			"publisher": "Penguin",
+			"rank": 7
+		},
+		{
+			"author": "by David Grann",
+			"description": "The story of a murder spree in 1920s Oklahoma that targeted Osage Indians, whose lands contained oil.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385534246.jpg",
+			"name": "KILLERS OF THE FLOWER MOON",
+			"publisher": "Doubleday",
+			"rank": 8
+		},
+		{
+			"author": "by Ben Sasse",
+			"description": "The Nebraska Republican senator\u2019s advice on how to raise resilient, responsible children.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250114402.jpg",
+			"name": "THE VANISHING AMERICAN ADULT",
+			"publisher": "St. Martin's",
+			"rank": 9
+		},
+		{
+			"author": "by Jonathan Allen and Amie Parnes",
+			"description": "An examination of Hillary Clinton\u2019s presidential campaign.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780553447095.jpg",
+			"name": "SHATTERED",
+			"publisher": "Crown",
+			"rank": 10
+		},
+		{
+			"author": "by David McCullough",
+			"description": "A collection of speeches by the Pulitzer Prize-winning historian, focused on American values.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501174216.jpg",
+			"name": "THE AMERICAN SPIRIT",
+			"publisher": "Simon & Schuster",
+			"rank": 11
+		},
+		{
+			"author": "by Diane Ackerman",
+			"description": "How a Warsaw couple sheltered Jews and members of the Resistance during World War II. Originally published in 2007; now the basis of a movie,",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780393333060.jpg",
+			"name": "THE ZOOKEEPER\u2019S WIFE",
+			"publisher": "Norton",
+			"rank": 12
+		},
+		{
+			"author": "by Mike Lee",
+			"description": "Early Americans who warned against a central government, by the Republican senator from Utah.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399564451.jpg",
+			"name": "WRITTEN OUT OF HISTORY",
+			"publisher": "Sentinel",
+			"rank": 13
+		},
+		{
+			"author": "by Trevor Noah",
+			"description": "A memoir about growing up biracial in apartheid South Africa by the comedian, now the host of \u201cThe Daily Show.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399588181.jpg",
+			"name": "BORN A CRIME",
+			"publisher": "Spiegel & Grau",
+			"rank": 14
+		},
+		{
+			"author": "by Samantha Irby",
+			"description": "A blogger's second book of essays.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101912195.jpg",
+			"name": "WE ARE NEVER MEETING IN REAL LIFE",
+			"publisher": "Vintage",
+			"rank": 15
+		}
+	]
+}

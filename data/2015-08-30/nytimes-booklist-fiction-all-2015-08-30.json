@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Harper Lee",
+			"description": "In the mid-1950s, a grown-up Jean Louise Finch returns to Maycomb and realizes that her adored father is a racist.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062409850.jpg",
+			"name": "GO SET A WATCHMAN",
+			"publisher": "Harper",
+			"rank": 1
+		},
+		{
+			"author": "by Paula Hawkins",
+			"description": "A psychological thriller set in the environs of London is full of complications and betrayals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594633669.jpg",
+			"name": "THE GIRL ON THE TRAIN",
+			"publisher": "Riverhead",
+			"rank": 2
+		},
+		{
+			"author": "by Debbie Macomber",
+			"description": "Jo Marie, keeper of the Rose Harbor Inn, and two guests deal with trouble in relationships.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780553391800.jpg",
+			"name": "SILVER LININGS",
+			"publisher": "Ballantine",
+			"rank": 3
+		},
+		{
+			"author": "by Jennifer Weiner",
+			"description": "Andy and Rachel meet as children, then come together and separate repeatedly over the years.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451617832.jpg",
+			"name": "WHO DO YOU LOVE",
+			"publisher": "Atria",
+			"rank": 4
+		},
+		{
+			"author": "by E. L. James",
+			"description": "A sequel, told from Christian\u2019s point of view, revisits the tortured romance between the controlling billionaire and the unassuming Ana.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101946350.jpg",
+			"name": "GREY",
+			"publisher": "Vintage",
+			"rank": 5
+		},
+		{
+			"author": "by James Patterson and Michael Ledwidge",
+			"description": "Detective Michael Bennett and the F.B.I.\u2019s Emily Parker must save New York City from a deadly threat.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316407038.jpg",
+			"name": "ALERT",
+			"publisher": "Little, Brown",
+			"rank": 6
+		},
+		{
+			"author": "by Anthony Doerr",
+			"description": "The lives of a blind French girl and a gadget-obsessed German boy before and during World War II; the winner of the 2015 Pulitzer Prize.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476746586.jpg",
+			"name": "ALL THE LIGHT WE CANNOT SEE",
+			"publisher": "Scribner",
+			"rank": 7
+		},
+		{
+			"author": "by Andy Weir",
+			"description": "Abandoned by his crew, an astronaut embarks on a dogged quest to stay alive.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780804139038.jpg",
+			"name": "THE MARTIAN",
+			"publisher": "Crown",
+			"rank": 8
+		},
+		{
+			"author": "by Patricia Cornwell",
+			"description": "Dr. Kay Scarpetta pursues a sniper who may be a vigilante; the 22nd Scarpetta novel.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062325365.jpg",
+			"name": "FLESH AND BLOOD",
+			"publisher": "Morrow/HarperCollins",
+			"rank": 9
+		},
+		{
+			"author": "by Michael Crichton",
+			"description": "Reverse eco-terrorists create natural disasters to convince the public that global warming is real. Originally published in 2004.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780061752728.jpg",
+			"name": "STATE OF FEAR",
+			"publisher": "HarperCollins",
+			"rank": 10
+		},
+		{
+			"author": "by Kristin Hannah",
+			"description": "Two sisters are separated in World War II France: one in the countryside, the other in Paris.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781466850606.jpg",
+			"name": "THE NIGHTINGALE",
+			"publisher": "St. Martin's",
+			"rank": 11
+		},
+		{
+			"author": "by Paula McLain",
+			"description": "A novel by the author of \u201cThe Paris Wife\u201d about Beryl Markham, a horse trainer and aviatrix raised in Kenya.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345534194.jpg",
+			"name": "CIRCLING THE SUN",
+			"publisher": "Ballantine",
+			"rank": 12
+		},
+		{
+			"author": "by Linda Fairstein",
+			"description": "In her 17th outing, prosecutor Alexandra Cooper disappears, and her colleague, an N.Y.P.D. detective, is assigned the task of finding her.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698190801.jpg",
+			"name": "DEVIL'S BRIDGE",
+			"publisher": "Dutton/Penguin Publishing Group",
+			"rank": 13
+		},
+		{
+			"author": "by Brad Thor",
+			"description": "The counterterrorism operative Scot Harvath undertakes a deadly assignment set in motion by a leaked video.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476717159.jpg",
+			"name": "CODE OF CONDUCT",
+			"publisher": "Emily Bestler/Atria",
+			"rank": 14
+		},
+		{
+			"author": "by Jessica Knoll",
+			"description": "The life of a successful magazine writer is shaken when secrets from her past are revealed in a documentary.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476789651.jpg",
+			"name": "LUCKIEST GIRL ALIVE",
+			"publisher": "Simon & Schuster",
+			"rank": 15
+		}
+	]
+}

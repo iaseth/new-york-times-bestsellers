@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Holly Madison",
+			"description": "Life inside the Playboy Mansion, by a former bunny and girlfriend of Hugh Hefner.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062372123.jpg",
+			"name": "DOWN THE RABBIT HOLE",
+			"publisher": "Dey Street",
+			"rank": 1
+		},
+		{
+			"author": "by Daniel James Brown",
+			"description": "The University of Washington\u2019s eight-oar crew and their quest for gold at the 1936 Berlin Olympics.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101622742.jpg",
+			"name": "THE BOYS IN THE BOAT",
+			"publisher": "Penguin",
+			"rank": 2
+		},
+		{
+			"author": "by Aziz Ansari with Eric Klinenberg",
+			"description": "The comedian enlists a sociologist to help him understand today\u2019s dating scene.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698179967.jpg",
+			"name": "MODERN ROMANCE",
+			"publisher": "Penguin Press",
+			"rank": 3
+		},
+		{
+			"author": "by David McCullough",
+			"description": "The story of the bicycle mechanics from Ohio who ushered in the age of flight; by the author of \u201c1776\u201d and \u201cThe Greater Journey.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476728742.jpg",
+			"name": "THE WRIGHT BROTHERS",
+			"publisher": "Simon & Schuster",
+			"rank": 4
+		},
+		{
+			"author": "by Erik Larson",
+			"description": "The last voyage of the Lusitania, the passenger liner sunk by a German torpedo in 1915; by the author of \u201cThe Devil in the White City.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307408860.jpg",
+			"name": "DEAD WAKE",
+			"publisher": "Crown",
+			"rank": 5
+		},
+		{
+			"author": "by Malala Yousafzai with Christina Lamb",
+			"description": "The experience of the Pakistani girl who advocated for women\u2019s education and was shot by the Taliban.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316322409.jpg",
+			"name": "I AM MALALA",
+			"publisher": "Little, Brown",
+			"rank": 6
+		},
+		{
+			"author": "by Karen Abbott",
+			"description": "Four courageous women in the Civil War.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062092915.jpg",
+			"name": "LIAR, TEMPTRESS, SOLDIER, SPY",
+			"publisher": "Harper",
+			"rank": 7
+		},
+		{
+			"author": "by Jimmy Carter",
+			"description": "At 90, the 39th president (and Nobel Prize winner) reflects on his private and public life.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501115639.jpg",
+			"name": "A FULL LIFE",
+			"publisher": "Simon & Schuster",
+			"rank": 8
+		},
+		{
+			"author": "by Malcolm Gladwell",
+			"description": "Why some people succeed; from the author of \"Blink\" and \"The Tipping Point.\"",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316017930.jpg",
+			"name": "OUTLIERS",
+			"publisher": "Little, Brown",
+			"rank": 9
+		},
+		{
+			"author": "by David E. Hoffman",
+			"description": "A biography of Adolf Tolkachev, who spied for the United States inside the Soviet Union.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385537612.jpg",
+			"name": "THE BILLION DOLLAR SPY",
+			"publisher": "Doubleday",
+			"rank": 10
+		},
+		{
+			"author": "by Gail Caldwell",
+			"description": "A tribute to a deep friendship between two women writers. Originally published in 2010.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812979114.jpg",
+			"name": "LET'S TAKE THE LONG WAY HOME",
+			"publisher": "Random House",
+			"rank": 11
+		},
+		{
+			"author": "by Rinker Buck",
+			"description": "The author and his brother travel 2,000 miles by mule and wagon from Missouri to Oregon.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451659184.jpg",
+			"name": "THE OREGON TRAIL",
+			"publisher": "Simon & Schuster",
+			"rank": 12
+		},
+		{
+			"author": "by Ted Cruz",
+			"description": "The Texas senator and Republican presidential candidate tells his personal and political story, denounces the lack of accountability in Washington and offers ideas for \u201creigniting the promise of America.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062365637.jpg",
+			"name": "A TIME FOR TRUTH",
+			"publisher": "Broadside/HarperCollins",
+			"rank": 13
+		},
+		{
+			"author": "by Cokie Roberts",
+			"description": "The news analyst details the lives of the many women (Abigail Adams and Martha Washington among them) who \"raised our nation.\"  Originally published in 2004.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780061867460.jpg",
+			"name": "FOUNDING MOTHERS",
+			"publisher": "HarperCollins",
+			"rank": 14
+		},
+		{
+			"author": "by Erik Larson",
+			"description": "How an architect and a serial killer were linked by the Chicago World's Fair of 1893.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780375725609.jpg",
+			"name": "THE DEVIL IN THE WHITE CITY",
+			"publisher": "Vintage",
+			"rank": 15
+		}
+	]
+}

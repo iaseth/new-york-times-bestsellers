@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by S. C. Stephens",
+			"description": "The success of Kellan\u2019s band poses a challenge to his relationship with Kiera.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476718217.jpg",
+			"name": "RECKLESS",
+			"publisher": "Simon & Schuster",
+			"rank": 1
+		},
+		{
+			"author": "by J. Lynn",
+			"description": "Nineteen-year-old Avery Morgansten hopes she can escape the tragedy in her past when she goes to college, but threats follow her.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780988982901.jpg",
+			"name": "WAIT FOR YOU",
+			"publisher": "J. Lynn",
+			"rank": 2
+		},
+		{
+			"author": "by Patricia Briggs",
+			"description": "The shape-shifter Mercy Thompson seeks assistance from an unlikely ally when her mate, the Alpha werewolf Adam Hauptman, and the rest of his pack are abducted.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780441020010.jpg",
+			"name": "FROST BURNED",
+			"publisher": "Penguin Group",
+			"rank": 3
+		},
+		{
+			"author": "by James Patterson",
+			"description": "While Alex Cross pursues a Washington serial killer (or killers?), someone is after him.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316097529.jpg",
+			"name": "ALEX CROSS, RUN",
+			"publisher": "Little, Brown & Company",
+			"rank": 4
+		},
+		{
+			"author": "by Sandra Brown",
+			"description": "An airplane accident and plastic surgery give a woman an astonishing new life; originally published in 1990.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455546343.jpg",
+			"name": "MIRROR IMAGE",
+			"publisher": "Grand Central Publishing",
+			"rank": 5
+		},
+		{
+			"author": "by Jodi Picoult",
+			"description": "A New Hampshire baker grapples with her grandmother\u2019s story of Holocaust survival and the confessions of an elderly German.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781439149706.jpg",
+			"name": "THE STORYTELLER",
+			"publisher": "Simon & Schuster",
+			"rank": 6
+		},
+		{
+			"author": "by Nicholas Sparks",
+			"description": "The arrival of a mysterious young woman in a small North Carolina town raises questions about her past.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455523542.jpg",
+			"name": "SAFE HAVEN",
+			"publisher": "Grand Central Publishing",
+			"rank": 7
+		},
+		{
+			"author": "by Clive Cussler and Justin Scott",
+			"description": "In 1902, the young detective Isaac Bell discovers that provocateurs, not the union members he was hired to investigate, are causing trouble in the coal mines.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101592663.jpg",
+			"name": "THE STRIKER",
+			"publisher": "Penguin Group",
+			"rank": 8
+		},
+		{
+			"author": "by Gillian Flynn",
+			"description": "A woman disappears on the day of her fifth anniversary; is her husband a killer?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307588388.jpg",
+			"name": "GONE GIRL",
+			"publisher": "Crown Publishing",
+			"rank": 9
+		},
+		{
+			"author": "by Maeve Binchy",
+			"description": "Guests at an inn by the sea on Ireland\u2019s west coast; the final book by Binchy, who died in 2012.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307273574.jpg",
+			"name": "A WEEK IN WINTER",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 10
+		},
+		{
+			"author": "by Karen Kingsbury",
+			"description": "Teenage friends, separated by a move, come together as adults to see whether they can find love.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451647044.jpg",
+			"name": "THE CHANCE",
+			"publisher": "Howard Books",
+			"rank": 11
+		},
+		{
+			"author": "by J. D. Robb",
+			"description": "Lt. Eve Dallas investigates the death of a successful accountant; by Nora Roberts, writing pseudonymously.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101609248.jpg",
+			"name": "CALCULATED IN DEATH",
+			"publisher": "Penguin Group",
+			"rank": 12
+		},
+		{
+			"author": "by Abbi Glines",
+			"description": "A sheltered 19-year-old girl falls in love with her spoiled, sexy stepbrother.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/A00B00AOTGI08.jpg",
+			"name": "FALLEN TOO FAR",
+			"publisher": "Abbi Glines",
+			"rank": 13
+		},
+		{
+			"author": "by Matthew Quick",
+			"description": "A man recently released from a mental institution has two obsessions: his estranged wife and the Philadelphia Eagles. The basis of the movie; originally published in 2009.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780374533571.jpg",
+			"name": "THE SILVER LININGS PLAYBOOK",
+			"publisher": "Farrar, Straus & Giroux",
+			"rank": 14
+		},
+		{
+			"author": "by Joel C. Rosenberg",
+			"description": "A C.I.A. operative searches for two nuclear warheads that survived an Israeli attack on Iran.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781414381855.jpg",
+			"name": "DAMASCUS COUNTDOWN",
+			"publisher": "Tyndale House Publishers",
+			"rank": 15
+		}
+	]
+}

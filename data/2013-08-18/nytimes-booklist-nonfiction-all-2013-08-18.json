@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Reza Aslan",
+			"description": "A biography of Jesus of Nazareth presents him in the context of his times as the leader of a revolutionary movement.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400069224.jpg",
+			"name": "ZEALOT",
+			"publisher": "Random House",
+			"rank": 1
+		},
+		{
+			"author": "by Mark Leibovich",
+			"description": "An examination of Washington\u2019s \u201cmedia-industrial complex\u201d by the chief national correspondent for The New York Times Magazine.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399161308.jpg",
+			"name": "THIS TOWN",
+			"publisher": "Blue Rider",
+			"rank": 2
+		},
+		{
+			"author": "by Piper Kerman",
+			"description": "A memoir by a Brooklyn woman whose relationship with a drug runner gets her sentenced to a year in prison. The basis for the Netflix series, originally published in 2010.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385530262.jpg",
+			"name": "ORANGE IS THE NEW BLACK",
+			"publisher": "Spiegel & Grau",
+			"rank": 3
+		},
+		{
+			"author": "by Eben Alexander",
+			"description": "A neurosurgeon recounts his near death experience during a coma from bacterial meningitis.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451695199.jpg",
+			"name": "PROOF OF HEAVEN",
+			"publisher": "Simon & Schuster",
+			"rank": 4
+		},
+		{
+			"author": "by Sheryl Sandberg with Nell Scovell",
+			"description": "The chief operating officer of Facebook urges women to pursue their careers without ambivalence.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385349956.jpg",
+			"name": "LEAN IN",
+			"publisher": "Knopf",
+			"rank": 5
+		},
+		{
+			"author": "by Phil Robertson with Mark Schlabach",
+			"description": "The Duck Commander pays tribute to \u201cfaith, family and ducks.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476726090.jpg",
+			"name": "HAPPY, HAPPY, HAPPY",
+			"publisher": "Howard Books",
+			"rank": 6
+		},
+		{
+			"author": "by Laura Hillenbrand",
+			"description": "An Olympic runner\u2019s story of survival as a prisoner of the Japanese in World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400064168.jpg",
+			"name": "UNBROKEN",
+			"publisher": "Random House",
+			"rank": 7
+		},
+		{
+			"author": "by David Sedaris",
+			"description": "Essays from the humorist on subjects like French dentistry and a North Carolina Costco.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316125680.jpg",
+			"name": "LET'S EXPLORE DIABETES WITH OWLS",
+			"publisher": "Little, Brown",
+			"rank": 8
+		},
+		{
+			"author": "by Shirley Jones with Wendy Leigh",
+			"description": "A memoir by the Oscar-winning actress and singer (\u201cCarousel,\u201d \u201cElmer Gantry,\u201d \u201cThe Partridge Family\u201d).",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476725956.jpg",
+			"name": "SHIRLEY JONES",
+			"publisher": "Gallery Books",
+			"rank": 9
+		},
+		{
+			"author": "by Malcolm Gladwell",
+			"description": "Why some people succeed \u2014 it has to do with luck and opportunities as well as talent. From the author of \"Blink\" and \"The Tipping Point.\"",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316017930.jpg",
+			"name": "OUTLIERS",
+			"publisher": "Little, Brown",
+			"rank": 10
+		},
+		{
+			"author": "by Jeannette Walls",
+			"description": "The author recalls a bizarre childhood during which she was constantly moved from place to place.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780743247542.jpg",
+			"name": "THE GLASS CASTLE",
+			"publisher": "Simon & Schuster",
+			"rank": 11
+		},
+		{
+			"author": "by Susan Cain",
+			"description": "Introverts \u2014 one-third of the population \u2014 are undervalued in American society.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307452207.jpg",
+			"name": "QUIET",
+			"publisher": "Crown",
+			"rank": 12
+		},
+		{
+			"author": "by Gregg Olsen",
+			"description": "The story of a teacher convicted of child rape after having an affair with one of her sixth-grade students.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/A00B00A7KRWUY.jpg",
+			"name": "IF LOVING YOU IS WRONG",
+			"publisher": "St. Martin's",
+			"rank": 13
+		},
+		{
+			"author": "by Heather Lende",
+			"description": "A chronicle of life in small-town Alaska.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781565126565.jpg",
+			"name": "IF YOU LIVED HERE, I'D KNOW YOUR NAME",
+			"publisher": "Algonquin",
+			"rank": 14
+		},
+		{
+			"author": "by Cheryl Strayed",
+			"description": "A woman\u2019s account of a life-changing 1,100-mile hike along the Pacific Crest Trail during the summer of 1995.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307476074.jpg",
+			"name": "WILD",
+			"publisher": "Knopf",
+			"rank": 15
+		}
+	]
+}

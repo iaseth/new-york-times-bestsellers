@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Michelle Obama",
+			"description": "The former first lady describes her journey from the South Side of Chicago to the White House, and how she balanced work, family and her husband\u2019s political ascent.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524763138.jpg",
+			"name": "BECOMING",
+			"publisher": "Crown",
+			"rank": 1
+		},
+		{
+			"author": "by Tara Westover",
+			"description": "The daughter of survivalists, who is kept out of school, educates herself enough to leave home for university.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399590504.jpg",
+			"name": "EDUCATED",
+			"publisher": "Random House",
+			"rank": 2
+		},
+		{
+			"author": "by Charles Krauthammer, edited by Daniel Krauthammer",
+			"description": "A collection of essays, speeches and unpublished writings by the late conservative columnist.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984825483.jpg",
+			"name": "THE POINT OF IT ALL",
+			"publisher": "Crown Forum",
+			"rank": 3
+		},
+		{
+			"author": "by Yuval Noah Harari",
+			"description": "How Homo sapiens became Earth\u2019s dominant species.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062316097.jpg",
+			"name": "SAPIENS",
+			"publisher": "Harper",
+			"rank": 4
+		},
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "A look at the postwar manhunt for members of Hitler\u2019s inner circle.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250165541.jpg",
+			"name": "KILLING THE SS",
+			"publisher": "Holt",
+			"rank": 5
+		},
+		{
+			"author": "by John Carreyrou",
+			"description": "The rise and fall of Theranos, the biotech startup that failed to deliver on its promise to make blood testing more efficient.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524731663.jpg",
+			"name": "BAD BLOOD",
+			"publisher": "Knopf",
+			"rank": 6
+		},
+		{
+			"author": "by Ron Chernow",
+			"description": "A biography of the Union general of the Civil War and two-term president of the United States.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594204876.jpg",
+			"name": "GRANT",
+			"publisher": "Penguin Press",
+			"rank": 7
+		},
+		{
+			"author": "by Andrew Roberts",
+			"description": "A biography focusing on what motivated the war leader and how he learned from his mistakes.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101980996.jpg",
+			"name": "CHURCHILL: WALKING WITH DESTINY",
+			"publisher": "Viking",
+			"rank": 8
+		},
+		{
+			"author": "by Stephen Hawking",
+			"description": "A collection of essays from the late scientist\u2019s personal archive that address 10 imponderables.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984819192.jpg",
+			"name": "BRIEF ANSWERS TO THE BIG QUESTIONS",
+			"publisher": "Bantam",
+			"rank": 9
+		},
+		{
+			"author": "by Bob Woodward",
+			"description": "Based on hours of interviews with sources, the Pulitzer Prize-winning journalist describes debates and decision-making within the Trump White House.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501175534.jpg",
+			"name": "FEAR",
+			"publisher": "Simon & Schuster",
+			"rank": 10
+		},
+		{
+			"author": "by John Grisham",
+			"description": "Grisham's first nonfiction book concerns a man wrongly sentenced to death.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780440243830.jpg",
+			"name": "THE INNOCENT MAN",
+			"publisher": "Bantam/Dell",
+			"rank": 11
+		},
+		{
+			"author": "by Pete Souza",
+			"description": "The former White House photographer juxtaposes pictures of former President Obama with tweets, headlines and quotes from the Trump administration.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316421829.jpg",
+			"name": "SHADE",
+			"publisher": "Little, Brown",
+			"rank": 12
+		},
+		{
+			"author": "by Doris Kearns Goodwin",
+			"description": "The challenges that shaped the leadership abilities of four presidents: Abraham Lincoln, Theodore Roosevelt, Franklin D. Roosevelt and Lyndon B. Johnson.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476795928.jpg",
+			"name": "LEADERSHIP",
+			"publisher": "Simon & Schuster",
+			"rank": 13
+		},
+		{
+			"author": "by Michael Lewis",
+			"description": "The author of \"The Big Short\" examines how the Trump administration staffs its federal agencies.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781324002642.jpg",
+			"name": "THE FIFTH RISK",
+			"publisher": "Norton",
+			"rank": 14
+		},
+		{
+			"author": "by Yuval Noah Harari",
+			"description": "Technological, political and social issues in the modern era, and the choices individuals might consider in facing them.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525512172.jpg",
+			"name": "21 LESSONS FOR THE 21ST CENTURY",
+			"publisher": "Spiegel & Grau",
+			"rank": 15
+		}
+	]
+}

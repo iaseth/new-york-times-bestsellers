@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Rebecca Yarros",
+			"description": "The second book in the Empyrean series. Violet Sorrengail\u2019s next round of training might require her to betray the man she loves.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781649374172.jpg",
+			"name": "IRON FLAME",
+			"publisher": "Red Tower",
+			"rank": 1
+		},
+		{
+			"author": "by Rebecca Yarros",
+			"description": "Violet Sorrengail is urged by the commanding general, who also is her mother, to become a candidate for the elite dragon riders.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781649374042.jpg",
+			"name": "FOURTH WING",
+			"publisher": "Red Tower",
+			"rank": 2
+		},
+		{
+			"author": "by Michael Connelly",
+			"description": "The seventh book in the Lincoln Lawyer series. Haller and Bosch team up to prove the innocence of a woman in prison for killing her husband.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316563765.jpg",
+			"name": "RESURRECTION WALK",
+			"publisher": "Little, Brown",
+			"rank": 3
+		},
+		{
+			"author": "by John Grisham",
+			"description": "In a sequel to \u201cThe Firm,\u201d Mitch McDeere, who is now a partner at the world\u2019s largest law firm, gets caught up in a sinister plot.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385548953.jpg",
+			"name": "THE EXCHANGE",
+			"publisher": "Doubleday",
+			"rank": 4
+		},
+		{
+			"author": "by Travis Baldree",
+			"description": "In a prequel to \u201cLegends & Lattes,\" an orc who was hurt during a battle winds up in a sleepy beach town called Murk.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250886101.jpg",
+			"name": "BOOKSHOPS & BONEDUST",
+			"publisher": "Tor",
+			"rank": 5
+		},
+		{
+			"author": "by Lee Child and Andrew Child",
+			"description": "The 28th book in the Jack Reacher series. It\u2019s 1992 and Reacher looks into the cause of a string of mysterious deaths.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984818584.jpg",
+			"name": "THE SECRET",
+			"publisher": "Delacorte",
+			"rank": 6
+		},
+		{
+			"author": "by Janet Evanovich",
+			"description": "The 30th book in the Stephanie Plum series. Plum tracks a local jeweler\u2019s former security guard and has an overnight stakeout with relatives.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781668003091.jpg",
+			"name": "DIRTY THIRTY",
+			"publisher": "Atria",
+			"rank": 7
+		},
+		{
+			"author": "by Bonnie Garmus",
+			"description": "A scientist and single mother living in California in the 1960s becomes a star on a TV cooking show.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385547345.jpg",
+			"name": "LESSONS IN CHEMISTRY",
+			"publisher": "Doubleday",
+			"rank": 8
+		},
+		{
+			"author": "by Anthony Doerr",
+			"description": "The lives of a blind French girl and a gadget-obsessed German boy before and during World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476746586.jpg",
+			"name": "ALL THE LIGHT WE CANNOT SEE",
+			"publisher": "Scribner",
+			"rank": 9
+		},
+		{
+			"author": "by Dirk Cussler",
+			"description": "The 27th book in the Dirk Pitt series. A murderous cabal targets water treatment facilities around the world.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593544174.jpg",
+			"name": "CLIVE CUSSLER: THE CORSICAN SHADOW",
+			"publisher": "Putnam",
+			"rank": 10
+		},
+		{
+			"author": "by Lauren Asher",
+			"description": "An interior designer and a billionaire who were childhood rivals have an attraction to each other.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781728292137.jpg",
+			"name": "LOVE REDESIGNED",
+			"publisher": "Bloom",
+			"rank": 11
+		},
+		{
+			"author": "by Hannah Grace",
+			"description": "Anastasia might need the help of the captain of a college hockey team to get on the Olympic figure skating team.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781668026038.jpg",
+			"name": "ICEBREAKER",
+			"publisher": "Atria",
+			"rank": 12
+		},
+		{
+			"author": "by Laurell K. Hamilton",
+			"description": "The 30th book in the Anita Blake, Vampire Hunter series. Anita must introduce her fianc\u00e9, who is the vampire king of America, to her very religious family.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593637852.jpg",
+			"name": "SLAY",
+			"publisher": "Berkley",
+			"rank": 13
+		},
+		{
+			"author": "by Jim Butcher",
+			"description": "The second book in the Cinder Spires series. The Spires may soon be involved in an open war.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780451466822.jpg",
+			"name": "THE OLYMPIAN AFFAIR",
+			"publisher": "Ace",
+			"rank": 14
+		},
+		{
+			"author": "by Freida McFadden",
+			"description": "Troubles surface when a woman looking to make a fresh start takes a job in the home of the Winchesters.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538742570.jpg",
+			"name": "THE HOUSEMAID",
+			"publisher": "Grand Central",
+			"rank": 15
+		}
+	]
+}

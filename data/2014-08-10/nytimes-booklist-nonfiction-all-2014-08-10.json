@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Laura Hillenbrand",
+			"description": "An Olympic runner\u2019s story of survival as a prisoner of the Japanese in World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400064168.jpg",
+			"name": "UNBROKEN",
+			"publisher": "Random House",
+			"rank": 1
+		},
+		{
+			"author": "by Dinesh D'Souza",
+			"description": "A defense of America against the view that its power in the world should be diminished; also a documentary film.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781621572039.jpg",
+			"name": "AMERICA",
+			"publisher": "Regnery",
+			"rank": 2
+		},
+		{
+			"author": "by Todd Burpo with Lynn Vincent",
+			"description": "A 3-year-old\u2019s encounter with Jesus during an appendectomy; the basis of the movie.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780849949203.jpg",
+			"name": "HEAVEN IS FOR REAL",
+			"publisher": "Thomas Nelson",
+			"rank": 3
+		},
+		{
+			"author": "by Daniel James Brown",
+			"description": "The University of Washington\u2019s eight-oar crew and their quest for gold at the 1936 Berlin Olympics.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101622742.jpg",
+			"name": "THE BOYS IN THE BOAT",
+			"publisher": "Viking",
+			"rank": 4
+		},
+		{
+			"author": "by Piper Kerman",
+			"description": "A memoir by a Brooklyn woman whose relationship with a drug runner gets her sentenced to a year in prison. The basis for the Netflix series, originally published in 2010.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385530262.jpg",
+			"name": "ORANGE IS THE NEW BLACK",
+			"publisher": "Spiegel & Grau",
+			"rank": 5
+		},
+		{
+			"author": "by Edward Klein",
+			"description": "A journalist describes animosity behind the alliance between the Clinton and Obama families.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781621573135.jpg",
+			"name": "BLOOD FEUD",
+			"publisher": "Regnery",
+			"rank": 6
+		},
+		{
+			"author": "by Ben Carson with Candy Carson",
+			"description": "Carson, a retired pediatric neurosurgeon, now a Fox News contributor, offers solutions to problems in health and education based on capitalism, not government.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781595231123.jpg",
+			"name": "ONE NATION",
+			"publisher": "Sentinel",
+			"rank": 7
+		},
+		{
+			"author": "by Hillary Rodham Clinton",
+			"description": "Clinton\u2019s memoir focuses on her years as secretary of state and her views on America\u2019s role in the world.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476751450.jpg",
+			"name": "HARD CHOICES",
+			"publisher": "Simon & Schuster",
+			"rank": 8
+		},
+		{
+			"author": "by Marja Mills",
+			"description": "The author\u2019s experience as Harper Lee\u2019s neighbor.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698163836.jpg",
+			"name": "THE MOCKINGBIRD NEXT DOOR",
+			"publisher": "Penguin Press",
+			"rank": 9
+		},
+		{
+			"author": "by Malcolm Gladwell",
+			"description": "Why some people succeed; from the author of \"Blink\" and \"The Tipping Point.\"",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316017930.jpg",
+			"name": "OUTLIERS",
+			"publisher": "Little, Brown",
+			"rank": 10
+		},
+		{
+			"author": "by Ben Macintyre",
+			"description": "The British ruse that employed a corpse to fool the Nazis about the invasion of Sicily.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307453280.jpg",
+			"name": "OPERATION MINCEMEAT",
+			"publisher": "Broadway",
+			"rank": 11
+		},
+		{
+			"author": "by Cheryl Strayed",
+			"description": "A woman\u2019s account of a life-changing 1,100-mile hike along the Pacific Crest Trail during the summer of 1995.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307476074.jpg",
+			"name": "WILD",
+			"publisher": "Knopf",
+			"rank": 12
+		},
+		{
+			"author": "by Daniel Halper",
+			"description": "A view of how the family attained, lost and regained political power, from an editor of The Weekly Standard.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062311238.jpg",
+			"name": "CLINTON, INC.",
+			"publisher": "Broadside/HarperCollins",
+			"rank": 13
+		},
+		{
+			"author": "by Susan Cain",
+			"description": "Introverts \u2014 one-third of the population \u2014 are undervalued in American society.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307452207.jpg",
+			"name": "QUIET",
+			"publisher": "Crown",
+			"rank": 14
+		},
+		{
+			"author": "by Malcolm Gladwell",
+			"description": "How disadvantages can work in our favor; from the author of \"The Tipping Point\" and \"Outliers.\"",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316204361.jpg",
+			"name": "DAVID AND GOLIATH",
+			"publisher": "Little, Brown",
+			"rank": 15
+		}
+	]
+}

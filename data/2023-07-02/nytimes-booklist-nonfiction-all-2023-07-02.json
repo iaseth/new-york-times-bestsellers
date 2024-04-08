@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by David Grann",
+			"description": "The survivors of a shipwrecked British vessel on a secret mission during an imperial war with Spain have different accounts of events.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385534260.jpg",
+			"name": "THE WAGER",
+			"publisher": "Doubleday",
+			"rank": 1
+		},
+		{
+			"author": "by Peter Attia with Bill Gifford",
+			"description": "A look at recent scientific research on aging and longevity.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593236598.jpg",
+			"name": "OUTLIVE",
+			"publisher": "Harmony",
+			"rank": 2
+		},
+		{
+			"author": "by Hadley Vlahos",
+			"description": "A hospice nurse shares some of her most impactful experiences and questions some of society's beliefs around end-of-life care.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593499931.jpg",
+			"name": "THE IN-BETWEEN",
+			"publisher": "Ballantine",
+			"rank": 3
+		},
+		{
+			"author": "by Elliot Page",
+			"description": "The Oscar-nominated star details discovering himself as a trans person and navigating abuse in Hollywood.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250878359.jpg",
+			"name": "PAGEBOY",
+			"publisher": "Flatiron",
+			"rank": 4
+		},
+		{
+			"author": "by David Grann",
+			"description": "The story of a murder spree in 1920s Oklahoma that targeted Osage Indians, whose lands contained oil.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385534246.jpg",
+			"name": "KILLERS OF THE FLOWER MOON",
+			"publisher": "Doubleday",
+			"rank": 5
+		},
+		{
+			"author": "by Paul McCartney",
+			"description": "A collection of photographs taken with a 35-millimeter camera during the rise of the Beatles from the end of 1963 through early 1964.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781324093060.jpg",
+			"name": "1964",
+			"publisher": "Liveright",
+			"rank": 6
+		},
+		{
+			"author": "by Bessel van der Kolk",
+			"description": "How trauma affects the body and mind, and innovative treatments for recovery.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780670785933.jpg",
+			"name": "THE BODY KEEPS THE SCORE",
+			"publisher": "Penguin",
+			"rank": 7
+		},
+		{
+			"author": "by Jennette McCurdy",
+			"description": "The actress and filmmaker describes her eating disorders and difficult relationship with her mother.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982185824.jpg",
+			"name": "I'M GLAD MY MOM DIED",
+			"publisher": "Simon & Schuster",
+			"rank": 8
+		},
+		{
+			"author": "by Malcolm Gladwell",
+			"description": "Famous examples of miscommunication serve as the backdrop to explain potential conflicts and misunderstandings.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316478526.jpg",
+			"name": "TALKING TO STRANGERS",
+			"publisher": "Little, Brown",
+			"rank": 9
+		},
+		{
+			"author": "by Michelle Zauner",
+			"description": "The daughter of a Korean mother and Jewish American father, and leader of the indie rock project Japanese Breakfast, describes creating her own identity after losing her mother to cancer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525657743.jpg",
+			"name": "CRYING IN H MART",
+			"publisher": "Vintage",
+			"rank": 10
+		},
+		{
+			"author": "by David Von Drehle",
+			"description": "The Washington Post columnist shares stories and wisdom he learned from a neighbor who was more than a century old.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476773926.jpg",
+			"name": "THE BOOK OF CHARLIE",
+			"publisher": "Simon & Schuster",
+			"rank": 11
+		},
+		{
+			"author": "by Hannah Pick-Goslar with Dina Kraft",
+			"description": "A memoir by the Holocaust survivor who was first referred to as Lies Goosens in Anne Frank\u2019s diary.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316564403.jpg",
+			"name": "MY FRIEND ANNE FRANK",
+			"publisher": "Little, Brown Spark",
+			"rank": 12
+		},
+		{
+			"author": "by Jason Chaffetz",
+			"description": "The Fox News contributor and former congressman argues that liberals remain in power no matter who gets elected.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063034969.jpg",
+			"name": "THE PUPPETEERS",
+			"publisher": "Broadside",
+			"rank": 13
+		},
+		{
+			"author": "by Prince Harry",
+			"description": "The Duke of Sussex details his struggles with the royal family, loss of his mother, service in the British Army and marriage to Meghan Markle.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593593806.jpg",
+			"name": "SPARE",
+			"publisher": "Random House",
+			"rank": 14
+		},
+		{
+			"author": "by Javier Zamora",
+			"description": "The poet describes his journey over two months from El Salvador to the United States to reconnect with his parents who left years earlier.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593498064.jpg",
+			"name": "SOLITO",
+			"publisher": "Hogarth",
+			"rank": 15
+		}
+	]
+}

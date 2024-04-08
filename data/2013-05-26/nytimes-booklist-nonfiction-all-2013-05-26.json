@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Phil Robertson with Mark Schlabach",
+			"description": "The Duck Commander pays tribute to \u201cfaith, family and ducks.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476726090.jpg",
+			"name": "HAPPY, HAPPY, HAPPY",
+			"publisher": "Howard Books",
+			"rank": 1
+		},
+		{
+			"author": "by David Sedaris",
+			"description": "Essays from the humorist on subjects like French dentistry and a North Carolina Costco.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316125680.jpg",
+			"name": "LET'S EXPLORE DIABETES WITH OWLS",
+			"publisher": "Little, Brown",
+			"rank": 2
+		},
+		{
+			"author": "by Sheryl Sandberg with Nell Scovell",
+			"description": "The chief operating officer of Facebook urges women to pursue their careers without ambivalence.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385349956.jpg",
+			"name": "LEAN IN",
+			"publisher": "Knopf",
+			"rank": 3
+		},
+		{
+			"author": "by Glenn Beck and others",
+			"description": "An argument against gun restriction laws.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476739885.jpg",
+			"name": "CONTROL",
+			"publisher": "Threshold Editions/Mercury Radio Arts",
+			"rank": 4
+		},
+		{
+			"author": "by Eben Alexander",
+			"description": "A neurosurgeon recounts his near death experience during a coma from bacterial meningitis.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451695199.jpg",
+			"name": "PROOF OF HEAVEN",
+			"publisher": "Simon & Schuster",
+			"rank": 5
+		},
+		{
+			"author": "by Amanda Knox",
+			"description": "Knox, who was convicted of the murder of her roommate in 2009 when she was an American student in Italy, a conviction that was overturned in 2011, tells her story.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062217226.jpg",
+			"name": "WAITING TO BE HEARD",
+			"publisher": "Harper",
+			"rank": 6
+		},
+		{
+			"author": "by Michael Pollan",
+			"description": "The writer masters recipes and argues that regaining control of cooking will make Americans healthier.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594204210.jpg",
+			"name": "COOKED",
+			"publisher": "Penguin Press",
+			"rank": 7
+		},
+		{
+			"author": "by Jim Gaffigan",
+			"description": "The comedian\u2019s life with five kids in a two-bedroom New York City apartment.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385349079.jpg",
+			"name": "DAD IS FAT",
+			"publisher": "Crown Archetype",
+			"rank": 8
+		},
+		{
+			"author": "by Mika Brzezinski with Diane Smith",
+			"description": "The \u201cMorning Joe\u201d co-host discusses the obesity epidemic and her own struggles around food.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781602861763.jpg",
+			"name": "OBSESSED",
+			"publisher": "Weinstein",
+			"rank": 9
+		},
+		{
+			"author": "by Cheryl Strayed",
+			"description": "A woman\u2019s account of a life-changing 1,100-mile hike along the Pacific Crest Trail during the summer of 1995.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307476074.jpg",
+			"name": "WILD",
+			"publisher": "Knopf",
+			"rank": 10
+		},
+		{
+			"author": "by Willie and Korie Robertson with Mark Schlabach",
+			"description": "Behind the scenes at the A&E show \u201cDuck Dynasty.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476703541.jpg",
+			"name": "DUCK COMMANDERS",
+			"publisher": "Howard Books",
+			"rank": 11
+		},
+		{
+			"author": "by Jaycee Dugard",
+			"description": "A woman describes being kidnapped at the age of 11 and held prisoner for 18 years by a convicted rapist and his wife.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451629194.jpg",
+			"name": "A STOLEN LIFE",
+			"publisher": "Simon & Schuster",
+			"rank": 12
+		},
+		{
+			"author": "by Jackie Hance with Janice Kaplan",
+			"description": "The experience of a mother whose three daughters were killed when her sister-in-law drove the wrong way down the Taconic Parkway.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451674774.jpg",
+			"name": "I'LL SEE YOU AGAIN",
+			"publisher": "Gallery",
+			"rank": 13
+		},
+		{
+			"author": "by Chris Kyle with Scott McEwen and Jim DeFelice",
+			"description": "A member of the Navy SEALs discusses his childhood, his marriage and his battlefield experiences during the Iraq war. Kyle was recently shot to death in Texas.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062082374.jpg",
+			"name": "AMERICAN SNIPER",
+			"publisher": "Morrow/HarperCollins",
+			"rank": 14
+		},
+		{
+			"author": "by Nathaniel Philbrick",
+			"description": "The story of the battle that marked the point of no return for the rebellious American colonists.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101622704.jpg",
+			"name": "BUNKER HILL",
+			"publisher": "Viking",
+			"rank": 15
+		}
+	]
+}

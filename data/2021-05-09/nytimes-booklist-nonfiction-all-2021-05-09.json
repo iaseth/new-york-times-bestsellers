@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by George W. Bush",
+			"description": "Forty-three portraits by the former president, of men and women who have immigrated to the United States.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593136966.jpg",
+			"name": "OUT OF MANY, ONE",
+			"publisher": "Crown",
+			"rank": 1
+		},
+		{
+			"author": "by Michelle Zauner",
+			"description": "The daughter of a Korean mother and Jewish-American father, and leader of the indie rock project Japanese Breakfast, describes creating her own identity after losing her mother to cancer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525657743.jpg",
+			"name": "CRYING IN H MART",
+			"publisher": "Knopf",
+			"rank": 2
+		},
+		{
+			"author": "by Bessel van der Kolk",
+			"description": "How trauma affects the body and mind, and innovative treatments for recovery.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780670785933.jpg",
+			"name": "THE BODY KEEPS THE SCORE",
+			"publisher": "Penguin",
+			"rank": 3
+		},
+		{
+			"author": "by John Boehner",
+			"description": "The former speaker of the House reflects on his time in Washington, key political figures and the current state of the Republican Party.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250238443.jpg",
+			"name": "ON THE HOUSE",
+			"publisher": "St. Martin's",
+			"rank": 4
+		},
+		{
+			"author": "by Matthew McConaughey",
+			"description": "The Academy Award-winning actor shares snippets from the diaries he kept over the last 35 years.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593139134.jpg",
+			"name": "GREENLIGHTS",
+			"publisher": "Crown",
+			"rank": 5
+		},
+		{
+			"author": "by Isabel Wilkerson",
+			"description": "The Pulitzer Prize-winning journalist examines aspects of caste systems across civilizations and reveals a rigid hierarchy in America today.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593230251.jpg",
+			"name": "CASTE",
+			"publisher": "Random House",
+			"rank": 6
+		},
+		{
+			"author": "by Walter Isaacson",
+			"description": "How the Nobel Prize winner Jennifer Doudna and her colleagues invented CRISPR, a tool that can edit DNA.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982115852.jpg",
+			"name": "THE CODE BREAKER",
+			"publisher": "Simon & Schuster",
+			"rank": 7
+		},
+		{
+			"author": "by Bob Drury and Tom Clavin",
+			"description": "A depiction of the frontiersman Daniel Boone.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250247131.jpg",
+			"name": "BLOOD AND TREASURE",
+			"publisher": "St. Martin's",
+			"rank": 8
+		},
+		{
+			"author": "by Adam Grant",
+			"description": "An examination of the cognitive skills of rethinking and unlearning that could be used to adapt to a rapidly changing world.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984878106.jpg",
+			"name": "THINK AGAIN",
+			"publisher": "Viking",
+			"rank": 9
+		},
+		{
+			"author": "by Brandi Carlile",
+			"description": "The six-time Grammy Award-winning singer and songwriter recounts difficulties during her formative years and her hard-won successes.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593237243.jpg",
+			"name": "BROKEN HORSES",
+			"publisher": "Crown",
+			"rank": 10
+		},
+		{
+			"author": "by Glennon Doyle",
+			"description": "The activist and public speaker describes her journey of listening to her inner voice.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984801258.jpg",
+			"name": "UNTAMED",
+			"publisher": "Dial",
+			"rank": 11
+		},
+		{
+			"author": "by Susan Page",
+			"description": "Based on numerous interviews, the USA Today Washington bureau chief profiles the current speaker of the House, Nancy Pelosi.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538750698.jpg",
+			"name": "MADAM SPEAKER",
+			"publisher": "Twelve",
+			"rank": 12
+		},
+		{
+			"author": "by Patrick Radden Keefe",
+			"description": "A portrait of the Sackler family, known for their philanthropy toward institutions around the world, and their involvement with Valium and OxyContin.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385545686.jpg",
+			"name": "EMPIRE OF PAIN",
+			"publisher": "Doubleday",
+			"rank": 13
+		},
+		{
+			"author": "by Jenny Lawson",
+			"description": "The humorist maps out her mental and physical health journey.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250077035.jpg",
+			"name": "BROKEN",
+			"publisher": "Holt",
+			"rank": 14
+		},
+		{
+			"author": "by Jonny Sun",
+			"description": "A collection of personal essays on anxiety, loneliness and productivity.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062880857.jpg",
+			"name": "GOODBYE, AGAIN",
+			"publisher": "Harper Perennial",
+			"rank": 15
+		}
+	]
+}

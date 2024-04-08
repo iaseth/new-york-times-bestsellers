@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by John Sandford",
+			"description": "Virgil Flowers of the Minnesota Bureau of Criminal Apprehension must deal with the theft of tigers from the local zoo.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399168918.jpg",
+			"name": "ESCAPE CLAUSE",
+			"publisher": "Putnam",
+			"rank": 1
+		},
+		{
+			"author": "by Paula Hawkins",
+			"description": "A psychological thriller set in the environs of London is full of complications and betrayals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594633669.jpg",
+			"name": "THE GIRL ON THE TRAIN",
+			"publisher": "Riverhead",
+			"rank": 2
+		},
+		{
+			"author": "by Douglas Preston and Lincoln Child",
+			"description": "While the F.B.I. agent Aloysius Pendergast is believed dead, his ward is kidnapped.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455536917.jpg",
+			"name": "THE OBSIDIAN CHAMBER",
+			"publisher": "Grand Central",
+			"rank": 3
+		},
+		{
+			"author": "by Nicholas Sparks",
+			"description": "A man who became a single father when his marriage and business collapsed learns to take a chance on a new love.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455520701.jpg",
+			"name": "TWO BY TWO",
+			"publisher": "Grand Central",
+			"rank": 4
+		},
+		{
+			"author": "by Jodi Picoult",
+			"description": "A medical crisis entangles a black nurse, a white supremacist father and a white lawyer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345544964.jpg",
+			"name": "SMALL GREAT THINGS",
+			"publisher": "Ballantine",
+			"rank": 5
+		},
+		{
+			"author": "by Kyle Mills",
+			"description": "Vince Flynn\u2019s character, the C.I.A. operative Mitch Rapp, uncovers a dangerous Russian plot. Flynn died in 2013.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476783505.jpg",
+			"name": "VINCE FLYNN: ORDER TO KILL",
+			"publisher": "Emily Bestler/Atria",
+			"rank": 6
+		},
+		{
+			"author": "by Fredrik Backman",
+			"description": "A curmudgeon's gruff exterior masks a generosity of spirit. Originally published in Sweden in 2014.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476738024.jpg",
+			"name": "A MAN CALLED OVE",
+			"publisher": "Washington Square",
+			"rank": 7
+		},
+		{
+			"author": "by Dan Brown",
+			"description": "The symbologist Robert Langdon, on the run in Florence, must decipher a series of codes created by a Dante-loving scientist.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400079155.jpg",
+			"name": "INFERNO",
+			"publisher": "Anchor",
+			"rank": 8
+		},
+		{
+			"author": "by Lauren Blakely",
+			"description": "A nanny finds herself falling for the father of her charge.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/A00B01M9BU7A1.jpg",
+			"name": "THE SEXY ONE",
+			"publisher": "Lauren Blakely",
+			"rank": 9
+		},
+		{
+			"author": "by Harlan Coben",
+			"description": "Myron Bolitar and his friend Win locate a boy who was kidnapped 10 years earlier; the 11th Myron Bolitar novel.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698411449.jpg",
+			"name": "HOME",
+			"publisher": "Dutton",
+			"rank": 10
+		},
+		{
+			"author": "by Ann Patchett",
+			"description": "Five decades in the lives of two families \u2014 parents, children, siblings, stepchildren \u2014 that have been remade by divorce.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062491817.jpg",
+			"name": "COMMONWEALTH",
+			"publisher": "Harper/HarperCollins",
+			"rank": 11
+		},
+		{
+			"author": "by James Patterson and Kathryn Fox",
+			"description": "Private Sydney's elite team looks for a seemingly untraceable man.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455568147.jpg",
+			"name": "MISSING",
+			"publisher": "Grand Central",
+			"rank": 12
+		},
+		{
+			"author": "by Ruth Ware",
+			"description": "A travel writer on a cruise is certain she has heard a body thrown overboard, but no one believes her.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501132940.jpg",
+			"name": "THE WOMAN IN CABIN 10",
+			"publisher": "Scout",
+			"rank": 13
+		},
+		{
+			"author": "by Tana French",
+			"description": "In the sixth Dublin Murder Squad novel, Detective Antoinette Conway confronts a case that is more complicated than it initially appears.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780670026333.jpg",
+			"name": "THE TRESPASSER",
+			"publisher": "Viking",
+			"rank": 14
+		},
+		{
+			"author": "by Emma Chase",
+			"description": "A prince pursues the waitress who throws a pie in his face.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780997426229.jpg",
+			"name": "ROYALLY SCREWED",
+			"publisher": "Emma Chase",
+			"rank": 15
+		}
+	]
+}

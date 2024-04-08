@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Peter Schweizer",
+			"description": "The author of \u201cClinton Cash\u201d describes what some politicians might do to enrich themselves while in office.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062569363.jpg",
+			"name": "SECRET EMPIRES",
+			"publisher": "Harper",
+			"rank": 1
+		},
+		{
+			"author": "by Michael Isikoff and David Corn",
+			"description": "Details of the 2016 presidential election, with an emphasis on Russia's possible involvement.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538728758.jpg",
+			"name": "RUSSIAN ROULETTE",
+			"publisher": "Twelve",
+			"rank": 2
+		},
+		{
+			"author": "by Tara Westover",
+			"description": "The daughter of survivalists, who is kept out of school, educates herself enough to leave home for university.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399590504.jpg",
+			"name": "EDUCATED",
+			"publisher": "Random House",
+			"rank": 3
+		},
+		{
+			"author": "by Michael Wolff",
+			"description": "A journalist offers an inside account of the first year of the Trump White House.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250158079.jpg",
+			"name": "FIRE AND FURY",
+			"publisher": "Holt",
+			"rank": 4
+		},
+		{
+			"author": "by Michelle McNamara",
+			"description": "The late true-crime journalist's search for the serial murderer and rapist known as \"the Golden State Killer.\"",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062319784.jpg",
+			"name": "I'LL BE GONE IN THE DARK",
+			"publisher": "Harper",
+			"rank": 5
+		},
+		{
+			"author": "by Stephen Hawking",
+			"description": "The British cosmologist reviews efforts to create a unified theory of the universe; first published in 1988.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780553380163.jpg",
+			"name": "A BRIEF HISTORY OF TIME",
+			"publisher": "Bantam",
+			"rank": 6
+		},
+		{
+			"author": "by Neil deGrasse Tyson",
+			"description": "A straightforward, easy-to-understand introduction to the laws that govern the universe.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780393609394.jpg",
+			"name": "ASTROPHYSICS FOR PEOPLE IN A HURRY",
+			"publisher": "Norton",
+			"rank": 7
+		},
+		{
+			"author": "by Steven Pinker",
+			"description": "A case for using reason, science and humanism to counter pessimistic views of Western civilization.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525427575.jpg",
+			"name": "ENLIGHTENMENT NOW",
+			"publisher": "Viking",
+			"rank": 8
+		},
+		{
+			"author": "by Erika Jayne",
+			"description": "A memoir by the star of \"The Real Housewives of Beverly Hills.\"",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501181917.jpg",
+			"name": "PRETTY MESS",
+			"publisher": "Gallery",
+			"rank": 9
+		},
+		{
+			"author": "by David Grann",
+			"description": "The story of a murder spree in 1920s Oklahoma that targeted Osage Indians, whose lands contained oil.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385534246.jpg",
+			"name": "KILLERS OF THE FLOWER MOON",
+			"publisher": "Doubleday",
+			"rank": 10
+		},
+		{
+			"author": "by Bart D. Ehrman",
+			"description": "The religious studies professor explores how a new religion came to influence Western society.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501136702.jpg",
+			"name": "THE TRIUMPH OF CHRISTIANITY",
+			"publisher": "Simon & Schuster",
+			"rank": 11
+		},
+		{
+			"author": "by Pete Souza",
+			"description": "More than 300 pictures of the former president by his White House photographer, with behind-the-scenes stories.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316512589.jpg",
+			"name": "OBAMA",
+			"publisher": "Little, Brown",
+			"rank": 12
+		},
+		{
+			"author": "by Tiffany Haddish",
+			"description": "The comedian recounts growing up in South Central Los Angeles and finding success after a period of homelessness.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501181825.jpg",
+			"name": "THE LAST BLACK UNICORN",
+			"publisher": "Gallery",
+			"rank": 13
+		},
+		{
+			"author": "by Trevor Noah",
+			"description": "A memoir about growing up biracial in apartheid South Africa by the host of \u201cThe Daily Show.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399588181.jpg",
+			"name": "BORN A CRIME",
+			"publisher": "Spiegel & Grau",
+			"rank": 14
+		},
+		{
+			"author": "by Mitch Landrieu",
+			"description": "A memoir by the mayor who called for the removal of four Confederate monuments in New Orleans.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525559443.jpg",
+			"name": "IN THE SHADOW OF STATUES",
+			"publisher": "Viking",
+			"rank": 15
+		}
+	]
+}

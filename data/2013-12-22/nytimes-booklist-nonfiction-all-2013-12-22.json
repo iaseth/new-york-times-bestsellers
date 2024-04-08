@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Charles Krauthammer",
+			"description": "Three decades\u2019 worth of essays from the conservative columnist.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385349178.jpg",
+			"name": "THINGS THAT MATTER",
+			"publisher": "Crown Forum",
+			"rank": 1
+		},
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "The host of \"The O'Reilly Factor\" recounts the events leading up to Jesus' execution.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780805098549.jpg",
+			"name": "KILLING JESUS",
+			"publisher": "Holt",
+			"rank": 2
+		},
+		{
+			"author": "by Malcolm Gladwell",
+			"description": "How disadvantages can work in our favor; from the author of \"The Tipping Point\" and \"Outliers.\"",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316204361.jpg",
+			"name": "DAVID AND GOLIATH",
+			"publisher": "Little, Brown",
+			"rank": 3
+		},
+		{
+			"author": "by Brian Kilmeade and Don Yaeger",
+			"description": "The story of the Culper spy ring, which aided the American cause during the Revolution.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698137653.jpg",
+			"name": "GEORGE WASHINGTON'S SECRET SIX",
+			"publisher": "Sentinel",
+			"rank": 4
+		},
+		{
+			"author": "by Glenn Beck with Kevin Balfe and Hannah Beck",
+			"description": "Little-known stories from the American past.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476764757.jpg",
+			"name": "MIRACLES AND MASSACRES",
+			"publisher": "Threshold Editions/Mercury Radio Arts",
+			"rank": 5
+		},
+		{
+			"author": "by Doris Kearns Goodwin",
+			"description": "The relationship between Theodore Roosevelt and William Howard Taft and the activities of the muckraking press, from the author of \u201cTeam of Rivals.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781416547860.jpg",
+			"name": "THE BULLY PULPIT",
+			"publisher": "Simon & Schuster",
+			"rank": 6
+		},
+		{
+			"author": "by Brandon Stanton",
+			"description": "Four hundred color photos of New Yorkers, with brief commentary by Stanton.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250038821.jpg",
+			"name": "HUMANS OF NEW YORK",
+			"publisher": "St. Martin's",
+			"rank": 7
+		},
+		{
+			"author": "by Malala Yousafzai with Christina Lamb",
+			"description": "The experience of the Pakistani girl who advocated for women\u2019s education and was shot by the Taliban.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316322409.jpg",
+			"name": "I AM MALALA",
+			"publisher": "Little, Brown",
+			"rank": 8
+		},
+		{
+			"author": "by Si Robertson with Mark Schlabach",
+			"description": "Tales from Phil\u2019s youngest brother, retired from the Army, who works in the Duck Commander workshop.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476745398.jpg",
+			"name": "SI-COLOGY 1",
+			"publisher": "Howard Books",
+			"rank": 9
+		},
+		{
+			"author": "by Sheryl Sandberg with Nell Scovell",
+			"description": "The chief operating officer of Facebook urges women to pursue their careers without ambivalence.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385349956.jpg",
+			"name": "LEAN IN",
+			"publisher": "Knopf",
+			"rank": 10
+		},
+		{
+			"author": "by Nelson Mandela",
+			"description": "An autobiography of the late South African leader and the basis for a film dramatization.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780759521049.jpg",
+			"name": "LONG WALK TO FREEDOM",
+			"publisher": "Back Bay/Little, Brown",
+			"rank": 11
+		},
+		{
+			"author": "by Bill Bryson",
+			"description": "The events of the summer of 1927: Charles Lindbergh\u2019s trans-Atlantic flight, Babe Ruth\u2019s 60 homers, the great Mississippi flood.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385537827.jpg",
+			"name": "ONE SUMMER",
+			"publisher": "Doubleday",
+			"rank": 12
+		},
+		{
+			"author": "by Marcus Luttrell with Patrick Robinson",
+			"description": "The only survivor of a Navy SEALs operation in northern Afghanistan describes the battle, his comrades and his courageous escape.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316067607.jpg",
+			"name": "LONE SURVIVOR",
+			"publisher": "Little, Brown",
+			"rank": 13
+		},
+		{
+			"author": "by Laura Hillenbrand",
+			"description": "An Olympic runner\u2019s story of survival as a prisoner of the Japanese in World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400064168.jpg",
+			"name": "UNBROKEN",
+			"publisher": "Random House",
+			"rank": 14
+		},
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "The host of \u201cThe O\u2019Reilly Factor\u201d recounts the assassination of John F. Kennedy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780805096668.jpg",
+			"name": "KILLING KENNEDY",
+			"publisher": "Holt",
+			"rank": 15
+		}
+	]
+}

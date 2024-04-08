@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Paula Hawkins",
+			"description": "A psychological thriller set in London is full of complications and betrayals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594633669.jpg",
+			"name": "THE GIRL ON THE TRAIN",
+			"publisher": "Riverhead",
+			"rank": 1
+		},
+		{
+			"author": "by James Patterson and Maxine Paetro",
+			"description": "Jack Morgan, the head of an investigative firm, uncovers a murder ring in Las Vegas.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316211147.jpg",
+			"name": "PRIVATE VEGAS",
+			"publisher": "Little, Brown",
+			"rank": 2
+		},
+		{
+			"author": "by E. L. James",
+			"description": "An innocent college student falls in love with a tortured man with particular sexual tastes; the first of a trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345803481.jpg",
+			"name": "FIFTY SHADES OF GREY",
+			"publisher": "Vintage",
+			"rank": 3
+		},
+		{
+			"author": "by Anthony Doerr",
+			"description": "The lives of a blind French girl and a gadget-obsessed German boy before and during World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476746586.jpg",
+			"name": "ALL THE LIGHT WE CANNOT SEE",
+			"publisher": "Scribner",
+			"rank": 4
+		},
+		{
+			"author": "by Christine Feehan",
+			"description": "Desperate to protect three little girls, a seductive woman turns to the bayou GhostWalker Wyatt Fontenot.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780515155549.jpg",
+			"name": "VIPER GAME",
+			"publisher": "Jove",
+			"rank": 5
+		},
+		{
+			"author": "by Gillian Flynn",
+			"description": "A woman disappears on the day of her fifth anniversary; is her husband a killer?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307588388.jpg",
+			"name": "GONE GIRL",
+			"publisher": "Crown",
+			"rank": 6
+		},
+		{
+			"author": "by Jamie McGuire",
+			"description": "Liis Lindy, an F.B.I. agent, falls in love with the difficult and demanding Thomas Maddox, the special agent in charge of the Chicago office. The second Maddox Brothers novel.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781502541857.jpg",
+			"name": "BEAUTIFUL REDEMPTION",
+			"publisher": "Jamie McGuire",
+			"rank": 7
+		},
+		{
+			"author": "by Julia Quinn",
+			"description": "Richard Kenworthy has less than a month to find a bride when he sees Iris Smythe-Smith hiding behind her cello at her family's infamous musicale.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062072955.jpg",
+			"name": "THE SECRETS OF SIR RICHARD KENWORTHY",
+			"publisher": "Avon/HarperCollins",
+			"rank": 8
+		},
+		{
+			"author": "by Liane Moriarty",
+			"description": "Who will end up dead, and how, when three mothers with children in the same school become friends?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698138636.jpg",
+			"name": "BIG LITTLE LIES",
+			"publisher": "Amy Einhorn/Putnam",
+			"rank": 9
+		},
+		{
+			"author": "by Jeaniene Frost",
+			"description": "The third novel in the Night Prince series finds Vlad and his newly turned bride, Leila, at odds and vulnerable to the one vampire powerful enough to end the Dark Prince's reign.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062076083.jpg",
+			"name": "BOUND BY FLAMES",
+			"publisher": "Avon/HarperCollins",
+			"rank": 10
+		},
+		{
+			"author": "by Lisa Genova",
+			"description": "A 50-year-old Harvard professor learns she has early-onset Alzheimer's disease; now a movie.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781439102817.jpg",
+			"name": "STILL ALICE",
+			"publisher": "Pocket Books",
+			"rank": 11
+		},
+		{
+			"author": "by Maya Banks",
+			"description": "Beau Devereaux, head of Devereaux Security, finds himself falling for the young woman with telekinetic powers he's supposed to be protecting; the second Slow Burn novel.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062312495.jpg",
+			"name": "IN HIS KEEPING",
+			"publisher": "Avon/HarperCollins",
+			"rank": 12
+		},
+		{
+			"author": "by E. L. James",
+			"description": "The second book in a trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345803498.jpg",
+			"name": "FIFTY SHADES DARKER",
+			"publisher": "Vintage",
+			"rank": 13
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "John Puller, a special agent with the Army, hunts for his brother, who was convicted of treason and has escaped from prison.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455521197.jpg",
+			"name": "THE ESCAPE",
+			"publisher": "Grand Central",
+			"rank": 14
+		},
+		{
+			"author": "by John Grisham",
+			"description": "A downsized Wall Street lawyer joins a legal clinic in a small Virginia town, and litigates against the coal-mining industry.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385537148.jpg",
+			"name": "GRAY MOUNTAIN",
+			"publisher": "Doubleday",
+			"rank": 15
+		}
+	]
+}

@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Amy Poehler",
+			"description": "A humorous miscellany from the comedian and actress, the \u201cS.N.L.\u201d alumna and star of \u201cParks and Recreation.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062268341.jpg",
+			"name": "YES PLEASE",
+			"publisher": "Dey St./Morrow",
+			"rank": 1
+		},
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "The host of \u201cThe O\u2019Reilly Factor\u201d recounts the strange death of Gen. George S. Patton in December 1945.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780805096699.jpg",
+			"name": "KILLING PATTON",
+			"publisher": "Holt",
+			"rank": 2
+		},
+		{
+			"author": "by Laura Hillenbrand",
+			"description": "An Olympic runner\u2019s story of survival as a prisoner of the Japanese in World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400064168.jpg",
+			"name": "UNBROKEN",
+			"publisher": "Random House",
+			"rank": 3
+		},
+		{
+			"author": "by Lena Dunham",
+			"description": "A collection of revealing and often humorous personal essays from the creator and star of \u201cGirls.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812995008.jpg",
+			"name": "NOT THAT KIND OF GIRL",
+			"publisher": "Random House",
+			"rank": 4
+		},
+		{
+			"author": "by Daniel James Brown",
+			"description": "The University of Washington\u2019s eight-oar crew and their quest for gold at the 1936 Berlin Olympics.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101622742.jpg",
+			"name": "THE BOYS IN THE BOAT",
+			"publisher": "Viking",
+			"rank": 5
+		},
+		{
+			"author": "by Atul Gawande",
+			"description": "The surgeon and New Yorker writer considers how doctors fail patients at the end of life, and how they can do better.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780805095159.jpg",
+			"name": "BEING MORTAL",
+			"publisher": "Metropolitan/Holt",
+			"rank": 6
+		},
+		{
+			"author": "by Derek Jeter with Anthony Bozza",
+			"description": "The Yankee shortstop and team captain looks back over his career, with photographs from his recently concluded final season, as well as older ones.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476783666.jpg",
+			"name": "JETER UNFILTERED",
+			"publisher": "Jeter Publishing/Gallery Books",
+			"rank": 7
+		},
+		{
+			"author": "by James D. Hornfischer",
+			"description": "An account of a naval battle during the campaign to liberate the Philippines in 1944.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307487308.jpg",
+			"name": "THE LAST STAND OF THE TIN CAN SAILORS",
+			"publisher": "Bantam",
+			"rank": 8
+		},
+		{
+			"author": "by Glenn Beck with Kevin Balfe",
+			"description": "More little-known stories from America\u2019s past; a follow-up to \u201cMiracles and Massacres.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476783895.jpg",
+			"name": "DREAMERS AND DECEIVERS",
+			"publisher": "Threshold Editions/Mercury Radio Arts",
+			"rank": 9
+		},
+		{
+			"author": "by Walter Isaacson",
+			"description": "Studies of the people who created computers and the Internet, beginning in the 1840s.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476708713.jpg",
+			"name": "THE INNOVATORS",
+			"publisher": "Simon & Schuster",
+			"rank": 10
+		},
+		{
+			"author": "by Jim Gaffigan",
+			"description": "The comedian, author of \u201cDad Is Fat,\u201d describes his relationship with his subject.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780804140423.jpg",
+			"name": "FOOD",
+			"publisher": "Crown Archetype",
+			"rank": 11
+		},
+		{
+			"author": "by Cheryl Strayed",
+			"description": "A woman\u2019s account of a life-changing 1,100-mile hike along the Pacific Crest Trail during the summer of 1995.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307476074.jpg",
+			"name": "WILD",
+			"publisher": "Knopf",
+			"rank": 12
+		},
+		{
+			"author": "by Barbara Leaming",
+			"description": "The former first lady\u2019s struggles after John Kennedy\u2019s assassination.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250017635.jpg",
+			"name": "JACQUELINE BOUVIER KENNEDY ONASSIS",
+			"publisher": "Thomas Dunne/St. Martin\u2019s",
+			"rank": 13
+		},
+		{
+			"author": "by Jill Lepore",
+			"description": "The Harvard historian and New Yorker writer argues that Wonder Woman\u2019s creator was influenced by early feminists.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385354059.jpg",
+			"name": "THE SECRET HISTORY OF WONDER WOMAN",
+			"publisher": "Knopf",
+			"rank": 14
+		},
+		{
+			"author": "by Richard Preston",
+			"description": "The discovery of the Ebola virus, and the efforts to keep it from spreading; first published in 1994.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307817655.jpg",
+			"name": "THE HOT ZONE",
+			"publisher": "Anchor",
+			"rank": 15
+		}
+	]
+}

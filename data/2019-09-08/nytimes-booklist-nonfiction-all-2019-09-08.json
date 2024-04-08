@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Tara Westover",
+			"description": "The daughter of survivalists, who is kept out of school, educates herself enough to leave home for university.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399590504.jpg",
+			"name": "EDUCATED",
+			"publisher": "Random House",
+			"rank": 1
+		},
+		{
+			"author": "by Michelle Obama",
+			"description": "The former first lady describes her journey from the South Side of Chicago to the White House, and how she balanced work, family and her husband\u2019s political ascent.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524763138.jpg",
+			"name": "BECOMING",
+			"publisher": "Crown",
+			"rank": 2
+		},
+		{
+			"author": "by Ibram X. Kendi",
+			"description": "A primer for creating a more just and equitable society through identifying and opposing racism.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525509288.jpg",
+			"name": "HOW TO BE AN ANTIRACIST",
+			"publisher": "One World",
+			"rank": 3
+		},
+		{
+			"author": "by Trevor Noah",
+			"description": "A memoir about growing up biracial in apartheid South Africa by the host of \u201cThe Daily Show.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399588181.jpg",
+			"name": "BORN A CRIME",
+			"publisher": "Spiegel & Grau",
+			"rank": 4
+		},
+		{
+			"author": "by Lisa Taddeo",
+			"description": "The inequality of female desire is explored through the sex lives of a homemaker, a high school student and a restaurant owner.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451642292.jpg",
+			"name": "THREE WOMEN",
+			"publisher": "Avid Reader",
+			"rank": 5
+		},
+		{
+			"author": "by David McCullough",
+			"description": "The Pulitzer Prize-winning historian tells the story of the settling of the Northwest Territory through five main characters.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501168680.jpg",
+			"name": "THE PIONEERS",
+			"publisher": "Simon & Schuster",
+			"rank": 6
+		},
+		{
+			"author": "by Yuval Noah Harari",
+			"description": "How Homo sapiens became Earth\u2019s dominant species.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062316097.jpg",
+			"name": "SAPIENS",
+			"publisher": "Harper",
+			"rank": 7
+		},
+		{
+			"author": "by Lori Gottlieb",
+			"description": "A psychotherapist gains unexpected insights when she becomes another therapist\u2019s patient.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781328662057.jpg",
+			"name": "MAYBE YOU SHOULD TALK TO SOMEONE",
+			"publisher": "Houghton Mifflin Harcourt",
+			"rank": 8
+		},
+		{
+			"author": "by Mat Best with Ross Patterson and Nils Parker",
+			"description": "An inside look into military life by the YouTube personality and former Army Ranger.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524796495.jpg",
+			"name": "THANK YOU FOR MY SERVICE",
+			"publisher": "Bantam",
+			"rank": 9
+		},
+		{
+			"author": "by Bessel van der Kolk",
+			"description": "How trauma affects the body and mind, and innovative treatments for recovery.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780670785933.jpg",
+			"name": "THE BODY KEEPS THE SCORE",
+			"publisher": "Penguin",
+			"rank": 10
+		},
+		{
+			"author": "by Jia Tolentino",
+			"description": "Nine essays delving into late capitalism, online engagement and the author\u2019s personal history.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525510543.jpg",
+			"name": "TRICK MIRROR",
+			"publisher": "Random House",
+			"rank": 11
+		},
+		{
+			"author": "by Bryan Stevenson",
+			"description": "A law professor and MacArthur grant recipient\u2019s memoir of his decades of work to free innocent people condemned to death.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812994520.jpg",
+			"name": "JUST MERCY",
+			"publisher": "Spiegel & Grau",
+			"rank": 12
+		},
+		{
+			"author": "with an introduction by Helen Rosner",
+			"description": "Discussions with the late chef and TV host from 2003 to 2018.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781612198248.jpg",
+			"name": "ANTHONY BOURDAIN: THE LAST INTERVIEW AND OTHER CONVERSATIONS",
+			"publisher": "Melville House",
+			"rank": 13
+		},
+		{
+			"author": "by Robin DiAngelo",
+			"description": "Historical and cultural analyses on what causes defensive moves by white people and how this inhibits cross-racial dialogue.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780807047415.jpg",
+			"name": "WHITE FRAGILITY",
+			"publisher": "Beacon Press",
+			"rank": 14
+		},
+		{
+			"author": "by Andrew C. McCarthy",
+			"description": "The Fox News contributor and former federal prosecutor makes his case that the narrative of collusion between the 2016 Trump campaign and the Kremlin is a fraud.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781641770255.jpg",
+			"name": "BALL OF COLLUSION",
+			"publisher": "Encounter",
+			"rank": 15
+		}
+	]
+}

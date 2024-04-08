@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Bessel van der Kolk",
+			"description": "How trauma affects the body and mind, and innovative treatments for recovery.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780670785933.jpg",
+			"name": "THE BODY KEEPS THE SCORE",
+			"publisher": "Penguin",
+			"rank": 1
+		},
+		{
+			"author": "by Bill Browder",
+			"description": "The author of \u201cRed Notice\u201d tells his story of becoming Vladimir Putin\u2019s enemy by uncovering a $230 million tax refund scheme.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982153281.jpg",
+			"name": "FREEZING ORDER",
+			"publisher": "Simon & Schuster",
+			"rank": 2
+		},
+		{
+			"author": "by Randy Rainbow",
+			"description": "A memoir by the three-time Emmy-nominated comedian known for his online musical and political satires.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250276254.jpg",
+			"name": "PLAYING WITH MYSELF",
+			"publisher": "St. Martin's",
+			"rank": 3
+		},
+		{
+			"author": "by Molly Shannon with Sean Wilsey",
+			"description": "The comedic actor shares stories of family tragedy and her years as a star of \u201cSaturday Night Live.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063056237.jpg",
+			"name": "HELLO, MOLLY!",
+			"publisher": "Ecco",
+			"rank": 4
+		},
+		{
+			"author": "by Delia Ephron",
+			"description": "The author and screenwriter describes losing her sister and husband to cancer, finding love again and receiving a leukemia diagnosis.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316267656.jpg",
+			"name": "LEFT ON TENTH",
+			"publisher": "Little, Brown",
+			"rank": 5
+		},
+		{
+			"author": "by Michelle Zauner",
+			"description": "The daughter of a Korean mother and Jewish-American father, and leader of the indie rock project Japanese Breakfast, describes creating her own identity after losing her mother to cancer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525657743.jpg",
+			"name": "CRYING IN H MART",
+			"publisher": "Knopf",
+			"rank": 6
+		},
+		{
+			"author": "by Robin Wall Kimmerer",
+			"description": "A botanist and member of the Citizen Potawatomi Nation espouses having an understanding and appreciation of plants and animals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781571313560.jpg",
+			"name": "BRAIDING SWEETGRASS",
+			"publisher": "Milkweed Editions",
+			"rank": 7
+		},
+		{
+			"author": "by bell hooks",
+			"description": "The late feminist icon explores the causes of a polarized society and the meaning of love.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780060959470.jpg",
+			"name": "ALL ABOUT LOVE",
+			"publisher": "Morrow",
+			"rank": 8
+		},
+		{
+			"author": "by Susan Cain",
+			"description": "The author of \u201cQuiet\u201d suggests ways to embrace loss and suffering within ourselves and others.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780451499783.jpg",
+			"name": "BITTERSWEET",
+			"publisher": "Crown",
+			"rank": 9
+		},
+		{
+			"author": "by Natalie Haynes",
+			"description": "A re-examination of Greek myths and their female characters through a woman\u2019s perspective.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063139466.jpg",
+			"name": "PANDORA'S JAR",
+			"publisher": "Harper Perennial",
+			"rank": 10
+		},
+		{
+			"author": "by Bill Browder",
+			"description": "An American hedge fund manager in Russia is expelled by kleptocrats who then seize his property. Browder's investigation into the death of his attorney led to the Magnitsky Act.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476755717.jpg",
+			"name": "RED NOTICE",
+			"publisher": "Simon & Schuster",
+			"rank": 11
+		},
+		{
+			"author": "edited by Nikole Hannah-Jones, Caitlin Roper, Ilena Silverman and Jake Silverstein",
+			"description": "Viewing America\u2019s entanglement with slavery and its legacy, in essays adapted and expanded from The New York Times Magazine.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593230572.jpg",
+			"name": "THE 1619 PROJECT",
+			"publisher": "One World",
+			"rank": 12
+		},
+		{
+			"author": "by Dave Grohl",
+			"description": "A memoir by the musician known for his work with Foo Fighters and Nirvana.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063076099.jpg",
+			"name": "THE STORYTELLER",
+			"publisher": "Dey Street",
+			"rank": 13
+		},
+		{
+			"author": "by Matthew McConaughey",
+			"description": "The Academy Award-winning actor shares snippets from the diaries he kept over the last 35 years.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593139134.jpg",
+			"name": "GREENLIGHTS",
+			"publisher": "Crown",
+			"rank": 14
+		},
+		{
+			"author": "by Arthur C. Brooks",
+			"description": "A columnist for The Atlantic espouses ways to shift priorities and habits to overcome waning abilities in later life.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593191484.jpg",
+			"name": "FROM STRENGTH TO STRENGTH",
+			"publisher": "Portfolio",
+			"rank": 15
+		}
+	]
+}

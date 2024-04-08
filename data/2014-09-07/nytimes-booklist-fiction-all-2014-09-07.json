@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Diana Gabaldon",
+			"description": "Claire Randall, an English nurse, is transported back to 1743 during a second honeymoon in the Scottish Highlands. There she begins an affair with James Fraser, a redheaded soldier. Originally published in 1991.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780440212560.jpg",
+			"name": "OUTLANDER",
+			"publisher": "Dell",
+			"rank": 1
+		},
+		{
+			"author": "by Liane Moriarty",
+			"description": "Who will end up dead, and how, when three mothers with children in the same school become friends?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698138636.jpg",
+			"name": "BIG LITTLE LIES",
+			"publisher": "Amy Einhorn/Putnam",
+			"rank": 2
+		},
+		{
+			"author": "by Sandra Brown",
+			"description": "A North Carolina pediatrician is held captive by a mysterious man who forces her to question her life.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455581139.jpg",
+			"name": "MEAN STREAK",
+			"publisher": "Grand Central",
+			"rank": 3
+		},
+		{
+			"author": "by Gillian Flynn",
+			"description": "A woman disappears on the day of her fifth anniversary; is her husband a killer?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307588388.jpg",
+			"name": "GONE GIRL",
+			"publisher": "Crown",
+			"rank": 4
+		},
+		{
+			"author": "by Fern Michaels",
+			"description": "The Sisterhood\u2019s male significant others take on their own first case: toppling a slum landlord who also happens to be the lieutenant governor of Virginia.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781420134957.jpg",
+			"name": "UPSIDE DOWN",
+			"publisher": "Zebra",
+			"rank": 5
+		},
+		{
+			"author": "by Donna Tartt",
+			"description": "A painting smuggled out of the Metropolitan Museum of Art after a bombing becomes a boy\u2019s prize, guilt and burden.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316248679.jpg",
+			"name": "THE GOLDFINCH",
+			"publisher": "Little, Brown",
+			"rank": 6
+		},
+		{
+			"author": "by John Grisham",
+			"description": "A sequel, about race and inheritance, to \u201cA Time to Kill.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385537926.jpg",
+			"name": "SYCAMORE ROW",
+			"publisher": "Doubleday",
+			"rank": 7
+		},
+		{
+			"author": "by Christina Baker Kline",
+			"description": "A historical novel about orphans swept off the streets of New York and sent to the Midwest in the 1920s.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062101204.jpg",
+			"name": "ORPHAN TRAIN",
+			"publisher": "Morrow/HarperCollins",
+			"rank": 8
+		},
+		{
+			"author": "by Diana Gabaldon",
+			"description": "Volume 2 of the Outlander series, about an 18th-century Scottish warrior and a time-traveling World War II-era nurse; first published in 1992.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780440335184.jpg",
+			"name": "DRAGONFLY IN AMBER",
+			"publisher": "Dell",
+			"rank": 9
+		},
+		{
+			"author": "by Lee Child",
+			"description": "In this e-book short story, Jack Reacher is on a summer hike when the trail is suddenly closed and the military police show up.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780804178839.jpg",
+			"name": "NOT A DRILL",
+			"publisher": "Delacorte",
+			"rank": 10
+		},
+		{
+			"author": "by E. L. James",
+			"description": "An innocent college student falls in love with a tortured man with particular sexual tastes; the first of a trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345803481.jpg",
+			"name": "FIFTY SHADES OF GREY",
+			"publisher": "Vintage",
+			"rank": 11
+		},
+		{
+			"author": "by Haruki Murakami",
+			"description": "A young man\u2019s difficult coming-of-age.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385352116.jpg",
+			"name": "COLORLESS TSUKURU TAZAKI AND HIS YEARS OF PILGRIMAGE",
+			"publisher": "Knopf",
+			"rank": 12
+		},
+		{
+			"author": "by Matthew Thomas",
+			"description": "Three generations of a New York Irish-American family wrestle with economic and domestic aspirations and, finally, with a terrible disease.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476756684.jpg",
+			"name": "WE ARE NOT OURSELVES",
+			"publisher": "Simon & Schuster",
+			"rank": 13
+		},
+		{
+			"author": "by Daniel Silva",
+			"description": "Gabriel Allon, an art restorer and occasional spy for the Israeli secret service, must track down a famous missing painting by Caravaggio.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062320070.jpg",
+			"name": "THE HEIST",
+			"publisher": "Harper",
+			"rank": 14
+		},
+		{
+			"author": "by Anthony Doerr",
+			"description": "The lives of a blind French girl and a gadget-obsessed German boy before and during World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476746586.jpg",
+			"name": "ALL THE LIGHT WE CANNOT SEE",
+			"publisher": "Scribner",
+			"rank": 15
+		}
+	]
+}

@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Delia Owens",
+			"description": "In a quiet town on the North Carolina coast in 1969, a young woman who survived alone in the marsh becomes a murder suspect.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735219090.jpg",
+			"name": "WHERE THE CRAWDADS SING",
+			"publisher": "Putnam",
+			"rank": 1
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "A battered wife raised in a violent home attempts to halt the cycle of abuse.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501110375.jpg",
+			"name": "IT ENDS WITH US",
+			"publisher": "Atria",
+			"rank": 2
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "Lowen Ashleigh is hired by the husband of an injured writer to complete her popular series and uncovers a horrifying truth.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781791392796.jpg",
+			"name": "VERITY",
+			"publisher": "Grand Central",
+			"rank": 3
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "Tate Collins and Miles Archer,\u00a0an airline pilot, think they can handle a no strings attached arrangement. But they can't.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476753195.jpg",
+			"name": "UGLY LOVE",
+			"publisher": "Atria",
+			"rank": 4
+		},
+		{
+			"author": "by Taylor Jenkins Reid",
+			"description": "A movie icon recounts stories of her loves and career to a struggling magazine writer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501161933.jpg",
+			"name": "THE SEVEN HUSBANDS OF EVELYN HUGO",
+			"publisher": "Washington Square/Atria",
+			"rank": 5
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "Is Ben using his relationship with Fallon as fodder for his novel?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501110351.jpg",
+			"name": "NOVEMBER 9",
+			"publisher": "Atria",
+			"rank": 6
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "When his ex-girlfriend turns up dead in his office building, an entry-level investment analyst delves into the halls of economic power.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538719848.jpg",
+			"name": "THE 6:20 MAN",
+			"publisher": "Grand Central",
+			"rank": 7
+		},
+		{
+			"author": "by Emily Henry",
+			"description": "While on vacation in North Carolina, a literary agent keeps running into an editor.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593334836.jpg",
+			"name": "BOOK LOVERS",
+			"publisher": "Berkley",
+			"rank": 8
+		},
+		{
+			"author": "by Daniel Silva",
+			"description": "The 22nd book in the Gabriel Allon series. Allon becomes an art forger to uncover a multibillion-dollar fraud.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062834850.jpg",
+			"name": "PORTRAIT OF AN UNKNOWN WOMAN",
+			"publisher": "Harper",
+			"rank": 9
+		},
+		{
+			"author": "by Carley Fortune",
+			"description": "The love story of Percy and Sam is told over the course of six summers and one weekend.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593438534.jpg",
+			"name": "EVERY SUMMER AFTER",
+			"publisher": "Berkley",
+			"rank": 10
+		},
+		{
+			"author": "by Elin Hilderbrand",
+			"description": "The new general manager of a hotel far from its Gilded Age heyday deals with the complicated pasts of her guests and staff.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316258678.jpg",
+			"name": "THE HOTEL NANTUCKET",
+			"publisher": "Little, Brown",
+			"rank": 11
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "Quinn and Graham\u2019s marriage depends on past promises.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501171604.jpg",
+			"name": "ALL YOUR PERFECTS",
+			"publisher": "Atria",
+			"rank": 12
+		},
+		{
+			"author": "by Ruth Ware",
+			"description": "A decade after her first year at Oxford, an expectant mother looks into the mystery of her former best friend\u2019s death.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982155261.jpg",
+			"name": "THE IT GIRL",
+			"publisher": "Scout",
+			"rank": 13
+		},
+		{
+			"author": "by James Patterson and James O. Born",
+			"description": "The 14th book in the Michael Bennett series. When an F.B.I. abduction specialist disappears, Bennett goes outside his jurisdiction.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316499484.jpg",
+			"name": "SHATTERED",
+			"publisher": "Little, Brown",
+			"rank": 14
+		},
+		{
+			"author": "by Emily Henry",
+			"description": "Opposites Poppy and Alex meet to vacation together one more time in hopes of saving their relationship.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984806758.jpg",
+			"name": "PEOPLE WE MEET ON VACATION",
+			"publisher": "Berkley",
+			"rank": 15
+		}
+	]
+}

@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by John McCain and Mark Salter",
+			"description": "A memoir by the recently deceased Republican senator from Arizona.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501178009.jpg",
+			"name": "THE RESTLESS WAVE",
+			"publisher": "Simon & Schuster",
+			"rank": 1
+		},
+		{
+			"author": "by Tara Westover",
+			"description": "The daughter of survivalists, who is kept out of school, educates herself enough to leave home for university.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399590504.jpg",
+			"name": "EDUCATED",
+			"publisher": "Random House",
+			"rank": 2
+		},
+		{
+			"author": "by Gregg Jarrett",
+			"description": "The Fox News analyst makes his case against the F.B.I. investigation into collusion between the Trump campaign and Russia.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062872746.jpg",
+			"name": "THE RUSSIA HOAX",
+			"publisher": "Broadside",
+			"rank": 3
+		},
+		{
+			"author": "by Daniel Siegel",
+			"description": "A look at the science that supports the effectiveness of meditation.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101993040.jpg",
+			"name": "AWARE",
+			"publisher": "TarcherPerigee",
+			"rank": 4
+		},
+		{
+			"author": "by Omarosa Manigault Newman",
+			"description": "The reality TV star and former White House staffer describes her time and relationship with Donald Trump.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982109707.jpg",
+			"name": "UNHINGED",
+			"publisher": "Gallery",
+			"rank": 5
+		},
+		{
+			"author": "by Anand Giridharadas",
+			"description": "The former New York Times columnist examines the new gilded age and the failures of modern philanthropy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780451493248.jpg",
+			"name": "WINNERS TAKE ALL",
+			"publisher": "Knopf",
+			"rank": 6
+		},
+		{
+			"author": "by David Sedaris",
+			"description": "A collection of comedic stories on mortality, middle age and a beach house dubbed the Sea Section.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316392389.jpg",
+			"name": "CALYPSO",
+			"publisher": "Little, Brown",
+			"rank": 7
+		},
+		{
+			"author": "by Yuval Noah Harari",
+			"description": "How Homo sapiens became Earth\u2019s dominant species.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062316097.jpg",
+			"name": "SAPIENS",
+			"publisher": "Harper",
+			"rank": 8
+		},
+		{
+			"author": "by Neil deGrasse Tyson",
+			"description": "A straightforward, easy-to-understand introduction to the laws that govern the universe.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780393609394.jpg",
+			"name": "ASTROPHYSICS FOR PEOPLE IN A HURRY",
+			"publisher": "Norton",
+			"rank": 9
+		},
+		{
+			"author": "by Jeanine Pirro",
+			"description": "The legal analyst and Fox News host argues in favor of President Trump.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781546083429.jpg",
+			"name": "LIARS, LEAKERS AND LIBERALS",
+			"publisher": "Center Street",
+			"rank": 10
+		},
+		{
+			"author": "by Craig Unger",
+			"description": "An investigation into the relationship between the current heads of Russia and the United States, and their potential ties to the Russian Mafia.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524743505.jpg",
+			"name": "HOUSE OF TRUMP, HOUSE OF PUTIN",
+			"publisher": "Dutton",
+			"rank": 11
+		},
+		{
+			"author": "by Hans Rosling with Ola Rosling and Anna Rosling Ronnlund",
+			"description": "A look at our biases and the argument for why the world is in a better state than we might think.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250123817.jpg",
+			"name": "FACTFULNESS",
+			"publisher": "Flatiron",
+			"rank": 12
+		},
+		{
+			"author": "by Angela Duckworth",
+			"description": "A psychologist argues that passion and perseverance are the keys to success.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501111129.jpg",
+			"name": "GRIT",
+			"publisher": "Scribner",
+			"rank": 13
+		},
+		{
+			"author": "by Beth Macy",
+			"description": "An in-depth look at how opioid addiction affects Americans across geographic and class lines.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316551243.jpg",
+			"name": "DOPESICK",
+			"publisher": "Little, Brown",
+			"rank": 14
+		},
+		{
+			"author": "by John Carreyrou",
+			"description": "The rise and fall of Theranos, the biotech startup that failed to deliver on its promise to make blood testing more efficient.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524731663.jpg",
+			"name": "BAD BLOOD",
+			"publisher": "Knopf",
+			"rank": 15
+		}
+	]
+}

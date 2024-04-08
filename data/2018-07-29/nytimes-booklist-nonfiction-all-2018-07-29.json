@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Tara Westover",
+			"description": "The daughter of survivalists, who is kept out of school, educates herself enough to leave home for university.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399590504.jpg",
+			"name": "EDUCATED",
+			"publisher": "Random House",
+			"rank": 1
+		},
+		{
+			"author": "by Anthony Bourdain",
+			"description": "A memoir-expos\u00e9 of the restaurant world. Originally published in 2000.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781596917248.jpg",
+			"name": "KITCHEN CONFIDENTIAL",
+			"publisher": "Ecco",
+			"rank": 2
+		},
+		{
+			"author": "by David Sedaris",
+			"description": "A collection of comedic stories on mortality, middle age and a beach house dubbed the Sea Section.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316392389.jpg",
+			"name": "CALYPSO",
+			"publisher": "Little, Brown",
+			"rank": 3
+		},
+		{
+			"author": "by Charles Krauthammer",
+			"description": "Three decades\u2019 worth of essays from the recently deceased conservative columnist.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385349178.jpg",
+			"name": "THINGS THAT MATTER",
+			"publisher": "Crown Forum",
+			"rank": 4
+		},
+		{
+			"author": "by John Carreyrou",
+			"description": "The rise and fall of Theranos, the biotech startup that failed to deliver on its promise to make blood testing more efficient.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524731663.jpg",
+			"name": "BAD BLOOD",
+			"publisher": "Knopf",
+			"rank": 5
+		},
+		{
+			"author": "by Jon Meacham",
+			"description": "The present political climate is contextualized through the lens of difficult moments in American history.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399589812.jpg",
+			"name": "THE SOUL OF AMERICA",
+			"publisher": "Random House",
+			"rank": 6
+		},
+		{
+			"author": "by Lynn Vincent and Sara Vladic",
+			"description": "A newly researched look into the sinking of the U.S.S. Indianapolis, the story of the survivors and the fight to exonerate the court-martialed skipper.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501135941.jpg",
+			"name": "INDIANAPOLIS",
+			"publisher": "Simon & Schuster",
+			"rank": 7
+		},
+		{
+			"author": "by Yuval Noah Harari",
+			"description": "How Homo sapiens became Earth\u2019s dominant species.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062316097.jpg",
+			"name": "SAPIENS",
+			"publisher": "Harper",
+			"rank": 8
+		},
+		{
+			"author": "by David Grann",
+			"description": "The story of a murder spree in 1920s Oklahoma that targeted Osage Indians, whose lands contained oil.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385534246.jpg",
+			"name": "KILLERS OF THE FLOWER MOON",
+			"publisher": "Doubleday",
+			"rank": 9
+		},
+		{
+			"author": "by Michael Pollan",
+			"description": "A personal account of how psychedelics might help the mentally ill and people dealing with everyday challenges.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594204227.jpg",
+			"name": "HOW TO CHANGE YOUR MIND",
+			"publisher": "Penguin Press",
+			"rank": 10
+		},
+		{
+			"author": "by Malcolm Nance",
+			"description": "The former U.S. intelligence officer describes the tools and techniques used by Vladimir Putin to affect the 2016 election.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316484817.jpg",
+			"name": "THE PLOT TO DESTROY DEMOCRACY",
+			"publisher": "Hachette",
+			"rank": 11
+		},
+		{
+			"author": "by J.D. Vance",
+			"description": "A Yale Law School graduate looks at the struggles of the white working class through the story of his own childhood.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062300560.jpg",
+			"name": "HILLBILLY ELEGY",
+			"publisher": "HarperCollins",
+			"rank": 12
+		},
+		{
+			"author": "by Beck Dorey-Stein",
+			"description": "A memoir by a woman who went from working many part-time jobs to becoming one of President Obama's stenographers.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525509134.jpg",
+			"name": "FROM THE CORNER OF THE OVAL",
+			"publisher": "Spiegel & Grau",
+			"rank": 13
+		},
+		{
+			"author": "by Neil deGrasse Tyson",
+			"description": "A straightforward, easy-to-understand introduction to the laws that govern the universe.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780393609394.jpg",
+			"name": "ASTROPHYSICS FOR PEOPLE IN A HURRY",
+			"publisher": "Norton",
+			"rank": 14
+		},
+		{
+			"author": "by Susan Cain",
+			"description": "Introverts \u2014 one-third of the population \u2014 are undervalued in American society.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307452207.jpg",
+			"name": "QUIET",
+			"publisher": "Crown",
+			"rank": 15
+		}
+	]
+}

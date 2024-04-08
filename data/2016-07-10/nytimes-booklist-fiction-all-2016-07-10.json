@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Jojo Moyes",
+			"description": "A woman who has barely been beyond her English village finds herself while caring for a wealthy, embittered quadriplegic.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780143124542.jpg",
+			"name": "ME BEFORE YOU",
+			"publisher": "Penguin",
+			"rank": 1
+		},
+		{
+			"author": "by Stephen King",
+			"description": "Bad-guy Brady acquires psychic powers in the conclusion of the Bill Hodges trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501134159.jpg",
+			"name": "END OF WATCH",
+			"publisher": "Scribner",
+			"rank": 2
+		},
+		{
+			"author": "by Janet Evanovich and Lee Goldberg",
+			"description": "The F.B.I. agent Kate O\u2019Hare and her con man partner, Nick Fox, face off against a dangerous ex-Serbian military officer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780553392784.jpg",
+			"name": "THE PURSUIT",
+			"publisher": "Bantam",
+			"rank": 3
+		},
+		{
+			"author": "by Nora Roberts",
+			"description": "In this second installment of the Guardians trilogy, Sawyer brings the group to the island of Capri, where he\u2019s drawn to the mermaid Annika.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698190740.jpg",
+			"name": "BAY OF SIGHS",
+			"publisher": "Berkley",
+			"rank": 4
+		},
+		{
+			"author": "by Elin Hilderbrand",
+			"description": "Sparks fly as a celebrity chef\u2019s ex-wives pile into a small cabin in Nantucket to join his widow for the reading of his will.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316375153.jpg",
+			"name": "HERE'S TO US",
+			"publisher": "Little, Brown",
+			"rank": 5
+		},
+		{
+			"author": "by Brad Thor",
+			"description": "The counterterrorism operative Scot Harvath searches for an informant who has compromised an American mission in Syria.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476789378.jpg",
+			"name": "FOREIGN AGENT",
+			"publisher": "Emily Bestler/Atria",
+			"rank": 6
+		},
+		{
+			"author": "by Emma Cline",
+			"description": "In the summer of 1969, a California teenager is drawn to a Manson-like cult.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812998610.jpg",
+			"name": "THE GIRLS",
+			"publisher": "Random House",
+			"rank": 7
+		},
+		{
+			"author": "by Harper Lee",
+			"description": "In the mid-1950s, a grown-up Jean Louise Finch returns to Maycomb and realizes that her adored father is a racist.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062409850.jpg",
+			"name": "GO SET A WATCHMAN",
+			"publisher": "Harper",
+			"rank": 8
+		},
+		{
+			"author": "by Noah Hawley",
+			"description": "After a private jet crashes, a firestorm of media madness ensues.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455561803.jpg",
+			"name": "BEFORE THE FALL",
+			"publisher": "Grand Central",
+			"rank": 9
+		},
+		{
+			"author": "by James Patterson",
+			"description": "Alex Cross thinks he's seeing things when a killer long thought dead returns to action.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316360623.jpg",
+			"name": "CROSS KILL",
+			"publisher": "Little, Brown",
+			"rank": 10
+		},
+		{
+			"author": "by Jojo Moyes",
+			"description": "After the death of Will Traynor, Louisa Clark joins a grief support group that may lead her to new love.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698152045.jpg",
+			"name": "AFTER YOU",
+			"publisher": "Pamela Dorman/Viking",
+			"rank": 11
+		},
+		{
+			"author": "by Paula Hawkins",
+			"description": "A psychological thriller set in the environs of London is full of complications and betrayals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594633669.jpg",
+			"name": "THE GIRL ON THE TRAIN",
+			"publisher": "Riverhead",
+			"rank": 12
+		},
+		{
+			"author": "by James Patterson and David Ellis",
+			"description": "When bodies are found at a Hamptons estate where a series of grisly murders once occurred, a local detective and former New York City cop investigates.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316337977.jpg",
+			"name": "THE MURDER HOUSE",
+			"publisher": "Little, Brown",
+			"rank": 13
+		},
+		{
+			"author": "by Grant Blackwood",
+			"description": "A secretive German organization is trying to kill Tom Clancy\u2019s character Jack Ryan Jr. (Clancy died in 2013.)",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399176807.jpg",
+			"name": "TOM CLANCY: DUTY AND HONOR",
+			"publisher": "Putnam",
+			"rank": 14
+		},
+		{
+			"author": "by Fredrik Backman",
+			"description": "A curmudgeon's gruff exterior masks a generosity of spirit. Originally published in Sweden in 2014.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476738024.jpg",
+			"name": "A MAN CALLED OVE",
+			"publisher": "Washington Square",
+			"rank": 15
+		}
+	]
+}

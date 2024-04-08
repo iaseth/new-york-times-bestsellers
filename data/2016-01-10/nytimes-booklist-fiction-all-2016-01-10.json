@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by John Grisham",
+			"description": "The attorney Sebastian Rudd is a \u201clone gunman\u201d who hates injustice and the system and defends unpopular clients.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385539449.jpg",
+			"name": "ROGUE LAWYER",
+			"publisher": "Doubleday",
+			"rank": 1
+		},
+		{
+			"author": "by Andy Weir",
+			"description": "Abandoned by his crew, an astronaut embarks on a dogged quest to stay alive.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780804139038.jpg",
+			"name": "THE MARTIAN",
+			"publisher": "Crown",
+			"rank": 2
+		},
+		{
+			"author": "by James Patterson",
+			"description": "Detective Alex Cross returns to his hometown, for the first time in 35 years, to help a cousin who has been accused of murder.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316407045.jpg",
+			"name": "CROSS JUSTICE",
+			"publisher": "Little, Brown",
+			"rank": 3
+		},
+		{
+			"author": "by Paula Hawkins",
+			"description": "A psychological thriller set in the environs of London is full of complications and betrayals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594633669.jpg",
+			"name": "THE GIRL ON THE TRAIN",
+			"publisher": "Riverhead",
+			"rank": 4
+		},
+		{
+			"author": "by Anthony Doerr",
+			"description": "The lives of a blind French girl and a gadget-obsessed German boy before and during World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476746586.jpg",
+			"name": "ALL THE LIGHT WE CANNOT SEE",
+			"publisher": "Scribner",
+			"rank": 5
+		},
+		{
+			"author": "by Nicholas Sparks",
+			"description": "A couple in love are threatened by secrets from the past.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455520619.jpg",
+			"name": "SEE ME",
+			"publisher": "Grand Central",
+			"rank": 6
+		},
+		{
+			"author": "by Stephen King",
+			"description": "Twenty stories, some never before published.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501111686.jpg",
+			"name": "THE BAZAAR OF BAD DREAMS",
+			"publisher": "Scribner",
+			"rank": 7
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "The government hit man Will Robie investigates murder charges against his estranged father in their Mississippi hometown.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455586431.jpg",
+			"name": "THE GUILTY",
+			"publisher": "Grand Central",
+			"rank": 8
+		},
+		{
+			"author": "by Kristin Hannah",
+			"description": "Two sisters are separated in World War II France: one in the countryside, the other in Paris.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781466850606.jpg",
+			"name": "THE NIGHTINGALE",
+			"publisher": "St. Martin's",
+			"rank": 9
+		},
+		{
+			"author": "by Harper Lee",
+			"description": "In the mid-1950s, a grown-up Jean Louise Finch returns to Maycomb and realizes that her adored father is a racist.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062409850.jpg",
+			"name": "GO SET A WATCHMAN",
+			"publisher": "Harper",
+			"rank": 10
+		},
+		{
+			"author": "by Janet Evanovich",
+			"description": "Stephanie Plum pursues a fraternity member arrested for beating up a college dean and investigates a murder.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345542984.jpg",
+			"name": "TRICKY TWENTY-TWO",
+			"publisher": "Bantam",
+			"rank": 11
+		},
+		{
+			"author": "by Mark Greaney",
+			"description": "President Jack Ryan detects a pattern in outbreaks of violence around the world that point to the Russian president, but he must unite the Western allies before he can take action.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399176760.jpg",
+			"name": "TOM CLANCY: COMMANDER IN CHIEF",
+			"publisher": "Putnam",
+			"rank": 12
+		},
+		{
+			"author": "by Dean Koontz",
+			"description": "A young Southern California writer who survived a fatal diagnosis sets out to find a woman she has been told she must save, overcoming many obstacles in the process.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345545978.jpg",
+			"name": "ASHLEY BELL",
+			"publisher": "Bantam",
+			"rank": 13
+		},
+		{
+			"author": "by Mitch Albom",
+			"description": "A preternaturally gifted guitarist uses his talent to alter lives.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062294418.jpg",
+			"name": "THE MAGIC STRINGS OF FRANKIE PRESTO",
+			"publisher": "Harper/HarperCollins",
+			"rank": 14
+		},
+		{
+			"author": "by Nicholas Sparks",
+			"description": "When Travis meets his new neighbor, his bachelor status erodes.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780446698337.jpg",
+			"name": "THE CHOICE",
+			"publisher": "Grand Central",
+			"rank": 15
+		}
+	]
+}

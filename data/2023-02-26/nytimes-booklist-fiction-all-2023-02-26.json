@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by J.D. Robb",
+			"description": "The 56th book of the In Death series. Eve Dallas investigates the mysterious death of a well-loved star of stage and screen.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250284310.jpg",
+			"name": "ENCORE IN DEATH",
+			"publisher": "St. Martin's",
+			"rank": 1
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "A battered wife raised in a violent home attempts to halt the cycle of abuse.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501110375.jpg",
+			"name": "IT ENDS WITH US",
+			"publisher": "Atria",
+			"rank": 2
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "In the sequel to \u201cIt Ends With Us,\u201d Lily deals with her jealous ex-husband as she reconnects with her first boyfriend.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781668001226.jpg",
+			"name": "IT STARTS WITH US",
+			"publisher": "Atria",
+			"rank": 3
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "After an unexpected death prevents her from going to Penn State and and forces her to move in with her absent father, Beyah Grim has a summer fling with the rich guy next door.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781668021910.jpg",
+			"name": "HEART BONES",
+			"publisher": "Atria",
+			"rank": 4
+		},
+		{
+			"author": "by Bonnie Garmus",
+			"description": "A scientist and single mother living in California in the 1960s becomes a star on a TV cooking show.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385547345.jpg",
+			"name": "LESSONS IN CHEMISTRY",
+			"publisher": "Doubleday",
+			"rank": 5
+		},
+		{
+			"author": "by Jojo Moyes",
+			"description": "Drastic changes and a pair of six-inch high Christian Louboutin red crocodile shoes shake up the lives of two women.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984879295.jpg",
+			"name": "SOMEONE ELSE'S SHOES",
+			"publisher": "Pamela Dorman",
+			"rank": 6
+		},
+		{
+			"author": "by Tessa Bailey",
+			"description": "A college professor finds himself in proximity to a former high school classmate who is now tending the gardens of his family\u2019s winery.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063238985.jpg",
+			"name": "SECRETLY YOURS",
+			"publisher": "Avon",
+			"rank": 7
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "Lowen Ashleigh is hired by the husband of an injured writer to complete her popular series and uncovers a horrifying truth.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781791392796.jpg",
+			"name": "VERITY",
+			"publisher": "Grand Central",
+			"rank": 8
+		},
+		{
+			"author": "by Taylor Jenkins Reid",
+			"description": "A movie icon recounts stories of her loves and career to a struggling magazine writer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501161933.jpg",
+			"name": "THE SEVEN HUSBANDS OF EVELYN HUGO",
+			"publisher": "Washington Square/Atria",
+			"rank": 9
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "Tate Collins and Miles Archer,\u00a0an airline pilot, think they can handle a no strings attached arrangement. But they can't.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476753195.jpg",
+			"name": "UGLY LOVE",
+			"publisher": "Atria",
+			"rank": 10
+		},
+		{
+			"author": "by Jonathan Kellerman",
+			"description": "The 38th book in the Alex Delaware series. Alex and Milo investigate the murder of a wealthy photographer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525618614.jpg",
+			"name": "UNNATURAL HISTORY",
+			"publisher": "Ballantine",
+			"rank": 11
+		},
+		{
+			"author": "by Katee Robert",
+			"description": "The fourth book in the Dark Olympus series. A danger emerges as things heat up between Cassandra and Apollo.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781728257006.jpg",
+			"name": "RADIANT SIN",
+			"publisher": "Sourcebooks Casablanca",
+			"rank": 12
+		},
+		{
+			"author": "by Hannah Grace",
+			"description": "Anastasia might need the help of the captain of a college hockey team to get on the Olympic figure skating team.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781668026038.jpg",
+			"name": "ICEBREAKER",
+			"publisher": "Atria",
+			"rank": 13
+		},
+		{
+			"author": "by Gabrielle Zevin",
+			"description": "Two friends find their partnership challenged in the world of video game design.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593321201.jpg",
+			"name": "TOMORROW, AND TOMORROW, AND TOMORROW",
+			"publisher": "Knopf",
+			"rank": 14
+		},
+		{
+			"author": "by Alex Michaelides",
+			"description": "Theo Faber looks into the mystery of a famous painter who stops speaking after shooting her husband.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250301697.jpg",
+			"name": "THE SILENT PATIENT",
+			"publisher": "Celadon",
+			"rank": 15
+		}
+	]
+}

@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by John Grisham",
+			"description": "The attorney Sebastian Rudd is a \u201clone gunman\u201d who hates injustice and the system and defends unpopular clients.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385539449.jpg",
+			"name": "ROGUE LAWYER",
+			"publisher": "Doubleday",
+			"rank": 1
+		},
+		{
+			"author": "by Patricia Cornwell",
+			"description": "A psychopath sends Dr. Kay Scarpetta videos from the past about her niece in the series\u2019s 23rd book.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062325426.jpg",
+			"name": "DEPRAVED HEART",
+			"publisher": "Morrow/HarperCollins",
+			"rank": 2
+		},
+		{
+			"author": "by Nicholas Sparks",
+			"description": "A couple in love are threatened by secrets from the past.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455520619.jpg",
+			"name": "SEE ME",
+			"publisher": "Grand Central",
+			"rank": 3
+		},
+		{
+			"author": "by Andy Weir",
+			"description": "Abandoned by his crew, an astronaut embarks on a dogged quest to stay alive.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780804139038.jpg",
+			"name": "THE MARTIAN",
+			"publisher": "Crown",
+			"rank": 4
+		},
+		{
+			"author": "by Elizabeth George",
+			"description": "Can a suicide in Dorset be connected to a poisoning in Cambridge? In the 19th novel in a series, the Scotland Yard detectives Thomas Lynley and Barbara Havers investigate.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525954330.jpg",
+			"name": "A BANQUET OF CONSEQUENCES",
+			"publisher": "Viking",
+			"rank": 5
+		},
+		{
+			"author": "by Kristen Ashley",
+			"description": "After a chance encounter, a woman and her bad-boy former flame try to patch up their differences.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455533244.jpg",
+			"name": "WALK THROUGH FIRE",
+			"publisher": "Forever",
+			"rank": 6
+		},
+		{
+			"author": "by Vince Flynn and Kyle Mills",
+			"description": "A counterterrorism operative must control the damage from a leak of C.I.A. documents.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476783475.jpg",
+			"name": "THE SURVIVOR",
+			"publisher": "Emily Bestler/Atria",
+			"rank": 7
+		},
+		{
+			"author": "by Maya Banks",
+			"description": "A mercenary's dedication to his mission is compromised when he is tasked with guarding a highly sought captive.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780425276990.jpg",
+			"name": "DARKEST BEFORE DAWN",
+			"publisher": "Berkley",
+			"rank": 8
+		},
+		{
+			"author": "by Robert Galbraith",
+			"description": "In the third novel about the private investigative team of Cormoran Strike and Robin Ellacott, the pair pursue a psychotic stalker; by J.\u2009K. Rowling, writing pseudonymously.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316349932.jpg",
+			"name": "CAREER OF EVIL",
+			"publisher": "Mulholland/Little, Brown",
+			"rank": 9
+		},
+		{
+			"author": "by Lisa Kleypas",
+			"description": "When a scoundrel is made an earl, a clash of wills ensues with the widow still residing at his estate.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062371836.jpg",
+			"name": "COLD-HEARTED RAKE",
+			"publisher": "Avon",
+			"rank": 10
+		},
+		{
+			"author": "by James Patterson and David Ellis",
+			"description": "When bodies are found at a Hamptons estate where a series of grisly murders once occurred, a local detective and former New York City cop investigates.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316337977.jpg",
+			"name": "THE MURDER HOUSE",
+			"publisher": "Little, Brown",
+			"rank": 11
+		},
+		{
+			"author": "by Alexander McCall Smith",
+			"description": "The 16th novel in the No. 1 Ladies\u2019 Detective Agency series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307911575.jpg",
+			"name": "THE WOMAN WHO WALKED IN SUNSHINE",
+			"publisher": "Pantheon",
+			"rank": 12
+		},
+		{
+			"author": "by Lisa Scottoline",
+			"description": "A lawyer, haunted by a case from her past, resolves to make amends when the defendant is indicted for murder.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250027948.jpg",
+			"name": "CORRUPTED",
+			"publisher": "St. Martin's",
+			"rank": 13
+		},
+		{
+			"author": "by David Lagercrantz",
+			"description": "Mikael Blomkvist and Lisbeth Salander are back in this continuation of Steig Larsson's Millennium series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385354288.jpg",
+			"name": "THE GIRL IN THE SPIDER'S WEB",
+			"publisher": "Knopf",
+			"rank": 14
+		},
+		{
+			"author": "by Paula Hawkins",
+			"description": "A psychological thriller set in the environs of London is full of complications and betrayals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594633669.jpg",
+			"name": "THE GIRL ON THE TRAIN",
+			"publisher": "Riverhead",
+			"rank": 15
+		}
+	]
+}

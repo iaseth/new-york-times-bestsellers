@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Lee Child",
+			"description": "For Jack Reacher, an elite military police officer, it all started in 1997. A lonely railroad track. A crime scene. A cover-up.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780440339359.jpg",
+			"name": "THE AFFAIR",
+			"publisher": "Delacorte",
+			"rank": 1
+		},
+		{
+			"author": "by Kathryn Stockett",
+			"description": "A young white woman and two black maids in 1960s Mississippi.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781440697661.jpg",
+			"name": "THE HELP",
+			"publisher": "Penguin Group",
+			"rank": 2
+		},
+		{
+			"author": "by Debbie Macomber",
+			"description": "Puppies that need good homes and an ex-husband loom large in the last installment of the Cedar Cove series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780778312697.jpg",
+			"name": "1225 CHRISTMAS TREE LANE",
+			"publisher": "Mira",
+			"rank": 3
+		},
+		{
+			"author": "by Darcie Chan",
+			"description": "Only one man knows an abused widow, which revealed will change many lives in her small Vermont town.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780615523774.jpg",
+			"name": "THE MILL RIVER RECLUSE",
+			"publisher": "Darcie Chan",
+			"rank": 4
+		},
+		{
+			"author": "by Sandra Brown",
+			"description": "A woman, her daughter and a man accused of murder evade the authorities as they search for her dead husband\u2019s secrets.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455501489.jpg",
+			"name": "LETHAL",
+			"publisher": "Grand Central",
+			"rank": 5
+		},
+		{
+			"author": "by Chris Culver",
+			"description": "Against orders, a former homicide detective begins an investigation into his niece's murder.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/A00B004M18ZRS.jpg",
+			"name": "THE ABBEY",
+			"publisher": "Chris Culver",
+			"rank": 6
+		},
+		{
+			"author": "by James Lee Burke",
+			"description": "Danger increases tenfold as Sheriff Hackberry Holland investigates a case in the desert.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451643114.jpg",
+			"name": "FEAST DAY OF FOOLS",
+			"publisher": "Simon & Schuster",
+			"rank": 7
+		},
+		{
+			"author": "by Susan Mallery",
+			"description": "Determined to make a fresh start, Nevada Hendrix applies for her dream job, only to find that her new boss was her first love.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781459213845.jpg",
+			"name": "ONLY HIS",
+			"publisher": "HQN",
+			"rank": 8
+		},
+		{
+			"author": "by Erin Morgenstern",
+			"description": "Two young rivals at a magical circus become collaborators as they fall in love.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385534635.jpg",
+			"name": "THE NIGHT CIRCUS",
+			"publisher": "Knopf Doubleday",
+			"rank": 9
+		},
+		{
+			"author": "by James Patterson and Marshall Karp",
+			"description": "A young man who finds a bag of diamonds is stalked by competing assassins.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316097550.jpg",
+			"name": "KILL ME IF YOU CAN",
+			"publisher": "Little, Brown",
+			"rank": 10
+		},
+		{
+			"author": "by Michael Connelly",
+			"description": "The Los Angeles detective Harry Bosch is on the scene in three never-before-collected stories.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316204248.jpg",
+			"name": "SUICIDE RUN",
+			"publisher": "Little, Brown",
+			"rank": 11
+		},
+		{
+			"author": "by Harlan Coben",
+			"description": "A doctor who has dedicated his life to eradicating a disease discovers that his patients are being hunted by a serial killer; first published in 1991.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780451234919.jpg",
+			"name": "MIRACLE CURE",
+			"publisher": "Signet",
+			"rank": 12
+		},
+		{
+			"author": "by Gena Showalter",
+			"description": "For the immortal warrior Strider, nothing stands in the way of victory \u2014 until he\u2019s tempted by Kaia, an enchanting contestant in the Harpy Games.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781459213852.jpg",
+			"name": "THE DARKEST SURRENDER",
+			"publisher": "HQN",
+			"rank": 13
+		},
+		{
+			"author": "by Stephanie Laurens",
+			"description": "Brazenly kidnapped from her sister\u2019s engagement ball and spirited to Edinburgh, Eliza seizes upon the first possible champion who happens along: the gentleman scholar Jeremy Carling.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062068613.jpg",
+			"name": "IN PURSUIT OF ELIZA CYNSTER",
+			"publisher": "HarperCollins",
+			"rank": 14
+		},
+		{
+			"author": "by J. D. Robb",
+			"description": "An escaped child molester pursues Lt. Eve Dallas; by Nora Roberts, writing pseudonymously.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101536919.jpg",
+			"name": "NEW YORK TO DALLAS",
+			"publisher": "Berkley",
+			"rank": 15
+		}
+	]
+}

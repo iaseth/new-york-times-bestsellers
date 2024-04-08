@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Todd Burpo with Lynn Vincent",
+			"description": "A father recounts his 3-year-old son\u2019s encounter with Jesus and the angels during an emergency appendectomy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780849949203.jpg",
+			"name": "HEAVEN IS FOR REAL",
+			"publisher": "Thomas Nelson",
+			"rank": 1
+		},
+		{
+			"author": "by Howard Schultz with Joanne Gordon",
+			"description": "Schultz tells of his second stint as the C.E.O. of Starbucks and how he helped return the company to profitability.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781609613464.jpg",
+			"name": "ONWARD",
+			"publisher": "Rodale",
+			"rank": 2
+		},
+		{
+			"author": "by Laura Hillenbrand",
+			"description": "An Olympic runner\u2019s story of survival as a prisoner of the Japanese in World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400064168.jpg",
+			"name": "UNBROKEN",
+			"publisher": "Random House",
+			"rank": 3
+		},
+		{
+			"author": "by Rebecca Skloot",
+			"description": "The story of a woman whose cancer cells were extensively cultured without her permission in 1951.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400052189.jpg",
+			"name": "THE IMMORTAL LIFE OF HENRIETTA LACKS",
+			"publisher": "Crown",
+			"rank": 4
+		},
+		{
+			"author": "by David Brooks",
+			"description": "Brooks creates two imaginary people, Harold and Erica, to illustrate his understanding of the human mind, the wellsprings of action and the causes of success and failure.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400067602.jpg",
+			"name": "THE SOCIAL ANIMAL",
+			"publisher": "Random House",
+			"rank": 5
+		},
+		{
+			"author": "by Joshua Foer",
+			"description": "A journalist who covered a mnemonics championship tries competing himself.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780143120537.jpg",
+			"name": "MOONWALKING WITH EINSTEIN",
+			"publisher": "Penguin Group",
+			"rank": 6
+		},
+		{
+			"author": "by Mitch Albom",
+			"description": "An eight-year journey between two worlds \u2014 Christian and Jewish, black and white, impoverished and well-to-do \u2014 teaches lessons about the comfort of belief.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781401310462.jpg",
+			"name": "HAVE A LITTLE FAITH",
+			"publisher": "Hyperion",
+			"rank": 7
+		},
+		{
+			"author": "by Sammy Hagar with Joel Selvin",
+			"description": "Hagar tells of his tear through rock, from his first break with Montrose to his role as the front man of Van Halen.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062009289.jpg",
+			"name": "RED",
+			"publisher": "HarperCollins",
+			"rank": 8
+		},
+		{
+			"author": "by Del Quentin Wilber",
+			"description": "An account of the assassination attempt on President Ronald Reagan in 1981.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781429919319.jpg",
+			"name": "RAWHIDE DOWN",
+			"publisher": "Holt",
+			"rank": 9
+		},
+		{
+			"author": "by Susan Lucci",
+			"description": "A memoir by the woman known as the \u201cleading lady of daytime\u201d for her role on the soap opera \u201cAll My Children.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062061843.jpg",
+			"name": "ALL MY LIFE",
+			"publisher": "HarperCollins",
+			"rank": 10
+		},
+		{
+			"author": "by Gayle Tzemach Lemmon",
+			"description": "The story of Kamila Sidiqi, a woman who started a successful sewing business in Afghanistan.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780061732379.jpg",
+			"name": "THE DRESSMAKER OF KHAIR KHANA",
+			"publisher": "HarperCollins",
+			"rank": 11
+		},
+		{
+			"author": "by Christopher McDougall",
+			"description": "Secrets of distance running from a Mexican Indian tribe.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307271914.jpg",
+			"name": "BORN TO RUN",
+			"publisher": "Knopf Doubleday",
+			"rank": 12
+		},
+		{
+			"author": "by Alexandra Horowitz",
+			"description": "What the world is like from a dog\u2019s point of view.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781416583431.jpg",
+			"name": "INSIDE OF A DOG",
+			"publisher": "Simon & Schuster",
+			"rank": 13
+		},
+		{
+			"author": "by Stacy Schiff",
+			"description": "This biography portrays the Macedonian-Egyptian queen in all her ambition, audacity and formidable intelligence.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316001946.jpg",
+			"name": "CLEOPATRA",
+			"publisher": "Little, Brown",
+			"rank": 14
+		},
+		{
+			"author": "by Christina Haag",
+			"description": "A memoir of the author\u2019s five-year relationship with John F. Kennedy Jr.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385523172.jpg",
+			"name": "COME TO THE EDGE",
+			"publisher": "Spiegel & Grau",
+			"rank": 15
+		}
+	]
+}

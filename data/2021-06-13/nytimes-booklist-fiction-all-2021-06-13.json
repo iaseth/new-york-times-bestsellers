@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Nora Roberts",
+			"description": "Threats put in rhymes and sent from shifting locations escalate as the daughter of a successful fitness celebrity\u2019s own yoga business grows.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250272935.jpg",
+			"name": "LEGACY",
+			"publisher": "St. Martin's",
+			"rank": 1
+		},
+		{
+			"author": "by Laura Dave",
+			"description": "Hannah Hall discovers truths about her missing husband and bonds with his daughter from a previous relationship.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501171345.jpg",
+			"name": "THE LAST THING HE TOLD ME",
+			"publisher": "Simon & Schuster",
+			"rank": 2
+		},
+		{
+			"author": "by Christine Feehan",
+			"description": "The sixth book in the Shadow Riders series. Emmanuelle is pulled toward Valentino and his family\u2019s private war.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593333136.jpg",
+			"name": "SHADOW STORM",
+			"publisher": "Berkley",
+			"rank": 3
+		},
+		{
+			"author": "by Andy Weir",
+			"description": "Ryland Grace awakes from a long sleep alone and far from home, and the fate of humanity rests on his shoulders.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593135204.jpg",
+			"name": "PROJECT HAIL MARY",
+			"publisher": "Ballantine",
+			"rank": 4
+		},
+		{
+			"author": "by John Grisham",
+			"description": "Samuel Sooleymon receives a basketball scholarship to North Carolina Central and determines to bring his family over from a civil war-ravaged South Sudan.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385547680.jpg",
+			"name": "SOOLEY",
+			"publisher": "Doubleday",
+			"rank": 5
+		},
+		{
+			"author": "by Clive Cussler and Jack Du Brul",
+			"description": "The 12th book in the Isaac Bell Adventure series. An assassination attempt reveals a deeper plot at the Panama Canal.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593191224.jpg",
+			"name": "THE SABOTEURS",
+			"publisher": "Putnam",
+			"rank": 6
+		},
+		{
+			"author": "by Delia Owens",
+			"description": "In a quiet town on the North Carolina coast in 1969, a young woman who survived alone in the marsh becomes a murder suspect.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735219090.jpg",
+			"name": "WHERE THE CRAWDADS SING",
+			"publisher": "Putnam",
+			"rank": 7
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "Aloysius Archer, a World War II veteran, seeks to apprentice with Willie Dash, a private eye, in a corrupt California town.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538719671.jpg",
+			"name": "A GAMBLING MAN",
+			"publisher": "Grand Central",
+			"rank": 8
+		},
+		{
+			"author": "by Matt Haig",
+			"description": "Nora Seed finds a library beyond the edge of the universe that contains books with multiple possibilities of the lives one could have lived.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525559474.jpg",
+			"name": "THE MIDNIGHT LIBRARY",
+			"publisher": "Viking",
+			"rank": 9
+		},
+		{
+			"author": "by Stacey Abrams",
+			"description": "When Justice Wynn slips into a coma, his law clerk, Avery Keene, must unravel the clues of a controversial case.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385546577.jpg",
+			"name": "WHILE JUSTICE SLEEPS",
+			"publisher": "Doubleday",
+			"rank": 10
+		},
+		{
+			"author": "by Emily Henry",
+			"description": "Opposites Poppy and Alex meet to vacation together one more time in hopes of saving their relationship.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984806758.jpg",
+			"name": "PEOPLE WE MEET ON VACATION",
+			"publisher": "Berkley",
+			"rank": 11
+		},
+		{
+			"author": "by Jennifer Weiner",
+			"description": "Daisy Shoemaker receives emails intended for a woman leading a more glamorous life and finds there was more to this accident.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501133541.jpg",
+			"name": "THAT SUMMER",
+			"publisher": "Atria",
+			"rank": 12
+		},
+		{
+			"author": "by Kristin Hannah",
+			"description": "As dust storms roll during the Great Depression, Elsa must choose between saving the family and farm or heading West.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250178602.jpg",
+			"name": "THE FOUR WINDS",
+			"publisher": "St. Martin's",
+			"rank": 13
+		},
+		{
+			"author": "by James Patterson and Maxine Paetro",
+			"description": "The 21st book in the Women\u2019s Murder Club series. New evidence changes the investigation of a missing mother.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316499347.jpg",
+			"name": "21ST BIRTHDAY",
+			"publisher": "Little, Brown",
+			"rank": 14
+		},
+		{
+			"author": "by Madeline Miller",
+			"description": "A reimagining of Homer\u2019s \u201cIliad\u201d that is narrated by Achilles' companion Patroclus.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062060624.jpg",
+			"name": "THE SONG OF ACHILLES",
+			"publisher": "Ecco",
+			"rank": 15
+		}
+	]
+}

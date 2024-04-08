@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by William P. Young",
+			"description": "A man whose daughter was abducted is invited to an isolated shack, apparently by God.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780964729230.jpg",
+			"name": "THE SHACK",
+			"publisher": "Windblown Media",
+			"rank": 1
+		},
+		{
+			"author": "by Catherine Coulter and J. T. Ellison",
+			"description": "The F.B.I. special agent Nicholas Drummond and his partner, Michaela Caine, track evil twins who can control the weather.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501150357.jpg",
+			"name": "THE DEVIL'S TRIANGLE",
+			"publisher": "Gallery Books",
+			"rank": 2
+		},
+		{
+			"author": "by Clive Cussler and Justin Scott",
+			"description": "In 1911, searching for a young actress who has disappeared, the detective Isaac Bell discovers a serial killer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399575617.jpg",
+			"name": "THE CUTTHROAT",
+			"publisher": "Putnam",
+			"rank": 3
+		},
+		{
+			"author": "by Liane Moriarty",
+			"description": "Who will end up dead, and how, when three mothers with children in the same school become friends?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698138636.jpg",
+			"name": "BIG LITTLE LIES",
+			"publisher": "Berkley",
+			"rank": 4
+		},
+		{
+			"author": "by Nora Roberts",
+			"description": "A woman is haunted by her father\u2019s crimes as she tries to pursue love and her work as a photographer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399175169.jpg",
+			"name": "THE OBSESSION",
+			"publisher": "Berkley",
+			"rank": 5
+		},
+		{
+			"author": "by Fredrik Backman",
+			"description": "A curmudgeon's gruff exterior masks a generosity of spirit. Originally published in Sweden in 2014.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476738024.jpg",
+			"name": "A MAN CALLED OVE",
+			"publisher": "Washington Square",
+			"rank": 6
+		},
+		{
+			"author": "by Jacqueline Winspear",
+			"description": "The psychologist and investigator Maisie Dobbs gets an assignment involving murdered Belgian refugees as World War II begins.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062436610.jpg",
+			"name": "IN THIS GRAVE HOUR",
+			"publisher": "Harper/HarperCollins",
+			"rank": 7
+		},
+		{
+			"author": "by Danielle Steel",
+			"description": "A television correspondent investigates damning allegations against the vice president of the United States.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101883884.jpg",
+			"name": "DANGEROUS GAMES",
+			"publisher": "Delacorte",
+			"rank": 8
+		},
+		{
+			"author": "by W. Bruce Cameron",
+			"description": "A canine narrator undergoes a series of reincarnations.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780765330345.jpg",
+			"name": "A DOG'S PURPOSE",
+			"publisher": "Forge Books",
+			"rank": 9
+		},
+		{
+			"author": "by Joel C. Rosenberg",
+			"description": "A journalist pursues the head of ISIS after an attack on the Capitol when the administration fails to take action.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781496406163.jpg",
+			"name": "WITHOUT WARNING",
+			"publisher": "Tyndale House",
+			"rank": 10
+		},
+		{
+			"author": "by Rupi Kaur",
+			"description": "Poetic approaches to surviving adversity and loss.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781449474256.jpg",
+			"name": "MILK AND HONEY",
+			"publisher": "Andrews McMeel",
+			"rank": 11
+		},
+		{
+			"author": "by Lisa Jackson",
+			"description": "Alvarez and Pescoli are back, dodging a reality-TV crew while tracking a serial killer stalking the woods of a remote Montana town.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781420136074.jpg",
+			"name": "EXPECTING TO DIE",
+			"publisher": "Zebra",
+			"rank": 12
+		},
+		{
+			"author": "by Neil Gaiman",
+			"description": "A retelling of Norse folklore.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780393609097.jpg",
+			"name": "NORSE MYTHOLOGY",
+			"publisher": "Norton",
+			"rank": 13
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "In a sequel to \u201cMemory Man,\u201d Amos Decker, a detective with an extraordinary memory, investigates the case of a convicted killer who wins a last-minute reprieve.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455586455.jpg",
+			"name": "THE LAST MILE",
+			"publisher": "Grand Central",
+			"rank": 14
+		},
+		{
+			"author": "by Martha Hall Kelly",
+			"description": "A story of three women\u2019s lives during and after World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101883075.jpg",
+			"name": "LILAC GIRLS",
+			"publisher": "Ballantine",
+			"rank": 15
+		}
+	]
+}

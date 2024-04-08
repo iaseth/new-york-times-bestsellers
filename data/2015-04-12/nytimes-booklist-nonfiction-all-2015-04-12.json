@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Brent Schlender and Rick Tetzeli",
+			"description": "How Jobs, who started out as a brash young genius, developed a more mature management style.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385347419.jpg",
+			"name": "BECOMING STEVE JOBS",
+			"publisher": "Crown Business",
+			"rank": 1
+		},
+		{
+			"author": "by Erik Larson",
+			"description": "The last voyage of the Lusitania, by the author of \u201cThe Devil in the White City.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307408860.jpg",
+			"name": "DEAD WAKE",
+			"publisher": "Crown",
+			"rank": 2
+		},
+		{
+			"author": "by Chris Kyle with Scott McEwen and Jim DeFelice",
+			"description": "A former member of the Navy SEALs discusses his battlefield experiences during the Iraq war. Kyle was shot to death in Texas in 2013.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062082374.jpg",
+			"name": "AMERICAN SNIPER",
+			"publisher": "Morrow/HarperCollins",
+			"rank": 3
+		},
+		{
+			"author": "by Daniel James Brown",
+			"description": "The University of Washington\u2019s eight-oar crew and their quest for gold at the 1936 Berlin Olympics.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101622742.jpg",
+			"name": "THE BOYS IN THE BOAT",
+			"publisher": "Viking",
+			"rank": 4
+		},
+		{
+			"author": "by Laura Hillenbrand",
+			"description": "An Olympic runner\u2019s story of survival as a prisoner of the Japanese in World War II; now a movie.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400064168.jpg",
+			"name": "UNBROKEN",
+			"publisher": "Random House",
+			"rank": 5
+		},
+		{
+			"author": "by Cheryl Strayed",
+			"description": "A woman\u2019s account of a life-changing 1,100-mile hike along the Pacific Crest Trail during the summer of 1995; now a movie.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307476074.jpg",
+			"name": "WILD",
+			"publisher": "Knopf",
+			"rank": 6
+		},
+		{
+			"author": "by Steven D. Levitt and Stephen J. Dubner",
+			"description": "How to solve problems creatively, from the authors of \u201cFreakonomics.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062218360.jpg",
+			"name": "THINK LIKE A FREAK",
+			"publisher": "Morrow/HarperCollins",
+			"rank": 7
+		},
+		{
+			"author": "by Alison Weir",
+			"description": "A history of the king\u2019s serial marriages, from Catherine of Aragon to Catherine Parr; first published in 1991.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780802198754.jpg",
+			"name": "THE SIX WIVES OF HENRY VIII",
+			"publisher": "Grove",
+			"rank": 8
+		},
+		{
+			"author": "by Atul Gawande",
+			"description": "The surgeon and New Yorker writer considers how doctors fail patients at the end of life, and how they can do better.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780805095159.jpg",
+			"name": "BEING MORTAL",
+			"publisher": "Metropolitan/Holt",
+			"rank": 9
+		},
+		{
+			"author": "by Laura Ingalls Wilder",
+			"description": "The writer\u2019s autobiography, the source of her Little House on the Prairie books, completed in 1930 and never published, is annotated by a biographer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780984504176.jpg",
+			"name": "PIONEER GIRL",
+			"publisher": "South Dakota Historical Society Press",
+			"rank": 10
+		},
+		{
+			"author": "by Helen Macdonald",
+			"description": "Overwhelmed by her father\u2019s death, a British woman decides to raise a goshawk, a bird that is fierce and notoriously difficult to tame.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780802123411.jpg",
+			"name": "H IS FOR HAWK",
+			"publisher": "Grove",
+			"rank": 11
+		},
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "The host of \u201cThe O\u2019Reilly Factor\u201d recounts the strange death of Gen. George S. Patton in December 1945.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780805096699.jpg",
+			"name": "KILLING PATTON",
+			"publisher": "Holt",
+			"rank": 12
+		},
+		{
+			"author": "by Ayaan Hirsi Ali",
+			"description": "The author of \u201cInfidel\u201d and \u201cNomad\u201d argues that fundamental doctrines of Islam must change for it to be compatible with democracy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062333957.jpg",
+			"name": "HERETIC",
+			"publisher": "Harper",
+			"rank": 13
+		},
+		{
+			"author": "by Amy Poehler",
+			"description": "A humorous miscellany from the comedian and actress.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062268341.jpg",
+			"name": "YES PLEASE",
+			"publisher": "Dey Street/Morrow",
+			"rank": 14
+		},
+		{
+			"author": "by Dan Ariely",
+			"description": "The unexpected benefits of defying logic at work and at home.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780061995033.jpg",
+			"name": "THE UPSIDE OF IRRATIONALITY",
+			"publisher": "HarperCollins",
+			"rank": 15
+		}
+	]
+}

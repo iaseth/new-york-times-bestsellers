@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Michelle Obama",
+			"description": "The former first lady describes her journey from the South Side of Chicago to the White House, and how she balanced work, family and her husband\u2019s political ascent.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524763138.jpg",
+			"name": "BECOMING",
+			"publisher": "Crown",
+			"rank": 1
+		},
+		{
+			"author": "by Tara Westover",
+			"description": "The daughter of survivalists, who is kept out of school, educates herself enough to leave home for university.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399590504.jpg",
+			"name": "EDUCATED",
+			"publisher": "Random House",
+			"rank": 2
+		},
+		{
+			"author": "by Gary Sinise with Marcus Brotherton",
+			"description": "The Oscar-nominated actor describes how he has entertained troops and helped veterans.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400208128.jpg",
+			"name": "GRATEFUL AMERICAN",
+			"publisher": "Thomas Nelson",
+			"rank": 3
+		},
+		{
+			"author": "by John Carreyrou",
+			"description": "The rise and fall of Theranos, the biotech startup that failed to deliver on its promise to make blood testing more efficient.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524731663.jpg",
+			"name": "BAD BLOOD",
+			"publisher": "Knopf",
+			"rank": 4
+		},
+		{
+			"author": "by Yuval Noah Harari",
+			"description": "How Homo sapiens became Earth\u2019s dominant species.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062316097.jpg",
+			"name": "SAPIENS",
+			"publisher": "Harper",
+			"rank": 5
+		},
+		{
+			"author": "by Trevor Noah",
+			"description": "A memoir about growing up biracial in apartheid South Africa by the host of \u201cThe Daily Show.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399588181.jpg",
+			"name": "BORN A CRIME",
+			"publisher": "Spiegel & Grau",
+			"rank": 6
+		},
+		{
+			"author": "by Brad Meltzer and Josh Mensch",
+			"description": "The story of a secret plot to kill George Washington in 1776.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250130334.jpg",
+			"name": "THE FIRST CONSPIRACY",
+			"publisher": "Flatiron",
+			"rank": 7
+		},
+		{
+			"author": "by Stephanie Land",
+			"description": "An unexpected pregnancy forces the author to navigate challenges faced by the working poor.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316505116.jpg",
+			"name": "MAID",
+			"publisher": "Hachette",
+			"rank": 8
+		},
+		{
+			"author": "by Mary Pipher",
+			"description": "Reflections on the ageism, misogyny and loss that women might encounter as they grow older.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781632869609.jpg",
+			"name": "WOMEN ROWING NORTH",
+			"publisher": "Bloomsbury",
+			"rank": 9
+		},
+		{
+			"author": "by Susan Orlean",
+			"description": "The story of the 1986 fire at the Los Angeles Public Library provides a backdrop to the evolution and purpose of libraries.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476740188.jpg",
+			"name": "THE LIBRARY BOOK",
+			"publisher": "Simon & Schuster",
+			"rank": 10
+		},
+		{
+			"author": "by David Grann",
+			"description": "The story of a murder spree in 1920s Oklahoma that targeted Osage Indians, whose lands contained oil.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385534246.jpg",
+			"name": "KILLERS OF THE FLOWER MOON",
+			"publisher": "Doubleday",
+			"rank": 11
+		},
+		{
+			"author": "by Adam Higginbotham",
+			"description": "An account of the 1986 disaster at the Chernobyl nuclear power plant, based on hundreds of hours of interviews.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501134647.jpg",
+			"name": "MIDNIGHT IN CHERNOBYL",
+			"publisher": "Simon & Schuster",
+			"rank": 12
+		},
+		{
+			"author": "by Chris Christie with Ellis Henican",
+			"description": "The former governor of New Jersey describes his relationship with President Trump and the tensions among others close to the president.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316421799.jpg",
+			"name": "LET ME FINISH",
+			"publisher": "Hachette",
+			"rank": 13
+		},
+		{
+			"author": "by Pete Buttigieg",
+			"description": "A memoir by the current mayor of South Bend, Ind., and the first openly gay Democratic candidate to run for president of the United States.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781631494369.jpg",
+			"name": "SHORTEST WAY HOME",
+			"publisher": "Liveright",
+			"rank": 14
+		},
+		{
+			"author": "by Kerri Rawson",
+			"description": "A woman rebuilds her life after she learns her father is the infamous killer known as BTK.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400201761.jpg",
+			"name": "A SERIAL KILLER'S DAUGHTER",
+			"publisher": "Thomas Nelson",
+			"rank": 15
+		}
+	]
+}

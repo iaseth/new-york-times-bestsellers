@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by John Sandford",
+			"description": "The 29th book in the Prey series. Lucas Davenport goes after a serial killer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525536598.jpg",
+			"name": "NEON PREY",
+			"publisher": "Putnam",
+			"rank": 1
+		},
+		{
+			"author": "by Delia Owens",
+			"description": "In a quiet town on the North Carolina coast in 1969, a young woman who survived alone in the marsh becomes a murder suspect.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735219090.jpg",
+			"name": "WHERE THE CRAWDADS SING",
+			"publisher": "Putnam",
+			"rank": 2
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "The fifth book in the Memory Man series. The first man Amos Decker put behind bars asks to have his name cleared.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538761434.jpg",
+			"name": "REDEMPTION",
+			"publisher": "Grand Central",
+			"rank": 3
+		},
+		{
+			"author": "by E L James",
+			"description": "Maxim Trevelyan inherits several estates and beds his cleaner Alessia Demachi, an Albanian piano prodigy who has been trafficked into England.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984898326.jpg",
+			"name": "THE MISTER",
+			"publisher": "Vintage",
+			"rank": 4
+		},
+		{
+			"author": "by Lynsay Sands",
+			"description": "The 29th book in the Argeneau series. Santo Notte falls for a history professor in upstate New York.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062855183.jpg",
+			"name": "THE TROUBLE WITH VAMPIRES",
+			"publisher": "Avon",
+			"rank": 5
+		},
+		{
+			"author": "by Heather Morris",
+			"description": "A concentration camp detainee tasked with permanently marking fellow prisoners falls in love with one of them.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062797155.jpg",
+			"name": "THE TATTOOIST OF AUSCHWITZ",
+			"publisher": "Harper",
+			"rank": 6
+		},
+		{
+			"author": "by A.J. Finn",
+			"description": "A recluse who drinks heavily and takes prescription drugs may have witnessed a crime across from her Harlem townhouse.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062678416.jpg",
+			"name": "THE WOMAN IN THE WINDOW",
+			"publisher": "Morrow",
+			"rank": 7
+		},
+		{
+			"author": "by Martha Hall Kelly",
+			"description": "In 1914, the New York socialite Eliza Ferriday works to help White Russian families escape from the revolution.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524796372.jpg",
+			"name": "LOST ROSES",
+			"publisher": "Ballantine",
+			"rank": 8
+		},
+		{
+			"author": "by George R.R. Martin",
+			"description": "In the frozen wastes to the north of Winterfell, sinister and supernatural forces are mustering. Basis of the HBO series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780553897845.jpg",
+			"name": "A GAME OF THRONES",
+			"publisher": "Bantam",
+			"rank": 9
+		},
+		{
+			"author": "by Greg Weisman",
+			"description": "The first book in the Magic: The Gathering: War of the Spark series. Nicol Bolas, the Elder Dragon, attacks the city of Ravnica.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984817457.jpg",
+			"name": "WAR OF THE SPARK: RAVNICA",
+			"publisher": "Del Rey",
+			"rank": 10
+		},
+		{
+			"author": "by Amor Towles",
+			"description": "A Russian count undergoes 30 years of house arrest in the Metropol hotel, across from the Kremlin.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780670026197.jpg",
+			"name": "A GENTLEMAN IN MOSCOW",
+			"publisher": "Penguin",
+			"rank": 11
+		},
+		{
+			"author": "by Lisa Scottoline",
+			"description": "A dark secret emerges when Allie Garvey returns home to attend a childhood friend\u2019s funeral.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525539643.jpg",
+			"name": "SOMEONE KNOWS",
+			"publisher": "Putnam",
+			"rank": 12
+		},
+		{
+			"author": "by Richard Powers",
+			"description": "Winner of the 2019 Pulitzer Prize for fiction. Nine people drawn to trees for different reasons fight for the last of the remaining acres of virgin forest.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780393635522.jpg",
+			"name": "THE OVERSTORY",
+			"publisher": "Norton",
+			"rank": 13
+		},
+		{
+			"author": "by Alex Michaelides",
+			"description": "Theo Faber looks into the mystery of a famous painter who stops speaking after shooting her husband.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250301697.jpg",
+			"name": "THE SILENT PATIENT",
+			"publisher": "Celadon",
+			"rank": 14
+		},
+		{
+			"author": "by Gail Honeyman",
+			"description": "A young woman\u2019s well-ordered life is disrupted by the I.T. guy from her office.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735220690.jpg",
+			"name": "ELEANOR OLIPHANT IS COMPLETELY FINE",
+			"publisher": "Penguin",
+			"rank": 15
+		}
+	]
+}

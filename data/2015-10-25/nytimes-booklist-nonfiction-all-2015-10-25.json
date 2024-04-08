@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "The host of \u201cThe O\u2019Reilly Factor\u201d recounts the events surrounding the attempted assassination of President Reagan in 1981.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781627792424.jpg",
+			"name": "KILLING REAGAN",
+			"publisher": "Holt",
+			"rank": 1
+		},
+		{
+			"author": "by Ben Carson with Candy Carson",
+			"description": "A discussion of the Constitution by the candidate for the Republican presidential nomination.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781591848042.jpg",
+			"name": "A MORE PERFECT UNION",
+			"publisher": "Sentinel",
+			"rank": 2
+		},
+		{
+			"author": "by Patrick J. Kennedy and Stephen Fried",
+			"description": "The former Rhode Island representative, the son of Senator Ted Kennedy, describes his troubles with bipolar disorder and addiction and his subsequent advocacy for mental health care and research.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399173325.jpg",
+			"name": "A COMMON STRUGGLE",
+			"publisher": "Blue Rider",
+			"rank": 3
+		},
+		{
+			"author": "by Patti Smith",
+			"description": "A meditation on art, loss and the past by the musician and author of \u201cJust Kids.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101875100.jpg",
+			"name": "M TRAIN",
+			"publisher": "Knopf",
+			"rank": 4
+		},
+		{
+			"author": "by Kate Clifford Larson",
+			"description": "The tragic story of the Kennedys\u2019 intellectually disabled oldest daughter.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780547617954.jpg",
+			"name": "ROSEMARY",
+			"publisher": "Houghton Mifflin Harcourt",
+			"rank": 5
+		},
+		{
+			"author": "by Mindy Kaling",
+			"description": "More personal essays from the comedian and actress.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780804138154.jpg",
+			"name": "WHY NOT ME?",
+			"publisher": "Crown Archetype",
+			"rank": 6
+		},
+		{
+			"author": "by Daniel James Brown",
+			"description": "The University of Washington\u2019s eight-oar crew and their quest for gold at the 1936 Berlin Olympics.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101622742.jpg",
+			"name": "THE BOYS IN THE BOAT",
+			"publisher": "Penguin",
+			"rank": 7
+		},
+		{
+			"author": "by Ben S. Bernanke",
+			"description": "A history of the financial crisis beginning in 2007, by a former chairman of the Federal Reserve.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780393247220.jpg",
+			"name": "THE COURAGE TO ACT",
+			"publisher": "Norton",
+			"rank": 8
+		},
+		{
+			"author": "by Jenny Lawson",
+			"description": "A humorous treatment of the author\u2019s experience of depression and anxiety disorder.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250077004.jpg",
+			"name": "FURIOUSLY HAPPY",
+			"publisher": "Flatiron",
+			"rank": 9
+		},
+		{
+			"author": "by Ta-Nehisi Coates",
+			"description": "A meditation on race in America as well as a personal story by the national correspondent of The Atlantic, framed as a letter to his teenage son.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780679645986.jpg",
+			"name": "BETWEEN THE WORLD AND ME",
+			"publisher": "Spiegel & Grau",
+			"rank": 10
+		},
+		{
+			"author": "by Malala Yousafzai with Christina Lamb",
+			"description": "The experience of the Pakistani girl who advocated for women\u2019s education and was shot by the Taliban.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316322409.jpg",
+			"name": "I AM MALALA",
+			"publisher": "Little, Brown",
+			"rank": 11
+		},
+		{
+			"author": "by Dan Harris",
+			"description": "A co-anchor of \"Nightline\" reports on the science and spiritual dimensions of meditation and how it has improved his life.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062265425.jpg",
+			"name": "10% HAPPIER",
+			"publisher": "It Books",
+			"rank": 12
+		},
+		{
+			"author": "by David McCullough",
+			"description": "The story of the bicycle mechanics from Ohio who ushered in the age of flight.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476728742.jpg",
+			"name": "THE WRIGHT BROTHERS",
+			"publisher": "Simon & Schuster",
+			"rank": 13
+		},
+		{
+			"author": "by Atul Gawande",
+			"description": "The surgeon and New Yorker writer considers how doctors fail patients at the end of life, and how they can do better.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780805095159.jpg",
+			"name": "BEING MORTAL",
+			"publisher": "Metropolitan/Holt",
+			"rank": 14
+		},
+		{
+			"author": "by John Fogerty with Jimmy McDonough",
+			"description": "A memoir by the songwriter, lead singer and lead guitarist of Creedence Clearwater Revival.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316244572.jpg",
+			"name": "FORTUNATE SON",
+			"publisher": "Little, Brown",
+			"rank": 15
+		}
+	]
+}

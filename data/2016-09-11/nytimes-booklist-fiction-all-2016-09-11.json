@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Paula Hawkins",
+			"description": "A psychological thriller set in the environs of London is full of complications and betrayals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594633669.jpg",
+			"name": "THE GIRL ON THE TRAIN",
+			"publisher": "Riverhead",
+			"rank": 1
+		},
+		{
+			"author": "by M. L. Stedman",
+			"description": "An Australian lighthouse keeper and his wife decide to keep a baby who has washed ashore.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451681758.jpg",
+			"name": "THE LIGHT BETWEEN OCEANS",
+			"publisher": "Scribner",
+			"rank": 2
+		},
+		{
+			"author": "by Colson Whitehead",
+			"description": "A teenage girl heads north on the network that helped slaves escape to freedom, envisioned in this novel as a secret system of actual tracks and tunnels.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385542364.jpg",
+			"name": "THE UNDERGROUND RAILROAD",
+			"publisher": "Doubleday",
+			"rank": 3
+		},
+		{
+			"author": "by Sandra Brown",
+			"description": "A hired killer and a woman he kidnapped join forces to elude the F.B.I. agents and others who are searching for her corrupt brother.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455581238.jpg",
+			"name": "STING",
+			"publisher": "Grand Central",
+			"rank": 4
+		},
+		{
+			"author": "by Liane Moriarty",
+			"description": "Tense turning points for three couples at a backyard barbecue gone wrong.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250069818.jpg",
+			"name": "TRULY MADLY GUILTY",
+			"publisher": "Flatiron",
+			"rank": 5
+		},
+		{
+			"author": "by Susan Elizabeth Phillips",
+			"description": "A former quarterback hires a detective to scope out the employees at his high-end nightclub.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062405630.jpg",
+			"name": "FIRST STAR I SEE TONIGHT",
+			"publisher": "HarperCollins",
+			"rank": 6
+		},
+		{
+			"author": "by Fredrik Backman",
+			"description": "A curmudgeon's gruff exterior masks a generosity of spirit. Originally published in Sweden in 2014.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476738024.jpg",
+			"name": "A MAN CALLED OVE",
+			"publisher": "Washington Square",
+			"rank": 7
+		},
+		{
+			"author": "by James Patterson and Michael Ledwidge",
+			"description": "Detective Michael Bennett must stop a team of assassins prowling the Upper West Side.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316407083.jpg",
+			"name": "BULLSEYE",
+			"publisher": "Little, Brown",
+			"rank": 8
+		},
+		{
+			"author": "by Tijan",
+			"description": "Summer heads to college with designs on her stepbrother, but his fraternity mate turns her head instead.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781682307557.jpg",
+			"name": "ANTI-STEPBROTHER",
+			"publisher": "Tijan",
+			"rank": 9
+		},
+		{
+			"author": "by Kristin Hannah",
+			"description": "Ruby ends her estrangement from her famous advice-guru mother in order to write a tell-all.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345459527.jpg",
+			"name": "SUMMER ISLAND",
+			"publisher": "Ballantine",
+			"rank": 10
+		},
+		{
+			"author": "by Ruth Ware",
+			"description": "A travel writer on a cruise is certain she has heard a body thrown overboard, but no one believes her.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501132940.jpg",
+			"name": "THE WOMAN IN CABIN 10",
+			"publisher": "Scout",
+			"rank": 11
+		},
+		{
+			"author": "by Janet Evanovich and Phoef Sutton",
+			"description": "The first of a new series featuring Emerson Knight, an eccentric millionaire, and Riley Moon, an analyst at a mega-bank.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780553392692.jpg",
+			"name": "CURIOUS MINDS",
+			"publisher": "Bantam",
+			"rank": 12
+		},
+		{
+			"author": "by John Grisham",
+			"description": "The attorney Sebastian Rudd is a \u201clone gunman\u201d who hates injustice and the system and defends unpopular clients.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385539449.jpg",
+			"name": "ROGUE LAWYER",
+			"publisher": "Doubleday",
+			"rank": 13
+		},
+		{
+			"author": "by Maya Banks",
+			"description": "The killer who terrorized Eliza as a teenager is suddenly free on a legal loophole, in a continuation of the Slow Burn series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062410177.jpg",
+			"name": "WITH EVERY BREATH",
+			"publisher": "Avon",
+			"rank": 14
+		},
+		{
+			"author": "by Catherine Coulter",
+			"description": "Two cases \u2014 one concerning an attempted poisoning in Washington and another about the hunt for a serial killer in Los Angeles \u2014 are the focus of Coulter\u2019s 20th F.B.I. thriller.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501150319.jpg",
+			"name": "INSIDIOUS",
+			"publisher": "Gallery Books",
+			"rank": 15
+		}
+	]
+}

@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Robert A. Caro",
+			"description": "From 1958 through the Kennedy assassination; the fourth volume of \u201cThe Years of Lyndon Johnson.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780679405078.jpg",
+			"name": "THE PASSAGE OF POWER",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 1
+		},
+		{
+			"author": "by Erik Larson",
+			"description": "William E. Dodd, the U.S. ambassador to Germany, and his daughter, Martha, in 1930s Berlin.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307887955.jpg",
+			"name": "IN THE GARDEN OF BEASTS",
+			"publisher": "Crown Publishing",
+			"rank": 2
+		},
+		{
+			"author": "by Andy Cohen",
+			"description": "The Bravo executive vice president who oversees \u201cTop Chef\u201d and \u201cThe Real Housewives\u201d looks back on his career.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250031464.jpg",
+			"name": "MOST TALKATIVE",
+			"publisher": "Henry Holt & Company",
+			"rank": 3
+		},
+		{
+			"author": "by Anna Quindlen",
+			"description": "The journalist and novelist, now nearly 60, looks back at her experiences and those of her generation.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780679604006.jpg",
+			"name": "LOTS OF CANDLES, PLENTY OF CAKE",
+			"publisher": "Random House Publishing",
+			"rank": 4
+		},
+		{
+			"author": "by Todd Burpo with Lynn Vincent",
+			"description": "A father recounts his 3-year-old son\u2019s encounter with Jesus and the angels during an appendectomy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780849949203.jpg",
+			"name": "HEAVEN IS FOR REAL",
+			"publisher": "Thomas Nelson",
+			"rank": 5
+		},
+		{
+			"author": "by Dick Morris and Eileen McGann",
+			"description": "How foreign countries take our jobs and misuse our aid.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062196712.jpg",
+			"name": "SCREWED!",
+			"publisher": "HarperCollins Publishers",
+			"rank": 6
+		},
+		{
+			"author": "by Kim and Krickitt Carpenter with Dana Wilkerson",
+			"description": "After a horrific car crash, a couple embark on a journey to fall in love all over again. The true events that inspired the movie.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781433675942.jpg",
+			"name": "THE VOW",
+			"publisher": "B&H Publishing",
+			"rank": 7
+		},
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "The anchor of \u201cThe O\u2019Reilly Factor\u201d recounts the assassination of Abraham Lincoln.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780805093070.jpg",
+			"name": "KILLING LINCOLN",
+			"publisher": "Holt",
+			"rank": 8
+		},
+		{
+			"author": "by Laura Hillenbrand",
+			"description": "An Olympic runner\u2019s story of survival as a prisoner of the Japanese in World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400064168.jpg",
+			"name": "UNBROKEN",
+			"publisher": "Random House Publishing",
+			"rank": 9
+		},
+		{
+			"author": "by Rebecca Skloot",
+			"description": "The story of a woman whose cancer cells were cultured without her permission in 1951.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400052189.jpg",
+			"name": "THE IMMORTAL LIFE OF HENRIETTA LACKS",
+			"publisher": "Crown Publishing",
+			"rank": 10
+		},
+		{
+			"author": "by Jenny Lawson",
+			"description": "A blogger recalls her unusual upbringing.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101573082.jpg",
+			"name": "LET'S PRETEND THIS NEVER HAPPENED",
+			"publisher": "Penguin Group",
+			"rank": 11
+		},
+		{
+			"author": "by Charles Duhigg",
+			"description": "A Times reporter\u2019s account of the science behind how we form, and break, habits.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812981605.jpg",
+			"name": "THE POWER OF HABIT",
+			"publisher": "Random House Publishing",
+			"rank": 12
+		},
+		{
+			"author": "by Marcus Luttrell and James D. Hornfischer",
+			"description": "A Navy Seals member who was rescued in Afghanistan describes his experience in Iraq.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316185363.jpg",
+			"name": "SERVICE",
+			"publisher": "Little, Brown & Company",
+			"rank": 13
+		},
+		{
+			"author": "by Clint Hill",
+			"description": "Recollections of the Secret Service agent assigned to guard Jacqueline Kennedy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451648447.jpg",
+			"name": "MRS. KENNEDY AND ME",
+			"publisher": "Gallery Books",
+			"rank": 14
+		},
+		{
+			"author": "by Walter Isaacson",
+			"description": "A biography of the recently deceased entrepreneur, based on 40 interviews with Jobs conducted over two years.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451648553.jpg",
+			"name": "STEVE JOBS",
+			"publisher": "Simon & Schuster",
+			"rank": 15
+		}
+	]
+}

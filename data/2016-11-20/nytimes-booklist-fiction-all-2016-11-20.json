@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Michael Connelly",
+			"description": "The detective Harry Bosch helps a small police department track a serial rapist, while as a P.I. he aids a billionaire in search of a possible heir.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316225953.jpg",
+			"name": "THE WRONG SIDE OF GOODBYE",
+			"publisher": "Little, Brown",
+			"rank": 1
+		},
+		{
+			"author": "by John Grisham",
+			"description": "A whistleblower alerts a Florida investigator to judicial corruption involving the Mob and Indian casinos.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385541206.jpg",
+			"name": "THE WHISTLER",
+			"publisher": "Doubleday",
+			"rank": 2
+		},
+		{
+			"author": "by Paula Hawkins",
+			"description": "A psychological thriller set in the environs of London is full of complications and betrayals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594633669.jpg",
+			"name": "THE GIRL ON THE TRAIN",
+			"publisher": "Riverhead",
+			"rank": 3
+		},
+		{
+			"author": "by Danielle Steel",
+			"description": "The war looms large over a fashionable Frenchwoman.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101883860.jpg",
+			"name": "THE AWARD",
+			"publisher": "Delacorte",
+			"rank": 4
+		},
+		{
+			"author": "by Nicholas Sparks",
+			"description": "A man who became a single father when his marriage and business collapsed learns to take a chance on a new love.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455520701.jpg",
+			"name": "TWO BY TWO",
+			"publisher": "Grand Central",
+			"rank": 5
+		},
+		{
+			"author": "by Fredrik Backman",
+			"description": "A curmudgeon's gruff exterior masks a generosity of spirit. Originally published in Sweden in 2014.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476738024.jpg",
+			"name": "A MAN CALLED OVE",
+			"publisher": "Washington Square",
+			"rank": 6
+		},
+		{
+			"author": "by Jodi Picoult",
+			"description": "A medical crisis entangles a black nurse, a white supremacist father and a white lawyer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345544964.jpg",
+			"name": "SMALL GREAT THINGS",
+			"publisher": "Ballantine",
+			"rank": 7
+		},
+		{
+			"author": "by John Sandford",
+			"description": "Virgil Flowers of the Minnesota Bureau of Criminal Apprehension must deal with the theft of tigers from the local zoo.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399168918.jpg",
+			"name": "ESCAPE CLAUSE",
+			"publisher": "Putnam",
+			"rank": 8
+		},
+		{
+			"author": "by Nalini Singh",
+			"description": "An ancient order of angels convenes to determine a territory's fate.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780451488008.jpg",
+			"name": "ARCHANGEL'S HEART",
+			"publisher": "Berkley",
+			"rank": 9
+		},
+		{
+			"author": "by Kyle Mills",
+			"description": "Vince Flynn\u2019s character, the C.I.A. operative Mitch Rapp, uncovers a dangerous Russian plot. Flynn died in 2013.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476783505.jpg",
+			"name": "VINCE FLYNN: ORDER TO KILL",
+			"publisher": "Emily Bestler/Atria",
+			"rank": 10
+		},
+		{
+			"author": "by B. A. Paris",
+			"description": "What cracks exist in an \"it couple's\" relationship?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250121004.jpg",
+			"name": "BEHIND CLOSED DOORS",
+			"publisher": "St. Martin\u2019s",
+			"rank": 11
+		},
+		{
+			"author": "by Corinne Michaels",
+			"description": "A woman's resistance to a Southern Lothario erodes.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781942834205.jpg",
+			"name": "SAY YOU WANT ME",
+			"publisher": "BAAE",
+			"rank": 12
+		},
+		{
+			"author": "by Dan Brown",
+			"description": "The symbologist Robert Langdon, on the run in Florence, must decipher a series of codes created by a Dante-loving scientist.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400079155.jpg",
+			"name": "INFERNO",
+			"publisher": "Anchor",
+			"rank": 13
+		},
+		{
+			"author": "by Allison Brennan",
+			"description": "A disappearance devastates a web of lives.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250105103.jpg",
+			"name": "THE LOST GIRLS",
+			"publisher": "Morrow/HarperCollins",
+			"rank": 14
+		},
+		{
+			"author": "by James Patterson and Jeffrey J. Keyes",
+			"description": "Who's poisoning diners in New Orleans' swankiest restaurants?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316361538.jpg",
+			"name": "KILLER CHEF",
+			"publisher": "Little, Brown",
+			"rank": 15
+		}
+	]
+}

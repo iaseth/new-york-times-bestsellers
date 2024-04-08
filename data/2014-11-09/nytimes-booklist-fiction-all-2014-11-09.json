@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by John Grisham",
+			"description": "A downsized Wall Street lawyer joins a legal clinic in a small Virginia town, and becomes involved both in real people\u2019s lives and in litigation against the coal mining industry.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385537148.jpg",
+			"name": "GRAY MOUNTAIN",
+			"publisher": "Doubleday",
+			"rank": 1
+		},
+		{
+			"author": "by Gillian Flynn",
+			"description": "A woman disappears on the day of her fifth anniversary; is her husband a killer?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307588388.jpg",
+			"name": "GONE GIRL",
+			"publisher": "Crown",
+			"rank": 2
+		},
+		{
+			"author": "by Jodi Picoult",
+			"description": "After searching for her mother, who has disappeared, for more than 10 years, a woman employs a psychic and a detective.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345544933.jpg",
+			"name": "LEAVING TIME",
+			"publisher": "Ballantine",
+			"rank": 3
+		},
+		{
+			"author": "by Nicholas Sparks",
+			"description": "Twenty-five years after their high school romance ended, two classmates return to their North Carolina town for a funeral.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780446547642.jpg",
+			"name": "THE BEST OF ME",
+			"publisher": "Grand Central",
+			"rank": 4
+		},
+		{
+			"author": "by James Patterson and Michael Ledwidge",
+			"description": "Detective Michael Bennett, back in New York City, investigates a peculiar crime in Harlem.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316211024.jpg",
+			"name": "BURN",
+			"publisher": "Little, Brown",
+			"rank": 5
+		},
+		{
+			"author": "by John Sandford",
+			"description": "Dognappers and a murdered reporter draw the attention of the Minnesota investigator Virgil Flowers.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101597767.jpg",
+			"name": "DEADLINE",
+			"publisher": "Putnam",
+			"rank": 6
+		},
+		{
+			"author": "by Anthony Doerr",
+			"description": "The lives of a blind French girl and a gadget-obsessed German boy before and during World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476746586.jpg",
+			"name": "ALL THE LIGHT WE CANNOT SEE",
+			"publisher": "Scribner",
+			"rank": 7
+		},
+		{
+			"author": "by Jay Crownover",
+			"description": "Rowdy St. James isn't going to be burned by love twice. Then his new co-worker arrives.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062333063.jpg",
+			"name": "ROWDY",
+			"publisher": "Morrow",
+			"rank": 8
+		},
+		{
+			"author": "by Sophie Kinsella",
+			"description": "Becky Brandon relocates to Los Angeles, and is offered a job as a stylist for an actress \u2014 unfortunately, the rival of the actress for whom her husband does P.R.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812993875.jpg",
+			"name": "SHOPAHOLIC TO THE STARS",
+			"publisher": "Dial",
+			"rank": 9
+		},
+		{
+			"author": "by Gillian Flynn",
+			"description": "A woman who, as a child, was spared when her mother and sisters were murdered begins to reinvestigate the case against her imprisoned brother.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307341570.jpg",
+			"name": "DARK PLACES",
+			"publisher": "Broadway",
+			"rank": 10
+		},
+		{
+			"author": "by Penelope Ward",
+			"description": "A bond, and an attraction, between two stepsiblings.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781942215035.jpg",
+			"name": "STEPBROTHER DEAREST",
+			"publisher": "Penelope Ward",
+			"rank": 11
+		},
+		{
+			"author": "by Ken Follett",
+			"description": "Five interrelated families grapple with the events of the 1960s through the 1980s; Book 3 of the Century Trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525953098.jpg",
+			"name": "EDGE OF ETERNITY",
+			"publisher": "Dutton",
+			"rank": 12
+		},
+		{
+			"author": "by Lee Child",
+			"description": "Jack Reacher, a former military cop, helps the State Department and the C.I.A. stop a sniper who has targeted a G8 summit.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780804178747.jpg",
+			"name": "PERSONAL",
+			"publisher": "Delacorte",
+			"rank": 13
+		},
+		{
+			"author": "by Christina Baker Kline",
+			"description": "A historical novel about orphans swept off the streets of New York and sent to the Midwest in the 1920s.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062101204.jpg",
+			"name": "ORPHAN TRAIN",
+			"publisher": "Morrow/HarperCollins",
+			"rank": 14
+		},
+		{
+			"author": "by Gillian Flynn",
+			"description": "After a stay at a psychiatric hospital, a reporter returns (reluctantly) to her hometown to cover the murders of two girls.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307341556.jpg",
+			"name": "SHARP OBJECTS",
+			"publisher": "Broadway",
+			"rank": 15
+		}
+	]
+}

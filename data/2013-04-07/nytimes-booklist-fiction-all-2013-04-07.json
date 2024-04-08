@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Harlan Coben",
+			"description": "Six years after the woman he loved married another man, Jake Fisher discovers that neither she nor their life together were what theyseemed, and he sets out to uncover the truth.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101611029.jpg",
+			"name": "SIX YEARS",
+			"publisher": "Penguin Group",
+			"rank": 1
+		},
+		{
+			"author": "by J. Lynn",
+			"description": "Nineteen-year-old Avery Morgansten hopes she can escape the tragedy in her past when she goes to college, but she begins to receive threats.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780988982901.jpg",
+			"name": "WAIT FOR YOU",
+			"publisher": "J. Lynn",
+			"rank": 2
+		},
+		{
+			"author": "by Jodi Picoult",
+			"description": "A New Hampshire baker finds herself in the midst of two Holocaust stories: her grandmother\u2019s story of survival, and the confessions of an elderly German man, an SS officer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781439149706.jpg",
+			"name": "THE STORYTELLER",
+			"publisher": "Simon & Schuster",
+			"rank": 3
+		},
+		{
+			"author": "by Kyra Davis",
+			"description": "In Book 2 of the Just One Night series, Kasie Fitzgerald is crazy about Robert, the man she slept with in Las Vegas, but Dave, her\nfianc\u00e9, is furious.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476713137.jpg",
+			"name": "EXPOSED",
+			"publisher": "Simon & Schuster",
+			"rank": 4
+		},
+		{
+			"author": "by James Patterson",
+			"description": "While Alex Cross pursues a Washington serial killer (or killers?), someone is after him.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316097529.jpg",
+			"name": "ALEX CROSS, RUN",
+			"publisher": "Little, Brown & Company",
+			"rank": 5
+		},
+		{
+			"author": "by Gillian Flynn",
+			"description": "A woman disappears on the day of her fifth anniversary; is her husband a killer?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307588388.jpg",
+			"name": "GONE GIRL",
+			"publisher": "Crown Publishing",
+			"rank": 6
+		},
+		{
+			"author": "by Maeve Binchy",
+			"description": "An unlikely collection of guests gather at an inn by the sea on Ireland\u2019s west coast; the final book by Binchy, who died in 2012.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307273574.jpg",
+			"name": "A WEEK IN WINTER",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 7
+		},
+		{
+			"author": "by Jasinda Wilder",
+			"description": "Years after her boyfriend\u2019s accidental death, Nell Hawthorne encounters his older brother, and they embark on a painful but ultimately healing relationship.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/A00B00BUPMC8C.jpg",
+			"name": "FALLING INTO YOU",
+			"publisher": "Jasinda Wilder",
+			"rank": 8
+		},
+		{
+			"author": "by Susan Mallery",
+			"description": "Three women on Blackberry Island, bound by the strongest of friendships, are at crucial turning points in their lives.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781460306390.jpg",
+			"name": "THREE SISTERS",
+			"publisher": "Harlequin",
+			"rank": 9
+		},
+		{
+			"author": "by Stephenie Meyer",
+			"description": "In this first adult novel by the author of the Twilight series for teenagers, aliens have taken control of the minds and bodies of most humans, but one woman won\u2019t surrender; originally published in 2008.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316218504.jpg",
+			"name": "THE HOST",
+			"publisher": "Little, Brown & Company",
+			"rank": 10
+		},
+		{
+			"author": "by Nicholas Sparks",
+			"description": "A mysterious young woman, while putting down roots in a small North Carolina town, is still haunted by a dark secret from her past.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455523542.jpg",
+			"name": "SAFE HAVEN",
+			"publisher": "Grand Central Publishing",
+			"rank": 11
+		},
+		{
+			"author": "by Kyra Davis",
+			"description": "Kasie Fitzgerald sleeps with a man in Las Vegas. She meant for it to be just one night, but she winds up wanting more. Then he offers to engage her P.R. firm. Part 1 of the Just One Night series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476711102.jpg",
+			"name": "THE STRANGER",
+			"publisher": "Simon & Schuster",
+			"rank": 12
+		},
+		{
+			"author": "by J.C. Reed",
+			"description": "Brooke Stewart, a New York real estate agent who avoids relationships, embarks on an affair with Jeff Mayfield, a millionaire playboy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/A00B00BTJQZNC.jpg",
+			"name": "SURRENDER YOUR LOVE",
+			"publisher": "J.C. Reed",
+			"rank": 13
+		},
+		{
+			"author": "by E. L. James",
+			"description": "An innocent college student falls in love with a tortured man with particular sexual tastes; the first of a trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345803481.jpg",
+			"name": "FIFTY SHADES OF GREY",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 14
+		},
+		{
+			"author": "by Jean Hanff Korelitz",
+			"description": "A Princeton admissions officer is shaken when issues from her past resurface; originally published in 2009 and the basis of the recently released movie.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780446557634.jpg",
+			"name": "ADMISSION",
+			"publisher": "Grand Central Publishing",
+			"rank": 15
+		}
+	]
+}

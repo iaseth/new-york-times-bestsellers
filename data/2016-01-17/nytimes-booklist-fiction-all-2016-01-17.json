@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Paula Hawkins",
+			"description": "A psychological thriller set in the environs of London is full of complications and betrayals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594633669.jpg",
+			"name": "THE GIRL ON THE TRAIN",
+			"publisher": "Riverhead",
+			"rank": 1
+		},
+		{
+			"author": "by Andy Weir",
+			"description": "Abandoned by his crew, an astronaut embarks on a dogged quest to stay alive.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780804139038.jpg",
+			"name": "THE MARTIAN",
+			"publisher": "Crown",
+			"rank": 2
+		},
+		{
+			"author": "by John Grisham",
+			"description": "The attorney Sebastian Rudd is a \u201clone gunman\u201d who hates injustice and the system and defends unpopular clients.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385539449.jpg",
+			"name": "ROGUE LAWYER",
+			"publisher": "Doubleday",
+			"rank": 3
+		},
+		{
+			"author": "by Anthony Doerr",
+			"description": "The lives of a blind French girl and a gadget-obsessed German boy before and during World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476746586.jpg",
+			"name": "ALL THE LIGHT WE CANNOT SEE",
+			"publisher": "Scribner",
+			"rank": 4
+		},
+		{
+			"author": "by Fern Michaels",
+			"description": "The Sisterhood heads to Asia to locate a missing daughter.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781420135930.jpg",
+			"name": "POINT BLANK",
+			"publisher": "Kensington",
+			"rank": 5
+		},
+		{
+			"author": "by Kristin Hannah",
+			"description": "Two sisters are separated in World War II France: one in the countryside, the other in Paris.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781466850606.jpg",
+			"name": "THE NIGHTINGALE",
+			"publisher": "St. Martin's",
+			"rank": 6
+		},
+		{
+			"author": "by James Patterson",
+			"description": "Detective Alex Cross returns to his hometown, for the first time in 35 years, to help a cousin who has been accused of murder.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316407045.jpg",
+			"name": "CROSS JUSTICE",
+			"publisher": "Little, Brown",
+			"rank": 7
+		},
+		{
+			"author": "by Nicholas Sparks",
+			"description": "A couple in love are threatened by secrets from the past.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455520619.jpg",
+			"name": "SEE ME",
+			"publisher": "Grand Central",
+			"rank": 8
+		},
+		{
+			"author": "by Nicholas Sparks",
+			"description": "When Travis meets his new neighbor, his bachelor status erodes.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780446698337.jpg",
+			"name": "THE CHOICE",
+			"publisher": "Grand Central",
+			"rank": 9
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "The government hit man Will Robie investigates murder charges against his estranged father in their Mississippi hometown.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455586431.jpg",
+			"name": "THE GUILTY",
+			"publisher": "Grand Central",
+			"rank": 10
+		},
+		{
+			"author": "by Karin Slaughter",
+			"description": "A woman discovers secrets about her husband that lead her to reconnect with her estranged sister.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062429063.jpg",
+			"name": "PRETTY GIRLS",
+			"publisher": "Morrow/HarperCollins",
+			"rank": 11
+		},
+		{
+			"author": "by Brad Taylor",
+			"description": "Pike Logan is called on to take out a rogue Taskforce operator.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698404144.jpg",
+			"name": "THE FORGOTTEN SOLDIER",
+			"publisher": "Dutton",
+			"rank": 12
+		},
+		{
+			"author": "by Audrey Carlan",
+			"description": "Mia becomes a high-priced escort to pay off her father's gambling debts.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/A00B013CVOJEG.jpg",
+			"name": "JANUARY",
+			"publisher": "Waterhouse",
+			"rank": 13
+		},
+		{
+			"author": "by Kristan Higgins",
+			"description": "When her partner of 10 years pops the question, Jess drops a bomb by saying no.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781460391891.jpg",
+			"name": "ANYTHING FOR YOU",
+			"publisher": "HQN",
+			"rank": 14
+		},
+		{
+			"author": "by Michael Punke",
+			"description": "Left for dead after a mauling, the master tracker Hugh Glass is consumed by a singular desire for revenge; an inspiration for the 2015 film.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250101198.jpg",
+			"name": "THE REVENANT",
+			"publisher": "Picador",
+			"rank": 15
+		}
+	]
+}

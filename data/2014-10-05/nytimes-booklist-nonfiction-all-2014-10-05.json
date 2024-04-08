@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Mitchell Zuckoff with members of the Annex Security Team",
+			"description": "Six C.I.A. contract employees discuss their experience during the attack on the State Department compound and the C.I.A. station called\u00a0the \u201cannex\u201d in Benghazi in 2012.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455582297.jpg",
+			"name": "13 HOURS",
+			"publisher": "Twelve",
+			"rank": 1
+		},
+		{
+			"author": "by Laura Hillenbrand",
+			"description": "An Olympic runner\u2019s story of survival as a prisoner of the Japanese in World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400064168.jpg",
+			"name": "UNBROKEN",
+			"publisher": "Random House",
+			"rank": 2
+		},
+		{
+			"author": "by Daniel James Brown",
+			"description": "The University of Washington\u2019s eight-oar crew and their quest for gold at the 1936 Berlin Olympics.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101622742.jpg",
+			"name": "THE BOYS IN THE BOAT",
+			"publisher": "Viking",
+			"rank": 3
+		},
+		{
+			"author": "by Laura L. Schroff",
+			"description": "The long friendship between a sales executive and a destitute boy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451642513.jpg",
+			"name": "AN INVISIBLE THREAD",
+			"publisher": "Howard Books",
+			"rank": 4
+		},
+		{
+			"author": "by Randall Munroe",
+			"description": "Scientific (but often humorous) answers to hypothetical questions, based in part on the author\u2019s website, xkcd.com.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780544272644.jpg",
+			"name": "WHAT IF?",
+			"publisher": "Houghton Mifflin Harcourt",
+			"rank": 5
+		},
+		{
+			"author": "by David Limbaugh",
+			"description": "The lawyer and political commentator uses his legal training to evaluate, and affirm, the truthfulness of the Bible.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781621572770.jpg",
+			"name": "JESUS ON TRIAL",
+			"publisher": "Regnery",
+			"rank": 6
+		},
+		{
+			"author": "by Henry Kissinger",
+			"description": "The elder statesman offers a view of how to build an international order in today\u2019s world.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698165724.jpg",
+			"name": "WORLD ORDER",
+			"publisher": "Penguin Press",
+			"rank": 7
+		},
+		{
+			"author": "by Jay Sekulow with Jordan Sekulow and others",
+			"description": "An examination of the jihadist group and a warning about its dangers.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501105159.jpg",
+			"name": "RISE OF ISIS",
+			"publisher": "Howard Books",
+			"rank": 8
+		},
+		{
+			"author": "by Cheryl Strayed",
+			"description": "A woman\u2019s account of a life-changing 1,100-mile hike along the Pacific Crest Trail during the summer of 1995.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307476074.jpg",
+			"name": "WILD",
+			"publisher": "Knopf",
+			"rank": 9
+		},
+		{
+			"author": "by Naomi Klein",
+			"description": "The journalist, author of \u201cThe Shock Doctrine,\u201d makes the case for the existence of climate change and argues that the market cannot solve the crisis.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451697384.jpg",
+			"name": "THIS CHANGES EVERYTHING",
+			"publisher": "Simon & Schuster",
+			"rank": 10
+		},
+		{
+			"author": "by Rita Golden Gelman",
+			"description": "A memoir by a woman who sold her possessions and embraced the world.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307421746.jpg",
+			"name": "TALES OF A FEMALE NOMAD",
+			"publisher": "Broadway",
+			"rank": 11
+		},
+		{
+			"author": "by Phil Mason",
+			"description": "A historical study of small events that had great impacts.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781628731392.jpg",
+			"name": "NAPOLEON'S HEMORRHOIDS",
+			"publisher": "Skyhorse",
+			"rank": 12
+		},
+		{
+			"author": "by Billy Crystal",
+			"description": "The 65-year-old comedian\u2019s reminiscences and his complaints about aging.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780805098204.jpg",
+			"name": "STILL FOOLIN' 'EM",
+			"publisher": "Holt",
+			"rank": 13
+		},
+		{
+			"author": "by Piper Kerman",
+			"description": "A Brooklyn woman\u2019s prison memoir. The basis for the Netflix series, originally published in 2010.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385530262.jpg",
+			"name": "ORANGE IS THE NEW BLACK",
+			"publisher": "Spiegel & Grau",
+			"rank": 14
+		},
+		{
+			"author": "by Geoffrey C. Ward and Ken Burns",
+			"description": "A companion volume to the PBS series examines the lives of Theodore, Eleanor and Franklin.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307700230.jpg",
+			"name": "THE ROOSEVELTS",
+			"publisher": "Knopf",
+			"rank": 15
+		}
+	]
+}

@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Sylvia Day",
+			"description": "Eva and Gideon's love is threatened by old wounds; a Crossfire novel.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698153462.jpg",
+			"name": "CAPTIVATED BY YOU",
+			"publisher": "Berkley",
+			"rank": 1
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "John Puller, a special agent with the Army, hunts for his brother, who was convicted of treason and has escaped from prison.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455521197.jpg",
+			"name": "THE ESCAPE",
+			"publisher": "Grand Central",
+			"rank": 2
+		},
+		{
+			"author": "by Gillian Flynn",
+			"description": "A woman disappears on the day of her fifth anniversary; is her husband a killer?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307588388.jpg",
+			"name": "GONE GIRL",
+			"publisher": "Crown",
+			"rank": 3
+		},
+		{
+			"author": "by John Grisham",
+			"description": "A downsized Wall Street lawyer joins a legal clinic in a small Virginia town, and becomes involved both in real people\u2019s lives and in litigation against the coal mining industry.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385537148.jpg",
+			"name": "GRAY MOUNTAIN",
+			"publisher": "Doubleday",
+			"rank": 4
+		},
+		{
+			"author": "by Michael Connelly",
+			"description": "The Los Angeles detective Harry Bosch and his new partner investigate two long-unsolved cases.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316225939.jpg",
+			"name": "THE BURNING ROOM",
+			"publisher": "Little, Brown",
+			"rank": 5
+		},
+		{
+			"author": "by Mary Higgins Clark and Alafair Burke",
+			"description": "A TV producer plans a show about a cold case \u2014 the murder of a U.C.L.A. student who was found with one shoe missing.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476763125.jpg",
+			"name": "THE CINDERELLA MURDER",
+			"publisher": "Simon & Schuster",
+			"rank": 6
+		},
+		{
+			"author": "by Stephen King",
+			"description": "The continuing relationship over five decades between a disgraced clergyman and a drug-addicted musician whom he mentored as a boy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476770406.jpg",
+			"name": "REVIVAL",
+			"publisher": "Scribner",
+			"rank": 7
+		},
+		{
+			"author": "by Janet Evanovich and Lee Goldberg",
+			"description": "The F.B.I. special agent Kate O\u2019Hare works with Nicolas Fox, a handsome con man, to pursue a drug kingpin.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345543141.jpg",
+			"name": "THE JOB",
+			"publisher": "Bantam",
+			"rank": 8
+		},
+		{
+			"author": "by Richard Paul Evans",
+			"description": "A divorced woman enters into a contract with a strange man to pretend to be a couple until Christmas.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476728230.jpg",
+			"name": "THE MISTLETOE PROMISE",
+			"publisher": "Simon & Schuster",
+			"rank": 9
+		},
+		{
+			"author": "by Patricia Cornwell",
+			"description": "As the Boston Marathon trial approaches, Dr. Kay Scarpetta, the chief medical examiner for the state of Massachusetts, pursues a sniper who may be a vigilante; the 22nd Scarpetta novel.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062325365.jpg",
+			"name": "FLESH AND BLOOD",
+			"publisher": "Morrow/HarperCollins",
+			"rank": 10
+		},
+		{
+			"author": "by Anthony Doerr",
+			"description": "The lives of a blind French girl and a gadget-obsessed German boy before and during World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476746586.jpg",
+			"name": "ALL THE LIGHT WE CANNOT SEE",
+			"publisher": "Scribner",
+			"rank": 11
+		},
+		{
+			"author": "by Jodi Picoult",
+			"description": "After searching for her mother, who has disappeared, for more than 10 years, a woman employs a psychic and a private detective.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345544933.jpg",
+			"name": "LEAVING TIME",
+			"publisher": "Ballantine",
+			"rank": 12
+		},
+		{
+			"author": "by Nora Roberts",
+			"description": "In County Mayo, evil and witchcraft complicate a long-simmering romance; Book 3 of the Cousins O\u2019Dwyer trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780425259870.jpg",
+			"name": "BLOOD MAGICK",
+			"publisher": "Berkley",
+			"rank": 13
+		},
+		{
+			"author": "by Douglas Preston and Lincoln Child",
+			"description": "Special Agent Aloysius Pendergast is stalked by a killer bent on vengeance.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455525898.jpg",
+			"name": "BLUE LABYRINTH",
+			"publisher": "Grand Central",
+			"rank": 14
+		},
+		{
+			"author": "by Melanie Marchande",
+			"description": "Megan's difficult boss is also the author of the romance novels she reads in private.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/A00B00OQABJBO.jpg",
+			"name": "HIS SECRETARY",
+			"publisher": "Melanie Marchande",
+			"rank": 15
+		}
+	]
+}

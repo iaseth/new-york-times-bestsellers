@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Mitchell Zuckoff with members of the Annex Security Team",
+			"description": "Six C.I.A. contract employees discuss their experience during the attack on the State Department compound and the nearby C.I.A. station called\u00a0the \u201cannex\u201d in Benghazi, Libya, in 2012.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455582297.jpg",
+			"name": "13 HOURS",
+			"publisher": "Twelve",
+			"rank": 1
+		},
+		{
+			"author": "by Laura Hillenbrand",
+			"description": "An Olympic runner\u2019s story of survival as a prisoner of the Japanese in World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400064168.jpg",
+			"name": "UNBROKEN",
+			"publisher": "Random House",
+			"rank": 2
+		},
+		{
+			"author": "by Randall Munroe",
+			"description": "Scientific (but often humorous) answers to hypothetical questions, based in part on the author\u2019s website, xkcd.com.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780544272644.jpg",
+			"name": "WHAT IF?",
+			"publisher": "Houghton Mifflin Harcourt",
+			"rank": 3
+		},
+		{
+			"author": "by Daniel James Brown",
+			"description": "The University of Washington\u2019s eight-oar crew and their quest for gold at the 1936 Berlin Olympics.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101622742.jpg",
+			"name": "THE BOYS IN THE BOAT",
+			"publisher": "Viking",
+			"rank": 4
+		},
+		{
+			"author": "by Sam Harris",
+			"description": "This exploration of consciousness by the author of \u201cThe End of Faith\u201d proposes that spirituality can and should be divorced from religion.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451636031.jpg",
+			"name": "WAKING UP",
+			"publisher": "Simon & Schuster",
+			"rank": 5
+		},
+		{
+			"author": "by Henry Kissinger",
+			"description": "The elder statesman offers a view of how to build an international order in today\u2019s world.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698165724.jpg",
+			"name": "WORLD ORDER",
+			"publisher": "Penguin Press",
+			"rank": 6
+		},
+		{
+			"author": "by Joan Rivers",
+			"description": "Humorous reflections about life, pop culture and celebrities.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101632048.jpg",
+			"name": "DIARY OF A MAD DIVA",
+			"publisher": "Berkley",
+			"rank": 7
+		},
+		{
+			"author": "by Leslie Haskin",
+			"description": "One woman's harrowing escape from the World Trade Center on 9/11.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781441208118.jpg",
+			"name": "BETWEEN HEAVEN AND GROUND ZERO",
+			"publisher": "Bethany House",
+			"rank": 8
+		},
+		{
+			"author": "by Cheryl Strayed",
+			"description": "A woman\u2019s account of a life-changing 1,100-mile hike along the Pacific Crest Trail during the summer of 1995.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307476074.jpg",
+			"name": "WILD",
+			"publisher": "Knopf",
+			"rank": 9
+		},
+		{
+			"author": "by Phil Robertson with Mark Schlabach",
+			"description": "What the Duck Commander (from the A&E show \u201cDuck Dynasty\u201d) really thinks about various topics.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476766232.jpg",
+			"name": "UNPHILTERED",
+			"publisher": "Howard Books",
+			"rank": 10
+		},
+		{
+			"author": "by Piper Kerman",
+			"description": "A Brooklyn woman\u2019s prison memoir. The basis for the Netflix series, originally published in 2010.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385530262.jpg",
+			"name": "ORANGE IS THE NEW BLACK",
+			"publisher": "Spiegel & Grau",
+			"rank": 11
+		},
+		{
+			"author": "by Ben Carson with Candy Carson",
+			"description": "Carson, a retired pediatric neurosurgeon, now a Fox News contributor, offers solutions to problems in health and education based on capitalism, not government.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781595231123.jpg",
+			"name": "ONE NATION",
+			"publisher": "Sentinel",
+			"rank": 12
+		},
+		{
+			"author": "by Hampton Sides",
+			"description": "An 1879 polar voyage gone terribly wrong.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385535380.jpg",
+			"name": "IN THE KINGDOM OF ICE",
+			"publisher": "Doubleday",
+			"rank": 13
+		},
+		{
+			"author": "by Christian Rudder",
+			"description": "What data from social media reveal about human nature.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385347389.jpg",
+			"name": "DATACLYSM",
+			"publisher": "Crown",
+			"rank": 14
+		},
+		{
+			"author": "by Laurie Notaro",
+			"description": "Humorous essays on germs, laser hair removal and airplane etiquette.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345507181.jpg",
+			"name": "THE IDIOT GIRL AND THE FLAMING TANTRUM OF DEATH",
+			"publisher": "Villard",
+			"rank": 15
+		}
+	]
+}

@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Jodi Picoult",
+			"description": "After surviving a plane crash, a death doula travels to Egypt to reconnect with an old flame who is an archaeologist.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984818355.jpg",
+			"name": "THE BOOK OF TWO WAYS",
+			"publisher": "Ballantine",
+			"rank": 1
+		},
+		{
+			"author": "by James Patterson and J.D. Barker",
+			"description": "A detective and an F.B.I. agent are baffled by a cross-country killing spree.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316457422.jpg",
+			"name": "THE COAST-TO-COAST MURDERS",
+			"publisher": "Little, Brown",
+			"rank": 2
+		},
+		{
+			"author": "by Ken Follett",
+			"description": "In a prequel to \u201cThe Pillars of the Earth,\u201d a boatbuilder, a Norman noblewoman and a monk live in England under attack by the Welsh and the Vikings.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525954989.jpg",
+			"name": "THE EVENING AND THE MORNING",
+			"publisher": "Viking",
+			"rank": 3
+		},
+		{
+			"author": "by Craig Johnson",
+			"description": "The 16th book in the Longmire series. A million dollars in a shoebox and a piece of a painting might be clues to an art heist.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525522539.jpg",
+			"name": "NEXT TO LAST STAND",
+			"publisher": "Viking",
+			"rank": 4
+		},
+		{
+			"author": "by Kyle Mills",
+			"description": "When America\u2019s power grid is shut down, Mitch Rapp goes after a cyber terrorist.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501190650.jpg",
+			"name": "VINCE FLYNN: TOTAL POWER",
+			"publisher": "Emily Bestler/Atria",
+			"rank": 5
+		},
+		{
+			"author": "by Brit Bennett",
+			"description": "The lives of twin sisters who run away from a Southern Black community at age 16 diverge as one returns and the other takes on a different racial identity but their fates intertwine.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525536291.jpg",
+			"name": "THE VANISHING HALF",
+			"publisher": "Riverhead",
+			"rank": 6
+		},
+		{
+			"author": "by Fredrik Backman",
+			"description": "A failed bank robber holds a group of strangers hostage at an apartment open house.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501160837.jpg",
+			"name": "ANXIOUS PEOPLE",
+			"publisher": "Atria",
+			"rank": 7
+		},
+		{
+			"author": "by Robert Galbraith",
+			"description": "The fifth book in the Cormoran Strike series. A decades-old cold case might be connected to a serial killer; by J.K. Rowling, writing pseudonymously.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316498937.jpg",
+			"name": "TROUBLED BLOOD",
+			"publisher": "Little, Brown",
+			"rank": 8
+		},
+		{
+			"author": "by Louise Penny",
+			"description": "The 16th book in the Chief Inspector Gamache series. When his billionaire godfather is attacked, Gamache uncovers secrets hidden throughout Paris.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250145239.jpg",
+			"name": "ALL THE DEVILS ARE HERE",
+			"publisher": "Minotaur",
+			"rank": 9
+		},
+		{
+			"author": "by Ruth Ware",
+			"description": "An avalanche tests the bonds of coworkers from a London-based tech startup on a corporate retreat in the French Alps.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501188817.jpg",
+			"name": "ONE BY ONE",
+			"publisher": "Gallery/Scout",
+			"rank": 10
+		},
+		{
+			"author": "by J.D. Robb",
+			"description": "The 51st book of the In Death series. A hitman with possible connections to Eve Dallas\u2019s husband is seen near the scene of a crime.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250207234.jpg",
+			"name": "SHADOWS IN DEATH",
+			"publisher": "St. Martin's",
+			"rank": 11
+		},
+		{
+			"author": "by Delia Owens",
+			"description": "In a quiet town on the North Carolina coast in 1969, a young woman who survived alone in the marsh becomes a murder suspect.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735219090.jpg",
+			"name": "WHERE THE CRAWDADS SING",
+			"publisher": "Putnam",
+			"rank": 12
+		},
+		{
+			"author": "by Lucy Foley",
+			"description": "A wedding between a TV star and a magazine publisher on an island off the coast of Ireland turns deadly.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062868930.jpg",
+			"name": "THE GUEST LIST",
+			"publisher": "Morrow",
+			"rank": 13
+		},
+		{
+			"author": "by Jonathan Cahn",
+			"description": "Nouriel, Ana Goren and a figure known as \"the prophet\" return as revelations are unlocked.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781629998916.jpg",
+			"name": "THE HARBINGER II",
+			"publisher": "FrontLine",
+			"rank": 14
+		},
+		{
+			"author": "by Jeanine Cummins",
+			"description": "A bookseller flees Mexico for the United States with her son while pursued by the head of a drug cartel.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250209764.jpg",
+			"name": "AMERICAN DIRT",
+			"publisher": "Flatiron",
+			"rank": 15
+		}
+	]
+}

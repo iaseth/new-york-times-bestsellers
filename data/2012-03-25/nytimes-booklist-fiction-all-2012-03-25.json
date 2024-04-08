@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by E. L. James",
+			"description": "An inexperienced college student falls in love with a tortured man who has particular sexual tastes; the first book in a trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345803481.jpg",
+			"name": "FIFTY SHADES OF GREY",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 1
+		},
+		{
+			"author": "by E. L. James",
+			"description": "Ana Steele learns more about Christian Grey\u2019s troubled past; the second book in a trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345803498.jpg",
+			"name": "FIFTY SHADES DARKER",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 2
+		},
+		{
+			"author": "by Nicholas Sparks",
+			"description": "A Marine returning home sets out to track down the woman whose photo he found in Iraq.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780446542180.jpg",
+			"name": "THE LUCKY ONE",
+			"publisher": "Grand Central Publishing",
+			"rank": 3
+		},
+		{
+			"author": "by Clive Cussler and Justin Scott",
+			"description": "Isaac Bell tries to save scientists from German spies.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780425259290.jpg",
+			"name": "THE THIEF",
+			"publisher": "Penguin Group",
+			"rank": 4
+		},
+		{
+			"author": "by Stieg Larsson",
+			"description": "Volume 3 of the Millennium trilogy, about a Swedish hacker and a journalist.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307593672.jpg",
+			"name": "THE GIRL WHO KICKED THE HORNET\u2019S NEST",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 5
+		},
+		{
+			"author": "by Patricia Briggs",
+			"description": "Two werewolves, an Alpha and an Omega, help the F.B.I. track a serial killer who is murdering preternatural beings.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780425256183.jpg",
+			"name": "FAIR GAME",
+			"publisher": "Penguin Group",
+			"rank": 6
+		},
+		{
+			"author": "by E. L. James",
+			"description": "The final book in an erotic trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781612130606.jpg",
+			"name": "FIFTY SHADES FREED",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 7
+		},
+		{
+			"author": "by Jodi Picoult",
+			"description": "The children of a man who studies wolves must make difficult decisions when he is seriously injured in an accident.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781439102756.jpg",
+			"name": "LONE WOLF",
+			"publisher": "Atria Books",
+			"rank": 8
+		},
+		{
+			"author": "by William Landay",
+			"description": "An assistant district attorney\u2019s life is shaken when his 14-year-old son is accused of murder.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345527592.jpg",
+			"name": "DEFENDING JACOB",
+			"publisher": "Delacorte Press",
+			"rank": 9
+		},
+		{
+			"author": "by Kathryn Stockett",
+			"description": "A young white woman and two black maids in 1960s Mississippi.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781440697661.jpg",
+			"name": "THE HELP",
+			"publisher": "Penguin Group",
+			"rank": 10
+		},
+		{
+			"author": "by Vince Flynn",
+			"description": "Mitch Rapp, a C.I.A. super-agent hunting down perpetrators of the Pan Am Lockerbie bombing, finds himself caught in a dangerous trap.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781439100523.jpg",
+			"name": "KILL SHOT",
+			"publisher": "Atria Books",
+			"rank": 11
+		},
+		{
+			"author": "by James Patterson and Mark Sullivan",
+			"description": "Peter Knight pursues a murderer who is trying to destroy the London Olympics.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455512973.jpg",
+			"name": "PRIVATE GAMES",
+			"publisher": "Little, Brown & Company",
+			"rank": 12
+		},
+		{
+			"author": "by Jonathan Kellerman",
+			"description": "The Los Angeles psychologist-detective Alex Delaware and the detective Milo Sturgis track down a homicidal maniac.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345505729.jpg",
+			"name": "VICTIMS",
+			"publisher": "Random House Publishing",
+			"rank": 13
+		},
+		{
+			"author": "by Laurann Dohner",
+			"description": "In Book 6 of the New Species series, Lauren must help Wrath overcome his fear of women if they are to have a future together.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781419939044.jpg",
+			"name": "WRATH",
+			"publisher": "Ellora\u2019s Cave",
+			"rank": 14
+		},
+		{
+			"author": "by J. D. Robb",
+			"description": "Lt. Eve Dallas investigates when an actress drowns at an opening night party; by Nora Roberts, writing pseudonymously.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101560365.jpg",
+			"name": "CELEBRITY IN DEATH",
+			"publisher": "Penguin Group",
+			"rank": 15
+		}
+	]
+}

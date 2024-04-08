@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by E. L. James",
+			"description": "A sequel told from Christian's point of view.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101946350.jpg",
+			"name": "GREY",
+			"publisher": "Vintage",
+			"rank": 1
+		},
+		{
+			"author": "by Paula Hawkins",
+			"description": "A psychological thriller set in the environs of London is full of complications and betrayals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594633669.jpg",
+			"name": "THE GIRL ON THE TRAIN",
+			"publisher": "Riverhead",
+			"rank": 2
+		},
+		{
+			"author": "by James Patterson and Howard Roughan",
+			"description": "An attorney discovers a shocking secret that must be kept out of the wrong hands.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316408738.jpg",
+			"name": "TRUTH OR DIE",
+			"publisher": "Little, Brown",
+			"rank": 3
+		},
+		{
+			"author": "by Mary Higgins Clark",
+			"description": "A designer is drawn into the lives of family of a hedge fund billionaire who has disappeared suspiciously.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476749136.jpg",
+			"name": "THE MELODY LINGERS ON",
+			"publisher": "Simon & Schuster",
+			"rank": 4
+		},
+		{
+			"author": "by Janet Evanovich and Phoef Sutton",
+			"description": "Lizzy Tucker and her partner, Diesel, join a hunt for buried treasure.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780553392722.jpg",
+			"name": "WICKED CHARMS",
+			"publisher": "Bantam",
+			"rank": 5
+		},
+		{
+			"author": "by Andy Weir",
+			"description": "Abandoned by his crew, an astronaut embarks on a dogged quest to stay alive.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780804139038.jpg",
+			"name": "THE MARTIAN",
+			"publisher": "Crown",
+			"rank": 6
+		},
+		{
+			"author": "by Anthony Doerr",
+			"description": "The lives of a blind French girl and a gadget-obsessed German boy before and during World War II; the winner of the 2015 Pulitzer Prize.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476746586.jpg",
+			"name": "ALL THE LIGHT WE CANNOT SEE",
+			"publisher": "Scribner",
+			"rank": 7
+		},
+		{
+			"author": "by Elin Hilderbrand",
+			"description": "Two friends on Nantucket must deal with damaging gossip about themselves and their husbands.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316334501.jpg",
+			"name": "THE RUMOR",
+			"publisher": "Little, Brown",
+			"rank": 8
+		},
+		{
+			"author": "by Stephen King",
+			"description": "A deranged reader\u2019s infatuation with a Salingeresque novelist has dangerous and long-lasting consequences.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501100130.jpg",
+			"name": "FINDERS KEEPERS",
+			"publisher": "Scribner",
+			"rank": 9
+		},
+		{
+			"author": "by Judy Blume",
+			"description": "Secrets are revealed and love stories play out against the backdrop of a series of plane crashes in 1950s New Jersey.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101875056.jpg",
+			"name": "IN THE UNLIKELY EVENT",
+			"publisher": "Knopf",
+			"rank": 10
+		},
+		{
+			"author": "by Kristin Hannah",
+			"description": "Two sisters are separated in World War II France: one in the countryside, the other in Paris.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781466850606.jpg",
+			"name": "THE NIGHTINGALE",
+			"publisher": "St. Martin's",
+			"rank": 11
+		},
+		{
+			"author": "by Maya Banks",
+			"description": "After years of painful separation, Zach is reunited with a much-altered Gracie, in the third installment of the Slow Burn romantic thriller series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062312518.jpg",
+			"name": "SAFE AT LAST",
+			"publisher": "Avon",
+			"rank": 12
+		},
+		{
+			"author": "by Jude Deveraux",
+			"description": "A physical therapist sets out to restore order to a wealthy patient's body and mind.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345541864.jpg",
+			"name": "EVER AFTER",
+			"publisher": "Ballantine",
+			"rank": 13
+		},
+		{
+			"author": "by Grant Blackwood",
+			"description": "A former collaborator continues Clancy\u2019s series about the covert intelligent expert Jack Ryan Jr. (Clancy died in 2013.)",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698404861.jpg",
+			"name": "TOM CLANCY UNDER FIRE",
+			"publisher": "Putnam",
+			"rank": 14
+		},
+		{
+			"author": "by Jessica Knoll",
+			"description": "The life of a successful magazine writer is shaken when secrets from her past are revealed in a documentary.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476789651.jpg",
+			"name": "LUCKIEST GIRL ALIVE",
+			"publisher": "Simon & Schuster",
+			"rank": 15
+		}
+	]
+}

@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by J. D. Robb",
+			"description": "Lt. Eve Dallas of the N.Y.P.D. calls on the technological expertise of her husband, Roarke, when three skaters at Wollman Rink are shot by a sniper. By Nora Roberts, writing pseudonymously.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101987971.jpg",
+			"name": "APPRENTICE IN DEATH",
+			"publisher": "Berkley",
+			"rank": 1
+		},
+		{
+			"author": "by Paula Hawkins",
+			"description": "A psychological thriller set in the environs of London is full of complications and betrayals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594633669.jpg",
+			"name": "THE GIRL ON THE TRAIN",
+			"publisher": "Riverhead",
+			"rank": 2
+		},
+		{
+			"author": "by M. L. Stedman",
+			"description": "An Australian lighthouse keeper and his wife decide to keep a baby who has washed ashore.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451681758.jpg",
+			"name": "THE LIGHT BETWEEN OCEANS",
+			"publisher": "Scribner",
+			"rank": 3
+		},
+		{
+			"author": "by Carl Hiaasen",
+			"description": "The ex-cop Andrew Yancy\u200b from \u200b\u201cBad Monkey\u201d gets involved in a kidnapping gone wrong.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385349758.jpg",
+			"name": "RAZOR GIRL",
+			"publisher": "Knopf",
+			"rank": 4
+		},
+		{
+			"author": "by J. A. Jance",
+			"description": "Joanna Brady, the sheriff of Cochise County, must cope with pregnancy, the recent deaths of her mother and stepfather, an upcoming election \u2014 and the mysterious discovery of the bodies of two women at the base of a nearby peak. The 17th novel in a series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062297730.jpg",
+			"name": "DOWNFALL",
+			"publisher": "Morrow/HarperCollins",
+			"rank": 5
+		},
+		{
+			"author": "by Colson Whitehead",
+			"description": "A teenage girl heads north on the network that helped slaves escape to freedom, envisioned in this novel as a secret system of actual tracks and tunnels.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385542364.jpg",
+			"name": "THE UNDERGROUND RAILROAD",
+			"publisher": "Doubleday",
+			"rank": 6
+		},
+		{
+			"author": "by Ruth Ware",
+			"description": "A travel writer on a cruise is certain she has heard a body thrown overboard, but no one believes her.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501132940.jpg",
+			"name": "THE WOMAN IN CABIN 10",
+			"publisher": "Scout",
+			"rank": 7
+		},
+		{
+			"author": "by Fredrik Backman",
+			"description": "A curmudgeon's gruff exterior masks a generosity of spirit. Originally published in Sweden in 2014.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476738024.jpg",
+			"name": "A MAN CALLED OVE",
+			"publisher": "Washington Square",
+			"rank": 8
+		},
+		{
+			"author": "by Louise Penny",
+			"description": "An instructor at the police academy is found murdered, perhaps by one of the cadets favored by Armand Gamache, the retired homicide chief of the S\u00fbret\u00e9 du Qu\u00e9bec.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250022134.jpg",
+			"name": "A GREAT RECKONING",
+			"publisher": "Minotaur",
+			"rank": 9
+		},
+		{
+			"author": "by Sandra Brown",
+			"description": "A hired killer and a woman he kidnapped join forces to elude the F.B.I. agents and others who are searching for her corrupt brother.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455581238.jpg",
+			"name": "STING",
+			"publisher": "Grand Central",
+			"rank": 10
+		},
+		{
+			"author": "by Danielle Steel",
+			"description": "Six people cope with a hurricane in New York City.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780425285374.jpg",
+			"name": "RUSHING WATERS",
+			"publisher": "Delacorte",
+			"rank": 11
+		},
+		{
+			"author": "by  Clare Mackintosh",
+			"description": "A woman moves to the Welsh coast to escape a painful memory.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101987513.jpg",
+			"name": "I LET YOU GO",
+			"publisher": "Berkley",
+			"rank": 12
+		},
+		{
+			"author": "by James Patterson with Max DiLallo",
+			"description": "A mother sets out to avenge the murder of her son.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316361521.jpg",
+			"name": "113 MINUTES",
+			"publisher": "BookShots",
+			"rank": 13
+		},
+		{
+			"author": "by Liane Moriarty",
+			"description": "Tense turning points for three couples at a backyard barbecue gone wrong.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250069818.jpg",
+			"name": "TRULY MADLY GUILTY",
+			"publisher": "Flatiron",
+			"rank": 14
+		},
+		{
+			"author": "by Jonathan Safran Foer",
+			"description": "Private and public crises converge for four generations of a Jewish family.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780374280024.jpg",
+			"name": "HERE I AM",
+			"publisher": "Farrar, Straus & Giroux",
+			"rank": 15
+		}
+	]
+}

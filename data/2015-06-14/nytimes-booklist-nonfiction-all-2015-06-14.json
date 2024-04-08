@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by David McCullough",
+			"description": "The story of the bicycle mechanics from Ohio who ushered in the age of flight; by the author of \u201c1776\u201d and \u201cThe Greater Journey.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476728742.jpg",
+			"name": "THE WRIGHT BROTHERS",
+			"publisher": "Simon & Schuster",
+			"rank": 1
+		},
+		{
+			"author": "by Daniel James Brown",
+			"description": "The University of Washington\u2019s eight-oar crew and their quest for gold at the 1936 Berlin Olympics.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101622742.jpg",
+			"name": "THE BOYS IN THE BOAT",
+			"publisher": "Penguin",
+			"rank": 2
+		},
+		{
+			"author": "by Chris Kyle with Scott McEwen and Jim DeFelice",
+			"description": "A former member of the Navy SEALs discusses his battlefield experiences during the Iraq war; now a movie.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062082374.jpg",
+			"name": "AMERICAN SNIPER",
+			"publisher": "Morrow/HarperCollins",
+			"rank": 3
+		},
+		{
+			"author": "by David Brooks",
+			"description": "The Times columnist extols personal virtues like kindness and honesty in a materialistic age.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812993257.jpg",
+			"name": "THE ROAD TO CHARACTER",
+			"publisher": "Random House",
+			"rank": 4
+		},
+		{
+			"author": "by Dana Perino",
+			"description": "The Fox News contributor and former press secretary under President George W. Bush reviews her life and career and shares lessons she has learned.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455584901.jpg",
+			"name": "AND THE GOOD NEWS IS ...",
+			"publisher": "Twelve",
+			"rank": 5
+		},
+		{
+			"author": "by Erik Larson",
+			"description": "The last voyage of the Lusitania, the passenger liner sunk by a German torpedo in 1915; by the author of \u201cThe Devil in the White City.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307408860.jpg",
+			"name": "DEAD WAKE",
+			"publisher": "Crown",
+			"rank": 6
+		},
+		{
+			"author": "by Atul Gawande",
+			"description": "The surgeon and New Yorker writer considers how doctors fail patients at the end of life, and how they can do better.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780805095159.jpg",
+			"name": "BEING MORTAL",
+			"publisher": "Metropolitan/Holt",
+			"rank": 7
+		},
+		{
+			"author": "by Henry Marsh",
+			"description": "Stories of life, death and operating on the brain from the neurosurgeon featured in the documentary film \u201cThe English Surgeon.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250065810.jpg",
+			"name": "DO NO HARM",
+			"publisher": "Thomas Dunne/St. Martin\u2019s",
+			"rank": 8
+		},
+		{
+			"author": "by Cheryl Strayed",
+			"description": "A woman\u2019s account of a life-changing 1,100-mile hike along the Pacific Crest Trail during the summer of 1995; now a movie.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307476074.jpg",
+			"name": "WILD",
+			"publisher": "Knopf",
+			"rank": 9
+		},
+		{
+			"author": "by David Fisher",
+			"description": "Stories of the American West; a companion volume to the Fox News series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781627795081.jpg",
+			"name": "BILL O'REILLY'S LEGENDS AND LIES",
+			"publisher": "Holt",
+			"rank": 10
+		},
+		{
+			"author": "by Willie Nelson with David Ritz",
+			"description": "The country music star discusses his life\u2019s journey, from selling encyclopedias to professional fame.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316403566.jpg",
+			"name": "IT'S A LONG STORY",
+			"publisher": "Little, Brown",
+			"rank": 11
+		},
+		{
+			"author": "by Taya Kyle with Jim DeFelice",
+			"description": "The widow of Chris Kyle, of \u201cAmerican Sniper\u201d fame, describes her life after his death.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062398109.jpg",
+			"name": "AMERICAN WIFE",
+			"publisher": "Morrow/HarperCollins",
+			"rank": 12
+		},
+		{
+			"author": "by Nick Offerman",
+			"description": "The actor, who was formerly a star of \u201cParks and Recreation,\u201d takes a humorous look at what makes great Americans great.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525954675.jpg",
+			"name": "GUMPTION",
+			"publisher": "Dutton",
+			"rank": 13
+		},
+		{
+			"author": "by Ashlee Vance",
+			"description": "A technology writer follows Musk\u2019s life from his difficult South African childhood to his involvement in Internet start-ups like the rocket company SpaceX, the electric-car company Tesla and the solar power installation company Solar City.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062301260.jpg",
+			"name": "ELON MUSK",
+			"publisher": "Ecco/HarperCollins",
+			"rank": 14
+		},
+		{
+			"author": "by Jennifer Arnold and Bill Klein",
+			"description": "The stars of TLC's \"The Little Couple\" offer a behind-the-scenes account of their relationship, their family and their professional lives.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476794716.jpg",
+			"name": "LIFE IS SHORT (NO PUN INTENDED)",
+			"publisher": "Howard Books",
+			"rank": 15
+		}
+	]
+}

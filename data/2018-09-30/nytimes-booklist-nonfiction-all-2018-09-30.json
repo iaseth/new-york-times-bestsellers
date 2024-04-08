@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Bob Woodward",
+			"description": "Based on hours of interviews with sources, the Pulitzer Prize-winning journalist describes debates and decision-making within the Trump White House.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501175534.jpg",
+			"name": "FEAR",
+			"publisher": "Simon & Schuster",
+			"rank": 1
+		},
+		{
+			"author": "by Tara Westover",
+			"description": "The daughter of survivalists, who is kept out of school, educates herself enough to leave home for university.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399590504.jpg",
+			"name": "EDUCATED",
+			"publisher": "Random House",
+			"rank": 2
+		},
+		{
+			"author": "by John McCain and Mark Salter",
+			"description": "A memoir by the recently deceased Republican senator from Arizona.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501178009.jpg",
+			"name": "THE RESTLESS WAVE",
+			"publisher": "Simon & Schuster",
+			"rank": 3
+		},
+		{
+			"author": "by Yuval Noah Harari",
+			"description": "Technological, political and social issues in the modern era, and the choices individuals might consider in facing them.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525512172.jpg",
+			"name": "21 LESSONS FOR THE 21ST CENTURY",
+			"publisher": "Spiegel & Grau",
+			"rank": 4
+		},
+		{
+			"author": "by Omarosa Manigault Newman",
+			"description": "The reality TV star and former White House staffer describes her time and relationship with Donald Trump.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982109707.jpg",
+			"name": "UNHINGED",
+			"publisher": "Gallery",
+			"rank": 5
+		},
+		{
+			"author": "by Neil deGrasse Tyson and Avis Lang",
+			"description": "Observations of the two-way relationship between science and military power.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780393064445.jpg",
+			"name": "ACCESSORY TO WAR",
+			"publisher": "Norton",
+			"rank": 6
+		},
+		{
+			"author": "by Gregg Jarrett",
+			"description": "The Fox News analyst makes his case against the F.B.I. investigation into collusion between the Trump campaign and Russia.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062872746.jpg",
+			"name": "THE RUSSIA HOAX",
+			"publisher": "Broadside",
+			"rank": 7
+		},
+		{
+			"author": "by Yuval Noah Harari",
+			"description": "How Homo sapiens became Earth\u2019s dominant species.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062316097.jpg",
+			"name": "SAPIENS",
+			"publisher": "Harper",
+			"rank": 8
+		},
+		{
+			"author": "by Neil deGrasse Tyson",
+			"description": "A straightforward, easy-to-understand introduction to the laws that govern the universe.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780393609394.jpg",
+			"name": "ASTROPHYSICS FOR PEOPLE IN A HURRY",
+			"publisher": "Norton",
+			"rank": 9
+		},
+		{
+			"author": "by Greg Lukianoff and Jonathan Haidt",
+			"description": "An investigation of cultural trends that the authors argue are failing the next generation.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735224896.jpg",
+			"name": "THE CODDLING OF THE AMERICAN MIND",
+			"publisher": "Penguin Press",
+			"rank": 10
+		},
+		{
+			"author": "by John Kerry",
+			"description": "A memoir by the former Massachusetts senator, secretary of state and 2004 Democratic presidential nominee.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501178955.jpg",
+			"name": "EVERY DAY IS EXTRA",
+			"publisher": "Simon & Schuster",
+			"rank": 11
+		},
+		{
+			"author": "by Ken Starr",
+			"description": "The former independent counsel recounts his investigation of the Clinton administration and its outcomes.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525536130.jpg",
+			"name": "CONTEMPT",
+			"publisher": "Sentinel",
+			"rank": 12
+		},
+		{
+			"author": "by John Carreyrou",
+			"description": "The rise and fall of Theranos, the biotech startup that failed to deliver on its promise to make blood testing more efficient.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524731663.jpg",
+			"name": "BAD BLOOD",
+			"publisher": "Knopf",
+			"rank": 13
+		},
+		{
+			"author": "by Angela Duckworth",
+			"description": "A psychologist argues that passion and perseverance are the keys to success.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501111129.jpg",
+			"name": "GRIT",
+			"publisher": "Scribner",
+			"rank": 14
+		},
+		{
+			"author": "by Jeanine Pirro",
+			"description": "The legal analyst and Fox News host argues in favor of President Trump.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781546083429.jpg",
+			"name": "LIARS, LEAKERS AND LIBERALS",
+			"publisher": "Center Street",
+			"rank": 15
+		}
+	]
+}

@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Michael Connelly",
+			"description": "Detective Ren\u00e9e Ballard teams up with the retired detective Harry Bosch, who is working on a cold case.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316486675.jpg",
+			"name": "DARK SACRED NIGHT",
+			"publisher": "Little, Brown",
+			"rank": 1
+		},
+		{
+			"author": "by Stephen King",
+			"description": "A man who is losing weight without getting thinner forms an unlikely alliance with his neighbors who are dealing with prejudices.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982102319.jpg",
+			"name": "ELEVATION",
+			"publisher": "Scribner",
+			"rank": 2
+		},
+		{
+			"author": "by John Grisham",
+			"description": "A decorated World War II veteran shoots and kills a pastor inside a Mississippi church.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385544160.jpg",
+			"name": "THE RECKONING",
+			"publisher": "Doubleday",
+			"rank": 3
+		},
+		{
+			"author": "by Nicholas Sparks",
+			"description": "Difficult choices surface when Hope Anderson and Tru Walls meet in a North Carolina seaside town.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538728529.jpg",
+			"name": "EVERY BREATH",
+			"publisher": "Grand Central",
+			"rank": 4
+		},
+		{
+			"author": "by Nalini Singh",
+			"description": "The 11th book in the Guild Hunter series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780451491657.jpg",
+			"name": "ARCHANGEL'S PROPHECY",
+			"publisher": "Berkley",
+			"rank": 5
+		},
+		{
+			"author": "by Delia Owens",
+			"description": "In a quiet town on the North Carolina coast in 1969, a young woman who survived alone in the marsh becomes a murder suspect.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735219090.jpg",
+			"name": "WHERE THE CRAWDADS SING",
+			"publisher": "Putnam",
+			"rank": 6
+		},
+		{
+			"author": "by Barbara Kingsolver",
+			"description": "Intertwined stories of two families who live in different centuries on the same street corner in Vineland, N.J.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062684561.jpg",
+			"name": "UNSHELTERED",
+			"publisher": "Harper",
+			"rank": 7
+		},
+		{
+			"author": "by Mitch Albom",
+			"description": "The sequel to \"The Five People You Meet in Heaven\" follows Annie on her heavenly journey.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062294449.jpg",
+			"name": "THE NEXT PERSON YOU MEET IN HEAVEN",
+			"publisher": "Harper",
+			"rank": 8
+		},
+		{
+			"author": "by Diana Palmer",
+			"description": "As her body heals, the champion ice-skater Karina Carter helps Micah Torrance look after his ranch and his daughter.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781335041081.jpg",
+			"name": "WYOMING LEGEND",
+			"publisher": "HQN",
+			"rank": 9
+		},
+		{
+			"author": "by Susan Stoker",
+			"description": "The ninth book in the Delta Force Heroes series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/A00B076T3FFKX.jpg",
+			"name": "RESCUING MARY",
+			"publisher": "Susan Stoker",
+			"rank": 10
+		},
+		{
+			"author": "by Heather Morris",
+			"description": "A concentration camp detainee tasked with permanently marking fellow prisoners falls in love with one of them.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062797155.jpg",
+			"name": "THE TATTOOIST OF AUSCHWITZ",
+			"publisher": "Harper",
+			"rank": 11
+		},
+		{
+			"author": "by John Sandford",
+			"description": "Virgil Flowers investigates shootings in a Minnesota town following an attempt to revive its ailing economy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735217331.jpg",
+			"name": "HOLY GHOST",
+			"publisher": "Putnam",
+			"rank": 12
+		},
+		{
+			"author": "by Jodi Picoult",
+			"description": "The lives of patients, doctors and activists intersect when a gunman holds them all hostage in a woman's health center in Mississippi.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345544995.jpg",
+			"name": "A SPARK OF LIGHT",
+			"publisher": "Ballantine",
+			"rank": 13
+		},
+		{
+			"author": "by James Patterson and James O. Born",
+			"description": "Michael Bennett discovers that an assassin is targeting him and his family.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316414692.jpg",
+			"name": "AMBUSH",
+			"publisher": "Little, Brown",
+			"rank": 14
+		},
+		{
+			"author": "by Brandon Sanderson",
+			"description": "The third volume of the Stormlight Archive. The War of Reckoning ends and the Voidbringers return.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780765399830.jpg",
+			"name": "OATHBRINGER",
+			"publisher": "Tor",
+			"rank": 15
+		}
+	]
+}

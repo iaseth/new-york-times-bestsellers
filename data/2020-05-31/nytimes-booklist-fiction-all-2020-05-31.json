@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by John Grisham",
+			"description": "The line between fact and fiction becomes blurred when an author of thrillers is found dead after a hurricane hits Camino Island.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385545938.jpg",
+			"name": "CAMINO WINDS",
+			"publisher": "Doubleday",
+			"rank": 1
+		},
+		{
+			"author": "by Delia Owens",
+			"description": "In a quiet town on the North Carolina coast in 1969, a young woman who survived alone in the marsh becomes a murder suspect.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735219090.jpg",
+			"name": "WHERE THE CRAWDADS SING",
+			"publisher": "Putnam",
+			"rank": 2
+		},
+		{
+			"author": "by Celeste Ng",
+			"description": "An artist upends a quiet town outside Cleveland.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735224308.jpg",
+			"name": "LITTLE FIRES EVERYWHERE",
+			"publisher": "Penguin Press",
+			"rank": 3
+		},
+		{
+			"author": "by Stephen King",
+			"description": "Four novellas: \u201cMr. Harrigan\u2019s Phone,\u201d \u201cThe Life of Chuck,\u201d \u201cRat\u201d and \u201cIf It Bleeds.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982137977.jpg",
+			"name": "IF IT BLEEDS",
+			"publisher": "Scribner",
+			"rank": 4
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "The sixth book in the Memory Man series. Decker and Jamison investigate a murder in a North Dakota town in a fracking boom.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538761465.jpg",
+			"name": "WALK THE WIRE",
+			"publisher": "Grand Central",
+			"rank": 5
+		},
+		{
+			"author": "by James Patterson and Maxine Paetro",
+			"description": "The 20th book in the Women\u2019s Murder Club series. Lindsay Boxer looks into the murders of disreputable persons in three separate cities.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316420280.jpg",
+			"name": "THE 20TH VICTIM",
+			"publisher": "Little Brown",
+			"rank": 6
+		},
+		{
+			"author": "by Sally Rooney",
+			"description": "The connection between a high school star athlete and a loner ebbs and flows when they go to Trinity College in Dublin.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984822178.jpg",
+			"name": "NORMAL PEOPLE",
+			"publisher": "Hogarth",
+			"rank": 7
+		},
+		{
+			"author": "by Scott Turow",
+			"description": "An 85-year-old defense lawyer puts off his retirement to aid a Nobel Prize winner in Medicine, who is accused of insider trading, fraud and murder.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538748138.jpg",
+			"name": "THE LAST TRIAL",
+			"publisher": "Grand Central",
+			"rank": 8
+		},
+		{
+			"author": "by Jennifer Weiner",
+			"description": "Daphne Berg\u2019s former best friend asks her to be the maid of honor at her wedding in Cape Cod.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501133510.jpg",
+			"name": "BIG SUMMER",
+			"publisher": "Atria",
+			"rank": 9
+		},
+		{
+			"author": "by Jeanine Cummins",
+			"description": "A bookseller flees Mexico for the United States with her son while pursued by the head of a drug cartel.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250209764.jpg",
+			"name": "AMERICAN DIRT",
+			"publisher": "Flatiron",
+			"rank": 10
+		},
+		{
+			"author": "by Lee Child",
+			"description": "Jack Reacher gets caught up in a turf war between Ukrainian and Albanian gangs.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399593543.jpg",
+			"name": "BLUE MOON",
+			"publisher": "Delacorte",
+			"rank": 11
+		},
+		{
+			"author": "by Emma Straub",
+			"description": "A repressed memory triggers Astrid Strick to weigh the outcomes of her parenting of her now-grown children.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594634697.jpg",
+			"name": "ALL ADULTS HERE",
+			"publisher": "Riverhead",
+			"rank": 12
+		},
+		{
+			"author": "by Lisa Wingate",
+			"description": "The stories of three women struggling to get from Louisiana to Texas during Reconstruction are discovered by a first-year teacher living a century later.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984819888.jpg",
+			"name": "THE BOOK OF LOST FRIENDS",
+			"publisher": "Ballantine",
+			"rank": 13
+		},
+		{
+			"author": "by A.J. Finn",
+			"description": "A recluse who drinks heavily and takes prescription drugs may have witnessed a crime across from her Harlem townhouse.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062678416.jpg",
+			"name": "THE WOMAN IN THE WINDOW",
+			"publisher": "Morrow",
+			"rank": 14
+		},
+		{
+			"author": "by Alex Michaelides",
+			"description": "Theo Faber looks into the mystery of a famous painter who stops speaking after shooting her husband.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250301697.jpg",
+			"name": "THE SILENT PATIENT",
+			"publisher": "Celadon",
+			"rank": 15
+		}
+	]
+}

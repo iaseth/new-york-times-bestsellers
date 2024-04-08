@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Michael Connelly",
+			"description": "Harry Bosch and Ren\u00e9e Ballard return to take up a case that held the attention of Bosch\u2019s mentor.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316485616.jpg",
+			"name": "THE NIGHT FIRE",
+			"publisher": "Little, Brown",
+			"rank": 1
+		},
+		{
+			"author": "by John Grisham",
+			"description": "Cullen Post, a lawyer and Episcopal minister, antagonizes some ruthless killers when he takes on a wrongful conviction case.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385544184.jpg",
+			"name": "THE GUARDIANS",
+			"publisher": "Doubleday",
+			"rank": 2
+		},
+		{
+			"author": "by Nelson DeMille and Alex DeMille",
+			"description": "Two members of the Criminal Investigation Division must bring back a Delta Force soldier who disappeared.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501101755.jpg",
+			"name": "THE DESERTER",
+			"publisher": "Simon & Schuster",
+			"rank": 3
+		},
+		{
+			"author": "by Brent Weeks",
+			"description": "The fifth book in the Lightbringer series. When Chromeria is threatened, Kip Guile pulls forces together for one last fight.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316251303.jpg",
+			"name": "THE BURNING WHITE",
+			"publisher": "Orbit",
+			"rank": 4
+		},
+		{
+			"author": "by John le Carr\u00e9",
+			"description": "A veteran of Britain\u2019s Secret Intelligence Service, who is assigned to command a lesser band of spies, hatches a covert operation.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984878878.jpg",
+			"name": "AGENT RUNNING IN THE FIELD",
+			"publisher": "Viking",
+			"rank": 5
+		},
+		{
+			"author": "by Delia Owens",
+			"description": "In a quiet town on the North Carolina coast in 1969, a young woman who survived alone in the marsh becomes a murder suspect.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735219090.jpg",
+			"name": "WHERE THE CRAWDADS SING",
+			"publisher": "Putnam",
+			"rank": 6
+		},
+		{
+			"author": "by James Patterson and Maxine Paetro",
+			"description": "In the 19th installment of the Women's Murder Club series, detective Lindsay Boxer and company take on a fearsome criminal known only as \"Loman.\"",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316494021.jpg",
+			"name": "THE 19TH CHRISTMAS",
+			"publisher": "Little, Brown",
+			"rank": 7
+		},
+		{
+			"author": "by Ann Patchett",
+			"description": "A sibling relationship is impacted when the family goes from poverty to wealth and back again over the course of many decades.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062963673.jpg",
+			"name": "THE DUTCH HOUSE",
+			"publisher": "Harper",
+			"rank": 8
+		},
+		{
+			"author": "by Stephen King",
+			"description": "Children with special talents are abducted and sequestered in an institution where the sinister staff seeks to extract their gifts through harsh methods.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982110567.jpg",
+			"name": "THE INSTITUTE",
+			"publisher": "Scribner",
+			"rank": 9
+		},
+		{
+			"author": "by Margaret Atwood",
+			"description": "In a sequel to \u201cThe Handmaid\u2019s Tale,\u201d old secrets bring three women together as the Republic of Gilead\u2019s theocratic regime shows signs of decay.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385543781.jpg",
+			"name": "THE TESTAMENTS",
+			"publisher": "Nan A. Talese/Doubleday",
+			"rank": 10
+		},
+		{
+			"author": "by Ta-Nehisi Coates",
+			"description": "A young man who was gifted with a mysterious power becomes part of a war between slavers and the enslaved.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399590597.jpg",
+			"name": "THE WATER DANCER",
+			"publisher": "One World",
+			"rank": 11
+		},
+		{
+			"author": "by Susan Mallery",
+			"description": "The fifth book in the Happily Inc. series. An undateable pair are drawn to one another.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781488054235.jpg",
+			"name": "MEANT TO BE YOURS",
+			"publisher": "HQN",
+			"rank": 12
+		},
+		{
+			"author": "by Alexander McCall Smith",
+			"description": "The 20th book in the No. 1 Ladies\u2019 Detective Agency Series. Precious Ramotswe\u2019s latest case involves a preacher and a young woman.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524747831.jpg",
+			"name": "TO THE LAND OF LONG LOST FRIENDS",
+			"publisher": "Pantheon",
+			"rank": 13
+		},
+		{
+			"author": "by John Sandford",
+			"description": "The 12th book in the Virgil Flowers series. A fight between university departments turns deadly.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525536611.jpg",
+			"name": "BLOODY GENIUS",
+			"publisher": "Putnam",
+			"rank": 14
+		},
+		{
+			"author": "by Elizabeth Strout",
+			"description": "In a follow-up to the Pulitzer Prize-winning novel \u201cOlive Kitteridge,\u201d new relationships, including a second marriage, are encountered in a seaside town in Maine.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812996548.jpg",
+			"name": "OLIVE, AGAIN",
+			"publisher": "Random House",
+			"rank": 15
+		}
+	]
+}

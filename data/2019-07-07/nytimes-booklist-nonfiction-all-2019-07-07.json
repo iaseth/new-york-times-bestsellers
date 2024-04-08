@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Tara Westover",
+			"description": "The daughter of survivalists, who is kept out of school, educates herself enough to leave home for university.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399590504.jpg",
+			"name": "EDUCATED",
+			"publisher": "Random House",
+			"rank": 1
+		},
+		{
+			"author": "by Mark R. Levin",
+			"description": "The conservative commentator and radio host makes his case that the press is aligned with political ideology.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476773094.jpg",
+			"name": "UNFREEDOM OF THE PRESS",
+			"publisher": "Threshold Editions",
+			"rank": 2
+		},
+		{
+			"author": "by David McCullough",
+			"description": "The Pulitzer Prize-winning historian tells the story of the settling of the Northwest Territory through five main characters.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501168680.jpg",
+			"name": "THE PIONEERS",
+			"publisher": "Simon & Schuster",
+			"rank": 3
+		},
+		{
+			"author": "by Michelle Obama",
+			"description": "The former first lady describes her journey from the South Side of Chicago to the White House, and how she balanced work, family and her husband\u2019s political ascent.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524763138.jpg",
+			"name": "BECOMING",
+			"publisher": "Crown",
+			"rank": 4
+		},
+		{
+			"author": "with related materials by The Washington Post",
+			"description": "Redacted findings from the special counsel\u2019s investigation into Russian interference in the 2016 presidential election and potential obstruction of justice by the president.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982129736.jpg",
+			"name": "THE MUELLER REPORT",
+			"publisher": "Scribner",
+			"rank": 5
+		},
+		{
+			"author": "by Howard Stern",
+			"description": "The radio interviewer delves into some of his favorite on-air conversations from the past four decades of his career.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501194290.jpg",
+			"name": "HOWARD STERN COMES AGAIN",
+			"publisher": "Simon & Schuster",
+			"rank": 6
+		},
+		{
+			"author": "by Trevor Noah",
+			"description": "A memoir about growing up biracial in apartheid South Africa by the host of \u201cThe Daily Show.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399588181.jpg",
+			"name": "BORN A CRIME",
+			"publisher": "Spiegel & Grau",
+			"rank": 7
+		},
+		{
+			"author": "by Yuval Noah Harari",
+			"description": "How Homo sapiens became Earth\u2019s dominant species.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062316097.jpg",
+			"name": "SAPIENS",
+			"publisher": "Harper",
+			"rank": 8
+		},
+		{
+			"author": "by Jon Meacham and Tim McGraw",
+			"description": "Pulitzer Prize winner Jon Meacham and Grammy Award winner Tim McGraw explore how America was shaped by music.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593132951.jpg",
+			"name": "SONGS OF AMERICA",
+			"publisher": "Random House",
+			"rank": 9
+		},
+		{
+			"author": "by David Grann",
+			"description": "The story of a murder spree in 1920s Oklahoma that targeted Osage Indians, whose lands contained oil.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385534246.jpg",
+			"name": "KILLERS OF THE FLOWER MOON",
+			"publisher": "Doubleday",
+			"rank": 10
+		},
+		{
+			"author": "by William H. McRaven",
+			"description": "A memoir by the retired four-star Navy admiral, including the capture of Saddam Hussein and the raid to kill Osama bin Laden.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538729748.jpg",
+			"name": "SEA STORIES",
+			"publisher": "Grand Central",
+			"rank": 11
+		},
+		{
+			"author": "by Lori Gottlieb",
+			"description": "A psychotherapist gains unexpected insights when she becomes another therapist\u2019s patient.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781328662057.jpg",
+			"name": "MAYBE YOU SHOULD TALK TO SOMEONE",
+			"publisher": "Houghton Mifflin Harcourt",
+			"rank": 12
+		},
+		{
+			"author": "by Melinda Gates",
+			"description": "The philanthropist shares stories of empowering women to improve society.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250240521.jpg",
+			"name": "THE MOMENT OF LIFT",
+			"publisher": "Flatiron",
+			"rank": 13
+		},
+		{
+			"author": "by Edith Eva Eger",
+			"description": "Dr. Eger recounts her life and survivor\u2019s guilt during and after her imprisonment in Auschwitz.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501130793.jpg",
+			"name": "THE CHOICE",
+			"publisher": "Scribner",
+			"rank": 14
+		},
+		{
+			"author": "by Rick Atkinson",
+			"description": "The Pulitzer Prize-winning historian and journalist begins his Revolution Trilogy with events from 1775 to 1777.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781627790437.jpg",
+			"name": "THE BRITISH ARE COMING",
+			"publisher": "Holt",
+			"rank": 15
+		}
+	]
+}

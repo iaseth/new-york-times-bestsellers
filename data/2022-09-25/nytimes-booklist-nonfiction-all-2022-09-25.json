@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Jennette McCurdy",
+			"description": "The actress and filmmaker describes her eating disorders and difficult relationship with her mother.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982185824.jpg",
+			"name": "I'M GLAD MY MOM DIED",
+			"publisher": "Simon & Schuster",
+			"rank": 1
+		},
+		{
+			"author": "by Bessel van der Kolk",
+			"description": "How trauma affects the body and mind, and innovative treatments for recovery.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780670785933.jpg",
+			"name": "THE BODY KEEPS THE SCORE",
+			"publisher": "Penguin",
+			"rank": 2
+		},
+		{
+			"author": "by Jared Kushner",
+			"description": "An account of time spent in the Trump White House by the former president\u2019s son-in-law and senior adviser.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063221482.jpg",
+			"name": "BREAKING HISTORY",
+			"publisher": "Broadside",
+			"rank": 3
+		},
+		{
+			"author": "by Tova Friedman and Malcolm Brabant",
+			"description": "A survivor of Auschwitz describes her childhood during the Holocaust, and her time in a Nazi labor camp and the extermination camp known as Auschwitz-Birkenau.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781335449306.jpg",
+			"name": "THE DAUGHTER OF AUSCHWITZ",
+			"publisher": "Hanover Square",
+			"rank": 4
+		},
+		{
+			"author": "by Javier Zamora",
+			"description": "The poet describes his journey over two months from El Salvador to the United States to reconnect with his parents who left years earlier.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593498064.jpg",
+			"name": "SOLITO",
+			"publisher": "Hogarth",
+			"rank": 5
+		},
+		{
+			"author": "by J. Bradford DeLong",
+			"description": "The former deputy assistant secretary of the U.S. Treasury details shifts in material wealth and their impact from 1870 to 2010.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780465019595.jpg",
+			"name": "SLOUCHING TOWARDS UTOPIA",
+			"publisher": "Basic",
+			"rank": 6
+		},
+		{
+			"author": "by Tina Brown",
+			"description": "This follow-up to \u201cThe Diana Chronicles\u201d details how the royal family reinvented itself after the death of Princess Diana.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593138090.jpg",
+			"name": "THE PALACE PAPERS",
+			"publisher": "Crown",
+			"rank": 7
+		},
+		{
+			"author": "by James Patterson and Chris Mooney",
+			"description": "A biography of the late Princess of Wales and her sons.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780759554221.jpg",
+			"name": "DIANA, WILLIAM, AND HARRY",
+			"publisher": "Little, Brown",
+			"rank": 8
+		},
+		{
+			"author": "by Robin Wall Kimmerer",
+			"description": "A botanist and member of the Citizen Potawatomi Nation espouses having an understanding and appreciation of plants and animals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781571313560.jpg",
+			"name": "BRAIDING SWEETGRASS",
+			"publisher": "Milkweed Editions",
+			"rank": 9
+		},
+		{
+			"author": "by Tara Westover",
+			"description": "The daughter of survivalists, who is kept out of school, educates herself enough to leave home for university.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399590504.jpg",
+			"name": "EDUCATED",
+			"publisher": "Random House",
+			"rank": 10
+		},
+		{
+			"author": "by Michelle Zauner",
+			"description": "The daughter of a Korean mother and Jewish-American father, and leader of the indie rock project Japanese Breakfast, describes creating her own identity after losing her mother to cancer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525657743.jpg",
+			"name": "CRYING IN H MART",
+			"publisher": "Knopf",
+			"rank": 11
+		},
+		{
+			"author": "by Trevor Noah",
+			"description": "A memoir about growing up biracial in apartheid South Africa by the host of \u201cThe Daily Show.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399588181.jpg",
+			"name": "BORN A CRIME",
+			"publisher": "One World",
+			"rank": 12
+		},
+		{
+			"author": "by Pete Hegseth with David Goodwin",
+			"description": "The \"Fox & Friends Weekend\" host makes his case for what he calls classical Christian education.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063215047.jpg",
+			"name": "BATTLE FOR THE AMERICAN MIND",
+			"publisher": "Broadside",
+			"rank": 13
+		},
+		{
+			"author": "by Adam Grant",
+			"description": "An examination of the cognitive skills of rethinking and unlearning that could be used to adapt to a rapidly changing world.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984878106.jpg",
+			"name": "THINK AGAIN",
+			"publisher": "Viking",
+			"rank": 14
+		},
+		{
+			"author": "by Dave Grohl",
+			"description": "A memoir by the musician known for his work with Foo Fighters and Nirvana.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063076099.jpg",
+			"name": "THE STORYTELLER",
+			"publisher": "Dey Street",
+			"rank": 15
+		}
+	]
+}

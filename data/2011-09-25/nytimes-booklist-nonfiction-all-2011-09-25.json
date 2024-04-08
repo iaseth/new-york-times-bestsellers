@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Todd Burpo with Lynn Vincent",
+			"description": "A father recounts his 3-year-old son\u2019s encounter with Jesus and the angels during an emergency appendectomy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780849949203.jpg",
+			"name": "HEAVEN IS FOR REAL",
+			"publisher": "Thomas Nelson",
+			"rank": 1
+		},
+		{
+			"author": "by Dick Cheney",
+			"description": "The former vice president opens up about his life and nearly four decades at the core of American politics.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781439176191.jpg",
+			"name": "IN MY TIME",
+			"publisher": "Threshold",
+			"rank": 2
+		},
+		{
+			"author": "by Thomas L. Friedman and Michael Mandelbaum",
+			"description": "How America fell behind in the world it invented, and how it can come back.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250013729.jpg",
+			"name": "THAT USED TO BE US",
+			"publisher": "Farrar, Straus & Giroux",
+			"rank": 3
+		},
+		{
+			"author": "by Eric Metaxas",
+			"description": "A biography of Dietrich Bonhoeffer, a German pastor and theologian who was hanged for the role he played in the assassination plot against Hitler.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781418556341.jpg",
+			"name": "BONHOEFFER",
+			"publisher": "Nelson",
+			"rank": 4
+		},
+		{
+			"author": "by Laura Hillenbrand",
+			"description": "An Olympic runner\u2019s story of survival as a prisoner of the Japanese in World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400064168.jpg",
+			"name": "UNBROKEN",
+			"publisher": "Random House",
+			"rank": 5
+		},
+		{
+			"author": "by Jaycee Dugard",
+			"description": "A woman tells of being kidnapped at the age of 11 and held prisoner for 18 years by a convicted rapist and his wife.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451629187.jpg",
+			"name": "A STOLEN LIFE",
+			"publisher": "Simon & Schuster",
+			"rank": 6
+		},
+		{
+			"author": "by Erik Larson",
+			"description": "This portrait of Berlin during the rise of the Nazis centers on the family of William E. Dodd, the U.S. ambassador there.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307887955.jpg",
+			"name": "IN THE GARDEN OF BEASTS",
+			"publisher": "Crown",
+			"rank": 7
+		},
+		{
+			"author": "by Rebecca Skloot",
+			"description": "The story of a woman whose cancer cells were extensively cultured without her permission in 1951.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400052189.jpg",
+			"name": "THE IMMORTAL LIFE OF HENRIETTA LACKS",
+			"publisher": "Crown",
+			"rank": 8
+		},
+		{
+			"author": "by Tina Fey",
+			"description": "A memoir from the former \"Saturday Night Live\" star and creator of \"30 Rock.\"",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316056892.jpg",
+			"name": "BOSSYPANTS",
+			"publisher": "Little, Brown",
+			"rank": 9
+		},
+		{
+			"author": "by Stacy Schiff",
+			"description": "This biography portrays the Macedonian-Egyptian queen in all her ambition, audacity and formidable intelligence.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316001946.jpg",
+			"name": "CLEOPATRA",
+			"publisher": "Little, Brown",
+			"rank": 10
+		},
+		{
+			"author": "by Malcolm Gladwell",
+			"description": "Why some people succeed \u2014 it has to do with luck and opportunities as well as talent.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316017930.jpg",
+			"name": "OUTLIERS",
+			"publisher": "Little, Brown",
+			"rank": 11
+		},
+		{
+			"author": "by Jeannette Walls",
+			"description": "The author recalls a bizarre childhood during which she was constantly moved from place to place.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780743247542.jpg",
+			"name": "THE GLASS CASTLE",
+			"publisher": "Simon & Schuster",
+			"rank": 12
+		},
+		{
+			"author": "by  Karl Marlantes",
+			"description": "Marlantes, a Vietnam veteran, takes a personal look at the ordeals of combat and its aftermath.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780802195142.jpg",
+			"name": "WHAT IT IS LIKE TO GO TO WAR",
+			"publisher": "Grove/Atlantic",
+			"rank": 13
+		},
+		{
+			"author": "by Roy F. Baumeister and John Tierney",
+			"description": "Baumeister and Tierney set out to revolutionize our understanding of the virtue of self-control.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101543771.jpg",
+			"name": "WILLPOWER",
+			"publisher": "Penguin Press",
+			"rank": 14
+		},
+		{
+			"author": "by Mark Steyn",
+			"description": "The writer foresees Armageddon for the United States, which he maintains has caught up with Europe in the rush to self-destruction.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781596981003.jpg",
+			"name": "AFTER AMERICA",
+			"publisher": "Regnery",
+			"rank": 15
+		}
+	]
+}

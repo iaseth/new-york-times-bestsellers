@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Nora Roberts",
+			"description": "In County Mayo, evil and witchcraft complicate a long-simmering romance; Book 3 of the Cousins O\u2019Dwyer trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780425259870.jpg",
+			"name": "BLOOD MAGICK",
+			"publisher": "Berkley",
+			"rank": 1
+		},
+		{
+			"author": "by John Grisham",
+			"description": "A downsized Wall Street lawyer joins a legal clinic in a small Virginia town, and becomes involved both in real people\u2019s lives and in litigation against the coal mining industry.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385537148.jpg",
+			"name": "GRAY MOUNTAIN",
+			"publisher": "Doubleday",
+			"rank": 2
+		},
+		{
+			"author": "by Gillian Flynn",
+			"description": "A woman disappears on the day of her fifth anniversary; is her husband a killer?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307588388.jpg",
+			"name": "GONE GIRL",
+			"publisher": "Crown",
+			"rank": 3
+		},
+		{
+			"author": "by Patrick Rothfuss",
+			"description": "An exploration of the world of Auri, a character in the Kingkiller Chronicles.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698184947.jpg",
+			"name": "THE SLOW REGARD OF SILENT THINGS",
+			"publisher": "DAW",
+			"rank": 4
+		},
+		{
+			"author": "by Clive Cussler",
+			"description": "Dirk Pitt becomes involved in a post-Castro power struggle in Cuba.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698183605.jpg",
+			"name": "HAVANA STORM",
+			"publisher": "Putnam",
+			"rank": 5
+		},
+		{
+			"author": "by Anne Rice",
+			"description": "The Vampire Chronicles continue after a long hiatus with the reappearance of Lestat de Lioncourt.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307962539.jpg",
+			"name": "PRINCE LESTAT",
+			"publisher": "Knopf",
+			"rank": 6
+		},
+		{
+			"author": "by Jodi Picoult",
+			"description": "After searching for her mother, who has disappeared, for more than 10 years, a woman employs a psychic and a detective.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345544933.jpg",
+			"name": "LEAVING TIME",
+			"publisher": "Ballantine",
+			"rank": 7
+		},
+		{
+			"author": "by Danielle Steel",
+			"description": "A German aristocrat, fleeing the Nazis, settles in America with a gift of eight purebred horses\nfrom his closest friend.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345530998.jpg",
+			"name": "PEGASUS",
+			"publisher": "Delacorte",
+			"rank": 8
+		},
+		{
+			"author": "by Susan Mallery",
+			"description": "A former N.F.L. player and a single mom work together on a holiday toy drive and try to keep their friendship from turning into more.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781459256477.jpg",
+			"name": "YOURS FOR CHRISTMAS",
+			"publisher": "Harlequin",
+			"rank": 9
+		},
+		{
+			"author": "by Alexander McCall Smith",
+			"description": "The 15th book in the No. 1 Ladies\u2019 Detective Agency series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307911551.jpg",
+			"name": "THE HANDSOME MAN'S DE LUXE CAF\u00c9",
+			"publisher": "Pantheon",
+			"rank": 10
+		},
+		{
+			"author": "by John Sandford",
+			"description": "Dognappers and a murdered reporter draw the attention of the Minnesota investigator Virgil Flowers.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101597767.jpg",
+			"name": "DEADLINE",
+			"publisher": "Putnam",
+			"rank": 11
+		},
+		{
+			"author": "by Nicholas Sparks",
+			"description": "Twenty-five years after their high school romance ended, two classmates return to their North Carolina town for a funeral.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780446547642.jpg",
+			"name": "THE BEST OF ME",
+			"publisher": "Grand Central",
+			"rank": 12
+		},
+		{
+			"author": "by Mary Balogh",
+			"description": "Flavian, a wounded survivor of the Napoleonic wars, and Agnes, a young widow, begin an unlikely courtship.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780451469663.jpg",
+			"name": "ONLY ENCHANTING",
+			"publisher": "Signet",
+			"rank": 13
+		},
+		{
+			"author": "by Anthony Doerr",
+			"description": "The lives of a blind French girl and a gadget-obsessed German boy before and during World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476746586.jpg",
+			"name": "ALL THE LIGHT WE CANNOT SEE",
+			"publisher": "Scribner",
+			"rank": 14
+		},
+		{
+			"author": "by James Patterson and Michael Ledwidge",
+			"description": "Detective Michael Bennett, back in New York City, investigates a peculiar crime in Harlem.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316211024.jpg",
+			"name": "BURN",
+			"publisher": "Little, Brown",
+			"rank": 15
+		}
+	]
+}

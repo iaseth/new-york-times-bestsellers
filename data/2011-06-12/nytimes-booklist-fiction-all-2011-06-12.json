@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Sara Gruen",
+			"description": "After his parents die in a car accident, a young veterinary student \u2014 and an elephant \u2014 save a Depression-era circus.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781616200718.jpg",
+			"name": "WATER FOR ELEPHANTS",
+			"publisher": "Algonquin",
+			"rank": 1
+		},
+		{
+			"author": "by Kathryn Stockett",
+			"description": "A young white woman and two black maids in 1960s Mississippi.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781440697661.jpg",
+			"name": "THE HELP",
+			"publisher": "Penguin Group",
+			"rank": 2
+		},
+		{
+			"author": "by Emily Giffin",
+			"description": "A maid of honor to her charmed friend, Rachel White has always played by the rules. But that changes on her 30th birthday.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780312600723.jpg",
+			"name": "SOMETHING BORROWED",
+			"publisher": "St. Martin's",
+			"rank": 3
+		},
+		{
+			"author": "by James Patterson and Maxine Paetro",
+			"description": "Detective Lindsay Boxer and the Women\u2019s Murder Club race to find a missing baby.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316126946.jpg",
+			"name": "10TH ANNIVERSARY",
+			"publisher": "Little, Brown",
+			"rank": 4
+		},
+		{
+			"author": "by John Sandford",
+			"description": "The Minneapolis detective Lucas Davenport investigates the murders of two girls who were kidnapped in 1985.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780425247891.jpg",
+			"name": "BURIED PREY",
+			"publisher": "Penguin Group",
+			"rank": 5
+		},
+		{
+			"author": "by Charlaine Harris",
+			"description": "The telepathic waitress Sookie Stackhouse seeks the culprit in a firebombing.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781937007355.jpg",
+			"name": "DEAD RECKONING",
+			"publisher": "Penguin Group",
+			"rank": 6
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "The lawyer for an alleged serial killer is murdered, and two former Secret Service agents are on the case.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780446573092.jpg",
+			"name": "THE SIXTH MAN",
+			"publisher": "Grand Central",
+			"rank": 7
+		},
+		{
+			"author": "by George R.R. Martin",
+			"description": "In the frozen wastes to the north of Winterfell, sinister and supernatural forces are mustering.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780553897845.jpg",
+			"name": "A GAME OF THRONES",
+			"publisher": "Random House",
+			"rank": 8
+		},
+		{
+			"author": "by Dean Koontz",
+			"description": "Book 5 in the reimagining of the classic tale.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780440423300.jpg",
+			"name": "FRANKENSTEIN: THE DEAD TOWN",
+			"publisher": "Random House",
+			"rank": 9
+		},
+		{
+			"author": "by Steve Berry",
+			"description": "The former government operative Cotton Malone foils an assassination attempt on the president and finds himself at dangerous odds with a secret society.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345530165.jpg",
+			"name": "THE JEFFERSON KEY",
+			"publisher": "Random House",
+			"rank": 10
+		},
+		{
+			"author": "by Emily Giffin",
+			"description": "After being betrayed by her fianc\u00e9 and her best friend, Darcy Rhone flees to London.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780312548070.jpg",
+			"name": "SOMETHING BLUE",
+			"publisher": "St. Martin\u2019s",
+			"rank": 11
+		},
+		{
+			"author": "by Aaron Allston",
+			"description": "The Jedi Order has taken control of the Galactic Alliance. Meanwhile, Luke and Ben Skywalker are pursuing Abeloth, the evil entity determined to rule the galaxy; a \"Star Wars\" novel.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345509109.jpg",
+			"name": "CONVICTION",
+			"publisher": "Random House",
+			"rank": 12
+		},
+		{
+			"author": "by Michael Connelly",
+			"description": "Routinely doing business from his Lincoln Town Cars, the bottom-feeding attorney Mickey Haller is asked to defend the scion of a wealthy family who might not be guilty of a murderous crime.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455500239.jpg",
+			"name": "THE LINCOLN LAWYER",
+			"publisher": "Little, Brown",
+			"rank": 13
+		},
+		{
+			"author": "by Michael Connelly",
+			"description": "The defense lawyer Mickey Haller represents a woman facing home foreclosure who is accused of killing a banker.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455510313.jpg",
+			"name": "THE FIFTH WITNESS",
+			"publisher": "Little, Brown",
+			"rank": 14
+		},
+		{
+			"author": "by Stieg Larsson",
+			"description": "The third volume of the Millennium trilogy, about a Swedish hacker and a journalist.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307593672.jpg",
+			"name": "THE GIRL WHO KICKED THE HORNET\u2019S NEST",
+			"publisher": "Knopf Doubleday",
+			"rank": 15
+		}
+	]
+}

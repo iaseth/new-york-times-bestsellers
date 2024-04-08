@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Kristin Hannah",
+			"description": "A former prisoner of war returns from Vietnam and moves his family to Alaska, where they face tough conditions.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250165619.jpg",
+			"name": "THE GREAT ALONE",
+			"publisher": "St. Martin's",
+			"rank": 1
+		},
+		{
+			"author": "by Lisa Kleypas",
+			"description": "Book 4 of the Ravenels series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062371898.jpg",
+			"name": "HELLO STRANGER",
+			"publisher": "Avon",
+			"rank": 2
+		},
+		{
+			"author": "by Jason Matthews",
+			"description": "A Russian intelligence officer trained in the art of seduction becomes entangled with a young C.I.A. officer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476706122.jpg",
+			"name": "RED SPARROW",
+			"publisher": "Scribner",
+			"rank": 3
+		},
+		{
+			"author": "by James Patterson and Candice Fox",
+			"description": "Detective Harriet Blue tries to clear her brother's name and save a small Australian town from being massacred.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316513241.jpg",
+			"name": "FIFTY FIFTY",
+			"publisher": "Little, Brown",
+			"rank": 4
+		},
+		{
+			"author": "by Tayari Jones",
+			"description": "A newlywed couple's relationship is tested when the husband is sentenced to 12 years in prison.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781616207601.jpg",
+			"name": "AN AMERICAN MARRIAGE",
+			"publisher": "Algonquin",
+			"rank": 5
+		},
+		{
+			"author": "by A.J. Finn",
+			"description": "A recluse who drinks heavily and takes prescription drugs may have witnessed a crime across from her Harlem townhouse.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062678416.jpg",
+			"name": "THE WOMAN IN THE WINDOW",
+			"publisher": "Morrow",
+			"rank": 6
+		},
+		{
+			"author": "by Ernest Cline",
+			"description": "It\u2019s 2044, life on a resource-depleted Earth has grown increasingly grim, and the key to a vast fortune is hidden in a virtual-reality world.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307887443.jpg",
+			"name": "READY PLAYER ONE",
+			"publisher": "Broadway",
+			"rank": 7
+		},
+		{
+			"author": "by Marie Force",
+			"description": "Vice President Nick Cappuano and Samantha Holland, a police lieutenant, find their relationship challenged during a summer murder spree.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781488079023.jpg",
+			"name": "FATAL CHAOS",
+			"publisher": "HQN",
+			"rank": 8
+		},
+		{
+			"author": "by Celeste Ng",
+			"description": "An artist upends a quiet town outside Cleveland.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735224308.jpg",
+			"name": "LITTLE FIRES EVERYWHERE",
+			"publisher": "Penguin Press",
+			"rank": 9
+		},
+		{
+			"author": "by Joanne Fluke",
+			"description": "After her husband disappears, Hannah Swensen Barton searches for a killer while trying to fulfill holiday baking orders.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781617732256.jpg",
+			"name": "RASPBERRY DANISH MURDER",
+			"publisher": "Kensington",
+			"rank": 10
+		},
+		{
+			"author": "by Corinne Michaels",
+			"description": "A divorced mother falls for a man she interviews for a celebrity blog.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781942834229.jpg",
+			"name": "ONE LAST TIME",
+			"publisher": "BAAE",
+			"rank": 11
+		},
+		{
+			"author": "by Lisa Wingate",
+			"description": "A South Carolina lawyer learns about the questionable practices of a Tennessee orphanage.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780425284681.jpg",
+			"name": "BEFORE WE WERE YOURS",
+			"publisher": "Ballantine",
+			"rank": 12
+		},
+		{
+			"author": "by Jojo Moyes",
+			"description": "Louisa Clark moves to New York and is torn between high society and the life she enjoys at a vintage clothing store.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399562471.jpg",
+			"name": "STILL ME",
+			"publisher": "Pamela Dorman/Viking",
+			"rank": 13
+		},
+		{
+			"author": "by Lisa Jackson",
+			"description": "A collection of three novels: \"With No Regrets,\" \"Double Exposure\" and \"D Is for Dani's Baby.\"",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781420146400.jpg",
+			"name": "RUTHLESS",
+			"publisher": "Zebra",
+			"rank": 14
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "The detective Amos Decker (\u201cMemory Man\u201d) witnesses a murder-suicide that turns out to be a matter of national security.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455586561.jpg",
+			"name": "THE FIX",
+			"publisher": "Grand Central",
+			"rank": 15
+		}
+	]
+}

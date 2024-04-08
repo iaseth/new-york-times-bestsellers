@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Harlan Coben",
+			"description": "Windsor Horne Lockwood III might rectify cold cases connected to his family that have eluded the F.B.I. for decades.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538748213.jpg",
+			"name": "WIN",
+			"publisher": "Grand Central",
+			"rank": 1
+		},
+		{
+			"author": "by Patricia Briggs",
+			"description": "The sixth book in the Alpha and Omega series. Mated werewolves Charles Cornick and Anna Latham look into what might have caused everyone living in a small town to disappear.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780440001584.jpg",
+			"name": "WILD SIGN",
+			"publisher": "Ace",
+			"rank": 2
+		},
+		{
+			"author": "by Kristin Hannah",
+			"description": "As dust storms roll during the Great Depression, Elsa must choose between saving the family and farm or heading West.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250178602.jpg",
+			"name": "THE FOUR WINDS",
+			"publisher": "St. Martin's",
+			"rank": 3
+		},
+		{
+			"author": "by Stephen King",
+			"description": "An N.Y.P.D. detective asks the son of a struggling single mother to use his unnatural ability to track a killer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781789096491.jpg",
+			"name": "LATER",
+			"publisher": "Hard Case Crime",
+			"rank": 4
+		},
+		{
+			"author": "by Matt Haig",
+			"description": "Nora Seed finds a library beyond the edge of the universe that contains books with multiple possibilities of the lives one could have lived.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525559474.jpg",
+			"name": "THE MIDNIGHT LIBRARY",
+			"publisher": "Viking",
+			"rank": 5
+		},
+		{
+			"author": "by Sister Souljah",
+			"description": "In a sequel to \u201cThe Coldest Winter Ever,\u201d Winter Santiaga emerges after time served and seeks revenge.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982139131.jpg",
+			"name": "LIFE AFTER DEATH",
+			"publisher": "Atria/Emily Bestler",
+			"rank": 6
+		},
+		{
+			"author": "by Kazuo Ishiguro",
+			"description": "An \u201cArtificial Friend\u201d named Klara is purchased to serve as a companion to an ailing 14-year-old girl.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593318171.jpg",
+			"name": "KLARA AND THE SUN",
+			"publisher": "Knopf",
+			"rank": 7
+		},
+		{
+			"author": "by Julia Quinn",
+			"description": "The first book in the Bridgerton series. Daphne Bridgerton\u2019s reputation soars when she colludes with the Duke of Hastings. The basis of the Netflix series \u201cBridgerton.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062424037.jpg",
+			"name": "THE DUKE AND I",
+			"publisher": "Avon",
+			"rank": 8
+		},
+		{
+			"author": "by Kate Quinn",
+			"description": "As a post-World War II royal wedding approaches, an encrypted letter resurrects an alliance between three female code breakers.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062943477.jpg",
+			"name": "THE ROSE CODE",
+			"publisher": "Morrow",
+			"rank": 9
+		},
+		{
+			"author": "by Chris Whitaker",
+			"description": "Trouble might start for the chief of police and a self-proclaimed outlaw teenager when a man is released from prison.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250759665.jpg",
+			"name": "WE BEGIN AT THE END",
+			"publisher": "Holt",
+			"rank": 10
+		},
+		{
+			"author": "by C.J. Box",
+			"description": "The 21st book in the Joe Pickett series. The Wyoming game warden becomes a target when taking a tech baron on an elk hunting trip.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525538271.jpg",
+			"name": "DARK SKY",
+			"publisher": "Putnam",
+			"rank": 11
+		},
+		{
+			"author": "by John Grisham",
+			"description": "The line between fact and fiction becomes blurred when an author of thrillers is found dead after a hurricane hits Camino Island.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385545938.jpg",
+			"name": "CAMINO WINDS",
+			"publisher": "Doubleday",
+			"rank": 12
+		},
+		{
+			"author": "by V.E. Schwab",
+			"description": "A Faustian bargain comes with a curse that affects the adventure Addie LaRue has across centuries.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780765387561.jpg",
+			"name": "THE INVISIBLE LIFE OF ADDIE LARUE",
+			"publisher": "Tor/Forge",
+			"rank": 13
+		},
+		{
+			"author": "by Brit Bennett",
+			"description": "The lives of twin sisters who run away from a Southern Black community at age 16 diverge as one returns and the other takes on a different racial identity but their fates intertwine.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525536291.jpg",
+			"name": "THE VANISHING HALF",
+			"publisher": "Riverhead",
+			"rank": 14
+		},
+		{
+			"author": "by Madeline Miller",
+			"description": "A reimagining of Homer\u2019s \u201cIliad\u201d that is narrated by Achilles' companion Patroclus.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062060624.jpg",
+			"name": "THE SONG OF ACHILLES",
+			"publisher": "Ecco",
+			"rank": 15
+		}
+	]
+}

@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Sean Hannity",
+			"description": "The Fox News host offers his assessment on what is at stake in the 2020 election.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982149970.jpg",
+			"name": "LIVE FREE OR DIE",
+			"publisher": "Threshold Editions",
+			"rank": 1
+		},
+		{
+			"author": "by Mary L. Trump",
+			"description": "The clinical psychologist gives her assessment of events and patterns inside her family and how they shaped President Trump.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982141462.jpg",
+			"name": "TOO MUCH AND NEVER ENOUGH",
+			"publisher": "Simon & Schuster",
+			"rank": 2
+		},
+		{
+			"author": "by Omid Scobie and Carolyn Durand",
+			"description": "The Duke and Duchess of Sussex\u2019s journey from courtship to their decision to step away from their royal lives.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063046108.jpg",
+			"name": "FINDING FREEDOM",
+			"publisher": "Dey St.",
+			"rank": 3
+		},
+		{
+			"author": "by Isabel Wilkerson",
+			"description": "The Pulitzer Prize-winning journalist examines aspects of caste systems across civilizations and reveals a rigid hierarchy in America today.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593230251.jpg",
+			"name": "CASTE",
+			"publisher": "Random House",
+			"rank": 4
+		},
+		{
+			"author": "by Glennon Doyle",
+			"description": "The activist and public speaker describes her journey of listening to her inner voice.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984801258.jpg",
+			"name": "UNTAMED",
+			"publisher": "Dial",
+			"rank": 5
+		},
+		{
+			"author": "by Ibram X. Kendi",
+			"description": "A primer for creating a more just and equitable society through identifying and opposing racism.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525509288.jpg",
+			"name": "HOW TO BE AN ANTIRACIST",
+			"publisher": "One World",
+			"rank": 6
+		},
+		{
+			"author": "by Robin DiAngelo",
+			"description": "Historical and cultural analyses on what causes defensive moves by white people and how this inhibits cross-racial dialogue.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780807047415.jpg",
+			"name": "WHITE FRAGILITY",
+			"publisher": "Beacon Press",
+			"rank": 7
+		},
+		{
+			"author": "by Kurt Andersen",
+			"description": "The author of \u201cFantasyland\u201d looks at the economic, cultural and political forces to which he ascribes the undermining and dismantling of the American middle class.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984801340.jpg",
+			"name": "EVIL GENIUSES",
+			"publisher": "Random House",
+			"rank": 8
+		},
+		{
+			"author": "by Kamala Harris",
+			"description": "A memoir by the daughter of immigrants who is now a California senator and the 2020 Democratic candidate for vice president.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525560715.jpg",
+			"name": "THE TRUTHS WE HOLD",
+			"publisher": "Penguin",
+			"rank": 9
+		},
+		{
+			"author": "by Isabel Wilkerson",
+			"description": "An account of the Great Migration of 1915-70, in which nearly six million African-Americans abandoned the South.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780679763888.jpg",
+			"name": "THE WARMTH OF OTHER SUNS",
+			"publisher": "Vintage",
+			"rank": 10
+		},
+		{
+			"author": "by Ijeoma Oluo",
+			"description": "A look at the contemporary racial landscape of the United States.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781580056786.jpg",
+			"name": "SO YOU WANT TO TALK ABOUT RACE",
+			"publisher": "Seal",
+			"rank": 11
+		},
+		{
+			"author": "by Erik Larson",
+			"description": "An examination of the leadership of the prime minister Winston Churchill.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385348713.jpg",
+			"name": "THE SPLENDID AND THE VILE",
+			"publisher": "Crown",
+			"rank": 12
+		},
+		{
+			"author": "by Tara Westover",
+			"description": "The daughter of survivalists, who is kept out of school, educates herself enough to leave home for university.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399590504.jpg",
+			"name": "EDUCATED",
+			"publisher": "Random House",
+			"rank": 13
+		},
+		{
+			"author": "by Stuart Stevens",
+			"description": "The former political campaign strategist evaluates the changes within the Republican Party in the last half-century.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525658450.jpg",
+			"name": "IT WAS ALL A LIE",
+			"publisher": "Knopf",
+			"rank": 14
+		},
+		{
+			"author": "by Trevor Noah",
+			"description": "A memoir about growing up biracial in apartheid South Africa by the host of \u201cThe Daily Show.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399588181.jpg",
+			"name": "BORN A CRIME",
+			"publisher": "Spiegel & Grau",
+			"rank": 15
+		}
+	]
+}

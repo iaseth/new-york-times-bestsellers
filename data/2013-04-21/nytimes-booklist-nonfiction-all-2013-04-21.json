@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Sheryl Sandberg with Nell Scovell",
+			"description": "The chief operating officer of Facebook urges women to pursue their careers without ambivalence.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385349956.jpg",
+			"name": "LEAN IN",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 1
+		},
+		{
+			"author": "by Eben Alexander",
+			"description": "A neurosurgeon recounts his near death experience during a coma from bacterial meningitis.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451695199.jpg",
+			"name": "PROOF OF HEAVEN",
+			"publisher": "Simon & Schuster",
+			"rank": 2
+		},
+		{
+			"author": "by Mary Roach",
+			"description": "A science writer\u2019s pilgrimage down the digestive tract; by the author of \u201cStiff,\u201d \u201cSpook,\u201d \u201cBonk\u201d and \u201cPacking for Mars.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780393240306.jpg",
+			"name": "GULP",
+			"publisher": "W. W. Norton & Company",
+			"rank": 3
+		},
+		{
+			"author": "by Ben C. Carson and Candy Carson",
+			"description": "A doctor explores what makes America great.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780310330714.jpg",
+			"name": "AMERICA THE BEAUTIFUL",
+			"publisher": "Zondervan",
+			"rank": 4
+		},
+		{
+			"author": "by Cheryl Strayed",
+			"description": "A woman\u2019s account of a life-changing 1,100-mile hike along the Pacific Crest Trail during the summer of 1995.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307476074.jpg",
+			"name": "WILD",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 5
+		},
+		{
+			"author": "by Chris Kyle with Scott McEwen and Jim DeFelice",
+			"description": "A member of the Navy Seals who had the most career sniper kills in United States military history discusses his childhood, his marriage and his battlefield experiences during the Iraq war. Kyle was recently shot to death in Texas.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062082374.jpg",
+			"name": "AMERICAN SNIPER",
+			"publisher": "HarperCollins Publishers",
+			"rank": 6
+		},
+		{
+			"author": "by David Stockman",
+			"description": "A revisionist account of economic history since the New Deal by President Reagan\u2019s former budget director frames his account of the current crisis.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781586489137.jpg",
+			"name": "GREAT DEFORMATION",
+			"publisher": "PublicAffairs",
+			"rank": 7
+		},
+		{
+			"author": "by Glennon Doyle Melton",
+			"description": "Reflections on marriage, motherhood, faith, addiction and recovery; from the author of the blog Momastery.com.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451697247.jpg",
+			"name": "CARRY ON, WARRIOR",
+			"publisher": "Simon & Schuster",
+			"rank": 8
+		},
+		{
+			"author": "by Frank McCourt",
+			"description": "An Irish-American writer recalls his childhood amid the miseries of Limerick; originally published in 1996.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780684874357.jpg",
+			"name": "ANGELA'S ASHES",
+			"publisher": "Simon & Schuster",
+			"rank": 9
+		},
+		{
+			"author": "by Kelly Oxford",
+			"description": "Humorous stories from the \u201cTwitter Mom,\u201d now a Hollywood writer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062102249.jpg",
+			"name": "EVERYTHING IS PERFECT WHEN YOU'RE A LIAR",
+			"publisher": "HarperCollins Publishers",
+			"rank": 10
+		},
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "The host of \u201cThe O\u2019Reilly Factor\u201d recounts the assassination of John F. Kennedy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780805096668.jpg",
+			"name": "KILLING KENNEDY",
+			"publisher": "Henry Holt & Company",
+			"rank": 11
+		},
+		{
+			"author": "by Debbie Reynolds and Dorian Hannaway",
+			"description": "A second memoir by the actress, singer and dancer presents stories about her show-business friends, her man and money troubles, and her children.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062213655.jpg",
+			"name": "UNSINKABLE",
+			"publisher": "HarperCollins Publishers",
+			"rank": 12
+		},
+		{
+			"author": "by Susannah Cahalan",
+			"description": "A medical mystery in which doctors struggle to discover why a young reporter suddenly experiences seizures, hallucinations and eventually near catatonia.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451621389.jpg",
+			"name": "BRAIN ON FIRE",
+			"publisher": "Simon & Schuster",
+			"rank": 13
+		},
+		{
+			"author": "by Daniel Kahneman",
+			"description": "The winner of the Nobel in economic science discusses how we make choices in business and personal life and when we can and cannot trust our intuitions.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781429969352.jpg",
+			"name": "THINKING, FAST AND SLOW",
+			"publisher": "Farrar, Straus & Giroux",
+			"rank": 14
+		},
+		{
+			"author": "by Susan Cain",
+			"description": "Introverts \u2014 one-third of the population \u2014 are undervalued in American society.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307452207.jpg",
+			"name": "QUIET",
+			"publisher": "Crown Publishing",
+			"rank": 15
+		}
+	]
+}

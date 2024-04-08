@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Sean Hannity",
+			"description": "The Fox News host offers his assessment on what is at stake in the 2020 election.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982149970.jpg",
+			"name": "LIVE FREE OR DIE",
+			"publisher": "Threshold Editions",
+			"rank": 1
+		},
+		{
+			"author": "by Isabel Wilkerson",
+			"description": "The Pulitzer Prize-winning journalist examines aspects of caste systems across civilizations and reveals a rigid hierarchy in America today.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593230251.jpg",
+			"name": "CASTE",
+			"publisher": "Random House",
+			"rank": 2
+		},
+		{
+			"author": "by Mary L. Trump",
+			"description": "The clinical psychologist gives her assessment of events and patterns inside her family and how they shaped President Trump.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982141462.jpg",
+			"name": "TOO MUCH AND NEVER ENOUGH",
+			"publisher": "Simon & Schuster",
+			"rank": 3
+		},
+		{
+			"author": "by Robin DiAngelo",
+			"description": "Historical and cultural analyses on what causes defensive moves by white people and how this inhibits cross-racial dialogue.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780807047415.jpg",
+			"name": "WHITE FRAGILITY",
+			"publisher": "Beacon Press",
+			"rank": 4
+		},
+		{
+			"author": "by Ibram X. Kendi",
+			"description": "A primer for creating a more just and equitable society through identifying and opposing racism.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525509288.jpg",
+			"name": "HOW TO BE AN ANTIRACIST",
+			"publisher": "One World",
+			"rank": 5
+		},
+		{
+			"author": "by Shaun King",
+			"description": "A look at how social movements evolve and ways in which activists can sustain their efforts.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780358048008.jpg",
+			"name": "MAKE CHANGE",
+			"publisher": "Houghton Mifflin Harcourt",
+			"rank": 6
+		},
+		{
+			"author": "by Glennon Doyle",
+			"description": "The activist and public speaker describes her journey of listening to her inner voice.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984801258.jpg",
+			"name": "UNTAMED",
+			"publisher": "Dial",
+			"rank": 7
+		},
+		{
+			"author": "by Stuart Stevens",
+			"description": "The former political campaign strategist evaluates the changes within the Republican Party in the last half-century.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525658450.jpg",
+			"name": "IT WAS ALL A LIE",
+			"publisher": "Knopf",
+			"rank": 8
+		},
+		{
+			"author": "by Jeffrey Toobin",
+			"description": "The CNN chief legal analyst weaves a narrative of the Mueller investigation, President Trump\u2019s impeachment and transgressions by key Trump figures.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385536738.jpg",
+			"name": "TRUE CRIMES AND MISDEMEANORS",
+			"publisher": "Doubleday",
+			"rank": 9
+		},
+		{
+			"author": "by Michelle Alexander",
+			"description": "A law professor takes aim at the \u201cwar on drugs,\u201d mass incarceration and their impact on Black men.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781595586438.jpg",
+			"name": "THE NEW JIM CROW",
+			"publisher": "New Press",
+			"rank": 10
+		},
+		{
+			"author": "by Ben Shapiro",
+			"description": "The conservative commentator describes what he perceives as threats to American history, ideals and culture.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063001879.jpg",
+			"name": "HOW TO DESTROY AMERICA IN THREE EASY STEPS",
+			"publisher": "Broadside",
+			"rank": 11
+		},
+		{
+			"author": "by Ijeoma Oluo",
+			"description": "A look at the contemporary racial landscape of the United States.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781580056786.jpg",
+			"name": "SO YOU WANT TO TALK ABOUT RACE",
+			"publisher": "Seal",
+			"rank": 12
+		},
+		{
+			"author": "by Tara Westover",
+			"description": "The daughter of survivalists, who is kept out of school, educates herself enough to leave home for university.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399590504.jpg",
+			"name": "EDUCATED",
+			"publisher": "Random House",
+			"rank": 13
+		},
+		{
+			"author": "by Erik Larson",
+			"description": "An examination of the leadership of the prime minister Winston Churchill.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385348713.jpg",
+			"name": "THE SPLENDID AND THE VILE",
+			"publisher": "Crown",
+			"rank": 14
+		},
+		{
+			"author": "by Isabel Wilkerson",
+			"description": "An account of the Great Migration of 1915-70, in which nearly six million African-Americans abandoned the South.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780679763888.jpg",
+			"name": "THE WARMTH OF OTHER SUNS",
+			"publisher": "Vintage",
+			"rank": 15
+		}
+	]
+}

@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "Jesus\u2019 life and times, and the events leading up to his execution.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780805098549.jpg",
+			"name": "KILLING JESUS",
+			"publisher": "Holt",
+			"rank": 1
+		},
+		{
+			"author": "by Si Robertson with Mark Schlabach",
+			"description": "Tales from Phil\u2019s youngest brother, retired from the Army, who works in the Duck Commander workshop.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476745398.jpg",
+			"name": "SI-COLOGY 1",
+			"publisher": "Howard Books",
+			"rank": 2
+		},
+		{
+			"author": "by Piper Kerman",
+			"description": "A memoir by a Brooklyn woman whose relationship with a drug runner gets her sentenced to a year in prison. The basis for the Netflix series, originally published in 2010.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385530262.jpg",
+			"name": "ORANGE IS THE NEW BLACK",
+			"publisher": "Spiegel & Grau",
+			"rank": 3
+		},
+		{
+			"author": "by Billy Crystal",
+			"description": "The 65-year-old comedian\u2019s reminiscences and his complaints about aging.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780805098204.jpg",
+			"name": "STILL FOOLIN' 'EM",
+			"publisher": "Holt",
+			"rank": 4
+		},
+		{
+			"author": "by Reza Aslan",
+			"description": "A biography of Jesus of Nazareth presents him in the context of his times as the leader of a revolutionary movement.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400069224.jpg",
+			"name": "ZEALOT",
+			"publisher": "Random House",
+			"rank": 5
+		},
+		{
+			"author": "by Bill Dedman and Paul Clark Newell Jr.",
+			"description": "The eccentric life of the reclusive heiress Huguette Clark, who died at the age of 104 in 2011.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345545565.jpg",
+			"name": "EMPTY MANSIONS",
+			"publisher": "Ballantine",
+			"rank": 6
+		},
+		{
+			"author": "by Sheryl Sandberg with Nell Scovell",
+			"description": "The chief operating officer of Facebook urges women to pursue their careers without ambivalence.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385349956.jpg",
+			"name": "LEAN IN",
+			"publisher": "Knopf",
+			"rank": 7
+		},
+		{
+			"author": "by Phil Robertson with Mark Schlabach",
+			"description": "The Duck Commander pays tribute to \u201cfaith, family and ducks.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476726090.jpg",
+			"name": "HAPPY, HAPPY, HAPPY",
+			"publisher": "Howard Books",
+			"rank": 8
+		},
+		{
+			"author": "by Sheri Fink",
+			"description": "The case of a New Orleans surgeon suspected of euthanizing patients during the Katrina disaster.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307718983.jpg",
+			"name": "FIVE DAYS AT MEMORIAL",
+			"publisher": "Crown",
+			"rank": 9
+		},
+		{
+			"author": "by Justin Halpern",
+			"description": "A coming-of-age memoir organized around the musings, purveyed on Twitter, of the author\u2019s father.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062002945.jpg",
+			"name": "_____ MY DAD SAYS",
+			"publisher": "HarperCollins",
+			"rank": 10
+		},
+		{
+			"author": "by Eben Alexander",
+			"description": "A neurosurgeon recounts his near death experience during a coma from bacterial meningitis.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451695199.jpg",
+			"name": "PROOF OF HEAVEN",
+			"publisher": "Simon & Schuster",
+			"rank": 11
+		},
+		{
+			"author": "by Mark R. Levin",
+			"description": "The talk-radio host offers 11 proposals for returning to America\u2019s founding principles.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451606270.jpg",
+			"name": "THE LIBERTY AMENDMENTS",
+			"publisher": "Threshold Editions",
+			"rank": 12
+		},
+		{
+			"author": "by Eric Schlosser",
+			"description": "Accidents and near misses in the management of America\u2019s nuclear arsenal.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594202278.jpg",
+			"name": "COMMAND AND CONTROL",
+			"publisher": "Penguin Press",
+			"rank": 13
+		},
+		{
+			"author": "by Laura Hillenbrand",
+			"description": "An Olympic runner\u2019s story of survival as a prisoner of the Japanese in World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400064168.jpg",
+			"name": "UNBROKEN",
+			"publisher": "Random House",
+			"rank": 14
+		},
+		{
+			"author": "by Cheryl Strayed",
+			"description": "A woman\u2019s account of a life-changing 1,100-mile hike along the Pacific Crest Trail during the summer of 1995.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307476074.jpg",
+			"name": "WILD",
+			"publisher": "Knopf",
+			"rank": 15
+		}
+	]
+}

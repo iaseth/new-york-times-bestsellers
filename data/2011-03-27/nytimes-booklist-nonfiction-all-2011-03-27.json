@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Todd Burpo with Lynn Vincent",
+			"description": "A father recounts his 3-year-old son\u2019s encounter with Jesus and the angels during an emergency appendectomy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780849949203.jpg",
+			"name": "HEAVEN IS FOR REAL",
+			"publisher": "Thomas Nelson",
+			"rank": 1
+		},
+		{
+			"author": "by Laura Hillenbrand",
+			"description": "An Olympic runner\u2019s story of survival as a prisoner of the Japanese in World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400064168.jpg",
+			"name": "UNBROKEN",
+			"publisher": "Random House",
+			"rank": 2
+		},
+		{
+			"author": "by Rebecca Skloot",
+			"description": "The story of a woman whose cancer cells were extensively cultured without her permission in 1951.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400052189.jpg",
+			"name": "THE IMMORTAL LIFE OF HENRIETTA LACKS",
+			"publisher": "Crown",
+			"rank": 3
+		},
+		{
+			"author": "by David Brooks",
+			"description": "Brooks creates two imaginary people, Harold and Erica, to illustrate his understanding of the human mind, the wellsprings of action and the causes of success and failure.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400067602.jpg",
+			"name": "THE SOCIAL ANIMAL",
+			"publisher": "Random House",
+			"rank": 4
+		},
+		{
+			"author": "by Joshua Foer",
+			"description": "A journalist who covered a mnemonics championship tries competing himself.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780143120537.jpg",
+			"name": "MOONWALKING WITH EINSTEIN",
+			"publisher": "Penguin Group",
+			"rank": 5
+		},
+		{
+			"author": "by George W. Bush",
+			"description": "The former president\u2019s memoir discusses his Christianity and the end of his drinking; his relationships with members of his family; and critical White House decisions on 9/11, Iraq and Katrina.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307590619.jpg",
+			"name": "DECISION POINTS",
+			"publisher": "Crown",
+			"rank": 6
+		},
+		{
+			"author": "by Andre Dubus III",
+			"description": "In this memoir, Dubus explores his attachment to violence and his relationship with his famous father.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780393081732.jpg",
+			"name": "TOWNIE",
+			"publisher": "Norton",
+			"rank": 7
+		},
+		{
+			"author": "by Stacy Schiff",
+			"description": "This biography portrays the Macedonian-Egyptian queen in all her ambition, audacity and formidable intelligence.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316001946.jpg",
+			"name": "CLEOPATRA",
+			"publisher": "Little, Brown",
+			"rank": 8
+		},
+		{
+			"author": "by Michael Lewis",
+			"description": "The people who saw the real estate crash coming and made billions from their foresight.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780393072235.jpg",
+			"name": "THE BIG SHORT",
+			"publisher": "Norton",
+			"rank": 9
+		},
+		{
+			"author": "by Gabrielle Hamilton",
+			"description": "A memoir by the chef and owner of the Manhattan restaurant Prune.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400068722.jpg",
+			"name": "BLOOD, BONES AND BUTTER",
+			"publisher": "Random House",
+			"rank": 10
+		},
+		{
+			"author": "by James Gleick",
+			"description": "Gleick argues that information is \u201cthe blood and the fuel, the vital principle\u201d of the world.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780375423727.jpg",
+			"name": "THE INFORMATION",
+			"publisher": "Knopf Doubleday",
+			"rank": 11
+		},
+		{
+			"author": "by Mike Huckabee",
+			"description": "The ex-governor of Arkansas proposes 12 things he says Americans need from the federal government.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781595230737.jpg",
+			"name": "A SIMPLE GOVERNMENT",
+			"publisher": "Penguin Group",
+			"rank": 12
+		},
+		{
+			"author": "by Alexandra Horowitz",
+			"description": "What the world is like from a dog\u2019s point of view.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781416583431.jpg",
+			"name": "INSIDE OF A DOG",
+			"publisher": "Simon & Schuster",
+			"rank": 13
+		},
+		{
+			"author": "by Jeannette Walls",
+			"description": "The author recalls a bizarre childhood during which she and her siblings were constantly moved from place to place.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780743247542.jpg",
+			"name": "THE GLASS CASTLE",
+			"publisher": "Simon & Schuster",
+			"rank": 14
+		},
+		{
+			"author": "by Amy Chua",
+			"description": "A Chinese-American mother makes a case for strict and demanding parenting.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594202841.jpg",
+			"name": "BATTLE HYMN OF THE TIGER MOTHER",
+			"publisher": "Penguin Group",
+			"rank": 15
+		}
+	]
+}

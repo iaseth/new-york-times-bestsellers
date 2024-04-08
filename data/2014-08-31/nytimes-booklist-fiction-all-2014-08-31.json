@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Diana Gabaldon",
+			"description": "Claire Randall, an English nurse, is transported back to 1743 during a second honeymoon in the Scottish Highlands. There she begins an affair with James Fraser, a redheaded soldier. Originally published in 1991.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780440212560.jpg",
+			"name": "OUTLANDER",
+			"publisher": "Dell",
+			"rank": 1
+		},
+		{
+			"author": "by Debbie Macomber",
+			"description": "Three couples struggle with intimacy one summer at Cedar Cove\u2019s Rose Harbor Inn.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780553391145.jpg",
+			"name": "LOVE LETTERS",
+			"publisher": "Ballantine",
+			"rank": 2
+		},
+		{
+			"author": "by Liane Moriarty",
+			"description": "Who will end up dead, and how, when three mothers with children in the same school become friends?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698138636.jpg",
+			"name": "BIG LITTLE LIES",
+			"publisher": "Amy Einhorn/Putnam",
+			"rank": 3
+		},
+		{
+			"author": "by James Rollins",
+			"description": "The 10th Sigma Force novel offers Nazis, an ancient secret, a ticking nuclear clock and alien life-forms.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780061784811.jpg",
+			"name": "THE 6TH EXTINCTION",
+			"publisher": "Morrow/HarperCollins",
+			"rank": 4
+		},
+		{
+			"author": "by Haruki Murakami",
+			"description": "A young man\u2019s difficult coming-of-age.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385352116.jpg",
+			"name": "COLORLESS TSUKURU TAZAKI AND HIS YEARS OF PILGRIMAGE",
+			"publisher": "Knopf",
+			"rank": 5
+		},
+		{
+			"author": "by Gillian Flynn",
+			"description": "A woman disappears on the day of her fifth anniversary; is her husband a killer?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307588388.jpg",
+			"name": "GONE GIRL",
+			"publisher": "Crown",
+			"rank": 6
+		},
+		{
+			"author": "by Donna Tartt",
+			"description": "A painting smuggled out of the Metropolitan Museum of Art after a bombing becomes a boy\u2019s prize, guilt and burden.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316248679.jpg",
+			"name": "THE GOLDFINCH",
+			"publisher": "Little, Brown",
+			"rank": 7
+		},
+		{
+			"author": "by E. L. James",
+			"description": "An innocent college student falls in love with a tortured man with particular sexual tastes; the first of a trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345803481.jpg",
+			"name": "FIFTY SHADES OF GREY",
+			"publisher": "Vintage",
+			"rank": 8
+		},
+		{
+			"author": "by Christina Baker Kline",
+			"description": "A historical novel about orphans swept off the streets of New York and sent to the Midwest in the 1920s.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062101204.jpg",
+			"name": "ORPHAN TRAIN",
+			"publisher": "Morrow/HarperCollins",
+			"rank": 9
+		},
+		{
+			"author": "by Lee Child",
+			"description": "In this e-book short story, Jack Reacher is on a summer hike when the trail is suddenly closed and the military police show up.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780804178839.jpg",
+			"name": "NOT A DRILL",
+			"publisher": "Delacorte",
+			"rank": 10
+		},
+		{
+			"author": "by Daniel Silva",
+			"description": "Gabriel Allon, an art restorer and occasional spy for the Israeli secret service, must track down a famous missing painting by Caravaggio.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062320070.jpg",
+			"name": "THE HEIST",
+			"publisher": "Harper",
+			"rank": 11
+		},
+		{
+			"author": "by Anthony Doerr",
+			"description": "The lives of a blind French girl and a gadget-obsessed German boy before and during World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476746586.jpg",
+			"name": "ALL THE LIGHT WE CANNOT SEE",
+			"publisher": "Scribner",
+			"rank": 12
+		},
+		{
+			"author": "by Diana Gabaldon",
+			"description": "Volume 2 of the Outlander series, about an 18th-century Scottish warrior and a time-traveling World War II-era nurse; first published in 1992.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780440335184.jpg",
+			"name": "DRAGONFLY IN AMBER",
+			"publisher": "Dell",
+			"rank": 13
+		},
+		{
+			"author": "by James Patterson and David Ellis",
+			"description": "Searching for her sister\u2019s killer, a former F.B.I. researcher finds a link between scores of unsolved cases.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316405409.jpg",
+			"name": "INVISIBLE",
+			"publisher": "Little, Brown",
+			"rank": 14
+		},
+		{
+			"author": "by Deborah Harkness",
+			"description": "In the conclusion to the All Souls trilogy, the Oxford scholar/witch Diana Bishop and the vampire geneticist Matthew Clairmont return from Elizabethan London to the present.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698163478.jpg",
+			"name": "THE BOOK OF LIFE",
+			"publisher": "Viking",
+			"rank": 15
+		}
+	]
+}

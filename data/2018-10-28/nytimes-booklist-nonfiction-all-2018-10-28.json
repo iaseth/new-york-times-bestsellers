@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "A look at the postwar manhunt for members of Hitler\u2019s inner circle.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250165541.jpg",
+			"name": "KILLING THE SS",
+			"publisher": "Holt",
+			"rank": 1
+		},
+		{
+			"author": "by Tucker Carlson",
+			"description": "The Fox News anchor argues that America\u2019s ruling class is out of touch with everyday citizens.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501183669.jpg",
+			"name": "SHIP OF FOOLS",
+			"publisher": "Free Press",
+			"rank": 2
+		},
+		{
+			"author": "by Michael Beschloss",
+			"description": "How American presidents waged wars and expanded the power of the executive branch.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307409607.jpg",
+			"name": "PRESIDENTS OF WAR",
+			"publisher": "Crown",
+			"rank": 3
+		},
+		{
+			"author": "by Bob Woodward",
+			"description": "Based on hours of interviews with sources, the Pulitzer Prize-winning journalist describes debates and decision-making within the Trump White House.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501175534.jpg",
+			"name": "FEAR",
+			"publisher": "Simon & Schuster",
+			"rank": 4
+		},
+		{
+			"author": "by Michael Lewis",
+			"description": "The author of \"The Big Short\" examines how the Trump administration staffs its federal agencies.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781324002642.jpg",
+			"name": "THE FIFTH RISK",
+			"publisher": "Norton",
+			"rank": 5
+		},
+		{
+			"author": "by Tara Westover",
+			"description": "The daughter of survivalists, who is kept out of school, educates herself enough to leave home for university.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399590504.jpg",
+			"name": "EDUCATED",
+			"publisher": "Random House",
+			"rank": 6
+		},
+		{
+			"author": "by David Grann",
+			"description": "The story of a murder spree in 1920s Oklahoma that targeted Osage Indians, whose lands contained oil.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385534246.jpg",
+			"name": "KILLERS OF THE FLOWER MOON",
+			"publisher": "Doubleday",
+			"rank": 7
+		},
+		{
+			"author": "by Sally Field",
+			"description": "A memoir by the two-time Academy Award and three-time Emmy Award winner.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538763025.jpg",
+			"name": "IN PIECES",
+			"publisher": "Grand Central",
+			"rank": 8
+		},
+		{
+			"author": "by Doris Kearns Goodwin",
+			"description": "The challenges that shaped the leadership abilities of four presidents: Abraham Lincoln, Theodore Roosevelt, Franklin D. Roosevelt and Lyndon B. Johnson.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476795928.jpg",
+			"name": "LEADERSHIP",
+			"publisher": "Simon & Schuster",
+			"rank": 9
+		},
+		{
+			"author": "by Scott Harrison with Lisa Sweetingham",
+			"description": "A memoir by the founder of the nonprofit Charity: Water.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524762841.jpg",
+			"name": "THIRST",
+			"publisher": "Currency",
+			"rank": 10
+		},
+		{
+			"author": "by Dan Bongino and D.C. McAllister with Matt Palumbo",
+			"description": "A case for how President Trump\u2019s opponents tried to sabotage the 2016 election.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781642930993.jpg",
+			"name": "SPYGATE",
+			"publisher": "Post Hill Press",
+			"rank": 11
+		},
+		{
+			"author": "by Yuval Noah Harari",
+			"description": "How Homo sapiens became Earth\u2019s dominant species.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062316097.jpg",
+			"name": "SAPIENS",
+			"publisher": "Harper",
+			"rank": 12
+		},
+		{
+			"author": "by Rebecca Traister",
+			"description": "The history and cultural significance of women's anger.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501181795.jpg",
+			"name": "GOOD AND MAD",
+			"publisher": "Simon & Schuster",
+			"rank": 13
+		},
+		{
+			"author": "by Michael Savage",
+			"description": "The conservative commentator uses the Salem Witch Trials and the Red Scares of the early 20th century to contextualize criticisms of President Trump.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781546082934.jpg",
+			"name": "STOP MASS HYSTERIA",
+			"publisher": "Center Street",
+			"rank": 14
+		},
+		{
+			"author": "by Jeanine Pirro",
+			"description": "The legal analyst and Fox News host argues in favor of President Trump.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781546083429.jpg",
+			"name": "LIARS, LEAKERS AND LIBERALS",
+			"publisher": "Center Street",
+			"rank": 15
+		}
+	]
+}

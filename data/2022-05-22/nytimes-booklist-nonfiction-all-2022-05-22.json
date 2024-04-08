@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "The 11th book in the conservative commentator\u2019s Killing series gives an account of the global war against terrorists.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250279255.jpg",
+			"name": "KILLING THE KILLERS",
+			"publisher": "St. Martin's",
+			"rank": 1
+		},
+		{
+			"author": "by Viola Davis",
+			"description": "The multiple award-winning actress describes the difficulties she encountered before claiming her sense of self and achieving professional success.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063037328.jpg",
+			"name": "FINDING ME",
+			"publisher": "HarperOne",
+			"rank": 2
+		},
+		{
+			"author": "by Jonathan Martin and Alexander Burns",
+			"description": "Two New York Times correspondents chronicle the 2020 election and the first year of the Biden presidency.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982172480.jpg",
+			"name": "THIS WILL NOT PASS",
+			"publisher": "Simon & Schuster",
+			"rank": 3
+		},
+		{
+			"author": "by Tina Brown",
+			"description": "This follow-up to \u201cThe Diana Chronicles\u201d details how the royal family reinvented itself after the death of Princess Diana.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593138090.jpg",
+			"name": "THE PALACE PAPERS",
+			"publisher": "Crown",
+			"rank": 4
+		},
+		{
+			"author": "by Jennifer Grey",
+			"description": "The actress details growing up the child of Joel Grey, her iconic film roles and the repercussions from a plastic surgery procedure.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593356708.jpg",
+			"name": "OUT OF THE CORNER",
+			"publisher": "Ballantine",
+			"rank": 5
+		},
+		{
+			"author": "by Bessel van der Kolk",
+			"description": "How trauma affects the body and mind, and innovative treatments for recovery.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780670785933.jpg",
+			"name": "THE BODY KEEPS THE SCORE",
+			"publisher": "Penguin",
+			"rank": 6
+		},
+		{
+			"author": "by Jon Krakauer",
+			"description": "Two brothers who subscribed to a fundamentalist version of Mormonism killed a woman and her daughter; the basis of the TV series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400032808.jpg",
+			"name": "UNDER THE BANNER OF HEAVEN",
+			"publisher": "Anchor",
+			"rank": 7
+		},
+		{
+			"author": "by Paul Holes",
+			"description": "A memoir by a former cold case investigator who worked on several notable cases, including the identification of the Golden State Killer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250622792.jpg",
+			"name": "UNMASKED",
+			"publisher": "Celadon",
+			"rank": 8
+		},
+		{
+			"author": "by Michelle Zauner",
+			"description": "The daughter of a Korean mother and Jewish-American father, and leader of the indie rock project Japanese Breakfast, describes creating her own identity after losing her mother to cancer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525657743.jpg",
+			"name": "CRYING IN H MART",
+			"publisher": "Knopf",
+			"rank": 9
+		},
+		{
+			"author": "by Robin Wall Kimmerer",
+			"description": "A botanist and member of the Citizen Potawatomi Nation espouses having an understanding and appreciation of plants and animals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781571313560.jpg",
+			"name": "BRAIDING SWEETGRASS",
+			"publisher": "Milkweed Editions",
+			"rank": 10
+		},
+		{
+			"author": "by Bill Browder",
+			"description": "The author of \u201cRed Notice\u201d tells his story of becoming Vladimir Putin\u2019s enemy by uncovering a $230 million tax refund scheme.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982153281.jpg",
+			"name": "FREEZING ORDER",
+			"publisher": "Simon & Schuster",
+			"rank": 11
+		},
+		{
+			"author": "by Amy Odell",
+			"description": "A biography of the editor in chief of American Vogue and the chief content officer of Cond\u00e9 Nast, Anna Wintour.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982122638.jpg",
+			"name": "ANNA",
+			"publisher": "Gallery",
+			"rank": 12
+		},
+		{
+			"author": "by Tyrus",
+			"description": "A memoir by the pro wrestler and Fox News political commentator.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781637580660.jpg",
+			"name": "JUST TYRUS",
+			"publisher": "Post Hill",
+			"rank": 13
+		},
+		{
+			"author": "by Bruce D. Perry and Oprah Winfrey",
+			"description": "An approach to dealing with trauma that shifts an essential question used to investigate it.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250223180.jpg",
+			"name": "WHAT HAPPENED TO YOU?",
+			"publisher": "Flatiron",
+			"rank": 14
+		},
+		{
+			"author": "by Jessi Klein",
+			"description": "A collection of comedic essays on motherhood and middle age by the Emmy Award-winning writer and producer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062981592.jpg",
+			"name": "I'LL SHOW MYSELF OUT",
+			"publisher": "Harper",
+			"rank": 15
+		}
+	]
+}

@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Rebecca Yarros",
+			"description": "The second book in the Empyrean series. Violet Sorrengail\u2019s next round of training might require her to betray the man she loves.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781649374172.jpg",
+			"name": "IRON FLAME",
+			"publisher": "Red Tower",
+			"rank": 1
+		},
+		{
+			"author": "by Rebecca Yarros",
+			"description": "Violet Sorrengail is urged by the commanding general, who also is her mother, to become a candidate for the elite dragon riders.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781649374042.jpg",
+			"name": "FOURTH WING",
+			"publisher": "Red Tower",
+			"rank": 2
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "The second book in the 6:20 Man series. Travis Devine investigates the murder of the C.I.A. operative Jenny Silkwell in rural Maine.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538719916.jpg",
+			"name": "THE EDGE",
+			"publisher": "Grand Central",
+			"rank": 3
+		},
+		{
+			"author": "by Martha Wells",
+			"description": "The seventh book in the Murderbot Diaries series. The Barish-Estranza corporation might take a colony of humans to use as a free workforce.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250826978.jpg",
+			"name": "SYSTEM COLLAPSE",
+			"publisher": "Tordotcom",
+			"rank": 4
+		},
+		{
+			"author": "by Mitch Albom",
+			"description": "The actions of an 11-year-old boy help facilitate the delivery of Jewish residents, including his family, to Auschwitz.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062406651.jpg",
+			"name": "THE LITTLE LIAR",
+			"publisher": "Harper",
+			"rank": 5
+		},
+		{
+			"author": "by John Grisham",
+			"description": "In a sequel to \u201cThe Firm,\u201d Mitch McDeere, who is now a partner at the world\u2019s largest law firm, gets caught up in a sinister plot.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385548953.jpg",
+			"name": "THE EXCHANGE",
+			"publisher": "Doubleday",
+			"rank": 6
+		},
+		{
+			"author": "by Patrick Rothfuss",
+			"description": "Things go awry when Bast accepts a gift.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780756419172.jpg",
+			"name": "THE NARROW ROAD BETWEEN DESIRES",
+			"publisher": "DAW",
+			"rank": 7
+		},
+		{
+			"author": "by James McBride",
+			"description": "Secrets held by the residents of a dilapidated neighborhood come to life when a skeleton is found at the bottom of a well.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593422946.jpg",
+			"name": "THE HEAVEN & EARTH GROCERY STORE",
+			"publisher": "Riverhead",
+			"rank": 8
+		},
+		{
+			"author": "by Michael Connelly",
+			"description": "The seventh book in the Lincoln Lawyer series. Haller and Bosch team up to prove the innocence of a woman in prison for killing her husband.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316563765.jpg",
+			"name": "RESURRECTION WALK",
+			"publisher": "Little, Brown",
+			"rank": 9
+		},
+		{
+			"author": "by Anthony Doerr",
+			"description": "The lives of a blind French girl and a gadget-obsessed German boy before and during World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476746586.jpg",
+			"name": "ALL THE LIGHT WE CANNOT SEE",
+			"publisher": "Scribner",
+			"rank": 10
+		},
+		{
+			"author": "by Bonnie Garmus",
+			"description": "A scientist and single mother living in California in the 1960s becomes a star on a TV cooking show.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385547345.jpg",
+			"name": "LESSONS IN CHEMISTRY",
+			"publisher": "Doubleday",
+			"rank": 11
+		},
+		{
+			"author": "by Lee Child and Andrew Child",
+			"description": "The 28th book in the Jack Reacher series. It\u2019s 1992 and Reacher looks into the cause of a string of mysterious deaths.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984818584.jpg",
+			"name": "THE SECRET",
+			"publisher": "Delacorte",
+			"rank": 12
+		},
+		{
+			"author": "by Janet Evanovich",
+			"description": "The 30th book in the Stephanie Plum series. Plum tracks a local jeweler\u2019s former security guard and has an overnight stakeout with relatives.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781668003091.jpg",
+			"name": "DIRTY THIRTY",
+			"publisher": "Atria",
+			"rank": 13
+		},
+		{
+			"author": "by Hannah Grace",
+			"description": "Anastasia might need the help of the captain of a college hockey team to get on the Olympic figure skating team.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781668026038.jpg",
+			"name": "ICEBREAKER",
+			"publisher": "Atria",
+			"rank": 14
+		},
+		{
+			"author": "by Freida McFadden",
+			"description": "Troubles surface when a woman looking to make a fresh start takes a job in the home of the Winchesters.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538742570.jpg",
+			"name": "THE HOUSEMAID",
+			"publisher": "Grand Central",
+			"rank": 15
+		}
+	]
+}

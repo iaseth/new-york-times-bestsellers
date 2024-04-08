@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Sue Monk Kidd",
+			"description": "The relationship between a wealthy Charleston girl, Sarah Grimk\u00e9, who will grow up to become a prominent abolitionist, and the slave she is given for her 11th birthday.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780670024780.jpg",
+			"name": "THE INVENTION OF WINGS",
+			"publisher": "Viking",
+			"rank": 1
+		},
+		{
+			"author": "by Donna Tartt",
+			"description": "A painting smuggled out of the Metropolitan Museum of Art after a bombing becomes a boy\u2019s prize, guilt and burden.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316248679.jpg",
+			"name": "THE GOLDFINCH",
+			"publisher": "Little, Brown",
+			"rank": 2
+		},
+		{
+			"author": "by Christine Feehan",
+			"description": "The 25th book in the Carpathian series follows the story of Skyler Daratrazanoff and Dimitri Tirunul begun in \u201cDark Lycan.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698136922.jpg",
+			"name": "DARK WOLF",
+			"publisher": "Berkley",
+			"rank": 3
+		},
+		{
+			"author": "by Lisa Gardner",
+			"description": "The Boston detective D.\u2009D. Warren, seriously injured at a crime scene, is treated by a pain therapist whose father was a serial killer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698148529.jpg",
+			"name": "FEAR NOTHING",
+			"publisher": "Dutton",
+			"rank": 4
+		},
+		{
+			"author": "by John Grisham",
+			"description": "A sequel, about race and inheritance, to \u201cA Time to Kill.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385537926.jpg",
+			"name": "SYCAMORE ROW",
+			"publisher": "Doubleday",
+			"rank": 5
+		},
+		{
+			"author": "by Stuart Woods",
+			"description": "In the 28th Stone Barrington novel, the New York lawyer takes on a complicated new client.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399164156.jpg",
+			"name": "STANDUP GUY",
+			"publisher": "Putnam",
+			"rank": 6
+		},
+		{
+			"author": "by Maya Banks",
+			"description": "Donovan Kelly, part of an elite, family-run task force, tries to protect a beautiful stranger whose dark past is closing in on her.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101602607.jpg",
+			"name": "AFTER THE STORM",
+			"publisher": "Berkley",
+			"rank": 7
+		},
+		{
+			"author": "by Jayne Ann Krentz",
+			"description": "When Lucy Sheridan returns to the California town of Summer River after her aunt\u2019s death, she discovers that the events of her last visit there were more complicated than she knew.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101620984.jpg",
+			"name": "RIVER ROAD",
+			"publisher": "Putnam",
+			"rank": 8
+		},
+		{
+			"author": "by Gillian Flynn",
+			"description": "A woman disappears on the day of her fifth anniversary; is her husband a killer?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307588388.jpg",
+			"name": "GONE GIRL",
+			"publisher": "Crown",
+			"rank": 9
+		},
+		{
+			"author": "by Liane Moriarty",
+			"description": "A woman\u2019s life is upended when she discovers a letter from her husband she was not meant to read.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101636237.jpg",
+			"name": "THE HUSBAND'S SECRET",
+			"publisher": "Amy Einhorn/Putnam",
+			"rank": 10
+		},
+		{
+			"author": "by Tom Clancy with Mark Greaney",
+			"description": "President Jack Ryan and his son, a covert intelligence expert, try to counter a Russian threat in Clancy\u2019s last novel before his death.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101636497.jpg",
+			"name": "COMMAND AUTHORITY",
+			"publisher": "Putnam",
+			"rank": 11
+		},
+		{
+			"author": "by Jay Crownover",
+			"description": "Cora Lewis is searching for a quiet man, but instead she falls in love with Rome Archer, whose final tour of duty has shaken him; a Marked Men novel.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062302397.jpg",
+			"name": "ROME",
+			"publisher": "Morrow/HarperCollins",
+			"rank": 12
+		},
+		{
+			"author": "by Graeme Simsion",
+			"description": "A man with Asperger's syndrome becomes involved with an unconventional woman.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476729091.jpg",
+			"name": "THE ROSIE PROJECT",
+			"publisher": "Simon & Schuster",
+			"rank": 13
+		},
+		{
+			"author": "by J. Kenner",
+			"description": "A new series of erotic novels; this one features the sexy Evan Black.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780804176675.jpg",
+			"name": "WANTED",
+			"publisher": "Bantam",
+			"rank": 14
+		},
+		{
+			"author": "by Bernard Cornwell",
+			"description": "The fate of the English nation is at stake as the Saxon kingdom battles the Danes in the early 10th century.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062199348.jpg",
+			"name": "THE PAGAN LORD",
+			"publisher": "Harper",
+			"rank": 15
+		}
+	]
+}

@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Paula Hawkins",
+			"description": "A psychological thriller set in the environs of London is full of complications and betrayals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594633669.jpg",
+			"name": "THE GIRL ON THE TRAIN",
+			"publisher": "Riverhead",
+			"rank": 1
+		},
+		{
+			"author": "by Harlan Coben",
+			"description": "Myron Bolitar and his friend Win locate a boy who was kidnapped 10 years earlier; the 11th Myron Bolitar novel.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698411449.jpg",
+			"name": "HOME",
+			"publisher": "Dutton",
+			"rank": 2
+		},
+		{
+			"author": "by Helen Hardt",
+			"description": "To further his relationship with Jade, Talon must close a dark chapter from his past.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781943893195.jpg",
+			"name": "POSSESSION",
+			"publisher": "Waterhouse",
+			"rank": 3
+		},
+		{
+			"author": "by James Patterson and Maxine Paetro",
+			"description": "The story of a (woman) doctor who, after a life of service and suffering, decides to become a Catholic priest.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316274029.jpg",
+			"name": "WOMAN OF GOD",
+			"publisher": "Little, Brown",
+			"rank": 4
+		},
+		{
+			"author": "by Fredrik Backman",
+			"description": "A curmudgeon's gruff exterior masks a generosity of spirit. Originally published in Sweden in 2014.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476738024.jpg",
+			"name": "A MAN CALLED OVE",
+			"publisher": "Washington Square",
+			"rank": 5
+		},
+		{
+			"author": "by Ann Patchett",
+			"description": "Five decades in the lives of two families \u2014 parents, children, siblings, stepchildren \u2014 remade by divorce.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062491817.jpg",
+			"name": "COMMONWEALTH",
+			"publisher": "Harper/HarperCollins",
+			"rank": 6
+		},
+		{
+			"author": "by Elle Kennedy",
+			"description": "Pregnancy complicates the budding relationship between a college senior and a hockey player.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780994054432.jpg",
+			"name": "THE GOAL",
+			"publisher": "Elle Kennedy",
+			"rank": 7
+		},
+		{
+			"author": "by M. L. Stedman",
+			"description": "An Australian lighthouse keeper and his wife decide to keep a baby who has washed ashore.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451681758.jpg",
+			"name": "THE LIGHT BETWEEN OCEANS",
+			"publisher": "Scribner",
+			"rank": 8
+		},
+		{
+			"author": "by RaeAnne Thayne",
+			"description": "A blizzard puts a widow and a grumpy sheriff in close quarters.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780373789894.jpg",
+			"name": "SNOWFALL ON HAVEN POINT",
+			"publisher": "HQN",
+			"rank": 9
+		},
+		{
+			"author": "by Dan Brown",
+			"description": "The symbologist Robert Langdon, on the run in Florence, must decipher a series of codes created by a Dante-loving scientist.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400079155.jpg",
+			"name": "INFERNO",
+			"publisher": "Anchor",
+			"rank": 10
+		},
+		{
+			"author": "by Heather Graham",
+			"description": "When her father is suspected of murder, Charlie and a new member of the Krewe of Hunters team look for answers on a paddle-wheeler cruise.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781460395929.jpg",
+			"name": "DARKEST JOURNEY",
+			"publisher": "Mira",
+			"rank": 11
+		},
+		{
+			"author": "by Joanne Fluke",
+			"description": "When a corpse is discovered in the snow in Lake Eden, Minn., the baker Hannah Swensen helps the police. Recipes included. The 20th book in the series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781617732287.jpg",
+			"name": "CHRISTMAS CARAMEL MURDER",
+			"publisher": "Kensington",
+			"rank": 12
+		},
+		{
+			"author": "by Robyn Carr",
+			"description": "A woman escaping the scandal surrounding her husband's suicide seeks out a former best friend.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781460395950.jpg",
+			"name": "THE LIFE SHE WANTS",
+			"publisher": "Mira",
+			"rank": 13
+		},
+		{
+			"author": "by Ruth Ware",
+			"description": "A travel writer on a cruise is certain she has heard a body thrown overboard, but no one believes her.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501132940.jpg",
+			"name": "THE WOMAN IN CABIN 10",
+			"publisher": "Scout",
+			"rank": 14
+		},
+		{
+			"author": "by Carl Hiaasen",
+			"description": "The ex-cop Andrew Yancy\u200b from \u200b\u201cBad Monkey\u201d gets involved in a kidnapping gone wrong.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385349758.jpg",
+			"name": "RAZOR GIRL",
+			"publisher": "Knopf",
+			"rank": 15
+		}
+	]
+}

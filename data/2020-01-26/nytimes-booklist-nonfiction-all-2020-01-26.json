@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Tara Westover",
+			"description": "The daughter of survivalists, who is kept out of school, educates herself enough to leave home for university.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399590504.jpg",
+			"name": "EDUCATED",
+			"publisher": "Random House",
+			"rank": 1
+		},
+		{
+			"author": "by Bryan Stevenson",
+			"description": "A law professor and MacArthur grant recipient\u2019s memoir of his decades of work to free innocent people condemned to death.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812994520.jpg",
+			"name": "JUST MERCY",
+			"publisher": "Spiegel & Grau",
+			"rank": 2
+		},
+		{
+			"author": "by Malcolm Gladwell",
+			"description": "Famous examples of miscommunication serve as the backdrop to explain potential conflicts and misunderstandings.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316478526.jpg",
+			"name": "TALKING TO STRANGERS",
+			"publisher": "Little, Brown",
+			"rank": 3
+		},
+		{
+			"author": "by Michelle Obama",
+			"description": "The former first lady describes her journey from the South Side of Chicago to the White House, and how she balanced work, family and her husband\u2019s political ascent.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524763138.jpg",
+			"name": "BECOMING",
+			"publisher": "Crown",
+			"rank": 4
+		},
+		{
+			"author": "by Lori Gottlieb",
+			"description": "A psychotherapist gains unexpected insights when she becomes another therapist\u2019s patient.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781328662057.jpg",
+			"name": "MAYBE YOU SHOULD TALK TO SOMEONE",
+			"publisher": "Houghton Mifflin Harcourt",
+			"rank": 5
+		},
+		{
+			"author": "by Bessel van der Kolk",
+			"description": "How trauma affects the body and mind, and innovative treatments for recovery.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780670785933.jpg",
+			"name": "THE BODY KEEPS THE SCORE",
+			"publisher": "Penguin",
+			"rank": 6
+		},
+		{
+			"author": "by Ronan Farrow",
+			"description": "The Pulitzer Prize-winning reporter details some surveillance and intimidation tactics used to pressure journalists and elude consequences by certain wealthy and connected men.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316486637.jpg",
+			"name": "CATCH AND KILL",
+			"publisher": "Little, Brown",
+			"rank": 7
+		},
+		{
+			"author": "by Yuval Noah Harari",
+			"description": "How Homo sapiens became Earth\u2019s dominant species.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062316097.jpg",
+			"name": "SAPIENS",
+			"publisher": "Harper",
+			"rank": 8
+		},
+		{
+			"author": "by Matthew Walker",
+			"description": "A neuroscientist uses recent scientific discoveries to explain the functions of sleep and dreams.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501144318.jpg",
+			"name": "WHY WE SLEEP",
+			"publisher": "Scribner",
+			"rank": 9
+		},
+		{
+			"author": "by David Epstein",
+			"description": "An argument for how generalists excel more than specialists, especially in complex and unpredictable fields.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735214484.jpg",
+			"name": "RANGE",
+			"publisher": "Riverhead",
+			"rank": 10
+		},
+		{
+			"author": "by Bill Bryson",
+			"description": "An owner\u2019s manual of the human body covering various parts, functions and what happens when things go wrong.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385539302.jpg",
+			"name": "THE BODY",
+			"publisher": "Doubleday",
+			"rank": 11
+		},
+		{
+			"author": "by Daniel J. Levitin",
+			"description": "A neuroscientist suggests using resilience strategies as we grow older.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524744182.jpg",
+			"name": "SUCCESSFUL AGING",
+			"publisher": "Dutton",
+			"rank": 12
+		},
+		{
+			"author": "by Peggy Orenstein",
+			"description": "How young men comprehend cultural forces and navigate sexual and emotional relationships.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062666970.jpg",
+			"name": "BOYS & SEX",
+			"publisher": "Harper",
+			"rank": 13
+		},
+		{
+			"author": "by Elton John",
+			"description": "The multi-award-winning solo artist's first autobiography chronicles his career, relationships and private struggles.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250147608.jpg",
+			"name": "ME",
+			"publisher": "Holt",
+			"rank": 14
+		},
+		{
+			"author": "by Patrick Radden Keefe",
+			"description": "A look at the conflict in Northern Ireland known as the Troubles.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385521314.jpg",
+			"name": "SAY NOTHING",
+			"publisher": "Doubleday",
+			"rank": 15
+		}
+	]
+}

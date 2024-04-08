@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "The host of \u201cThe O\u2019Reilly Factor\u201d recounts the events surrounding the assassination of John F. Kennedy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780805096668.jpg",
+			"name": "KILLING KENNEDY",
+			"publisher": "Henry Holt & Company",
+			"rank": 1
+		},
+		{
+			"author": "by Mark Owen with Kevin Maurer",
+			"description": "An account of the mission that killed Osama bin Laden, by a former member of the Navy SEALs.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101611302.jpg",
+			"name": "NO EASY DAY",
+			"publisher": "Penguin Group",
+			"rank": 2
+		},
+		{
+			"author": "by Arnold Schwarzenegger with Peter Petre",
+			"description": "A memoir by the actor, a former body builder and California governor.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451662450.jpg",
+			"name": "TOTAL RECALL",
+			"publisher": "Simon & Schuster",
+			"rank": 3
+		},
+		{
+			"author": "by Stephen Colbert and others",
+			"description": "The mock pundit of Comedy Central\u2019s \u201cColbert Report\u201d tells how to bring America back from the brink.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780446583978.jpg",
+			"name": "AMERICA AGAIN",
+			"publisher": "Grand Central Publishing",
+			"rank": 4
+		},
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "The host of \u201cThe O\u2019Reilly Factor\u201d recounts the assassination of Abraham Lincoln.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780805093070.jpg",
+			"name": "KILLING LINCOLN",
+			"publisher": "Henry Holt & Company",
+			"rank": 5
+		},
+		{
+			"author": "by Glenn Beck and Kevin Balfe",
+			"description": "Thirteen lies that politicians, academics and the media perpetuate.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451694833.jpg",
+			"name": "COWARDS",
+			"publisher": "Threshold Editions/Mercury Radio Arts",
+			"rank": 6
+		},
+		{
+			"author": "by Neil Young",
+			"description": "The rocker\u2019s memoir ranges over his personal life and his music.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399159466.jpg",
+			"name": "WAGING HEAVY PEACE",
+			"publisher": "Penguin Group",
+			"rank": 7
+		},
+		{
+			"author": "by Nicholas D. Kristof and Sheryl WuDunn",
+			"description": "A case for viewing women\u2019s equality as our \u201cparamount moral challenge.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307387097.jpg",
+			"name": "HALF THE SKY",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 8
+		},
+		{
+			"author": "by Bob Woodward",
+			"description": "Inside the debt-ceiling negotiations of 2011 with the Washington Post journalist.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451651102.jpg",
+			"name": "THE PRICE OF POLITICS",
+			"publisher": "Simon & Schuster",
+			"rank": 9
+		},
+		{
+			"author": "by Paul Tough",
+			"description": "An argument that the qualities that matter most have to do with character, not intelligence.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780544104402.jpg",
+			"name": "HOW CHILDREN SUCCEED",
+			"publisher": "Houghton Mifflin Harcourt Publishing",
+			"rank": 10
+		},
+		{
+			"author": "by Ann Coulter",
+			"description": "The political commentator traces racial demagoguery from the 1970s to the present.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781595230997.jpg",
+			"name": "MUGGED",
+			"publisher": "Penguin Group",
+			"rank": 11
+		},
+		{
+			"author": "by Laura Hillenbrand",
+			"description": "An Olympic runner\u2019s story of survival as a prisoner of the Japanese in World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400064168.jpg",
+			"name": "UNBROKEN",
+			"publisher": "Random House Publishing",
+			"rank": 12
+		},
+		{
+			"author": "by Dakota Meyer and Bing West",
+			"description": "A Medal of Honor winner\u2019s firsthand account of a crucial battle in the Afghan war.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812993400.jpg",
+			"name": "INTO THE FIRE",
+			"publisher": "Random House Publishing",
+			"rank": 13
+		},
+		{
+			"author": "by Cheryl Strayed",
+			"description": "A woman\u2019s account of a life-changing 1,100-mile hike along the Pacific Crest Trail.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307476074.jpg",
+			"name": "WILD",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 14
+		},
+		{
+			"author": "by Will Schwalbe",
+			"description": "Conversations between the author and his mother as she was dying of cancer often focused on books.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307961112.jpg",
+			"name": "THE END OF YOUR LIFE BOOK CLUB",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 15
+		}
+	]
+}

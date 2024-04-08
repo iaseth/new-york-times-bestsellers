@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Katie Couric",
+			"description": "The former anchor of the \u201cCBS Evening News\u201d and \u201cToday\u201d describes some of the personal and professional challenges she faced.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316535861.jpg",
+			"name": "GOING THERE",
+			"publisher": "Little, Brown",
+			"rank": 1
+		},
+		{
+			"author": "by Barack Obama and Bruce Springsteen",
+			"description": "Conversations between the 44th president and the multiple award-winning musician on a range of topics.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593236314.jpg",
+			"name": "RENEGADES",
+			"publisher": "Crown",
+			"rank": 2
+		},
+		{
+			"author": "by Daniel Levy and Eugene Levy",
+			"description": "Character profiles, major story moments and behind-the-scenes tales from the Emmy Award-winning series \u201cSchitt's Creek.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780762499502.jpg",
+			"name": "BEST WISHES, WARMEST REGARDS",
+			"publisher": "Black Dog & Leventhal",
+			"rank": 3
+		},
+		{
+			"author": "by Dave Quinn",
+			"description": "An oral history of the reality TV franchise \u201cThe Real Housewives.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250765789.jpg",
+			"name": "NOT ALL DIAMONDS AND ROS\u00c9",
+			"publisher": "Andy Cohen",
+			"rank": 4
+		},
+		{
+			"author": "by Dave Grohl",
+			"description": "A memoir by the musician known for his work with Foo Fighters and Nirvana.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063076099.jpg",
+			"name": "THE STORYTELLER",
+			"publisher": "Dey Street",
+			"rank": 5
+		},
+		{
+			"author": "by Bob Woodward and Robert Costa",
+			"description": "The Washington Post journalists detail the dangers and challenges during the transition to the Biden presidency.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982182915.jpg",
+			"name": "PERIL",
+			"publisher": "Simon & Schuster",
+			"rank": 6
+		},
+		{
+			"author": "by Ron Howard and Clint Howard",
+			"description": "The Howard brothers credit their success in Hollywood to their Midwestern parents, Rance and Jean.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063065246.jpg",
+			"name": "THE BOYS",
+			"publisher": "Morrow",
+			"rank": 7
+		},
+		{
+			"author": "by John McWhorter",
+			"description": "The linguist gives his assessment of antiracism and offers a plan that he believes will provide justice for Black America.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593423066.jpg",
+			"name": "WOKE RACISM",
+			"publisher": "Portfolio",
+			"rank": 8
+		},
+		{
+			"author": "by Bret Baier with Catherine Whitney",
+			"description": "The Fox News chief political anchor recounts challenges faced by Ulysses S. Grant.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063039544.jpg",
+			"name": "TO RESCUE THE REPUBLIC",
+			"publisher": "Custom House",
+			"rank": 9
+		},
+		{
+			"author": "by Bessel van der Kolk",
+			"description": "How trauma affects the body and mind, and innovative treatments for recovery.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780670785933.jpg",
+			"name": "THE BODY KEEPS THE SCORE",
+			"publisher": "Penguin",
+			"rank": 10
+		},
+		{
+			"author": "by Stanley Tucci",
+			"description": "The award-winning actor reflects on his career, Italian-American heritage, meals and mishaps.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982168018.jpg",
+			"name": "TASTE",
+			"publisher": "Gallery",
+			"rank": 11
+		},
+		{
+			"author": "by Adam Schiff",
+			"description": "The congressman from California describes risks to our democracy and the resurgence of autocracy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593231524.jpg",
+			"name": "MIDNIGHT IN WASHINGTON",
+			"publisher": "Random House",
+			"rank": 12
+		},
+		{
+			"author": "by Anderson Cooper and Katherine Howe",
+			"description": "The CNN host and descendant of the Vanderbilt family charts the rise and fall of this American dynasty.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062964618.jpg",
+			"name": "VANDERBILT",
+			"publisher": "Harper",
+			"rank": 13
+		},
+		{
+			"author": "by Jane Goodall and Douglas Abrams with Gail Hudson",
+			"description": "The naturalist explores an element of human nature during a time of multiple crises in areas of health, climate and politics.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250784094.jpg",
+			"name": "THE BOOK OF HOPE",
+			"publisher": "Celadon",
+			"rank": 14
+		},
+		{
+			"author": "by James Patterson and Matt Eversmann with Chris Mooney",
+			"description": "A collection of stories from people working in big-city and small-town hospitals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780759554269.jpg",
+			"name": "E.R. NURSES",
+			"publisher": "Little, Brown",
+			"rank": 15
+		}
+	]
+}

@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Robert Galbraith",
+			"description": "The seventh book in the Cormoran Strike series. Strike's business partner, Robin Ellacott, goes inside a cult to rescue someone who has joined it.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316572101.jpg",
+			"name": "THE RUNNING GRAVE",
+			"publisher": "Mulholland",
+			"rank": 1
+		},
+		{
+			"author": "by Ken Follett",
+			"description": "The fifth book in the Kingsbridge series. Change and turmoil affect various aspects of society in the latter part of the 18th century.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525954996.jpg",
+			"name": "THE ARMOR OF LIGHT",
+			"publisher": "Viking",
+			"rank": 2
+		},
+		{
+			"author": "by Rebecca Yarros",
+			"description": "Violet Sorrengail is urged by the commanding general, who also is her mother, to become a candidate for the elite dragon riders.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781649374042.jpg",
+			"name": "FOURTH WING",
+			"publisher": "Red Tower",
+			"rank": 3
+		},
+		{
+			"author": "by James Patterson and Mike Lupica",
+			"description": "A criminal defense attorney who received a terminal diagnosis might be in danger of being murdered.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316405690.jpg",
+			"name": "12 MONTHS TO LIVE",
+			"publisher": "Little, Brown",
+			"rank": 4
+		},
+		{
+			"author": "by Sarah J. Maas",
+			"description": "The second book in the Crescent City series. Bryce Quinlan and Hunt Athalar must choose to fight or stay silent.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781635574074.jpg",
+			"name": "HOUSE OF SKY AND BREATH",
+			"publisher": "Bloomsbury",
+			"rank": 5
+		},
+		{
+			"author": "by Stephen King",
+			"description": "The private detective Holly Gibney investigates whether a married pair of octogenarian academics had anything to do with Bonnie Dahl\u2019s disappearance.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781668016138.jpg",
+			"name": "HOLLY",
+			"publisher": "Scribner",
+			"rank": 6
+		},
+		{
+			"author": "by Sarah J. Maas",
+			"description": "Passion arises between Bryce Quinlan and Hunt Athalar as they seek to avenge the deaths of Bryce\u2019s friends.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781635574043.jpg",
+			"name": "HOUSE OF EARTH AND BLOOD",
+			"publisher": "Bloomsbury",
+			"rank": 7
+		},
+		{
+			"author": "by Ann Patchett",
+			"description": "Three daughters, who return to their family orchard in the spring of 2020, learn about their mother\u2019s relationship with a famous actor.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063327528.jpg",
+			"name": "TOM LAKE",
+			"publisher": "Harper",
+			"rank": 8
+		},
+		{
+			"author": "by Bonnie Garmus",
+			"description": "A scientist and single mother living in California in the 1960s becomes a star on a TV cooking show.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385547345.jpg",
+			"name": "LESSONS IN CHEMISTRY",
+			"publisher": "Doubleday",
+			"rank": 9
+		},
+		{
+			"author": "by Lucy Score",
+			"description": "The third book in the Knockemout series. A mogul and a small-town librarian share a dark secret from their past.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781728276120.jpg",
+			"name": "THINGS WE LEFT BEHIND",
+			"publisher": "Bloom",
+			"rank": 10
+		},
+		{
+			"author": "by Freida McFadden",
+			"description": "Troubles surface when a woman looking to make a fresh start takes a job in the home of the Winchesters.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538742570.jpg",
+			"name": "THE HOUSEMAID",
+			"publisher": "Grand Central",
+			"rank": 11
+		},
+		{
+			"author": "by V.E. Schwab",
+			"description": "Tes, a girl who possesses a magical ability, has a device that might alter the fate of four worlds connected to London.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780765387493.jpg",
+			"name": "THE FRAGILE THREADS OF POWER",
+			"publisher": "Tor",
+			"rank": 12
+		},
+		{
+			"author": "by Hannah Grace",
+			"description": "Anastasia might need the help of the captain of a college hockey team to get on the Olympic figure skating team.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781668026038.jpg",
+			"name": "ICEBREAKER",
+			"publisher": "Atria",
+			"rank": 13
+		},
+		{
+			"author": "by Mary Kay Andrews",
+			"description": "A Christmas tree farmer from North Carolina sets up a stand in Greenwich Village and comes to the aid of nearby residents.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250285812.jpg",
+			"name": "BRIGHT LIGHTS, BIG CHRISTMAS",
+			"publisher": "St. Martin's",
+			"rank": 14
+		},
+		{
+			"author": "by Abraham Verghese",
+			"description": "Three generations of a family living on South India\u2019s Malabar Coast suffer the loss of a family member by drowning.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780802162175.jpg",
+			"name": "THE COVENANT OF WATER",
+			"publisher": "Grove",
+			"rank": 15
+		}
+	]
+}

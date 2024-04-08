@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by James Patterson and Maxine Paetro",
+			"description": "When a former lover\u2019s dead body is found in his bed, Jack Morgan, a former Marine and the head of an investigative firm, is accused of murder.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316097413.jpg",
+			"name": "PRIVATE: #1 SUSPECT",
+			"publisher": "Grand Central",
+			"rank": 1
+		},
+		{
+			"author": "by Stieg Larsson",
+			"description": "A hacker and a journalist investigate the disappearance of a Swedish heiress 40 years earlier.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307949486.jpg",
+			"name": "THE GIRL WITH THE DRAGON TATTOO",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 2
+		},
+		{
+			"author": "by Kathryn Stockett",
+			"description": "A young white woman and two black maids in 1960s Mississippi.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781440697661.jpg",
+			"name": "THE HELP",
+			"publisher": "Penguin Group",
+			"rank": 3
+		},
+		{
+			"author": "by Stieg Larsson",
+			"description": "In the second volume of the Millennium trilogy, a Swedish hacker becomes a murder suspect.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307476159.jpg",
+			"name": "THE GIRL WHO PLAYED WITH FIRE",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 4
+		},
+		{
+			"author": "by Stephen King",
+			"description": "An English teacher travels back to 1958 by way of a time portal in a Maine diner. His assignment is to stop Lee Harvey Oswald.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451627299.jpg",
+			"name": "11/22/63",
+			"publisher": "Scribner",
+			"rank": 5
+		},
+		{
+			"author": "by Janet Evanovich and Dorien Kelly",
+			"description": "A former magazine editor wants to turn her parents\u2019 summer house into a bed-and-breakfast.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781429952514.jpg",
+			"name": "LOVE IN A NUTSHELL",
+			"publisher": "St. Martin\u2019s Press",
+			"rank": 6
+		},
+		{
+			"author": "by Jonathan Safran Foer",
+			"description": "A 9-year-old boy searches New York City for the lock that fits a key belonging to his father, who died on Sept. 11.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780618711659.jpg",
+			"name": "EXTREMELY LOUD AND INCREDIBLY CLOSE",
+			"publisher": "Houghton Mifflin Harcourt Publishing",
+			"rank": 7
+		},
+		{
+			"author": "by John Grisham",
+			"description": "Partners in a small law firm take on a big case after a fast-track burnout joins them.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385535137.jpg",
+			"name": "THE LITIGATORS",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 8
+		},
+		{
+			"author": "by Stieg Larsson",
+			"description": "The third volume of the Millennium trilogy, about a Swedish hacker and a journalist.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307593672.jpg",
+			"name": "THE GIRL WHO KICKED THE HORNET\u2019S NEST",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 9
+		},
+		{
+			"author": "by James Patterson",
+			"description": "Alex Cross investigates when the president\u2019s children are kidnapped, but the F.BI. and C.I.A. interfere.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455510207.jpg",
+			"name": "KILL ALEX CROSS",
+			"publisher": "Little, Brown & Company",
+			"rank": 10
+		},
+		{
+			"author": "by Nicholas Sparks",
+			"description": "A man and woman who have gone their separate ways return to their Southern town for the funeral of a friend.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455502547.jpg",
+			"name": "THE BEST OF ME",
+			"publisher": "Grand Central Publishing",
+			"rank": 11
+		},
+		{
+			"author": "by Sara Gruen",
+			"description": "After his parents die in a car accident, a young veterinary student \u2014 and an elephant \u2014 save a Depression-era circus.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781616200718.jpg",
+			"name": "WATER FOR ELEPHANTS",
+			"publisher": "Algonquin",
+			"rank": 12
+		},
+		{
+			"author": "by Michael Connelly",
+			"description": "Harry Bosch of the L.A.P.D. uncovers both the operations of a sadistic killer and a political conspiracy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455518982.jpg",
+			"name": "THE DROP",
+			"publisher": "Little, Brown & Company",
+			"rank": 13
+		},
+		{
+			"author": "by Tom Clancy with Mark Greaney",
+			"description": "Jack Ryan Jr. must stop an emerging threat from a Pakistani general.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399157318.jpg",
+			"name": "LOCKED ON",
+			"publisher": "Penguin Group",
+			"rank": 14
+		},
+		{
+			"author": "by Patricia Cornwell",
+			"description": "The chief medical examiner Kay Scarpetta investigates a string of killings linked to the murder of her former deputy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399158025.jpg",
+			"name": "RED MIST",
+			"publisher": "Penguin Group",
+			"rank": 15
+		}
+	]
+}

@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Jojo Moyes",
+			"description": "A woman who has barely been beyond her English village finds herself while caring for a wealthy, embittered quadriplegic.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780143124542.jpg",
+			"name": "ME BEFORE YOU",
+			"publisher": "Penguin",
+			"rank": 1
+		},
+		{
+			"author": "by Justin Cronin",
+			"description": "In the conclusion to the trilogy that included \u201cThe Passage\u201d and \u201cThe Twelve,\u201d the virals bent on destroying humanity seem to have been vanquished, only to rise again.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780804177641.jpg",
+			"name": "THE CITY OF MIRRORS",
+			"publisher": "Ballantine",
+			"rank": 2
+		},
+		{
+			"author": "by James Patterson and Maxine Paetro",
+			"description": "When a brutal murder threatens the domestic happiness of the San Francisco police detective Lindsay Boxer, she turns for help to the Women\u2019s Murder Club.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316407076.jpg",
+			"name": "15TH AFFAIR",
+			"publisher": "Little, Brown",
+			"rank": 3
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "In a sequel to \u201cMemory Man,\u201d Amos Decker, a detective with an extraordinary memory, investigates the case of a convicted killer who wins a last-minute reprieve.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455586455.jpg",
+			"name": "THE LAST MILE",
+			"publisher": "Grand Central",
+			"rank": 4
+		},
+		{
+			"author": "by Paula Hawkins",
+			"description": "A psychological thriller set in the environs of London is full of complications and betrayals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594633669.jpg",
+			"name": "THE GIRL ON THE TRAIN",
+			"publisher": "Riverhead",
+			"rank": 5
+		},
+		{
+			"author": "by Jojo Moyes",
+			"description": "After the death of Will Traynor, Louisa Clark joins a grief support group that may lead her to new love.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698152045.jpg",
+			"name": "AFTER YOU",
+			"publisher": "Pamela Dorman/Viking",
+			"rank": 6
+		},
+		{
+			"author": "by Mary Kay Andrews",
+			"description": "On North Carolina\u2019s Belle Isle, a woman investigates her husband\u2019s shady financial affairs after his mysterious death.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781466872929.jpg",
+			"name": "THE WEEKENDERS",
+			"publisher": "St. Martin's",
+			"rank": 7
+		},
+		{
+			"author": "by Cynthia D'Aprix Sweeney",
+			"description": "Siblings in a dysfunctional New York family must grapple with a reduced inheritance.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062414236.jpg",
+			"name": "THE NEST",
+			"publisher": "Ecco/HarperCollins",
+			"rank": 8
+		},
+		{
+			"author": "by Heather Graham",
+			"description": "The head of the F.B.I.'s special paranormal division books passage on a cruise ship with a killer on board.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781459294141.jpg",
+			"name": "HAUNTED DESTINY",
+			"publisher": "Mira",
+			"rank": 9
+		},
+		{
+			"author": "by Fredrik Backman",
+			"description": "A curmudgeon's gruff exterior masks a generosity of spirit. Originally published in Sweden in 2014.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476738024.jpg",
+			"name": "A MAN CALLED OVE",
+			"publisher": "Washington Square",
+			"rank": 10
+		},
+		{
+			"author": "by Kristin Hannah",
+			"description": "Two sisters are separated in World War II France: one in the countryside, the other in Paris.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781466850606.jpg",
+			"name": "THE NIGHTINGALE",
+			"publisher": "St. Martin's",
+			"rank": 11
+		},
+		{
+			"author": "by John Sandford",
+			"description": "Lucas Davenport is in Iowa trying to foil a plot to assassinate a Hillary Clinton-like candidate.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698407107.jpg",
+			"name": "EXTREME PREY",
+			"publisher": "Putnam",
+			"rank": 12
+		},
+		{
+			"author": "by Aurora Rose Reynolds",
+			"description": "Their secret marriage and divorce behind them, June and Evan consider rekindling.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/A00B01CF9YVSA.jpg",
+			"name": "UNTIL JUNE",
+			"publisher": "Aurora Rose Reynolds",
+			"rank": 13
+		},
+		{
+			"author": "by Nora Roberts",
+			"description": "A woman is haunted by her father\u2019s crimes as she tries to pursue love and her work as a photographer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399175169.jpg",
+			"name": "THE OBSESSION",
+			"publisher": "Berkley",
+			"rank": 14
+		},
+		{
+			"author": "by Laura Griffin",
+			"description": "Reed Novak senses a serial killer is on the prowl in this latest installment in the Tracers series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476779287.jpg",
+			"name": "DEEP DARK",
+			"publisher": "Pocket Books",
+			"rank": 15
+		}
+	]
+}

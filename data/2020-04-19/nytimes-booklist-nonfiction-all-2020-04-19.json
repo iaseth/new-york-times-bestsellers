@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Erik Larson",
+			"description": "An examination of the leadership of the prime minister Winston Churchill.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385348713.jpg",
+			"name": "THE SPLENDID AND THE VILE",
+			"publisher": "Crown",
+			"rank": 1
+		},
+		{
+			"author": "by Glennon Doyle",
+			"description": "The activist and public speaker describes her journey of listening to her inner voice.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984801258.jpg",
+			"name": "UNTAMED",
+			"publisher": "Dial",
+			"rank": 2
+		},
+		{
+			"author": "by Jonathan Karl",
+			"description": "The ABC News chief White House correspondent gives his perspective on our current president and describes the shifts within their relationship.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524745646.jpg",
+			"name": "FRONT ROW AT THE TRUMP SHOW",
+			"publisher": "Dutton",
+			"rank": 3
+		},
+		{
+			"author": "by Alicia Keys with Michelle Burford",
+			"description": "The Grammy Award-winning musician retraces her path to discovering her own worth.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250153296.jpg",
+			"name": "MORE MYSELF",
+			"publisher": "Flatiron",
+			"rank": 4
+		},
+		{
+			"author": "by Colton Underwood",
+			"description": "A memoir by a former N.F.L. player and reality TV star of \u201cThe Bachelor\u201d and \u201cThe Bachelorette.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982139384.jpg",
+			"name": "THE FIRST TIME",
+			"publisher": "Gallery",
+			"rank": 5
+		},
+		{
+			"author": "by Tara Westover",
+			"description": "The daughter of survivalists, who is kept out of school, educates herself enough to leave home for university.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399590504.jpg",
+			"name": "EDUCATED",
+			"publisher": "Random House",
+			"rank": 6
+		},
+		{
+			"author": "by Samantha Irby",
+			"description": "Comedic essays by an author and blogger who splits her time between Hollywood meetings and living in a liberal suburban town in a red state.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525563488.jpg",
+			"name": "WOW, NO THANK YOU",
+			"publisher": "Vintage",
+			"rank": 7
+		},
+		{
+			"author": "by Jessica Simpson with Kevin Carr O\u2019Leary",
+			"description": "The singer, actress and fashion designer discloses times of success, trauma and addiction.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062899965.jpg",
+			"name": "OPEN BOOK",
+			"publisher": "Dey St.",
+			"rank": 8
+		},
+		{
+			"author": "by John M. Barry",
+			"description": "An overview of the 1918 flu epidemic and cautionary tale for similar kinds of large-scale outbreaks.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780143036494.jpg",
+			"name": "THE GREAT INFLUENZA",
+			"publisher": "Penguin",
+			"rank": 9
+		},
+		{
+			"author": "by Michelle Obama",
+			"description": "The former first lady describes her journey from the South Side of Chicago to the White House, and how she balanced work, family and her husband\u2019s political ascent.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524763138.jpg",
+			"name": "BECOMING",
+			"publisher": "Crown",
+			"rank": 10
+		},
+		{
+			"author": "by Kobe Bryant",
+			"description": "Various skills and techniques used on the court by the late Los Angeles Lakers player.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780374201234.jpg",
+			"name": "THE MAMBA MENTALITY",
+			"publisher": "Melcher Media/MCD/Farrar, Straus & Giroux",
+			"rank": 11
+		},
+		{
+			"author": "by Deborah Feldman",
+			"description": "A woman breaks free of the Satmar Hasidic community in Brooklyn in which she was raised.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781439187012.jpg",
+			"name": "UNORTHODOX",
+			"publisher": "Simon & Schuster",
+			"rank": 12
+		},
+		{
+			"author": "by Yuval Noah Harari",
+			"description": "How Homo sapiens became Earth\u2019s dominant species.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062316097.jpg",
+			"name": "SAPIENS",
+			"publisher": "Harper",
+			"rank": 13
+		},
+		{
+			"author": "by Lori Gottlieb",
+			"description": "A psychotherapist gains unexpected insights when she becomes another therapist\u2019s patient.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781328662057.jpg",
+			"name": "MAYBE YOU SHOULD TALK TO SOMEONE",
+			"publisher": "Houghton Mifflin Harcourt",
+			"rank": 14
+		},
+		{
+			"author": "by Malcolm Gladwell",
+			"description": "Famous examples of miscommunication serve as the backdrop to explain potential conflicts and misunderstandings.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316478526.jpg",
+			"name": "TALKING TO STRANGERS",
+			"publisher": "Little, Brown",
+			"rank": 15
+		}
+	]
+}

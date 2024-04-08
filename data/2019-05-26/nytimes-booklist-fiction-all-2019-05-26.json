@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Delia Owens",
+			"description": "In a quiet town on the North Carolina coast in 1969, a young woman who survived alone in the marsh becomes a murder suspect.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735219090.jpg",
+			"name": "WHERE THE CRAWDADS SING",
+			"publisher": "Putnam",
+			"rank": 1
+		},
+		{
+			"author": "by Patricia Briggs",
+			"description": "The 11th book in the Mercy Thompson series. Dangers swell as Death approaches.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698195820.jpg",
+			"name": "STORM CURSED",
+			"publisher": "Ace",
+			"rank": 2
+		},
+		{
+			"author": "by Danielle Steel",
+			"description": "Isabelle McAvoy faces challenges as she raises three daughters from three separate fathers on her own.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399179334.jpg",
+			"name": "BLESSING IN DISGUISE",
+			"publisher": "Delacorte",
+			"rank": 3
+		},
+		{
+			"author": "by James Patterson and Maxine Paetro",
+			"description": "The 18th book in the Women's Murder Club series. Lindsay Boxer investigates the disappearance of three female teachers.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316528443.jpg",
+			"name": "THE 18TH ABDUCTION",
+			"publisher": "Little, Brown",
+			"rank": 4
+		},
+		{
+			"author": "by Janet Evanovich and Peter Evanovich",
+			"description": "The sixth book in the Fox and O\u2019Hare series. An F.B.I. agent teams up with a con man to search for a Silicon Valley billionaire.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525536659.jpg",
+			"name": "THE BIG KAHUNA",
+			"publisher": "Putnam",
+			"rank": 5
+		},
+		{
+			"author": "by Mary Kay Andrews",
+			"description": "Drue Campbell inherits a run-down beach bungalow and takes a job at her estranged father\u2019s personal injury attorney office.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250126108.jpg",
+			"name": "SUNSET BEACH",
+			"publisher": "St. Martin's",
+			"rank": 6
+		},
+		{
+			"author": "by E L James",
+			"description": "Maxim Trevelyan inherits several estates and beds his cleaner Alessia Demachi, an Albanian piano prodigy who has been trafficked into England.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984898326.jpg",
+			"name": "THE MISTER",
+			"publisher": "Vintage",
+			"rank": 7
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "The fifth book in the Memory Man series. The first man Amos Decker put behind bars asks to have his name cleared.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538761434.jpg",
+			"name": "REDEMPTION",
+			"publisher": "Grand Central",
+			"rank": 8
+		},
+		{
+			"author": "by Lee Child",
+			"description": "Jack Reacher explores the New England town where his father was born and a Canadian couple now find themselves stranded.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399593512.jpg",
+			"name": "PAST TENSE",
+			"publisher": "Bantam/Dell",
+			"rank": 9
+		},
+		{
+			"author": "by John Sandford",
+			"description": "The 29th book in the Prey series. Lucas Davenport goes after a serial killer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525536598.jpg",
+			"name": "NEON PREY",
+			"publisher": "Putnam",
+			"rank": 10
+		},
+		{
+			"author": "by Heather Morris",
+			"description": "A concentration camp detainee tasked with permanently marking fellow prisoners falls in love with one of them.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062797155.jpg",
+			"name": "THE TATTOOIST OF AUSCHWITZ",
+			"publisher": "Harper",
+			"rank": 11
+		},
+		{
+			"author": "by George R.R. Martin",
+			"description": "In the frozen wastes to the north of Winterfell, sinister and supernatural forces are mustering. Basis of the HBO series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780553897845.jpg",
+			"name": "A GAME OF THRONES",
+			"publisher": "Bantam",
+			"rank": 12
+		},
+		{
+			"author": "by Amanda Quick",
+			"description": "A former trapeze artist\u2019s plan to start a new life goes sideways when a man is murdered by his robot invention.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399585371.jpg",
+			"name": "TIGHTROPE",
+			"publisher": "Berkley",
+			"rank": 13
+		},
+		{
+			"author": "by Richard Paul Evans",
+			"description": "The third book in the Broken Road series. Charles James continues his journey on Route 66 to his ultimate destination.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501111822.jpg",
+			"name": "THE ROAD HOME",
+			"publisher": "Simon & Schuster",
+			"rank": 14
+		},
+		{
+			"author": "by Sarah Blake",
+			"description": "Evie Milton uncovers a story going back a couple generations that may shatter a family myth.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250110251.jpg",
+			"name": "THE GUEST BOOK",
+			"publisher": "Flatiron",
+			"rank": 15
+		}
+	]
+}

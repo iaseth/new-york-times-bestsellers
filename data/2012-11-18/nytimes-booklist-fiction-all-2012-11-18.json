@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by John Grisham",
+			"description": "An imprisoned ex-lawyer schemes to exchange this information about who murdered a judge for his freedom.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385536882.jpg",
+			"name": "THE RACKETEER",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 1
+		},
+		{
+			"author": "by Sylvia Day",
+			"description": "Eva and Gideon, of \u201cBared to You,\u201d continue to struggle to make their relationship work.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101604915.jpg",
+			"name": "REFLECTED IN YOU",
+			"publisher": "Penguin Group",
+			"rank": 2
+		},
+		{
+			"author": "by Danielle Steel",
+			"description": "A successful businesswoman tries to make up for past failings with her children, now grown.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345535788.jpg",
+			"name": "THE SINS OF THE MOTHER",
+			"publisher": "Random House Publishing",
+			"rank": 3
+		},
+		{
+			"author": "by Gillian Flynn",
+			"description": "A woman disappears on the day of her fifth anniversary; is her husband a killer?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307588388.jpg",
+			"name": "GONE GIRL",
+			"publisher": "Crown Publishing",
+			"rank": 4
+		},
+		{
+			"author": "by E. L. James",
+			"description": "A college student falls in love with a tortured man with particular sexual tastes; the first of a trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345803481.jpg",
+			"name": "FIFTY SHADES OF GREY",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 5
+		},
+		{
+			"author": "by Jessica Sorensen",
+			"description": "Childhood friends, long separated, get back together.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/A00B009LBO334.jpg",
+			"name": "THE SECRET OF ELLA AND MICHA",
+			"publisher": "Jessica Sorensen",
+			"rank": 6
+		},
+		{
+			"author": "by E. L. James",
+			"description": "The final book in an erotic trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781612130606.jpg",
+			"name": "FIFTY SHADES FREED",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 7
+		},
+		{
+			"author": "by E. L. James",
+			"description": "Ana Steele learns more about Christian Grey\u2019s troubled past; the second book in a trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345803498.jpg",
+			"name": "FIFTY SHADES DARKER",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 8
+		},
+		{
+			"author": "by James Patterson and Marshall Karp",
+			"description": "Detective Zach Jordan must stop a deranged killer at a New York film festival.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316199865.jpg",
+			"name": "NYPD RED",
+			"publisher": "Little, Brown & Company",
+			"rank": 9
+		},
+		{
+			"author": "by Nelson DeMille",
+			"description": "The anti-terrorist task force agent John Corey and his wife, an F.B.I. agent, pursue a high-ranking Qaeda operative in Yemen \u2014 who is out to avenge the death of a Libyan terrorist killed by Corey.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455518371.jpg",
+			"name": "THE PANTHER",
+			"publisher": "Grand Central Publishing",
+			"rank": 10
+		},
+		{
+			"author": "by Patricia Cornwell",
+			"description": "A paleontologist\u2019s disappearance in Canada involves the chief medical examiner Kay Scarpetta; the 20th Scarpetta book.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399157561.jpg",
+			"name": "THE BONE BED",
+			"publisher": "Penguin Group",
+			"rank": 11
+		},
+		{
+			"author": "by David Mitchell",
+			"description": "Six linked stories involve myriad characters and conflicts: from New Zealand in the mid-19th century to a Belgian estate in the 1930s to 1970s California.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780375507250.jpg",
+			"name": "CLOUD ATLAS",
+			"publisher": "Random House Publishing",
+			"rank": 12
+		},
+		{
+			"author": "by Karen Marie Moning",
+			"description": "The first book in a new urban paranormal trilogy set in the world of the Fever series features Dani O\u2019Malley.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385344401.jpg",
+			"name": "ICED",
+			"publisher": "Random House Publishing",
+			"rank": 13
+		},
+		{
+			"author": "by  Sarah Jio",
+			"description": "A Seattle reporter pursues an unsolved abduction from 1933.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101603499.jpg",
+			"name": "BLACKBERRY WINTER",
+			"publisher": "Penguin Group",
+			"rank": 14
+		},
+		{
+			"author": "by J. K. Rowling",
+			"description": "The sudden death of a parish councilman reveals bitter social divisions in an idyllic English town; a novel for adults by the creator of Harry Potter.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316228558.jpg",
+			"name": "THE CASUAL VACANCY",
+			"publisher": "Little, Brown & Company",
+			"rank": 15
+		}
+	]
+}

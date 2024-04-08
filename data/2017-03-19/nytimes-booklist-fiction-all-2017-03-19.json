@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by William P. Young",
+			"description": "A man whose daughter was abducted is invited to an isolated shack, apparently by God.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780964729230.jpg",
+			"name": "THE SHACK",
+			"publisher": "Windblown Media",
+			"rank": 1
+		},
+		{
+			"author": "by Fredrik Backman",
+			"description": "A curmudgeon's gruff exterior masks a generosity of spirit. Originally published in Sweden in 2014.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476738024.jpg",
+			"name": "A MAN CALLED OVE",
+			"publisher": "Washington Square",
+			"rank": 2
+		},
+		{
+			"author": "by W. Bruce Cameron",
+			"description": "A canine narrator undergoes a series of reincarnations.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780765330345.jpg",
+			"name": "A DOG'S PURPOSE",
+			"publisher": "Forge Books",
+			"rank": 3
+		},
+		{
+			"author": "by Liane Moriarty",
+			"description": "Who will end up dead, and how, when three mothers with children in the same school become friends?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698138636.jpg",
+			"name": "BIG LITTLE LIES",
+			"publisher": "Berkley",
+			"rank": 4
+		},
+		{
+			"author": "by Lisa Jackson",
+			"description": "Alvarez and Pescoli are back, dodging a reality-TV crew while tracking a serial killer stalking the woods of a remote Montana town.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781420136074.jpg",
+			"name": "EXPECTING TO DIE",
+			"publisher": "Zebra",
+			"rank": 5
+		},
+		{
+			"author": "by Jeaniene Frost",
+			"description": "A rival turns Vlad's new love against him in this finale to the Night Prince series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062075857.jpg",
+			"name": "INTO THE FIRE",
+			"publisher": "Avon",
+			"rank": 6
+		},
+		{
+			"author": "by Faye Kellerman",
+			"description": "Rina Lazarus and Pete Decker discover evidence of a decades-old crime.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062425256.jpg",
+			"name": "BONE BOX",
+			"publisher": "Morrow",
+			"rank": 7
+		},
+		{
+			"author": "by Susan Mallery",
+			"description": "Romantic wranglings prove a not-always-welcome corrective to the solitary life.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781460396438.jpg",
+			"name": "A MILLION LITTLE THINGS",
+			"publisher": "Mira",
+			"rank": 8
+		},
+		{
+			"author": "by Tijan",
+			"description": "Chance encounters spark an affair with a ruthless mob boss.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/A00B06XBVL7Q2.jpg",
+			"name": "COLE",
+			"publisher": "EverAfter Romance",
+			"rank": 9
+		},
+		{
+			"author": "by Martha Hall Kelly",
+			"description": "A story of three women\u2019s lives during and after World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101883075.jpg",
+			"name": "LILAC GIRLS",
+			"publisher": "Ballantine",
+			"rank": 10
+		},
+		{
+			"author": "by Neil Gaiman",
+			"description": "A retelling of Norse folklore.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780393609097.jpg",
+			"name": "NORSE MYTHOLOGY",
+			"publisher": "Norton",
+			"rank": 11
+		},
+		{
+			"author": "by Joanne Fluke",
+			"description": "Hannah Swensen, the bakery owner and amateur sleuth of Lake Eden, Minn., returns from her honeymoon to confront an actress\u2019s mysterious death.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781617732218.jpg",
+			"name": "BANANA CREAM PIE MURDER",
+			"publisher": "Kensington",
+			"rank": 12
+		},
+		{
+			"author": "by Rupi Kaur",
+			"description": "Poetic approaches to surviving adversity and loss.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781449474256.jpg",
+			"name": "MILK AND HONEY",
+			"publisher": "Andrews McMeel",
+			"rank": 13
+		},
+		{
+			"author": "by Kresley Cole",
+			"description": "Prince Mirceo must convince the demon warrior Caspion the Tracker that they're fated to be together and receive the blessing of the savage King Lothaire.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780997215182.jpg",
+			"name": "SHADOW'S SEDUCTION",
+			"publisher": "Valkyrie",
+			"rank": 14
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "In a sequel to \u201cMemory Man,\u201d Amos Decker, a detective with an extraordinary memory, investigates the case of a convicted killer who wins a last-minute reprieve.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455586455.jpg",
+			"name": "THE LAST MILE",
+			"publisher": "Grand Central",
+			"rank": 15
+		}
+	]
+}

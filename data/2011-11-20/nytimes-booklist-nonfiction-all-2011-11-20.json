@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Walter Isaacson",
+			"description": "A biography of the recently deceased entrepreneur, based on 40 interviews with Jobs conducted over two years.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451648553.jpg",
+			"name": "STEVE JOBS",
+			"publisher": "Simon & Schuster",
+			"rank": 1
+		},
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "The anchor of \u201cThe O\u2019Reilly Factor\u201d recounts the assassination of Abraham Lincoln.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780805093070.jpg",
+			"name": "KILLING LINCOLN",
+			"publisher": "Holt",
+			"rank": 2
+		},
+		{
+			"author": "by Chris Matthews",
+			"description": "An admiring portrait.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451635096.jpg",
+			"name": "JACK KENNEDY",
+			"publisher": "Simon & Schuster",
+			"rank": 3
+		},
+		{
+			"author": "by Todd Burpo with Lynn Vincent",
+			"description": "A father recounts his 3-year-old son\u2019s encounter with Jesus and the angels during an appendectomy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780849949203.jpg",
+			"name": "HEAVEN IS FOR REAL",
+			"publisher": "Thomas Nelson",
+			"rank": 4
+		},
+		{
+			"author": "by Mindy Kaling",
+			"description": "Observations from the comedy writer and actress.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307886286.jpg",
+			"name": "IS EVERYONE HANGING OUT WITHOUT ME?",
+			"publisher": "Crown Publishing",
+			"rank": 5
+		},
+		{
+			"author": "by Joan Didion",
+			"description": "The writer considers her daughter\u2019s death in 2005.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307267672.jpg",
+			"name": "BLUE NIGHTS",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 6
+		},
+		{
+			"author": "by Laura Hillenbrand",
+			"description": "An Olympic runner\u2019s story of survival as a prisoner of the Japanese in World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400064168.jpg",
+			"name": "UNBROKEN",
+			"publisher": "Random House Publishing",
+			"rank": 7
+		},
+		{
+			"author": "by Condoleezza Rice",
+			"description": "A memoir of service during the Bush administration.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307986788.jpg",
+			"name": "NO HIGHER HONOR",
+			"publisher": "Crown Publishing",
+			"rank": 8
+		},
+		{
+			"author": "by Michael Lewis",
+			"description": "A look at some of the places hardest hit by the financial collapse of 2008 \u2014 Greece, Iceland, Ireland \u2014 and at how it happened.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780393082241.jpg",
+			"name": "BOOMERANG",
+			"publisher": "W. W. Norton & Company",
+			"rank": 9
+		},
+		{
+			"author": "by Tom Brokaw",
+			"description": "How to revitalize the promise of the American dream, based on stories of Americans who are making a difference.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400064588.jpg",
+			"name": "THE TIME OF OUR LIVES",
+			"publisher": "Random House Publishing",
+			"rank": 10
+		},
+		{
+			"author": "by Kris Jenner",
+			"description": "The mother and manager of the Kardashians describes her busy life as a parent and producer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451646986.jpg",
+			"name": "KRIS JENNER...AND ALL THINGS KARDASHIAN",
+			"publisher": "Simon & Schuster",
+			"rank": 11
+		},
+		{
+			"author": "by Daniel Kahneman",
+			"description": "The winner of the Nobel in economic science discusses how we make choices in business and personal life and when we can and cannot trust our intuitions.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781429969352.jpg",
+			"name": "THINKING, FAST AND SLOW",
+			"publisher": "Farrar, Straus & Giroux",
+			"rank": 12
+		},
+		{
+			"author": "by Ellen DeGeneres",
+			"description": "A collection of humor pieces from the stand-up comedian and talk-show host.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780446585033.jpg",
+			"name": "SERIOUSLY... I'M KIDDING",
+			"publisher": "Grand Central Publishing",
+			"rank": 13
+		},
+		{
+			"author": "by Rebecca Skloot",
+			"description": "The story of a woman whose cancer cells were cultured without her permission in 1951.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400052189.jpg",
+			"name": "THE IMMORTAL LIFE OF HENRIETTA LACKS",
+			"publisher": "Crown Publishing",
+			"rank": 14
+		},
+		{
+			"author": "by Ace Frehley with Joe Layden and John Ostrosky",
+			"description": "The KISS guitarist recalls his life in the band.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451613940.jpg",
+			"name": "NO REGRETS",
+			"publisher": "Simon & Schuster",
+			"rank": 15
+		}
+	]
+}

@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "",
+			"description": "Recordings and transcripts of a seven-part interview with Arthur M. Schlesinger Jr. in 1964.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781401324254.jpg",
+			"name": "Jacqueline Kennedy: Historic Conversations On Life With John F. Kennedy",
+			"publisher": "Hyperion",
+			"rank": 1
+		},
+		{
+			"author": "by Todd Burpo with Lynn Vincent",
+			"description": "A father recounts his 3-year-old son\u2019s encounter with Jesus and the angels during an appendectomy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780849949203.jpg",
+			"name": "HEAVEN IS FOR REAL",
+			"publisher": "Thomas Nelson",
+			"rank": 2
+		},
+		{
+			"author": "by Michael Hingson with Susy Flory",
+			"description": "A blind man and his guide dog show the power of trust and courage on Sept. 11.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400203048.jpg",
+			"name": "THUNDER DOG",
+			"publisher": "Thomas Nelson",
+			"rank": 3
+		},
+		{
+			"author": "by Laura Hillenbrand",
+			"description": "An Olympic runner\u2019s story of survival as a prisoner of the Japanese in World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400064168.jpg",
+			"name": "UNBROKEN",
+			"publisher": "Random House",
+			"rank": 4
+		},
+		{
+			"author": "by Thomas L. Friedman and Michael Mandelbaum",
+			"description": "How America fell behind in the world it invented, and how it can come back.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250013729.jpg",
+			"name": "THAT USED TO BE US",
+			"publisher": "Farrar, Straus & Giroux",
+			"rank": 5
+		},
+		{
+			"author": "by Jaycee Dugard",
+			"description": "A woman tells of being kidnapped at the age of 11 and held prisoner for 18 years by a convicted rapist and his wife.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451629187.jpg",
+			"name": "A STOLEN LIFE",
+			"publisher": "Simon & Schuster",
+			"rank": 6
+		},
+		{
+			"author": "by Dick Cheney",
+			"description": "The former vice president opens up about his life and nearly four decades at the core of American politics.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781439176191.jpg",
+			"name": "IN MY TIME",
+			"publisher": "Threshold",
+			"rank": 7
+		},
+		{
+			"author": "by Erik Larson",
+			"description": "This portrait of Berlin during the rise of the Nazis centers on the family of William E. Dodd, the U.S. ambassador there.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307887955.jpg",
+			"name": "IN THE GARDEN OF BEASTS",
+			"publisher": "Crown",
+			"rank": 8
+		},
+		{
+			"author": "by Rebecca Skloot",
+			"description": "The story of a woman whose cancer cells were extensively cultured without her permission in 1951.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400052189.jpg",
+			"name": "THE IMMORTAL LIFE OF HENRIETTA LACKS",
+			"publisher": "Crown",
+			"rank": 9
+		},
+		{
+			"author": "by Ali H. Soufan with Daniel Freedman",
+			"description": "Rivalry and dysfunction among counterintelligence agencies made it impossible to stop the 9/11 plot, according to this former F.B.I. agent.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780393083477.jpg",
+			"name": "THE BLACK BANNERS",
+			"publisher": "Norton",
+			"rank": 10
+		},
+		{
+			"author": "by Keith Richards with James Fox",
+			"description": "The Rolling Stones guitarist's revealing autobiography is also a portrait of the era when rock & roll came of age.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316128568.jpg",
+			"name": "LIFE",
+			"publisher": "Little, Brown",
+			"rank": 11
+		},
+		{
+			"author": "by Stacy Schiff",
+			"description": "This biography portrays the Macedonian-Egyptian queen in all her ambition, audacity and formidable intelligence.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316001946.jpg",
+			"name": "CLEOPATRA",
+			"publisher": "Little, Brown",
+			"rank": 12
+		},
+		{
+			"author": "by Michael Moore",
+			"description": "Stories from the life of the provocative filmmaker.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455508570.jpg",
+			"name": "HERE COMES TROUBLE",
+			"publisher": "Grand Central",
+			"rank": 13
+		},
+		{
+			"author": "by Tina Fey",
+			"description": "A memoir from the former \"Saturday Night Live\" star and creator of \"30 Rock.\"",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316056892.jpg",
+			"name": "BOSSYPANTS",
+			"publisher": "Little, Brown",
+			"rank": 14
+		},
+		{
+			"author": "by Michael Lewis",
+			"description": "How Billy Beane, the general manager of the Oakland Athletics, has produced successful teams despite having one of the smallest payrolls in baseball.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780393066234.jpg",
+			"name": "MONEYBALL",
+			"publisher": "Norton",
+			"rank": 15
+		}
+	]
+}

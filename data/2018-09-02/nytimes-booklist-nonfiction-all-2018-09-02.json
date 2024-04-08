@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Omarosa Manigault Newman",
+			"description": "The reality TV star and former White House staffer describes her time and relationship with Donald Trump.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982109707.jpg",
+			"name": "UNHINGED",
+			"publisher": "Gallery",
+			"rank": 1
+		},
+		{
+			"author": "by Gregg Jarrett",
+			"description": "The Fox News analyst makes his case against the F.B.I. investigation into collusion between the Trump campaign and Russia.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062872746.jpg",
+			"name": "THE RUSSIA HOAX",
+			"publisher": "Broadside",
+			"rank": 2
+		},
+		{
+			"author": "by Tara Westover",
+			"description": "The daughter of survivalists, who is kept out of school, educates herself enough to leave home for university.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399590504.jpg",
+			"name": "EDUCATED",
+			"publisher": "Random House",
+			"rank": 3
+		},
+		{
+			"author": "by Jeanine Pirro",
+			"description": "The legal analyst and Fox News host argues in favor of President Trump.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781546083429.jpg",
+			"name": "LIARS, LEAKERS AND LIBERALS",
+			"publisher": "Center Street",
+			"rank": 4
+		},
+		{
+			"author": "by Craig Unger",
+			"description": "An investigation into the relationship between the current heads of Russia and the United States, and their potential ties to the Russian Mafia.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524743505.jpg",
+			"name": "HOUSE OF TRUMP, HOUSE OF PUTIN",
+			"publisher": "Dutton",
+			"rank": 5
+		},
+		{
+			"author": "by Ron Stallworth",
+			"description": "The first black detective of the Colorado Springs Police Department goes undercover to investigate the Ku Klux Klan.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250299055.jpg",
+			"name": "BLACK KLANSMAN",
+			"publisher": "Flatiron",
+			"rank": 6
+		},
+		{
+			"author": "by Rick Wilson",
+			"description": "The Republican political campaign strategist gives his take on the current president and offers a way forward for conservatives.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982103125.jpg",
+			"name": "EVERYTHING TRUMP TOUCHES DIES",
+			"publisher": "Free Press",
+			"rank": 7
+		},
+		{
+			"author": "by Yuval Noah Harari",
+			"description": "How Homo sapiens became Earth\u2019s dominant species.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062316097.jpg",
+			"name": "SAPIENS",
+			"publisher": "Harper",
+			"rank": 8
+		},
+		{
+			"author": "by Beth Macy",
+			"description": "An in-depth look at how opioid addiction affects Americans across geographic and class lines.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316551243.jpg",
+			"name": "DOPESICK",
+			"publisher": "Little, Brown",
+			"rank": 9
+		},
+		{
+			"author": "by John Carreyrou",
+			"description": "The rise and fall of Theranos, the biotech startup that failed to deliver on its promise to make blood testing more efficient.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524731663.jpg",
+			"name": "BAD BLOOD",
+			"publisher": "Knopf",
+			"rank": 10
+		},
+		{
+			"author": "by Jon Meacham",
+			"description": "The present political climate is contextualized through the lens of difficult moments in American history.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399589812.jpg",
+			"name": "THE SOUL OF AMERICA",
+			"publisher": "Random House",
+			"rank": 11
+		},
+		{
+			"author": "by C.J. Chivers",
+			"description": "Portraits of six American combatants who served in the wars in Afghanistan and Iraq.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451676648.jpg",
+			"name": "THE FIGHTERS",
+			"publisher": "Simon & Schuster",
+			"rank": 12
+		},
+		{
+			"author": "by David Quammen",
+			"description": "The lives of molecular biologists and their discoveries involving the movement of genes across species lines.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476776620.jpg",
+			"name": "TANGLED TREE",
+			"publisher": "Simon & Schuster",
+			"rank": 13
+		},
+		{
+			"author": "by David Grann",
+			"description": "The story of a murder spree in 1920s Oklahoma that targeted Osage Indians, whose lands contained oil.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385534246.jpg",
+			"name": "KILLERS OF THE FLOWER MOON",
+			"publisher": "Doubleday",
+			"rank": 14
+		},
+		{
+			"author": "by Anthony Bourdain",
+			"description": "A memoir-expos\u00e9 of the restaurant world. Originally published in 2000.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781596917248.jpg",
+			"name": "KITCHEN CONFIDENTIAL",
+			"publisher": "Ecco",
+			"rank": 15
+		}
+	]
+}

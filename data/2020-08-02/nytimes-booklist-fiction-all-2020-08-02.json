@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Daniel Silva",
+			"description": "The 20th book in the Gabriel Allon series. The art restorer and spy cuts his family\u2019s vacation short to investigate whether Pope Paul VII was murdered.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062834843.jpg",
+			"name": "THE ORDER",
+			"publisher": "Harper",
+			"rank": 1
+		},
+		{
+			"author": "by Jim Butcher",
+			"description": "The 16th book in the Dresden Files series. Chicago's only professional wizard tries to keep the peace during a summit of the Supernatural nations of the world.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780451464415.jpg",
+			"name": "PEACE TALKS",
+			"publisher": "Ace",
+			"rank": 2
+		},
+		{
+			"author": "by Brit Bennett",
+			"description": "The lives of twin sisters who run away from a Southern Black community at age 16 diverge as one returns and the other takes on a different racial identity but their fates intertwine.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525536291.jpg",
+			"name": "THE VANISHING HALF",
+			"publisher": "Riverhead",
+			"rank": 3
+		},
+		{
+			"author": "by Elin Hilderbrand",
+			"description": "A relationship that started in 1993 between Mallory Blessing and Jake McCloud comes to light while she is on her deathbed and his wife runs for president.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316420044.jpg",
+			"name": "28 SUMMERS",
+			"publisher": "Little, Brown",
+			"rank": 4
+		},
+		{
+			"author": "by Delia Owens",
+			"description": "In a quiet town on the North Carolina coast in 1969, a young woman who survived alone in the marsh becomes a murder suspect.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735219090.jpg",
+			"name": "WHERE THE CRAWDADS SING",
+			"publisher": "Putnam",
+			"rank": 5
+		},
+		{
+			"author": "by Lucy Foley",
+			"description": "A wedding between a TV star and a magazine publisher on an island off the coast of Ireland turns deadly.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062868930.jpg",
+			"name": "THE GUEST LIST",
+			"publisher": "Morrow",
+			"rank": 6
+		},
+		{
+			"author": "by Kevin Kwan",
+			"description": "A nod to \u201cA Room With a View\u201d in which Lucie Tang Churchill is torn between her WASPy billionaire fianc\u00e9 and a privileged hunk born in Hong Kong.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385546270.jpg",
+			"name": "SEX AND VANITY",
+			"publisher": "Doubleday",
+			"rank": 7
+		},
+		{
+			"author": "by Debbie Macomber",
+			"description": "After dealing with loss and setbacks, two sisters take risks on dreams and love.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399181368.jpg",
+			"name": "A WALK ALONG THE BEACH",
+			"publisher": "Ballantine",
+			"rank": 8
+		},
+		{
+			"author": "by John Grisham",
+			"description": "Cullen Post, a lawyer and Episcopal minister, antagonizes some ruthless killers when he takes on a wrongful conviction case.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385544184.jpg",
+			"name": "THE GUARDIANS",
+			"publisher": "Doubleday",
+			"rank": 9
+		},
+		{
+			"author": "by Celeste Ng",
+			"description": "An artist upends a quiet town outside Cleveland.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735224308.jpg",
+			"name": "LITTLE FIRES EVERYWHERE",
+			"publisher": "Penguin Press",
+			"rank": 10
+		},
+		{
+			"author": "by John Grisham",
+			"description": "The line between fact and fiction becomes blurred when an author of thrillers is found dead after a hurricane hits Camino Island.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385545938.jpg",
+			"name": "CAMINO WINDS",
+			"publisher": "Doubleday",
+			"rank": 11
+		},
+		{
+			"author": "by James Patterson and Tucker Axum III",
+			"description": "Cain Lemaire, an ex-Secret Service agent from New Orleans, gets in the thick of things as the head of security for a chief executive in Tokyo.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538752364.jpg",
+			"name": "CAJUN JUSTICE",
+			"publisher": "Grand Central",
+			"rank": 12
+		},
+		{
+			"author": "by Jeanine Cummins",
+			"description": "A bookseller flees Mexico for the United States with her son while pursued by the head of a drug cartel.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250209764.jpg",
+			"name": "AMERICAN DIRT",
+			"publisher": "Flatiron",
+			"rank": 13
+		},
+		{
+			"author": "by David Mitchell",
+			"description": "The glories and misadventures of a 1960s British band told from several perspectives with cameos by real-life musicians.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812997439.jpg",
+			"name": "UTOPIA AVENUE",
+			"publisher": "Random House",
+			"rank": 14
+		},
+		{
+			"author": "by James Patterson and Brendan DuBois",
+			"description": "Jeremiah Cook, a veteran and former N.Y.P.D. cop, investigates a mass murder near a lake in Georgia.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316539555.jpg",
+			"name": "THE SUMMER HOUSE",
+			"publisher": "Little, Brown",
+			"rank": 15
+		}
+	]
+}

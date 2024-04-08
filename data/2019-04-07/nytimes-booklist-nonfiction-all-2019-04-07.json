@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Ben Shapiro",
+			"description": "The conservative political commentator reflects upon what he considers most impactful to Western civilization.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062857903.jpg",
+			"name": "THE RIGHT SIDE OF HISTORY",
+			"publisher": "Broadside",
+			"rank": 1
+		},
+		{
+			"author": "by Tara Westover",
+			"description": "The daughter of survivalists, who is kept out of school, educates herself enough to leave home for university.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399590504.jpg",
+			"name": "EDUCATED",
+			"publisher": "Random House",
+			"rank": 2
+		},
+		{
+			"author": "by Michelle Obama",
+			"description": "The former first lady describes her journey from the South Side of Chicago to the White House, and how she balanced work, family and her husband\u2019s political ascent.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524763138.jpg",
+			"name": "BECOMING",
+			"publisher": "Crown",
+			"rank": 3
+		},
+		{
+			"author": "by Vicky Ward",
+			"description": "The HuffPost editor at large gives her perspective on Jared Kushner and Ivanka Trump\u2019s agenda inside the White House.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250185945.jpg",
+			"name": "KUSHNER, INC.",
+			"publisher": "St. Martin's",
+			"rank": 4
+		},
+		{
+			"author": "by John Carreyrou",
+			"description": "The rise and fall of Theranos, the biotech startup that failed to deliver on its promise to make blood testing more efficient.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524731663.jpg",
+			"name": "BAD BLOOD",
+			"publisher": "Knopf",
+			"rank": 5
+		},
+		{
+			"author": "by Preet Bharara",
+			"description": "The former U.S. Attorney for the Southern District of New York describes some of his career highlights and gives insights into our legal system.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525521129.jpg",
+			"name": "DOING JUSTICE",
+			"publisher": "Knopf",
+			"rank": 6
+		},
+		{
+			"author": "by Yuval Noah Harari",
+			"description": "How Homo sapiens became Earth\u2019s dominant species.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062316097.jpg",
+			"name": "SAPIENS",
+			"publisher": "Harper",
+			"rank": 7
+		},
+		{
+			"author": "by Pete Buttigieg",
+			"description": "A memoir by the current mayor of South Bend, Ind., and the first openly gay Democratic candidate to run for president of the United States.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781631494369.jpg",
+			"name": "SHORTEST WAY HOME",
+			"publisher": "Liveright",
+			"rank": 8
+		},
+		{
+			"author": "by Trevor Noah",
+			"description": "A memoir about growing up biracial in apartheid South Africa by the host of \u201cThe Daily Show.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399588181.jpg",
+			"name": "BORN A CRIME",
+			"publisher": "Spiegel & Grau",
+			"rank": 9
+		},
+		{
+			"author": "by Frans de Waal",
+			"description": "The death of a chimpanzee matriarch frames a broader look into the world of animal and human emotions.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780393635065.jpg",
+			"name": "MAMA'S LAST HUG",
+			"publisher": "Norton",
+			"rank": 10
+		},
+		{
+			"author": "by Lynne Olson",
+			"description": "A 31-year-old French mother led an intelligence organization that worked against Hitler and the Gestapo.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812994766.jpg",
+			"name": "MADAME FOURCADE'S SECRET WAR",
+			"publisher": "Random House",
+			"rank": 11
+		},
+		{
+			"author": "by Evan Thomas",
+			"description": "A biography of the first female Supreme Court justice.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399589287.jpg",
+			"name": "FIRST: SANDRA DAY O'CONNOR",
+			"publisher": "Random House",
+			"rank": 12
+		},
+		{
+			"author": "by David Wallace-Wells",
+			"description": "How climate-related crises may cause food shortages, refugee emergencies and other catastrophes.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525576709.jpg",
+			"name": "THE UNINHABITABLE EARTH",
+			"publisher": "Tim Duggan",
+			"rank": 13
+		},
+		{
+			"author": "by Patrick Radden Keefe",
+			"description": "A look at the conflict in Northern Ireland known as the Troubles.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385521314.jpg",
+			"name": "SAY NOTHING",
+			"publisher": "Doubleday",
+			"rank": 14
+		},
+		{
+			"author": "by Andrew G. McCabe",
+			"description": "The former deputy director of the F.B.I. describes major events of his career and the ways the agency works to protect Americans.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250207579.jpg",
+			"name": "THE THREAT",
+			"publisher": "St. Martin's",
+			"rank": 15
+		}
+	]
+}

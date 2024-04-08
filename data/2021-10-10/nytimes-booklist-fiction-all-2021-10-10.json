@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Liane Moriarty",
+			"description": "The Delaney siblings suspect their father of causing the disappearance of their mother.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250220257.jpg",
+			"name": "APPLES NEVER FALL",
+			"publisher": "Holt",
+			"rank": 1
+		},
+		{
+			"author": "by James Patterson and Nancy Allen",
+			"description": "A young lawyer winds up in an Alabama jail that remains mysteriously crowded.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316276627.jpg",
+			"name": "THE JAILHOUSE LAWYER",
+			"publisher": "Little, Brown",
+			"rank": 2
+		},
+		{
+			"author": "by Craig Johnson",
+			"description": "The 17th book in the Longmire Mystery series. A player on the Lame Deer Lady Stars High School basketball team receives threats.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593297254.jpg",
+			"name": "DAUGHTER OF THE MORNING STAR",
+			"publisher": "Viking",
+			"rank": 3
+		},
+		{
+			"author": "by Kyle Mills",
+			"description": "Anthony Cook, an autocratic president, distrusts Mitch Rapp, who is working to uncover a traitor.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982164881.jpg",
+			"name": "VINCE FLYNN: ENEMY AT THE GATES",
+			"publisher": "Emily Bestler/Atria",
+			"rank": 4
+		},
+		{
+			"author": "by Colson Whitehead",
+			"description": "Ray Carney, a family man who sells furniture on 125th Street, gets a new clientele made up of vicious and unsavory characters.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385545136.jpg",
+			"name": "HARLEM SHUFFLE",
+			"publisher": "Doubleday",
+			"rank": 5
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "A battered wife raised in a violent home attempts to halt the cycle of abuse.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501110375.jpg",
+			"name": "IT ENDS WITH US",
+			"publisher": "Atria",
+			"rank": 6
+		},
+		{
+			"author": "by Stephen King",
+			"description": "A killer for hire who only takes out bad guys seeks redemption as he does one final job.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982173616.jpg",
+			"name": "BILLY SUMMERS",
+			"publisher": "Scribner",
+			"rank": 7
+		},
+		{
+			"author": "by TJ Klune",
+			"description": "When given seven days to cross over, Wallace tries to pack in a lifetime\u2019s worth of living in that week.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250217349.jpg",
+			"name": "UNDER THE WHISPERING DOOR",
+			"publisher": "Tor",
+			"rank": 8
+		},
+		{
+			"author": "by Laura Dave",
+			"description": "Hannah Hall discovers truths about her missing husband and bonds with his daughter from a previous relationship.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501171345.jpg",
+			"name": "THE LAST THING HE TOLD ME",
+			"publisher": "Simon & Schuster",
+			"rank": 9
+		},
+		{
+			"author": "by Sally Rooney",
+			"description": "A novelist, a warehouse worker, an editorial assistant and a political adviser deal with changes.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780374602604.jpg",
+			"name": "BEAUTIFUL WORLD, WHERE ARE YOU",
+			"publisher": "Farrar, Straus & Giroux",
+			"rank": 10
+		},
+		{
+			"author": "by Richard Powers",
+			"description": "An astrobiologist and single father learns of a neurofeedback treatment that may improve his son\u2019s emotional control.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780393881141.jpg",
+			"name": "BEWILDERMENT",
+			"publisher": "Norton",
+			"rank": 11
+		},
+		{
+			"author": "by Taylor Jenkins Reid",
+			"description": "A movie icon recounts stories of her loves and career to a struggling magazine writer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501161933.jpg",
+			"name": "THE SEVEN HUSBANDS OF EVELYN HUGO",
+			"publisher": "Washington Square/Atria",
+			"rank": 12
+		},
+		{
+			"author": "by Matt Haig",
+			"description": "Nora Seed finds a library beyond the edge of the universe that contains books with multiple possibilities of the lives one could have lived.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525559474.jpg",
+			"name": "THE MIDNIGHT LIBRARY",
+			"publisher": "Viking",
+			"rank": 13
+		},
+		{
+			"author": "by Paula Hawkins",
+			"description": "Three women come under scrutiny when a young man is found gruesomely murdered in a London houseboat.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735211230.jpg",
+			"name": "A SLOW FIRE BURNING",
+			"publisher": "Riverhead",
+			"rank": 14
+		},
+		{
+			"author": "by Delia Owens",
+			"description": "In a quiet town on the North Carolina coast in 1969, a young woman who survived alone in the marsh becomes a murder suspect.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735219090.jpg",
+			"name": "WHERE THE CRAWDADS SING",
+			"publisher": "Putnam",
+			"rank": 15
+		}
+	]
+}

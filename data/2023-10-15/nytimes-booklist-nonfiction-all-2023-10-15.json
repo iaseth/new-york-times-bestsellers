@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Cassidy Hutchinson",
+			"description": "The former special assistant to President Trump and his chief of staff, Mark Meadows, details events surrounding the crisis of conscience she faced.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781668028285.jpg",
+			"name": "ENOUGH",
+			"publisher": "Simon & Schuster",
+			"rank": 1
+		},
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "The 13th book in the conservative commentator\u2019s Killing series gives a portrayal of the events of 1692 and 1693 in Salem Village, Mass.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250283320.jpg",
+			"name": "KILLING THE WITCHES",
+			"publisher": "St. Martin's",
+			"rank": 2
+		},
+		{
+			"author": "by Mark R. Levin",
+			"description": "The Fox News host and author of \u201cAmerican Marxism\u201d argues for the defeat of the Democratic Party.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501183157.jpg",
+			"name": "THE DEMOCRAT PARTY HATES AMERICA",
+			"publisher": "Threshold Editions",
+			"rank": 3
+		},
+		{
+			"author": "by Heather Cox Richardson",
+			"description": "The historian and author of the newsletter \u201cLetters From an American\u201d shares her views on the current political moment.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593652961.jpg",
+			"name": "DEMOCRACY AWAKENING",
+			"publisher": "Viking",
+			"rank": 4
+		},
+		{
+			"author": "by Walter Isaacson",
+			"description": "The author of \u201cThe Code Breaker\u201d traces Musk\u2019s life and summarizes his work on electric vehicles, private space exploration and artificial intelligence.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982181284.jpg",
+			"name": "ELON MUSK",
+			"publisher": "Simon & Schuster",
+			"rank": 5
+		},
+		{
+			"author": "by David Grann",
+			"description": "The story of a murder spree in 1920s Oklahoma that targeted Osage Indians, whose lands contained oil.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385534246.jpg",
+			"name": "KILLERS OF THE FLOWER MOON",
+			"publisher": "Doubleday",
+			"rank": 6
+		},
+		{
+			"author": "by Kerry Washington",
+			"description": "The Emmy Award-winning actor describes setbacks she faced and her journey to find a sense of belonging.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316497398.jpg",
+			"name": "THICKER THAN WATER",
+			"publisher": "Little, Brown Spark",
+			"rank": 7
+		},
+		{
+			"author": "by Anderson Cooper and Katherine Howe",
+			"description": "The authors of \u201cVanderbilt\u201d chronicle the Astor family\u2019s place in American society from 1793 through 2009.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062964700.jpg",
+			"name": "ASTOR",
+			"publisher": "Harper",
+			"rank": 8
+		},
+		{
+			"author": "by Jill Duggar with Derick Dillard and Craig Borlase",
+			"description": "A behind-the-scenes account of the reality TV series \u201c19 Kids and Counting\u201d and a portrayal of life inside the Duggar family.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781668024447.jpg",
+			"name": "COUNTING THE COST",
+			"publisher": "Gallery",
+			"rank": 9
+		},
+		{
+			"author": "by Peter Attia with Bill Gifford",
+			"description": "A look at recent scientific research on aging and longevity.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593236598.jpg",
+			"name": "OUTLIVE",
+			"publisher": "Harmony",
+			"rank": 10
+		},
+		{
+			"author": "by Bessel van der Kolk",
+			"description": "How trauma affects the body and mind, and innovative treatments for recovery.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780670785933.jpg",
+			"name": "THE BODY KEEPS THE SCORE",
+			"publisher": "Penguin",
+			"rank": 11
+		},
+		{
+			"author": "by David Grann",
+			"description": "The survivors of a shipwrecked British vessel on a secret mission during an imperial war with Spain have different accounts of events.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385534260.jpg",
+			"name": "THE WAGER",
+			"publisher": "Doubleday",
+			"rank": 12
+		},
+		{
+			"author": "by Michael Harriot",
+			"description": "A columnist at TheGrio.com articulates moments in American history that center the perspectives and experiences of Black Americans.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780358439165.jpg",
+			"name": "BLACK AF HISTORY",
+			"publisher": "Dey Street",
+			"rank": 13
+		},
+		{
+			"author": "by Kai Bird and Martin J. Sherwin",
+			"description": "A biography of J. Robert Oppenheimer. Winner of the Pulitzer Prize in 2006 and an inspiration for the film \u201cOppenheimer.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780375726262.jpg",
+			"name": "AMERICAN PROMETHEUS",
+			"publisher": "Vintage",
+			"rank": 14
+		},
+		{
+			"author": "by Douglas Brunt",
+			"description": "An account of the disappearance in September 1913 of the man who invented the internal combustion engine.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982169909.jpg",
+			"name": "THE MYSTERIOUS CASE OF RUDOLF DIESEL",
+			"publisher": "Atria",
+			"rank": 15
+		}
+	]
+}

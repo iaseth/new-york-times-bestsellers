@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Janet Evanovich",
+			"description": "The New Jersey bounty hunter Stephanie Plum pursues a fraternity member arrested for beating up a college dean and investigates a murder.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345542984.jpg",
+			"name": "TRICKY TWENTY-TWO",
+			"publisher": "Bantam",
+			"rank": 1
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "The government hit man Will Robie investigates murder charges against his estranged father in their Mississippi hometown.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455586431.jpg",
+			"name": "THE GUILTY",
+			"publisher": "Grand Central",
+			"rank": 2
+		},
+		{
+			"author": "by John Grisham",
+			"description": "The attorney Sebastian Rudd is a \u201clone gunman\u201d who hates injustice and the system and defends unpopular clients.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385539449.jpg",
+			"name": "ROGUE LAWYER",
+			"publisher": "Doubleday",
+			"rank": 3
+		},
+		{
+			"author": "by Mary Higgins Clark and Alafair Burke",
+			"description": "A TV producer investigates a bride\u2019s disappearance for her show, \u201cUnder Suspicion.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501108570.jpg",
+			"name": "ALL DRESSED IN WHITE",
+			"publisher": "Simon & Schuster",
+			"rank": 4
+		},
+		{
+			"author": "by Michael Connelly",
+			"description": "Harry Bosch reluctantly helps his half brother, a defense attorney, and his investigations lead him inside the L.A.P.D.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316225892.jpg",
+			"name": "THE CROSSING",
+			"publisher": "Little, Brown",
+			"rank": 5
+		},
+		{
+			"author": "by Clive Cussler and Graham Brown",
+			"description": "Kurt Austin and Joe Zavala must save the NUMA crew from a mysterious toxin deployed by a villain who wants to build a new Egyptian empire.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399174117.jpg",
+			"name": "THE PHARAOH'S SECRET",
+			"publisher": "Putnam",
+			"rank": 6
+		},
+		{
+			"author": "by Kendall Ryan",
+			"description": "A recent college graduate grapples with her feelings for her brother's best friend.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/A00B014X8XL1Y.jpg",
+			"name": "MONSTER ________",
+			"publisher": "Kendall Ryan",
+			"rank": 7
+		},
+		{
+			"author": "by Andy Weir",
+			"description": "Abandoned by his crew, an astronaut embarks on a dogged quest to stay alive.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780804139038.jpg",
+			"name": "THE MARTIAN",
+			"publisher": "Crown",
+			"rank": 8
+		},
+		{
+			"author": "by Nicholas Sparks",
+			"description": "A couple in love are threatened by secrets from the past.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455520619.jpg",
+			"name": "SEE ME",
+			"publisher": "Grand Central",
+			"rank": 9
+		},
+		{
+			"author": "by Stephen King",
+			"description": "Twenty stories, some never before published.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501111686.jpg",
+			"name": "THE BAZAAR OF BAD DREAMS",
+			"publisher": "Scribner",
+			"rank": 10
+		},
+		{
+			"author": "by Richard Paul Evans",
+			"description": "An aspiring romance writer with a broken heart meets a complicated man at a Christmas writers\u2019 retreat.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501119798.jpg",
+			"name": "THE MISTLETOE INN",
+			"publisher": "Simon & Schuster",
+			"rank": 11
+		},
+		{
+			"author": "by Nora Roberts",
+			"description": "Three couples pool their powers in their search for the prophetic fire star.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780425280102.jpg",
+			"name": "STARS OF FORTUNE",
+			"publisher": "Berkley",
+			"rank": 12
+		},
+		{
+			"author": "by Kim van Alkemade",
+			"description": "A nurse encounters the aging doctor who conducted medical experiments on her as a child.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062338310.jpg",
+			"name": "ORPHAN #8",
+			"publisher": "Morrow/HarperCollins",
+			"rank": 13
+		},
+		{
+			"author": "by Anthony Doerr",
+			"description": "The lives of a blind French girl and a gadget-obsessed German boy before and during World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476746586.jpg",
+			"name": "ALL THE LIGHT WE CANNOT SEE",
+			"publisher": "Scribner",
+			"rank": 14
+		},
+		{
+			"author": "by Douglas Preston and Lincoln Child",
+			"description": "A crime in a quaint Massachusetts town may be connected to rumors of a colony of witches who settled there after the Salem trials.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455525935.jpg",
+			"name": "CRIMSON SHORE",
+			"publisher": "Grand Central",
+			"rank": 15
+		}
+	]
+}

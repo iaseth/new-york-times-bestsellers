@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Jennette McCurdy",
+			"description": "The actress and filmmaker describes her eating disorders and difficult relationship with her mother.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982185824.jpg",
+			"name": "I'M GLAD MY MOM DIED",
+			"publisher": "Simon & Schuster",
+			"rank": 1
+		},
+		{
+			"author": "by Kelly Ripa",
+			"description": "The Daytime Emmy Award-winning TV host shares stories from her life on and off screen.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063073302.jpg",
+			"name": "LIVE WIRE",
+			"publisher": "Dey Street",
+			"rank": 2
+		},
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "The conservative commentator\u2019s Killing series profiles. Elvis Presley, John Lennon and Muhammad Ali.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250283306.jpg",
+			"name": "KILLING THE LEGENDS",
+			"publisher": "St. Martin's",
+			"rank": 3
+		},
+		{
+			"author": "by Neil deGrasse Tyson",
+			"description": "The astrophysicist and director of the Hayden Planetarium delves into subjects including politics, religion, gender and race.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250861504.jpg",
+			"name": "STARRY MESSENGER",
+			"publisher": "Holt",
+			"rank": 4
+		},
+		{
+			"author": "by Bessel van der Kolk",
+			"description": "How trauma affects the body and mind, and innovative treatments for recovery.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780670785933.jpg",
+			"name": "THE BODY KEEPS THE SCORE",
+			"publisher": "Penguin",
+			"rank": 5
+		},
+		{
+			"author": "by Peter Baker and Susan Glasser",
+			"description": "The married journalists who write for The New York Times and The New Yorker posit that Donald Trump began to emulate the foreign autocrats he admired.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385546539.jpg",
+			"name": "THE DIVIDER",
+			"publisher": "Doubleday",
+			"rank": 6
+		},
+		{
+			"author": "by Scott Galloway",
+			"description": "An overview of events from 1945 to the present and how they might inform potential crises in the near future.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593542408.jpg",
+			"name": "ADRIFT",
+			"publisher": "Portfolio",
+			"rank": 7
+		},
+		{
+			"author": "by Buzz Bissinger",
+			"description": "The Pulitzer Prize-winning journalist depicts the service of college football players who served in the Marines during World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062879929.jpg",
+			"name": "THE MOSQUITO BOWL",
+			"publisher": "Harper",
+			"rank": 8
+		},
+		{
+			"author": "by Denver Riggleman with Hunter Walker",
+			"description": "The former House Republican shares his insights on the Jan. 6 Select Committee\u2019s investigation and details about the Trump White House.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250866769.jpg",
+			"name": "THE BREACH",
+			"publisher": "Holt",
+			"rank": 9
+		},
+		{
+			"author": "by Nina Totenberg",
+			"description": "The NPR legal affairs correspondent details her professional accomplishments and friendship with the late Supreme Court Justice Ruth Bader Ginsburg.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982188085.jpg",
+			"name": "DINNERS WITH RUTH",
+			"publisher": "Simon & Schuster",
+			"rank": 10
+		},
+		{
+			"author": "by David Corn",
+			"description": "The Washington bureau chief for Mother Jones magazine gives his take on the Republican Party over the last seven decades.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538723050.jpg",
+			"name": "AMERICAN PSYCHOSIS",
+			"publisher": "Twelve",
+			"rank": 11
+		},
+		{
+			"author": "by Randall Munroe",
+			"description": "The creator of the web comic \u201cxkcd\u201d and former NASA roboticist looks into hypothetical and oddball scenarios.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525537113.jpg",
+			"name": "WHAT IF? 2",
+			"publisher": "Riverhead",
+			"rank": 12
+		},
+		{
+			"author": "by Gabor Mat\u00e9 with Daniel Mat\u00e9",
+			"description": "The potential ways in which trauma and stress from modern-day living can affect our physical health.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593083888.jpg",
+			"name": "THE MYTH OF NORMAL",
+			"publisher": "Avery",
+			"rank": 13
+		},
+		{
+			"author": "by Javier Zamora",
+			"description": "The poet describes his journey over two months from El Salvador to the United States to reconnect with his parents who left years earlier.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593498064.jpg",
+			"name": "SOLITO",
+			"publisher": "Hogarth",
+			"rank": 14
+		},
+		{
+			"author": "by Andy Borowitz",
+			"description": "The creator of \u201cThe Borowitz Report\u201d looks at the declining knowledge of some public officials over the last 50 years.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781668003886.jpg",
+			"name": "PROFILES IN IGNORANCE",
+			"publisher": "Avid Reader",
+			"rank": 15
+		}
+	]
+}

@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Michael Connelly",
+			"description": "A death on New Year\u2019s Eve, an unsolved murder and a hunt for serial rapists bring Bosch and Ballard back together.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316485647.jpg",
+			"name": "THE DARK HOURS",
+			"publisher": "Little, Brown",
+			"rank": 1
+		},
+		{
+			"author": "by John Grisham",
+			"description": "The second book in the Whistler series. Investigator Lacy Stoltz goes after a serial killer and closes in on a sitting judge.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385546027.jpg",
+			"name": "THE JUDGE'S LIST",
+			"publisher": "Doubleday",
+			"rank": 2
+		},
+		{
+			"author": "by Mitch Albom",
+			"description": "After a ship explodes, 10 people struggling to survive pull a man who claims to be the Lord out of the sea.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062888341.jpg",
+			"name": "THE STRANGER IN THE LIFEBOAT",
+			"publisher": "Harper",
+			"rank": 3
+		},
+		{
+			"author": "by Ken Follett",
+			"description": "Tensions escalate around the globe as President Pauline Green works to prevent a world war.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593300015.jpg",
+			"name": "NEVER",
+			"publisher": "Viking",
+			"rank": 4
+		},
+		{
+			"author": "by Lee Child and Andrew Child",
+			"description": "The 26th book in the Jack Reacher series. Reacher helps an F.B.I. agent look for her missing brother and takes on a foe named Dendoncker.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984818508.jpg",
+			"name": "BETTER OFF DEAD",
+			"publisher": "Delacorte",
+			"rank": 5
+		},
+		{
+			"author": "by Nicholas Sparks",
+			"description": "Maggie Dawes, a renowned travel photographer, struggles with a medical diagnosis over Christmas.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538728628.jpg",
+			"name": "THE WISH",
+			"publisher": "Grand Central",
+			"rank": 6
+		},
+		{
+			"author": "by Janet Evanovich",
+			"description": "The 28th book in the Stephanie Plum series. Diesel and Stephanie track the international computer hacker Oswald Wednesday.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982154875.jpg",
+			"name": "GAME ON",
+			"publisher": "Atria",
+			"rank": 7
+		},
+		{
+			"author": "by Amor Towles",
+			"description": "Two friends who escaped from a juvenile work farm take Emmett Watson on an unexpected journey to New York City in 1954.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735222359.jpg",
+			"name": "THE LINCOLN HIGHWAY",
+			"publisher": "Viking",
+			"rank": 8
+		},
+		{
+			"author": "by Christine Feehan",
+			"description": "The 35th book in the Carpathian series. Adalasia\u2019s ability to see what is to come in her deck of cards is both a blessing and a curse.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593333198.jpg",
+			"name": "DARK TAROT",
+			"publisher": "Berkley",
+			"rank": 9
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "A battered wife raised in a violent home attempts to halt the cycle of abuse.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501110375.jpg",
+			"name": "IT ENDS WITH US",
+			"publisher": "Atria",
+			"rank": 10
+		},
+		{
+			"author": "by Taylor Jenkins Reid",
+			"description": "A movie icon recounts stories of her loves and career to a struggling magazine writer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501161933.jpg",
+			"name": "THE SEVEN HUSBANDS OF EVELYN HUGO",
+			"publisher": "Washington Square/Atria",
+			"rank": 11
+		},
+		{
+			"author": "by Louise Erdrich",
+			"description": "A woman released from prison deals with the ghost of an annoying customer haunting a bookstore in Minneapolis during a contentious time.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062671127.jpg",
+			"name": "THE SENTENCE",
+			"publisher": "Harper",
+			"rank": 12
+		},
+		{
+			"author": "by Frank Herbert",
+			"description": "The 1965 science fiction novel that is the basis of several adaptations, including the recent film directed by Denis Villeneuve.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593438374.jpg",
+			"name": "DUNE",
+			"publisher": "Ace",
+			"rank": 13
+		},
+		{
+			"author": "by Anthony Doerr",
+			"description": "An interconnected cast of dreamers and outsiders are in dangerous and disparate settings past, present and future.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982168438.jpg",
+			"name": "CLOUD CUCKOO LAND",
+			"publisher": "Scribner",
+			"rank": 14
+		},
+		{
+			"author": "by Liane Moriarty",
+			"description": "The Delaney siblings suspect their father of causing the disappearance of their mother.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250220257.jpg",
+			"name": "APPLES NEVER FALL",
+			"publisher": "Holt",
+			"rank": 15
+		}
+	]
+}

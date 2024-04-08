@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Donald Trump Jr",
+			"description": "Forays into politics and views on liberals from the executive vice president of the Trump Organization.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781546086031.jpg",
+			"name": "TRIGGERED",
+			"publisher": "Center Street",
+			"rank": 1
+		},
+		{
+			"author": "by Mitch Albom",
+			"description": "Lessons learned by the Alboms when they bring a Haitian orphan with a life-threatening illness into their family.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062952394.jpg",
+			"name": "FINDING CHIKA",
+			"publisher": "Harper",
+			"rank": 2
+		},
+		{
+			"author": "by Brian Kilmeade",
+			"description": "The \"Fox & Friends\u201d host gives an account of the battle against the Mexican Army in 1836.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525540533.jpg",
+			"name": "SAM HOUSTON AND THE ALAMO AVENGERS",
+			"publisher": "Sentinel",
+			"rank": 3
+		},
+		{
+			"author": "by Elton John",
+			"description": "The multi-award-winning solo artist's first autobiography chronicles his career, relationships and private struggles.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250147608.jpg",
+			"name": "ME",
+			"publisher": "Holt",
+			"rank": 4
+		},
+		{
+			"author": "by Flea",
+			"description": "A memoir by the bassist and a founding member of the Red Hot Chili Peppers.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455530533.jpg",
+			"name": "ACID FOR THE CHILDREN",
+			"publisher": "Grand Central",
+			"rank": 5
+		},
+		{
+			"author": "by Malcolm Gladwell",
+			"description": "Famous examples of miscommunication serve as the backdrop to explain potential conflicts and misunderstandings.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316478526.jpg",
+			"name": "TALKING TO STRANGERS",
+			"publisher": "Little, Brown",
+			"rank": 6
+		},
+		{
+			"author": "by Rachel Maddow",
+			"description": "The MSNBC host argues that the global oil and gas industry has weakened democracies and bolstered authoritarians.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525575474.jpg",
+			"name": "BLOWOUT",
+			"publisher": "Crown",
+			"rank": 7
+		},
+		{
+			"author": "by Tara Westover",
+			"description": "The daughter of survivalists, who is kept out of school, educates herself enough to leave home for university.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399590504.jpg",
+			"name": "EDUCATED",
+			"publisher": "Random House",
+			"rank": 8
+		},
+		{
+			"author": "by Ronan Farrow",
+			"description": "The Pulitzer Prize-winning reporter details some surveillance and intimidation tactics used to pressure journalists and elude consequences by certain wealthy and connected men.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316486637.jpg",
+			"name": "CATCH AND KILL",
+			"publisher": "Little, Brown",
+			"rank": 9
+		},
+		{
+			"author": "by Hillary Rodham Clinton and Chelsea Clinton",
+			"description": "Profiles of women from around the world who have blazed trails and challenged the status quo.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501178412.jpg",
+			"name": "THE BOOK OF GUTSY WOMEN",
+			"publisher": "Simon & Schuster",
+			"rank": 10
+		},
+		{
+			"author": "by Prince. Edited by Dan Piepenbring",
+			"description": "A memoir by the musician written before his death, with photos and other memorabilia detailing his evolution.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399589652.jpg",
+			"name": "THE BEAUTIFUL ONES",
+			"publisher": "Spiegel & Grau",
+			"rank": 11
+		},
+		{
+			"author": "by Gregory Zuckerman",
+			"description": "How the  mathematician Jim Simons analyzed data to advance algorithmic trading, which has impacted financial and political spheres.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735217997.jpg",
+			"name": "THE MAN WHO SOLVED THE MARKET",
+			"publisher": "Portfolio/Penguin",
+			"rank": 12
+		},
+		{
+			"author": "by Charles Brandt",
+			"description": "A World War II veteran works for a crime boss and comes into contact with the union boss Jimmy Hoffa. The basis of the movie \"The Irishman.\"",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781586422479.jpg",
+			"name": "I HEARD YOU PAINT HOUSES",
+			"publisher": "Steerforth",
+			"rank": 13
+		},
+		{
+			"author": "by Bill Bryson",
+			"description": "An owner\u2019s manual of the human body covering various parts, functions and what happens when things go wrong.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385539302.jpg",
+			"name": "THE BODY",
+			"publisher": "Doubleday",
+			"rank": 14
+		},
+		{
+			"author": "by Mo Rocca and Jonathan Greenberg",
+			"description": "The humorist spotlights frequently unnoticed aspects of deceased celebrities and historical figures.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501197628.jpg",
+			"name": "MOBITUARIES",
+			"publisher": "Simon & Schuster",
+			"rank": 15
+		}
+	]
+}

@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Paul Kalanithi",
+			"description": "A memoir by a physician who received a diagnosis of Stage IV lung cancer at the age of 36.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812988413.jpg",
+			"name": "WHEN BREATH BECOMES AIR",
+			"publisher": "Random House",
+			"rank": 1
+		},
+		{
+			"author": "by Christy Beam",
+			"description": "A mother tells the story of her once-sickly daughter, whose chronic ailments disappeared after a near-death experience.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316381833.jpg",
+			"name": "MIRACLES FROM HEAVEN",
+			"publisher": "Hachette",
+			"rank": 2
+		},
+		{
+			"author": "by Jane Mayer",
+			"description": "An account of how the Koch brothers and other super-wealthy donors deployed their money to change American politics.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385535601.jpg",
+			"name": "DARK MONEY",
+			"publisher": "Doubleday",
+			"rank": 3
+		},
+		{
+			"author": "by Ta-Nehisi Coates",
+			"description": "A meditation on race in America as well as a personal story by The Atlantic's national correspondent; a National Book Award winner.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780679645986.jpg",
+			"name": "BETWEEN THE WORLD AND ME",
+			"publisher": "Spiegel & Grau",
+			"rank": 4
+		},
+		{
+			"author": "by Charles Duhigg",
+			"description": "The science of productivity, from the author of \u201cThe Power of Habit.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780679645429.jpg",
+			"name": "SMARTER FASTER BETTER",
+			"publisher": "Random House",
+			"rank": 5
+		},
+		{
+			"author": "by Ron Chernow",
+			"description": "A biography of the first Treasury secretary, a major author of the Federalist Papers and an advocate of strong central government.  Originally published in 2004 and the basis of the Broadway play.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780143034759.jpg",
+			"name": "ALEXANDER HAMILTON",
+			"publisher": "Penguin",
+			"rank": 6
+		},
+		{
+			"author": "by Daniel James Brown",
+			"description": "The University of Washington\u2019s eight-oar crew and their quest for gold at the 1936 Berlin Olympics.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101622742.jpg",
+			"name": "THE BOYS IN THE BOAT",
+			"publisher": "Penguin",
+			"rank": 7
+		},
+		{
+			"author": "by Kate Clifford Larson",
+			"description": "The tragic story of the Kennedys\u2019 intellectually disabled oldest daughter.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780547617954.jpg",
+			"name": "ROSEMARY",
+			"publisher": "Houghton Mifflin Harcourt",
+			"rank": 8
+		},
+		{
+			"author": "by Sue Klebold",
+			"description": "The mother of one of the Columbine shooters wrestles with her grief and guilt and discusses how parents can become more aware of the signs of mental illness in teenagers.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101902769.jpg",
+			"name": "A MOTHER'S RECKONING",
+			"publisher": "Crown",
+			"rank": 9
+		},
+		{
+			"author": "by Atul Gawande",
+			"description": "The surgeon and New Yorker writer considers how doctors fail patients at the end of life, and how they can do better.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780805095159.jpg",
+			"name": "BEING MORTAL",
+			"publisher": "Metropolitan/Holt",
+			"rank": 10
+		},
+		{
+			"author": "by Padma Lakshmi",
+			"description": "The cookbook writer and host of \u201cTop Chef\u201d traces her life\u2019s journey, beginning in South India.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062202628.jpg",
+			"name": "LOVE, LOSS, AND WHAT WE ATE",
+			"publisher": "Ecco/HarperCollins",
+			"rank": 11
+		},
+		{
+			"author": "by Matthew Desmond",
+			"description": "How poor people repeatedly lose their homes while landlords profit.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780553447446.jpg",
+			"name": "EVICTED",
+			"publisher": "Crown",
+			"rank": 12
+		},
+		{
+			"author": "by Michael Lewis",
+			"description": "The people who saw the real estate crash coming and made billions from their foresight. Originally published in 2010 and now a movie.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780393072235.jpg",
+			"name": "THE BIG SHORT",
+			"publisher": "Norton",
+			"rank": 13
+		},
+		{
+			"author": "by Malala Yousafzai with Christina Lamb",
+			"description": "The experience of the Pakistani girl who campaigned for women\u2019s education and was shot by the Taliban.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316322409.jpg",
+			"name": "I AM MALALA",
+			"publisher": "Little, Brown",
+			"rank": 14
+		},
+		{
+			"author": "by Arek Hersh",
+			"description": "A memoir of surviving the Holocaust as a boy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781910167762.jpg",
+			"name": "A DETAIL OF HISTORY",
+			"publisher": "Apostrophe",
+			"rank": 15
+		}
+	]
+}

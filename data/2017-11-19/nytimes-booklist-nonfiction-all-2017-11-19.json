@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Walter Isaacson",
+			"description": "A biography of the Italian Renaissance polymath which connects his work in various disciplines.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501139154.jpg",
+			"name": "LEONARDO DA VINCI",
+			"publisher": "Simon & Schuster",
+			"rank": 1
+		},
+		{
+			"author": "by Chris Matthews",
+			"description": "The New York senator's journey from his formative years to his tragic run for president.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501111860.jpg",
+			"name": "BOBBY KENNEDY",
+			"publisher": "Simon & Schuster",
+			"rank": 2
+		},
+		{
+			"author": "by Brian Kilmeade and Don Yaeger",
+			"description": "Major General Jackson takes on the British in Louisiana.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735213234.jpg",
+			"name": "ANDREW JACKSON AND THE MIRACLE OF NEW ORLEANS",
+			"publisher": "Sentinel",
+			"rank": 3
+		},
+		{
+			"author": "by Jenna Bush Hager and Barbara Pierce Bush. Illustrated by Ramona Kaulitzki",
+			"description": "How the twin daughters of former president George W. Bush grew up in the public eye.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538711415.jpg",
+			"name": "SISTERS FIRST",
+			"publisher": "Grand Central",
+			"rank": 4
+		},
+		{
+			"author": "by Ron Chernow",
+			"description": "A biography of the Union general of the Civil War and two-term president of the United States.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594204876.jpg",
+			"name": "GRANT",
+			"publisher": "Penguin Press",
+			"rank": 5
+		},
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "Major events and battles during the Revolutionary War are told from several perspectives.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781627790642.jpg",
+			"name": "KILLING ENGLAND",
+			"publisher": "Holt",
+			"rank": 6
+		},
+		{
+			"author": "by Hillary Clinton",
+			"description": "An inside look at her campaign and how she recovered in its aftermath.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501175565.jpg",
+			"name": "WHAT HAPPENED",
+			"publisher": "Simon & Schuster",
+			"rank": 7
+		},
+		{
+			"author": "by Gabrielle Union",
+			"description": "Essays by the actress and activist on love, step-parenting and living beyond personal tragedy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062693983.jpg",
+			"name": "WE'RE GOING TO NEED MORE WINE",
+			"publisher": "Dey St.",
+			"rank": 8
+		},
+		{
+			"author": "by J.D. Vance",
+			"description": "A Yale Law School graduate looks at the struggles of the white working class through the story of his own childhood.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062300560.jpg",
+			"name": "HILLBILLY ELEGY",
+			"publisher": "HarperCollins",
+			"rank": 9
+		},
+		{
+			"author": "by Ta-Nehisi Coates",
+			"description": "A series of essays that cover each year of the Obama administration, the writer's own journey and the echoes of American history in modern times.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399590566.jpg",
+			"name": "WE WERE EIGHT YEARS IN POWER",
+			"publisher": "One World",
+			"rank": 10
+		},
+		{
+			"author": "by Eric Metaxas",
+			"description": "A biography of the monk whose writings sparked the Protestant Reformation.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101980019.jpg",
+			"name": "MARTIN LUTHER",
+			"publisher": "Viking",
+			"rank": 11
+		},
+		{
+			"author": "by Neil deGrasse Tyson",
+			"description": "A straightforward, easy-to-understand introduction to the laws that govern the universe.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780393609394.jpg",
+			"name": "ASTROPHYSICS FOR PEOPLE IN A HURRY",
+			"publisher": "Norton",
+			"rank": 12
+		},
+		{
+			"author": "by Bruce Dickinson",
+			"description": "The lead singer of Iron Maiden discusses his time as a competitive fencer, airline pilot and cancer survivor.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062468130.jpg",
+			"name": "WHAT DOES THIS BUTTON DO?",
+			"publisher": "Dey St.",
+			"rank": 13
+		},
+		{
+			"author": "by Scott Kelly",
+			"description": "A memoir by the retired astronaut and former commander of the International Space Station.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524731595.jpg",
+			"name": "ENDURANCE",
+			"publisher": "Knopf",
+			"rank": 14
+		},
+		{
+			"author": "by Ron Hall and Denver Moore with Lynn Vincent",
+			"description": "The unlikely friendship between a homeless drifter and a successful art dealer who meet at a shelter in Texas.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780849919107.jpg",
+			"name": "SAME KIND OF DIFFERENT AS ME",
+			"publisher": "Thomas Nelson",
+			"rank": 15
+		}
+	]
+}

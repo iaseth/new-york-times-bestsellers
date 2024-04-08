@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Rick Atkinson",
+			"description": "The final volume of the Liberation Trilogy describes the Allied victory in Europe, from D-Day in June 1944 to the German surrender 11 months later.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780805062908.jpg",
+			"name": "THE GUNS AT LAST LIGHT",
+			"publisher": "Holt",
+			"rank": 1
+		},
+		{
+			"author": "by Phil Robertson with Mark Schlabach",
+			"description": "The Duck Commander pays tribute to \u201cfaith, family and ducks.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476726090.jpg",
+			"name": "HAPPY, HAPPY, HAPPY",
+			"publisher": "Howard Books",
+			"rank": 2
+		},
+		{
+			"author": "by David Sedaris",
+			"description": "Essays from the humorist on subjects like French dentistry and a North Carolina Costco.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316125680.jpg",
+			"name": "LET'S EXPLORE DIABETES WITH OWLS",
+			"publisher": "Little, Brown",
+			"rank": 3
+		},
+		{
+			"author": "by Sheryl Sandberg with Nell Scovell",
+			"description": "The chief operating officer of Facebook urges women to pursue their careers without ambivalence.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385349956.jpg",
+			"name": "LEAN IN",
+			"publisher": "Knopf",
+			"rank": 4
+		},
+		{
+			"author": "by Eben Alexander",
+			"description": "A neurosurgeon recounts his near death experience during a coma from bacterial meningitis.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451695199.jpg",
+			"name": "PROOF OF HEAVEN",
+			"publisher": "Simon & Schuster",
+			"rank": 5
+		},
+		{
+			"author": "by Glenn Beck and others",
+			"description": "An argument against gun restriction laws.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476739885.jpg",
+			"name": "CONTROL",
+			"publisher": "Threshold Editions/Mercury Radio Arts",
+			"rank": 6
+		},
+		{
+			"author": "by Elizabeth Letts",
+			"description": "The story of Snowman the horse, the jumper and national celebrity.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345521095.jpg",
+			"name": "THE EIGHTY-DOLLAR CHAMPION",
+			"publisher": "Ballantine",
+			"rank": 7
+		},
+		{
+			"author": "by Jimmy Connors",
+			"description": "A memoir by the bad boy of 1970s tennis, who was for a time the world\u2019s top-ranked, and probably most obnoxious, player.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780061242991.jpg",
+			"name": "THE OUTSIDER",
+			"publisher": "Harper",
+			"rank": 8
+		},
+		{
+			"author": "by Jessica Buchanan",
+			"description": "The story of an American teacher in Somalia who was rescued by Navy SEAL Team Six after being held hostage by pirates.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476725192.jpg",
+			"name": "IMPOSSIBLE ODDS",
+			"publisher": "Atria",
+			"rank": 9
+		},
+		{
+			"author": "by Amanda Knox",
+			"description": "Knox, who was convicted of the murder of her roommate in 2009 when she was an American student in Italy, a conviction that was overturned in 2011, tells her story.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062217226.jpg",
+			"name": "WAITING TO BE HEARD",
+			"publisher": "Harper",
+			"rank": 10
+		},
+		{
+			"author": "by Cheryl Strayed",
+			"description": "A woman\u2019s account of a life-changing 1,100-mile hike along the Pacific Crest Trail during the summer of 1995.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307476074.jpg",
+			"name": "WILD",
+			"publisher": "Knopf",
+			"rank": 11
+		},
+		{
+			"author": "by Michael Pollan",
+			"description": "The writer masters recipes and argues that regaining control of cooking will make Americans healthier.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594204210.jpg",
+			"name": "COOKED",
+			"publisher": "Penguin Press",
+			"rank": 12
+		},
+		{
+			"author": "by Jim Gaffigan",
+			"description": "The comedian\u2019s life with five kids in a two-bedroom New York City apartment.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385349079.jpg",
+			"name": "DAD IS FAT",
+			"publisher": "Crown Archetype",
+			"rank": 13
+		},
+		{
+			"author": "by Bill O'Reilly",
+			"description": "A \u201chighlight reel\u201d of previous writings, updated, from the host of \u201cThe O\u2019Reilly Factor.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385346627.jpg",
+			"name": "KEEP IT PITHY",
+			"publisher": "Crown Archetype",
+			"rank": 14
+		},
+		{
+			"author": "by Justin Halpern",
+			"description": "A coming-of-age memoir organized around the musings, purveyed on Twitter, of the author\u2019s father.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062002945.jpg",
+			"name": "_____ MY DAD SAYS",
+			"publisher": "HarperCollins",
+			"rank": 15
+		}
+	]
+}

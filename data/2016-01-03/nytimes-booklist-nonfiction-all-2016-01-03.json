@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "The host of \u201cThe O\u2019Reilly Factor\u201d recounts the events surrounding the attempted assassination of President Reagan in 1981.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781627792424.jpg",
+			"name": "KILLING REAGAN",
+			"publisher": "Holt",
+			"rank": 1
+		},
+		{
+			"author": "by Brian Kilmeade and Don Yaeger",
+			"description": "The war against the Barbary pirates in 1801.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698197411.jpg",
+			"name": "THOMAS JEFFERSON AND THE TRIPOLI PIRATES",
+			"publisher": "Sentinel",
+			"rank": 2
+		},
+		{
+			"author": "by Brandon Stanton",
+			"description": "Photographs and interviews from the creator of the blog and the book \u201cHumans of New York.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250058904.jpg",
+			"name": "HUMANS OF NEW YORK: STORIES",
+			"publisher": "St. Martin's",
+			"rank": 3
+		},
+		{
+			"author": "by Ta-Nehisi Coates",
+			"description": "A meditation on race in America as well as a personal story by the Atlantic's national correspondent.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780679645986.jpg",
+			"name": "BETWEEN THE WORLD AND ME",
+			"publisher": "Spiegel & Grau",
+			"rank": 4
+		},
+		{
+			"author": "by Daniel James Brown",
+			"description": "The University of Washington\u2019s eight-oar crew and their quest for gold at the 1936 Berlin Olympics.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101622742.jpg",
+			"name": "THE BOYS IN THE BOAT",
+			"publisher": "Penguin",
+			"rank": 5
+		},
+		{
+			"author": "by Randall Munroe",
+			"description": "Scientific (but often funny) answers to hypothetical questions, based in part on the author\u2019s website, xkcd.com.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780544272644.jpg",
+			"name": "WHAT IF?",
+			"publisher": "Houghton Mifflin Harcourt",
+			"rank": 6
+		},
+		{
+			"author": "by David McCullough",
+			"description": "The story of the bicycle mechanics from Ohio who ushered in the age of flight.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476728742.jpg",
+			"name": "THE WRIGHT BROTHERS",
+			"publisher": "Simon & Schuster",
+			"rank": 7
+		},
+		{
+			"author": "by Jon Meacham",
+			"description": "A biography of George H.W. Bush.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812998207.jpg",
+			"name": "DESTINY AND POWER",
+			"publisher": "Random House",
+			"rank": 8
+		},
+		{
+			"author": "by Mindy Kaling",
+			"description": "More personal essays from the comedian and actress.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780804138154.jpg",
+			"name": "WHY NOT ME?",
+			"publisher": "Crown Archetype",
+			"rank": 9
+		},
+		{
+			"author": "by Mary Beard",
+			"description": "A concise history of ancient Rome.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780871404237.jpg",
+			"name": "SPQR",
+			"publisher": "Liveright",
+			"rank": 10
+		},
+		{
+			"author": "by Michael Lewis",
+			"description": "The people who saw the real estate crash coming and made billions from their foresight.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780393072235.jpg",
+			"name": "THE BIG SHORT",
+			"publisher": "W. W. Norton & Company",
+			"rank": 11
+		},
+		{
+			"author": "by Malala Yousafzai with Christina Lamb",
+			"description": "The experience of the Pakistani girl who advocated for women\u2019s education and was shot by the Taliban.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316322409.jpg",
+			"name": "I AM MALALA",
+			"publisher": "Little, Brown",
+			"rank": 12
+		},
+		{
+			"author": "by Carly Simon",
+			"description": "A memoir by the singer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250095909.jpg",
+			"name": "BOYS IN THE TREES",
+			"publisher": "Flatiron",
+			"rank": 13
+		},
+		{
+			"author": "by Amy Poehler",
+			"description": "A humorous miscellany from the comedian and actress.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062268341.jpg",
+			"name": "YES PLEASE",
+			"publisher": "Dey Street/Morrow",
+			"rank": 14
+		},
+		{
+			"author": "by Stacy Schiff",
+			"description": "An account of the Salem witch trials of 1692.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316200615.jpg",
+			"name": "THE WITCHES",
+			"publisher": "Little, Brown",
+			"rank": 15
+		}
+	]
+}

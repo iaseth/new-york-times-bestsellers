@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by James Patterson and Maxine Paetro",
+			"description": "A week after giving birth, Detective Lindsay Boxer returns to work to investigate some grisly murders.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316210843.jpg",
+			"name": "12TH OF NEVER",
+			"publisher": "Little, Brown",
+			"rank": 1
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "The government hitman Will Robie uncovers a serious threat as he attempts to take out a fellow assassin who has gone rogue.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455521289.jpg",
+			"name": "THE HIT",
+			"publisher": "Grand Central",
+			"rank": 2
+		},
+		{
+			"author": "by Jeffrey Archer",
+			"description": "In Book 3 of the Clifton Chronicles, the focus shifts to a new generation \u2014 Sebastian, the son of Harry and Emma Clifton.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250022370.jpg",
+			"name": "BEST KEPT SECRET",
+			"publisher": "St. Martin's",
+			"rank": 3
+		},
+		{
+			"author": "by Nora Roberts",
+			"description": "A former criminal attorney who has been acquitted of his wife\u2019s murder retreats to his family estate on a rocky New England cliff, where he is comforted by the house\u2019s caretaker amid continuing danger.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399159893.jpg",
+			"name": "WHISKEY BEACH",
+			"publisher": "Putnam",
+			"rank": 4
+		},
+		{
+			"author": "by Sherryl Woods",
+			"description": "Facing a personal crisis, an ambitious woman retreats to the welcoming arms of her family on the North Carolina coast. But the last thing she wants is an unexpected love.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780778314424.jpg",
+			"name": "WIND CHIME POINT",
+			"publisher": "Harlequin Mira",
+			"rank": 5
+		},
+		{
+			"author": "by Laurann Dohner",
+			"description": "Drugged, Moon has become little more than a dangerous, feral threat, so Dr. Joyce Yards is called in. Book 10 in the New Species series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781419940552.jpg",
+			"name": "MOON",
+			"publisher": "Ellora's Cave",
+			"rank": 6
+		},
+		{
+			"author": "by H. M. Ward",
+			"description": "A young woman goes to bed with a sexy man, but complications ensue. The first in a series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780985547325.jpg",
+			"name": "DAMAGED",
+			"publisher": "Laree Bailey",
+			"rank": 7
+		},
+		{
+			"author": "by Rachel Van Dyken",
+			"description": "A Seattle millionaire asks a childhood friend to pretend to be engaged to him. But she reckoned without his brother.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780989078313.jpg",
+			"name": "THE BET",
+			"publisher": "Rachel Van Dyken",
+			"rank": 8
+		},
+		{
+			"author": "by John Irving",
+			"description": "A schoolboy who accidentally killed the mother of his best friend turns into a prophet.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062204103.jpg",
+			"name": "A PRAYER FOR OWEN MEANY",
+			"publisher": "HarperCollins",
+			"rank": 9
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "In the final installment of the Slammed series, Will tells the story of his complicated relationship with Layken\u00a0from his own point of view.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476746548.jpg",
+			"name": "THIS GIRL",
+			"publisher": "Atria",
+			"rank": 10
+		},
+		{
+			"author": "by  Susan Mallery",
+			"description": "Fayrene Hopkins and Ryan Patterson find that what started out as something temporary is beginning to look like the real thing. A Fool\u2019s Gold series novella.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781460311998.jpg",
+			"name": "HALFWAY THERE",
+			"publisher": "Harlequin",
+			"rank": 11
+		},
+		{
+			"author": "by Abbi Glines",
+			"description": "For Woods Kerrington, the carefree girl who didn\u2019t care what the world thought of her was more breakable than he could ever imagine.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780988301320.jpg",
+			"name": "TWISTED PERFECTION",
+			"publisher": "Abbi Glines",
+			"rank": 12
+		},
+		{
+			"author": "by Katy Evans",
+			"description": "Remington Tate, the star of the dangerous underground fighting circuit, sets a woman\u2019s mind ablaze and her body on fire with wanting.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/A00B00C9QORFW.jpg",
+			"name": "REAL",
+			"publisher": "Katy Evans",
+			"rank": 13
+		},
+		{
+			"author": "by Gillian Flynn",
+			"description": "A woman disappears on the day of her fifth anniversary; is her husband a killer?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307588388.jpg",
+			"name": "GONE GIRL",
+			"publisher": "Crown",
+			"rank": 14
+		},
+		{
+			"author": "by Matthew Quick",
+			"description": "A man recently released from a mental institution has two obsessions: his estranged wife and the Philadelphia Eagles. The basis of the movie.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780374533571.jpg",
+			"name": "THE SILVER LININGS PLAYBOOK",
+			"publisher": "Sarah Crichton/Farrar, Straus & Giroux",
+			"rank": 15
+		}
+	]
+}

@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Prince Harry",
+			"description": "The Duke of Sussex details his struggles with the royal family, loss of his mother, service in the British Army and marriage to Meghan Markle.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593593806.jpg",
+			"name": "SPARE",
+			"publisher": "Random House",
+			"rank": 1
+		},
+		{
+			"author": "by David Grann",
+			"description": "The survivors of a shipwrecked British vessel on a secret mission during an imperial war with Spain have different accounts of events.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385534260.jpg",
+			"name": "THE WAGER",
+			"publisher": "Doubleday",
+			"rank": 2
+		},
+		{
+			"author": "by Andy Cohen",
+			"description": "The host and executive producer of \u201cWatch What Happens Live\u201d juggles fatherhood and his career.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250890924.jpg",
+			"name": "THE DADDY DIARIES",
+			"publisher": "Holt",
+			"rank": 3
+		},
+		{
+			"author": "by Michelle Obama",
+			"description": "The former first lady shares personal stories and the tools she uses to deal with difficult situations.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593237465.jpg",
+			"name": "THE LIGHT WE CARRY",
+			"publisher": "Crown",
+			"rank": 4
+		},
+		{
+			"author": "by Bessel van der Kolk",
+			"description": "How trauma affects the body and mind, and innovative treatments for recovery.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780670785933.jpg",
+			"name": "THE BODY KEEPS THE SCORE",
+			"publisher": "Penguin",
+			"rank": 5
+		},
+		{
+			"author": "by Peter Attia with Bill Gifford",
+			"description": "A look at recent scientific research on aging and longevity.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593236598.jpg",
+			"name": "OUTLIVE",
+			"publisher": "Harmony",
+			"rank": 6
+		},
+		{
+			"author": "by Jennette McCurdy",
+			"description": "The actress and filmmaker describes her eating disorders and difficult relationship with her mother.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982185824.jpg",
+			"name": "I'M GLAD MY MOM DIED",
+			"publisher": "Simon & Schuster",
+			"rank": 7
+		},
+		{
+			"author": "by Michelle Zauner",
+			"description": "The daughter of a Korean mother and Jewish American father, and leader of the indie rock project Japanese Breakfast, describes creating her own identity after losing her mother to cancer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525657743.jpg",
+			"name": "CRYING IN H MART",
+			"publisher": "Vintage",
+			"rank": 8
+		},
+		{
+			"author": "by Luke Russert",
+			"description": "The Emmy Award\u2013winning journalist details how he grieved for his late father and sought to make his own way.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780785291817.jpg",
+			"name": "LOOK FOR ME THERE",
+			"publisher": "Harper Horizon",
+			"rank": 9
+		},
+		{
+			"author": "by Andrew McCarthy",
+			"description": "The actor and travel writer treks 500 miles across Spain's Camino de Santiago with his elder son.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538709207.jpg",
+			"name": "WALKING WITH SAM",
+			"publisher": "Grand Central",
+			"rank": 10
+		},
+		{
+			"author": "by David Grann",
+			"description": "The story of a murder spree in 1920s Oklahoma that targeted Osage Indians, whose lands contained oil.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385534246.jpg",
+			"name": "KILLERS OF THE FLOWER MOON",
+			"publisher": "Doubleday",
+			"rank": 11
+		},
+		{
+			"author": "by Matthew McConaughey",
+			"description": "The Academy Award-winning actor shares snippets from the diaries he kept over the last 35 years.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593139134.jpg",
+			"name": "GREENLIGHTS",
+			"publisher": "Crown",
+			"rank": 12
+		},
+		{
+			"author": "by Robin Wall Kimmerer",
+			"description": "A botanist and member of the Citizen Potawatomi Nation espouses having an understanding and appreciation of plants and animals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781571313560.jpg",
+			"name": "BRAIDING SWEETGRASS",
+			"publisher": "Milkweed Editions",
+			"rank": 13
+		},
+		{
+			"author": "by bell hooks",
+			"description": "The late feminist icon explores the causes of a polarized society and the meaning of love.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780060959470.jpg",
+			"name": "ALL ABOUT LOVE",
+			"publisher": "Morrow",
+			"rank": 14
+		},
+		{
+			"author": "by Deborah Roberts",
+			"description": "Essays by celebrities about the teachers who impacted their lives.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781368095051.jpg",
+			"name": "LESSONS LEARNED AND CHERISHED",
+			"publisher": "Andscape",
+			"rank": 15
+		}
+	]
+}

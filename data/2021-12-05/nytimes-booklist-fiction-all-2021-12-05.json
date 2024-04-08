@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by David Baldacci",
+			"description": "The fourth book in the Atlee Pine series. Atlee discovers her twin sister survived an abduction at the age of 6.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538719725.jpg",
+			"name": "MERCY",
+			"publisher": "Grand Central",
+			"rank": 1
+		},
+		{
+			"author": "by John Grisham",
+			"description": "The second book in the Whistler series. Investigator Lacy Stoltz goes after a serial killer and closes in on a sitting judge.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385546027.jpg",
+			"name": "THE JUDGE'S LIST",
+			"publisher": "Doubleday",
+			"rank": 2
+		},
+		{
+			"author": "by Michael Connelly",
+			"description": "A death on New Year\u2019s Eve, an unsolved murder and a hunt for serial rapists bring Bosch and Ballard back together.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316485647.jpg",
+			"name": "THE DARK HOURS",
+			"publisher": "Little, Brown",
+			"rank": 3
+		},
+		{
+			"author": "by Mitch Albom",
+			"description": "After a ship explodes, 10 people struggling to survive pull a man who claims to be the Lord out of the sea.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062888341.jpg",
+			"name": "THE STRANGER IN THE LIFEBOAT",
+			"publisher": "Harper",
+			"rank": 4
+		},
+		{
+			"author": "by Amor Towles",
+			"description": "Two friends who escaped from a juvenile work farm take Emmett Watson on an unexpected journey to New York City in 1954.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735222359.jpg",
+			"name": "THE LINCOLN HIGHWAY",
+			"publisher": "Viking",
+			"rank": 5
+		},
+		{
+			"author": "by Dirk Cussler",
+			"description": "Dirk Pitt\u2019s latest adventure involves a missing Buddhist artifact, a failed hypersonic missile and a hijacked ship.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593419649.jpg",
+			"name": "CLIVE CUSSLER'S THE DEVIL'S SEA",
+			"publisher": "Putnam",
+			"rank": 6
+		},
+		{
+			"author": "by Marc Cameron",
+			"description": "The 21st book in the Jack Ryan series. A shadowy billionaire plans to kidnap the first lady to get President Jack Ryan out of his way.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593188163.jpg",
+			"name": "TOM CLANCY: CHAIN OF COMMAND",
+			"publisher": "Putnam",
+			"rank": 7
+		},
+		{
+			"author": "by Nicholas Sparks",
+			"description": "Maggie Dawes, a renowned travel photographer, struggles with a medical diagnosis over Christmas.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538728628.jpg",
+			"name": "THE WISH",
+			"publisher": "Grand Central",
+			"rank": 8
+		},
+		{
+			"author": "by Lee Child and Andrew Child",
+			"description": "The 26th book in the Jack Reacher series. Reacher helps an F.B.I. agent look for her missing brother and takes on a foe named Dendoncker.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984818508.jpg",
+			"name": "BETTER OFF DEAD",
+			"publisher": "Delacorte",
+			"rank": 9
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "A battered wife raised in a violent home attempts to halt the cycle of abuse.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501110375.jpg",
+			"name": "IT ENDS WITH US",
+			"publisher": "Atria",
+			"rank": 10
+		},
+		{
+			"author": "by Neal Stephenson",
+			"description": "A billionaire restaurant chain magnate\u2019s plan to reverse global warming may create even bigger problems.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063028074.jpg",
+			"name": "TERMINATION SHOCK",
+			"publisher": "Morrow",
+			"rank": 11
+		},
+		{
+			"author": "by Janet Evanovich",
+			"description": "The 28th book in the Stephanie Plum series. Diesel and Stephanie track the international computer hacker Oswald Wednesday.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982154875.jpg",
+			"name": "GAME ON",
+			"publisher": "Atria",
+			"rank": 12
+		},
+		{
+			"author": "by Ken Follett",
+			"description": "Tensions escalate around the globe as President Pauline Green works to prevent a world war.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593300015.jpg",
+			"name": "NEVER",
+			"publisher": "Viking",
+			"rank": 13
+		},
+		{
+			"author": "by Taylor Jenkins Reid",
+			"description": "A movie icon recounts stories of her loves and career to a struggling magazine writer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501161933.jpg",
+			"name": "THE SEVEN HUSBANDS OF EVELYN HUGO",
+			"publisher": "Washington Square/Atria",
+			"rank": 14
+		},
+		{
+			"author": "by Jayne Castle",
+			"description": "The 15th book in the Harmony series. Gabriel Jones is sent to rescue Lucy Bell but finds she\u2019s not the woman she once was.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593337011.jpg",
+			"name": "GUILD BOSS",
+			"publisher": "Berkley",
+			"rank": 15
+		}
+	]
+}

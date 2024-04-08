@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Colleen Hoover",
+			"description": "Lowen Ashleigh is hired by the husband of an injured writer to complete her popular series and uncovers a horrifying truth.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781791392796.jpg",
+			"name": "VERITY",
+			"publisher": "Grand Central",
+			"rank": 1
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "A battered wife raised in a violent home attempts to halt the cycle of abuse.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501110375.jpg",
+			"name": "IT ENDS WITH US",
+			"publisher": "Atria",
+			"rank": 2
+		},
+		{
+			"author": "by Stephen King",
+			"description": "A high school kid inherits a shed that is a portal to another world where good and evil are at war.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781668002179.jpg",
+			"name": "FAIRY TALE",
+			"publisher": "Scribner",
+			"rank": 3
+		},
+		{
+			"author": "by Naomi Novik",
+			"description": "The third book in the Scholomance series. Life after graduation turns out to be dangerous.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593158357.jpg",
+			"name": "THE GOLDEN ENCLAVES",
+			"publisher": "Del Rey",
+			"rank": 4
+		},
+		{
+			"author": "by Delia Owens",
+			"description": "In a quiet town on the North Carolina coast in 1969, a young woman who survived alone in the marsh becomes a murder suspect.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735219090.jpg",
+			"name": "WHERE THE CRAWDADS SING",
+			"publisher": "Putnam",
+			"rank": 5
+		},
+		{
+			"author": "by Nicholas Sparks",
+			"description": "Musicians from different backgrounds are attracted to each other and a mother flees with her son from an abusive husband.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593449554.jpg",
+			"name": "DREAMLAND",
+			"publisher": "Random House",
+			"rank": 6
+		},
+		{
+			"author": "by C.J. Box",
+			"description": "The sixth book in the Cassie Dewell series. Cassie works two cases involving buried treasure and a con man.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250766960.jpg",
+			"name": "TREASURE STATE",
+			"publisher": "Minotaur",
+			"rank": 7
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "Tate Collins and Miles Archer,\u00a0an airline pilot, think they can handle a no strings attached arrangement. But they can't.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476753195.jpg",
+			"name": "UGLY LOVE",
+			"publisher": "Atria",
+			"rank": 8
+		},
+		{
+			"author": "by Fredrik Backman",
+			"description": "The third book in the Beartown series. Rivalries between two hockey-obsessed towns escalate into violence off the ice.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982112790.jpg",
+			"name": "THE WINNERS",
+			"publisher": "Atria",
+			"rank": 9
+		},
+		{
+			"author": "by Taylor Jenkins Reid",
+			"description": "A movie icon recounts stories of her loves and career to a struggling magazine writer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501161933.jpg",
+			"name": "THE SEVEN HUSBANDS OF EVELYN HUGO",
+			"publisher": "Washington Square/Atria",
+			"rank": 10
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "Is Ben using his relationship with Fallon as fodder for his novel?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501110351.jpg",
+			"name": "NOVEMBER 9",
+			"publisher": "Atria",
+			"rank": 11
+		},
+		{
+			"author": "by James Patterson and Brendan DuBois",
+			"description": "President Keegan Barrett\u2019s power grab tests the loyalties of two C.I.A. agents.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316499637.jpg",
+			"name": "BLOWBACK",
+			"publisher": "Little, Brown",
+			"rank": 12
+		},
+		{
+			"author": "by Scott Turow",
+			"description": "A private investigator named Pinky helps an attorney try to clear a female police chief of sexual misconduct charges made by three male officers.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538706329.jpg",
+			"name": "SUSPECT",
+			"publisher": "Grand Central",
+			"rank": 13
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "The third book in the Maybe Someday series. Maggie, Ridge and Sydney are forced to deal with the dynamics of their relationships.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781668013342.jpg",
+			"name": "MAYBE NOW",
+			"publisher": "Atria",
+			"rank": 14
+		},
+		{
+			"author": "by Kyle Mills",
+			"description": "The 21st book in the Mitch Rapp series. President Cook, a team of assassins and a killer known as Legion confront Rapp on different fronts.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982164911.jpg",
+			"name": "VINCE FLYNN: OATH OF LOYALTY",
+			"publisher": "Atria/Emily Bestler",
+			"rank": 15
+		}
+	]
+}

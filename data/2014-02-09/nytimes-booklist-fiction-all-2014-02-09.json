@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Donna Tartt",
+			"description": "A painting smuggled out of the Metropolitan Museum of Art after a bombing becomes a boy\u2019s prize, guilt and burden.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316248679.jpg",
+			"name": "THE GOLDFINCH",
+			"publisher": "Little, Brown",
+			"rank": 1
+		},
+		{
+			"author": "by Sue Monk Kidd",
+			"description": "The relationship between a wealthy Charleston girl, Sarah Grimk\u00e9, who will grow up to become a prominent abolitionist, and the slave she is given for her 11th birthday.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780670024780.jpg",
+			"name": "THE INVENTION OF WINGS",
+			"publisher": "Viking",
+			"rank": 2
+		},
+		{
+			"author": "by John Grisham",
+			"description": "A sequel, about race and inheritance, to \u201cA Time to Kill.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385537926.jpg",
+			"name": "SYCAMORE ROW",
+			"publisher": "Doubleday",
+			"rank": 3
+		},
+		{
+			"author": "by Graeme Simsion",
+			"description": "A man with Asperger's syndrome becomes involved with an unconventional woman.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476729091.jpg",
+			"name": "THE ROSIE PROJECT",
+			"publisher": "Simon & Schuster",
+			"rank": 4
+		},
+		{
+			"author": "by Liane Moriarty",
+			"description": "A woman\u2019s life is upended when she discovers a letter from her husband she was not meant to read.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101636237.jpg",
+			"name": "THE HUSBAND'S SECRET",
+			"publisher": "Amy Einhorn/Putnam",
+			"rank": 5
+		},
+		{
+			"author": "by James Patterson and Emily Raymond",
+			"description": "Sixteen-year-old Axi Moore invites her best friend, whom she secretly loves, on a cross-country road trip.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316207041.jpg",
+			"name": "FIRST LOVE",
+			"publisher": "Little, Brown",
+			"rank": 6
+		},
+		{
+			"author": "by Gillian Flynn",
+			"description": "A woman disappears on the day of her fifth anniversary; is her husband a killer?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307588388.jpg",
+			"name": "GONE GIRL",
+			"publisher": "Crown",
+			"rank": 7
+		},
+		{
+			"author": "by Kathleen Brooks",
+			"description": "The romance between the bodyguard Ahmed and Bridget Springer, his co-worker, heats up in the sixth book of the Bluegrass Brothers series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780988210899.jpg",
+			"name": "FINAL VOW",
+			"publisher": "Laurens Publishing",
+			"rank": 8
+		},
+		{
+			"author": "by Joyce Maynard",
+			"description": "One holiday weekend in New Hampshire, the lives of a single mother and her son are irrevocably changed when they show kindness to a stranger with a terrible secret. Originally published in 2009; now a movie.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780061843419.jpg",
+			"name": "LABOR DAY",
+			"publisher": "HarperCollins",
+			"rank": 9
+		},
+		{
+			"author": "by Kresley Cole",
+			"description": "In the third installment of Game Maker, an erotica series, a Russian Mafia enforcer, Aleksandr Sevastyan, ordered to protect his boss's daughter, spirits her from Russia to the decadent playgrounds of the super-wealthy in Paris.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451650099.jpg",
+			"name": "THE PROFESSIONAL, PART 3",
+			"publisher": "Pocket Star",
+			"rank": 10
+		},
+		{
+			"author": "by Lisa Gardner",
+			"description": "The Boston detective D.\u2009D. Warren, seriously injured at a crime scene, is treated by a pain therapist whose father was a serial killer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698148529.jpg",
+			"name": "FEAR NOTHING",
+			"publisher": "Dutton",
+			"rank": 11
+		},
+		{
+			"author": "by Tom Clancy with Mark Greaney",
+			"description": "President Jack Ryan and his son, a covert intelligence expert, try to counter a Russian threat in Clancy\u2019s last novel before his death.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101636497.jpg",
+			"name": "COMMAND AUTHORITY",
+			"publisher": "Putnam",
+			"rank": 12
+		},
+		{
+			"author": "by V.C. Andrews",
+			"description": "Four innocent children are locked away from the world by their selfish mother. Originally published in 1979; now a Lifetime movie.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451636949.jpg",
+			"name": "FLOWERS IN THE ATTIC",
+			"publisher": "Pocket Books",
+			"rank": 13
+		},
+		{
+			"author": "by J. S. Cooper and Helen Cooper",
+			"description": "Katie Raymond learns that the handsome and sexually compelling billionaire Brandon Hastings, her first love seven years ago, has bought the corporation she works for. The first of three erotic novellas.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781940218083.jpg",
+			"name": "THE EX GAMES",
+			"publisher": "Helen Cooper",
+			"rank": 14
+		},
+		{
+			"author": "by Helene Wecker",
+			"description": "A chance meeting between mythical beings leads to a journey through cultures in New York at the turn of the 20th century.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062110831.jpg",
+			"name": "THE GOLEM AND THE JINNI",
+			"publisher": "HarperCollins",
+			"rank": 15
+		}
+	]
+}

@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Margot Lee Shetterly",
+			"description": "The story of the black women mathematicians at then-segregated NASA and its precursor. The basis of the movie.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062363619.jpg",
+			"name": "HIDDEN FIGURES",
+			"publisher": "Morrow/HarperCollins",
+			"rank": 1
+		},
+		{
+			"author": "by J.D. Vance",
+			"description": "A Yale Law School graduate looks at the struggles of the white working class through the story of his own childhood in the Rust Belt.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062300560.jpg",
+			"name": "HILLBILLY ELEGY",
+			"publisher": "HarperCollins",
+			"rank": 2
+		},
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "The host of \u201cThe O\u2019Reilly Factor\u201d recounts the final years of World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781627790635.jpg",
+			"name": "KILLING THE RISING SUN",
+			"publisher": "Holt",
+			"rank": 3
+		},
+		{
+			"author": "by Bret Baier with Catherine Whitney",
+			"description": "Eisenhower\u2019s farewell address and his role in the Kennedy transition.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062569066.jpg",
+			"name": "THREE DAYS IN JANUARY",
+			"publisher": "Morrow/HarperCollins",
+			"rank": 4
+		},
+		{
+			"author": "by Chip Gaines and Joanna Gaines with Mark Dagostino",
+			"description": "The couple who star in the HGTV show \u201cFixer Upper.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780718081539.jpg",
+			"name": "THE MAGNOLIA STORY",
+			"publisher": "W Publishing/Thomas Nelson",
+			"rank": 5
+		},
+		{
+			"author": "by Douglas Preston",
+			"description": "A frightening search for a lost civilization in the Honduran rain forest.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455540020.jpg",
+			"name": "THE LOST CITY OF THE MONKEY GOD",
+			"publisher": "Grand Central",
+			"rank": 6
+		},
+		{
+			"author": "by Michael Eric Dyson",
+			"description": "A frank and searing discussion of race.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250135995.jpg",
+			"name": "TEARS WE CANNOT STOP",
+			"publisher": "St. Martin's",
+			"rank": 7
+		},
+		{
+			"author": "by Ron Chernow",
+			"description": "A biography of the first Treasury secretary. Originally published in 2004 and the basis of the Broadway musical.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780143034759.jpg",
+			"name": "ALEXANDER HAMILTON",
+			"publisher": "Penguin",
+			"rank": 8
+		},
+		{
+			"author": "by Paul Kalanithi",
+			"description": "A memoir by a physician who received a diagnosis of Stage IV lung cancer at the age of 36.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812988413.jpg",
+			"name": "WHEN BREATH BECOMES AIR",
+			"publisher": "Random House",
+			"rank": 9
+		},
+		{
+			"author": "by the Dalai Lama and Desmond Tutu with Douglas Abrams",
+			"description": "A discussion between two spiritual leaders about how to find joy in the face of suffering.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399185045.jpg",
+			"name": "THE BOOK OF JOY",
+			"publisher": "Avery",
+			"rank": 10
+		},
+		{
+			"author": "by Thomas L. Friedman",
+			"description": "How globalization, climate change and the accelerating pace of technology are reshaping the world.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780374715144.jpg",
+			"name": "THANK YOU FOR BEING LATE",
+			"publisher": "Farrar, Straus & Giroux",
+			"rank": 11
+		},
+		{
+			"author": "by Michael Lewis",
+			"description": "How the psychologists Daniel Kahneman and Amos Tversky upended assumptions about the decision-making process and invented the field of behavioral economics.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780393254600.jpg",
+			"name": "THE UNDOING PROJECT",
+			"publisher": "Norton",
+			"rank": 12
+		},
+		{
+			"author": "by Trevor Noah",
+			"description": "A memoir about growing up biracial in apartheid South Africa by the comedian, now the host of \u201cThe Daily Show.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399588181.jpg",
+			"name": "BORN A CRIME",
+			"publisher": "Spiegel & Grau",
+			"rank": 13
+		},
+		{
+			"author": "by Timothy B. Tyson",
+			"description": "An account of the shocking 1955 lynching presents new evidence.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476714844.jpg",
+			"name": "THE BLOOD OF EMMETT TILL",
+			"publisher": "Simon & Schuster",
+			"rank": 14
+		},
+		{
+			"author": "by Cat Marnell",
+			"description": "An addiction memoir by a beauty editor and party girl.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476752419.jpg",
+			"name": "HOW TO MURDER YOUR LIFE",
+			"publisher": "Simon & Schuster",
+			"rank": 15
+		}
+	]
+}

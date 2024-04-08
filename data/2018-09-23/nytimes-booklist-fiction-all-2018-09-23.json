@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by J.D. Robb",
+			"description": "Lieutenant Eve Dallas investigates a mysterious act of terror.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250161581.jpg",
+			"name": "LEVERAGE IN DEATH",
+			"publisher": "St. Martin's",
+			"rank": 1
+		},
+		{
+			"author": "by Kevin Kwan",
+			"description": "A New Yorker gets a surprise when she spends the summer with her boyfriend in Singapore.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345803788.jpg",
+			"name": "CRAZY RICH ASIANS",
+			"publisher": "Anchor",
+			"rank": 2
+		},
+		{
+			"author": "by Danielle Steel",
+			"description": "The successful son of two Holocaust survivors struggles to become his own person after his marriage falls apart.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399179273.jpg",
+			"name": "IN HIS FATHER'S FOOTSTEPS",
+			"publisher": "Delacorte",
+			"rank": 3
+		},
+		{
+			"author": "by Christine Feehan",
+			"description": "The 32nd book in the Carpathian series. Andor Katona tries to convince Lorraine Peters of their immortal bond.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780451490094.jpg",
+			"name": "DARK SENTINEL",
+			"publisher": "Berkley",
+			"rank": 4
+		},
+		{
+			"author": "by Craig Johnson",
+			"description": "Sheriff Longmire takes on the head of a drug cartel in a remote area of the northern Mexican desert.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525522478.jpg",
+			"name": "DEPTH OF WINTER",
+			"publisher": "Viking",
+			"rank": 5
+		},
+		{
+			"author": "by Kevin Kwan",
+			"description": "The second book in the Crazy Rich Asians trilogy. As her wedding draws near, Rachel Chu discovers her birth father.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780804172066.jpg",
+			"name": "CHINA RICH GIRLFRIEND",
+			"publisher": "Anchor",
+			"rank": 6
+		},
+		{
+			"author": "by J.A. Jance",
+			"description": "Sherriff Joanna Brady oversees the complex investigation of a multiple homicide.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062657596.jpg",
+			"name": "FIELD OF BONES",
+			"publisher": "Morrow",
+			"rank": 7
+		},
+		{
+			"author": "by Kevin Kwan",
+			"description": "The final book in the Crazy Rich Asians trilogy. Rivalries and jealousies arise among privileged families.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385542234.jpg",
+			"name": "RICH PEOPLE PROBLEMS",
+			"publisher": "Anchor",
+			"rank": 8
+		},
+		{
+			"author": "by Heather Morris",
+			"description": "A concentration camp detainee tasked with permanently marking fellow prisoners falls in love with one of them.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062797155.jpg",
+			"name": "THE TATTOOIST OF AUSCHWITZ",
+			"publisher": "Harper",
+			"rank": 9
+		},
+		{
+			"author": "by Gillian Flynn",
+			"description": "After a stay at a psychiatric hospital, a reporter reluctantly returns to her hometown to cover the murders of two girls.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307341556.jpg",
+			"name": "SHARP OBJECTS",
+			"publisher": "Broadway",
+			"rank": 10
+		},
+		{
+			"author": "by James Patterson and Andrew Bourelle",
+			"description": "Rory Yates's job and reputation are at risk when he is accused of killing his ex-wife.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316556682.jpg",
+			"name": "TEXAS RANGER",
+			"publisher": "Little, Brown",
+			"rank": 11
+		},
+		{
+			"author": "by James Patterson and Bill Clinton",
+			"description": "President Jonathan Duncan, a Gulf War veteran and widower, takes on adversaries at home and abroad.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316412698.jpg",
+			"name": "THE PRESIDENT IS MISSING",
+			"publisher": "Little, Brown and Knopf",
+			"rank": 12
+		},
+		{
+			"author": "by Dan Brown",
+			"description": "A symbology professor goes on a perilous quest with a beautiful museum director.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385542692.jpg",
+			"name": "ORIGIN",
+			"publisher": "Doubleday",
+			"rank": 13
+		},
+		{
+			"author": "by Gail Honeyman",
+			"description": "A young woman\u2019s well-ordered life is disrupted by the I.T. guy from her office.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735220690.jpg",
+			"name": "ELEANOR OLIPHANT IS COMPLETELY FINE",
+			"publisher": "Penguin",
+			"rank": 14
+		},
+		{
+			"author": "by Darcey Bell",
+			"description": "A single mother's life is rattled when her best friend disappears.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062878649.jpg",
+			"name": "A SIMPLE FAVOR",
+			"publisher": "Harper",
+			"rank": 15
+		}
+	]
+}

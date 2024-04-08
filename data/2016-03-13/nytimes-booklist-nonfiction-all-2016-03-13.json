@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Paul Kalanithi",
+			"description": "A memoir by a physician who received a diagnosis of Stage IV lung cancer at the age of 36.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812988413.jpg",
+			"name": "WHEN BREATH BECOMES AIR",
+			"publisher": "Random House",
+			"rank": 1
+		},
+		{
+			"author": "by Michael V. Hayden",
+			"description": "A former C.I.A. director defends his policies.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594206566.jpg",
+			"name": "PLAYING TO THE EDGE",
+			"publisher": "Penguin Press",
+			"rank": 2
+		},
+		{
+			"author": "by Sue Klebold",
+			"description": "The mother of one of the Columbine shooters wrestles with her grief and guilt and discusses how parents can become more aware of the signs of mental illness in teenagers.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101902769.jpg",
+			"name": "A MOTHER'S RECKONING",
+			"publisher": "Crown",
+			"rank": 3
+		},
+		{
+			"author": "by Ta-Nehisi Coates",
+			"description": "A meditation on race in America as well as a personal story by The Atlantic's national correspondent; a National Book Award winner.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780679645986.jpg",
+			"name": "BETWEEN THE WORLD AND ME",
+			"publisher": "Spiegel & Grau",
+			"rank": 4
+		},
+		{
+			"author": "by Richard D. Mahoney",
+			"description": "The relationship between Jack and Bobby. Originally published in 1999.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781628721119.jpg",
+			"name": "THE KENNEDY BROTHERS",
+			"publisher": "Arcade",
+			"rank": 5
+		},
+		{
+			"author": "by Ron Chernow",
+			"description": "A biography of the first Treasury secretary, a major author of the Federalist Papers and an advocate of strong central government.  Originally published in 2004 and the basis of the Broadway play.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780143034759.jpg",
+			"name": "ALEXANDER HAMILTON",
+			"publisher": "Penguin",
+			"rank": 6
+		},
+		{
+			"author": "by Bill Bryson",
+			"description": "An American expatriate travels around his adopted country, Britain.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385539296.jpg",
+			"name": "THE ROAD TO LITTLE DRIBBLING",
+			"publisher": "Doubleday",
+			"rank": 7
+		},
+		{
+			"author": "by Daniel James Brown",
+			"description": "The University of Washington\u2019s eight-oar crew and their quest for gold at the 1936 Berlin Olympics.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101622742.jpg",
+			"name": "THE BOYS IN THE BOAT",
+			"publisher": "Penguin",
+			"rank": 8
+		},
+		{
+			"author": "by Richard Engel",
+			"description": "NBC\u2019s chief foreign correspondent discusses the Arab Spring and war in the Middle East.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451635133.jpg",
+			"name": "AND THEN ALL HELL BROKE LOOSE",
+			"publisher": "Simon & Schuster",
+			"rank": 9
+		},
+		{
+			"author": "by Adam Grant",
+			"description": "A Wharton School professor argues that innovators are made, not born, and offers suggestions for how to become one.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525429562.jpg",
+			"name": "ORIGINALS",
+			"publisher": "Viking",
+			"rank": 10
+		},
+		{
+			"author": "by Atul Gawande",
+			"description": "The surgeon and New Yorker writer considers how doctors fail patients at the end of life, and how they can do better.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780805095159.jpg",
+			"name": "BEING MORTAL",
+			"publisher": "Metropolitan/Holt",
+			"rank": 11
+		},
+		{
+			"author": "by Jane Mayer",
+			"description": "An account of how the Koch brothers and other super-wealthy donors deployed their money to change American politics.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385535601.jpg",
+			"name": "DARK MONEY",
+			"publisher": "Doubleday",
+			"rank": 12
+		},
+		{
+			"author": "by Douglas Brinkley",
+			"description": "Theodore Roosevelt's crusade for conservation. Originally published in 2009.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780060565282.jpg",
+			"name": "THE WILDERNESS WARRIOR",
+			"publisher": "HarperCollins",
+			"rank": 13
+		},
+		{
+			"author": "by Pope Francis with Andrea Tornielli",
+			"description": "In a conversation with a Vatican reporter, the pontiff explores his faith.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399588648.jpg",
+			"name": "THE NAME OF GOD IS MERCY",
+			"publisher": "Random House",
+			"rank": 14
+		},
+		{
+			"author": "by Brian Kilmeade and Don Yaeger",
+			"description": "The war against the Barbary pirates in 1801.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698197411.jpg",
+			"name": "THOMAS JEFFERSON AND THE TRIPOLI PIRATES",
+			"publisher": "Sentinel",
+			"rank": 15
+		}
+	]
+}

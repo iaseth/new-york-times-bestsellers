@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Jamie McGuire",
+			"description": "Travis\u2019s life is full of fast women, underground gambling and violence. But just when he thinks he\u2019s invincible, Abby brings him to his knees; a sequel to \u201cBeautiful Disaster.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476712987.jpg",
+			"name": "WALKING DISASTER",
+			"publisher": "Simon & Schuster",
+			"rank": 1
+		},
+		{
+			"author": "by Maya Banks",
+			"description": "Jace, Ash and Gabe are powerful and used to getting anything they want. But Jace\u2019s friendship with Ash is jeopardized when he becomes obsessed with an alluring woman; Book 2 of the Breathless trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780425267066.jpg",
+			"name": "FEVER",
+			"publisher": "Penguin Group",
+			"rank": 2
+		},
+		{
+			"author": "by Debbie Macomber",
+			"description": "A Seattle lawyer loses her job and remakes her life; she finds support at the local knitting store. A Blossom Street novel.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345533531.jpg",
+			"name": "STARTING NOW",
+			"publisher": "Random House Publishing",
+			"rank": 3
+		},
+		{
+			"author": "by Harlan Coben",
+			"description": "Six years after the woman he loved married another man, Jake Fisher discovers that neither she nor their life together were what theyseemed, and he sets out to uncover the truth.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101611029.jpg",
+			"name": "SIX YEARS",
+			"publisher": "Penguin Group",
+			"rank": 4
+		},
+		{
+			"author": "by Stephenie Meyer",
+			"description": "In this first adult novel by the author of the Twilight series for teenagers, aliens have taken control of the minds and bodies of most humans, but one woman won\u2019t surrender; originally published in 2008.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316218504.jpg",
+			"name": "THE HOST",
+			"publisher": "Little, Brown & Company",
+			"rank": 5
+		},
+		{
+			"author": "by Kate Atkinson",
+			"description": "A woman appears in different versions of the same events, centered on World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316176484.jpg",
+			"name": "LIFE AFTER LIFE",
+			"publisher": "Little, Brown & Company",
+			"rank": 6
+		},
+		{
+			"author": "by Jodi Picoult",
+			"description": "A New Hampshire baker finds herself in the midst of two Holocaust stories: her grandmother\u2019s story of survival, and the confessions of an elderly German man, an SS officer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781439149706.jpg",
+			"name": "THE STORYTELLER",
+			"publisher": "Simon & Schuster",
+			"rank": 7
+		},
+		{
+			"author": "by Jasinda Wilder",
+			"description": "Years after her boyfriend\u2019s accidental death, Nell Hawthorne encounters his older brother, and they embark on a painful but ultimately healing relationship.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/A00B00BUPMC8C.jpg",
+			"name": "FALLING INTO YOU",
+			"publisher": "Jasinda Wilder",
+			"rank": 8
+		},
+		{
+			"author": "by Gillian Flynn",
+			"description": "A woman disappears on the day of her fifth anniversary; is her husband a killer?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307588388.jpg",
+			"name": "GONE GIRL",
+			"publisher": "Crown Publishing",
+			"rank": 9
+		},
+		{
+			"author": "by James Patterson",
+			"description": "While Alex Cross pursues a Washington serial killer (or killers?), someone is after him.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316097529.jpg",
+			"name": "ALEX CROSS, RUN",
+			"publisher": "Little, Brown & Company",
+			"rank": 10
+		},
+		{
+			"author": "by Jana DeLeon and others",
+			"description": "A set of eight novels about life and death by various authors.",
+			"imageSrc": "https://s1.nyt.com/du/books/images/default-image.png",
+			"name": "TO DIE FOR",
+			"publisher": "The Indie Voice",
+			"rank": 11
+		},
+		{
+			"author": "by Elizabeth Strout",
+			"description": "Two brothers, both lawyers, come together in a small Maine town to defend their good-for-nothing nephew; by the Pulitzer Prize-winning author of \u201cOlive Kitteridge.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400067688.jpg",
+			"name": "THE BURGESS BOYS",
+			"publisher": "Random House",
+			"rank": 12
+		},
+		{
+			"author": "by Kristen Ashley",
+			"description": "A member of the Chaos Motorcycle Club falls in love with the daughter of the club\u2019s leader; a Chaos novel.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455599264.jpg",
+			"name": "OWN THE WIND",
+			"publisher": "Grand Central Publishing",
+			"rank": 13
+		},
+		{
+			"author": "by Robyn Carr",
+			"description": "Hank Cooper inherits a beachfront property in Thunder Point, Ore., and finds himself with a community\u2019s destiny in his hands.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780778314479.jpg",
+			"name": "THE WANDERER",
+			"publisher": "Harlequin",
+			"rank": 14
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "The military investigator John Puller probes his aunt\u2019s mysterious death in Florida.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455523153.jpg",
+			"name": "THE FORGOTTEN",
+			"publisher": "Grand Central Publishing",
+			"rank": 15
+		}
+	]
+}

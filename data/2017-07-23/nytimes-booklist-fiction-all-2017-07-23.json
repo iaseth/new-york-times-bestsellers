@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by John Grisham",
+			"description": "A search for stolen rare manuscripts leads to a Florida island.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385543057.jpg",
+			"name": "CAMINO ISLAND",
+			"publisher": "Doubleday",
+			"rank": 1
+		},
+		{
+			"author": "by Julie Garwood",
+			"description": "An F.B.I. agent recruits an idealistic (and beautiful) hacker to help him find a leaker.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525954460.jpg",
+			"name": "WIRED",
+			"publisher": "Berkley",
+			"rank": 2
+		},
+		{
+			"author": "by Ruth Ware",
+			"description": "A travel writer on a cruise is certain she has heard a body thrown overboard, but no one believes her.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501132940.jpg",
+			"name": "THE WOMAN IN CABIN 10",
+			"publisher": "Scout",
+			"rank": 3
+		},
+		{
+			"author": "by James Patterson and Howard Roughan",
+			"description": "An expert on serial murder becomes involved in the hunt for a New York City killer who leaves a playing card at the crime scene.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316553476.jpg",
+			"name": "MURDER GAMES",
+			"publisher": "Little, Brown",
+			"rank": 4
+		},
+		{
+			"author": "by Elin Hilderbrand",
+			"description": "Complications in the lives of identical twins who were raised by their divorced parents, one on Nantucket, one on Martha\u2019s Vineyard.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316375207.jpg",
+			"name": "THE IDENTICALS",
+			"publisher": "Little, Brown",
+			"rank": 5
+		},
+		{
+			"author": "by Margaret Atwood",
+			"description": "In a dystopian future, men and women perform the services assigned to them.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780547345666.jpg",
+			"name": "THE HANDMAID'S TALE",
+			"publisher": "Houghton Mifflin Harcourt",
+			"rank": 6
+		},
+		{
+			"author": "by Brad Thor",
+			"description": "The counterterrorism operative Scot Harvath is called in when a missing terrorism suspect drowns off the Italian coast.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476789408.jpg",
+			"name": "USE OF FORCE",
+			"publisher": "Atria/Emily Bestler",
+			"rank": 7
+		},
+		{
+			"author": "by Lee Child",
+			"description": "Tracking down kidnappers, Jack Reacher learns secrets he'd rather not know.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780440246008.jpg",
+			"name": "THE HARD WAY",
+			"publisher": "Dell",
+			"rank": 8
+		},
+		{
+			"author": "by Danielle Steel",
+			"description": "A 19th-century British duke's daughter, disinherited by her half brothers, flees to Paris to make an unconventional new life.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345531087.jpg",
+			"name": "THE DUCHESS",
+			"publisher": "Delacorte",
+			"rank": 9
+		},
+		{
+			"author": "by Paula Hawkins",
+			"description": "In this psychological thriller by the author of \u201cThe Girl on the Train,\u201d drowned women are found in an English river town.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735211216.jpg",
+			"name": "INTO THE WATER",
+			"publisher": "Riverhead",
+			"rank": 10
+		},
+		{
+			"author": "by Patricia Cornwell",
+			"description": "Scarpetta's back, on the trail of a serial killer and bearing the brunt of marital stress.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780425261361.jpg",
+			"name": "THE BONE BED",
+			"publisher": "Berkley",
+			"rank": 11
+		},
+		{
+			"author": "by Rupi Kaur",
+			"description": "Poetic approaches to surviving adversity and loss.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781449474256.jpg",
+			"name": "MILK AND HONEY",
+			"publisher": "Andrews McMeel",
+			"rank": 12
+		},
+		{
+			"author": "by Celeste Ng",
+			"description": "Lydia, bearing the hopes of a Chinese-American family in 1970s Ohio, ends up at the bottom of a lake.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594205712.jpg",
+			"name": "EVERYTHING I NEVER TOLD YOU",
+			"publisher": "Penguin",
+			"rank": 13
+		},
+		{
+			"author": "by Martha Hall Kelly",
+			"description": "A story of three women\u2019s lives during and after World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101883075.jpg",
+			"name": "LILAC GIRLS",
+			"publisher": "Ballantine",
+			"rank": 14
+		},
+		{
+			"author": "by Fredrik Backman",
+			"description": "A curmudgeon's gruff exterior masks a generosity of spirit. Originally published in Sweden in 2014.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476738024.jpg",
+			"name": "A MAN CALLED OVE",
+			"publisher": "Washington Square",
+			"rank": 15
+		}
+	]
+}

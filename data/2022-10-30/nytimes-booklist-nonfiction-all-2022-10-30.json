@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Maggie Haberman",
+			"description": "The New York Times White House correspondent traces events from Donald Trump\u2019s rise in New York City through to his post-presidency.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593297346.jpg",
+			"name": "CONFIDENCE MAN",
+			"publisher": "Penguin Press",
+			"rank": 1
+		},
+		{
+			"author": "by Jennette McCurdy",
+			"description": "The actress and filmmaker describes her eating disorders and difficult relationship with her mother.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982185824.jpg",
+			"name": "I'M GLAD MY MOM DIED",
+			"publisher": "Simon & Schuster",
+			"rank": 2
+		},
+		{
+			"author": "by Kelly Ripa",
+			"description": "The Daytime Emmy Award-winning TV host shares stories from her life on and off screen.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063073302.jpg",
+			"name": "LIVE WIRE",
+			"publisher": "Dey Street",
+			"rank": 3
+		},
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "The conservative commentator\u2019s Killing series profiles Elvis Presley, John Lennon and Muhammad Ali.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250283306.jpg",
+			"name": "KILLING THE LEGENDS",
+			"publisher": "St. Martin's",
+			"rank": 4
+		},
+		{
+			"author": "by Bessel van der Kolk",
+			"description": "How trauma affects the body and mind, and innovative treatments for recovery.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780670785933.jpg",
+			"name": "THE BODY KEEPS THE SCORE",
+			"publisher": "Penguin",
+			"rank": 5
+		},
+		{
+			"author": "by Charles Leerhsen",
+			"description": "A portrait of the celebrity chef and TV host Anthony Bourdain.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982140441.jpg",
+			"name": "DOWN AND OUT IN PARADISE",
+			"publisher": "Simon & Schuster",
+			"rank": 6
+		},
+		{
+			"author": "by Michael Fanone and John Shiffman",
+			"description": "The veteran police officer and former Trump supporter describes his experiences during the Jan. 6 insurrection and their impact on him.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781668007198.jpg",
+			"name": "HOLD THE LINE",
+			"publisher": "Atria",
+			"rank": 7
+		},
+		{
+			"author": "by Michael Cohen",
+			"description": "The author of \u201cDisloyal\u201d and former personal attorney to Donald Trump describes how Trump went after his critics.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781685890544.jpg",
+			"name": "REVENGE",
+			"publisher": "Melville House",
+			"rank": 8
+		},
+		{
+			"author": "by Temple Grandin with Betsy Lerner",
+			"description": "The author of \u201cThinking in Pictures\u201d gives insights into visual thinking.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593418369.jpg",
+			"name": "VISUAL THINKING",
+			"publisher": "Riverhead",
+			"rank": 9
+		},
+		{
+			"author": "by bell hooks",
+			"description": "The late feminist icon explores the causes of a polarized society and the meaning of love.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780060959470.jpg",
+			"name": "ALL ABOUT LOVE",
+			"publisher": "Morrow",
+			"rank": 10
+		},
+		{
+			"author": "by Jessica Radloff",
+			"description": "A behind-the-scenes look at the popular TV sitcom.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538708491.jpg",
+			"name": "THE BIG BANG THEORY",
+			"publisher": "Grand Central",
+			"rank": 11
+		},
+		{
+			"author": "by Robin Wall Kimmerer",
+			"description": "A botanist and member of the Citizen Potawatomi Nation espouses having an understanding and appreciation of plants and animals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781571313560.jpg",
+			"name": "BRAIDING SWEETGRASS",
+			"publisher": "Milkweed Editions",
+			"rank": 12
+		},
+		{
+			"author": "by Scott Galloway",
+			"description": "An overview of events from 1945 to the present and how they might inform potential crises in the near future.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593542408.jpg",
+			"name": "ADRIFT",
+			"publisher": "Portfolio",
+			"rank": 13
+		},
+		{
+			"author": "by Gabor Mat\u00e9 with Daniel Mat\u00e9",
+			"description": "The potential ways in which trauma and stress from modern-day living can affect our physical health.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593083888.jpg",
+			"name": "THE MYTH OF NORMAL",
+			"publisher": "Avery",
+			"rank": 14
+		},
+		{
+			"author": "by Neil deGrasse Tyson",
+			"description": "The astrophysicist and director of the Hayden Planetarium delves into subjects including politics, religion, gender and race.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250861504.jpg",
+			"name": "STARRY MESSENGER",
+			"publisher": "Holt",
+			"rank": 15
+		}
+	]
+}

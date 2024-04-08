@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Brandon Stanton",
+			"description": "Photos and stories of people from over 40 countries collected by the creator of \u201cHumans of New York.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250114297.jpg",
+			"name": "HUMANS",
+			"publisher": "St. Martin's",
+			"rank": 1
+		},
+		{
+			"author": "by Matthew McConaughey",
+			"description": "The Academy Award-winning actor shares snippets from the diaries he kept over the last 35 years.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593139134.jpg",
+			"name": "GREENLIGHTS",
+			"publisher": "Crown",
+			"rank": 2
+		},
+		{
+			"author": "by Emmanuel Acho",
+			"description": "A look at some questions and concepts needed to address systemic racism.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250800466.jpg",
+			"name": "UNCOMFORTABLE CONVERSATIONS WITH A BLACK MAN",
+			"publisher": "Flatiron",
+			"rank": 3
+		},
+		{
+			"author": "by Thomas E. Ricks",
+			"description": "The Pulitzer Prize-winning journalist explains the influence of the ancient Greeks and Romans on the thinking of America\u2019s founding fathers.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062997456.jpg",
+			"name": "FIRST PRINCIPLES",
+			"publisher": "Harper",
+			"rank": 4
+		},
+		{
+			"author": "by Isabel Wilkerson",
+			"description": "The Pulitzer Prize-winning journalist examines aspects of caste systems across civilizations and reveals a rigid hierarchy in America today.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593230251.jpg",
+			"name": "CASTE",
+			"publisher": "Random House",
+			"rank": 5
+		},
+		{
+			"author": "by Glennon Doyle",
+			"description": "The activist and public speaker describes her journey of listening to her inner voice.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984801258.jpg",
+			"name": "UNTAMED",
+			"publisher": "Dial",
+			"rank": 6
+		},
+		{
+			"author": "by Alex Trebek",
+			"description": "A memoir by the host of the TV game show \u201cJeopardy!,\u201d from 1984 to 2020.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982157999.jpg",
+			"name": "THE ANSWER IS ...",
+			"publisher": "Simon & Schuster",
+			"rank": 7
+		},
+		{
+			"author": "by Wright Thompson",
+			"description": "How Julian Van Winkle III worked to preserve the legacy of his family\u2019s brand of Kentucky bourbon.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735221253.jpg",
+			"name": "PAPPYLAND",
+			"publisher": "Penguin Press",
+			"rank": 8
+		},
+		{
+			"author": "by David Sedaris",
+			"description": "A collection of the humorist\u2019s essays including \u201cMe Talk Pretty One Day\u201d and \u201cA Guy Walks Into a Bar Car.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316628242.jpg",
+			"name": "THE BEST OF ME",
+			"publisher": "Little, Brown",
+			"rank": 9
+		},
+		{
+			"author": "by Kamala Harris",
+			"description": "A memoir by the daughter of immigrants who is now the vice president-elect.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525560715.jpg",
+			"name": "THE TRUTHS WE HOLD",
+			"publisher": "Penguin",
+			"rank": 10
+		},
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "The ninth book in the conservative commentator\u2019s Killing series focuses on conflicts with Native Americans.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781627797047.jpg",
+			"name": "KILLING CRAZY HORSE",
+			"publisher": "Holt",
+			"rank": 11
+		},
+		{
+			"author": "by Candace Owens",
+			"description": "The conservative commentator makes her case that Black Americans should part ways with the Democratic Party.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982133276.jpg",
+			"name": "BLACKOUT",
+			"publisher": "Threshold Editions",
+			"rank": 12
+		},
+		{
+			"author": "by Pete Souza",
+			"description": "The former White House photographer juxtaposes pictures of former President Obama with tweets, headlines and quotes from the Trump administration.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316421829.jpg",
+			"name": "SHADE",
+			"publisher": "Voracious/Little, Brown",
+			"rank": 13
+		},
+		{
+			"author": "by Ruth Bader Ginsburg with Mary Hartnett and Wendy W. Williams",
+			"description": "A collection of articles and speeches by the Supreme Court justice.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501145247.jpg",
+			"name": "MY OWN WORDS",
+			"publisher": "Simon & Schuster",
+			"rank": 14
+		},
+		{
+			"author": "by John \u201cChick\u201d Donohue and J.T. Molloy",
+			"description": "In 1967, a former Marine agrees to sneak into Vietnam to deliver brews to friends still serving.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062995469.jpg",
+			"name": "THE GREATEST BEER RUN EVER",
+			"publisher": "Morrow",
+			"rank": 15
+		}
+	]
+}

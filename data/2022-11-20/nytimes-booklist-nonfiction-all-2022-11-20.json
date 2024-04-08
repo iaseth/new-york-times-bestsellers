@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Matthew Perry",
+			"description": "The actor, known for playing Chandler Bing on \u201cFriends,\u201d shares stories from his childhood and his struggles with sobriety.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250866448.jpg",
+			"name": "FRIENDS, LOVERS, AND THE BIG TERRIBLE THING",
+			"publisher": "Flatiron",
+			"rank": 1
+		},
+		{
+			"author": "by Bono",
+			"description": "The lead singer of the Irish rock band U2 offers details of his life, career and activism.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525521044.jpg",
+			"name": "SURRENDER",
+			"publisher": "Knopf",
+			"rank": 2
+		},
+		{
+			"author": "by Bob Dylan",
+			"description": "In a collection of more than 60 essays, the musician and winner of the Nobel Prize in Literature explores the nature of popular music.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451648706.jpg",
+			"name": "THE PHILOSOPHY OF MODERN SONG",
+			"publisher": "Simon & Schuster",
+			"rank": 3
+		},
+		{
+			"author": "by Jennette McCurdy",
+			"description": "The actress and filmmaker describes her eating disorders and difficult relationship with her mother.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982185824.jpg",
+			"name": "I'M GLAD MY MOM DIED",
+			"publisher": "Simon & Schuster",
+			"rank": 4
+		},
+		{
+			"author": "by Quentin Tarantino",
+			"description": "The filmmaker shares his love of cinema with special attention given to key American films of the 1970s.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063112582.jpg",
+			"name": "CINEMA SPECULATION",
+			"publisher": "Harper",
+			"rank": 5
+		},
+		{
+			"author": "by Jon Meacham",
+			"description": "The Pulitzer Prize-winning biographer portrays the life of Abraham Lincoln.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780553393965.jpg",
+			"name": "AND THERE WAS LIGHT",
+			"publisher": "Random House",
+			"rank": 6
+		},
+		{
+			"author": "by Bessel van der Kolk",
+			"description": "How trauma affects the body and mind, and innovative treatments for recovery.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780670785933.jpg",
+			"name": "THE BODY KEEPS THE SCORE",
+			"publisher": "Penguin",
+			"rank": 7
+		},
+		{
+			"author": "by Siddhartha Mukherjee",
+			"description": "The Pulitzer Prize-winning author chronicles the discovery of cells and describes how modern medicine uses them.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982117351.jpg",
+			"name": "THE SONG OF THE CELL",
+			"publisher": "Scribner",
+			"rank": 8
+		},
+		{
+			"author": "by Rush Limbaugh with Kathryn Adams Limbaugh and David Limbaugh",
+			"description": "A collection of the late conservative commentator\u2019s on-air moments, with memories from his widow and brother.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781668001844.jpg",
+			"name": "RADIO'S GREATEST OF ALL TIME",
+			"publisher": "Threshold Editions",
+			"rank": 9
+		},
+		{
+			"author": "by Stacy Schiff",
+			"description": "The Pulitzer Prize-winning biographer details Samuel Adams\u2019s contributions to the American Revolution.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316441117.jpg",
+			"name": "THE REVOLUTIONARY",
+			"publisher": "Little, Brown",
+			"rank": 10
+		},
+		{
+			"author": "by Ted Cruz",
+			"description": "The Republican senator from Texas gives his take on the justice system.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781684513611.jpg",
+			"name": "JUSTICE CORRUPTED",
+			"publisher": "Regnery",
+			"rank": 11
+		},
+		{
+			"author": "by Paul Newman",
+			"description": "The late movie star\u2019s memoir reveals intimate details about his personal relationships and professional rivalries; compiled and edited by David Rosenthal.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593534502.jpg",
+			"name": "THE EXTRAORDINARY LIFE OF AN ORDINARY MAN",
+			"publisher": "Knopf",
+			"rank": 12
+		},
+		{
+			"author": "by Maggie Haberman",
+			"description": "The New York Times White House correspondent traces events from Donald Trump\u2019s rise in New York City through to his post-presidency.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593297346.jpg",
+			"name": "CONFIDENCE MAN",
+			"publisher": "Penguin Press",
+			"rank": 13
+		},
+		{
+			"author": "by Tembi Locke",
+			"description": "A black American woman marries a Sicilian man, and finds solace in food and family after tragedy strikes.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501187650.jpg",
+			"name": "FROM SCRATCH",
+			"publisher": "Simon & Schuster",
+			"rank": 14
+		},
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "The conservative commentator\u2019s Killing series profiles Elvis Presley, John Lennon and Muhammad Ali.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250283306.jpg",
+			"name": "KILLING THE LEGENDS",
+			"publisher": "St. Martin's",
+			"rank": 15
+		}
+	]
+}

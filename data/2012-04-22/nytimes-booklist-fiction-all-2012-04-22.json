@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by E. L. James",
+			"description": "An inexperienced college student falls in love with a tortured man who has particular sexual tastes; the first book in a trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345803481.jpg",
+			"name": "FIFTY SHADES OF GREY",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 1
+		},
+		{
+			"author": "by E. L. James",
+			"description": "Ana Steele learns more about Christian Grey\u2019s troubled past; the second book in a trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345803498.jpg",
+			"name": "FIFTY SHADES DARKER",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 2
+		},
+		{
+			"author": "by E. L. James",
+			"description": "The final book in an erotic trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781612130606.jpg",
+			"name": "FIFTY SHADES FREED",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 3
+		},
+		{
+			"author": "by Nicholas Sparks",
+			"description": "A Marine returning home sets out to track down the woman whose photo he found in Iraq.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780446542180.jpg",
+			"name": "THE LUCKY ONE",
+			"publisher": "Grand Central Publishing",
+			"rank": 4
+		},
+		{
+			"author": "by Mary Higgins Clark",
+			"description": "When a biblical scholar who made an amazing discovery is murdered, his daughter hunts for the killer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451668865.jpg",
+			"name": "THE LOST YEARS",
+			"publisher": "Simon & Schuster",
+			"rank": 5
+		},
+		{
+			"author": "by James Patterson and David Ellis",
+			"description": "Four friends in Monte Carlo for a luxurious girls\u2019 vacation find themselves in prison.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316097574.jpg",
+			"name": "GUILTY WIVES",
+			"publisher": "Little, Brown & Company",
+			"rank": 6
+		},
+		{
+			"author": "by George R.R. Martin",
+			"description": "In the frozen wastes to the north of Winterfell, sinister and supernatural forces are mustering.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780553897845.jpg",
+			"name": "A GAME OF THRONES",
+			"publisher": "Random House Publishing",
+			"rank": 7
+		},
+		{
+			"author": "by Christopher Moore",
+			"description": "Did Vincent van Gogh really kill himself? His friends in the 19th-century Parisian art world set out to discover the truth.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780061779749.jpg",
+			"name": "SACR\u00c9 BLEU",
+			"publisher": "HarperCollins Publishers",
+			"rank": 8
+		},
+		{
+			"author": "by Alexander McCall Smith",
+			"description": "The 13th novel in the No. 1 Ladies\u2019 Detective Agency series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307907158.jpg",
+			"name": "THE LIMPOPO ACADEMY OF PRIVATE DETECTION",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 9
+		},
+		{
+			"author": "by Stieg Larsson",
+			"description": "Volume 3 of the Millennium trilogy, about a Swedish hacker and a journalist.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307593672.jpg",
+			"name": "THE GIRL WHO KICKED THE HORNET\u2019S NEST",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 10
+		},
+		{
+			"author": "by Adriana Trigiani",
+			"description": "Childhood sweethearts in turn-of-the-20th-century Italy meet again in America.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780061257094.jpg",
+			"name": "THE SHOEMAKER\u2019S WIFE",
+			"publisher": "HarperCollins Publishers",
+			"rank": 11
+		},
+		{
+			"author": "by Harlan Coben",
+			"description": "A disappearance in Atlantic City brings together three frustrated people whose lives were once connected.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101561171.jpg",
+			"name": "STAY CLOSE",
+			"publisher": "Penguin Group",
+			"rank": 12
+		},
+		{
+			"author": "by Danielle Steel",
+			"description": "A happy and successful Hollywood director discovers that someone is embezzling large sums of her money.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780440245223.jpg",
+			"name": "BETRAYAL",
+			"publisher": "Random House Publishing",
+			"rank": 13
+		},
+		{
+			"author": "by William Landay",
+			"description": "An assistant district attorney\u2019s life is shaken when his 14-year-old son is accused of murder.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345527592.jpg",
+			"name": "DEFENDING JACOB",
+			"publisher": "Delacorte Press",
+			"rank": 14
+		},
+		{
+			"author": "by Jennifer Probst",
+			"description": "A billionaire who needs a wife offers a one-year marriage in name only to a bookstore owner who must save her family home, but complications ensue.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781620612798.jpg",
+			"name": "THE MARRIAGE BARGAIN",
+			"publisher": "Jennifer Probst",
+			"rank": 15
+		}
+	]
+}

@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Matthew McConaughey",
+			"description": "The Academy Award-winning actor shares snippets from the diaries he kept over the last 35 years.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593139134.jpg",
+			"name": "GREENLIGHTS",
+			"publisher": "Crown",
+			"rank": 1
+		},
+		{
+			"author": "by Glennon Doyle",
+			"description": "The activist and public speaker describes her journey of listening to her inner voice.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984801258.jpg",
+			"name": "UNTAMED",
+			"publisher": "Dial",
+			"rank": 2
+		},
+		{
+			"author": "by Isabel Wilkerson",
+			"description": "The Pulitzer Prize-winning journalist examines aspects of caste systems across civilizations and reveals a rigid hierarchy in America today.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593230251.jpg",
+			"name": "CASTE",
+			"publisher": "Random House",
+			"rank": 3
+		},
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "The ninth book in the conservative commentator\u2019s Killing series focuses on conflicts with Native Americans.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781627797047.jpg",
+			"name": "KILLING CRAZY HORSE",
+			"publisher": "Holt",
+			"rank": 4
+		},
+		{
+			"author": "by Ted Cruz",
+			"description": "The Republican senator from Texas gives his views on what might happen if liberals gain a simple majority on the Supreme Court.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781684511341.jpg",
+			"name": "ONE VOTE AWAY",
+			"publisher": "Regnery",
+			"rank": 5
+		},
+		{
+			"author": "by Wally Koval",
+			"description": "Photographs and stories of more than 200 locations from around the world that are inspired by the aesthetic of the film director Wes Anderson.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316492737.jpg",
+			"name": "ACCIDENTALLY WES ANDERSON",
+			"publisher": "Voracious/Little, Brown",
+			"rank": 6
+		},
+		{
+			"author": "by Pete Souza",
+			"description": "The former White House photographer juxtaposes pictures of former President Obama with tweets, headlines and quotes from the Trump administration.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316421829.jpg",
+			"name": "SHADE",
+			"publisher": "Voracious/Little, Brown",
+			"rank": 7
+		},
+		{
+			"author": "by Jerry Seinfeld",
+			"description": "The comedian shares material he collected in an accordion folder over the last 45 years.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982112691.jpg",
+			"name": "IS THIS ANYTHING?",
+			"publisher": "Simon & Schuster",
+			"rank": 8
+		},
+		{
+			"author": "by Bob Woodward",
+			"description": "Based on 17 on-the-record interviews with President Trump and other reporting, the Pulitzer Prize-winning journalist details the president\u2019s perspective on multiple crises.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982131739.jpg",
+			"name": "RAGE",
+			"publisher": "Simon & Schuster",
+			"rank": 9
+		},
+		{
+			"author": "by Robert Lacey",
+			"description": "A look at the potential factors that led to the divergent life paths of Prince William and Prince Harry.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063042940.jpg",
+			"name": "BATTLE OF BROTHERS",
+			"publisher": "Harper",
+			"rank": 10
+		},
+		{
+			"author": "by Candace Owens",
+			"description": "The conservative commentator makes her case that Black Americans should part ways with the Democratic Party.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982133276.jpg",
+			"name": "BLACKOUT",
+			"publisher": "Threshold Editions",
+			"rank": 11
+		},
+		{
+			"author": "by Ibram X. Kendi",
+			"description": "A primer for creating a more just and equitable society through identifying and opposing racism.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525509288.jpg",
+			"name": "HOW TO BE AN ANTIRACIST",
+			"publisher": "One World",
+			"rank": 12
+		},
+		{
+			"author": "by Fareed Zakaria",
+			"description": "The CNN host posits what might happen on the other side of the Covid-19 pandemic.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780393542134.jpg",
+			"name": "TEN LESSONS FOR A POST-PANDEMIC WORLD",
+			"publisher": "Norton",
+			"rank": 13
+		},
+		{
+			"author": "by Tom Fitton",
+			"description": "The president of Judicial Watch gives his opinions on forces he sees as detrimental to the Trump presidency.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982163655.jpg",
+			"name": "A REPUBLIC UNDER ASSAULT",
+			"publisher": "Threshold Editions",
+			"rank": 14
+		},
+		{
+			"author": "by Peter Frampton with Alan Light",
+			"description": "Key career moments are recounted by the musician inducted into the 2020 Grammy Hall of Fame for his album \"Frampton Comes Alive!\"",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316425315.jpg",
+			"name": "DO YOU FEEL LIKE I DO?",
+			"publisher": "Hachette",
+			"rank": 15
+		}
+	]
+}

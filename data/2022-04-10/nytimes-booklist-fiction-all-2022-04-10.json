@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Delia Owens",
+			"description": "In a quiet town on the North Carolina coast in 1969, a young woman who survived alone in the marsh becomes a murder suspect.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735219090.jpg",
+			"name": "WHERE THE CRAWDADS SING",
+			"publisher": "Putnam",
+			"rank": 1
+		},
+		{
+			"author": "by Dolly Parton and James Patterson",
+			"description": "A singer-songwriter goes to Nashville seeking stardom but is followed by her dark past.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780759554344.jpg",
+			"name": "RUN, ROSE, RUN",
+			"publisher": "Little, Brown",
+			"rank": 2
+		},
+		{
+			"author": "by Janet Evanovich",
+			"description": "When her family\u2019s home is threatened, Gabriela Rose goes with her ex-husband to seek lost treasure in the jungles of Peru.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982154912.jpg",
+			"name": "THE RECOVERY AGENT",
+			"publisher": "Atria",
+			"rank": 3
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "A battered wife raised in a violent home attempts to halt the cycle of abuse.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501110375.jpg",
+			"name": "IT ENDS WITH US",
+			"publisher": "Atria",
+			"rank": 4
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "Lowen Ashleigh is hired by the husband of an injured writer to complete her popular series and uncovers a horrifying truth.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781791392796.jpg",
+			"name": "VERITY",
+			"publisher": "Grand Central",
+			"rank": 5
+		},
+		{
+			"author": "by Stuart Woods",
+			"description": "The 61st book in the Stone Barrington series. Transporting secret cargo sends Stone on an adventure on both sides of the Atlantic.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593331750.jpg",
+			"name": "A SAFE HOUSE",
+			"publisher": "Putnam",
+			"rank": 6
+		},
+		{
+			"author": "by Taylor Jenkins Reid",
+			"description": "A movie icon recounts stories of her loves and career to a struggling magazine writer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501161933.jpg",
+			"name": "THE SEVEN HUSBANDS OF EVELYN HUGO",
+			"publisher": "Washington Square/Atria",
+			"rank": 7
+		},
+		{
+			"author": "by Jacqueline Winspear",
+			"description": "The 17th book in the Maisie Dobbs series. Dobbs works to uncover a plot that jeopardizes the safety of Eleanor Roosevelt.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063142268.jpg",
+			"name": "A SUNLIT WEAPON",
+			"publisher": "Harper",
+			"rank": 8
+		},
+		{
+			"author": "by Anne Tyler",
+			"description": "The ups and downs of a Baltimore family from the 1950s to the pandemic present.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593321096.jpg",
+			"name": "FRENCH BRAID",
+			"publisher": "Knopf",
+			"rank": 9
+		},
+		{
+			"author": "by Harlan Coben",
+			"description": "The second book in the Wilde series. Questions surface when Wilde connects with family members who have been out of his life.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538748282.jpg",
+			"name": "THE MATCH",
+			"publisher": "Grand Central",
+			"rank": 10
+		},
+		{
+			"author": "by Lucy Foley",
+			"description": "Jess has suspicions about her half-brother\u2019s neighbors when he goes missing.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063003057.jpg",
+			"name": "THE PARIS APARTMENT",
+			"publisher": "Morrow",
+			"rank": 11
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "Tate Collins and Miles Archer,\u00a0an airline pilot, think they can handle a no strings attached arrangement. But they can't.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476753195.jpg",
+			"name": "UGLY LOVE",
+			"publisher": "Atria",
+			"rank": 12
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "Is Ben using his relationship with Fallon as fodder for his novel?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501110351.jpg",
+			"name": "NOVEMBER 9",
+			"publisher": "Atria",
+			"rank": 13
+		},
+		{
+			"author": "by C.J. Box",
+			"description": "The 22nd book in the Joe Pickett series. A fishing guide\u2019s murder, stolen falcons and a Nazi official\u2019s photo album heighten the danger.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593331262.jpg",
+			"name": "SHADOWS REEL",
+			"publisher": "Putnam",
+			"rank": 14
+		},
+		{
+			"author": "by Ali Hazelwood",
+			"description": "A young professor agrees to pretend to be a third-year Ph.D. candidate\u2019s boyfriend.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593336823.jpg",
+			"name": "THE LOVE HYPOTHESIS",
+			"publisher": "Berkley",
+			"rank": 15
+		}
+	]
+}

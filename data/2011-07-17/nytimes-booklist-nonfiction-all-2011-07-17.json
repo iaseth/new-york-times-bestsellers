@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Todd Burpo with Lynn Vincent",
+			"description": "A father recounts his 3-year-old son\u2019s encounter with Jesus and the angels during an appendectomy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780849949203.jpg",
+			"name": "HEAVEN IS FOR REAL",
+			"publisher": "Thomas Nelson",
+			"rank": 1
+		},
+		{
+			"author": "by Erik Larson",
+			"description": "This portrait of Berlin during the rise of the Nazis centers on the experiences of William E. Dodd, who became the U.S. ambassador to Germany in 1933, and his daughter, Martha.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307887955.jpg",
+			"name": "IN THE GARDEN OF BEASTS",
+			"publisher": "Crown",
+			"rank": 2
+		},
+		{
+			"author": "by Laura Hillenbrand",
+			"description": "An Olympic runner\u2019s story of survival as a prisoner of the Japanese in World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400064168.jpg",
+			"name": "UNBROKEN",
+			"publisher": "Random House",
+			"rank": 3
+		},
+		{
+			"author": "by Tina Fey",
+			"description": "A memoir from the former Saturday Night Live star and creator of \"30 Rock.\"",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316056892.jpg",
+			"name": "BOSSYPANTS",
+			"publisher": "Little, Brown",
+			"rank": 4
+		},
+		{
+			"author": "by Glenn Beck with Joshua Charles",
+			"description": "The Federalists\u2019 case for the Constitution, adapted for the 21st century.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451650624.jpg",
+			"name": "THE ORIGINAL ARGUMENT",
+			"publisher": "Threshold Editions",
+			"rank": 5
+		},
+		{
+			"author": "by Rebecca Skloot",
+			"description": "The story of a woman whose cancer cells were extensively cultured without her permission in 1951.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400052189.jpg",
+			"name": "THE IMMORTAL LIFE OF HENRIETTA LACKS",
+			"publisher": "Crown",
+			"rank": 6
+		},
+		{
+			"author": "by David McCullough",
+			"description": "The historian explores the extensive intellectual legacy that France settled on its 19th-century visitors.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781416571766.jpg",
+			"name": "THE GREATER JOURNEY",
+			"publisher": "Simon & Schuster",
+			"rank": 7
+		},
+		{
+			"author": "by Mitchell Zuckoff",
+			"description": "After a jungle plane crash in 1945, three survivors were caught between headhunters and enemy Japanese.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780061988356.jpg",
+			"name": "LOST IN SHANGRI-LA",
+			"publisher": "HarperCollins",
+			"rank": 8
+		},
+		{
+			"author": "by Howard E. Wasdin and Stephen Templin",
+			"description": "An expert sniper and former member of the Navy Seals recounts his military training and missions, including the battle of Mogadishu in 1993.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250006950.jpg",
+			"name": "SEAL TEAM SIX",
+			"publisher": "St. Martin's",
+			"rank": 9
+		},
+		{
+			"author": "by Malcolm Gladwell",
+			"description": "Why some people succeed \u2014 it has to do with luck and opportunities as well as talent.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316017930.jpg",
+			"name": "OUTLIERS",
+			"publisher": "Little, Brown",
+			"rank": 10
+		},
+		{
+			"author": "by Ann Coulter",
+			"description": "The columnist compares the Democratic Party to a mob.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307353481.jpg",
+			"name": "DEMONIC",
+			"publisher": "Crown",
+			"rank": 11
+		},
+		{
+			"author": "by Chris Stewart and Ted Stewart",
+			"description": "A claim that the outcome of seven historical tipping points assured the freedom and democracy of today.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781606419519.jpg",
+			"name": "MIRACLE OF FREEDOM",
+			"publisher": "Deseret",
+			"rank": 12
+		},
+		{
+			"author": "by Jeannette Walls",
+			"description": "The author recalls a bizarre childhood during which she was constantly moved from place to place.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780743247542.jpg",
+			"name": "THE GLASS CASTLE",
+			"publisher": "Simon & Schuster",
+			"rank": 13
+		},
+		{
+			"author": "by Gretchen Morgenson and Joshua Rosner",
+			"description": "This account of the Wall Street implosion highlights individuals in crucial roles of responsibility.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780805091205.jpg",
+			"name": "RECKLESS ENDANGERMENT",
+			"publisher": "Holt",
+			"rank": 14
+		},
+		{
+			"author": "by Chelsea Handler",
+			"description": "Handler\u2019s friends, family members and colleagues write about being victims of her practical jokes.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780446584708.jpg",
+			"name": "LIES THAT CHELSEA HANDLER TOLD ME",
+			"publisher": "Grand Central",
+			"rank": 15
+		}
+	]
+}

@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Bruce D. Perry and Oprah Winfrey",
+			"description": "An approach to dealing with trauma that shifts an essential question used to investigate it.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250223180.jpg",
+			"name": "WHAT HAPPENED TO YOU?",
+			"publisher": "Flatiron",
+			"rank": 1
+		},
+		{
+			"author": "by Malcolm Gladwell",
+			"description": "A look at the key players and outcomes of precision bombing during World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316296618.jpg",
+			"name": "THE BOMBER MAFIA",
+			"publisher": "Little, Brown",
+			"rank": 2
+		},
+		{
+			"author": "edited by Tarana Burke and Bren\u00e9 Brown",
+			"description": "An anthology of writing on the Black experience and shame resilience.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593243626.jpg",
+			"name": "YOU ARE YOUR BEST THING",
+			"publisher": "Random House",
+			"rank": 3
+		},
+		{
+			"author": "by Leslie Jordan",
+			"description": "A collection of essays by the Emmy-winning actor who became a viral sensation without knowing what that phrase meant at the time.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063076198.jpg",
+			"name": "HOW Y'ALL DOING?",
+			"publisher": "Morrow",
+			"rank": 4
+		},
+		{
+			"author": "by Bessel van der Kolk",
+			"description": "How trauma affects the body and mind, and innovative treatments for recovery.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780670785933.jpg",
+			"name": "THE BODY KEEPS THE SCORE",
+			"publisher": "Penguin",
+			"rank": 5
+		},
+		{
+			"author": "by George W. Bush",
+			"description": "Forty-three portraits by the former president, of men and women who have immigrated to the United States.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593136966.jpg",
+			"name": "OUT OF MANY, ONE",
+			"publisher": "Crown",
+			"rank": 6
+		},
+		{
+			"author": "by Isabel Wilkerson",
+			"description": "The Pulitzer Prize-winning journalist examines aspects of caste systems across civilizations and reveals a rigid hierarchy in America today.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593230251.jpg",
+			"name": "CASTE",
+			"publisher": "Random House",
+			"rank": 7
+		},
+		{
+			"author": "by Jessica Bruder",
+			"description": "A look at an expanding low-cost labor pool, which largely consists of transient older adults, and what this might portend.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780393356311.jpg",
+			"name": "NOMADLAND",
+			"publisher": "Norton",
+			"rank": 8
+		},
+		{
+			"author": "by Glennon Doyle",
+			"description": "The activist and public speaker describes her journey of listening to her inner voice.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984801258.jpg",
+			"name": "UNTAMED",
+			"publisher": "Dial",
+			"rank": 9
+		},
+		{
+			"author": "by Matthew McConaughey",
+			"description": "The Academy Award-winning actor shares snippets from the diaries he kept over the last 35 years.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593139134.jpg",
+			"name": "GREENLIGHTS",
+			"publisher": "Crown",
+			"rank": 10
+		},
+		{
+			"author": "by Michelle Zauner",
+			"description": "The daughter of a Korean mother and Jewish-American father, and leader of the indie rock project Japanese Breakfast, describes creating her own identity after losing her mother to cancer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525657743.jpg",
+			"name": "CRYING IN H MART",
+			"publisher": "Knopf",
+			"rank": 11
+		},
+		{
+			"author": "by Walter Isaacson",
+			"description": "How the Nobel Prize winner Jennifer Doudna and her colleagues invented CRISPR, a tool that can edit DNA.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982115852.jpg",
+			"name": "THE CODE BREAKER",
+			"publisher": "Simon & Schuster",
+			"rank": 12
+		},
+		{
+			"author": "by Amy Klobuchar",
+			"description": "The senior senator from Minnesota suggests ways to deal with monopolies, promote business competition and encourage innovation.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525654896.jpg",
+			"name": "ANTITRUST",
+			"publisher": "Knopf",
+			"rank": 13
+		},
+		{
+			"author": "by Adam Grant",
+			"description": "An examination of the cognitive skills of rethinking and unlearning that could be used to adapt to a rapidly changing world.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984878106.jpg",
+			"name": "THINK AGAIN",
+			"publisher": "Viking",
+			"rank": 14
+		},
+		{
+			"author": "by Patrick Radden Keefe",
+			"description": "A portrait of the Sackler family, known for their philanthropy toward institutions around the world, and their involvement with Valium and OxyContin.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385545686.jpg",
+			"name": "EMPIRE OF PAIN",
+			"publisher": "Doubleday",
+			"rank": 15
+		}
+	]
+}

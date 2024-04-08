@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by John Grisham",
+			"description": "A search for stolen rare manuscripts leads to a Florida island.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385543057.jpg",
+			"name": "CAMINO ISLAND",
+			"publisher": "Doubleday",
+			"rank": 1
+		},
+		{
+			"author": "by Nora Roberts",
+			"description": "Years after she was kidnapped, a woman returns to her family\u2019s Montana ranch.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250123107.jpg",
+			"name": "COME SUNDOWN",
+			"publisher": "St. Martin's",
+			"rank": 2
+		},
+		{
+			"author": "by Paula Hawkins",
+			"description": "In this psychological thriller by the author of \u201cThe Girl on the Train,\u201d women are found drowned in a river in an English town.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735211216.jpg",
+			"name": "INTO THE WATER",
+			"publisher": "Riverhead",
+			"rank": 3
+		},
+		{
+			"author": "by Stuart Woods",
+			"description": "Rekindling a romance with an old girlfriend who is now secretary of state exposes the New York lawyer Stone Barrington to unwanted attention.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735217133.jpg",
+			"name": "INDECENT EXPOSURE",
+			"publisher": "Putnam",
+			"rank": 4
+		},
+		{
+			"author": "by Margaret Atwood",
+			"description": "In a dystopian future, men and women perform the services assigned to them. Originally published in 1986.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780547345666.jpg",
+			"name": "THE HANDMAID'S TALE",
+			"publisher": "Houghton Mifflin Harcourt",
+			"rank": 5
+		},
+		{
+			"author": "by Karen Kingsbury",
+			"description": "How John and Elizabeth Baxter fell in love.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451687590.jpg",
+			"name": "LOVE STORY",
+			"publisher": "Howard",
+			"rank": 6
+		},
+		{
+			"author": "by Ruth Ware",
+			"description": "A travel writer on a cruise is certain she has heard a body thrown overboard, but no one believes her.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501132940.jpg",
+			"name": "THE WOMAN IN CABIN 10",
+			"publisher": "Scout",
+			"rank": 7
+		},
+		{
+			"author": "by Nicholas Sparks",
+			"description": "A couple in love are threatened by secrets from the past.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455520619.jpg",
+			"name": "SEE ME",
+			"publisher": "Grand Central",
+			"rank": 8
+		},
+		{
+			"author": "by Michael Crichton",
+			"description": "A paleontological rivalry plays out in 1870s Wyoming.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062473356.jpg",
+			"name": "DRAGON TEETH",
+			"publisher": "Harper",
+			"rank": 9
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "The detective Amos Decker (\u201cMemory Man\u201d) witnesses a murder-suicide that turns out to be a matter of national security.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455586561.jpg",
+			"name": "THE FIX",
+			"publisher": "Grand Central",
+			"rank": 10
+		},
+		{
+			"author": "by Martha Hall Kelly",
+			"description": "A story of three women\u2019s lives during and after World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101883075.jpg",
+			"name": "LILAC GIRLS",
+			"publisher": "Ballantine",
+			"rank": 11
+		},
+		{
+			"author": "by Rupi Kaur",
+			"description": "Poetic approaches to surviving adversity and loss.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781449474256.jpg",
+			"name": "MILK AND HONEY",
+			"publisher": "Andrews McMeel",
+			"rank": 12
+		},
+		{
+			"author": "by Clive Cussler and Graham Brown",
+			"description": "The NUMA crew races the Russians and Chinese in a hunt for a missing American aircraft.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399184031.jpg",
+			"name": "NIGHTHAWK",
+			"publisher": "Putnam",
+			"rank": 13
+		},
+		{
+			"author": "by Lee Child",
+			"description": "A complete collection of Jack Reacher stories.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399593581.jpg",
+			"name": "NO MIDDLE NAME",
+			"publisher": "Delacorte",
+			"rank": 14
+		},
+		{
+			"author": "by Fredrik Backman",
+			"description": "A curmudgeon's gruff exterior masks a generosity of spirit. Originally published in Sweden in 2014.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476738024.jpg",
+			"name": "A MAN CALLED OVE",
+			"publisher": "Washington Square",
+			"rank": 15
+		}
+	]
+}

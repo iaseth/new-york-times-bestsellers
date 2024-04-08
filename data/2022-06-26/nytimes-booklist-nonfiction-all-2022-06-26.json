@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by James Patterson",
+			"description": "The author\u2019s life, from growing up in small-town New York to working in the advertising industry to becoming a successful storyteller.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316397537.jpg",
+			"name": "JAMES PATTERSON",
+			"publisher": "Little, Brown",
+			"rank": 1
+		},
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "The 11th book in the conservative commentator\u2019s Killing series gives an account of the global war against terrorists.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250279255.jpg",
+			"name": "KILLING THE KILLERS",
+			"publisher": "St. Martin's",
+			"rank": 2
+		},
+		{
+			"author": "by David Sedaris",
+			"description": "The humorist portrays personal and public upheavals of his life in its seventh decade and the world in the time of a pandemic.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316392457.jpg",
+			"name": "HAPPY-GO-LUCKY",
+			"publisher": "Little, Brown",
+			"rank": 3
+		},
+		{
+			"author": "by Bessel van der Kolk",
+			"description": "How trauma affects the body and mind, and innovative treatments for recovery.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780670785933.jpg",
+			"name": "THE BODY KEEPS THE SCORE",
+			"publisher": "Penguin",
+			"rank": 4
+		},
+		{
+			"author": "by Viola Davis",
+			"description": "The multiple award-winning actress describes the difficulties she encountered before claiming her sense of self and achieving professional success.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063037328.jpg",
+			"name": "FINDING ME",
+			"publisher": "HarperOne",
+			"rank": 5
+		},
+		{
+			"author": "by Dan Pfeiffer",
+			"description": "The cohost of \u201cPod Save America\u201d and former White House director of communications gives his take on the right-wing media apparatus.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538707975.jpg",
+			"name": "BATTLING THE BIG LIE",
+			"publisher": "Twelve",
+			"rank": 6
+		},
+		{
+			"author": "by Tina Brown",
+			"description": "This follow-up to \u201cThe Diana Chronicles\u201d details how the royal family reinvented itself after the death of Princess Diana.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593138090.jpg",
+			"name": "THE PALACE PAPERS",
+			"publisher": "Crown",
+			"rank": 7
+		},
+		{
+			"author": "by Tim Kennedy and Nick Palmisciano",
+			"description": "The Green Beret and former mixed martial arts fighter describes how his failures shaped who he is today.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982190910.jpg",
+			"name": "SCARS AND STRIPES",
+			"publisher": "Atria",
+			"rank": 8
+		},
+		{
+			"author": "by Kellyanne Conway",
+			"description": "The former senior counselor in President Trump\u2019s White House gives her account of her time in politics.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982187347.jpg",
+			"name": "HERE'S THE DEAL",
+			"publisher": "Threshold Editions",
+			"rank": 9
+		},
+		{
+			"author": "by David I. Kertzer",
+			"description": "A depiction of Pope Pius XII\u2019s actions during World War II and why he bent to the wills of Hitler and Mussolini.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812989946.jpg",
+			"name": "THE POPE AT WAR",
+			"publisher": "Random House",
+			"rank": 10
+		},
+		{
+			"author": "by Michelle Zauner",
+			"description": "The daughter of a Korean mother and Jewish-American father, and leader of the indie rock project Japanese Breakfast, describes creating her own identity after losing her mother to cancer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525657743.jpg",
+			"name": "CRYING IN H MART",
+			"publisher": "Knopf",
+			"rank": 11
+		},
+		{
+			"author": "by Matthew McConaughey",
+			"description": "The Academy Award-winning actor shares snippets from the diaries he kept over the last 35 years.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593139134.jpg",
+			"name": "GREENLIGHTS",
+			"publisher": "Crown",
+			"rank": 12
+		},
+		{
+			"author": "by Jon Krakauer",
+			"description": "Two brothers who subscribed to a fundamentalist version of Mormonism killed a woman and her daughter; the basis of the TV series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400032808.jpg",
+			"name": "UNDER THE BANNER OF HEAVEN",
+			"publisher": "Anchor",
+			"rank": 13
+		},
+		{
+			"author": "by Candice Millard",
+			"description": "The story of the hardships encountered during 19th-century expeditions in Africa, and the complicated partnerships behind them.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385543101.jpg",
+			"name": "RIVER OF THE GODS",
+			"publisher": "Doubleday",
+			"rank": 14
+		},
+		{
+			"author": "by Lindsey Fitzharris",
+			"description": "How the modern era of plastic surgery was ushered in by the work of a surgeon repairing the faces of World War I soldiers.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780374282301.jpg",
+			"name": "THE FACEMAKER",
+			"publisher": "Farrar, Straus & Giroux",
+			"rank": 15
+		}
+	]
+}

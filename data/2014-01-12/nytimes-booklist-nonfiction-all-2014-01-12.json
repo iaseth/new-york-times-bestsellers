@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Charles Krauthammer",
+			"description": "Three decades\u2019 worth of essays from the conservative columnist.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385349178.jpg",
+			"name": "THINGS THAT MATTER",
+			"publisher": "Crown Forum",
+			"rank": 1
+		},
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "The host of \"The O'Reilly Factor\" recounts the events leading up to Jesus' execution.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780805098549.jpg",
+			"name": "KILLING JESUS",
+			"publisher": "Holt",
+			"rank": 2
+		},
+		{
+			"author": "by Marcus Luttrell with Patrick Robinson",
+			"description": "The only survivor of a Navy SEALs operation in northern Afghanistan describes the battle, his comrades and his courageous escape.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316067607.jpg",
+			"name": "LONE SURVIVOR",
+			"publisher": "Little, Brown",
+			"rank": 3
+		},
+		{
+			"author": "by Malcolm Gladwell",
+			"description": "How disadvantages can work in our favor; from the author of \"The Tipping Point\" and \"Outliers.\"",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316204361.jpg",
+			"name": "DAVID AND GOLIATH",
+			"publisher": "Little, Brown",
+			"rank": 4
+		},
+		{
+			"author": "by Brian Kilmeade and Don Yaeger",
+			"description": "The story of the Culper spy ring, which aided the American cause during the Revolution.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698137653.jpg",
+			"name": "GEORGE WASHINGTON'S SECRET SIX",
+			"publisher": "Sentinel",
+			"rank": 5
+		},
+		{
+			"author": "by Doris Kearns Goodwin",
+			"description": "The relationship between Theodore Roosevelt and William Howard Taft and the activities of the muckraking press, from the author of \u201cTeam of Rivals.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781416547860.jpg",
+			"name": "THE BULLY PULPIT",
+			"publisher": "Simon & Schuster",
+			"rank": 6
+		},
+		{
+			"author": "by Malala Yousafzai with Christina Lamb",
+			"description": "The experience of the Pakistani girl who advocated for women\u2019s education and was shot by the Taliban.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316322409.jpg",
+			"name": "I AM MALALA",
+			"publisher": "Little, Brown",
+			"rank": 7
+		},
+		{
+			"author": "by Jordan Belfort",
+			"description": "The explosive rise and ugly fall of a high-living investment- firm founder. First published in 2007; the basis for the movie.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780553904246.jpg",
+			"name": "THE WOLF OF WALL STREET",
+			"publisher": "Bantam",
+			"rank": 8
+		},
+		{
+			"author": "by Glenn Beck with Kevin Balfe and Hannah Beck",
+			"description": "Little-known stories from the American past.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476764757.jpg",
+			"name": "MIRACLES AND MASSACRES",
+			"publisher": "Threshold Editions/Mercury Radio Arts",
+			"rank": 9
+		},
+		{
+			"author": "by Daniel Kahneman",
+			"description": "The winner of the Nobel in economic science discusses how we make choices in business and personal life and when we can and cannot trust our intuitions.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781429969352.jpg",
+			"name": "THINKING, FAST AND SLOW",
+			"publisher": "Farrar, Straus & Giroux",
+			"rank": 10
+		},
+		{
+			"author": "by Bill Bryson",
+			"description": "The events of the summer of 1927: Charles Lindbergh\u2019s trans-Atlantic flight, Babe Ruth\u2019s 60 homers, the great Mississippi flood.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385537827.jpg",
+			"name": "ONE SUMMER",
+			"publisher": "Doubleday",
+			"rank": 11
+		},
+		{
+			"author": "by Piper Kerman",
+			"description": "A memoir by a Brooklyn woman whose relationship with a drug runner gets her sentenced to a year in prison. The basis for the Netflix series, originally published in 2010.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385530262.jpg",
+			"name": "ORANGE IS THE NEW BLACK",
+			"publisher": "Spiegel & Grau",
+			"rank": 12
+		},
+		{
+			"author": "by Laura Hillenbrand",
+			"description": "An Olympic runner\u2019s story of survival as a prisoner of the Japanese in World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400064168.jpg",
+			"name": "UNBROKEN",
+			"publisher": "Random House",
+			"rank": 13
+		},
+		{
+			"author": "by Eben Alexander",
+			"description": "A neurosurgeon recounts his near death experience during a coma from bacterial meningitis.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451695199.jpg",
+			"name": "PROOF OF HEAVEN",
+			"publisher": "Simon & Schuster",
+			"rank": 14
+		},
+		{
+			"author": "by Phil Robertson with Mark Schlabach",
+			"description": "The Duck Commander pays tribute to \"faith, family and ducks.\"",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476726090.jpg",
+			"name": "HAPPY, HAPPY, HAPPY",
+			"publisher": "Howard Books",
+			"rank": 15
+		}
+	]
+}

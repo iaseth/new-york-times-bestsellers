@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Chelsea Handler",
+			"description": "The comedian chronicles going into therapy and becoming an advocate for change.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525511779.jpg",
+			"name": "LIFE WILL BE THE DEATH OF ME",
+			"publisher": "Spiegel & Grau",
+			"rank": 1
+		},
+		{
+			"author": "by Michelle Obama",
+			"description": "The former first lady describes her journey from the South Side of Chicago to the White House, and how she balanced work, family and her husband\u2019s political ascent.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524763138.jpg",
+			"name": "BECOMING",
+			"publisher": "Crown",
+			"rank": 2
+		},
+		{
+			"author": "by Tara Westover",
+			"description": "The daughter of survivalists, who is kept out of school, educates herself enough to leave home for university.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399590504.jpg",
+			"name": "EDUCATED",
+			"publisher": "Random House",
+			"rank": 3
+		},
+		{
+			"author": "by Lori Gottlieb",
+			"description": "A psychotherapist gains unexpected insights when she becomes another therapist\u2019s patient.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781328662057.jpg",
+			"name": "MAYBE YOU SHOULD TALK TO SOMEONE",
+			"publisher": "Houghton Mifflin Harcourt",
+			"rank": 4
+		},
+		{
+			"author": "by Susan Page",
+			"description": "A biography of the former first lady Barbara Bush, based on interviews and her private diaries.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538713648.jpg",
+			"name": "THE MATRIARCH",
+			"publisher": "Twelve",
+			"rank": 5
+		},
+		{
+			"author": "by John Carreyrou",
+			"description": "The rise and fall of Theranos, the biotech startup that failed to deliver on its promise to make blood testing more efficient.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524731663.jpg",
+			"name": "BAD BLOOD",
+			"publisher": "Knopf",
+			"rank": 6
+		},
+		{
+			"author": "by Ben Shapiro",
+			"description": "The conservative political commentator reflects upon what he considers most impactful to Western civilization.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062857903.jpg",
+			"name": "THE RIGHT SIDE OF HISTORY",
+			"publisher": "Broadside",
+			"rank": 7
+		},
+		{
+			"author": "by Rick Reilly",
+			"description": "A sportswriter handicaps the current president\u2019s character, based on how he plays golf.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316528085.jpg",
+			"name": "COMMANDER IN CHEAT",
+			"publisher": "Hachette",
+			"rank": 8
+		},
+		{
+			"author": "by Ramin Setoodeh",
+			"description": "A behind-the-scenes look at the daytime talk show \u201cThe View.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250112101.jpg",
+			"name": "LADIES WHO PUNCH",
+			"publisher": "Thomas Dunne/St. Martin\u2019s",
+			"rank": 9
+		},
+		{
+			"author": "by Robert A. Caro",
+			"description": "The Pulitzer Prize-winning biographer shares insights into his craft.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525656340.jpg",
+			"name": "WORKING",
+			"publisher": "Knopf",
+			"rank": 10
+		},
+		{
+			"author": "by Ruth Reichl",
+			"description": "A memoir by the former restaurant critic of The New York Times and editor in chief of Gourmet.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400069996.jpg",
+			"name": "SAVE ME THE PLUMS",
+			"publisher": "Random House",
+			"rank": 11
+		},
+		{
+			"author": "by Trevor Noah",
+			"description": "A memoir about growing up biracial in apartheid South Africa by the host of \u201cThe Daily Show.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399588181.jpg",
+			"name": "BORN A CRIME",
+			"publisher": "Spiegel & Grau",
+			"rank": 12
+		},
+		{
+			"author": "by Jake Sherman and Anna Palmer",
+			"description": "A look at congressional gridlock and the first two years of Trump's presidency.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525574743.jpg",
+			"name": "THE HILL TO DIE ON",
+			"publisher": "Crown",
+			"rank": 13
+		},
+		{
+			"author": "by Emily Bazelon",
+			"description": "Issues created by mass incarceration and our criminal justice system are explored through the cases of two young people.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399590016.jpg",
+			"name": "CHARGED",
+			"publisher": "Random House",
+			"rank": 14
+		},
+		{
+			"author": "by Yuval Noah Harari",
+			"description": "How Homo sapiens became Earth\u2019s dominant species.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062316097.jpg",
+			"name": "SAPIENS",
+			"publisher": "Harper",
+			"rank": 15
+		}
+	]
+}

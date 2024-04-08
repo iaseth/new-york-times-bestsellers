@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Nora Roberts",
+			"description": "After her husband\u2019s death, a woman returns with her daughter to her Smoky Mountain hometown, only to discover that her husband was a fraud who implicated her in his deceptions.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698161351.jpg",
+			"name": "THE LIAR",
+			"publisher": "Putnam",
+			"rank": 1
+		},
+		{
+			"author": "by Paula Hawkins",
+			"description": "A psychological thriller set in London is full of complications and betrayals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594633669.jpg",
+			"name": "THE GIRL ON THE TRAIN",
+			"publisher": "Riverhead",
+			"rank": 2
+		},
+		{
+			"author": "by Harlan Coben",
+			"description": "Characters\u2019 lives begin to fall apart as a mysterious stranger discloses secrets to them; a stand-alone thriller.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525953500.jpg",
+			"name": "THE STRANGER",
+			"publisher": "Dutton",
+			"rank": 3
+		},
+		{
+			"author": "by Nicholas Sparks",
+			"description": "The lives of two couples converge unexpectedly.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455520640.jpg",
+			"name": "THE LONGEST RIDE",
+			"publisher": "Grand Central",
+			"rank": 4
+		},
+		{
+			"author": "by Lisa Scottoline",
+			"description": "A psychiatrist becomes the target of a sociopath.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250010117.jpg",
+			"name": "EVERY FIFTEEN MINUTES",
+			"publisher": "St. Martin's",
+			"rank": 5
+		},
+		{
+			"author": "by Anthony Doerr",
+			"description": "The lives of a blind French girl and a gadget-obsessed German boy before and during World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476746586.jpg",
+			"name": "ALL THE LIGHT WE CANNOT SEE",
+			"publisher": "Scribner",
+			"rank": 6
+		},
+		{
+			"author": "by Christina Lauren",
+			"description": "Free-spirited Ruby breathes life into buttoned-down, recently divorced Niall.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476778013.jpg",
+			"name": "BEAUTIFUL SECRET",
+			"publisher": "Simon & Schuster",
+			"rank": 7
+		},
+		{
+			"author": "by Kristin Hannah",
+			"description": "Two sisters are separated in World War II France: one struggling to survive in the countryside, the other joining the Resistance in Paris.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781466850606.jpg",
+			"name": "THE NIGHTINGALE",
+			"publisher": "St. Martin's",
+			"rank": 8
+		},
+		{
+			"author": "by Diana Gabaldon",
+			"description": "Claire Randall, an English nurse, is transported back to 1743 during a second honeymoon in the Scottish Highlands. There she begins an affair with James Fraser, a redheaded soldier. Originally published in 1991.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780440212560.jpg",
+			"name": "OUTLANDER",
+			"publisher": "Dell",
+			"rank": 9
+		},
+		{
+			"author": "by Aurora Rose Reynolds",
+			"description": "An overprotective father must realize his daughter has found the one.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/A00B00VNAB1MW.jpg",
+			"name": "UNTIL JULY",
+			"publisher": "Aurora Rose Reynolds",
+			"rank": 10
+		},
+		{
+			"author": "by James Patterson and Marshall Karp",
+			"description": "Investigating the disappearance of a billionaire\u2019s son, Detective Zach Jordan and his partner (and ex-girlfriend) find themselves in the midst of a conspiracy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316406994.jpg",
+			"name": "NYPD RED 3",
+			"publisher": "Little, Brown",
+			"rank": 11
+		},
+		{
+			"author": "by Jude Deveraux",
+			"description": "The first installment of the Nantucket Brides trilogy/",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345541802.jpg",
+			"name": "TRUE LOVE",
+			"publisher": "Ballantine",
+			"rank": 12
+		},
+		{
+			"author": "by Sara Gruen",
+			"description": "A socialite travels to the Scottish Highlands with her husband and his friend, who are searching for the Loch Ness monster; there she uncovers secrets about her husband and family.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385523233.jpg",
+			"name": "AT THE WATER'S EDGE",
+			"publisher": "Spiegel & Grau",
+			"rank": 13
+		},
+		{
+			"author": "by Liane Moriarty",
+			"description": "A woman\u2019s life is upended when she discovers a letter from her husband she was not yet meant to read.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101636237.jpg",
+			"name": "THE HUSBAND'S SECRET",
+			"publisher": "Amy Einhorn/Putnam",
+			"rank": 14
+		},
+		{
+			"author": "by Stuart Woods",
+			"description": "A lawyer pursues an attractive pilot.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698154162.jpg",
+			"name": "HOT PURSUIT",
+			"publisher": "Putnam",
+			"rank": 15
+		}
+	]
+}

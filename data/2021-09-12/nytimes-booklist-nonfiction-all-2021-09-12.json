@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Mark R. Levin",
+			"description": "The Fox News host gives his take on the Green New Deal, critical race theory and social activism.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501135972.jpg",
+			"name": "AMERICAN MARXISM",
+			"publisher": "Threshold Editions",
+			"rank": 1
+		},
+		{
+			"author": "by Bessel van der Kolk",
+			"description": "How trauma affects the body and mind, and innovative treatments for recovery.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780670785933.jpg",
+			"name": "THE BODY KEEPS THE SCORE",
+			"publisher": "Penguin",
+			"rank": 2
+		},
+		{
+			"author": "by Tucker Carlson",
+			"description": "A collection of previously published essays from 1995 to 2016 by the Fox News host.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501183690.jpg",
+			"name": "THE LONG SLIDE",
+			"publisher": "Threshold Editions",
+			"rank": 3
+		},
+		{
+			"author": "by Mike Duncan",
+			"description": "An overview of Marquis de Lafayette\u2019s career on both sides of the Atlantic during the Age of Revolution.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781541730335.jpg",
+			"name": "HERO OF TWO WORLDS",
+			"publisher": "PublicAffairs",
+			"rank": 4
+		},
+		{
+			"author": "by Anna Lembke",
+			"description": "The medical director of Stanford Addiction Medicine explores the neuroscience and behaviors that inform the relationship between pleasure and pain.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524746728.jpg",
+			"name": "DOPAMINE NATION",
+			"publisher": "Dutton",
+			"rank": 5
+		},
+		{
+			"author": "by Mary L. Trump",
+			"description": "The author of \u201cToo Much and Never Enough\u201d examines potential trauma caused by current and historical events.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250278456.jpg",
+			"name": "THE RECKONING",
+			"publisher": "St. Martin's",
+			"rank": 6
+		},
+		{
+			"author": "by Robin Wall Kimmerer",
+			"description": "A botanist and member of the Citizen Potawatomi Nation espouses having an understanding and appreciation of plants and animals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781571313560.jpg",
+			"name": "BRAIDING SWEETGRASS",
+			"publisher": "Milkweed Editions",
+			"rank": 7
+		},
+		{
+			"author": "by Isabel Wilkerson",
+			"description": "The Pulitzer Prize-winning journalist examines aspects of caste systems across civilizations and reveals a rigid hierarchy in America today.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593230251.jpg",
+			"name": "CASTE",
+			"publisher": "Random House",
+			"rank": 8
+		},
+		{
+			"author": "by Bruce D. Perry and Oprah Winfrey",
+			"description": "An approach to dealing with trauma that shifts an essential question used to investigate it.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250223180.jpg",
+			"name": "WHAT HAPPENED TO YOU?",
+			"publisher": "Flatiron",
+			"rank": 9
+		},
+		{
+			"author": "by Vivek Ramaswamy",
+			"description": "The founder and executive chairman of the biopharmaceutical company Roivant Sciences shares his perspectives on American capitalism.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781546090786.jpg",
+			"name": "WOKE, INC.",
+			"publisher": "Center Street",
+			"rank": 10
+		},
+		{
+			"author": "by Christopher Clarey",
+			"description": "A biography of the tennis champion Roger Federer by a New York Times tennis correspondent.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538719268.jpg",
+			"name": "THE MASTER",
+			"publisher": "Twelve",
+			"rank": 11
+		},
+		{
+			"author": "by Matthew McConaughey",
+			"description": "The Academy Award-winning actor shares snippets from the diaries he kept over the last 35 years.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593139134.jpg",
+			"name": "GREENLIGHTS",
+			"publisher": "Crown",
+			"rank": 12
+		},
+		{
+			"author": "by Trevor Noah",
+			"description": "A memoir about growing up biracial in apartheid South Africa by the host of \u201cThe Daily Show.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399588181.jpg",
+			"name": "BORN A CRIME",
+			"publisher": "One World",
+			"rank": 13
+		},
+		{
+			"author": "by Carol Leonnig and Philip Rucker",
+			"description": "The Pulitzer Prize-winning reporters examine Trump\u2019s final year in office, with a focus on the key players around him.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593298947.jpg",
+			"name": "I ALONE CAN FIX IT",
+			"publisher": "Penguin Press",
+			"rank": 14
+		},
+		{
+			"author": "by Glennon Doyle",
+			"description": "The activist and public speaker describes her journey of listening to her inner voice.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984801258.jpg",
+			"name": "UNTAMED",
+			"publisher": "Dial",
+			"rank": 15
+		}
+	]
+}

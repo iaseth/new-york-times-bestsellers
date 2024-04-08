@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Robert Galbraith",
+			"description": "The struggling detective Cormoran Strike investigates a supermodel\u2019s suicide; by J.K. Rowling, writing pseudonymously.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316206860.jpg",
+			"name": "THE CUCKOO'S CALLING",
+			"publisher": "Mulholland Books/Little, Brown",
+			"rank": 1
+		},
+		{
+			"author": "by Daniel Silva",
+			"description": "Gabriel Allon, an art restorer and occasional spy for the Israeli secret service, steps in to help the British prime minister, whose lover has been kidnapped.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062073204.jpg",
+			"name": "THE ENGLISH GIRL",
+			"publisher": "Harper",
+			"rank": 2
+		},
+		{
+			"author": "by Danielle Steel",
+			"description": "A talented American designer whose troubled past has soured her on relationships falls in love with a French doctor.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780440242055.jpg",
+			"name": "FIRST SIGHT",
+			"publisher": "Delacorte",
+			"rank": 3
+		},
+		{
+			"author": "by Dan Brown",
+			"description": "The symbologist Robert Langdon, on the run in Florence, must decipher a series of codes created by a Dante-loving scientist.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400079155.jpg",
+			"name": "INFERNO",
+			"publisher": "Doubleday",
+			"rank": 4
+		},
+		{
+			"author": "by Iris Johansen",
+			"description": "In the second book of a trilogy, the forensic sculptor Eve Duncan struggles to elude a kidnapper in the Colorado wilderness.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250020000.jpg",
+			"name": "HUNTING EVE",
+			"publisher": "St. Martin's",
+			"rank": 5
+		},
+		{
+			"author": "by James Patterson and Howard Roughan",
+			"description": "The F.B.I. agent John O\u2019Hara investigates the murder of a pair of newlyweds.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455515967.jpg",
+			"name": "SECOND HONEYMOON",
+			"publisher": "Little, Brown",
+			"rank": 6
+		},
+		{
+			"author": "by Brad Thor",
+			"description": "The counterterrorism operative Scot Harvath uncovers a plot with roots in the 18th century.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476717104.jpg",
+			"name": "HIDDEN ORDER",
+			"publisher": "Emily Bestler/Atria",
+			"rank": 7
+		},
+		{
+			"author": "by Khaled Hosseini",
+			"description": "A multigenerational family saga centers on a brother and sister born in Afghanistan.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594632389.jpg",
+			"name": "AND THE MOUNTAINS ECHOED",
+			"publisher": "Riverhead",
+			"rank": 8
+		},
+		{
+			"author": "by Gail McHugh",
+			"description": "In a sequel to \u201cCollide,\u201d Emily Cooper risks everything on her romance with the playboy Gavin Blake.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/A00B00DULA3B2.jpg",
+			"name": "PULSE",
+			"publisher": "Gail McHugh",
+			"rank": 9
+		},
+		{
+			"author": "by Gillian Flynn",
+			"description": "A woman disappears on the day of her fifth anniversary; is her husband a killer?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307588388.jpg",
+			"name": "GONE GIRL",
+			"publisher": "Crown",
+			"rank": 10
+		},
+		{
+			"author": "by Shayla Black and others",
+			"description": "Seven books by seven authors about bad boys and the women who love them.",
+			"imageSrc": "https://s1.nyt.com/du/books/images/default-image.png",
+			"name": "ALPHA BAD BOYS",
+			"publisher": "Ecila Media",
+			"rank": 11
+		},
+		{
+			"author": "by Catherine Coulter",
+			"description": "The F.B.I. special agent Griffin Hammersmith accepts Dillon Savich\u2019s invitation to join him and Lacey Sherlock.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101637197.jpg",
+			"name": "BOMBSHELL",
+			"publisher": "Putnam",
+			"rank": 12
+		},
+		{
+			"author": "by Debbie Macomber",
+			"description": "In this short story, Jo Marie Rose readies her bed-and-breakfast for spring.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780804177863.jpg",
+			"name": "LOST AND FOUND IN CEDAR COVE",
+			"publisher": "Ballantine",
+			"rank": 13
+		},
+		{
+			"author": "by Neil Gaiman",
+			"description": "A middle-aged man recalls his lonely boyhood and his friendship with a remarkable girl.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062255662.jpg",
+			"name": "THE OCEAN AT THE END OF THE LANE",
+			"publisher": "Morrow/HarperCollins",
+			"rank": 14
+		},
+		{
+			"author": "by Orson Scott Card",
+			"description": "Government agencies breed child geniuses and train them as soldiers. Originally published in 1985.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812550702.jpg",
+			"name": "ENDER'S GAME",
+			"publisher": "Tor/Tom Doherty",
+			"rank": 15
+		}
+	]
+}

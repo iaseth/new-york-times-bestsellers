@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Bob Woodward and Robert Costa",
+			"description": "The Washington Post journalists detail the dangers and challenges during the transition to the Biden presidency.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982182915.jpg",
+			"name": "PERIL",
+			"publisher": "Simon & Schuster",
+			"rank": 1
+		},
+		{
+			"author": "by Anderson Cooper and Katherine Howe",
+			"description": "The CNN host and descendant of the Vanderbilt family charts the rise and fall of this American dynasty.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062964618.jpg",
+			"name": "VANDERBILT",
+			"publisher": "Harper",
+			"rank": 2
+		},
+		{
+			"author": "by Mark R. Levin",
+			"description": "The Fox News host gives his take on the Green New Deal, critical race theory and social activism.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501135972.jpg",
+			"name": "AMERICAN MARXISM",
+			"publisher": "Threshold Editions",
+			"rank": 3
+		},
+		{
+			"author": "by Kate Bowler",
+			"description": "After being diagnosed with cancer at 35, the author of \u201cEverything Happens for a Reason\u201d takes a new look at the advice industry and her own ambitions.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593230770.jpg",
+			"name": "NO CURE FOR BEING HUMAN",
+			"publisher": "Random House",
+			"rank": 4
+		},
+		{
+			"author": "by Bessel van der Kolk",
+			"description": "How trauma affects the body and mind, and innovative treatments for recovery.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780670785933.jpg",
+			"name": "THE BODY KEEPS THE SCORE",
+			"publisher": "Penguin",
+			"rank": 5
+		},
+		{
+			"author": "by Stevie Van Zandt",
+			"description": "A memoir by the musician known for playing with the E Street Band, starring on \u201cThe Sopranos\u201d and participating in activist causes.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780306925429.jpg",
+			"name": "UNREQUITED INFATUATIONS",
+			"publisher": "Hachette Books",
+			"rank": 6
+		},
+		{
+			"author": "by Laurie Woolever",
+			"description": "An oral biography of the late chef, writer and television host by his longtime assistant and confidante.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062909107.jpg",
+			"name": "BOURDAIN",
+			"publisher": "Ecco",
+			"rank": 7
+		},
+		{
+			"author": "by Joe Posnanski",
+			"description": "The accomplishments of some of the sport\u2019s greatest players past and present are put into context with one another",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982180584.jpg",
+			"name": "THE BASEBALL 100",
+			"publisher": "Avid Reader",
+			"rank": 8
+		},
+		{
+			"author": "by Steven Pinker",
+			"description": "An exploration of several tools of reasoning often overlooked in standard education and some of the causes of irrationality within society.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525561996.jpg",
+			"name": "RATIONALITY",
+			"publisher": "Viking",
+			"rank": 9
+		},
+		{
+			"author": "by Lucy Adlington",
+			"description": "Twenty-five young inmates of the Auschwitz-Birkenau concentration camp made garments for elite Nazi women.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063030930.jpg",
+			"name": "THE DRESSMAKERS OF AUSCHWITZ",
+			"publisher": "Harper",
+			"rank": 10
+		},
+		{
+			"author": "by Robin Wall Kimmerer",
+			"description": "A botanist and member of the Citizen Potawatomi Nation espouses having an understanding and appreciation of plants and animals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781571313560.jpg",
+			"name": "BRAIDING SWEETGRASS",
+			"publisher": "Milkweed Editions",
+			"rank": 11
+		},
+		{
+			"author": "by Bruce D. Perry and Oprah Winfrey",
+			"description": "An approach to dealing with trauma that shifts an essential question used to investigate it.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250223180.jpg",
+			"name": "WHAT HAPPENED TO YOU?",
+			"publisher": "Flatiron",
+			"rank": 12
+		},
+		{
+			"author": "by Malcolm Gladwell",
+			"description": "Famous examples of miscommunication serve as the backdrop to explain potential conflicts and misunderstandings.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316478526.jpg",
+			"name": "TALKING TO STRANGERS",
+			"publisher": "Little, Brown",
+			"rank": 13
+		},
+		{
+			"author": "by Roxane van Iperen",
+			"description": "Janny and Lien Brilleslijper from Amsterdam were sent by train to Auschwitz when the Jewish safehouse they created in the woods was discovered.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063097629.jpg",
+			"name": "THE SISTERS OF AUSCHWITZ",
+			"publisher": "Harper",
+			"rank": 14
+		},
+		{
+			"author": "by Heather Heying and Bret Weinstein",
+			"description": "The evolutionary biologists posit that the modern world is out of sync with our ancient brains and bodies.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593086889.jpg",
+			"name": "A HUNTER-GATHERER'S GUIDE TO THE 21ST CENTURY",
+			"publisher": "Portfolio",
+			"rank": 15
+		}
+	]
+}

@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Rachel Van Dyken",
+			"description": "Jake, a Seattle millionaire, asks his formerly estranged childhood friend Kacey to pretend to be engaged to him. But she reckoned without Jake\u2019s brother, Travis.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780989078313.jpg",
+			"name": "THE BET",
+			"publisher": "Rachel Van Dyken",
+			"rank": 1
+		},
+		{
+			"author": "by Mary Higgins Clark",
+			"description": "Two sisters are threatened by a dark secret from their family\u2019s past.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451668964.jpg",
+			"name": "DADDY'S GONE A HUNTING",
+			"publisher": "Simon & Schuster",
+			"rank": 2
+		},
+		{
+			"author": "by Stuart Woods",
+			"description": "The New York lawyer Stone Barrington discovers a shadowy network beneath the world of European wealth.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101621202.jpg",
+			"name": "UNINTENDED CONSEQUENCES",
+			"publisher": "Penguin Group",
+			"rank": 3
+		},
+		{
+			"author": "by Harlan Coben",
+			"description": "Six years after the woman he loved married another man, Jake Fisher discovers that neither she nor their life together were what theyseemed, and he sets out to uncover the truth.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101611029.jpg",
+			"name": "SIX YEARS",
+			"publisher": "Penguin Group",
+			"rank": 4
+		},
+		{
+			"author": "by Lisa Scottoline",
+			"description": "An Army doctor returns from Afghanistan when his wife dies in what at first appears to be an accident, and finds that his life is falling apart.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250025999.jpg",
+			"name": "DON'T GO",
+			"publisher": "St. Martin's Press",
+			"rank": 5
+		},
+		{
+			"author": "by H. M. Ward",
+			"description": "young woman goes to bed with a sexy man, but complications ensue. The first in a series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780985547325.jpg",
+			"name": "DAMAGED",
+			"publisher": "Laree Bailey Press",
+			"rank": 6
+		},
+		{
+			"author": "by Kate Atkinson",
+			"description": "A woman appears in different versions of the same events, centered on World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316176484.jpg",
+			"name": "LIFE AFTER LIFE",
+			"publisher": "Little, Brown & Company",
+			"rank": 7
+		},
+		{
+			"author": "by Robert Jordan and Brandon Sanderson",
+			"description": "The 14th and final novel in the Wheel of Time fantasy series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781429997171.jpg",
+			"name": "A MEMORY OF LIGHT",
+			"publisher": "Tor/Tom Doherty Associates",
+			"rank": 8
+		},
+		{
+			"author": "by Jasinda Wilder",
+			"description": "Years after her boyfriend\u2019s accidental death, Nell Hawthorne encounters his older brother, and they embark on a painful but ultimately healing relationship.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/A00B00BUPMC8C.jpg",
+			"name": "FALLING INTO YOU",
+			"publisher": "Jasinda Wilder",
+			"rank": 9
+		},
+		{
+			"author": "by Jodi Picoult",
+			"description": "A New Hampshire baker finds herself in the midst of two Holocaust stories: her grandmother\u2019s story of survival, and the confessions of an elderly German man, an SS officer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781439149706.jpg",
+			"name": "THE STORYTELLER",
+			"publisher": "Simon & Schuster",
+			"rank": 10
+		},
+		{
+			"author": "by Gillian Flynn",
+			"description": "A woman disappears on the day of her fifth anniversary; is her husband a killer?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307588388.jpg",
+			"name": "GONE GIRL",
+			"publisher": "Crown Publishing",
+			"rank": 11
+		},
+		{
+			"author": "by Maya Banks",
+			"description": "Jace, Ash and Gabe are powerful and used to getting anything they want. But Jace\u2019s friendship with Ash is jeopardized when he becomes obsessed with an alluring woman; Book 2 of the Breathless trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780425267066.jpg",
+			"name": "FEVER",
+			"publisher": "Penguin Group",
+			"rank": 12
+		},
+		{
+			"author": "by James Patterson",
+			"description": "While Alex Cross pursues a Washington serial killer (or killers?), someone is after him.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316097529.jpg",
+			"name": "ALEX CROSS, RUN",
+			"publisher": "Little, Brown & Company",
+			"rank": 13
+		},
+		{
+			"author": "by Robyn Carr",
+			"description": "Hank Cooper inherits a beachfront property in Thunder Point, Ore., and finds himself with a community\u2019s destiny in his hands.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780778314479.jpg",
+			"name": "THE WANDERER",
+			"publisher": "Harlequin",
+			"rank": 14
+		},
+		{
+			"author": "by Jamie McGuire",
+			"description": "Travis\u2019s life is full of fast women, underground gambling and violence. But just when he thinks he\u2019s invincible, Abby brings him to his knees; a sequel to \u201cBeautiful Disaster.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476712987.jpg",
+			"name": "WALKING DISASTER",
+			"publisher": "Simon & Schuster",
+			"rank": 15
+		}
+	]
+}

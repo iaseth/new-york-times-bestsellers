@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by E. L. James",
+			"description": "An inexperienced college student falls in love with a tortured man who has particular sexual tastes; the first book in a trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345803481.jpg",
+			"name": "FIFTY SHADES OF GREY",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 1
+		},
+		{
+			"author": "by E. L. James",
+			"description": "Ana Steele learns more about Christian Grey\u2019s troubled past; the second book in a trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345803498.jpg",
+			"name": "FIFTY SHADES DARKER",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 2
+		},
+		{
+			"author": "by E. L. James",
+			"description": "The final book in an erotic trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781612130606.jpg",
+			"name": "FIFTY SHADES FREED",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 3
+		},
+		{
+			"author": "by Gillian Flynn",
+			"description": "A woman disappears on the day of her fifth anniversary; is her husband a killer?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307588388.jpg",
+			"name": "GONE GIRL",
+			"publisher": "Crown Publishing",
+			"rank": 4
+		},
+		{
+			"author": "by Emily Giffin",
+			"description": "A woman\u2019s successful life is disrupted by the appearance of an 18-year-old girl with a link to her past.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781429957861.jpg",
+			"name": "WHERE WE BELONG",
+			"publisher": "St. Martin's Press",
+			"rank": 5
+		},
+		{
+			"author": "by Danielle Steel",
+			"description": "Three boys and two girls who meet in kindergarten maintain their bonds as they grow to adulthood.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385343213.jpg",
+			"name": "FRIENDS FOREVER",
+			"publisher": "Random House Publishing",
+			"rank": 6
+		},
+		{
+			"author": "by Brad Thor",
+			"description": "If the counterterrorism operative Scot Harvath can discover who has targeted him for death, he can prevent a terrorist attack.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781439193020.jpg",
+			"name": "BLACK LIST",
+			"publisher": "Simon & Schuster",
+			"rank": 7
+		},
+		{
+			"author": "by Sylvia Day",
+			"description": "Two troubled people develop an intense, obsessive relationship.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780425263907.jpg",
+			"name": "BARED TO YOU",
+			"publisher": "Penguin Group",
+			"rank": 8
+		},
+		{
+			"author": "by Lee Child",
+			"description": "In this e-book story, Jack Reacher is summoned to Washington to find the source of a leak about a new weapon.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345537102.jpg",
+			"name": "DEEP DOWN",
+			"publisher": "Delacorte Press",
+			"rank": 9
+		},
+		{
+			"author": "by Tana French",
+			"description": "In French\u2019s fourth Dublin murder squad novel, a detective\u2019s investigation of a crime evokes memories of his childhood.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780670023653.jpg",
+			"name": "BROKEN HARBOR",
+			"publisher": "Penguin Group",
+			"rank": 10
+		},
+		{
+			"author": "by Daniel Silva",
+			"description": "Gabriel Allon, an art restorer and occasional spy for the Israeli secret service, discovers a global criminal enterprise behind a murder at the Vatican.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062253835.jpg",
+			"name": "THE FALLEN ANGEL",
+			"publisher": "HarperCollins Publishers",
+			"rank": 11
+		},
+		{
+			"author": "by James Patterson and Michael Ledwidge",
+			"description": "A New York detective takes refuge with his 10 children in an upstate cabin.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780446571807.jpg",
+			"name": "I, MICHAEL BENNETT",
+			"publisher": "Little, Brown & Company",
+			"rank": 12
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "A girl falls in love with a neighbor who enjoys slam poetry, but they encounter obstacles.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/A00B006RUJST6.jpg",
+			"name": "SLAMMED",
+			"publisher": "Colleen Hoover",
+			"rank": 13
+		},
+		{
+			"author": "by J. A. Jance",
+			"description": "Joanna Brady, an Arizona sheriff, must function as both a law officer and a mother when her daughter\u2019s high school principal is murdered.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780061732805.jpg",
+			"name": "JUDGMENT CALL",
+			"publisher": "HarperCollins Publishers",
+			"rank": 14
+		},
+		{
+			"author": "by Deborah Harkness",
+			"description": "An Oxford scholar/witch and a vampire geneticist pursue history, secrets and each other in Elizabethan London.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780670023486.jpg",
+			"name": "SHADOW OF NIGHT",
+			"publisher": "Penguin Group",
+			"rank": 15
+		}
+	]
+}

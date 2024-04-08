@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by David Grann",
+			"description": "The story of a murder spree in 1920s Oklahoma that targeted Osage Indians, whose lands contained oil.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385534246.jpg",
+			"name": "KILLERS OF THE FLOWER MOON",
+			"publisher": "Doubleday",
+			"rank": 1
+		},
+		{
+			"author": "by David Grann",
+			"description": "The survivors of a shipwrecked British vessel on a secret mission during an imperial war with Spain have different accounts of events.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385534260.jpg",
+			"name": "THE WAGER",
+			"publisher": "Doubleday",
+			"rank": 2
+		},
+		{
+			"author": "by Peter Attia with Bill Gifford",
+			"description": "A look at recent scientific research on aging and longevity.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593236598.jpg",
+			"name": "OUTLIVE",
+			"publisher": "Harmony",
+			"rank": 3
+		},
+		{
+			"author": "by Bessel van der Kolk",
+			"description": "How trauma affects the body and mind, and innovative treatments for recovery.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780670785933.jpg",
+			"name": "THE BODY KEEPS THE SCORE",
+			"publisher": "Penguin",
+			"rank": 4
+		},
+		{
+			"author": "by David Von Drehle",
+			"description": "The Washington Post columnist shares stories and wisdom he learned from a neighbor who was more than a century old.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476773926.jpg",
+			"name": "THE BOOK OF CHARLIE",
+			"publisher": "Simon & Schuster",
+			"rank": 5
+		},
+		{
+			"author": "by Jennette McCurdy",
+			"description": "The actress and filmmaker describes her eating disorders and difficult relationship with her mother.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982185824.jpg",
+			"name": "I'M GLAD MY MOM DIED",
+			"publisher": "Simon & Schuster",
+			"rank": 6
+		},
+		{
+			"author": "by Prince Harry",
+			"description": "The Duke of Sussex details his struggles with the royal family, loss of his mother, service in the British Army and marriage to Meghan Markle.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593593806.jpg",
+			"name": "SPARE",
+			"publisher": "Random House",
+			"rank": 7
+		},
+		{
+			"author": "by Michelle Zauner",
+			"description": "The daughter of a Korean mother and Jewish American father, and leader of the indie rock project Japanese Breakfast, describes creating her own identity after losing her mother to cancer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525657743.jpg",
+			"name": "CRYING IN H MART",
+			"publisher": "Vintage",
+			"rank": 8
+		},
+		{
+			"author": "by Andy Cohen",
+			"description": "The host and executive producer of \u201cWatch What Happens Live\u201d juggles fatherhood and his career.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250890924.jpg",
+			"name": "THE DADDY DIARIES",
+			"publisher": "Holt",
+			"rank": 9
+		},
+		{
+			"author": "by Elise Loehnen",
+			"description": "An examination of the seven deadly sins and their influence over the lives of women today.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593243039.jpg",
+			"name": "ON OUR BEST BEHAVIOR",
+			"publisher": "Dial",
+			"rank": 10
+		},
+		{
+			"author": "by Jonathan Freedland",
+			"description": "Rudolf Vrba, who became one of the first Jews to escape from Auschwitz, warned others about the death camp.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063112360.jpg",
+			"name": "THE ESCAPE ARTIST",
+			"publisher": "Harper",
+			"rank": 11
+		},
+		{
+			"author": "by Michelle Obama",
+			"description": "The former first lady shares personal stories and the tools she uses to deal with difficult situations.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593237465.jpg",
+			"name": "THE LIGHT WE CARRY",
+			"publisher": "Crown",
+			"rank": 12
+		},
+		{
+			"author": "by Jamie Loftus",
+			"description": "The comedian and Emmy-nominated TV writer explains the cultural and culinary significance of hot dogs.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250847744.jpg",
+			"name": "RAW DOG",
+			"publisher": "Forge",
+			"rank": 13
+		},
+		{
+			"author": "by Robin Wall Kimmerer",
+			"description": "A botanist and member of the Citizen Potawatomi Nation espouses having an understanding and appreciation of plants and animals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781571313560.jpg",
+			"name": "BRAIDING SWEETGRASS",
+			"publisher": "Milkweed Editions",
+			"rank": 14
+		},
+		{
+			"author": "by bell hooks",
+			"description": "The late feminist icon explores the causes of a polarized society and the meaning of love.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780060959470.jpg",
+			"name": "ALL ABOUT LOVE",
+			"publisher": "Morrow",
+			"rank": 15
+		}
+	]
+}

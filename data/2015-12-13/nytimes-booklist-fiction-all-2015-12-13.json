@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by James Patterson",
+			"description": "Detective Alex Cross returns to Starksville, N.C., his hometown, for the first time in 35 years, to help a cousin who has been accused of murder.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316407045.jpg",
+			"name": "CROSS JUSTICE",
+			"publisher": "Little, Brown",
+			"rank": 1
+		},
+		{
+			"author": "by Janet Evanovich",
+			"description": "The New Jersey bounty hunter Stephanie Plum pursues a fraternity member arrested for beating up a college dean and investigates a murder.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345542984.jpg",
+			"name": "TRICKY TWENTY-TWO",
+			"publisher": "Bantam",
+			"rank": 2
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "The government hit man Will Robie investigates murder charges against his estranged father in their Mississippi hometown.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455586431.jpg",
+			"name": "THE GUILTY",
+			"publisher": "Grand Central",
+			"rank": 3
+		},
+		{
+			"author": "by Nicholas Sparks",
+			"description": "A couple in love are threatened by secrets from the past.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455520619.jpg",
+			"name": "SEE ME",
+			"publisher": "Grand Central",
+			"rank": 4
+		},
+		{
+			"author": "by John Grisham",
+			"description": "The attorney Sebastian Rudd is a \u201clone gunman\u201d who hates injustice and the system and defends unpopular clients.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385539449.jpg",
+			"name": "ROGUE LAWYER",
+			"publisher": "Doubleday",
+			"rank": 5
+		},
+		{
+			"author": "by Andy Weir",
+			"description": "Abandoned by his crew, an astronaut embarks on a dogged quest to stay alive.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780804139038.jpg",
+			"name": "THE MARTIAN",
+			"publisher": "Crown",
+			"rank": 6
+		},
+		{
+			"author": "by Michael Connelly",
+			"description": "Harry Bosch reluctantly helps his half brother, a defense attorney, and his investigations lead him inside the L.A.P.D.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316225892.jpg",
+			"name": "THE CROSSING",
+			"publisher": "Little, Brown",
+			"rank": 7
+		},
+		{
+			"author": "by Stephen King",
+			"description": "Twenty stories, some never before published.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501111686.jpg",
+			"name": "THE BAZAAR OF BAD DREAMS",
+			"publisher": "Scribner",
+			"rank": 8
+		},
+		{
+			"author": "by Christine Feehan",
+			"description": "After an intruder's murder, Siena's motives are called into question.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780515156096.jpg",
+			"name": "WILD CAT",
+			"publisher": "Jove",
+			"rank": 9
+		},
+		{
+			"author": "by Anthony Doerr",
+			"description": "The lives of a blind French girl and a gadget-obsessed German boy before and during World War II; the winner of the 2015 Pulitzer Prize.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476746586.jpg",
+			"name": "ALL THE LIGHT WE CANNOT SEE",
+			"publisher": "Scribner",
+			"rank": 10
+		},
+		{
+			"author": "by Nora Roberts",
+			"description": "Three couples pool their powers in their search for the prophetic fire star.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780425280102.jpg",
+			"name": "STARS OF FORTUNE",
+			"publisher": "Berkley",
+			"rank": 11
+		},
+		{
+			"author": "by Paula Hawkins",
+			"description": "A psychological thriller set in the environs of London is full of complications and betrayals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594633669.jpg",
+			"name": "THE GIRL ON THE TRAIN",
+			"publisher": "Riverhead",
+			"rank": 12
+		},
+		{
+			"author": "by Philip K. Dick",
+			"description": "An alternative history of 1960s America, after it lost World War II. First published in 1962; the basis of the TV series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780547601205.jpg",
+			"name": "THE MAN IN THE HIGH CASTLE",
+			"publisher": "Mariner",
+			"rank": 13
+		},
+		{
+			"author": "by Mitch Albom",
+			"description": "A preternaturally gifted guitarist uses his talent to alter lives.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062294418.jpg",
+			"name": "THE MAGIC STRINGS OF FRANKIE PRESTO",
+			"publisher": "Harper/HarperCollins",
+			"rank": 14
+		},
+		{
+			"author": "by Mary Higgins Clark and Alafair Burke",
+			"description": "A TV producer investigates a bride\u2019s disappearance for her show, \u201cUnder Suspicion.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501108570.jpg",
+			"name": "ALL DRESSED IN WHITE",
+			"publisher": "Simon & Schuster",
+			"rank": 15
+		}
+	]
+}

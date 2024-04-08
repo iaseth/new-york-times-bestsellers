@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Colleen Hoover",
+			"description": "In the sequel to \u201cIt Ends With Us,\u201d Lily deals with her jealous ex-husband as she reconnects with her first boyfriend.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781668001226.jpg",
+			"name": "IT STARTS WITH US",
+			"publisher": "Atria",
+			"rank": 1
+		},
+		{
+			"author": "by Janet Evanovich",
+			"description": "The 29th book in the Stephanie Plum series. The man who abducted the office manager at Vinnie's Bail Bonds demands a mysterious coin in exchange for her.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781668003053.jpg",
+			"name": "GOING ROGUE",
+			"publisher": "Atria",
+			"rank": 2
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "A battered wife raised in a violent home attempts to halt the cycle of abuse.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501110375.jpg",
+			"name": "IT ENDS WITH US",
+			"publisher": "Atria",
+			"rank": 3
+		},
+		{
+			"author": "by James Patterson",
+			"description": "Detective Alex Cross and the true-crime author Thomas Tull search for a serial killer known as the Family Man.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316499187.jpg",
+			"name": "TRIPLE CROSS",
+			"publisher": "Little, Brown",
+			"rank": 4
+		},
+		{
+			"author": "by John Grisham",
+			"description": "Two childhood friends follow in their fathers\u2019 footsteps, which puts them on opposite sides of the law.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385548922.jpg",
+			"name": "THE BOYS FROM BILOXI",
+			"publisher": "Doubleday",
+			"rank": 5
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "Lowen Ashleigh is hired by the husband of an injured writer to complete her popular series and uncovers a horrifying truth.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781791392796.jpg",
+			"name": "VERITY",
+			"publisher": "Grand Central",
+			"rank": 6
+		},
+		{
+			"author": "by Lee Child and Andrew Child",
+			"description": "The 27th book in the Jack Reacher series. Reacher goes after a killer but is unaware of the bigger implications.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984818546.jpg",
+			"name": "NO PLAN B",
+			"publisher": "Delacorte",
+			"rank": 7
+		},
+		{
+			"author": "by Robert Crais",
+			"description": "The 19th book in the Elvis Cole and Joe Pike series. A search for a missing podcaster involves corrupt politicians and business cartels.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525535720.jpg",
+			"name": "RACING THE LIGHT",
+			"publisher": "Putnam",
+			"rank": 8
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "Tate Collins and Miles Archer,\u00a0an airline pilot, think they can handle a no strings attached arrangement. But they can't.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476753195.jpg",
+			"name": "UGLY LOVE",
+			"publisher": "Atria",
+			"rank": 9
+		},
+		{
+			"author": "by Stephen King",
+			"description": "A high school kid inherits a shed that is a portal to another world where good and evil are at war.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781668002179.jpg",
+			"name": "FAIRY TALE",
+			"publisher": "Scribner",
+			"rank": 10
+		},
+		{
+			"author": "by Delia Owens",
+			"description": "In a quiet town on the North Carolina coast in 1969, a young woman who survived alone in the marsh becomes a murder suspect.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735219090.jpg",
+			"name": "WHERE THE CRAWDADS SING",
+			"publisher": "Putnam",
+			"rank": 11
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "The seventh book in the Memory Man series. Decker works with a new partner to investigate a double homicide.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538719824.jpg",
+			"name": "LONG SHADOWS",
+			"publisher": "Grand Central",
+			"rank": 12
+		},
+		{
+			"author": "by Barbara Kingsolver",
+			"description": "A reimagining of Charles Dickens\u2019s \u201cDavid Copperfield\u201d set in the mountains of southern Appalachia.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063251922.jpg",
+			"name": "DEMON COPPERHEAD",
+			"publisher": "Harper",
+			"rank": 13
+		},
+		{
+			"author": "by George R.R. Martin",
+			"description": "Set 300 years before the events of \u201cA Game of Thrones,\u201d this is the first volume of the two-part history of the Targaryens in Westeros.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524796280.jpg",
+			"name": "FIRE AND BLOOD",
+			"publisher": "Bantam",
+			"rank": 14
+		},
+		{
+			"author": "by Jodi Picoult and Jennifer Finney Boylan",
+			"description": "After returning to her hometown, Olivia McAfee\u2019s son gets accused of killing his crush.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984818386.jpg",
+			"name": "MAD HONEY",
+			"publisher": "Ballantine",
+			"rank": 15
+		}
+	]
+}

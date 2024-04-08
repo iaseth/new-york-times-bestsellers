@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Jack Carr",
+			"description": "The sixth book in the Terminal List series. The killing of a freshman congressman reverberates for decades and James Reece faces a global conspiracy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982181697.jpg",
+			"name": "ONLY THE DEAD",
+			"publisher": "Atria/Emily Bestler",
+			"rank": 1
+		},
+		{
+			"author": "by Emily Henry",
+			"description": "A former couple pretend to be together for the sake of their friends during their annual getaway in Maine.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593441275.jpg",
+			"name": "HAPPY PLACE",
+			"publisher": "Berkley",
+			"rank": 2
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "A battered wife raised in a violent home attempts to halt the cycle of abuse.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501110375.jpg",
+			"name": "IT ENDS WITH US",
+			"publisher": "Atria",
+			"rank": 3
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "In the sequel to \u201cIt Ends With Us,\u201d Lily deals with her jealous ex-husband as she reconnects with her first boyfriend.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781668001226.jpg",
+			"name": "IT STARTS WITH US",
+			"publisher": "Atria",
+			"rank": 4
+		},
+		{
+			"author": "by Bonnie Garmus",
+			"description": "A scientist and single mother living in California in the 1960s becomes a star on a TV cooking show.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385547345.jpg",
+			"name": "LESSONS IN CHEMISTRY",
+			"publisher": "Doubleday",
+			"rank": 5
+		},
+		{
+			"author": "by Rebecca Yarros",
+			"description": "Violet Sorrengail is urged by the commanding general, who also is her mother, to become a candidate for the elite dragon riders.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781649374042.jpg",
+			"name": "FOURTH WING",
+			"publisher": "Red Tower",
+			"rank": 6
+		},
+		{
+			"author": "by Barbara Kingsolver",
+			"description": "A reimagining of Charles Dickens\u2019s \u201cDavid Copperfield\u201d set in the mountains of southern Appalachia.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063251922.jpg",
+			"name": "DEMON COPPERHEAD",
+			"publisher": "Harper",
+			"rank": 7
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "Lowen Ashleigh is hired by the husband of an injured writer to complete her popular series and uncovers a horrifying truth.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781791392796.jpg",
+			"name": "VERITY",
+			"publisher": "Grand Central",
+			"rank": 8
+		},
+		{
+			"author": "by James Patterson and Maxine Paetro",
+			"description": "The 23rd book in the Women\u2019s Murder Club series. Lindsay Boxer tracks a copycat killer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316402781.jpg",
+			"name": "THE 23RD MIDNIGHT",
+			"publisher": "Little, Brown",
+			"rank": 9
+		},
+		{
+			"author": "by Laura Dave",
+			"description": "Hannah Hall discovers truths about her missing husband and bonds with his daughter from a previous relationship.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501171345.jpg",
+			"name": "THE LAST THING HE TOLD ME",
+			"publisher": "Marysue Rucci",
+			"rank": 10
+		},
+		{
+			"author": "by Christina Lauren",
+			"description": "A successful romance novelist stars as the romantic lead in a reality TV show.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982173432.jpg",
+			"name": "THE TRUE LOVE EXPERIMENT",
+			"publisher": "Gallery",
+			"rank": 11
+		},
+		{
+			"author": "by Carley Fortune",
+			"description": "A decade after a one-day adventure, Will appears again in Fern\u2019s life at her mother\u2019s lakeside resort.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593438558.jpg",
+			"name": "MEET ME AT THE LAKE",
+			"publisher": "Berkley",
+			"rank": 12
+		},
+		{
+			"author": "by Abraham Verghese",
+			"description": "Three generations of a family living on South India\u2019s Malabar Coast suffer the loss of a family member by drowning.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780802162175.jpg",
+			"name": "THE COVENANT OF WATER",
+			"publisher": "Grove",
+			"rank": 13
+		},
+		{
+			"author": "by Taylor Jenkins Reid",
+			"description": "A movie icon recounts stories of her loves and career to a struggling magazine writer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501161933.jpg",
+			"name": "THE SEVEN HUSBANDS OF EVELYN HUGO",
+			"publisher": "Washington Square/Atria",
+			"rank": 14
+		},
+		{
+			"author": "by R.F. Kuang",
+			"description": "June Hayward, a struggling writer, must conceal the fact that she stole Athena Liu\u2019s just-finished masterpiece after Liu\u2019s sudden death.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063250833.jpg",
+			"name": "YELLOWFACE",
+			"publisher": "Morrow",
+			"rank": 15
+		}
+	]
+}

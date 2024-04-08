@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Thomas Piketty",
+			"description": "An analysis of centuries of economic history predicts worsening inequality.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780674430006.jpg",
+			"name": "CAPITAL IN THE TWENTY-FIRST CENTURY",
+			"publisher": "Belknap/Harvard University",
+			"rank": 1
+		},
+		{
+			"author": "by Todd Burpo with Lynn Vincent",
+			"description": "A 3-year-old\u2019s encounter with Jesus during an appendectomy; the basis of the movie.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780849949203.jpg",
+			"name": "HEAVEN IS FOR REAL",
+			"publisher": "Thomas Nelson",
+			"rank": 2
+		},
+		{
+			"author": "by Michelle Knight with Michelle Burford Weinstein",
+			"description": "The story of a woman kidnapped in Cleveland in 2002, then tortured, who escaped in 2013.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781602862579.jpg",
+			"name": "FINDING ME",
+			"publisher": "Weinstein Books",
+			"rank": 3
+		},
+		{
+			"author": "by Steven D. Levitt and Stephen J. Dubner",
+			"description": "How to solve problems creatively, from the authors of \u201cFreakonomics.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062218360.jpg",
+			"name": "THINK LIKE A FREAK",
+			"publisher": "Morrow/HarperCollins",
+			"rank": 4
+		},
+		{
+			"author": "by Glenn Greenwald",
+			"description": "The journalist presents new material about N.S.A. surveillance and describes his work with Edward Snowden.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781627790734.jpg",
+			"name": "NO PLACE TO HIDE",
+			"publisher": "Metropolitan/Holt",
+			"rank": 5
+		},
+		{
+			"author": "by Timothy F. Geithner",
+			"description": "The former Treasury secretary explains the choices he and others made during the financial crisis.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780804138604.jpg",
+			"name": "STRESS TEST",
+			"publisher": "Crown",
+			"rank": 6
+		},
+		{
+			"author": "by Glenn Beck, Kevin Balfe and Kyle Olson",
+			"description": "A call for refocused priorities in American public education.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476773896.jpg",
+			"name": "CONFORM",
+			"publisher": "Threshold Editions/Mercury Radio Arts",
+			"rank": 7
+		},
+		{
+			"author": "by Michael Lewis",
+			"description": "The world of high-frequency computer-driven trading, from the author of \u201cLiar\u2019s Poker.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780393244670.jpg",
+			"name": "FLASH BOYS",
+			"publisher": "Norton",
+			"rank": 8
+		},
+		{
+			"author": "by Alison Weir",
+			"description": "A biography of the enigmatic queen; first published in 1998.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307834607.jpg",
+			"name": "THE LIFE OF ELIZABETH I",
+			"publisher": "Ballantine",
+			"rank": 9
+		},
+		{
+			"author": "by Mariano Rivera with Wayne Coffey",
+			"description": "A memoir of life and baseball by the great Yankees pitcher.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316400732.jpg",
+			"name": "THE CLOSER",
+			"publisher": "Little, Brown",
+			"rank": 10
+		},
+		{
+			"author": "by Jonathan Bush with Stephen Baker",
+			"description": "A co-founder of Athenahealth calls for the application of new business models to health care.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781591846772.jpg",
+			"name": "WHERE DOES IT HURT?",
+			"publisher": "Portfolio/Penguin",
+			"rank": 11
+		},
+		{
+			"author": "by Robin Roberts with Veronica Chambers",
+			"description": "A memoir by the \u201cGood Morning America\u201d anchor discusses her struggle with breast cancer and a rare blood disorder.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455578450.jpg",
+			"name": "EVERYBODY'S GOT SOMETHING",
+			"publisher": "Grand Central",
+			"rank": 12
+		},
+		{
+			"author": "by Laura Hillenbrand",
+			"description": "An Olympic runner\u2019s story of survival as a prisoner of the Japanese in World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400064168.jpg",
+			"name": "UNBROKEN",
+			"publisher": "Random House",
+			"rank": 13
+		},
+		{
+			"author": "by Adam Carolla",
+			"description": "Humorous political observations from the radio and television host, based on his popular podcast.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062320421.jpg",
+			"name": "PRESIDENT ME",
+			"publisher": "It Books",
+			"rank": 14
+		},
+		{
+			"author": "by Elizabeth Warren",
+			"description": "The Massachusetts senator describes her life, her academic work and her battle for a consumer protection agency.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781627790529.jpg",
+			"name": "A FIGHTING CHANCE",
+			"publisher": "Metropolitan/Holt",
+			"rank": 15
+		}
+	]
+}

@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Jessica Simpson with Kevin Carr O\u2019Leary",
+			"description": "The singer, actress and fashion designer discloses times of success, trauma and addiction.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062899965.jpg",
+			"name": "OPEN BOOK",
+			"publisher": "Dey St.",
+			"rank": 1
+		},
+		{
+			"author": "by Philip Rucker and Carol Leonnig",
+			"description": "The Pulitzer Prize-winning journalists use firsthand accounts to chart patterns of behavior within the Trump administration.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984877499.jpg",
+			"name": "A VERY STABLE GENIUS",
+			"publisher": "Penguin Press",
+			"rank": 2
+		},
+		{
+			"author": "by Peter Schweizer",
+			"description": "The author of \u201cClinton Cash\u201d gives his evaluations of members of the Democratic Party.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062897909.jpg",
+			"name": "PROFILES IN CORRUPTION",
+			"publisher": "Harper",
+			"rank": 3
+		},
+		{
+			"author": "by Tara Westover",
+			"description": "The daughter of survivalists, who is kept out of school, educates herself enough to leave home for university.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399590504.jpg",
+			"name": "EDUCATED",
+			"publisher": "Random House",
+			"rank": 4
+		},
+		{
+			"author": "by Timothy Snyder",
+			"description": "Twenty lessons from the 20th century about the course of tyranny.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780804190114.jpg",
+			"name": "ON TYRANNY",
+			"publisher": "Tim Duggan",
+			"rank": 5
+		},
+		{
+			"author": "by Michelle Obama",
+			"description": "The former first lady describes her journey from the South Side of Chicago to the White House, and how she balanced work, family and her husband\u2019s political ascent.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524763138.jpg",
+			"name": "BECOMING",
+			"publisher": "Crown",
+			"rank": 6
+		},
+		{
+			"author": "by Bryan Stevenson",
+			"description": "A law professor and MacArthur grant recipient\u2019s memoir of his decades of work to free innocent people condemned to death.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812994520.jpg",
+			"name": "JUST MERCY",
+			"publisher": "Spiegel & Grau",
+			"rank": 7
+		},
+		{
+			"author": "by Malcolm Gladwell",
+			"description": "Famous examples of miscommunication serve as the backdrop to explain potential conflicts and misunderstandings.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316478526.jpg",
+			"name": "TALKING TO STRANGERS",
+			"publisher": "Little, Brown",
+			"rank": 8
+		},
+		{
+			"author": "by Ezra Klein",
+			"description": "The editor at large and co-founder of Vox offers his take on what causes divisions in America.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476700328.jpg",
+			"name": "WHY WE'RE POLARIZED",
+			"publisher": "Avid Reader",
+			"rank": 9
+		},
+		{
+			"author": "by Kobe Bryant",
+			"description": "Various skills and techniques used on the court by the Los Angeles Lakers player.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780374201234.jpg",
+			"name": "THE MAMBA MENTALITY",
+			"publisher": "Melcher Media/MCD/Farrar, Straus & Giroux",
+			"rank": 10
+		},
+		{
+			"author": "by Yuval Noah Harari",
+			"description": "How Homo sapiens became Earth\u2019s dominant species.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062316097.jpg",
+			"name": "SAPIENS",
+			"publisher": "Harper",
+			"rank": 11
+		},
+		{
+			"author": "by Lori Gottlieb",
+			"description": "A psychotherapist gains unexpected insights when she becomes another therapist\u2019s patient.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781328662057.jpg",
+			"name": "MAYBE YOU SHOULD TALK TO SOMEONE",
+			"publisher": "Houghton Mifflin Harcourt",
+			"rank": 12
+		},
+		{
+			"author": "by Bessel van der Kolk",
+			"description": "How trauma affects the body and mind, and innovative treatments for recovery.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780670785933.jpg",
+			"name": "THE BODY KEEPS THE SCORE",
+			"publisher": "Penguin",
+			"rank": 13
+		},
+		{
+			"author": "by Robin DiAngelo",
+			"description": "Historical and cultural analyses on what causes defensive moves by white people and how this inhibits cross-racial dialogue.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780807047415.jpg",
+			"name": "WHITE FRAGILITY",
+			"publisher": "Beacon Press",
+			"rank": 14
+		},
+		{
+			"author": "by Jedidiah Jenkins",
+			"description": "The son of conservative Christians cycles from Oregon to Patagonia, reconciling his sexuality with his upbringing.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524761387.jpg",
+			"name": "TO SHAKE THE SLEEPING SELF",
+			"publisher": "Convergent",
+			"rank": 15
+		}
+	]
+}

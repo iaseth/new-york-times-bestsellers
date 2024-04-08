@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Michelle Obama",
+			"description": "The former first lady describes her journey from the South Side of Chicago to the White House, and how she balanced work, family and her husband\u2019s political ascent.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524763138.jpg",
+			"name": "BECOMING",
+			"publisher": "Crown",
+			"rank": 1
+		},
+		{
+			"author": "by Tara Westover",
+			"description": "The daughter of survivalists, who is kept out of school, educates herself enough to leave home for university.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399590504.jpg",
+			"name": "EDUCATED",
+			"publisher": "Random House",
+			"rank": 2
+		},
+		{
+			"author": "by Brad Meltzer and Josh Mensch",
+			"description": "The story of a secret plot to kill George Washington in 1776.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250130334.jpg",
+			"name": "THE FIRST CONSPIRACY",
+			"publisher": "Flatiron",
+			"rank": 3
+		},
+		{
+			"author": "by Yuval Noah Harari",
+			"description": "How Homo sapiens became Earth\u2019s dominant species.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062316097.jpg",
+			"name": "SAPIENS",
+			"publisher": "Harper",
+			"rank": 4
+		},
+		{
+			"author": "by Hans Rosling with Ola Rosling and Anna Rosling Ronnlund",
+			"description": "A look at our biases and the argument for why the world is in a better state than we might think.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250123817.jpg",
+			"name": "FACTFULNESS",
+			"publisher": "Flatiron",
+			"rank": 5
+		},
+		{
+			"author": "by John Carreyrou",
+			"description": "The rise and fall of Theranos, the biotech startup that failed to deliver on its promise to make blood testing more efficient.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524731663.jpg",
+			"name": "BAD BLOOD",
+			"publisher": "Knopf",
+			"rank": 6
+		},
+		{
+			"author": "by Kai-Fu Lee",
+			"description": "How artificial intelligence might affect blue-collar jobs and human history in the near future.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781328545862.jpg",
+			"name": "AI SUPERPOWERS",
+			"publisher": "Houghton Mifflin Harcourt",
+			"rank": 7
+		},
+		{
+			"author": "by Susan Orlean",
+			"description": "The story of the 1986 fire at the Los Angeles Public Library provides a backdrop to the evolution and purpose of libraries.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476740188.jpg",
+			"name": "THE LIBRARY BOOK",
+			"publisher": "Simon & Schuster",
+			"rank": 8
+		},
+		{
+			"author": "by Mary Pipher",
+			"description": "Reflections on the ageism, misogyny and loss that women might encounter as they grow older.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781632869609.jpg",
+			"name": "WOMEN ROWING NORTH",
+			"publisher": "Bloomsbury",
+			"rank": 9
+		},
+		{
+			"author": "by Dani Shapiro",
+			"description": "Secrets and identity in a fast-paced age of science and technology are explored through the story of a woman who discovered her biological father.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524732714.jpg",
+			"name": "INHERITANCE",
+			"publisher": "Knopf",
+			"rank": 10
+		},
+		{
+			"author": "by Charles Krauthammer, edited by Daniel Krauthammer",
+			"description": "A collection of essays, speeches and unpublished writings by the late conservative columnist.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984825483.jpg",
+			"name": "THE POINT OF IT ALL",
+			"publisher": "Crown Forum",
+			"rank": 11
+		},
+		{
+			"author": "by Kamala Harris",
+			"description": "A memoir by a daughter of immigrants who was raised in Oakland, Calif., and became the second black woman ever elected to the United States Senate.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525560715.jpg",
+			"name": "THE TRUTHS WE HOLD",
+			"publisher": "Penguin Press",
+			"rank": 12
+		},
+		{
+			"author": "by Yuval Noah Harari",
+			"description": "Technological, political and social issues in the modern era, and the choices individuals might consider in facing them.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525512172.jpg",
+			"name": "21 LESSONS FOR THE 21ST CENTURY",
+			"publisher": "Spiegel & Grau",
+			"rank": 13
+		},
+		{
+			"author": "by Michael Pollan",
+			"description": "A personal account of how psychedelics might help the mentally ill and people dealing with everyday challenges.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594204227.jpg",
+			"name": "HOW TO CHANGE YOUR MIND",
+			"publisher": "Penguin Press",
+			"rank": 14
+		},
+		{
+			"author": "by Ashlee Vance",
+			"description": "A technology writer follows Musk\u2019s life from his difficult South African childhood to his involvement in Internet start-ups like the rocket company SpaceX and the electric-car company Tesla.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062301260.jpg",
+			"name": "ELON MUSK",
+			"publisher": "Ecco/HarperCollins",
+			"rank": 15
+		}
+	]
+}

@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Delia Owens",
+			"description": "In a quiet town on the North Carolina coast in 1969, a young woman who survived alone in the marsh becomes a murder suspect.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735219090.jpg",
+			"name": "WHERE THE CRAWDADS SING",
+			"publisher": "Putnam",
+			"rank": 1
+		},
+		{
+			"author": "by Douglas Preston and Lincoln Child",
+			"description": "An expedition into the Sierra Nevada uncovers new twists to the events involving the Donner party.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538747223.jpg",
+			"name": "OLD BONES",
+			"publisher": "Grand Central",
+			"rank": 2
+		},
+		{
+			"author": "by Karin Slaughter",
+			"description": "The abduction of a Centers for Disease Control scientist and explosions in an Atlanta neighborhood portend a massacre.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062858085.jpg",
+			"name": "THE LAST WIDOW",
+			"publisher": "Morrow",
+			"rank": 3
+		},
+		{
+			"author": "by Garth Stein",
+			"description": "An insightful Lab-terrier mix helps his owner, a struggling race car driver.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780061537936v2.jpg",
+			"name": "THE ART OF RACING IN THE RAIN",
+			"publisher": "HarperCollins",
+			"rank": 4
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "A World War II veteran on parole must find the real killer in a small town or face going back to jail.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538750568.jpg",
+			"name": "ONE GOOD DEED",
+			"publisher": "Grand Central",
+			"rank": 5
+		},
+		{
+			"author": "by James Patterson with Candice Fox",
+			"description": "A former Boston police detective who is now an innkeeper must shield a seaside town from a crew of criminals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316528429.jpg",
+			"name": "THE INN",
+			"publisher": "Little, Brown",
+			"rank": 6
+		},
+		{
+			"author": "by Donna Tartt",
+			"description": "A painting smuggled out of the Metropolitan Museum of Art after a bombing becomes a boy\u2019s prize, guilt and burden.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316248679.jpg",
+			"name": "THE GOLDFINCH",
+			"publisher": "Little, Brown",
+			"rank": 7
+		},
+		{
+			"author": "by Ruth Ware",
+			"description": "A nanny working in a technology-laden house in Scotland goes to jail when one of the children dies.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501188770.jpg",
+			"name": "THE TURN OF THE KEY",
+			"publisher": "Scout",
+			"rank": 8
+		},
+		{
+			"author": "by C.J. Box",
+			"description": "The fourth book in the Cassie Dewell series. The black sheep of an influential family is accused of assault.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250051059.jpg",
+			"name": "THE BITTERROOTS",
+			"publisher": "Minotaur",
+			"rank": 9
+		},
+		{
+			"author": "by Colson Whitehead",
+			"description": "Two boys respond to horrors at a Jim Crow-era reform school in ways that impact them decades later.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385537070.jpg",
+			"name": "THE NICKEL BOYS",
+			"publisher": "Doubleday",
+			"rank": 10
+		},
+		{
+			"author": "by Philippa Gregory",
+			"description": "Suspicions surround Alinor, a widow who is skilled with herbs, during the English Civil War in 1648.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501187155.jpg",
+			"name": "TIDELANDS",
+			"publisher": "Atria",
+			"rank": 11
+		},
+		{
+			"author": "by Heather Morris",
+			"description": "A concentration camp detainee tasked with permanently marking fellow prisoners falls in love with one of them.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062797155.jpg",
+			"name": "THE TATTOOIST OF AUSCHWITZ",
+			"publisher": "Harper",
+			"rank": 12
+		},
+		{
+			"author": "by Sandra Brown",
+			"description": "F.B.I. Agent Drex Easton has a hunch that the conman Weston Graham is also a serial killer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455572199.jpg",
+			"name": "OUTFOX",
+			"publisher": "Grand Central",
+			"rank": 13
+		},
+		{
+			"author": "by John Grisham",
+			"description": "A decorated World War II veteran shoots and kills a pastor inside a Mississippi church.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385544160.jpg",
+			"name": "THE RECKONING",
+			"publisher": "Doubleday",
+			"rank": 14
+		},
+		{
+			"author": "by Lisa Wingate",
+			"description": "A South Carolina lawyer learns about the questionable practices of a Tennessee orphanage.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780425284681.jpg",
+			"name": "BEFORE WE WERE YOURS",
+			"publisher": "Ballantine",
+			"rank": 15
+		}
+	]
+}

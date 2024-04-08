@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "edited by Nikole Hannah-Jones, Caitlin Roper, Ilena Silverman and Jake Silverstein",
+			"description": "Viewing America\u2019s entanglement with slavery and its legacy, in essays adapted and expanded from The New York Times Magazine.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593230572.jpg",
+			"name": "THE 1619 PROJECT",
+			"publisher": "One World",
+			"rank": 1
+		},
+		{
+			"author": "by Rachel Campos-Duffy and Sean Duffy",
+			"description": "A collection of holiday memories from members of the staff of Fox News.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063046641.jpg",
+			"name": "ALL AMERICAN CHRISTMAS",
+			"publisher": "Broadside",
+			"rank": 2
+		},
+		{
+			"author": "by Jonathan Karl",
+			"description": "The ABC News' chief Washington correspondent gives an account of the end of the Trump presidency.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593186329.jpg",
+			"name": "BETRAYAL",
+			"publisher": "Dutton",
+			"rank": 3
+		},
+		{
+			"author": "by Will Smith with Mark Manson",
+			"description": "The actor, producer and musician tells his life story and lessons he learned along the way.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984877925.jpg",
+			"name": "WILL",
+			"publisher": "Penguin Press",
+			"rank": 4
+		},
+		{
+			"author": "by Robert F. Kennedy Jr.",
+			"description": "The anti-vaccine advocate gives his take on the chief medical advisor to the president.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781510766808.jpg",
+			"name": "THE REAL ANTHONY FAUCI",
+			"publisher": "Skyhorse",
+			"rank": 5
+		},
+		{
+			"author": "by Paul McCartney",
+			"description": "A two-volume celebration of 154 songs, with handwritten texts, paintings and photographs from the songwriter\u2019s archives.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781324094098.jpg",
+			"name": "THE LYRICS: 1956 TO THE PRESENT",
+			"publisher": "Liveright",
+			"rank": 6
+		},
+		{
+			"author": "by Dave Grohl",
+			"description": "A memoir by the musician known for his work with Foo Fighters and Nirvana.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063076099.jpg",
+			"name": "THE STORYTELLER",
+			"publisher": "Dey Street",
+			"rank": 7
+		},
+		{
+			"author": "by Brian Kilmeade",
+			"description": "The Fox News host gives an account of the relationship between Abraham Lincoln and Frederick Douglass.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525540571.jpg",
+			"name": "THE PRESIDENT AND THE FREEDOM FIGHTER",
+			"publisher": "Sentinel",
+			"rank": 8
+		},
+		{
+			"author": "by David Graeber and David Wengrow",
+			"description": "A reinvestigation of social evolution and suggestions for new ways of organizing society.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780374157357.jpg",
+			"name": "THE DAWN OF EVERYTHING",
+			"publisher": "Farrar, Straus & Giroux",
+			"rank": 9
+		},
+		{
+			"author": "by Brian Baumgartner and Ben Silverman",
+			"description": "An oral history of the TV series \u201cThe Office\u201d by one of its stars and one of its producers.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063082199.jpg",
+			"name": "WELCOME TO DUNDER MIFFLIN",
+			"publisher": "Custom House",
+			"rank": 10
+		},
+		{
+			"author": "by Bessel van der Kolk",
+			"description": "How trauma affects the body and mind, and innovative treatments for recovery.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780670785933.jpg",
+			"name": "THE BODY KEEPS THE SCORE",
+			"publisher": "Penguin",
+			"rank": 11
+		},
+		{
+			"author": "by Stanley Tucci",
+			"description": "The award-winning actor reflects on his career, Italian-American heritage, meals and mishaps.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982168018.jpg",
+			"name": "TASTE",
+			"publisher": "Gallery",
+			"rank": 12
+		},
+		{
+			"author": "by Sara G. Forden",
+			"description": "An account of the murder of Maurizio Gucci in 1995; the basis of the film.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063159983.jpg",
+			"name": "THE HOUSE OF GUCCI",
+			"publisher": "Custom House",
+			"rank": 13
+		},
+		{
+			"author": "by Katie Couric",
+			"description": "The former anchor of the \u201cCBS Evening News\u201d and \u201cToday\u201d describes some of the personal and professional challenges she faced.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316535861.jpg",
+			"name": "GOING THERE",
+			"publisher": "Little, Brown",
+			"rank": 14
+		},
+		{
+			"author": "by Barack Obama and Bruce Springsteen",
+			"description": "Conversations between the 44th president and the multiple award-winning musician on a range of topics.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593236314.jpg",
+			"name": "RENEGADES",
+			"publisher": "Crown",
+			"rank": 15
+		}
+	]
+}

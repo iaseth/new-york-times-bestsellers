@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by John Sandford",
+			"description": "The 12th book in the Virgil Flowers series. A fight between university departments turns deadly.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525536611.jpg",
+			"name": "BLOODY GENIUS",
+			"publisher": "Putman",
+			"rank": 1
+		},
+		{
+			"author": "by Ta-Nehisi Coates",
+			"description": "A young man who was gifted with a mysterious power becomes part of a war between slavers and the enslaved.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399590597.jpg",
+			"name": "THE WATER DANCER",
+			"publisher": "One World",
+			"rank": 2
+		},
+		{
+			"author": "by Stephen King",
+			"description": "Children with special talents are abducted and sequestered in an institution where the sinister staff seeks to extract their gifts through harsh methods.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982110567.jpg",
+			"name": "THE INSTITUTE",
+			"publisher": "Scribner",
+			"rank": 3
+		},
+		{
+			"author": "by Delia Owens",
+			"description": "In a quiet town on the North Carolina coast in 1969, a young woman who survived alone in the marsh becomes a murder suspect.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735219090.jpg",
+			"name": "WHERE THE CRAWDADS SING",
+			"publisher": "Putnam",
+			"rank": 4
+		},
+		{
+			"author": "by Ann Patchett",
+			"description": "A sibling relationship is impacted when the family goes from poverty to wealth and back again over the course of many decades.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062963673.jpg",
+			"name": "THE DUTCH HOUSE",
+			"publisher": "Harper",
+			"rank": 5
+		},
+		{
+			"author": "by Margaret Atwood",
+			"description": "In a sequel to \u201cThe Handmaid\u2019s Tale,\u201d old secrets bring three women together as the Republic of Gilead\u2019s theocratic regime shows signs of decay.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385543781.jpg",
+			"name": "THE TESTAMENTS",
+			"publisher": "Nan A. Talese/Doubleday",
+			"rank": 6
+		},
+		{
+			"author": "by Kyle Mills",
+			"description": "Mexican cartels, ISIS and a possible pandemic bring Mitch Rapp back into action.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501190643.jpg",
+			"name": "VINCE FLYNN: LETHAL AGENT",
+			"publisher": "Emily Bestler/Atria",
+			"rank": 7
+		},
+		{
+			"author": "by Kristin Hannah",
+			"description": "A former prisoner of war returns from Vietnam and moves his family to Alaska, where they face tough conditions.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250165619.jpg",
+			"name": "THE GREAT ALONE",
+			"publisher": "St. Martin's",
+			"rank": 8
+		},
+		{
+			"author": "by Debbie Macomber",
+			"description": "A visitor helps the McCullough family beyond expectation during the holiday season.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399181405.jpg",
+			"name": "A MRS. MIRACLE CHRISTMAS",
+			"publisher": "Ballantine",
+			"rank": 9
+		},
+		{
+			"author": "by Heather Morris",
+			"description": "A 16-year-old, who sleeps with a concentration camp commandant in order to survive, is sentenced to a Siberian prison camp where she cares for the ill.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250265708.jpg",
+			"name": "CILKA'S JOURNEY",
+			"publisher": "St. Martin's",
+			"rank": 10
+		},
+		{
+			"author": "by Heather Morris",
+			"description": "A concentration camp detainee tasked with permanently marking fellow prisoners falls in love with one of them.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062797155.jpg",
+			"name": "THE TATTOOIST OF AUSCHWITZ",
+			"publisher": "Harper",
+			"rank": 11
+		},
+		{
+			"author": "by Margaret Atwood",
+			"description": "In the Republic of Gilead\u2019s dystopian future, men and women perform the services assigned to them.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780547345666.jpg",
+			"name": "THE HANDMAID'S TALE",
+			"publisher": "Houghton Mifflin Harcourt",
+			"rank": 12
+		},
+		{
+			"author": "by Joe Hill",
+			"description": "A collection of short stories including two written with Stephen King: \u201cThrottle\u201d and \u201cIn the Tall Grass.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062200679.jpg",
+			"name": "FULL THROTTLE",
+			"publisher": "Morrow",
+			"rank": 13
+		},
+		{
+			"author": "by John Sandford",
+			"description": "Virgil Flowers investigates shootings in a Minnesota town following an attempt to revive its ailing economy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735217331.jpg",
+			"name": "HOLY GHOST",
+			"publisher": "Putnam",
+			"rank": 14
+		},
+		{
+			"author": "by Donna Tartt",
+			"description": "A painting smuggled out of the Metropolitan Museum of Art after a bombing becomes a boy\u2019s prize, guilt and burden.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316248679.jpg",
+			"name": "THE GOLDFINCH",
+			"publisher": "Little, Brown",
+			"rank": 15
+		}
+	]
+}

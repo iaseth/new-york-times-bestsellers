@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Delia Owens",
+			"description": "In a quiet town on the North Carolina coast in 1969, a young woman who survived alone in the marsh becomes a murder suspect.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735219090.jpg",
+			"name": "WHERE THE CRAWDADS SING",
+			"publisher": "Putnam",
+			"rank": 1
+		},
+		{
+			"author": "by George R.R. Martin",
+			"description": "In the frozen wastes to the north of Winterfell, sinister and supernatural forces are mustering. Basis of the HBO series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780553897845.jpg",
+			"name": "A GAME OF THRONES",
+			"publisher": "Bantam",
+			"rank": 2
+		},
+		{
+			"author": "by James Patterson and Maxine Paetro",
+			"description": "The 18th book in the Women's Murder Club series. Lindsay Boxer investigates the disappearance of three female teachers.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316528443.jpg",
+			"name": "THE 18TH ABDUCTION",
+			"publisher": "Little, Brown",
+			"rank": 3
+		},
+		{
+			"author": "by Thomas Harris",
+			"description": "Hans-Peter Schneider pauses his ghastly deeds to seek a dead man\u2019s gold hidden under a Miami mansion, but its caretaker\u2019s surprising skills prove daunting.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538750148.jpg",
+			"name": "CARI MORA",
+			"publisher": "Grand Central",
+			"rank": 4
+		},
+		{
+			"author": "by Lee Child",
+			"description": "Jack Reacher explores the New England town where his father was born and a Canadian couple now find themselves stranded.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399593512.jpg",
+			"name": "PAST TENSE",
+			"publisher": "Bantam/Dell",
+			"rank": 5
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "The fifth book in the Memory Man series. The first man Amos Decker put behind bars asks to have his name cleared.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538761434.jpg",
+			"name": "REDEMPTION",
+			"publisher": "Grand Central",
+			"rank": 6
+		},
+		{
+			"author": "by Lisa Wingate",
+			"description": "A South Carolina lawyer learns about the questionable practices of a Tennessee orphanage.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780425284681.jpg",
+			"name": "BEFORE WE WERE YOURS",
+			"publisher": "Ballantine",
+			"rank": 7
+		},
+		{
+			"author": "by Mary Kay Andrews",
+			"description": "Drue Campbell inherits a run-down beach bungalow and takes a job at her estranged father\u2019s personal injury attorney office.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250126108.jpg",
+			"name": "SUNSET BEACH",
+			"publisher": "St. Martin's",
+			"rank": 8
+		},
+		{
+			"author": "by Celeste Ng",
+			"description": "An artist upends a quiet town outside Cleveland.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735224308.jpg",
+			"name": "LITTLE FIRES EVERYWHERE",
+			"publisher": "Penguin Press",
+			"rank": 9
+		},
+		{
+			"author": "by E L James",
+			"description": "Maxim Trevelyan inherits several estates and beds his cleaner Alessia Demachi, an Albanian piano prodigy who has been trafficked into England.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984898326.jpg",
+			"name": "THE MISTER",
+			"publisher": "Vintage",
+			"rank": 10
+		},
+		{
+			"author": "by Heather Morris",
+			"description": "A concentration camp detainee tasked with permanently marking fellow prisoners falls in love with one of them.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062797155.jpg",
+			"name": "THE TATTOOIST OF AUSCHWITZ",
+			"publisher": "Harper",
+			"rank": 11
+		},
+		{
+			"author": "by Sarah Blake",
+			"description": "Evie Milton uncovers a story going back a couple generations that may shatter a family myth.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250110251.jpg",
+			"name": "THE GUEST BOOK",
+			"publisher": "Flatiron",
+			"rank": 12
+		},
+		{
+			"author": "by Amor Towles",
+			"description": "A Russian count undergoes 30 years of house arrest in the Metropol hotel, across from the Kremlin.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780670026197.jpg",
+			"name": "A GENTLEMAN IN MOSCOW",
+			"publisher": "Penguin",
+			"rank": 13
+		},
+		{
+			"author": "by Susan Stoker",
+			"description": "The second book in the SEAL of Protection: Legacy series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/2022684283.jpg",
+			"name": "SECURING SIDNEY",
+			"publisher": "Stoker Aces",
+			"rank": 14
+		},
+		{
+			"author": "by George R.R. Martin",
+			"description": "Set 300 years before the events of \u201cA Game of Thrones,\u201d this is the first volume of the two-part history of the Targaryens in Westeros.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524796280.jpg",
+			"name": "FIRE AND BLOOD",
+			"publisher": "Bantam",
+			"rank": 15
+		}
+	]
+}

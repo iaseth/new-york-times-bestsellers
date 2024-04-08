@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by David Grann",
+			"description": "The story of a murder spree in 1920s Oklahoma that targeted Osage Indians, whose lands contained oil.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385534246.jpg",
+			"name": "KILLERS OF THE FLOWER MOON",
+			"publisher": "Doubleday",
+			"rank": 1
+		},
+		{
+			"author": "by Bessel van der Kolk",
+			"description": "How trauma affects the body and mind, and innovative treatments for recovery.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780670785933.jpg",
+			"name": "THE BODY KEEPS THE SCORE",
+			"publisher": "Penguin",
+			"rank": 2
+		},
+		{
+			"author": "by David Grann",
+			"description": "The survivors of a shipwrecked British vessel on a secret mission during an imperial war with Spain have different accounts of events.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385534260.jpg",
+			"name": "THE WAGER",
+			"publisher": "Doubleday",
+			"rank": 3
+		},
+		{
+			"author": "by Daniel James Brown",
+			"description": "The story of the American rowers who pursued gold at the 1936 Berlin Olympic Games; the basis of the film.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101622742.jpg",
+			"name": "THE BOYS IN THE BOAT",
+			"publisher": "Penguin",
+			"rank": 4
+		},
+		{
+			"author": "by Joy-Ann Reid",
+			"description": "The MSNBC host details how the wife of the civil rights leader Medgar Evers carried forward their legacy after his assassination in 1963.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063068797.jpg",
+			"name": "MEDGAR & MYRLIE",
+			"publisher": "Mariner",
+			"rank": 5
+		},
+		{
+			"author": "by Peter Attia with Bill Gifford",
+			"description": "A look at recent scientific research on aging and longevity.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593236598.jpg",
+			"name": "OUTLIVE",
+			"publisher": "Harmony",
+			"rank": 6
+		},
+		{
+			"author": "by Isabel Wilkerson",
+			"description": "The Pulitzer Prize-winning journalist examines aspects of caste systems across civilizations and reveals a rigid hierarchy in America today.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593230251.jpg",
+			"name": "CASTE",
+			"publisher": "Random House",
+			"rank": 7
+		},
+		{
+			"author": "by Liz Cheney",
+			"description": "The former congresswoman from Wyoming recounts how she helped lead the Select Committee to Investigate the Jan. 6. Attack on the United States Capitol.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316572064.jpg",
+			"name": "OATH AND HONOR",
+			"publisher": "Little, Brown",
+			"rank": 8
+		},
+		{
+			"author": "by Laurence Leamer",
+			"description": "Truman Capote\u2019s attempt to portray the lives of high society women led to his banishment from their circles; the basis of the TV series \"Feud: Capote vs. the Swans.\"",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593328101.jpg",
+			"name": "CAPOTE'S WOMEN",
+			"publisher": "Putnam",
+			"rank": 9
+		},
+		{
+			"author": "by Donald L. Miller",
+			"description": "An account of the American Eighth Air Force in World War II; the basis of the TV series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780743235457.jpg",
+			"name": "MASTERS OF THE AIR",
+			"publisher": "Simon & Schuster",
+			"rank": 10
+		},
+		{
+			"author": "by Britney Spears",
+			"description": "The Grammy Award-winning pop star details her personal and professional experiences, including the years she spent under a conservatorship overseen by her father.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781668009048.jpg",
+			"name": "THE WOMAN IN ME",
+			"publisher": "Gallery",
+			"rank": 11
+		},
+		{
+			"author": "by Dolly Alderton",
+			"description": "The British journalist shares stories and observations; the basis of the TV series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062968791.jpg",
+			"name": "EVERYTHING I KNOW ABOUT LOVE",
+			"publisher": "Harper Perennial",
+			"rank": 12
+		},
+		{
+			"author": "by bell hooks",
+			"description": "The late feminist icon explores the causes of a polarized society and the meaning of love.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780060959470.jpg",
+			"name": "ALL ABOUT LOVE",
+			"publisher": "Morrow",
+			"rank": 13
+		},
+		{
+			"author": "by Gracie Gold",
+			"description": "A memoir by the two-time U.S. figure-skating champion and Olympic bronze medalist.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593444047.jpg",
+			"name": "OUTOFSHAPEWORTHLESSLOSER",
+			"publisher": "Crown",
+			"rank": 14
+		},
+		{
+			"author": "by Walter Isaacson",
+			"description": "The author of \u201cThe Code Breaker\u201d traces Musk\u2019s life and summarizes his work on electric vehicles, private space exploration and artificial intelligence.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982181284.jpg",
+			"name": "ELON MUSK",
+			"publisher": "Simon & Schuster",
+			"rank": 15
+		}
+	]
+}

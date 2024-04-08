@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by E. L. James",
+			"description": "An inexperienced college student falls in love with a tortured man who has particular sexual tastes; the first book in a trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345803481.jpg",
+			"name": "FIFTY SHADES OF GREY",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 1
+		},
+		{
+			"author": "by E. L. James",
+			"description": "Ana Steele learns more about Christian Grey\u2019s troubled past; the second book in a trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345803498.jpg",
+			"name": "FIFTY SHADES DARKER",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 2
+		},
+		{
+			"author": "by E. L. James",
+			"description": "The final book in an erotic trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781612130606.jpg",
+			"name": "FIFTY SHADES FREED",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 3
+		},
+		{
+			"author": "by Stephen King",
+			"description": "A new entry in the Dark Tower epic western-fantasy series; this novel, King says, is \u201cDark Tower 4.5.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451658927.jpg",
+			"name": "THE WIND THROUGH THE KEYHOLE",
+			"publisher": "Scribner",
+			"rank": 4
+		},
+		{
+			"author": "by Nicholas Sparks",
+			"description": "A Marine returning home sets out to track down the woman whose photo he found in Iraq.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780446542180.jpg",
+			"name": "THE LUCKY ONE",
+			"publisher": "Grand Central Publishing",
+			"rank": 5
+		},
+		{
+			"author": "by Robyn Carr",
+			"description": "A Marine returns to Virgin River and falls for a striking single mother who is nothing like the wife he imagined.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780778313175.jpg",
+			"name": "SUNRISE POINT",
+			"publisher": "Harlequin",
+			"rank": 6
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "A hitman who has become a target of the government rescues a teenage girl whose parents have been murdered and who may be at the center of a dangerous conspiracy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780446573009.jpg",
+			"name": "THE INNOCENT",
+			"publisher": "Grand Central Publishing",
+			"rank": 7
+		},
+		{
+			"author": "by Nora Roberts",
+			"description": "A programmer hides from the Russian mob in the Ozarks.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101580363.jpg",
+			"name": "THE WITNESS",
+			"publisher": "Putnam",
+			"rank": 8
+		},
+		{
+			"author": "by E. L. James",
+			"description": "The three \u201cFifty Shades\u201d novels in one bundle.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345803573.jpg",
+			"name": "FIFTY SHADES TRILOGY",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 9
+		},
+		{
+			"author": "by John Grisham",
+			"description": "A pitcher beans a promising rookie, ending both careers; years later, the pitcher\u2019s son brings them together.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385536080.jpg",
+			"name": "CALICO JOE",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 10
+		},
+		{
+			"author": "by Tracey Garvis-Graves",
+			"description": "An English teacher and the teenage boy she has agreed to tutor are stranded on an island when the seaplane taking them to join his family in the Maldives crashes in the Indian Ocean.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/A00B005L9B5YU.jpg",
+			"name": "ON THE ISLAND",
+			"publisher": "Tracey Garvis-Graves",
+			"rank": 11
+		},
+		{
+			"author": "by Amanda Quick",
+			"description": "In the first book of a new Victorian series, Ladies of Lantern Street, a paranormal investigator is stalked by an assassin; by Jayne Ann Krentz, writing pseudonymously.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399159084.jpg",
+			"name": "CRYSTAL GARDENS",
+			"publisher": "Putnam",
+			"rank": 12
+		},
+		{
+			"author": "by James Patterson and David Ellis",
+			"description": "Four friends in Monte Carlo for a luxurious girls\u2019 vacation find themselves in prison.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316097574.jpg",
+			"name": "GUILTY WIVES",
+			"publisher": "Little, Brown & Company",
+			"rank": 13
+		},
+		{
+			"author": "by Lynsay Sands",
+			"description": "Escaping a horrible marriage, Carolyn has no desire to think about men while on vacation in St. Lucia \u2014 until she meets Christian, an immortal.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062119377.jpg",
+			"name": "UNDER A VAMPIRE MOON",
+			"publisher": "HarperCollins Publishers",
+			"rank": 14
+		},
+		{
+			"author": "by Jennifer Probst",
+			"description": "A billionaire who needs a wife offers a one-year marriage in name only to a bookstore owner.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781620612798.jpg",
+			"name": "THE MARRIAGE BARGAIN",
+			"publisher": "Entangled Publishing",
+			"rank": 15
+		}
+	]
+}

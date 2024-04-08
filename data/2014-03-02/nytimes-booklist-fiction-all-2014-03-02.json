@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by James Patterson and Mark Sullivan",
+			"description": "Jack Morgan and Justine Smith search for a high-powered celebrity couple who have disappeared.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316211123.jpg",
+			"name": "PRIVATE L.A.",
+			"publisher": "Little, Brown",
+			"rank": 1
+		},
+		{
+			"author": "by Jonathan Kellerman",
+			"description": "The psychologist and police consultant Alex Delaware becomes embroiled in a child custody dispute that escalates into murder.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345548412.jpg",
+			"name": "KILLER",
+			"publisher": "Ballantine",
+			"rank": 2
+		},
+		{
+			"author": "by Donna Tartt",
+			"description": "A painting smuggled out of the Metropolitan Museum of Art after a bombing becomes a boy\u2019s prize, guilt and burden.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316248679.jpg",
+			"name": "THE GOLDFINCH",
+			"publisher": "Little, Brown",
+			"rank": 3
+		},
+		{
+			"author": "by Sue Monk Kidd",
+			"description": "The relationship between a wealthy Charleston girl, Sarah Grimk\u00e9, who will grow up to become a prominent abolitionist, and the slave she is given for her 11th birthday.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780670024780.jpg",
+			"name": "THE INVENTION OF WINGS",
+			"publisher": "Viking",
+			"rank": 4
+		},
+		{
+			"author": "by John Grisham",
+			"description": "A sequel, about race and inheritance, to \u201cA Time to Kill.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385537926.jpg",
+			"name": "SYCAMORE ROW",
+			"publisher": "Doubleday",
+			"rank": 5
+		},
+		{
+			"author": "by Jo Nesbo",
+			"description": "Inspector Harry Hole is dispatched from Oslo when the Norwegian ambassador to Thailand is found dead in a Bangkok brothel. The second Harry Hole novel, recently translated into English.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345807168.jpg",
+			"name": "COCKROACHES",
+			"publisher": "Vintage Crime/Black Lizard",
+			"rank": 6
+		},
+		{
+			"author": "by Christina Baker Kline",
+			"description": "A historical novel about orphans swept off the streets of New York and sent to the Midwest in the 1920s.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062101204.jpg",
+			"name": "ORPHAN TRAIN",
+			"publisher": "Morrow/HarperCollins",
+			"rank": 7
+		},
+		{
+			"author": "by Liane Moriarty",
+			"description": "A woman\u2019s life is upended when she discovers a letter from her husband she was not meant to read.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101636237.jpg",
+			"name": "THE HUSBAND'S SECRET",
+			"publisher": "Amy Einhorn/Putnam",
+			"rank": 8
+		},
+		{
+			"author": "by Anna Quindlen",
+			"description": "An aging photographer rents a rural cottage and discovers sparks of creativity and desire.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812995756.jpg",
+			"name": "STILL LIFE WITH BREAD CRUMBS",
+			"publisher": "Random House",
+			"rank": 9
+		},
+		{
+			"author": "by Mark Helprin",
+			"description": "Heroic lives in Manhattan between the late 19th century and the year 2000. Originally published in 1983.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780547543864.jpg",
+			"name": "WINTER'S TALE",
+			"publisher": "Mariner",
+			"rank": 10
+		},
+		{
+			"author": "by Alex Berenson",
+			"description": "John Wells is sent on a mission to find the truth about a mysterious Iranian package said to be bound for the United States.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399159732.jpg",
+			"name": "THE COUNTERFEIT AGENT",
+			"publisher": "Putnam",
+			"rank": 11
+		},
+		{
+			"author": "by Tara Conklin",
+			"description": "Conklin weaves together the stories of two remarkable heroines: a runaway slave in the pre-Civil War South and a lawyer in modern-day New York working on a historic class-action lawsuit.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062207395.jpg",
+			"name": "THE HOUSE GIRL",
+			"publisher": "HarperCollins",
+			"rank": 12
+		},
+		{
+			"author": "by K.M. Scott",
+			"description": "The third book in the Heart of Stone series continues the story of Tristan and Nina.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780989108188.jpg",
+			"name": "GIVE IN TO ME",
+			"publisher": "Copper Key Media",
+			"rank": 13
+		},
+		{
+			"author": "by J. S. Cooper and Helen Cooper",
+			"description": "The first of three erotic novellas about Katie Raymond and the compelling billionaire Brandon Hastings.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781940218083.jpg",
+			"name": "THE EX GAMES",
+			"publisher": "Helen Cooper",
+			"rank": 14
+		},
+		{
+			"author": "by Graeme Simsion",
+			"description": "A man with Asperger's syndrome becomes involved with an unconventional woman.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476729091.jpg",
+			"name": "THE ROSIE PROJECT",
+			"publisher": "Simon & Schuster",
+			"rank": 15
+		}
+	]
+}

@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Louise Penny",
+			"description": "Chief Superintendent Gamache regrets not acting on a hunch when a body is discovered.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781466873681.jpg",
+			"name": "GLASS HOUSES",
+			"publisher": "Minotaur",
+			"rank": 1
+		},
+		{
+			"author": "by Danielle Steel",
+			"description": "The author Alexandra Winslow, writing under the pseudonym Alexander Green, creates a double life that isolates her.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101883952.jpg",
+			"name": "THE RIGHT TIME",
+			"publisher": "Delacorte",
+			"rank": 2
+		},
+		{
+			"author": "by Helen Hardt",
+			"description": "Ryan Steel and Det. Ruby Lee explore each other's histories. The seventh book in the Steel Brothers Saga series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781943893720.jpg",
+			"name": "SHATTERED",
+			"publisher": "Waterhouse",
+			"rank": 3
+		},
+		{
+			"author": "by Sue Grafton",
+			"description": "The 25th Kinsey Millhone mystery novel. A former student from an elite private school is released from prison and a sociopath returns to haunt the detective.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101614358.jpg",
+			"name": "Y IS FOR YESTERDAY",
+			"publisher": "Marian Wood/Putnam",
+			"rank": 4
+		},
+		{
+			"author": "by Ruth Ware",
+			"description": "A travel writer on a cruise is certain she has heard a body thrown overboard, but no one believes her.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501132940.jpg",
+			"name": "THE WOMAN IN CABIN 10",
+			"publisher": "Scout",
+			"rank": 5
+		},
+		{
+			"author": "by John Grisham",
+			"description": "A whistleblower alerts a Florida investigator to judicial corruption involving the Mob and Indian casinos.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385541206.jpg",
+			"name": "THE WHISTLER",
+			"publisher": "Doubleday",
+			"rank": 6
+		},
+		{
+			"author": "by George R.R. Martin",
+			"description": "In the frozen wastes to the north of Winterfell, sinister and supernatural forces are mustering. Basis of the HBO series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780553897845.jpg",
+			"name": "A GAME OF THRONES",
+			"publisher": "Bantam",
+			"rank": 7
+		},
+		{
+			"author": "by Lisa Wingate",
+			"description": "A South Carolina lawyer, researching her grandmother\u2019s past, learns about a Tennessee orphanage that kidnapped children and placed them for adoption with wealthy people. Based on a real-life scandal.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780425284681.jpg",
+			"name": "BEFORE WE WERE YOURS",
+			"publisher": "Ballantine",
+			"rank": 8
+		},
+		{
+			"author": "by Sandra Brown",
+			"description": "The TV journalist Kerra Bailey and former federal agent John Trapper join forces to expose a web of conspiracy behind a hotel bombing in Dallas.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455572106.jpg",
+			"name": "SEEING RED",
+			"publisher": "Grand Central",
+			"rank": 9
+		},
+		{
+			"author": "by Gabriel Tallent",
+			"description": "A remarkably self-sufficient 14-year-old girl must fight to save herself from her abusive survivalist father.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735211193.jpg",
+			"name": "MY ABSOLUTE DARLING",
+			"publisher": "Riverhead",
+			"rank": 10
+		},
+		{
+			"author": "by Stephen King",
+			"description": "The collective clown phobias of seven teenagers are rekindled in their adult lives by the terrifying title character. Originally published in 1986.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501141232.jpg",
+			"name": "IT",
+			"publisher": "Scribner",
+			"rank": 11
+		},
+		{
+			"author": "by John Grisham",
+			"description": "A search for stolen rare manuscripts leads to a Florida island.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385543057.jpg",
+			"name": "CAMINO ISLAND",
+			"publisher": "Doubleday",
+			"rank": 12
+		},
+		{
+			"author": "by Rupi Kaur",
+			"description": "Poetic approaches to surviving adversity and loss.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781449474256.jpg",
+			"name": "MILK AND HONEY",
+			"publisher": "Andrews McMeel",
+			"rank": 13
+		},
+		{
+			"author": "by James Patterson and Richard DiLallo",
+			"description": "Two New York writers go undercover to expose the secrets of a powerful retailer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316395540.jpg",
+			"name": "THE STORE",
+			"publisher": "Little, Brown",
+			"rank": 14
+		},
+		{
+			"author": "by Martha Hall Kelly",
+			"description": "A story of three women\u2019s lives during and after World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101883075.jpg",
+			"name": "LILAC GIRLS",
+			"publisher": "Ballantine",
+			"rank": 15
+		}
+	]
+}

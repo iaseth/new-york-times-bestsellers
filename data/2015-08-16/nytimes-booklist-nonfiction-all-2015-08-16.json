@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Ta-Nehisi Coates",
+			"description": "A meditation on race in America as well as a personal story by the national correspondent of The Atlantic, framed as a letter to his teenage son.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780679645986.jpg",
+			"name": "BETWEEN THE WORLD AND ME",
+			"publisher": "Spiegel & Grau",
+			"rank": 1
+		},
+		{
+			"author": "by Daniel James Brown",
+			"description": "The University of Washington\u2019s eight-oar crew and their quest for gold at the 1936 Berlin Olympics.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101622742.jpg",
+			"name": "THE BOYS IN THE BOAT",
+			"publisher": "Penguin",
+			"rank": 2
+		},
+		{
+			"author": "by David McCullough",
+			"description": "The story of the bicycle mechanics from Ohio who ushered in the age of flight; by the author of \u201c1776\u201d and \u201cThe Greater Journey.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476728742.jpg",
+			"name": "THE WRIGHT BROTHERS",
+			"publisher": "Simon & Schuster",
+			"rank": 3
+		},
+		{
+			"author": "by Aziz Ansari with Eric Klinenberg",
+			"description": "The comedian enlists a sociologist to help him understand today\u2019s dating scene.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698179967.jpg",
+			"name": "MODERN ROMANCE",
+			"publisher": "Penguin Press",
+			"rank": 4
+		},
+		{
+			"author": "by Holly Madison",
+			"description": "Life inside the Playboy Mansion, by a former bunny and girlfriend of Hugh Hefner.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062372123.jpg",
+			"name": "DOWN THE RABBIT HOLE",
+			"publisher": "Dey Street",
+			"rank": 5
+		},
+		{
+			"author": "by Erik Larson",
+			"description": "The last voyage of the Lusitania, the passenger liner sunk by a German torpedo in 1915; by the author of \u201cThe Devil in the White City.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307408860.jpg",
+			"name": "DEAD WAKE",
+			"publisher": "Crown",
+			"rank": 6
+		},
+		{
+			"author": "by Malala Yousafzai with Christina Lamb",
+			"description": "The experience of the Pakistani girl who advocated for women\u2019s education and was shot by the Taliban.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316322409.jpg",
+			"name": "I AM MALALA",
+			"publisher": "Little, Brown",
+			"rank": 7
+		},
+		{
+			"author": "by Atul Gawande",
+			"description": "The surgeon and New Yorker writer considers how doctors fail patients at the end of life, and how they can do better.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780805095159.jpg",
+			"name": "BEING MORTAL",
+			"publisher": "Metropolitan/Holt",
+			"rank": 8
+		},
+		{
+			"author": "by Jimmy Carter",
+			"description": "At 90, the 39th president (and Nobel Prize winner) reflects on his private and public life.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501115639.jpg",
+			"name": "A FULL LIFE",
+			"publisher": "Simon & Schuster",
+			"rank": 9
+		},
+		{
+			"author": "by Rinker Buck",
+			"description": "The author and his brother travel 2,000 miles by mule and wagon from Missouri to Oregon.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451659184.jpg",
+			"name": "THE OREGON TRAIL",
+			"publisher": "Simon & Schuster",
+			"rank": 10
+		},
+		{
+			"author": "by Sarah Hepola",
+			"description": "A memoir of drinking and recovery.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455554577.jpg",
+			"name": "BLACKOUT",
+			"publisher": "Grand Central",
+			"rank": 11
+		},
+		{
+			"author": "by Laura Hillenbrand",
+			"description": "An Olympic runner\u2019s story of survival as a prisoner of the Japanese in World War II; a 2014 movie.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400064168.jpg",
+			"name": "UNBROKEN",
+			"publisher": "Random House",
+			"rank": 12
+		},
+		{
+			"author": "by Steve Dublanica",
+			"description": "A waiter in an upscale New York City suburb dishes on customers\u2019 outrageous behavior; first published anonymously in 2008.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780061801235.jpg",
+			"name": "WAITER RANT",
+			"publisher": "HarperCollins",
+			"rank": 13
+		},
+		{
+			"author": "by Malcolm Gladwell",
+			"description": "Why some people succeed; from the author of \"Blink\" and \"The Tipping Point.\"",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316017930.jpg",
+			"name": "OUTLIERS",
+			"publisher": "Little, Brown",
+			"rank": 14
+		},
+		{
+			"author": "by Cheryl Strayed",
+			"description": "A woman\u2019s account of a life-changing 1,100-mile hike along the Pacific Crest Trail during the summer of 1995; now a movie.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307476074.jpg",
+			"name": "WILD",
+			"publisher": "Knopf",
+			"rank": 15
+		}
+	]
+}

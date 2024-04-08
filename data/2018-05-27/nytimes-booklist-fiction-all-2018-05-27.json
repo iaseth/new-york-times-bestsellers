@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by James Patterson and Maxine Paetro",
+			"description": "The latest installment in the Women\u2019s Murder Club series. Detective Lindsay Boxer searches for a killer in San Francisco.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316412261.jpg",
+			"name": "THE 17TH SUSPECT",
+			"publisher": "Little, Brown",
+			"rank": 1
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "Amos Decker, known as the Memory Man, puts his talents toward solving a string of murders in a Rust Belt town.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538761397.jpg",
+			"name": "THE FALLEN",
+			"publisher": "Grand Central",
+			"rank": 2
+		},
+		{
+			"author": "by Dean Koontz",
+			"description": "The rogue F.B.I. agent Jane Hawk is on the lam from the government and a secret group causing a rash of murder-suicides.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525483441.jpg",
+			"name": "THE CROOKED STAIRCASE",
+			"publisher": "Bantam",
+			"rank": 3
+		},
+		{
+			"author": "by Mary Kay Andrews",
+			"description": "An eccentric millionaire enlists the attorney Brooke Trappnell to fix old wrongs, which sets up a potential scandal and murder.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250126092.jpg",
+			"name": "THE HIGH TIDE CLUB",
+			"publisher": "St. Martin's",
+			"rank": 4
+		},
+		{
+			"author": "by John Sandford",
+			"description": "The 28th book in the Prey series. A federal marshal looks into the actions of a member of the Senate Intelligence Committee.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735217362.jpg",
+			"name": "TWISTED PREY",
+			"publisher": "Putnam",
+			"rank": 5
+		},
+		{
+			"author": "by Lee Child",
+			"description": "Jack Reacher tracks down the owner of a pawned West Point class ring and stumbles upon a large criminal enterprise.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399593499.jpg",
+			"name": "THE MIDNIGHT LINE",
+			"publisher": "Delacorte",
+			"rank": 6
+		},
+		{
+			"author": "by Paula Hawkins",
+			"description": "In this psychological thriller by the author of \u201cThe Girl on the Train,\u201d drowned women are found in an English river town.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735211216.jpg",
+			"name": "INTO THE WATER",
+			"publisher": "Riverhead",
+			"rank": 7
+		},
+		{
+			"author": "by Celeste Ng",
+			"description": "An artist upends a quiet town outside Cleveland.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735224308.jpg",
+			"name": "LITTLE FIRES EVERYWHERE",
+			"publisher": "Penguin Press",
+			"rank": 8
+		},
+		{
+			"author": "by Amanda Quick",
+			"description": "Adelaide Blake escapes a private sanitarium and takes refuge in a 1930s seaside resort town where Hollywood players vacation and a psychic is murdered.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399585333.jpg",
+			"name": "THE OTHER LADY VANISHES",
+			"publisher": "Berkley",
+			"rank": 9
+		},
+		{
+			"author": "by Kristin Hannah",
+			"description": "A former prisoner of war returns from Vietnam and moves his family to Alaska, where they face tough conditions.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250165619.jpg",
+			"name": "THE GREAT ALONE",
+			"publisher": "St. Martin's",
+			"rank": 10
+		},
+		{
+			"author": "by Lisa Wingate",
+			"description": "A South Carolina lawyer learns about the questionable practices of a Tennessee orphanage.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780425284681.jpg",
+			"name": "BEFORE WE WERE YOURS",
+			"publisher": "Ballantine",
+			"rank": 11
+		},
+		{
+			"author": "by Michael Ondaatje",
+			"description": "In Britain after World War II, a pair of teenage siblings are taken under the tutelage of a mysterious man and his cronies who served during the war.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525521198.jpg",
+			"name": "WARLIGHT",
+			"publisher": "Knopf",
+			"rank": 12
+		},
+		{
+			"author": "by John Grisham",
+			"description": "A search for stolen rare manuscripts leads to a Florida island.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385543057.jpg",
+			"name": "CAMINO ISLAND",
+			"publisher": "Doubleday",
+			"rank": 13
+		},
+		{
+			"author": "by Susan Stoker",
+			"description": "The eighth book in the Delta Force Heroes series. A soldier and a telemarketer take their relationship to the next level.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/A00B076PHNYRQ.jpg",
+			"name": "RESCUING WENDY",
+			"publisher": "Susan Stoker",
+			"rank": 14
+		},
+		{
+			"author": "by Shari Lapena",
+			"description": "A couple\u2019s secrets emerge after their baby disappears.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735221086.jpg",
+			"name": "THE COUPLE NEXT DOOR",
+			"publisher": "Penguin",
+			"rank": 15
+		}
+	]
+}

@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Nicholas Sparks",
+			"description": "Twenty-five years after their high school romance ended, a man and woman who have gone their separate ways return to their North Carolina town for the funeral of a friend.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455502547.jpg",
+			"name": "THE BEST OF ME",
+			"publisher": "Grand Central Publishing",
+			"rank": 1
+		},
+		{
+			"author": "by Kathryn Stockett",
+			"description": "A young white woman and two black maids in 1960s Mississippi.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781440697661.jpg",
+			"name": "THE HELP",
+			"publisher": "Penguin Group",
+			"rank": 2
+		},
+		{
+			"author": "by Lee Child",
+			"description": "For Jack Reacher, an elite military police officer, it all started in 1997. A lonely railroad track. A crime scene. A cover-up.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780440339359.jpg",
+			"name": "THE AFFAIR",
+			"publisher": "Delacorte",
+			"rank": 3
+		},
+		{
+			"author": "by Jeffrey Eugenides",
+			"description": "Three Brown graduates in the early 1980s wrestle with love, religion and coming of age.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781429969185.jpg",
+			"name": "THE MARRIAGE PLOT",
+			"publisher": "Farrar, Straus & Giroux",
+			"rank": 4
+		},
+		{
+			"author": "by Darcie Chan",
+			"description": "Only one man knows an abused widow, which revealed will change many lives in her small Vermont town.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780615523774.jpg",
+			"name": "THE MILL RIVER RECLUSE",
+			"publisher": "Darcie Chan",
+			"rank": 5
+		},
+		{
+			"author": "by John Sandford",
+			"description": "Virgil Flowers investigates bombings directed against a superstore chain seeking to open a store in a Minnesota river town.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780425250488.jpg",
+			"name": "SHOCK WAVE",
+			"publisher": "Penguin Group",
+			"rank": 6
+		},
+		{
+			"author": "by Terry Pratchett",
+			"description": "In this Discworld fantasy, the commander of Ankh-Morpork\u2019s City Watch solves a crime while on vacation in the country.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062097866.jpg",
+			"name": "SNUFF",
+			"publisher": "HarperCollins Publishers",
+			"rank": 7
+		},
+		{
+			"author": "by Sandra Brown",
+			"description": "A woman and a man accused of murder evade the authorities as they search for her dead husband\u2019s secrets.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455501489.jpg",
+			"name": "LETHAL",
+			"publisher": "Grand Central Publishing",
+			"rank": 8
+		},
+		{
+			"author": "by Sophie Kinsella",
+			"description": "A woman reveals the most intimate details of her life to a man who turns out to be the C.E.O. of the company for which she works.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780440334866.jpg",
+			"name": "CAN YOU KEEP A SECRET?",
+			"publisher": "Random House Publishing",
+			"rank": 9
+		},
+		{
+			"author": "by Chris Culver",
+			"description": "Against orders, a former homicide detective begins an investigation into his niece's murder.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/A00B004M18ZRS.jpg",
+			"name": "THE ABBEY",
+			"publisher": "Chris Culver",
+			"rank": 10
+		},
+		{
+			"author": "by James Patterson",
+			"description": "Detective Alex Cross\u2019s wedding plans are put on hold when an elusive gunman begins picking off crooked Washington politicians.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780446574716.jpg",
+			"name": "CROSS FIRE",
+			"publisher": "Grand Central Publishing",
+			"rank": 11
+		},
+		{
+			"author": "by P. J. Alderman",
+			"description": "An Oregon fire chief becomes entangled with a woman whose brother is a suspect in a deadly shipboard arson blaze.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/A00B0040JI3M4.jpg",
+			"name": "A KILLING TIDE",
+			"publisher": "P. J. Alderman",
+			"rank": 12
+		},
+		{
+			"author": "by James Patterson and Marshall Karp",
+			"description": "A young man who finds a bag of diamonds is stalked by competing assassins.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316097550.jpg",
+			"name": "KILL ME IF YOU CAN",
+			"publisher": "Little, Brown & Company",
+			"rank": 13
+		},
+		{
+			"author": "by Erin Morgenstern",
+			"description": "Two young rivals at a magical circus become collaborators as they fall in love.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385534635.jpg",
+			"name": "THE NIGHT CIRCUS",
+			"publisher": "Knopf Doubleday",
+			"rank": 14
+		},
+		{
+			"author": "by Michael Connelly",
+			"description": "The Los Angeles detective Harry Bosch is on the scene in three never-before-collected stories.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316204248.jpg",
+			"name": "SUICIDE RUN",
+			"publisher": "Little, Brown & Company",
+			"rank": 15
+		}
+	]
+}

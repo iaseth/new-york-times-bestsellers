@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by James Patterson and Marshall Karp",
+			"description": "Detective Zach Gordon and his partner, members of an elite task force that protects the rich and famous, pursue a cold-blooded killer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316407069.jpg",
+			"name": "NYPD RED 4",
+			"publisher": "Little, Brown",
+			"rank": 1
+		},
+		{
+			"author": "by Christine Feehan",
+			"description": "Trap shares his sidekick's desire for getting even.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780515156102.jpg",
+			"name": "SPIDER GAME",
+			"publisher": "Jove",
+			"rank": 2
+		},
+		{
+			"author": "by Brandon Sanderson",
+			"description": "A sequel to \"Shadows of Self\"; a Mistborn novel.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781466862678.jpg",
+			"name": "THE BANDS OF MOURNING",
+			"publisher": "Tor/Tom Doherty",
+			"rank": 3
+		},
+		{
+			"author": "by Nicholas Sparks",
+			"description": "When Travis meets his new neighbor, his bachelor status erodes.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780446698337.jpg",
+			"name": "THE CHOICE",
+			"publisher": "Grand Central",
+			"rank": 4
+		},
+		{
+			"author": "by Elizabeth Strout",
+			"description": "A woman struggles with memories of her impoverished and disturbing childhood and its effect on the present as she attempts to reconcile with her mother.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812989076.jpg",
+			"name": "MY NAME IS LUCY BARTON",
+			"publisher": "Random House",
+			"rank": 5
+		},
+		{
+			"author": "by Danielle Steel",
+			"description": "A woman whose life has been shattered befriends a homeless boy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345531056.jpg",
+			"name": "BLUE",
+			"publisher": "Delacorte",
+			"rank": 6
+		},
+		{
+			"author": "by Kristin Hannah",
+			"description": "Two sisters are separated in World War II France: one in the countryside, the other in Paris.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781466850606.jpg",
+			"name": "THE NIGHTINGALE",
+			"publisher": "St. Martin's",
+			"rank": 7
+		},
+		{
+			"author": "by Liane Moriarty",
+			"description": "A family home on an Australian island is bequeathed to an outsider, and the clan's conflicts come with it.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062008671.jpg",
+			"name": "THE LAST ANNIVERSARY",
+			"publisher": "Harper Perennial",
+			"rank": 8
+		},
+		{
+			"author": "by Paula Hawkins",
+			"description": "A psychological thriller set in the environs of London is full of complications and betrayals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594633669.jpg",
+			"name": "THE GIRL ON THE TRAIN",
+			"publisher": "Riverhead",
+			"rank": 9
+		},
+		{
+			"author": "by Michael Punke",
+			"description": "Left for dead after a mauling, a master tracker is consumed by a singular desire for revenge; an inspiration for the 2015 film.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250101198.jpg",
+			"name": "THE REVENANT",
+			"publisher": "Picador",
+			"rank": 10
+		},
+		{
+			"author": "by Eloisa James",
+			"description": "An expat heiress in Regency England finds her affections shifting to her fianc\u00e9's twin.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062389442.jpg",
+			"name": "MY AMERICAN DUCHESS",
+			"publisher": "Avon",
+			"rank": 11
+		},
+		{
+			"author": "by Vi Keeland",
+			"description": "After a locker-room interview of a Super Bowl M.V.P., a sportscaster decides to alter her dating rules.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781942215356.jpg",
+			"name": "THE BALLER",
+			"publisher": "Vi Keeland",
+			"rank": 12
+		},
+		{
+			"author": "by Kevin Hearne",
+			"description": "When his vampire nemesis heads to Rome, a Druid follows.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345548528.jpg",
+			"name": "STAKED",
+			"publisher": "Del Rey",
+			"rank": 13
+		},
+		{
+			"author": "by Andy Weir",
+			"description": "Abandoned by his crew, an astronaut embarks on a dogged quest to stay alive.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780804139038.jpg",
+			"name": "THE MARTIAN",
+			"publisher": "Crown",
+			"rank": 14
+		},
+		{
+			"author": "by Sandra Brown",
+			"description": "The private investigator Dodge Hanley heads to Texas to save a daughter he has never met, who has become the object of a stalker\u2019s desire.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781416563105.jpg",
+			"name": "TOUGH CUSTOMER",
+			"publisher": "Simon & Schuster",
+			"rank": 15
+		}
+	]
+}

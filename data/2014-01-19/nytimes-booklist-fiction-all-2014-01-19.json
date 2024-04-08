@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by John Grisham",
+			"description": "A sequel, about race and inheritance, to \u201cA Time to Kill.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385537926.jpg",
+			"name": "SYCAMORE ROW",
+			"publisher": "Doubleday",
+			"rank": 1
+		},
+		{
+			"author": "by Donna Tartt",
+			"description": "A painting smuggled out of the Metropolitan Museum of Art after a bombing becomes a boy\u2019s prize, guilt and burden.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316248679.jpg",
+			"name": "THE GOLDFINCH",
+			"publisher": "Little, Brown",
+			"rank": 2
+		},
+		{
+			"author": "by Liane Moriarty",
+			"description": "A woman\u2019s life is upended when she discovers a letter from her husband she was not meant to read.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101636237.jpg",
+			"name": "THE HUSBAND'S SECRET",
+			"publisher": "Amy Einhorn/Putnam",
+			"rank": 3
+		},
+		{
+			"author": "by Janet Evanovich",
+			"description": "The New Jersey bounty hunter Stephanie Plum pursues a mobster on the lam.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345542892.jpg",
+			"name": "TAKEDOWN TWENTY",
+			"publisher": "Bantam",
+			"rank": 4
+		},
+		{
+			"author": "by Tom Clancy with Mark Greaney",
+			"description": "President Jack Ryan and his son, a covert intelligence expert, try to counter a Russian threat in Clancy\u2019s last novel before his death.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101636497.jpg",
+			"name": "COMMAND AUTHORITY",
+			"publisher": "Putnam",
+			"rank": 5
+		},
+		{
+			"author": "by Linda Lael Miller",
+			"description": "Landry Sutton, a self-made tycoon, heads to Hangman's Bend Ranch, intent on selling his land and returning to the city. But he didn't count on falling for country life, or Ria Manning.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781460323762.jpg",
+			"name": "BIG SKY SECRETS",
+			"publisher": "Harlequin",
+			"rank": 6
+		},
+		{
+			"author": "by W. E. B. Griffin and William E. Butterworth IV",
+			"description": "Despite their antipathy, the president calls on Charley Castillo to take action against Mexican drug cartels and Somali pirates.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399160677.jpg",
+			"name": "HAZARDOUS DUTY",
+			"publisher": "Putnam",
+			"rank": 7
+		},
+		{
+			"author": "by Michael Connelly",
+			"description": "Mickey Haller, a.k.a. the Lincoln lawyer, defends a \u201cdigital pimp\u201d accused of murder.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316069502.jpg",
+			"name": "THE GODS OF GUILT",
+			"publisher": "Little, Brown",
+			"rank": 8
+		},
+		{
+			"author": "by James Patterson",
+			"description": "Alex Cross\u2019s family is threatened.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316210911.jpg",
+			"name": "CROSS MY HEART",
+			"publisher": "Little, Brown",
+			"rank": 9
+		},
+		{
+			"author": "by Gillian Flynn",
+			"description": "A woman disappears on the day of her fifth anniversary; is her husband a killer?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307588388.jpg",
+			"name": "GONE GIRL",
+			"publisher": "Crown",
+			"rank": 10
+		},
+		{
+			"author": "by Christina Baker Kline",
+			"description": "A historical novel about orphans swept off the streets of New York and sent to the Midwest in the 1920s.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062101204.jpg",
+			"name": "ORPHAN TRAIN",
+			"publisher": "Morrow/HarperCollins",
+			"rank": 11
+		},
+		{
+			"author": "by Diana Gabaldon",
+			"description": "Claire Randall, an English nurse, is transported back to 1743 during a second honeymoon in the Scottish Highlands. There she begins an affair with James Fraser, a redheaded solider. Originally published in 1991.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780440212560.jpg",
+			"name": "OUTLANDER",
+			"publisher": "Dell",
+			"rank": 12
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "Sean King and Michelle Maxwell, former Secret Service agents turned private investigators, scrutinize the report of a soldier\u2019s mysterious death in Afghanistan.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455521227.jpg",
+			"name": "KING AND MAXWELL",
+			"publisher": "Grand Central",
+			"rank": 13
+		},
+		{
+			"author": "by Dean Koontz",
+			"description": "A grotesque man living in exile beneath the city encounters a teenage girl hiding from dangerous enemies.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780553808032.jpg",
+			"name": "INNOCENCE",
+			"publisher": "Bantam",
+			"rank": 14
+		},
+		{
+			"author": "by Nicholas Sparks",
+			"description": "The lives of two couples converge unexpectedly.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455520640.jpg",
+			"name": "THE LONGEST RIDE",
+			"publisher": "Grand Central",
+			"rank": 15
+		}
+	]
+}

@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Paula Hawkins",
+			"description": "In this psychological thriller by the author of \u201cThe Girl on the Train,\u201d women are found drowned in a river in an English town.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735211216.jpg",
+			"name": "INTO THE WATER",
+			"publisher": "Riverhead",
+			"rank": 1
+		},
+		{
+			"author": "by Michael Crichton",
+			"description": "A paleontological rivalry plays out in 1870s Wyoming.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062473356.jpg",
+			"name": "DRAGON TEETH",
+			"publisher": "Harper",
+			"rank": 2
+		},
+		{
+			"author": "by Margaret Atwood",
+			"description": "In a dystopian future, men and women perform the services assigned to them. Originally published in 1986.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780547345666.jpg",
+			"name": "THE HANDMAID'S TALE",
+			"publisher": "Houghton Mifflin Harcourt",
+			"rank": 3
+		},
+		{
+			"author": "by James Patterson and Maxine Paetro",
+			"description": "In San Francisco, Detective Lindsay Boxer and the Women\u2019s Murder Club face their toughest case yet.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316553452.jpg",
+			"name": "16TH SEDUCTION",
+			"publisher": "Little, Brown",
+			"rank": 4
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "The detective Amos Decker (\u201cMemory Man\u201d) witnesses a murder-suicide that turns out to be a matter of national security.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455586561.jpg",
+			"name": "THE FIX",
+			"publisher": "Grand Central",
+			"rank": 5
+		},
+		{
+			"author": "by Lee Child",
+			"description": "Jack Reacher, still in the Army, becomes involved in an investigation with elite agents from the F.B.I. and C.I.A.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780804178815.jpg",
+			"name": "NIGHT SCHOOL",
+			"publisher": "Delacorte",
+			"rank": 6
+		},
+		{
+			"author": "by Lee Child",
+			"description": "A complete collection of Jack Reacher stories.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399593581.jpg",
+			"name": "NO MIDDLE NAME",
+			"publisher": "Delacorte",
+			"rank": 7
+		},
+		{
+			"author": "by Ruth Ware",
+			"description": "A travel writer on a cruise is certain she has heard a body thrown overboard, but no one believes her.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501132940.jpg",
+			"name": "THE WOMAN IN CABIN 10",
+			"publisher": "Scout",
+			"rank": 8
+		},
+		{
+			"author": "by Martha Hall Kelly",
+			"description": "A story of three women\u2019s lives during and after World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101883075.jpg",
+			"name": "LILAC GIRLS",
+			"publisher": "Ballantine",
+			"rank": 9
+		},
+		{
+			"author": "by Rupi Kaur",
+			"description": "Poetic approaches to surviving adversity and loss.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781449474256.jpg",
+			"name": "MILK AND HONEY",
+			"publisher": "Andrews McMeel",
+			"rank": 10
+		},
+		{
+			"author": "by Fredrik Backman",
+			"description": "A curmudgeon's gruff exterior masks a generosity of spirit. Originally published in Sweden in 2014.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476738024.jpg",
+			"name": "A MAN CALLED OVE",
+			"publisher": "Washington Square",
+			"rank": 11
+		},
+		{
+			"author": "by Maya Banks",
+			"description": "A woman with the ability to heal attempts to escape from a religious cult. A Slow Burn novel.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062410191.jpg",
+			"name": "JUST ONE TOUCH",
+			"publisher": "Avon",
+			"rank": 12
+		},
+		{
+			"author": "by Dorothea Benton Frank",
+			"description": "Two couples form a lifelong friendship during their annual reunions on one of South Carolina\u2019s barrier islands.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062390806.jpg",
+			"name": "SAME BEACH, NEXT YEAR",
+			"publisher": "Morrow",
+			"rank": 13
+		},
+		{
+			"author": "by John Sandford",
+			"description": "Lucas Davenport, now a U.S. Marshal, pursues a thief who robbed a drug cartel and killed a child in Biloxi, Miss.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399184581.jpg",
+			"name": "GOLDEN PREY",
+			"publisher": "Putnam",
+			"rank": 14
+		},
+		{
+			"author": "by Neil Gaiman",
+			"description": "A man just out of prison becomes entangled in the schemes of an enigmatic grifter.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062109590.jpg",
+			"name": "AMERICAN GODS",
+			"publisher": "Morrow",
+			"rank": 15
+		}
+	]
+}

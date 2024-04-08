@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by David McCullough",
+			"description": "The Pulitzer Prize-winning historian tells the story of the settling of the Northwest Territory through five main characters.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501168680.jpg",
+			"name": "THE PIONEERS",
+			"publisher": "Simon & Schuster",
+			"rank": 1
+		},
+		{
+			"author": "by Michelle Obama",
+			"description": "The former first lady describes her journey from the South Side of Chicago to the White House, and how she balanced work, family and her husband\u2019s political ascent.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524763138.jpg",
+			"name": "BECOMING",
+			"publisher": "Crown",
+			"rank": 2
+		},
+		{
+			"author": "by Tara Westover",
+			"description": "The daughter of survivalists, who is kept out of school, educates herself enough to leave home for university.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399590504.jpg",
+			"name": "EDUCATED",
+			"publisher": "Random House",
+			"rank": 3
+		},
+		{
+			"author": "with related materials by The Washington Post",
+			"description": "Redacted findings from the special counsel\u2019s investigation into Russian interference in the 2016 presidential election and potential obstruction of justice by the president.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982129736.jpg",
+			"name": "THE MUELLER REPORT",
+			"publisher": "Scribner",
+			"rank": 4
+		},
+		{
+			"author": "by Melinda Gates",
+			"description": "The philanthropist shares stories of empowering women to improve society.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250240521.jpg",
+			"name": "THE MOMENT OF LIFT",
+			"publisher": "Flatiron",
+			"rank": 5
+		},
+		{
+			"author": "by the office of the special counsel",
+			"description": "Redacted findings from the special counsel\u2019s investigation into Russian interference in the 2016 presidential election and potential obstruction of justice by the president.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781612197814.jpg",
+			"name": "THE MUELLER REPORT",
+			"publisher": "Melville",
+			"rank": 6
+		},
+		{
+			"author": "by Casey Cep",
+			"description": "Harper Lee\u2019s work on the true-crime story about a rural preacher accused of murdering five of his family members in the 1970s.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101947869.jpg",
+			"name": "FURIOUS HOURS",
+			"publisher": "Knopf",
+			"rank": 7
+		},
+		{
+			"author": "with an introduction by Alan Dershowitz",
+			"description": "Redacted findings from the special counsel\u2019s investigation into Russian interference in the 2016 presidential election and potential obstruction of justice by the president.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781510750173.jpg",
+			"name": "THE MUELLER REPORT",
+			"publisher": "Skyhorse",
+			"rank": 8
+		},
+		{
+			"author": "by David Brooks",
+			"description": "A New York Times Op-Ed columnist espouses having an outward focus to attain a meaningful life.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812993264.jpg",
+			"name": "THE SECOND MOUNTAIN",
+			"publisher": "Random House",
+			"rank": 9
+		},
+		{
+			"author": "by Bill Geist",
+			"description": "Coming-of-age anecdotes set in a 1960s Midwestern summer vacation destination.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538729809.jpg",
+			"name": "LAKE OF THE OZARKS",
+			"publisher": "Grand Central",
+			"rank": 10
+		},
+		{
+			"author": "by Rachel Held Evans",
+			"description": "The late author's pursuit of a renewed faith in the community and her misgivings about organized religion.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780718022136.jpg",
+			"name": "SEARCHING FOR SUNDAY",
+			"publisher": "Thomas Nelson",
+			"rank": 11
+		},
+		{
+			"author": "by Chelsea Handler",
+			"description": "The comedian chronicles going into therapy and becoming an advocate for change.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525511779.jpg",
+			"name": "LIFE WILL BE THE DEATH OF ME",
+			"publisher": "Spiegel & Grau",
+			"rank": 12
+		},
+		{
+			"author": "by Lori Gottlieb",
+			"description": "A psychotherapist gains unexpected insights when she becomes another therapist\u2019s patient.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781328662057.jpg",
+			"name": "MAYBE YOU SHOULD TALK TO SOMEONE",
+			"publisher": "Houghton Mifflin Harcourt",
+			"rank": 13
+		},
+		{
+			"author": "by Adam Savage",
+			"description": "The star of \u201cMythBusters\u201d shares his tools for creativity.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982113476.jpg",
+			"name": "EVERY TOOL'S A HAMMER",
+			"publisher": "Atria",
+			"rank": 14
+		},
+		{
+			"author": "by Jill Biden",
+			"description": "The former second lady\u2019s challenges in being a mother, educator and political spouse.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250182326.jpg",
+			"name": "WHERE THE LIGHT ENTERS",
+			"publisher": "Flatiron",
+			"rank": 15
+		}
+	]
+}

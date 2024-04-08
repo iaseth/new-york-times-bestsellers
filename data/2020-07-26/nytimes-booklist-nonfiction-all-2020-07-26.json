@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by John Bolton",
+			"description": "The former national security advisor gives his account of the 17 months he spent working for President Trump.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982148034.jpg",
+			"name": "THE ROOM WHERE IT HAPPENED",
+			"publisher": "Simon & Schuster",
+			"rank": 1
+		},
+		{
+			"author": "by Ibram X. Kendi",
+			"description": "A primer for creating a more just and equitable society through identifying and opposing racism.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525509288.jpg",
+			"name": "HOW TO BE AN ANTIRACIST",
+			"publisher": "One World",
+			"rank": 2
+		},
+		{
+			"author": "by Robin DiAngelo",
+			"description": "Historical and cultural analyses on what causes defensive moves by white people and how this inhibits cross-racial dialogue.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780807047415.jpg",
+			"name": "WHITE FRAGILITY",
+			"publisher": "Beacon Press",
+			"rank": 3
+		},
+		{
+			"author": "by Ron Chernow",
+			"description": "A biography of the first Treasury secretary. The basis of the Tony Award-winning Broadway musical.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780143034759.jpg",
+			"name": "ALEXANDER HAMILTON",
+			"publisher": "Penguin",
+			"rank": 4
+		},
+		{
+			"author": "by Layla F. Saad",
+			"description": "Ways to understand and possibly counteract white privilege.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781728209807.jpg",
+			"name": "ME AND WHITE SUPREMACY",
+			"publisher": "Sourcebooks",
+			"rank": 5
+		},
+		{
+			"author": "by Glennon Doyle",
+			"description": "The activist and public speaker describes her journey of listening to her inner voice.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984801258.jpg",
+			"name": "UNTAMED",
+			"publisher": "Dial",
+			"rank": 6
+		},
+		{
+			"author": "by Ijeoma Oluo",
+			"description": "A look at the contemporary racial landscape of the United States.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781580056786.jpg",
+			"name": "SO YOU WANT TO TALK ABOUT RACE",
+			"publisher": "Seal",
+			"rank": 7
+		},
+		{
+			"author": "by Richard Rothstein",
+			"description": "An examination of the ways in which the government caused residential segregation through racial zoning and other systemic practices.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781631494536.jpg",
+			"name": "THE COLOR OF LAW",
+			"publisher": "Liveright",
+			"rank": 8
+		},
+		{
+			"author": "by Ibram X. Kendi",
+			"description": "Winner of the 2016 National Book Award for nonfiction. A look at anti-Black racist ideas and their effect on the course of American history.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781568584638.jpg",
+			"name": "STAMPED FROM THE BEGINNING",
+			"publisher": "Bold Type",
+			"rank": 9
+		},
+		{
+			"author": "by Jacob Soboroff",
+			"description": "The NBC News correspondent examines the Trump administration\u2019s systematic separation of migrant families at the U.S.-Mexico border and the living conditions of the children in custody.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062992192.jpg",
+			"name": "SEPARATED",
+			"publisher": "Custom House",
+			"rank": 10
+		},
+		{
+			"author": "by Eddie S. Glaude Jr.",
+			"description": "An appraisal of the life and work of James Baldwin and their meaning in relation to the Black Lives Matter movement and the Trump presidency.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525575320.jpg",
+			"name": "BEGIN AGAIN",
+			"publisher": "Crown",
+			"rank": 11
+		},
+		{
+			"author": "by Ta-Nehisi Coates",
+			"description": "Winner of the 2015 National Book Award for nonfiction. A meditation on race in America as well as a personal story, framed as a letter to the author's teenage son.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780679645986.jpg",
+			"name": "BETWEEN THE WORLD AND ME",
+			"publisher": "Spiegel & Grau",
+			"rank": 12
+		},
+		{
+			"author": "by Bryan Stevenson",
+			"description": "A law professor and MacArthur grant recipient\u2019s memoir of his decades of work to free innocent people condemned to death.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812994520.jpg",
+			"name": "JUST MERCY",
+			"publisher": "Spiegel & Grau",
+			"rank": 13
+		},
+		{
+			"author": "by Erik Larson",
+			"description": "An examination of the leadership of the prime minister Winston Churchill.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385348713.jpg",
+			"name": "THE SPLENDID AND THE VILE",
+			"publisher": "Crown",
+			"rank": 14
+		},
+		{
+			"author": "by Michelle Obama",
+			"description": "The former first lady describes her journey from the South Side of Chicago to the White House, and how she balanced work, family and her husband\u2019s political ascent.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524763138.jpg",
+			"name": "BECOMING",
+			"publisher": "Crown",
+			"rank": 15
+		}
+	]
+}

@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Sue Grafton",
+			"description": "The 25th Kinsey Millhone mystery novel. A former student from an elite private school is released from prison and a sociopath returns to haunt the detective.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101614358.jpg",
+			"name": "Y IS FOR YESTERDAY",
+			"publisher": "Marian Wood/Putnam",
+			"rank": 1
+		},
+		{
+			"author": "by Sandra Brown",
+			"description": "The TV journalist Kerra Bailey and former federal agent John Trapper join forces to expose a web of conspiracy behind a hotel bombing in Dallas.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455572106.jpg",
+			"name": "SEEING RED",
+			"publisher": "Grand Central",
+			"rank": 2
+		},
+		{
+			"author": "by James Patterson and Richard DiLallo",
+			"description": "Two New York writers go undercover to expose the secrets of a powerful retailer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316395540.jpg",
+			"name": "THE STORE",
+			"publisher": "Little, Brown",
+			"rank": 3
+		},
+		{
+			"author": "by John Grisham",
+			"description": "A whistleblower alerts a Florida investigator to judicial corruption involving the Mob and Indian casinos.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385541206.jpg",
+			"name": "THE WHISTLER",
+			"publisher": "Doubleday",
+			"rank": 4
+		},
+		{
+			"author": "by Lisa Wingate",
+			"description": "A South Carolina lawyer, researching her grandmother\u2019s past, learns about a Tennessee orphanage that kidnapped children and placed them for adoption with wealthy people. Based on a real-life scandal.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780425284681.jpg",
+			"name": "BEFORE WE WERE YOURS",
+			"publisher": "Ballantine",
+			"rank": 5
+		},
+		{
+			"author": "by Susan Mallery",
+			"description": "A sculptor takes a job as a carpenter at a theme wedding venue and falls for its owner, Pallas Saunders, who is trying to save the business. The first book in the Happily Inc. series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781488028441.jpg",
+			"name": "YOU SAY IT FIRST",
+			"publisher": "HQN",
+			"rank": 6
+		},
+		{
+			"author": "by Ruth Ware",
+			"description": "A travel writer on a cruise is certain she has heard a body thrown overboard, but no one believes her.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501132940.jpg",
+			"name": "THE WOMAN IN CABIN 10",
+			"publisher": "Scout",
+			"rank": 7
+		},
+		{
+			"author": "by Tessa Dare",
+			"description": "The Duke of Ashbury pursues a vicar's daughter in the hopes of having an heir.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062349071.jpg",
+			"name": "THE DUCHESS DEAL",
+			"publisher": "Avon",
+			"rank": 8
+		},
+		{
+			"author": "by Michael Connelly",
+			"description": "Ren\u00e9e Ballard, a young detective with the L.A.P.D., investigates crimes against two women.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316225984.jpg",
+			"name": "THE LATE SHOW",
+			"publisher": "Little, Brown",
+			"rank": 9
+		},
+		{
+			"author": "by John Grisham",
+			"description": "A search for stolen rare manuscripts leads to a Florida island.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385543057.jpg",
+			"name": "CAMINO ISLAND",
+			"publisher": "Doubleday",
+			"rank": 10
+		},
+		{
+			"author": "by Penelope Ward",
+			"description": "Secrets are revealed when Rana makes a phone call to someone from her past and a trip to California is planned.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781942215660.jpg",
+			"name": "DRUNK DIAL",
+			"publisher": "Penelope Ward",
+			"rank": 11
+		},
+		{
+			"author": "by Rupi Kaur",
+			"description": "Poetic approaches to surviving adversity and loss.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781449474256.jpg",
+			"name": "MILK AND HONEY",
+			"publisher": "Andrews McMeel",
+			"rank": 12
+		},
+		{
+			"author": "by George R.R. Martin",
+			"description": "In the frozen wastes to the north of Winterfell, sinister and supernatural forces are mustering. Basis of the HBO series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780553897845.jpg",
+			"name": "A GAME OF THRONES",
+			"publisher": "Bantam",
+			"rank": 13
+		},
+		{
+			"author": "by Margaret Atwood",
+			"description": "Men and women in a dystopian future. The basis of the Hulu series; originally published in 1985.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780547345666.jpg",
+			"name": "THE HANDMAID'S TALE",
+			"publisher": "Houghton Mifflin Harcourt",
+			"rank": 14
+		},
+		{
+			"author": "by Stephen King",
+			"description": "The collective clown phobias of seven teenagers are rekindled in their adult lives by the terrifying title character. Originally published in 1986.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501141232.jpg",
+			"name": "IT",
+			"publisher": "Scribner",
+			"rank": 15
+		}
+	]
+}

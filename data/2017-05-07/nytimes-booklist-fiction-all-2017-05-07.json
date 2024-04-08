@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by David Baldacci",
+			"description": "The detective Amos Decker (\u201cMemory Man\u201d) witnesses a murder-suicide that turns out to be a matter of national security.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455586561.jpg",
+			"name": "THE FIX",
+			"publisher": "Grand Central",
+			"rank": 1
+		},
+		{
+			"author": "by Stuart Woods",
+			"description": "In the 41st Stone Barrington novel, the New York attorney acquires a ruthless, hot-headed enemy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399574214.jpg",
+			"name": "FAST AND LOOSE",
+			"publisher": "Putnam",
+			"rank": 2
+		},
+		{
+			"author": "by James Patterson and David Ellis",
+			"description": "After a raid on a brothel that serviced Chicago\u2019s elite, two people are dead and the madam\u2019s black book has disappeared. Who is responsible?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316464147.jpg",
+			"name": "THE BLACK BOOK",
+			"publisher": "Little, Brown",
+			"rank": 3
+		},
+		{
+			"author": "by Liane Moriarty",
+			"description": "Who will end up dead, and how, when three mothers with children in the same school become friends?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698138636.jpg",
+			"name": "BIG LITTLE LIES",
+			"publisher": "Berkley",
+			"rank": 4
+		},
+		{
+			"author": "by Fredrik Backman",
+			"description": "A curmudgeon's gruff exterior masks a generosity of spirit. Originally published in Sweden in 2014.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476738024.jpg",
+			"name": "A MAN CALLED OVE",
+			"publisher": "Washington Square",
+			"rank": 5
+		},
+		{
+			"author": "by Ruth Ware",
+			"description": "A travel writer on a cruise is certain she has heard a body thrown overboard, but no one believes her.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501132940.jpg",
+			"name": "THE WOMAN IN CABIN 10",
+			"publisher": "Scout",
+			"rank": 6
+		},
+		{
+			"author": "by Robyn Carr",
+			"description": "Self-directed Sierra finds her independence waning when she returns to Sullivan's Crossing.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781460396612.jpg",
+			"name": "ANY DAY NOW",
+			"publisher": "Harlequin",
+			"rank": 7
+		},
+		{
+			"author": "by Margaret Atwood",
+			"description": "In the Republic of Gilead's dystopian future, men and women perform the services assigned to them. Originally published in 1986.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780547345666.jpg",
+			"name": "THE HANDMAID'S TALE",
+			"publisher": "Houghton Mifflin Harcourt",
+			"rank": 8
+		},
+		{
+			"author": "by Rupi Kaur",
+			"description": "Poetic approaches to surviving adversity and loss.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781449474256.jpg",
+			"name": "MILK AND HONEY",
+			"publisher": "Andrews McMeel",
+			"rank": 9
+		},
+		{
+			"author": "by Martha Hall Kelly",
+			"description": "A story of three women\u2019s lives during and after World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101883075.jpg",
+			"name": "LILAC GIRLS",
+			"publisher": "Ballantine",
+			"rank": 10
+		},
+		{
+			"author": "by Anthony Doerr",
+			"description": "The lives of a blind French girl and a gadget-obsessed German boy before and during World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476746586.jpg",
+			"name": "ALL THE LIGHT WE CANNOT SEE",
+			"publisher": "Scribner",
+			"rank": 11
+		},
+		{
+			"author": "by William P. Young",
+			"description": "A man whose daughter was abducted is invited to an isolated shack, apparently by God.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780964729230.jpg",
+			"name": "THE SHACK",
+			"publisher": "Windblown Media",
+			"rank": 12
+		},
+		{
+			"author": "by Anita Shreve",
+			"description": "A conflagration is a form of freedom for a Maine housewife.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385350914.jpg",
+			"name": "THE STARS ARE FIRE",
+			"publisher": "Knopf",
+			"rank": 13
+		},
+		{
+			"author": "by Lisa Scottoline",
+			"description": "A high school baseball coach hiding his real identity poses a threat to an idyllic suburban community.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250099587.jpg",
+			"name": "ONE PERFECT LIE",
+			"publisher": "St. Martin's",
+			"rank": 14
+		},
+		{
+			"author": "by Mary Higgins Clark",
+			"description": "On a luxury cruise ship, a wealthy aristocrat is found murdered, and her emerald necklace has disappeared.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501131134.jpg",
+			"name": "ALL BY MYSELF, ALONE",
+			"publisher": "Simon & Schuster",
+			"rank": 15
+		}
+	]
+}

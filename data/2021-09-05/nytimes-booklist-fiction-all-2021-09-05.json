@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Douglas Preston and Lincoln Child",
+			"description": "The 20th book in the Pendergast series. Bodies found without blood in their veins might be connected to an unsolved skyjacking.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538736708.jpg",
+			"name": "BLOODLESS",
+			"publisher": "Grand Central",
+			"rank": 1
+		},
+		{
+			"author": "by Stephen King",
+			"description": "A killer for hire who only takes out bad guys seeks redemption as he does one final job.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982173616.jpg",
+			"name": "BILLY SUMMERS",
+			"publisher": "Scribner",
+			"rank": 2
+		},
+		{
+			"author": "by Danielle Steel",
+			"description": "On a September night, guests at the reopening of an exclusive Paris hotel experience love, tragedy and political intrigue.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984821492.jpg",
+			"name": "COMPLICATIONS",
+			"publisher": "Delacorte",
+			"rank": 3
+		},
+		{
+			"author": "by James Patterson and J.D. Barker",
+			"description": "A strange vibration rises out of a forest near Mount Hood.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316499873.jpg",
+			"name": "THE NOISE",
+			"publisher": "Little, Brown",
+			"rank": 4
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "A battered wife raised in a violent home attempts to halt the cycle of abuse.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501110375.jpg",
+			"name": "IT ENDS WITH US",
+			"publisher": "Atria",
+			"rank": 5
+		},
+		{
+			"author": "by Laura Dave",
+			"description": "Hannah Hall discovers truths about her missing husband and bonds with his daughter from a previous relationship.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501171345.jpg",
+			"name": "THE LAST THING HE TOLD ME",
+			"publisher": "Simon & Schuster",
+			"rank": 6
+		},
+		{
+			"author": "by Emily Henry",
+			"description": "Opposites Poppy and Alex meet to vacation together one more time in hopes of saving their relationship.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984806758.jpg",
+			"name": "PEOPLE WE MEET ON VACATION",
+			"publisher": "Berkley",
+			"rank": 7
+		},
+		{
+			"author": "by Taylor Jenkins Reid",
+			"description": "A movie icon recounts stories of her loves and career to a struggling magazine writer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501161933.jpg",
+			"name": "THE SEVEN HUSBANDS OF EVELYN HUGO",
+			"publisher": "Washington Square",
+			"rank": 8
+		},
+		{
+			"author": "by Liane Moriarty",
+			"description": "A romance writer becomes fascinated by the owner and director of a health resort.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250069849.jpg",
+			"name": "NINE PERFECT STRANGERS",
+			"publisher": "Flatiron",
+			"rank": 9
+		},
+		{
+			"author": "by Madeline Miller",
+			"description": "A reimagining of Homer\u2019s \u201cIliad\u201d that is narrated by Achilles' companion Patroclus.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062060624.jpg",
+			"name": "THE SONG OF ACHILLES",
+			"publisher": "Ecco",
+			"rank": 10
+		},
+		{
+			"author": "by Delia Owens",
+			"description": "In a quiet town on the North Carolina coast in 1969, a young woman who survived alone in the marsh becomes a murder suspect.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735219090.jpg",
+			"name": "WHERE THE CRAWDADS SING",
+			"publisher": "Putnam",
+			"rank": 11
+		},
+		{
+			"author": "by Matt Haig",
+			"description": "Nora Seed finds a library beyond the edge of the universe that contains books with multiple possibilities of the lives one could have lived.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525559474.jpg",
+			"name": "THE MIDNIGHT LIBRARY",
+			"publisher": "Viking",
+			"rank": 12
+		},
+		{
+			"author": "by Miranda Cowley Heller",
+			"description": "After an extramarital dalliance, Elle must choose between her husband and her childhood love.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593329825.jpg",
+			"name": "THE PAPER PALACE",
+			"publisher": "Riverhead",
+			"rank": 13
+		},
+		{
+			"author": "by Taylor Jenkins Reid",
+			"description": "An epic party has serious outcomes for four famous siblings.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524798659.jpg",
+			"name": "MALIBU RISING",
+			"publisher": "Ballantine",
+			"rank": 14
+		},
+		{
+			"author": "by Lucy Foley",
+			"description": "A wedding between a TV star and a magazine publisher on an island off the coast of Ireland turns deadly.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062868930.jpg",
+			"name": "THE GUEST LIST",
+			"publisher": "Morrow",
+			"rank": 15
+		}
+	]
+}

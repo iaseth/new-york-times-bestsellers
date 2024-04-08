@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Neil deGrasse Tyson",
+			"description": "A straightforward, easy-to-understand introduction to the laws that govern the universe.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780393609394.jpg",
+			"name": "ASTROPHYSICS FOR PEOPLE IN A HURRY",
+			"publisher": "Norton",
+			"rank": 1
+		},
+		{
+			"author": "by Sheryl Sandberg and Adam Grant",
+			"description": "Sandberg\u2019s experience after her husband\u2019s sudden death and Grant\u2019s psychological research combine to provide insight on facing adversity and building resilience.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524732684.jpg",
+			"name": "OPTION B",
+			"publisher": "Knopf",
+			"rank": 2
+		},
+		{
+			"author": "by Timothy Snyder",
+			"description": "Twenty lessons from the 20th century about the course of tyranny.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780804190114.jpg",
+			"name": "ON TYRANNY",
+			"publisher": "Tim Duggan",
+			"rank": 3
+		},
+		{
+			"author": "by Ben Sasse",
+			"description": "The Nebraska senator\u2019s advice on how to raise resilient, responsible children.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250114402.jpg",
+			"name": "THE VANISHING AMERICAN ADULT",
+			"publisher": "St. Martin's",
+			"rank": 4
+		},
+		{
+			"author": "by J.D. Vance",
+			"description": "A Yale Law School graduate looks at the struggles of the white working class through the story of his own childhood.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062300560.jpg",
+			"name": "HILLBILLY ELEGY",
+			"publisher": "HarperCollins",
+			"rank": 5
+		},
+		{
+			"author": "by David Grann",
+			"description": "The story of a murder spree in 1920s Oklahoma that targeted Osage Indians, whose lands contained oil.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385534246.jpg",
+			"name": "KILLERS OF THE FLOWER MOON",
+			"publisher": "Doubleday",
+			"rank": 6
+		},
+		{
+			"author": "by Jonathan Allen and Amie Parnes",
+			"description": "An examination of Hillary Clinton\u2019s presidential campaign.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780553447095.jpg",
+			"name": "SHATTERED",
+			"publisher": "Crown",
+			"rank": 7
+		},
+		{
+			"author": "by Diane Ackerman",
+			"description": "How a Warsaw couple sheltered Jews and members of the Resistance during World War II. Originally published in 2007; now the basis of a movie,",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780393333060.jpg",
+			"name": "THE ZOOKEEPER\u2019S WIFE",
+			"publisher": "Norton",
+			"rank": 8
+		},
+		{
+			"author": "by David Ortiz with Michael Holley",
+			"description": "Looking back on 14 years with the Red Sox.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780544814615.jpg",
+			"name": "PAPI",
+			"publisher": "Houghton Mifflin Harcourt",
+			"rank": 9
+		},
+		{
+			"author": "by Steven Pinker",
+			"description": "The Harvard psychologist argues that we are living in the most peaceable period of human existence, thanks to developments \u00ad\u2014 government, literacy, trade \u2014 that make it possible for people to control their violent impulses.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780143122012.jpg",
+			"name": "THE BETTER ANGELS OF OUR NATURE",
+			"publisher": "Penguin",
+			"rank": 10
+		},
+		{
+			"author": "by Condoleezza Rice",
+			"description": "The former secretary of state argues that the promotion of democracy should shape America\u2019s foreign policy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455540181.jpg",
+			"name": "DEMOCRACY",
+			"publisher": "Twelve",
+			"rank": 11
+		},
+		{
+			"author": "by Robert O'Neill",
+			"description": "The 400-mission career of a SEAL Team operator.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501145032.jpg",
+			"name": "THE OPERATOR",
+			"publisher": "Scribner",
+			"rank": 12
+		},
+		{
+			"author": "by Harold Evans",
+			"description": "Advice on writing well from a noted editor.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316277174.jpg",
+			"name": "DO I MAKE MYSELF CLEAR?",
+			"publisher": "Little, Brown",
+			"rank": 13
+		},
+		{
+			"author": "by Margot Lee Shetterly",
+			"description": "The story of the black women mathematicians at then-segregated NASA and its precursor. The basis of the movie.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062363619.jpg",
+			"name": "HIDDEN FIGURES",
+			"publisher": "Morrow/HarperCollins",
+			"rank": 14
+		},
+		{
+			"author": "by Kareem Abdul-Jabbar",
+			"description": "A life-changing 50-year friendship that began during Abdul-Jabbar\u2019s student days at U.C.L.A.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455542277.jpg",
+			"name": "COACH WOODEN AND ME",
+			"publisher": "Grand Central",
+			"rank": 15
+		}
+	]
+}

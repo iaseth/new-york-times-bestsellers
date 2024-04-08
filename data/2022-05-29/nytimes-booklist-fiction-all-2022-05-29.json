@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Emily Henry",
+			"description": "While on vacation in North Carolina, a literary agent keeps running into an editor.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593334836.jpg",
+			"name": "BOOK LOVERS",
+			"publisher": "Berkley",
+			"rank": 1
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "A battered wife raised in a violent home attempts to halt the cycle of abuse.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501110375.jpg",
+			"name": "IT ENDS WITH US",
+			"publisher": "Atria",
+			"rank": 2
+		},
+		{
+			"author": "by James Patterson and Maxine Paetro",
+			"description": "The 22nd book in the Women\u2019s Murder Club series. Lindsay Boxer returns as word gets around about a shipment of drugs and weapons.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316499378.jpg",
+			"name": "22 SECONDS",
+			"publisher": "Little, Brown",
+			"rank": 3
+		},
+		{
+			"author": "by Jennifer Weiner",
+			"description": "A wedding between Ruby Danhauser and her pandemic boyfriend at a family beach house in Cape Cod brings to light family secrets.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501133572.jpg",
+			"name": "THE SUMMER PLACE",
+			"publisher": "Atria",
+			"rank": 4
+		},
+		{
+			"author": "by Delia Owens",
+			"description": "In a quiet town on the North Carolina coast in 1969, a young woman who survived alone in the marsh becomes a murder suspect.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735219090.jpg",
+			"name": "WHERE THE CRAWDADS SING",
+			"publisher": "Putnam",
+			"rank": 5
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "Lowen Ashleigh is hired by the husband of an injured writer to complete her popular series and uncovers a horrifying truth.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781791392796.jpg",
+			"name": "VERITY",
+			"publisher": "Grand Central",
+			"rank": 6
+		},
+		{
+			"author": "by Taylor Jenkins Reid",
+			"description": "A movie icon recounts stories of her loves and career to a struggling magazine writer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501161933.jpg",
+			"name": "THE SEVEN HUSBANDS OF EVELYN HUGO",
+			"publisher": "Washington Square/Atria",
+			"rank": 7
+		},
+		{
+			"author": "by Lee Child and Andrew Child",
+			"description": "The 26th book in the Jack Reacher series. Reacher helps an F.B.I. agent look for her missing brother and takes on a foe named Dendoncker.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984818508.jpg",
+			"name": "BETTER OFF DEAD",
+			"publisher": "Dell",
+			"rank": 8
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "Tate Collins and Miles Archer,\u00a0an airline pilot, think they can handle a no strings attached arrangement. But they can't.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476753195.jpg",
+			"name": "UGLY LOVE",
+			"publisher": "Atria",
+			"rank": 9
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "The third book in the Archer series. Archer, Dash and Callahan search for a missing screenwriter who had a dead body turn up in her home.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538719770.jpg",
+			"name": "DREAM TOWN",
+			"publisher": "Grand Central",
+			"rank": 10
+		},
+		{
+			"author": "by Chris Bohjalian",
+			"description": "In 1964, a violent kidnapping disrupts a honeymoon holiday in Tanzania for a Hollywood star and her friends.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385544825.jpg",
+			"name": "THE LIONESS",
+			"publisher": "Doubleday",
+			"rank": 11
+		},
+		{
+			"author": "by Dolly Parton and James Patterson",
+			"description": "A singer-songwriter goes to Nashville seeking stardom but is followed by her dark past.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780759554344.jpg",
+			"name": "RUN, ROSE, RUN",
+			"publisher": "Little, Brown",
+			"rank": 12
+		},
+		{
+			"author": "by Emily Henry",
+			"description": "Opposites Poppy and Alex meet to vacation together one more time in hopes of saving their relationship.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984806758.jpg",
+			"name": "PEOPLE WE MEET ON VACATION",
+			"publisher": "Berkley",
+			"rank": 13
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "Is Ben using his relationship with Fallon as fodder for his novel?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501110351.jpg",
+			"name": "NOVEMBER 9",
+			"publisher": "Atria",
+			"rank": 14
+		},
+		{
+			"author": "by Ali Hazelwood",
+			"description": "A young professor agrees to pretend to be a third-year Ph.D. candidate\u2019s boyfriend.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593336823.jpg",
+			"name": "THE LOVE HYPOTHESIS",
+			"publisher": "Berkley",
+			"rank": 15
+		}
+	]
+}

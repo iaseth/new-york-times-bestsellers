@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Sara Gruen",
+			"description": "After his parents die in a car accident, a young veterinary student \u2014 and an elephant \u2014 save a Depression-era circus.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781616200718.jpg",
+			"name": "WATER FOR ELEPHANTS",
+			"publisher": "Algonquin",
+			"rank": 1
+		},
+		{
+			"author": "by Nora Roberts",
+			"description": "A smoke jumper faces a new season of firefighting in Montana after the loss of her partner.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780515150636.jpg",
+			"name": "CHASING FIRE",
+			"publisher": "Penguin Group",
+			"rank": 2
+		},
+		{
+			"author": "by Michael Connelly",
+			"description": "Routinely doing business from his Lincoln Town Cars, the bottom-feeding attorney Mickey Haller is asked to defend the scion of a wealthy family who might not be guilty of a murderous crime.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455500239.jpg",
+			"name": "THE LINCOLN LAWYER",
+			"publisher": "Little, Brown",
+			"rank": 3
+		},
+		{
+			"author": "by Michael Connelly",
+			"description": "The defense lawyer Mickey Haller represents a woman facing home foreclosure who is accused of killing a banker.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455510313.jpg",
+			"name": "THE FIFTH WITNESS",
+			"publisher": "Little, Brown",
+			"rank": 4
+		},
+		{
+			"author": "by Kathryn Stockett",
+			"description": "A young white woman and two black maids in 1960s Mississippi.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781440697661.jpg",
+			"name": "THE HELP",
+			"publisher": "Penguin Group",
+			"rank": 5
+		},
+		{
+			"author": "by Emily Giffin",
+			"description": "A maid of honor to her charmed friend, Rachel White has always played by the rules. But that changes on her 30th birthday.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780312600723.jpg",
+			"name": "SOMETHING BORROWED",
+			"publisher": "St. Martin's",
+			"rank": 6
+		},
+		{
+			"author": "by Mary Higgins Clark",
+			"description": "A woman haunted by the disappearance of her young son discovers that someone has stolen her identity.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781439180976.jpg",
+			"name": "I\u2019LL WALK ALONE",
+			"publisher": "Simon & Schuster",
+			"rank": 7
+		},
+		{
+			"author": "by Jean M. Auel",
+			"description": "The latest volume in a series that began with \u201cThe Clan of the Cave Bear,\u201d set during the ice age.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780517580516.jpg",
+			"name": "THE LAND OF PAINTED CAVES",
+			"publisher": "Crown",
+			"rank": 8
+		},
+		{
+			"author": "by George R.R. Martin",
+			"description": "In the frozen wastes to the north of Winterfell, sinister and supernatural forces are mustering.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780553897845.jpg",
+			"name": "A GAME OF THRONES",
+			"publisher": "Random House",
+			"rank": 9
+		},
+		{
+			"author": "by Stieg Larsson",
+			"description": "The third volume of the Millennium trilogy, about a Swedish hacker and a journalist.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307593672.jpg",
+			"name": "THE GIRL WHO KICKED THE HORNET\u2019S NEST",
+			"publisher": "Knopf Doubleday",
+			"rank": 10
+		},
+		{
+			"author": "by Nora Roberts",
+			"description": "A canine search-and-rescue trainer has found peace after losing her fianc\u00e9 to a serial killer. But her life is shaken by a new man and a copycat murderer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399156571.jpg",
+			"name": "THE SEARCH",
+			"publisher": "Penguin Group",
+			"rank": 11
+		},
+		{
+			"author": "by Danielle Steel",
+			"description": "The owner of a Greenwich Village town house takes in boarders and bonds with her tenants.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780440339885.jpg",
+			"name": "44 CHARLES STREET",
+			"publisher": "Random House",
+			"rank": 12
+		},
+		{
+			"author": "by Paula McLain",
+			"description": "Ernest Hemingway\u2019s first wife, Hadley, narrates this novel set in Paris.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345521323.jpg",
+			"name": "THE PARIS WIFE",
+			"publisher": "Random House",
+			"rank": 13
+		},
+		{
+			"author": "by Lisa Scottoline",
+			"description": "A mother\u2019s action during a school emergency causes an uproar in a Philadelphia suburb.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781429959797.jpg",
+			"name": "SAVE ME",
+			"publisher": "St. Martin's",
+			"rank": 14
+		},
+		{
+			"author": "by Abraham Verghese",
+			"description": "Twin brothers, conjoined at birth and then separated, grow up amid the political turmoil of Ethiopia.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780375714368.jpg",
+			"name": "CUTTING FOR STONE",
+			"publisher": "Knopf Doubleday",
+			"rank": 15
+		}
+	]
+}

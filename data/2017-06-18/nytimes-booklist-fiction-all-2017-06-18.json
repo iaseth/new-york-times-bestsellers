@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Nora Roberts",
+			"description": "Years after she was kidnapped, a woman returns to her family\u2019s Montana ranch.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250123107.jpg",
+			"name": "COME SUNDOWN",
+			"publisher": "St. Martin's",
+			"rank": 1
+		},
+		{
+			"author": "by Clive Cussler and Graham Brown",
+			"description": "The NUMA crew races the Russians and Chinese in a hunt for a missing American aircraft.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399184031.jpg",
+			"name": "NIGHTHAWK",
+			"publisher": "Putnam",
+			"rank": 2
+		},
+		{
+			"author": "by Christine Feehan",
+			"description": "A reckless billionaire meets a mystery woman with her own shadowy past.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399583964.jpg",
+			"name": "SHADOW REAPER",
+			"publisher": "Berkley",
+			"rank": 3
+		},
+		{
+			"author": "by Paula Hawkins",
+			"description": "In this psychological thriller by the author of \u201cThe Girl on the Train,\u201d women are found drowned in a river in an English town.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735211216.jpg",
+			"name": "INTO THE WATER",
+			"publisher": "Riverhead",
+			"rank": 4
+		},
+		{
+			"author": "by Julia Quinn",
+			"description": "An orphan pretends to be an unconscious officer's wife.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062388186.jpg",
+			"name": "THE GIRL WITH THE MAKE-BELIEVE HUSBAND",
+			"publisher": "Avon",
+			"rank": 5
+		},
+		{
+			"author": "by Ilona Andrews",
+			"description": "A detective who can tell when someone's lying meets an inscrutable billionaire with abilities of his own.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062289261.jpg",
+			"name": "WHITE HOT",
+			"publisher": "Avon",
+			"rank": 6
+		},
+		{
+			"author": "by Margaret Atwood",
+			"description": "In a dystopian future, men and women perform the services assigned to them. Originally published in 1986.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780547345666.jpg",
+			"name": "THE HANDMAID'S TALE",
+			"publisher": "Houghton Mifflin Harcourt",
+			"rank": 7
+		},
+		{
+			"author": "by Janet Evanovich and Phoef Sutton",
+			"description": "The first of a new series featuring Emerson Knight, an eccentric millionaire, and Riley Moon, an analyst at a mega-bank.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780553392692.jpg",
+			"name": "CURIOUS MINDS",
+			"publisher": "Bantam",
+			"rank": 8
+		},
+		{
+			"author": "by Michael Crichton",
+			"description": "A paleontological rivalry plays out in 1870s Wyoming.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062473356.jpg",
+			"name": "DRAGON TEETH",
+			"publisher": "Harper",
+			"rank": 9
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "The detective Amos Decker (\u201cMemory Man\u201d) witnesses a murder-suicide that turns out to be a matter of national security.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455586561.jpg",
+			"name": "THE FIX",
+			"publisher": "Grand Central",
+			"rank": 10
+		},
+		{
+			"author": "by James Patterson and Maxine Paetro",
+			"description": "In San Francisco, Detective Lindsay Boxer and the Women\u2019s Murder Club face their toughest case yet.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316553452.jpg",
+			"name": "16TH SEDUCTION",
+			"publisher": "Little, Brown",
+			"rank": 11
+		},
+		{
+			"author": "by Heather Graham",
+			"description": "A historian joins forces with a paranormal investigator when a killer starts burying women alive.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780778330226.jpg",
+			"name": "DYING BREATH",
+			"publisher": "Mira",
+			"rank": 12
+		},
+		{
+			"author": "by Lee Child",
+			"description": "A complete collection of Jack Reacher stories.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399593581.jpg",
+			"name": "NO MIDDLE NAME",
+			"publisher": "Delacorte",
+			"rank": 13
+		},
+		{
+			"author": "by Ruth Ware",
+			"description": "A travel writer on a cruise is certain she has heard a body thrown overboard, but no one believes her.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501132940.jpg",
+			"name": "THE WOMAN IN CABIN 10",
+			"publisher": "Scout",
+			"rank": 14
+		},
+		{
+			"author": "by Lee Child",
+			"description": "Jack Reacher, still in the Army, becomes involved in an investigation with elite agents from the F.B.I. and C.I.A.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780804178815.jpg",
+			"name": "NIGHT SCHOOL",
+			"publisher": "Delacorte",
+			"rank": 15
+		}
+	]
+}

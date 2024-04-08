@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Delia Owens",
+			"description": "In a quiet town on the North Carolina coast in 1969, a young woman who survived alone in the marsh becomes a murder suspect.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735219090.jpg",
+			"name": "WHERE THE CRAWDADS SING",
+			"publisher": "Putnam",
+			"rank": 1
+		},
+		{
+			"author": "by Harlan Coben",
+			"description": "A family is torn apart when the daughter becomes addicted to drugs and goes missing.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538748466.jpg",
+			"name": "RUN AWAY",
+			"publisher": "Grand Central",
+			"rank": 2
+		},
+		{
+			"author": "by Clive Cussler and Dirk Cussler",
+			"description": "The 25th book in the Dirk Pitt series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735219007.jpg",
+			"name": "CELTIC EMPIRE",
+			"publisher": "Putnam",
+			"rank": 3
+		},
+		{
+			"author": "by James Patterson and Brendan DuBois",
+			"description": "Sally Grissom investigates the disappearance of President Harrison Tucker\u2019s wife.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538714928.jpg",
+			"name": "THE FIRST LADY",
+			"publisher": "Grand Central",
+			"rank": 4
+		},
+		{
+			"author": "by A.J. Finn",
+			"description": "A recluse who drinks heavily and takes prescription drugs may have witnessed a crime across from her Harlem townhouse.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062678416.jpg",
+			"name": "THE WOMAN IN THE WINDOW",
+			"publisher": "Morrow",
+			"rank": 5
+		},
+		{
+			"author": "by Heather Morris",
+			"description": "A concentration camp detainee tasked with permanently marking fellow prisoners falls in love with one of them.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062797155.jpg",
+			"name": "THE TATTOOIST OF AUSCHWITZ",
+			"publisher": "Harper",
+			"rank": 6
+		},
+		{
+			"author": "by C.J. Box",
+			"description": "The Wyoming game wardens Joe Pickett and Katelyn Hamm take on killers working for the Sinaloa cartel.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525538202.jpg",
+			"name": "WOLF PACK",
+			"publisher": "Putnam",
+			"rank": 7
+		},
+		{
+			"author": "by Pam Jenoff",
+			"description": "Grace Healey investigates the fates of 12 women who were sent to occupied Europe to help the resistance during World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780778330271.jpg",
+			"name": "THE LOST GIRLS OF PARIS",
+			"publisher": "Park Row",
+			"rank": 8
+		},
+		{
+			"author": "by Greg Iles",
+			"description": "The journalist Marshall McEwan returns to his hometown, which is shaken by two deaths and an economy on the brink.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062824639.jpg",
+			"name": "CEMETERY ROAD",
+			"publisher": "Morrow",
+			"rank": 9
+		},
+		{
+			"author": "by Alex Michaelides",
+			"description": "Theo Faber looks into the mystery of a famous painter who stops speaking after shooting her husband.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250301697.jpg",
+			"name": "THE SILENT PATIENT",
+			"publisher": "Celadon",
+			"rank": 10
+		},
+		{
+			"author": "by Taylor Jenkins Reid",
+			"description": "A fictional oral history charting the rise and fall of a \u201970s rock \u2019n\u2019 roll band.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524798628.jpg",
+			"name": "DAISY JONES & THE SIX",
+			"publisher": "Ballantine",
+			"rank": 11
+		},
+		{
+			"author": "by Gail Honeyman",
+			"description": "A young woman\u2019s well-ordered life is disrupted by the I.T. guy from her office.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735220690.jpg",
+			"name": "ELEANOR OLIPHANT IS COMPLETELY FINE",
+			"publisher": "Penguin",
+			"rank": 12
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "Amos Decker, known as the Memory Man, puts his talents toward solving a string of murders in a Rust Belt town.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538761397.jpg",
+			"name": "THE FALLEN",
+			"publisher": "Grand Central",
+			"rank": 13
+		},
+		{
+			"author": "by Danielle Steel",
+			"description": "After tragedy strikes, a child TV star loses her memory and ability to speak.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399179396.jpg",
+			"name": "SILENT NIGHT",
+			"publisher": "Delacorte",
+			"rank": 14
+		},
+		{
+			"author": "by Kate Quinn",
+			"description": "A British journalist and a Russian female bomber pilot go after a Nazi war criminal.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062740373.jpg",
+			"name": "THE HUNTRESS",
+			"publisher": "Morrow",
+			"rank": 15
+		}
+	]
+}

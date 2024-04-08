@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Nora Roberts",
+			"description": "Echoes of a violent childhood reverberate for Zane Bigelow when he starts a new kind of family in North Carolina\u2019s Blue Ridge Mountains.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250213273.jpg",
+			"name": "UNDER CURRENTS",
+			"publisher": "St. Martin's",
+			"rank": 1
+		},
+		{
+			"author": "by Delia Owens",
+			"description": "In a quiet town on the North Carolina coast in 1969, a young woman who survived alone in the marsh becomes a murder suspect.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735219090.jpg",
+			"name": "WHERE THE CRAWDADS SING",
+			"publisher": "Putnam",
+			"rank": 2
+		},
+		{
+			"author": "by Elin Hilderbrand",
+			"description": "The Levin family undergoes dramatic events with a son in Vietnam, a daughter in protests and dark secrets hiding beneath the surface.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316420013.jpg",
+			"name": "SUMMER OF '69",
+			"publisher": "Little, Brown",
+			"rank": 3
+		},
+		{
+			"author": "by John Grisham",
+			"description": "A decorated World War II veteran shoots and kills a pastor inside a Mississippi church.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385544160.jpg",
+			"name": "THE RECKONING",
+			"publisher": "Doubleday",
+			"rank": 4
+		},
+		{
+			"author": "by Jo Nesbo",
+			"description": "After Rakel kicks him out, Harry Hole begins anew with the Oslo police cold case office to investigate a serial rapist and killer from his past.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525655404.jpg",
+			"name": "KNIFE",
+			"publisher": "Knopf",
+			"rank": 5
+		},
+		{
+			"author": "by Lisa Wingate",
+			"description": "A South Carolina lawyer learns about the questionable practices of a Tennessee orphanage.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780425284681.jpg",
+			"name": "BEFORE WE WERE YOURS",
+			"publisher": "Ballantine",
+			"rank": 6
+		},
+		{
+			"author": "by Elizabeth Gilbert",
+			"description": "An 89-year-old Vivian Morris looks back at the direction her life took when she entered the 1940s New York theater scene.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594634734.jpg",
+			"name": "CITY OF GIRLS",
+			"publisher": "Riverhead",
+			"rank": 7
+		},
+		{
+			"author": "by Brad Thor",
+			"description": "Cut off from any support, Scot Harvath fights to get his revenge.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982104030.jpg",
+			"name": "BACKLASH",
+			"publisher": "Emily Bestler/Atria",
+			"rank": 8
+		},
+		{
+			"author": "by Heather Morris",
+			"description": "A concentration camp detainee tasked with permanently marking fellow prisoners falls in love with one of them.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062797155.jpg",
+			"name": "THE TATTOOIST OF AUSCHWITZ",
+			"publisher": "Harper",
+			"rank": 9
+		},
+		{
+			"author": "by Celeste Ng",
+			"description": "An artist upends a quiet town outside Cleveland.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735224308.jpg",
+			"name": "LITTLE FIRES EVERYWHERE",
+			"publisher": "Penguin Press",
+			"rank": 10
+		},
+		{
+			"author": "by Linda Holmes",
+			"description": "In a seaside town in Maine, a former Major League pitcher and a grieving widow assess their pasts.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525619246.jpg",
+			"name": "EVVIE DRAKE STARTS OVER",
+			"publisher": "Ballantine",
+			"rank": 11
+		},
+		{
+			"author": "by Jennifer Weiner",
+			"description": "The story of two sisters, Jo and Bethie Kaufman, and their life experiences as the world around them changes drastically from the 1950s.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501133480.jpg",
+			"name": "MRS. EVERYTHING",
+			"publisher": "Atria",
+			"rank": 12
+		},
+		{
+			"author": "by Richard Powers",
+			"description": "Winner of the 2019 Pulitzer Prize for fiction. Nine people drawn to trees for different reasons fight for the last of the remaining acres of virgin forest.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780393635522.jpg",
+			"name": "THE OVERSTORY",
+			"publisher": "Norton",
+			"rank": 13
+		},
+		{
+			"author": "by Adrian McKinty",
+			"description": "Rachel Klein is ensnared in a pay-it-forward criminal enterprise involving ransoms and kidnapping.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316531269.jpg",
+			"name": "THE CHAIN",
+			"publisher": "Mulholland/Little, Brown",
+			"rank": 14
+		},
+		{
+			"author": "by Debbie Macomber",
+			"description": "Annie Marlow forms new relationships in the Pacific Northwest as she tries to recover from tragedy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399181269.jpg",
+			"name": "COTTAGE BY THE SEA",
+			"publisher": "Ballantine",
+			"rank": 15
+		}
+	]
+}

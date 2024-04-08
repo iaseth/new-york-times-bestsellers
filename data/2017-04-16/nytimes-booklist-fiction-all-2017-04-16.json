@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by James Patterson and David Ellis",
+			"description": "After a raid on a brothel that serviced Chicago\u2019s elite, two people are dead and the madam\u2019s black book has disappeared. Who is responsible?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316464147.jpg",
+			"name": "THE BLACK BOOK",
+			"publisher": "Little, Brown",
+			"rank": 1
+		},
+		{
+			"author": "by William P. Young",
+			"description": "A man whose daughter was abducted is invited to an isolated shack, apparently by God.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780964729230.jpg",
+			"name": "THE SHACK",
+			"publisher": "Windblown Media",
+			"rank": 2
+		},
+		{
+			"author": "by Liane Moriarty",
+			"description": "Who will end up dead, and how, when three mothers with children in the same school become friends?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698138636.jpg",
+			"name": "BIG LITTLE LIES",
+			"publisher": "Berkley",
+			"rank": 3
+		},
+		{
+			"author": "by Lynsay Sands",
+			"description": "Sarita and Domitian must save each other first, before turning to the innocent lives in their orbit.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062468857.jpg",
+			"name": "IMMORTAL UNCHAINED",
+			"publisher": "Avon",
+			"rank": 4
+		},
+		{
+			"author": "by Fredrik Backman",
+			"description": "A curmudgeon's gruff exterior masks a generosity of spirit. Originally published in Sweden in 2014.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476738024.jpg",
+			"name": "A MAN CALLED OVE",
+			"publisher": "Washington Square",
+			"rank": 5
+		},
+		{
+			"author": "by Greg Iles",
+			"description": "Penn Cage, now the mayor of Natchez, Miss., investigates the secrets of his family and the South in order to save his and his father\u2019s lives in the conclusion to the Natchez Burning trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062311191.jpg",
+			"name": "MISSISSIPPI BLOOD",
+			"publisher": "Morrow/HarperCollins",
+			"rank": 6
+		},
+		{
+			"author": "by Nora Roberts",
+			"description": "A woman is haunted by her father\u2019s crimes as she tries to pursue love and her work as a photographer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399175169.jpg",
+			"name": "THE OBSESSION",
+			"publisher": "Berkley",
+			"rank": 7
+		},
+		{
+			"author": "by Rupi Kaur",
+			"description": "Poetic approaches to surviving adversity and loss.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781449474256.jpg",
+			"name": "MILK AND HONEY",
+			"publisher": "Andrews McMeel",
+			"rank": 8
+		},
+		{
+			"author": "by Corinne Michaels",
+			"description": "A dance brings a second chance at love; or does it?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781942834212.jpg",
+			"name": "SAY I'M YOURS",
+			"publisher": "EverAfter Romance",
+			"rank": 9
+		},
+		{
+			"author": "by Stephen King",
+			"description": "The collective clown phobias of seven teenagers are rekindled in their adult lives by the terrifying title character. Originally published in 1986.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501141232.jpg",
+			"name": "IT",
+			"publisher": "Scribner",
+			"rank": 10
+		},
+		{
+			"author": "by Martha Hall Kelly",
+			"description": "A story of three women\u2019s lives during and after World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101883075.jpg",
+			"name": "LILAC GIRLS",
+			"publisher": "Ballantine",
+			"rank": 11
+		},
+		{
+			"author": "by Linda Lael Miller",
+			"description": "The woman Mace saved a decade ago returns, as does her vengeance-bent attacker.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780373789702.jpg",
+			"name": "FOREVER A HERO",
+			"publisher": "HQN",
+			"rank": 12
+		},
+		{
+			"author": "by Margaret Atwood",
+			"description": "In the Republic of Gilead's dystopian future, men and women perform the services assigned to them. Originally published in 1986.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780547345666.jpg",
+			"name": "THE HANDMAID'S TALE",
+			"publisher": "Houghton Mifflin Harcourt",
+			"rank": 13
+		},
+		{
+			"author": "by W. Bruce Cameron",
+			"description": "A canine narrator undergoes a series of reincarnations.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780765330345.jpg",
+			"name": "A DOG'S PURPOSE",
+			"publisher": "Forge Books",
+			"rank": 14
+		},
+		{
+			"author": "by C. J. Box",
+			"description": "Newly released from prison, Dallas Cates tries to exact revenge on the Wyoming game warden Joe Pickett, who put him there.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698410077.jpg",
+			"name": "VICIOUS CIRCLE",
+			"publisher": "Putnam",
+			"rank": 15
+		}
+	]
+}

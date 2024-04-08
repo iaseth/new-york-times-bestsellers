@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Ben Carson with Candy Carson",
+			"description": "Carson, a retired pediatric neurosurgeon, now a Fox News contributor, offers solutions to problems in health and education based on capitalism, not government.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781595231123.jpg",
+			"name": "ONE NATION",
+			"publisher": "Sentinel",
+			"rank": 1
+		},
+		{
+			"author": "by Todd Burpo with Lynn Vincent",
+			"description": "A 3-year-old\u2019s encounter with Jesus during an appendectomy; the basis of the movie.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780849949203.jpg",
+			"name": "HEAVEN IS FOR REAL",
+			"publisher": "Thomas Nelson",
+			"rank": 2
+		},
+		{
+			"author": "by Thomas Piketty",
+			"description": "A French economist\u2019s analysis of centuries of economic history predicts worsening inequality and proposes solutions.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780674430006.jpg",
+			"name": "CAPITAL IN THE TWENTY-FIRST CENTURY",
+			"publisher": "Belknap/Harvard University",
+			"rank": 3
+		},
+		{
+			"author": "by Michelle Knight with Michelle Burford Weinstein",
+			"description": "The story of a woman kidnapped in Cleveland in 2002, then tortured, who escaped in 2013.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781602862579.jpg",
+			"name": "FINDING ME",
+			"publisher": "Weinstein Books",
+			"rank": 4
+		},
+		{
+			"author": "by Steven D. Levitt and Stephen J. Dubner",
+			"description": "How to solve problems creatively, from the authors of \u201cFreakonomics.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062218360.jpg",
+			"name": "THINK LIKE A FREAK",
+			"publisher": "Morrow/HarperCollins",
+			"rank": 5
+		},
+		{
+			"author": "by Timothy F. Geithner",
+			"description": "The former Treasury secretary explains the choices he and others made during the financial crisis.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780804138604.jpg",
+			"name": "STRESS TEST",
+			"publisher": "Crown",
+			"rank": 6
+		},
+		{
+			"author": "by Glenn Greenwald",
+			"description": "The journalist presents new material about N.S.A. surveillance and describes his work with Edward Snowden.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781627790734.jpg",
+			"name": "NO PLACE TO HIDE",
+			"publisher": "Metropolitan/Holt",
+			"rank": 7
+		},
+		{
+			"author": "by Michael Lewis",
+			"description": "The world of high-frequency computer-driven trading, from the author of \u201cLiar\u2019s Poker.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780393244670.jpg",
+			"name": "FLASH BOYS",
+			"publisher": "Norton",
+			"rank": 8
+		},
+		{
+			"author": "by Mariano Rivera with Wayne Coffey",
+			"description": "A memoir of life and baseball by the great Yankees pitcher.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316400732.jpg",
+			"name": "THE CLOSER",
+			"publisher": "Little, Brown",
+			"rank": 9
+		},
+		{
+			"author": "by Laura Hillenbrand",
+			"description": "An Olympic runner\u2019s story of survival as a prisoner of the Japanese in World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400064168.jpg",
+			"name": "UNBROKEN",
+			"publisher": "Random House",
+			"rank": 10
+		},
+		{
+			"author": "by Glenn Beck, Kevin Balfe and Kyle Olson",
+			"description": "A call for refocused priorities in American public education.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476773896.jpg",
+			"name": "CONFORM",
+			"publisher": "Threshold Editions/Mercury Radio Arts",
+			"rank": 11
+		},
+		{
+			"author": "by Regina Calcaterra",
+			"description": "Five siblings survive childhood abuse, foster care and homelessness on Long Island.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062218841.jpg",
+			"name": "ETCHED IN SAND",
+			"publisher": "Morrow/HarperCollins",
+			"rank": 12
+		},
+		{
+			"author": "by Susan Cain",
+			"description": "Introverts \u2014 one-third of the population \u2014 are undervalued in American society.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307452207.jpg",
+			"name": "QUIET",
+			"publisher": "Crown",
+			"rank": 13
+		},
+		{
+			"author": "by Arianna Huffington",
+			"description": "Personal well-being as the indispensable third measure \u2014 with money and power \u2014 of success.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780804140843.jpg",
+			"name": "THRIVE",
+			"publisher": "Harmony",
+			"rank": 14
+		},
+		{
+			"author": "by Elizabeth Warren",
+			"description": "The Massachusetts senator describes her life, her academic work and her battle for a consumer protection agency.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781627790529.jpg",
+			"name": "A FIGHTING CHANCE",
+			"publisher": "Metropolitan/Holt",
+			"rank": 15
+		}
+	]
+}

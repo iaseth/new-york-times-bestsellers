@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Stephen King",
+			"description": "Children with special talents are abducted and sequestered in an institution where the sinister staff seeks to extract their gifts through harsh methods.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982110567.jpg",
+			"name": "THE INSTITUTE",
+			"publisher": "Scribner",
+			"rank": 1
+		},
+		{
+			"author": "by Margaret Atwood",
+			"description": "In a sequel to \u201cThe Handmaid\u2019s Tale,\u201d old secrets bring three women together as the Republic of Gilead\u2019s theocratic regime shows signs of decay.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385543781.jpg",
+			"name": "THE TESTAMENTS",
+			"publisher": "Nan A. Talese/Doubleday",
+			"rank": 2
+		},
+		{
+			"author": "by Delia Owens",
+			"description": "In a quiet town on the North Carolina coast in 1969, a young woman who survived alone in the marsh becomes a murder suspect.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735219090.jpg",
+			"name": "WHERE THE CRAWDADS SING",
+			"publisher": "Putnam",
+			"rank": 3
+		},
+		{
+			"author": "by Craig Johnson",
+			"description": "The 15th book in the Longmire series. Back from Mexico, Sheriff Longmire must deal with a wolf and a killer on the loose.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525522515.jpg",
+			"name": "LAND OF WOLVES",
+			"publisher": "Viking",
+			"rank": 4
+		},
+		{
+			"author": "by Donna Tartt",
+			"description": "A painting smuggled out of the Metropolitan Museum of Art after a bombing becomes a boy\u2019s prize, guilt and burden.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316248679.jpg",
+			"name": "THE GOLDFINCH",
+			"publisher": "Little, Brown",
+			"rank": 5
+		},
+		{
+			"author": "by Margaret Atwood",
+			"description": "In the Republic of Gilead\u2019s dystopian future, men and women perform the services assigned to them.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780547345666.jpg",
+			"name": "THE HANDMAID'S TALE",
+			"publisher": "Houghton Mifflin Harcourt",
+			"rank": 6
+		},
+		{
+			"author": "by Stephen King",
+			"description": "The fears of seven teenagers are rekindled in their adult lives by the terrifying title character. Originally published in 1986.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501141232.jpg",
+			"name": "IT",
+			"publisher": "Scribner",
+			"rank": 7
+		},
+		{
+			"author": "by David Lagercrantz",
+			"description": "Mikael Blomkvist helps Lisbeth Salander put her past behind her in the latest installment of Stieg Larsson's Millennium series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780451494351.jpg",
+			"name": "THE GIRL WHO LIVED TWICE",
+			"publisher": "Knopf",
+			"rank": 8
+		},
+		{
+			"author": "by James Patterson and Howard Roughan",
+			"description": "The second book in the Instinct series. When an act of terror strikes New York, Dr. Reinhart and Detective Needham go after a sociopath.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316420297.jpg",
+			"name": "KILLER INSTINCT",
+			"publisher": "Little, Brown",
+			"rank": 9
+		},
+		{
+			"author": "by Heather Morris",
+			"description": "A concentration camp detainee tasked with permanently marking fellow prisoners falls in love with one of them.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062797155.jpg",
+			"name": "THE TATTOOIST OF AUSCHWITZ",
+			"publisher": "Harper",
+			"rank": 10
+		},
+		{
+			"author": "by Heather Graham",
+			"description": "The 29th book in the Krewe of Hunters series. Cheyenne Donegal and Andre Broussard overcome their personal misgivings to find a killer in the bayou.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780778308119.jpg",
+			"name": "THE STALKING",
+			"publisher": "MIRA",
+			"rank": 11
+		},
+		{
+			"author": "by J.D. Robb",
+			"description": "The 49th book of the In Death series. Eve Dallas looks into the misdeeds of a wealthy businessman while a vigilante named Lady Justice uses disguises to avenge women who were wronged.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250207180.jpg",
+			"name": "VENDETTA IN DEATH",
+			"publisher": "St. Martin's",
+			"rank": 12
+		},
+		{
+			"author": "by Joe Abercrombie",
+			"description": "The Age of Madness series opens with a war erupting during a time of change.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316341868.jpg",
+			"name": "A LITTLE HATRED",
+			"publisher": "Orbit",
+			"rank": 13
+		},
+		{
+			"author": "by Lisa Wingate",
+			"description": "A South Carolina lawyer learns about the questionable practices of a Tennessee orphanage.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780425284681.jpg",
+			"name": "BEFORE WE WERE YOURS",
+			"publisher": "Ballantine",
+			"rank": 14
+		},
+		{
+			"author": "by Clive Cussler and Jack Du Brul",
+			"description": "The 11th book in the Isaac Bell series. Dirk Pitt finds a document that brings a mystery from 1911 back to life.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735217270.jpg",
+			"name": "THE TITANIC SECRET",
+			"publisher": "Putnam",
+			"rank": 15
+		}
+	]
+}

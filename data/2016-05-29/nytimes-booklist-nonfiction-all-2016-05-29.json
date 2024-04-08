@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Lin-Manuel Miranda and Jeremy McCarter",
+			"description": "The libretto of the Grammy- and Pulitzer Prize-winning musical, annotated by its creator, along with backstage photos, a production history and interviews with the cast.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455567539.jpg",
+			"name": "HAMILTON: THE REVOLUTION",
+			"publisher": "Grand Central/Melcher Media",
+			"rank": 1
+		},
+		{
+			"author": "by Anderson Cooper and Gloria Vanderbilt",
+			"description": "Mother and son discuss their relationship and difficult family history.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062454966.jpg",
+			"name": "THE RAINBOW COMES AND GOES",
+			"publisher": "Harper",
+			"rank": 2
+		},
+		{
+			"author": "by Paul Kalanithi",
+			"description": "A memoir by a physician who received a diagnosis of Stage IV lung cancer at the age of 36.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812988413.jpg",
+			"name": "WHEN BREATH BECOMES AIR",
+			"publisher": "Random House",
+			"rank": 3
+		},
+		{
+			"author": "by Nathaniel Philbrick",
+			"description": "The relationship between George Washington and Benedict Arnold.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525426783.jpg",
+			"name": "VALIANT AMBITION",
+			"publisher": "Viking",
+			"rank": 4
+		},
+		{
+			"author": "by Angela Duckworth",
+			"description": "A psychologist argues that passion and perseverance are the keys to success.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501111129.jpg",
+			"name": "GRIT",
+			"publisher": "Scribner",
+			"rank": 5
+		},
+		{
+			"author": "by Ron Chernow",
+			"description": "A biography of the first Treasury secretary, a major author of the Federalist Papers and an advocate of strong central government. Originally published in 2004 and the basis of the Broadway musical.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780143034759.jpg",
+			"name": "ALEXANDER HAMILTON",
+			"publisher": "Penguin",
+			"rank": 6
+		},
+		{
+			"author": "by Phil Knight",
+			"description": "A memoir by the founder of Nike.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501135934.jpg",
+			"name": "SHOE DOG",
+			"publisher": "Scribner",
+			"rank": 7
+		},
+		{
+			"author": "by Clint Hill with Lisa McCubbin",
+			"description": "A retired Secret Service agent discusses his experience with presidents from Eisenhower to Ford.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476794174.jpg",
+			"name": "FIVE PRESIDENTS",
+			"publisher": "Gallery Books",
+			"rank": 8
+		},
+		{
+			"author": "by Clinton Romesha",
+			"description": "The deadly 13-hour battle for a remote combat outpost in Afghanistan in 2009, by a soldier who received the Medal of Honor for his role.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525955054.jpg",
+			"name": "RED PLATOON",
+			"publisher": "Dutton",
+			"rank": 9
+		},
+		{
+			"author": "by Daniel James Brown",
+			"description": "The University of Washington\u2019s eight-oar crew and their quest for gold at the 1936 Berlin Olympics.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101622742.jpg",
+			"name": "THE BOYS IN THE BOAT",
+			"publisher": "Penguin",
+			"rank": 10
+		},
+		{
+			"author": "by Sean Carroll",
+			"description": "A theoretical physicist discusses how to understand the universe and ourselves through science.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525954828.jpg",
+			"name": "THE BIG PICTURE",
+			"publisher": "Dutton",
+			"rank": 11
+		},
+		{
+			"author": "by Lesley Stahl",
+			"description": "he reporter investigates how \u201cgrandmothering\u201d transforms a woman\u2019s life.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399168154.jpg",
+			"name": "BECOMING GRANDMA",
+			"publisher": "Blue Rider",
+			"rank": 12
+		},
+		{
+			"author": "by David McCullough",
+			"description": "The story of the bicycle mechanics from Ohio who ushered in the age of flight.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476728742.jpg",
+			"name": "THE WRIGHT BROTHERS",
+			"publisher": "Simon & Schuster",
+			"rank": 13
+		},
+		{
+			"author": "by Erik Larson",
+			"description": "The last voyage of the Lusitania, the passenger liner sunk by a German torpedo in 1915; by the author of \u201cThe Devil in the White City.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307408860.jpg",
+			"name": "DEAD WAKE",
+			"publisher": "Crown",
+			"rank": 14
+		},
+		{
+			"author": "by Ta-Nehisi Coates",
+			"description": "A meditation on race in America by The Atlantic's national correspondent; a National Book Award winner.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780679645986.jpg",
+			"name": "BETWEEN THE WORLD AND ME",
+			"publisher": "Spiegel & Grau",
+			"rank": 15
+		}
+	]
+}

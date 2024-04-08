@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Stuart Woods",
+			"description": "In the 29th Stone Barrington novel, the New York lawyer confronts thieves who can bypass high-end security systems.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101615898.jpg",
+			"name": "CARNAL CURIOSITY",
+			"publisher": "Putnam",
+			"rank": 1
+		},
+		{
+			"author": "by Laurelin Paige",
+			"description": "Collects \"Fixed on You,\" \"Found in You\" and \"Forever With You,\" the story of Alayna Wither and Hudson Pierce.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780991379644.jpg",
+			"name": "THE FIXED TRILOGY",
+			"publisher": "Laurelin Paige",
+			"rank": 2
+		},
+		{
+			"author": "by Harlan Coben",
+			"description": "Kat Donovan, an N.Y.P.D. detective, searches for the ex-fianc\u00e9 who left her years before, and for her father\u2019s murderer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698148635.jpg",
+			"name": "MISSING YOU",
+			"publisher": "Dutton",
+			"rank": 3
+		},
+		{
+			"author": "by James Patterson and Marshall Karp",
+			"description": "Detective Zach Jordan and his partner are called when the body of a wealthy woman is discovered on the Central Park carousel; the second book in a new series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316211239.jpg",
+			"name": "NYPD RED 2",
+			"publisher": "Little, Brown",
+			"rank": 4
+		},
+		{
+			"author": "by Mary Higgins Clark",
+			"description": "The producer of a true-crime show must contend with participants with secrets as well as her husband\u2019s murderer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476749105.jpg",
+			"name": "I'VE GOT YOU UNDER MY SKIN",
+			"publisher": "Simon & Schuster",
+			"rank": 5
+		},
+		{
+			"author": "by Nora Roberts",
+			"description": "In County Mayo, a falconer with an unresolved past falls for his sister\u2019s best friend; Book 2 of the Cousins O\u2019Dwyer trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698140271.jpg",
+			"name": "SHADOW SPELL",
+			"publisher": "Berkley",
+			"rank": 6
+		},
+		{
+			"author": "by Lisa Scottoline",
+			"description": "A father hides a terrible secret to protect his son.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250010094.jpg",
+			"name": "KEEP QUIET",
+			"publisher": "St. Martin's",
+			"rank": 7
+		},
+		{
+			"author": "by Christina Baker Kline",
+			"description": "A historical novel about orphans swept off the streets of New York and sent to the Midwest in the 1920s.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062101204.jpg",
+			"name": "ORPHAN TRAIN",
+			"publisher": "Morrow/HarperCollins",
+			"rank": 8
+		},
+		{
+			"author": "by Donna Tartt",
+			"description": "A painting smuggled out of the Metropolitan Museum of Art after a bombing becomes a boy\u2019s prize, guilt and burden.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316248679.jpg",
+			"name": "THE GOLDFINCH",
+			"publisher": "Little, Brown",
+			"rank": 9
+		},
+		{
+			"author": "by Liane Moriarty",
+			"description": "A woman\u2019s life is upended when she discovers a letter from her husband she was not meant to read.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101636237.jpg",
+			"name": "THE HUSBAND'S SECRET",
+			"publisher": "Amy Einhorn/Putnam",
+			"rank": 10
+		},
+		{
+			"author": "by Kristen Ashley",
+			"description": "A fashionable globetrotter and a retired boxer fall into the same orbit; a Magdalene novel.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/A00B00HYIF9FW.jpg",
+			"name": "THE WILL",
+			"publisher": "Kristen Ashley",
+			"rank": 11
+		},
+		{
+			"author": "by Wiley Cash",
+			"description": "An evil pastor dominates this first novel set in Appalachia.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062088147.jpg",
+			"name": "A LAND MORE KIND THAN HOME",
+			"publisher": "Morrow/HarperCollins",
+			"rank": 12
+		},
+		{
+			"author": "by Sue Monk Kidd",
+			"description": "The relationship between a wealthy Charleston girl, Sarah Grimk\u00e9, who will grow up to become a prominent abolitionist, and the slave she is given for her 11th birthday.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780670024780.jpg",
+			"name": "THE INVENTION OF WINGS",
+			"publisher": "Viking",
+			"rank": 13
+		},
+		{
+			"author": "by George R.R. Martin",
+			"description": "In the frozen wastes to the north of Winterfell, sinister and supernatural forces are mustering.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780553897845.jpg",
+			"name": "A GAME OF THRONES",
+			"publisher": "Bantam",
+			"rank": 14
+		},
+		{
+			"author": "by Lee Child",
+			"description": "Jack Reacher is thrown into jail on trumped-up charges and must clear his name.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780440339373.jpg",
+			"name": "NEVER GO BACK",
+			"publisher": "Delacorte",
+			"rank": 15
+		}
+	]
+}

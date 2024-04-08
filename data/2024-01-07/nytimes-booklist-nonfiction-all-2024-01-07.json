@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by David Grann",
+			"description": "The survivors of a shipwrecked British vessel on a secret mission during an imperial war with Spain have different accounts of events.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385534260.jpg",
+			"name": "THE WAGER",
+			"publisher": "Doubleday",
+			"rank": 1
+		},
+		{
+			"author": "by Liz Cheney",
+			"description": "The former congresswoman from Wyoming recounts how she helped lead the Select Committee to Investigate the Jan. 6. Attack on the United States Capitol.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316572064.jpg",
+			"name": "OATH AND HONOR",
+			"publisher": "Little, Brown",
+			"rank": 2
+		},
+		{
+			"author": "by Britney Spears",
+			"description": "The Grammy Award-winning pop star details her personal and professional experiences, including the years she spent under a conservatorship overseen by her father.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781668009048.jpg",
+			"name": "THE WOMAN IN ME",
+			"publisher": "Gallery",
+			"rank": 3
+		},
+		{
+			"author": "by David Grann",
+			"description": "The story of a murder spree in 1920s Oklahoma that targeted Osage Indians, whose lands contained oil.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385534246.jpg",
+			"name": "KILLERS OF THE FLOWER MOON",
+			"publisher": "Doubleday",
+			"rank": 4
+		},
+		{
+			"author": "by Daniel James Brown",
+			"description": "The University of Washington\u2019s eight-oar crew and their quest for gold at the 1936 Berlin Olympics.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101622742.jpg",
+			"name": "THE BOYS IN THE BOAT",
+			"publisher": "Penguin",
+			"rank": 5
+		},
+		{
+			"author": "by Barbra Streisand",
+			"description": "The EGOT winner chronicles her journey in show business and reveals details about some of her personal relationships.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525429524.jpg",
+			"name": "MY NAME IS BARBRA",
+			"publisher": "Viking",
+			"rank": 6
+		},
+		{
+			"author": "by Matthew Perry",
+			"description": "The late actor, known for playing Chandler Bing on \u201cFriends,\u201d shares stories from his childhood and his struggles with sobriety.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250866448.jpg",
+			"name": "FRIENDS, LOVERS, AND THE BIG TERRIBLE THING",
+			"publisher": "Flatiron",
+			"rank": 7
+		},
+		{
+			"author": "by Walter Isaacson",
+			"description": "The author of \u201cThe Code Breaker\u201d traces Musk\u2019s life and summarizes his work on electric vehicles, private space exploration and artificial intelligence.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982181284.jpg",
+			"name": "ELON MUSK",
+			"publisher": "Simon & Schuster",
+			"rank": 8
+		},
+		{
+			"author": "by Rachel Maddow",
+			"description": "The MSNBC host and co-author of \u201cBag Man\u201d details a campaign to overthrow the U.S. government and install authoritarian rule prior to and during our involvement in World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593444511.jpg",
+			"name": "PREQUEL",
+			"publisher": "Crown",
+			"rank": 9
+		},
+		{
+			"author": "by Peter Attia with Bill Gifford",
+			"description": "A look at recent scientific research on aging and longevity.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593236598.jpg",
+			"name": "OUTLIVE",
+			"publisher": "Harmony",
+			"rank": 10
+		},
+		{
+			"author": "by Dave Grohl",
+			"description": "A memoir by the musician known for his work with Foo Fighters and Nirvana.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063076099.jpg",
+			"name": "THE STORYTELLER",
+			"publisher": "Dey Street",
+			"rank": 11
+		},
+		{
+			"author": "by Dolly Parton with Holly George-Warren",
+			"description": "The country music legend shares stories about her favorite outfits she has worn on and off the stage.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984862129.jpg",
+			"name": "BEHIND THE SEAMS",
+			"publisher": "Ten Speed",
+			"rank": 12
+		},
+		{
+			"author": "by Bessel van der Kolk",
+			"description": "How trauma affects the body and mind, and innovative treatments for recovery.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780670785933.jpg",
+			"name": "THE BODY KEEPS THE SCORE",
+			"publisher": "Penguin",
+			"rank": 13
+		},
+		{
+			"author": "by Mark Harmon and Leon Carroll Jr.",
+			"description": "The story of a Japanese American naval intelligence agent, a Japanese spy and events in Hawaii before the start of World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400337019.jpg",
+			"name": "GHOSTS OF HONOLULU",
+			"publisher": "Harper Select",
+			"rank": 14
+		},
+		{
+			"author": "by Kai Bird and Martin J. Sherwin",
+			"description": "A biography of J. Robert Oppenheimer. Winner of the Pulitzer Prize in 2006 and an inspiration for the film \u201cOppenheimer.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780375726262.jpg",
+			"name": "AMERICAN PROMETHEUS",
+			"publisher": "Vintage",
+			"rank": 15
+		}
+	]
+}

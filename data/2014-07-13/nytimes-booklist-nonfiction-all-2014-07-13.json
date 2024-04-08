@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Edward Klein",
+			"description": "A journalist describes animosity behind the alliance between the Clinton and Obama families.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781621573135.jpg",
+			"name": "BLOOD FEUD",
+			"publisher": "Regnery",
+			"rank": 1
+		},
+		{
+			"author": "by Hillary Rodham Clinton",
+			"description": "Clinton\u2019s memoir focuses on her years as secretary of state and her views on America\u2019s role in the world.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476751450.jpg",
+			"name": "HARD CHOICES",
+			"publisher": "Simon & Schuster",
+			"rank": 2
+		},
+		{
+			"author": "by Piper Kerman",
+			"description": "A Brooklyn woman\u2019s prison memoir. The basis for the Netflix series, originally published in 2010.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385530262.jpg",
+			"name": "ORANGE IS THE NEW BLACK",
+			"publisher": "Spiegel & Grau",
+			"rank": 3
+		},
+		{
+			"author": "by Laurie Notaro",
+			"description": "Humorous tales of marriage, family and missteps.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345526311.jpg",
+			"name": "IT LOOKED DIFFERENT ON THE MODEL",
+			"publisher": "Villard",
+			"rank": 4
+		},
+		{
+			"author": "by Daniel James Brown",
+			"description": "The University of Washington\u2019s eight-oar crew and their quest for gold at the 1936 Berlin Olympics.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101622742.jpg",
+			"name": "THE BOYS IN THE BOAT",
+			"publisher": "Viking",
+			"rank": 5
+		},
+		{
+			"author": "by Lisa See",
+			"description": "A multi-generational portrait of a Chinese-American family\u2019s experience in the United States, the title\u2019s \u201cGold Mountain.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307950390.jpg",
+			"name": "ON GOLD MOUNTAIN",
+			"publisher": "RosettaBooks",
+			"rank": 6
+		},
+		{
+			"author": "by Laura Hillenbrand",
+			"description": "An Olympic runner\u2019s story of survival as a prisoner of the Japanese in World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400064168.jpg",
+			"name": "UNBROKEN",
+			"publisher": "Random House",
+			"rank": 7
+		},
+		{
+			"author": "by Todd Burpo with Lynn Vincent",
+			"description": "A 3-year-old\u2019s encounter with Jesus during an appendectomy; the basis of the movie.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780849949203.jpg",
+			"name": "HEAVEN IS FOR REAL",
+			"publisher": "Thomas Nelson",
+			"rank": 8
+		},
+		{
+			"author": "by Courtney Robertson with Deb Baer",
+			"description": "A winner of \"The Bachelor\" shares her reality-TV story.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062326706.jpg",
+			"name": "I DIDN'T COME HERE TO MAKE FRIENDS",
+			"publisher": "It Books/HarperCollins",
+			"rank": 9
+		},
+		{
+			"author": "by Ben Carson with Candy Carson",
+			"description": "Carson, a retired pediatric neurosurgeon, now a Fox News contributor, offers solutions to problems in health and education based on capitalism, not government.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781595231123.jpg",
+			"name": "ONE NATION",
+			"publisher": "Sentinel",
+			"rank": 10
+		},
+		{
+			"author": "by Marcus Luttrell with Patrick Robinson",
+			"description": "The only survivor of a Navy SEALs operation in northern Afghanistan describes the battle and his escape. First published in 2007; the basis for the movie.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316067607.jpg",
+			"name": "LONE SURVIVOR",
+			"publisher": "Little, Brown",
+			"rank": 11
+		},
+		{
+			"author": "by Steven D. Levitt and Stephen J. Dubner",
+			"description": "How to solve problems creatively, from the authors of \u201cFreakonomics.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062218360.jpg",
+			"name": "THINK LIKE A FREAK",
+			"publisher": "Morrow/HarperCollins",
+			"rank": 12
+		},
+		{
+			"author": "by Thomas Piketty",
+			"description": "A French economist\u2019s analysis of centuries of economic history predicts worsening inequality and proposes solutions.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780674430006.jpg",
+			"name": "CAPITAL IN THE TWENTY-FIRST CENTURY",
+			"publisher": "Belknap/Harvard University",
+			"rank": 13
+		},
+		{
+			"author": "by Malcolm Gladwell",
+			"description": "Why some people succeed; from the author of \"Blink\" and \"The Tipping Point.\"",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316017930.jpg",
+			"name": "OUTLIERS",
+			"publisher": "Little, Brown",
+			"rank": 14
+		},
+		{
+			"author": "by Maya Angelou",
+			"description": "A memoir of childhood and adolescence by the poet, who died in May.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781588369253.jpg",
+			"name": "I KNOW WHY THE CAGED BIRD SINGS",
+			"publisher": "Random House",
+			"rank": 15
+		}
+	]
+}

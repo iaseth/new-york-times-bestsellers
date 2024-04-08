@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Colleen Hoover",
+			"description": "A battered wife raised in a violent home attempts to halt the cycle of abuse.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501110375.jpg",
+			"name": "IT ENDS WITH US",
+			"publisher": "Atria",
+			"rank": 1
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "Lowen Ashleigh is hired by the husband of an injured writer to complete her popular series and uncovers a horrifying truth.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781791392796.jpg",
+			"name": "VERITY",
+			"publisher": "Grand Central",
+			"rank": 2
+		},
+		{
+			"author": "by Delia Owens",
+			"description": "In a quiet town on the North Carolina coast in 1969, a young woman who survived alone in the marsh becomes a murder suspect.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735219090.jpg",
+			"name": "WHERE THE CRAWDADS SING",
+			"publisher": "Putnam",
+			"rank": 3
+		},
+		{
+			"author": "by Ali Hazelwood",
+			"description": "Heartbeats quicken and neurons fire when a pair of antagonistic scientists work together on a project.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593336847.jpg",
+			"name": "LOVE ON THE BRAIN",
+			"publisher": "Berkley",
+			"rank": 4
+		},
+		{
+			"author": "by Patricia Briggs",
+			"description": "The 13th book in the Mercy Thompson series. The disappearance of the vampire Wulfe and others might indicate the return of the Harvester.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780440001614.jpg",
+			"name": "SOUL TAKEN",
+			"publisher": "Ace",
+			"rank": 5
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "Tate Collins and Miles Archer,\u00a0an airline pilot, think they can handle a no strings attached arrangement. But they can't.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476753195.jpg",
+			"name": "UGLY LOVE",
+			"publisher": "Atria",
+			"rank": 6
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "Is Ben using his relationship with Fallon as fodder for his novel?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501110351.jpg",
+			"name": "NOVEMBER 9",
+			"publisher": "Atria",
+			"rank": 7
+		},
+		{
+			"author": "by Taylor Jenkins Reid",
+			"description": "A movie icon recounts stories of her loves and career to a struggling magazine writer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501161933.jpg",
+			"name": "THE SEVEN HUSBANDS OF EVELYN HUGO",
+			"publisher": "Washington Square/Atria",
+			"rank": 8
+		},
+		{
+			"author": "by Karin Slaughter",
+			"description": "U.S. Marshal Andrea Oliver goes to Longbill Beach to protect a judge and winds up investigating a cold case from 1982.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062858115.jpg",
+			"name": "GIRL, FORGOTTEN",
+			"publisher": "Morrow",
+			"rank": 9
+		},
+		{
+			"author": "by William Kent Krueger",
+			"description": "The 19th book in the Cork O\u2019Connor mystery series. Cork uses his skills as a hunter to track mercenaries and confronts his own self-doubt.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982128715.jpg",
+			"name": "FOX CREEK",
+			"publisher": "Atria",
+			"rank": 10
+		},
+		{
+			"author": "by George R.R. Martin",
+			"description": "Set 300 years before the events of \u201cA Game of Thrones,\u201d this is the first volume of the two-part history of the Targaryens in Westeros.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524796280.jpg",
+			"name": "FIRE AND BLOOD",
+			"publisher": "Bantam",
+			"rank": 11
+		},
+		{
+			"author": "by Ilona Andrews",
+			"description": "The sixth book in the Hidden Legacy series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062878403.jpg",
+			"name": "RUBY FEVER",
+			"publisher": "Avon",
+			"rank": 12
+		},
+		{
+			"author": "by Ashley Flowers with Alex Kiester",
+			"description": "A journalist who returns to her hometown vows to find a missing girl and solve a 20-year-old cold case.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593496473.jpg",
+			"name": "ALL GOOD PEOPLE HERE",
+			"publisher": "Bantam",
+			"rank": 13
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "When his ex-girlfriend turns up dead in his office building, an entry-level investment analyst delves into the halls of economic power.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538719848.jpg",
+			"name": "THE 6:20 MAN",
+			"publisher": "Grand Central",
+			"rank": 14
+		},
+		{
+			"author": "by R.F. Kuang",
+			"description": "In 1828, Robin Swift studies at Oxford University\u2019s Royal Institute of Translation and faces a choice when Britain pursues a war with China.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063021426.jpg",
+			"name": "BABEL",
+			"publisher": "Harper Voyager",
+			"rank": 15
+		}
+	]
+}

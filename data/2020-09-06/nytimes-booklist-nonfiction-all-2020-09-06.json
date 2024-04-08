@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Glennon Doyle",
+			"description": "The activist and public speaker describes her journey of listening to her inner voice.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984801258.jpg",
+			"name": "UNTAMED",
+			"publisher": "Dial",
+			"rank": 1
+		},
+		{
+			"author": "by Sean Hannity",
+			"description": "The Fox News host offers his assessment on what is at stake in the 2020 election.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982149970.jpg",
+			"name": "LIVE FREE OR DIE",
+			"publisher": "Threshold Editions",
+			"rank": 2
+		},
+		{
+			"author": "by Isabel Wilkerson",
+			"description": "The Pulitzer Prize-winning journalist examines aspects of caste systems across civilizations and reveals a rigid hierarchy in America today.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593230251.jpg",
+			"name": "CASTE",
+			"publisher": "Random House",
+			"rank": 3
+		},
+		{
+			"author": "by Bryan Stevenson",
+			"description": "A law professor and MacArthur grant recipient\u2019s memoir of his decades of work to free innocent people condemned to death.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812994520.jpg",
+			"name": "JUST MERCY",
+			"publisher": "Spiegel & Grau",
+			"rank": 4
+		},
+		{
+			"author": "by Mary L. Trump",
+			"description": "The clinical psychologist gives her assessment of events and patterns inside her family and how they shaped President Trump.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982141462.jpg",
+			"name": "TOO MUCH AND NEVER ENOUGH",
+			"publisher": "Simon & Schuster",
+			"rank": 5
+		},
+		{
+			"author": "by Ibram X. Kendi",
+			"description": "A primer for creating a more just and equitable society through identifying and opposing racism.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525509288.jpg",
+			"name": "HOW TO BE AN ANTIRACIST",
+			"publisher": "One World",
+			"rank": 6
+		},
+		{
+			"author": "by Robin DiAngelo",
+			"description": "Historical and cultural analyses on what causes defensive moves by white people and how this inhibits cross-racial dialogue.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780807047415.jpg",
+			"name": "WHITE FRAGILITY",
+			"publisher": "Beacon Press",
+			"rank": 7
+		},
+		{
+			"author": "by Lauren Akins with Mark Dagostino",
+			"description": "The wife of the country music singer Thomas Rhett describes her mission work and life in the spotlight.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593129043.jpg",
+			"name": "LIVE IN LOVE",
+			"publisher": "Ballantine",
+			"rank": 8
+		},
+		{
+			"author": "by Michelle Obama",
+			"description": "The former first lady describes her journey from the South Side of Chicago to the White House, and how she balanced work, family and her husband\u2019s political ascent.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524763138.jpg",
+			"name": "BECOMING",
+			"publisher": "Crown",
+			"rank": 9
+		},
+		{
+			"author": "by Alex Trebek",
+			"description": "Who is the Canadian-American game show host whose pronunciation of the word \u201cgenre\u201d has been shared widely on social media?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982157999.jpg",
+			"name": "THE ANSWER IS ...",
+			"publisher": "Simon & Schuster",
+			"rank": 10
+		},
+		{
+			"author": "by Omid Scobie and Carolyn Durand",
+			"description": "The Duke and Duchess of Sussex\u2019s journey from courtship to their decision to step away from their royal lives.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063046108.jpg",
+			"name": "FINDING FREEDOM",
+			"publisher": "Dey St.",
+			"rank": 11
+		},
+		{
+			"author": "by Tara Westover",
+			"description": "The daughter of survivalists, who is kept out of school, educates herself enough to leave home for university.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399590504.jpg",
+			"name": "EDUCATED",
+			"publisher": "Random House",
+			"rank": 12
+		},
+		{
+			"author": "by Isabel Wilkerson",
+			"description": "An account of the Great Migration of 1915-70, in which nearly six million African-Americans abandoned the South.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780679763888.jpg",
+			"name": "THE WARMTH OF OTHER SUNS",
+			"publisher": "Vintage",
+			"rank": 13
+		},
+		{
+			"author": "by Stuart Stevens",
+			"description": "The former political campaign strategist evaluates the changes within the Republican Party in the last half-century.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525658450.jpg",
+			"name": "IT WAS ALL A LIE",
+			"publisher": "Knopf",
+			"rank": 14
+		},
+		{
+			"author": "by Ijeoma Oluo",
+			"description": "A look at the contemporary racial landscape of the United States.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781580056786.jpg",
+			"name": "SO YOU WANT TO TALK ABOUT RACE",
+			"publisher": "Seal",
+			"rank": 15
+		}
+	]
+}

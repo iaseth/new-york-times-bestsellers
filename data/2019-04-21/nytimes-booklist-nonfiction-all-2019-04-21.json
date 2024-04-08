@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Michelle Obama",
+			"description": "The former first lady describes her journey from the South Side of Chicago to the White House, and how she balanced work, family and her husband\u2019s political ascent.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524763138.jpg",
+			"name": "BECOMING",
+			"publisher": "Crown",
+			"rank": 1
+		},
+		{
+			"author": "by Tara Westover",
+			"description": "The daughter of survivalists, who is kept out of school, educates herself enough to leave home for university.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399590504.jpg",
+			"name": "EDUCATED",
+			"publisher": "Random House",
+			"rank": 2
+		},
+		{
+			"author": "by Susan Page",
+			"description": "A biography of the former first lady Barbara Bush, based on interviews and her private diaries.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538713648.jpg",
+			"name": "THE MATRIARCH",
+			"publisher": "Twelve",
+			"rank": 3
+		},
+		{
+			"author": "by Ben Shapiro",
+			"description": "The conservative political commentator reflects upon what he considers most impactful to Western civilization.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062857903.jpg",
+			"name": "THE RIGHT SIDE OF HISTORY",
+			"publisher": "Broadside",
+			"rank": 4
+		},
+		{
+			"author": "by Ramin Setoodeh",
+			"description": "A behind-the-scenes look at the daytime talk show \u201cThe View.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250112101.jpg",
+			"name": "LADIES WHO PUNCH",
+			"publisher": "Thomas Dunne/St. Martin\u2019s",
+			"rank": 5
+		},
+		{
+			"author": "by Lori Gottlieb",
+			"description": "A psychotherapist gains unexpected insights when she becomes another therapist\u2019s patient.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781328662057.jpg",
+			"name": "MAYBE YOU SHOULD TALK TO SOMEONE",
+			"publisher": "Houghton Mifflin Harcourt",
+			"rank": 6
+		},
+		{
+			"author": "by Rick Reilly",
+			"description": "A sportswriter handicaps the current president\u2019s character, based on how he plays golf.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316528085.jpg",
+			"name": "COMMANDER IN CHEAT",
+			"publisher": "Hachette",
+			"rank": 7
+		},
+		{
+			"author": "by John Carreyrou",
+			"description": "The rise and fall of Theranos, the biotech startup that failed to deliver on its promise to make blood testing more efficient.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524731663.jpg",
+			"name": "BAD BLOOD",
+			"publisher": "Knopf",
+			"rank": 8
+		},
+		{
+			"author": "by Julie Yip-Williams",
+			"description": "After receiving a terminal cancer diagnosis, a lawyer and mother of two chronicles her life.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525511359.jpg",
+			"name": "THE UNWINDING OF THE MIRACLE",
+			"publisher": "Random House",
+			"rank": 9
+		},
+		{
+			"author": "by Patrick Radden Keefe",
+			"description": "A look at the conflict in Northern Ireland known as the Troubles.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385521314.jpg",
+			"name": "SAY NOTHING",
+			"publisher": "Doubleday",
+			"rank": 10
+		},
+		{
+			"author": "by Preet Bharara",
+			"description": "The former U.S. Attorney for the Southern District of New York describes some of his career highlights and gives insights into our legal system.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525521129.jpg",
+			"name": "DOING JUSTICE",
+			"publisher": "Knopf",
+			"rank": 11
+		},
+		{
+			"author": "by Trevor Noah",
+			"description": "A memoir about growing up biracial in apartheid South Africa by the host of \u201cThe Daily Show.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399588181.jpg",
+			"name": "BORN A CRIME",
+			"publisher": "Spiegel & Grau",
+			"rank": 12
+		},
+		{
+			"author": "by Douglas Brinkley",
+			"description": "The development of NASA and the space race against the Soviet Union during the Cold War.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062655066.jpg",
+			"name": "AMERICAN MOONSHOT",
+			"publisher": "Harper",
+			"rank": 13
+		},
+		{
+			"author": "by Pete Buttigieg",
+			"description": "A memoir by the current mayor of South Bend, Ind., and the first openly gay Democratic candidate to run for president of the United States.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781631494369.jpg",
+			"name": "SHORTEST WAY HOME",
+			"publisher": "Liveright",
+			"rank": 14
+		},
+		{
+			"author": "by Ruth Reichl",
+			"description": "A memoir by the former restaurant critic of The New York Times and editor in chief of Gourmet.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400069996.jpg",
+			"name": "SAVE ME THE PLUMS",
+			"publisher": "Random House",
+			"rank": 15
+		}
+	]
+}

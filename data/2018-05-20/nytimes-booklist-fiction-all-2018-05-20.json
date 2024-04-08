@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by James Patterson and Maxine Paetro",
+			"description": "The latest installment in the Women\u2019s Murder Club series. Detective Lindsay Boxer searches for a killer in San Francisco.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316412261.jpg",
+			"name": "THE 17TH SUSPECT",
+			"publisher": "Little, Brown",
+			"rank": 1
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "Amos Decker, known as the Memory Man, puts his talents toward solving a string of murders in a Rust Belt town.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538761397.jpg",
+			"name": "THE FALLEN",
+			"publisher": "Grand Central",
+			"rank": 2
+		},
+		{
+			"author": "by John Sandford",
+			"description": "The 28th book in the Prey series. A federal marshal looks into the actions of a member of the Senate Intelligence Committee.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735217362.jpg",
+			"name": "TWISTED PREY",
+			"publisher": "Putnam",
+			"rank": 3
+		},
+		{
+			"author": "by Lee Child",
+			"description": "Jack Reacher tracks down the owner of a pawned West Point class ring and stumbles upon a large criminal enterprise.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399593499.jpg",
+			"name": "THE MIDNIGHT LINE",
+			"publisher": "Delacorte",
+			"rank": 4
+		},
+		{
+			"author": "by Mary Balogh",
+			"description": "The fourth book in the Westcott Novel series. The former Countess of Riverdale runs away with the Marquess of Dorchester.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399586095.jpg",
+			"name": "SOMEONE TO CARE",
+			"publisher": "Berkley",
+			"rank": 5
+		},
+		{
+			"author": "by Faith Hunter",
+			"description": "The 12th book in the Jane Yellowrock series. An enforcer must protect New Orleans when a blood challenge between vampires is issued.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101991435.jpg",
+			"name": "DARK QUEEN",
+			"publisher": "Ace",
+			"rank": 6
+		},
+		{
+			"author": "by Aimee Molloy",
+			"description": "A missing baby unnerves a group of new mothers who meet in Prospect Park twice a week.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062696816.jpg",
+			"name": "THE PERFECT MOTHER",
+			"publisher": "Harper",
+			"rank": 7
+		},
+		{
+			"author": "by Kristin Hannah",
+			"description": "A former prisoner of war returns from Vietnam and moves his family to Alaska, where they face tough conditions.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250165619.jpg",
+			"name": "THE GREAT ALONE",
+			"publisher": "St. Martin's",
+			"rank": 8
+		},
+		{
+			"author": "by Celeste Ng",
+			"description": "An artist upends a quiet town outside Cleveland.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735224308.jpg",
+			"name": "LITTLE FIRES EVERYWHERE",
+			"publisher": "Penguin Press",
+			"rank": 9
+		},
+		{
+			"author": "by Ace Atkins",
+			"description": "New clues send a private investigator on a hunt for art stolen from a Boston museum over two decades ago.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698413078.jpg",
+			"name": "ROBERT B. PARKER'S OLD BLACK MAGIC",
+			"publisher": "Putnam",
+			"rank": 10
+		},
+		{
+			"author": "by Ernest Cline",
+			"description": "It\u2019s 2044, life on a resource-depleted Earth is grim, and the key to a vast fortune is hidden in a virtual-reality world.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307887443.jpg",
+			"name": "READY PLAYER ONE",
+			"publisher": "Broadway",
+			"rank": 11
+		},
+		{
+			"author": "by Lisa Wingate",
+			"description": "A South Carolina lawyer learns about the questionable practices of a Tennessee orphanage.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780425284681.jpg",
+			"name": "BEFORE WE WERE YOURS",
+			"publisher": "Ballantine",
+			"rank": 12
+		},
+		{
+			"author": "by John Grisham",
+			"description": "A search for stolen rare manuscripts leads to a Florida island.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385543057.jpg",
+			"name": "CAMINO ISLAND",
+			"publisher": "Doubleday",
+			"rank": 13
+		},
+		{
+			"author": "by Lee Child",
+			"description": "In the corn country of Nebraska, Jack Reacher cannot let go of a decades-old case of a missing child.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780440246299.jpg",
+			"name": "WORTH DYING FOR",
+			"publisher": "Delacorte",
+			"rank": 14
+		},
+		{
+			"author": "by Lisa Jackson and Nancy Bush",
+			"description": "A couple reunites uneasily five years after a gunman opened fire on their wedding party.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781420136135.jpg",
+			"name": "ONE LAST BREATH",
+			"publisher": "Zebra",
+			"rank": 15
+		}
+	]
+}

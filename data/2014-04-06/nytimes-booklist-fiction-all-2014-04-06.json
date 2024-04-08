@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Harlan Coben",
+			"description": "Kat Donovan, an N.Y.P.D. detective, searches for the ex-fianc\u00e9 who left her years before; her father\u2019s murderer; and the reason the users of an online dating site are disappearing.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698148635.jpg",
+			"name": "MISSING YOU",
+			"publisher": "Dutton",
+			"rank": 1
+		},
+		{
+			"author": "by Laurelin Paige",
+			"description": "Collects \"Fixed on You,\" \"Found in You\" and \"Forever With You,\" the story of Alayna Wither and Hudson Pierce.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780991379644.jpg",
+			"name": "THE FIXED TRILOGY",
+			"publisher": "Laurelin Paige",
+			"rank": 2
+		},
+		{
+			"author": "by Donna Tartt",
+			"description": "A painting smuggled out of the Metropolitan Museum of Art after a bombing becomes a boy\u2019s prize, guilt and burden.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316248679.jpg",
+			"name": "THE GOLDFINCH",
+			"publisher": "Little, Brown",
+			"rank": 3
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "Sydney, a college student, is fascinated by her mysterious next-door neighbor, Ridge.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476753171.jpg",
+			"name": "MAYBE SOMEDAY",
+			"publisher": "Atria",
+			"rank": 4
+		},
+		{
+			"author": "by Liane Moriarty",
+			"description": "A woman\u2019s life is upended when she discovers a letter from her husband she was not meant to read.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101636237.jpg",
+			"name": "THE HUSBAND'S SECRET",
+			"publisher": "Amy Einhorn/Putnam",
+			"rank": 5
+		},
+		{
+			"author": "by Jess Walter",
+			"description": "Ruins both emotional and architectural, in Italy, Hollywood and elsewhere, figure in this sweeping novel.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780061928123.jpg",
+			"name": "BEAUTIFUL RUINS",
+			"publisher": "Harper Perennial",
+			"rank": 6
+		},
+		{
+			"author": "by Sue Monk Kidd",
+			"description": "The relationship between a wealthy Charleston girl, Sarah Grimk\u00e9, who will grow up to become a prominent abolitionist, and the slave she is given for her 11th birthday.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780670024780.jpg",
+			"name": "THE INVENTION OF WINGS",
+			"publisher": "Viking",
+			"rank": 7
+		},
+		{
+			"author": "by Christina Baker Kline",
+			"description": "A historical novel about orphans swept off the streets of New York and sent to the Midwest in the 1920s.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062101204.jpg",
+			"name": "ORPHAN TRAIN",
+			"publisher": "Morrow/HarperCollins",
+			"rank": 8
+		},
+		{
+			"author": "by Danielle Steel",
+			"description": "Two C.E.O.s \u2014 one a man, the other a woman \u2014 face very different challenges.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345530936.jpg",
+			"name": "POWER PLAY",
+			"publisher": "Delacorte",
+			"rank": 9
+		},
+		{
+			"author": "by Terry Pratchett",
+			"description": "In this Discworld fantasy set in Ankh-Morpork, Moist van Lipwig is put in charge of a powerful new machine.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385538299.jpg",
+			"name": "RAISING STEAM",
+			"publisher": "Doubleday",
+			"rank": 10
+		},
+		{
+			"author": "by John Grisham",
+			"description": "A sequel, about race and inheritance, to \u201cA Time to Kill.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385537926.jpg",
+			"name": "SYCAMORE ROW",
+			"publisher": "Doubleday",
+			"rank": 11
+		},
+		{
+			"author": "by Jeffrey Archer",
+			"description": "The Clifton Chronicles reach the 1960s in the fourth volume of the series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250034472.jpg",
+			"name": "BE CAREFUL WHAT YOU WISH FOR",
+			"publisher": "St. Martin's",
+			"rank": 12
+		},
+		{
+			"author": "by Olen Steinhauer",
+			"description": "The murder of an American diplomat in Hungary has repercussions for the intelligence community in Egypt.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250036131.jpg",
+			"name": "THE CAIRO AFFAIR",
+			"publisher": "Minotaur",
+			"rank": 13
+		},
+		{
+			"author": "by Jean Hanff Korelitz",
+			"description": "A therapist who has written a book about how women fool themselves fails to heed her own advice.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455599509.jpg",
+			"name": "YOU SHOULD HAVE KNOWN",
+			"publisher": "Grand Central",
+			"rank": 14
+		},
+		{
+			"author": "by Brian McGilloway",
+			"description": "A police officer in Northern Ireland, investigating the case of a missing teenager, discovers a little girl wandering in the woods, her hands covered in blood.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062336583.jpg",
+			"name": "LITTLE GIRL LOST",
+			"publisher": "Witness Impulse",
+			"rank": 15
+		}
+	]
+}

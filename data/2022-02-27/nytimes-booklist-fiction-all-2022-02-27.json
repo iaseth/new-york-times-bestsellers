@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by J.D. Robb",
+			"description": "The 54th book of the In Death series. Eve Dallas investigates a homicide and the disappearance of other women who resemble that victim.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250278210.jpg",
+			"name": "ABANDONED IN DEATH",
+			"publisher": "St. Martin's",
+			"rank": 1
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "A battered wife raised in a violent home attempts to halt the cycle of abuse.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501110375.jpg",
+			"name": "IT ENDS WITH US",
+			"publisher": "Atria",
+			"rank": 2
+		},
+		{
+			"author": "by Jonathan Kellerman",
+			"description": "The 37th book in the Alex Delaware series. Delaware and Sturgis investigate a double homicide.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525618584.jpg",
+			"name": "CITY OF THE DEAD",
+			"publisher": "Ballantine",
+			"rank": 3
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "Lowen Ashleigh is hired by the husband of an injured writer to complete her popular series and uncovers a horrifying truth.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781791392796.jpg",
+			"name": "VERITY",
+			"publisher": "Grand Central",
+			"rank": 4
+		},
+		{
+			"author": "by Taylor Jenkins Reid",
+			"description": "A movie icon recounts stories of her loves and career to a struggling magazine writer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501161933.jpg",
+			"name": "THE SEVEN HUSBANDS OF EVELYN HUGO",
+			"publisher": "Washington Square/Atria",
+			"rank": 5
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "Tate Collins and Miles Archer,\u00a0an airline pilot, think they can handle a no strings attached arrangement. But they can't.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476753195.jpg",
+			"name": "UGLY LOVE",
+			"publisher": "Atria",
+			"rank": 6
+		},
+		{
+			"author": "by Ali Hazelwood",
+			"description": "A young professor agrees to pretend to be a third-year Ph.D. candidate\u2019s boyfriend.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593336823.jpg",
+			"name": "THE LOVE HYPOTHESIS",
+			"publisher": "Berkley",
+			"rank": 7
+		},
+		{
+			"author": "by James Patterson and Howard Roughan",
+			"description": "An N.Y.P.D. detective, a hedge fund chief executive and a psychology professor are wrapped up in the disappearance of a college student.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538703533.jpg",
+			"name": "STEAL",
+			"publisher": "Grand Central",
+			"rank": 8
+		},
+		{
+			"author": "by Matt Haig",
+			"description": "Nora Seed finds a library beyond the edge of the universe that contains books with multiple possibilities of the lives one could have lived.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525559474.jpg",
+			"name": "THE MIDNIGHT LIBRARY",
+			"publisher": "Viking",
+			"rank": 9
+		},
+		{
+			"author": "by Nita Prose",
+			"description": "When a wealthy man is found dead in his room, a maid at the Regency Grand Hotel becomes a lead suspect.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593356159.jpg",
+			"name": "THE MAID",
+			"publisher": "Ballantine",
+			"rank": 10
+		},
+		{
+			"author": "by Amor Towles",
+			"description": "Two friends who escaped from a juvenile work farm take Emmett Watson on an unexpected journey to New York City in 1954.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735222359.jpg",
+			"name": "THE LINCOLN HIGHWAY",
+			"publisher": "Viking",
+			"rank": 11
+		},
+		{
+			"author": "by Gregg Hurwitz",
+			"description": "The seventh book in the Orphan X series. Evan Smoak must get inside the fortress of a cartel leader.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250252319.jpg",
+			"name": "DARK HORSE",
+			"publisher": "Minotaur",
+			"rank": 12
+		},
+		{
+			"author": "by Elena Armas",
+			"description": "Catalina\u2019s insufferable colleague Aaron agrees to be her fake date to her sister\u2019s wedding.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781668002520.jpg",
+			"name": "THE SPANISH LOVE DECEPTION",
+			"publisher": "Atria",
+			"rank": 13
+		},
+		{
+			"author": "by Laura Dave",
+			"description": "Hannah Hall discovers truths about her missing husband and bonds with his daughter from a previous relationship.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501171345.jpg",
+			"name": "THE LAST THING HE TOLD ME",
+			"publisher": "Simon & Schuster",
+			"rank": 14
+		},
+		{
+			"author": "by Emily Henry",
+			"description": "Opposites Poppy and Alex meet to vacation together one more time in hopes of saving their relationship.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984806758.jpg",
+			"name": "PEOPLE WE MEET ON VACATION",
+			"publisher": "Berkley",
+			"rank": 15
+		}
+	]
+}

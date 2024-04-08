@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Delia Owens",
+			"description": "In a quiet town on the North Carolina coast in 1969, a young woman who survived alone in the marsh becomes a murder suspect.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735219090.jpg",
+			"name": "WHERE THE CRAWDADS SING",
+			"publisher": "Putnam",
+			"rank": 1
+		},
+		{
+			"author": "by Danielle Steel",
+			"description": "Shortly after Saint Ambrose Prep goes co-ed, a student is attacked and the community falls apart.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399179549.jpg",
+			"name": "MORAL COMPASS",
+			"publisher": "Delacorte",
+			"rank": 2
+		},
+		{
+			"author": "by Ann Napolitano",
+			"description": "A 12-year-old boy tries to start over after becoming the sole survivor of a plane crash in which he lost his immediate family.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984854780.jpg",
+			"name": "DEAR EDWARD",
+			"publisher": "Dial",
+			"rank": 3
+		},
+		{
+			"author": "by Andrzej Sapkowski",
+			"description": "Linked stories follow the exploits of Geralt of Rivia, a monster-slaying mercenary.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316438964.jpg",
+			"name": "THE LAST WISH",
+			"publisher": "Orbit",
+			"rank": 4
+		},
+		{
+			"author": "by Stuart Woods",
+			"description": "The 52nd book in the Stone Barrington series. Stone is asked to expose a double agent in the State Department.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593083215.jpg",
+			"name": "TREASON",
+			"publisher": "Putnam",
+			"rank": 5
+		},
+		{
+			"author": "by Jayne Ann Krentz",
+			"description": "A killer goes after a pair of Seattle investigators who witnessed a murder 15 years ago in the secretive town of Fogg Lake.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984806451.jpg",
+			"name": "THE VANISHING",
+			"publisher": "Berkley",
+			"rank": 6
+		},
+		{
+			"author": "by John Grisham",
+			"description": "Cullen Post, a lawyer and Episcopal minister, antagonizes some ruthless killers when he takes on a wrongful conviction case.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385544184.jpg",
+			"name": "THE GUARDIANS",
+			"publisher": "Doubleday",
+			"rank": 7
+		},
+		{
+			"author": "by Brad Taylor",
+			"description": "The 14th book in the Pike Logan series. Pike has a hunch Taskforce is being targeted.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062886040.jpg",
+			"name": "HUNTER KILLER",
+			"publisher": "Morrow",
+			"rank": 8
+		},
+		{
+			"author": "by Kiley Reid",
+			"description": "Tumult ensues when Alix Chamberlain\u2019s babysitter is mistakenly accused of kidnapping her charge.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525541905.jpg",
+			"name": "SUCH A FUN AGE",
+			"publisher": "Putnam",
+			"rank": 9
+		},
+		{
+			"author": "by Liz Moore",
+			"description": "Mickey risks her job with the Philadelphia police force by going after a murderer and searching for her missing sister.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525540670.jpg",
+			"name": "LONG BRIGHT RIVER",
+			"publisher": "Riverhead",
+			"rank": 10
+		},
+		{
+			"author": "by Alex Michaelides",
+			"description": "Theo Faber looks into the mystery of a famous painter who stops speaking after shooting her husband.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250301697.jpg",
+			"name": "THE SILENT PATIENT",
+			"publisher": "Celadon",
+			"rank": 11
+		},
+		{
+			"author": "by Ann Patchett",
+			"description": "A sibling relationship is impacted when the family goes from poverty to wealth and back again over the course of many decades.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062963673.jpg",
+			"name": "THE DUTCH HOUSE",
+			"publisher": "Harper",
+			"rank": 12
+		},
+		{
+			"author": "by Jojo Moyes",
+			"description": "In Depression-era Kentucky, five women refuse to be cowed by men or convention as they deliver books.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399562501.jpg",
+			"name": "THE GIVER OF STARS",
+			"publisher": "Pamela Dorman/Viking",
+			"rank": 13
+		},
+		{
+			"author": "by Robyn Carr",
+			"description": "The fifth book in the Sullivan's Crossing series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781488052293.jpg",
+			"name": "THE COUNTRY GUESTHOUSE",
+			"publisher": "Mira",
+			"rank": 14
+		},
+		{
+			"author": "by Tarryn Fisher",
+			"description": "A woman discovers something disturbing about her polygamist husband.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781525809781.jpg",
+			"name": "THE WIVES",
+			"publisher": "Graydon House",
+			"rank": 15
+		}
+	]
+}

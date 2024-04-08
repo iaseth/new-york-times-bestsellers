@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Todd Burpo with Lynn Vincent",
+			"description": "A father recounts his 3-year-old son\u2019s encounter with Jesus during an appendectomy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780849949203.jpg",
+			"name": "HEAVEN IS FOR REAL",
+			"publisher": "Thomas Nelson",
+			"rank": 1
+		},
+		{
+			"author": "by Michael Lewis",
+			"description": "The world of high-frequency computer-driven trading, from the author of \u201cLiar\u2019s Poker.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780393244670.jpg",
+			"name": "FLASH BOYS",
+			"publisher": "Norton",
+			"rank": 2
+		},
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "The host of \"The O'Reilly Factor\" recounts the events leading up to Jesus' execution.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780805098549.jpg",
+			"name": "KILLING JESUS",
+			"publisher": "Holt",
+			"rank": 3
+		},
+		{
+			"author": "by J. B. West with Mary Lynn Kotz",
+			"description": "Reminiscences by a former White House major-domo. First published in 1974.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781480449794.jpg",
+			"name": "UPSTAIRS AT THE WHITE HOUSE",
+			"publisher": "Open Road",
+			"rank": 4
+		},
+		{
+			"author": "by Dan Harris",
+			"description": "A co-anchor of \"Nightline\" reports on the science and spiritual dimensions of meditation and how it has improved his life.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062265425.jpg",
+			"name": "10% HAPPIER",
+			"publisher": "It Books",
+			"rank": 5
+		},
+		{
+			"author": "by Matt Taibbi",
+			"description": "A journalist contends that economic inequality has created separate \u00a0systems of justice for the rich and poor.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780679645467.jpg",
+			"name": "THE DIVIDE",
+			"publisher": "Spiegel & Grau",
+			"rank": 6
+		},
+		{
+			"author": "by Arianna Huffington",
+			"description": "Personal well-being as the indispensable third measure \u2014 with money and power \u2014 of success.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780804140843.jpg",
+			"name": "THRIVE",
+			"publisher": "Harmony",
+			"rank": 7
+		},
+		{
+			"author": "by Katty Kay and Claire Shipman",
+			"description": "Two journalists interview women in positions of leadership, examine research about confidence and discuss how women can achieve it.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062230645.jpg",
+			"name": "CONFIDENCE CODE",
+			"publisher": "Harper Business/HarperCollins",
+			"rank": 8
+		},
+		{
+			"author": "by Steven D. Levitt and Stephen J. Dubner",
+			"description": "How to apply economic theory to almost everything.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780061234002.jpg",
+			"name": "FREAKONOMICS",
+			"publisher": "HarperCollins",
+			"rank": 9
+		},
+		{
+			"author": "by Laura Hillenbrand",
+			"description": "An Olympic runner\u2019s story of survival as a prisoner of the Japanese in World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400064168.jpg",
+			"name": "UNBROKEN",
+			"publisher": "Random House",
+			"rank": 10
+		},
+		{
+			"author": "by John Calipari and Michael Sokolove",
+			"description": "The coach of the University of Kentucky\u2019s men\u2019s basketball team discusses the game and his career.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594205736.jpg",
+			"name": "PLAYERS FIRST",
+			"publisher": "Penguin Press",
+			"rank": 11
+		},
+		{
+			"author": "by Chelsea Handler",
+			"description": "Humorous travel stories.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455599721.jpg",
+			"name": "UGANDA BE KIDDING ME",
+			"publisher": "Grand Central",
+			"rank": 12
+		},
+		{
+			"author": "by Solomon Northup",
+			"description": "The narrative, first published in 1853, of a freeman who was kidnapped and sold into slavery, and spent 12 years in bondage before escaping; the basis of the movie.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781443433099.jpg",
+			"name": "TWELVE YEARS A SLAVE",
+			"publisher": "Various publishers",
+			"rank": 13
+		},
+		{
+			"author": "by Edith H. Beer with Susan Dworkin",
+			"description": "The story of a Jewish woman in 1930s Vienna who, with the help of friends, moved to Munich, hid her identity and married a Nazi Party member, thus saving her life.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062190048.jpg",
+			"name": "THE NAZI OFFICER'S WIFE",
+			"publisher": "HarperCollins",
+			"rank": 14
+		},
+		{
+			"author": "by Eben Alexander",
+			"description": "A neurosurgeon recounts his near death experience during a coma from bacterial meningitis.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451695199.jpg",
+			"name": "PROOF OF HEAVEN",
+			"publisher": "Simon & Schuster",
+			"rank": 15
+		}
+	]
+}

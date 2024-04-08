@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Prince Harry",
+			"description": "The Duke of Sussex details his struggles with the royal family, loss of his mother, service in the British Army and marriage to Meghan Markle.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593593806.jpg",
+			"name": "SPARE",
+			"publisher": "Random House",
+			"rank": 1
+		},
+		{
+			"author": "by Jennette McCurdy",
+			"description": "The actress and filmmaker describes her eating disorders and difficult relationship with her mother.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982185824.jpg",
+			"name": "I'M GLAD MY MOM DIED",
+			"publisher": "Simon & Schuster",
+			"rank": 2
+		},
+		{
+			"author": "by Bessel van der Kolk",
+			"description": "How trauma affects the body and mind, and innovative treatments for recovery.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780670785933.jpg",
+			"name": "THE BODY KEEPS THE SCORE",
+			"publisher": "Penguin",
+			"rank": 3
+		},
+		{
+			"author": "by Mike Pompeo",
+			"description": "The former secretary of state gives his account of his time serving under President Trump, with a focus on an America First approach.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063247444.jpg",
+			"name": "NEVER GIVE AN INCH",
+			"publisher": "Broadside",
+			"rank": 4
+		},
+		{
+			"author": "by Michelle Obama",
+			"description": "The former first lady shares personal stories and the tools she uses to deal with difficult situations.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593237465.jpg",
+			"name": "THE LIGHT WE CARRY",
+			"publisher": "Crown",
+			"rank": 5
+		},
+		{
+			"author": "by Brad Meltzer and Josh Mensch",
+			"description": "The story of a Nazi plot to kill President Roosevelt, Joseph Stalin and Winston Churchill.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250777263.jpg",
+			"name": "THE NAZI CONSPIRACY",
+			"publisher": "Flatiron",
+			"rank": 6
+		},
+		{
+			"author": "by Stephen A. Smith",
+			"description": "The ESPN analyst recounts the highs and lows of his life and career.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982189495.jpg",
+			"name": "STRAIGHT SHOOTER",
+			"publisher": "Gallery/13A",
+			"rank": 7
+		},
+		{
+			"author": "by Matthew Perry",
+			"description": "The actor, known for playing Chandler Bing on \u201cFriends,\u201d shares stories from his childhood and his struggles with sobriety.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250866448.jpg",
+			"name": "FRIENDS, LOVERS, AND THE BIG TERRIBLE THING",
+			"publisher": "Flatiron",
+			"rank": 8
+		},
+		{
+			"author": "by bell hooks",
+			"description": "The late feminist icon explores the causes of a polarized society and the meaning of love.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780060959470.jpg",
+			"name": "ALL ABOUT LOVE",
+			"publisher": "Morrow",
+			"rank": 9
+		},
+		{
+			"author": "by Robin Wall Kimmerer",
+			"description": "A botanist and member of the Citizen Potawatomi Nation espouses having an understanding and appreciation of plants and animals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781571313560.jpg",
+			"name": "BRAIDING SWEETGRASS",
+			"publisher": "Milkweed Editions",
+			"rank": 10
+		},
+		{
+			"author": "by Richard Haass",
+			"description": "The president of the Council on Foreign Relations makes his case for what he considers obligations for American citizens.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525560654.jpg",
+			"name": "THE BILL OF OBLIGATIONS",
+			"publisher": "Penguin Press",
+			"rank": 11
+		},
+		{
+			"author": "by Johann Hari",
+			"description": "Potential causes for diminishing attention spans and how corporations might raid our attention for profit.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593138519.jpg",
+			"name": "STOLEN FOCUS",
+			"publisher": "Crown",
+			"rank": 12
+		},
+		{
+			"author": "edited by Nikole Hannah-Jones, Caitlin Roper, Ilena Silverman and Jake Silverstein",
+			"description": "Viewing America\u2019s entanglement with slavery and its legacy, in essays adapted and expanded from The New York Times Magazine.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593230572.jpg",
+			"name": "THE 1619 PROJECT",
+			"publisher": "One World",
+			"rank": 13
+		},
+		{
+			"author": "by the Select Committee to Investigate the Jan. 6 Attack on the United States Capitol",
+			"description": "The final report of the Select Committee to Investigate the Jan. 6. Attack on the United States Capitol; with a preface by David Remnick and epilogue by Representative Jamie Raskin.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250877529.jpg",
+			"name": "THE JANUARY 6TH REPORT",
+			"publisher": "Celadon",
+			"rank": 14
+		},
+		{
+			"author": "by Bono",
+			"description": "The lead singer of the Irish rock band U2 offers details of his life, career and activism.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525521044.jpg",
+			"name": "SURRENDER",
+			"publisher": "Knopf",
+			"rank": 15
+		}
+	]
+}

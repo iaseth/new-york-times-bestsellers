@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by E. L. James",
+			"description": "An inexperienced college student falls in love with a tortured man who has particular sexual tastes; the first book in a trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345803481.jpg",
+			"name": "FIFTY SHADES OF GREY",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 1
+		},
+		{
+			"author": "by E. L. James",
+			"description": "Ana Steele learns more about Christian Grey\u2019s troubled past; the second book in a trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345803498.jpg",
+			"name": "FIFTY SHADES DARKER",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 2
+		},
+		{
+			"author": "by E. L. James",
+			"description": "The final book in an erotic trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781612130606.jpg",
+			"name": "FIFTY SHADES FREED",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 3
+		},
+		{
+			"author": "by Gillian Flynn",
+			"description": "A woman disappears on the day of her fifth anniversary; is her husband a killer?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307588388.jpg",
+			"name": "GONE GIRL",
+			"publisher": "Crown Publishing",
+			"rank": 4
+		},
+		{
+			"author": "by Sylvia Day",
+			"description": "Two troubled people develop an intense, obsessive relationship.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780425263907.jpg",
+			"name": "BARED TO YOU",
+			"publisher": "Penguin Group",
+			"rank": 5
+		},
+		{
+			"author": "by Karin Slaughter",
+			"description": "Will Trent of the Georgia Bureau of Investigation and his supervisor, Amanda Wagner, confront mysteries from the past.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345528506.jpg",
+			"name": "CRIMINAL",
+			"publisher": "Random House Publishing",
+			"rank": 6
+		},
+		{
+			"author": "by Christine Feehan",
+			"description": "A seductive employee of an underground club is playing a dangerous game of blackmail, politics and murder that reaches into the shadowy world of the GhostWalkers.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780515151541.jpg",
+			"name": "SAMURAI GAME",
+			"publisher": "Penguin Group",
+			"rank": 7
+		},
+		{
+			"author": "by Jennifer Weiner",
+			"description": "A young woman who moves to Hollywood to make it in television finds success, but her life remains complicated.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451617771.jpg",
+			"name": "THE NEXT BEST THING",
+			"publisher": "Atria Books",
+			"rank": 8
+		},
+		{
+			"author": "by E. L. James",
+			"description": "The three \u201cFifty Shades\u201d novels in one bundle.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345803573.jpg",
+			"name": "FIFTY SHADES TRILOGY",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 9
+		},
+		{
+			"author": "by John Grisham",
+			"description": "Partners in a small law firm take on a big case.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345536884.jpg",
+			"name": "THE LITIGATORS",
+			"publisher": "Random House Publishing",
+			"rank": 10
+		},
+		{
+			"author": "by Maya Banks",
+			"description": "Rio, a member of an elite, family-run task force, is enlisted to protect a desperate woman with an extraordinary ability to heal others.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101568934.jpg",
+			"name": "ECHOES AT DAWN",
+			"publisher": "Berkley",
+			"rank": 11
+		},
+		{
+			"author": "by Jennifer Probst",
+			"description": "A billionaire who needs a wife offers a one-year marriage in name only to a bookstore owner.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781620612798.jpg",
+			"name": "THE MARRIAGE BARGAIN",
+			"publisher": "Entangled Publishing",
+			"rank": 12
+		},
+		{
+			"author": "by George R.R. Martin",
+			"description": "In the frozen wastes to the north of Winterfell, sinister and supernatural forces are mustering.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780553897845.jpg",
+			"name": "A GAME OF THRONES",
+			"publisher": "Random House Publishing",
+			"rank": 13
+		},
+		{
+			"author": "by Janet Evanovich",
+			"description": "The Salem, Mass., pastry chef Lizzy Tucker and her partner, Diesel, seach for a powerful ancient relic.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345527776.jpg",
+			"name": "WICKED BUSINESS",
+			"publisher": "Random House Publishing",
+			"rank": 14
+		},
+		{
+			"author": "by Seth Grahame-Smith",
+			"description": "A journal reveals Lincoln\u2019s fight against the undead.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780446563086.jpg",
+			"name": "ABRAHAM LINCOLN: VAMPIRE HUNTER",
+			"publisher": "Grand Central Publishing",
+			"rank": 15
+		}
+	]
+}

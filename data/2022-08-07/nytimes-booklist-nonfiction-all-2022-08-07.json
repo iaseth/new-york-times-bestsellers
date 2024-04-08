@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Bessel van der Kolk",
+			"description": "How trauma affects the body and mind, and innovative treatments for recovery.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780670785933.jpg",
+			"name": "THE BODY KEEPS THE SCORE",
+			"publisher": "Penguin",
+			"rank": 1
+		},
+		{
+			"author": "by Isaac Fitzgerald",
+			"description": "Snapshots of various life and work events shared in a collection of essays.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781635573978.jpg",
+			"name": "DIRTBAG, MASSACHUSETTS",
+			"publisher": "Bloomsbury",
+			"rank": 2
+		},
+		{
+			"author": "by Mark Leibovich",
+			"description": "A staff writer at The Atlantic details how some Republicans shifted their loyalty to Donald Trump.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593296318.jpg",
+			"name": "THANK YOU FOR YOUR SERVITUDE",
+			"publisher": "Penguin Press",
+			"rank": 3
+		},
+		{
+			"author": "by David Sedaris",
+			"description": "The humorist portrays personal and public upheavals of his life in its seventh decade and the world in the time of a pandemic.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316392457.jpg",
+			"name": "HAPPY-GO-LUCKY",
+			"publisher": "Little, Brown",
+			"rank": 4
+		},
+		{
+			"author": "by Viola Davis",
+			"description": "The multiple award-winning actress describes the difficulties she encountered before claiming her sense of self and achieving professional success.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063037328.jpg",
+			"name": "FINDING ME",
+			"publisher": "HarperOne",
+			"rank": 5
+		},
+		{
+			"author": "by Malcolm Nance",
+			"description": "The author of \u201cThe Plot to Hack America\u201d examines radicalization and terror threats within the United States.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250279002.jpg",
+			"name": "THEY WANT TO KILL AMERICANS",
+			"publisher": "St. Martin's",
+			"rank": 6
+		},
+		{
+			"author": "by Michelle Zauner",
+			"description": "The daughter of a Korean mother and Jewish-American father, and leader of the indie rock project Japanese Breakfast, describes creating her own identity after losing her mother to cancer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525657743.jpg",
+			"name": "CRYING IN H MART",
+			"publisher": "Knopf",
+			"rank": 7
+		},
+		{
+			"author": "by Robin Wall Kimmerer",
+			"description": "A botanist and member of the Citizen Potawatomi Nation espouses having an understanding and appreciation of plants and animals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781571313560.jpg",
+			"name": "BRAIDING SWEETGRASS",
+			"publisher": "Milkweed Editions",
+			"rank": 8
+		},
+		{
+			"author": "by Bryan Stevenson",
+			"description": "A law professor and MacArthur grant recipient\u2019s memoir of his decades of work to free innocent people condemned to death.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812994520.jpg",
+			"name": "JUST MERCY",
+			"publisher": "Spiegel & Grau",
+			"rank": 9
+		},
+		{
+			"author": "by Pete Hegseth with David Goodwin",
+			"description": "The \"Fox & Friends Weekend\" host makes his case for what he calls classical Christian education.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063215047.jpg",
+			"name": "BATTLE FOR THE AMERICAN MIND",
+			"publisher": "Broadside",
+			"rank": 10
+		},
+		{
+			"author": "by Lis Smith",
+			"description": "The senior adviser on Pete Buttigieg\u2019s 2020 presidential campaign shares her journey in politics.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063084391.jpg",
+			"name": "ANY GIVEN TUESDAY",
+			"publisher": "Harper",
+			"rank": 11
+		},
+		{
+			"author": "by Trevor Noah",
+			"description": "A memoir about growing up biracial in apartheid South Africa by the host of \u201cThe Daily Show.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399588181.jpg",
+			"name": "BORN A CRIME",
+			"publisher": "One World",
+			"rank": 12
+		},
+		{
+			"author": "by Ed Yong",
+			"description": "The Pulitzer Prize\u2013winning science writer explains the sensory perceptions and ways of communication used by a variety of animals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593133231.jpg",
+			"name": "AN IMMENSE WORLD",
+			"publisher": "Random House",
+			"rank": 13
+		},
+		{
+			"author": "by James Patterson",
+			"description": "The author\u2019s life, from growing up in small-town New York to working in the advertising industry to becoming a successful storyteller.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316397537.jpg",
+			"name": "JAMES PATTERSON",
+			"publisher": "Little, Brown",
+			"rank": 14
+		},
+		{
+			"author": "by bell hooks",
+			"description": "The late feminist icon explores the causes of a polarized society and the meaning of love.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780060959470.jpg",
+			"name": "ALL ABOUT LOVE",
+			"publisher": "Morrow",
+			"rank": 15
+		}
+	]
+}

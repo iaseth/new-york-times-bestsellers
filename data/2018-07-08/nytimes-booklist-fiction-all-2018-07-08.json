@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by James Patterson and Bill Clinton",
+			"description": "President Jonathan Duncan, a Gulf War veteran and widower, takes on adversaries at home and abroad.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316412698.jpg",
+			"name": "THE PRESIDENT IS MISSING",
+			"publisher": "Little, Brown and Knopf",
+			"rank": 1
+		},
+		{
+			"author": "by Elin Hilderbrand",
+			"description": "A body is found in Nantucket Harbor hours before a picture-perfect wedding.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316375269.jpg",
+			"name": "THE PERFECT COUPLE",
+			"publisher": "Little, Brown",
+			"rank": 2
+		},
+		{
+			"author": "by Stephen King",
+			"description": "A detective investigates a seemingly wholesome member of the community when an 11-year-old boy\u2019s body is found.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501180989.jpg",
+			"name": "THE OUTSIDER",
+			"publisher": "Scribner",
+			"rank": 3
+		},
+		{
+			"author": "by John Grisham",
+			"description": "Three students at a sleazy for-profit law school hope to expose the student-loan banker who runs it.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385541183.jpg",
+			"name": "THE ROOSTER BAR",
+			"publisher": "Bantam/Dell",
+			"rank": 4
+		},
+		{
+			"author": "by RaeAnne Thayne",
+			"description": "The eighth book in the Haven Point series. Elliot Bailey comes back into Megan Hamilton's life.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781335007018.jpg",
+			"name": "THE COTTAGES ON SILVER BEACH",
+			"publisher": "HQN",
+			"rank": 5
+		},
+		{
+			"author": "by Nora Roberts",
+			"description": "Survivors of a mass shooting outside a mall in Portland, Me., develop different coping mechanisms and face a new menace.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250161611.jpg",
+			"name": "SHELTER IN PLACE",
+			"publisher": "St. Martin's",
+			"rank": 6
+		},
+		{
+			"author": "by Mike Maden",
+			"description": "Jack Ryan Jr. risks his life to protect a woman in a country on the brink of civil war.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735215931.jpg",
+			"name": "TOM CLANCY LINE OF SIGHT",
+			"publisher": "Putnam",
+			"rank": 7
+		},
+		{
+			"author": "by Lauren Weisberger",
+			"description": "Emily Charlton plans a comeback from the suburbs. From the author of \"The Devil Wears Prada.\"",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476778464.jpg",
+			"name": "WHEN LIFE GIVES YOU LULULEMONS",
+			"publisher": "Simon & Schuster",
+			"rank": 8
+		},
+		{
+			"author": "by Gail Honeyman",
+			"description": "A young woman\u2019s well-ordered life is disrupted by the I.T. guy from her office.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735220690.jpg",
+			"name": "ELEANOR OLIPHANT IS COMPLETELY FINE",
+			"publisher": "Penguin",
+			"rank": 9
+		},
+		{
+			"author": "by Gillian Flynn",
+			"description": "After a stay at a psychiatric hospital, a reporter returns (reluctantly) to her hometown to cover the murders of two girls.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307341556.jpg",
+			"name": "SHARP OBJECTS",
+			"publisher": "Broadway",
+			"rank": 10
+		},
+		{
+			"author": "by Kendall Ryan",
+			"description": "A couple of surprises shake up a one-night stand.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781732191112.jpg",
+			"name": "MISTER TONIGHT",
+			"publisher": "Dream Press",
+			"rank": 11
+		},
+		{
+			"author": "by Catherine Steadman",
+			"description": "A documentary filmmaker and an investment banker must decide whether they should protect a secret.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524797195.jpg",
+			"name": "SOMETHING IN THE WATER",
+			"publisher": "Ballantine",
+			"rank": 12
+		},
+		{
+			"author": "by Sarah MacLean",
+			"description": "Lady Felicity Faircloth makes a dangerous deal with the bastard son of a duke.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062691972.jpg",
+			"name": "WICKED AND THE WALLFLOWER",
+			"publisher": "Avon",
+			"rank": 13
+		},
+		{
+			"author": "by Kevin Kwan",
+			"description": "A New Yorker gets a surprise when she spends the summer with her boyfriend in Singapore.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345803788.jpg",
+			"name": "CRAZY RICH ASIANS",
+			"publisher": "Anchor",
+			"rank": 14
+		},
+		{
+			"author": "by Andrew Sean Greer",
+			"description": "Winner of the 2018 Pulitzer Prize in fiction. To avoid an ex-boyfriend's wedding, a failed novelist attends literary events around the world.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316316132.jpg",
+			"name": "LESS",
+			"publisher": "Back Bay",
+			"rank": 15
+		}
+	]
+}

@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by James Patterson and Mark Sullivan",
+			"description": "Jack Morgan, the head of the Private global investigative agency, probes the murders of members of the French cultural elite.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316408998.jpg",
+			"name": "PRIVATE PARIS",
+			"publisher": "Little, Brown",
+			"rank": 1
+		},
+		{
+			"author": "by Danielle Steel",
+			"description": "Two New Yorkers searching for the owner of an abandoned safe-deposit box reconstruct the history of a young woman and a forbidden love affair at the time of World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780804179669.jpg",
+			"name": "PROPERTY OF A NOBLEWOMAN",
+			"publisher": "Delacorte",
+			"rank": 2
+		},
+		{
+			"author": "by Christine Feehan",
+			"description": "A Carpathian novel; the 29th book in the Dark series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780425277355.jpg",
+			"name": "DARK PROMISES",
+			"publisher": "Berkley",
+			"rank": 3
+		},
+		{
+			"author": "by Jojo Moyes",
+			"description": "A woman who has barely been beyond her English village finds herself while caring for a wealthy, embittered quadriplegic.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780143124542.jpg",
+			"name": "ME BEFORE YOU",
+			"publisher": "Penguin",
+			"rank": 4
+		},
+		{
+			"author": "by Kristin Hannah",
+			"description": "Two sisters are separated in World War II France: one in the countryside, the other in Paris.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781466850606.jpg",
+			"name": "THE NIGHTINGALE",
+			"publisher": "St. Martin's",
+			"rank": 5
+		},
+		{
+			"author": "by Nora Roberts",
+			"description": "Serena conceals her privileged upbringing by taking a job as a blackjack dealer on a cruise ship.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101569436.jpg",
+			"name": "PLAYING THE ODDS",
+			"publisher": "InterMix",
+			"rank": 6
+		},
+		{
+			"author": "by Rachel Hauck",
+			"description": "With her own wedding approaching, Charlotte pieces together the history of a vintage gown she finds.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781401686314.jpg",
+			"name": "THE WEDDING DRESS",
+			"publisher": "Thomas Nelson",
+			"rank": 7
+		},
+		{
+			"author": "by Paula Hawkins",
+			"description": "A psychological thriller set in the environs of London is full of complications and betrayals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594633669.jpg",
+			"name": "THE GIRL ON THE TRAIN",
+			"publisher": "Riverhead",
+			"rank": 8
+		},
+		{
+			"author": "by C. J. Box",
+			"description": "The 16th Joe Pickett novel features Nate Romanowski and a search for a domestic terror cell.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399176609.jpg",
+			"name": "OFF THE GRID",
+			"publisher": "Putnam",
+			"rank": 9
+		},
+		{
+			"author": "by Sawyer Bennett",
+			"description": "A hockey defenseman and a reformed partier reunite seven years after their relationship foundered.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101968109.jpg",
+			"name": "HAWKE",
+			"publisher": "Loveswept",
+			"rank": 10
+		},
+		{
+			"author": "by Anthony Doerr",
+			"description": "The lives of a blind French girl and a gadget-obsessed German boy before and during World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476746586.jpg",
+			"name": "ALL THE LIGHT WE CANNOT SEE",
+			"publisher": "Scribner",
+			"rank": 11
+		},
+		{
+			"author": "by Nora Roberts",
+			"description": "A woman returning to her hometown discovers that her husband was a fraud who implicated her in his deceptions.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698161351.jpg",
+			"name": "THE LIAR",
+			"publisher": "Putnam",
+			"rank": 12
+		},
+		{
+			"author": "by Randy Wayne White",
+			"description": "Doc Ford, a Florida marine biologist and former government agent, tracks an American who is working with ISIS.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399173516.jpg",
+			"name": "DEEP BLUE",
+			"publisher": "Putnam",
+			"rank": 13
+		},
+		{
+			"author": "by Clive Cussler and Justin Scott",
+			"description": "In the ninth book in this series, set in 1906, the New York detective Isaac Bell contends with a crime boss passing as a respectable businessman and a tycoon\u2019s plot against Theodore Roosevelt.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399175954.jpg",
+			"name": "THE GANGSTER",
+			"publisher": "Putnam",
+			"rank": 14
+		},
+		{
+			"author": "by Jeffery Deaver",
+			"description": "Lincoln Rhyme and his new assistant, also a paraplegic, investigate a domestic terrorist who sabotages equipment.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455536368.jpg",
+			"name": "THE STEEL KISS",
+			"publisher": "Grand Central",
+			"rank": 15
+		}
+	]
+}

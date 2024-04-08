@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Clive Cussler and Justin Scott",
+			"description": "In the ninth book in this series, set in 1906, the New York detective Isaac Bell contends with a crime boss passing as a respectable businessman and a tycoon\u2019s plot against President Theodore Roosevelt.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399175954.jpg",
+			"name": "THE GANGSTER",
+			"publisher": "Putnam",
+			"rank": 1
+		},
+		{
+			"author": "by Jojo Moyes",
+			"description": "A woman who has barely been beyond her English village finds herself while caring for a wealthy, embittered quadriplegic.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780143124542.jpg",
+			"name": "ME BEFORE YOU",
+			"publisher": "Penguin",
+			"rank": 2
+		},
+		{
+			"author": "by Emma Donoghue",
+			"description": "The entire world of the 5-year-old boy who narrates this novel is the 11-by-11-foot room in which his mother is being held prisoner.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316223232.jpg",
+			"name": "ROOM",
+			"publisher": "Little, Brown",
+			"rank": 3
+		},
+		{
+			"author": "by Kristin Hannah",
+			"description": "Two sisters are separated in World War II France: one in the countryside, the other in Paris.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781466850606.jpg",
+			"name": "THE NIGHTINGALE",
+			"publisher": "St. Martin's",
+			"rank": 4
+		},
+		{
+			"author": "by Rachel Hauck",
+			"description": "With her own wedding approaching, Charlotte pieces together the history of a vintage gown she finds.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781401686314.jpg",
+			"name": "THE WEDDING DRESS",
+			"publisher": "Thomas Nelson",
+			"rank": 5
+		},
+		{
+			"author": "by Paula Hawkins",
+			"description": "A psychological thriller set in the environs of London is full of complications and betrayals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594633669.jpg",
+			"name": "THE GIRL ON THE TRAIN",
+			"publisher": "Riverhead",
+			"rank": 6
+		},
+		{
+			"author": "by Lisa Scottoline",
+			"description": "A father hides a terrible secret to protect his son.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250010094.jpg",
+			"name": "KEEP QUIET",
+			"publisher": "St. Martin's",
+			"rank": 7
+		},
+		{
+			"author": "by Kathleen Grissom",
+			"description": "An Irish orphan is integrated into a slave family on a Virginia plantation.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781439153666.jpg",
+			"name": "THE KITCHEN HOUSE",
+			"publisher": "Touchstone",
+			"rank": 8
+		},
+		{
+			"author": "by Anthony Doerr",
+			"description": "The lives of a blind French girl and a gadget-obsessed German boy before and during World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476746586.jpg",
+			"name": "ALL THE LIGHT WE CANNOT SEE",
+			"publisher": "Scribner",
+			"rank": 9
+		},
+		{
+			"author": "by Nora Roberts",
+			"description": "A woman returning to her hometown discovers that her husband was a fraud who implicated her in his deceptions.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698161351.jpg",
+			"name": "THE LIAR",
+			"publisher": "Putnam",
+			"rank": 10
+		},
+		{
+			"author": "by Lisa Gardner",
+			"description": "The detective D. \u2009D. Warren hunts for a missing woman who was kidnapped and abused as a student and may have become a vigilante.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525954576.jpg",
+			"name": "FIND HER",
+			"publisher": "Dutton",
+			"rank": 11
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "A police detective who left the force when his family was murdered teams up with his former partner to solve the case.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455586387.jpg",
+			"name": "MEMORY MAN",
+			"publisher": "Grand Central",
+			"rank": 12
+		},
+		{
+			"author": "by Michael Punke",
+			"description": "Left for dead after a mauling, a master tracker is consumed by a singular desire for revenge; an inspiration for the 2015 film.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250101198.jpg",
+			"name": "THE REVENANT",
+			"publisher": "Picador",
+			"rank": 13
+		},
+		{
+			"author": "by Andy Weir",
+			"description": "Abandoned by his crew, an astronaut embarks on a dogged quest to stay alive.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780804139038.jpg",
+			"name": "THE MARTIAN",
+			"publisher": "Crown",
+			"rank": 14
+		},
+		{
+			"author": "by Colm Toibin",
+			"description": "An unsophisticated young Irishwoman leaves her home for New York in the 1950s. The basis of the movie.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781439138311.jpg",
+			"name": "BROOKLYN",
+			"publisher": "Scribner",
+			"rank": 15
+		}
+	]
+}

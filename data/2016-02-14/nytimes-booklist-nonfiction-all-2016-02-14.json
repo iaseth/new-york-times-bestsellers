@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Paul Kalanithi",
+			"description": "A memoir by a physician who received a diagnosis of Stage IV lung cancer at the age of 36.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812988413.jpg",
+			"name": "WHEN BREATH BECOMES AIR",
+			"publisher": "Random House",
+			"rank": 1
+		},
+		{
+			"author": "by Mitchell Zuckoff with members of the Annex Security Team",
+			"description": "Six C.I.A. contract employees discuss their experience during the attack on the State Department compound and the C.I.A. station called the \u201cannex\u201d in Benghazi in 2012.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455582297.jpg",
+			"name": "13 HOURS",
+			"publisher": "Twelve",
+			"rank": 2
+		},
+		{
+			"author": "by Jane Mayer",
+			"description": "An account of how the Koch brothers and other super-wealthy donors deployed their money to change American politics.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385535601.jpg",
+			"name": "DARK MONEY",
+			"publisher": "Doubleday",
+			"rank": 3
+		},
+		{
+			"author": "by Ta-Nehisi Coates",
+			"description": "A meditation on race in America as well as a personal story by The Atlantic's national correspondent; a National Book Award winner.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780679645986.jpg",
+			"name": "BETWEEN THE WORLD AND ME",
+			"publisher": "Spiegel & Grau",
+			"rank": 4
+		},
+		{
+			"author": "by Bill Bryson",
+			"description": "An American expatriate travels around his adopted country, Britain.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385539296.jpg",
+			"name": "THE ROAD TO LITTLE DRIBBLING",
+			"publisher": "Doubleday",
+			"rank": 5
+		},
+		{
+			"author": "by Michael Lewis",
+			"description": "The people who saw the real estate crash coming and made billions from their foresight. Originally published in 2010 and now a movie.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780393072235.jpg",
+			"name": "THE BIG SHORT",
+			"publisher": "Norton",
+			"rank": 6
+		},
+		{
+			"author": "by Pope Francis with Andrea Tornielli",
+			"description": "In a conversation with a Vatican reporter, the pontiff explores the cornerstone of his faith.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399588648.jpg",
+			"name": "THE NAME OF GOD IS MERCY",
+			"publisher": "Random House",
+			"rank": 7
+		},
+		{
+			"author": "by Carol Burnett",
+			"description": "The comedian describes her rise in show business and the people she\u2019s met along the way. Originally published in 2010.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307461186.jpg",
+			"name": "THIS TIME TOGETHER",
+			"publisher": "Crown Archetype",
+			"rank": 8
+		},
+		{
+			"author": "by Daniel James Brown",
+			"description": "The University of Washington\u2019s eight-oar crew and their quest for gold at the 1936 Berlin Olympics.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101622742.jpg",
+			"name": "THE BOYS IN THE BOAT",
+			"publisher": "Penguin",
+			"rank": 9
+		},
+		{
+			"author": "by Brian Kilmeade and Don Yaeger",
+			"description": "The war against the Barbary pirates in 1801.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698197411.jpg",
+			"name": "THOMAS JEFFERSON AND THE TRIPOLI PIRATES",
+			"publisher": "Sentinel",
+			"rank": 10
+		},
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "The host of \u201cThe O\u2019Reilly Factor\u201d recounts the events surrounding the attempted assassination of President Reagan in 1981.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781627792424.jpg",
+			"name": "KILLING REAGAN",
+			"publisher": "Holt",
+			"rank": 11
+		},
+		{
+			"author": "by Atul Gawande",
+			"description": "The surgeon and New Yorker writer considers how doctors fail patients at the end of life, and how they can do better.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780805095159.jpg",
+			"name": "BEING MORTAL",
+			"publisher": "Metropolitan/Holt",
+			"rank": 12
+		},
+		{
+			"author": "by Erik Larson",
+			"description": "How an architect and a serial killer were linked by the Chicago World's Fair of 1893.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780375725609.jpg",
+			"name": "THE DEVIL IN THE WHITE CITY",
+			"publisher": "Vintage",
+			"rank": 13
+		},
+		{
+			"author": "by Ron Chernow",
+			"description": "A biography of the first Treasury secretary, a major author of the Federalist Papers and an advocate of strong central government.  Originally published in 2004 and the basis of the Broadway play.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780143034759.jpg",
+			"name": "ALEXANDER HAMILTON",
+			"publisher": "Penguin",
+			"rank": 14
+		},
+		{
+			"author": "by Leonard Gross",
+			"description": "Interviews with some of the 4,000 Jews who survived World War II by going underground in Berlin. Originally published in 1982.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781497689381.jpg",
+			"name": "THE LAST JEWS IN BERLIN",
+			"publisher": "Open Road",
+			"rank": 15
+		}
+	]
+}

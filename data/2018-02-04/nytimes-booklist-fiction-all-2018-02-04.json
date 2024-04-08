@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Douglas Preston and Lincoln Child",
+			"description": "A New York City detective and an F.B.I. special agent track down a killer who decapitates numerous victims.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455536948.jpg",
+			"name": "CITY OF ENDLESS NIGHT",
+			"publisher": "Grand Central",
+			"rank": 1
+		},
+		{
+			"author": "by A.J. Finn",
+			"description": "A recluse who drinks heavily and takes prescription drugs may have witnessed a crime across from her Harlem townhouse.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062678416.jpg",
+			"name": "THE WOMAN IN THE WINDOW",
+			"publisher": "Morrow",
+			"rank": 2
+		},
+		{
+			"author": "by Pierce Brown",
+			"description": "The fourth book of the Red Rising Saga. A hero of the revolution finds his fate tied up with others as the war continues.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780425285923.jpg",
+			"name": "IRON GOLD",
+			"publisher": "Del Rey",
+			"rank": 3
+		},
+		{
+			"author": "by Celeste Ng",
+			"description": "An artist upends a quiet town outside Cleveland.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735224308.jpg",
+			"name": "LITTLE FIRES EVERYWHERE",
+			"publisher": "Penguin Press",
+			"rank": 4
+		},
+		{
+			"author": "by Dan Brown",
+			"description": "A symbology professor goes on a perilous quest with a beautiful museum director.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385542692.jpg",
+			"name": "ORIGIN",
+			"publisher": "Doubleday",
+			"rank": 5
+		},
+		{
+			"author": "by Greer Hendricks and Sarah Pekkanen",
+			"description": "The events surrounding a hedge fund manager, his ex-wife and his fianc\u00e9e are told from several points of view.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250130921.jpg",
+			"name": "THE WIFE BETWEEN US",
+			"publisher": "St. Martin's",
+			"rank": 6
+		},
+		{
+			"author": "by Lisa Wingate",
+			"description": "A South Carolina lawyer learns about the questionable practices of a Tennessee orphanage.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780425284681.jpg",
+			"name": "BEFORE WE WERE YOURS",
+			"publisher": "Ballantine",
+			"rank": 7
+		},
+		{
+			"author": "by Vi Keeland",
+			"description": "An affair begins at another couple's wedding.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781942215714.jpg",
+			"name": "SEX, NOT LOVE",
+			"publisher": "Vi Keeland",
+			"rank": 8
+		},
+		{
+			"author": "by John Grisham",
+			"description": "Three students at a sleazy for-profit law school hope to expose the student-loan banker who runs it.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385541183.jpg",
+			"name": "THE ROOSTER BAR",
+			"publisher": "Doubleday",
+			"rank": 9
+		},
+		{
+			"author": "by Rupi Kaur",
+			"description": "A new collection of poetry from the author of \"Milk and Honey.\"",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781449486792.jpg",
+			"name": "THE SUN AND HER FLOWERS",
+			"publisher": "Andrews McMeel",
+			"rank": 10
+		},
+		{
+			"author": "by Rupi Kaur",
+			"description": "Poetic approaches to surviving adversity and loss.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781449474256.jpg",
+			"name": "MILK AND HONEY",
+			"publisher": "Andrews McMeel",
+			"rank": 11
+		},
+		{
+			"author": "by Heidi McLaughlin",
+			"description": "A musician returns to his hometown after 10 years and tries to rekindle a relationship with his high school girlfriend.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780692967904.jpg",
+			"name": "FOREVER MY GIRL",
+			"publisher": "Heidi McLaughlin",
+			"rank": 12
+		},
+		{
+			"author": "by Lee Child",
+			"description": "A complete collection of Jack Reacher stories.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399593581.jpg",
+			"name": "NO MIDDLE NAME",
+			"publisher": "Delacorte",
+			"rank": 13
+		},
+		{
+			"author": "by Ernest Cline",
+			"description": "It\u2019s 2044, life on a resource-depleted Earth has grown increasingly grim, and the key to a vast fortune is hidden in a virtual-reality world.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307887443.jpg",
+			"name": "READY PLAYER ONE",
+			"publisher": "Broadway",
+			"rank": 14
+		},
+		{
+			"author": "by E.L. James",
+			"description": "Christian Grey's tormented and difficult pursuit of Anastasia Steele is told from his perspective.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385543989.jpg",
+			"name": "DARKER",
+			"publisher": "Vintage",
+			"rank": 15
+		}
+	]
+}

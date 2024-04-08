@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Paula Hawkins",
+			"description": "A psychological thriller set in London is full of complications and betrayals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594633669.jpg",
+			"name": "THE GIRL ON THE TRAIN",
+			"publisher": "Riverhead",
+			"rank": 1
+		},
+		{
+			"author": "by E. L. James",
+			"description": "An innocent college student falls in love with a tortured man with particular sexual tastes; the first of a trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345803481.jpg",
+			"name": "FIFTY SHADES OF GREY",
+			"publisher": "Vintage",
+			"rank": 2
+		},
+		{
+			"author": "by J. D. Robb",
+			"description": "A murderer is obsessed with Lt. Eve Dallas; by Nora Roberts, writing pseudonymously.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698161443.jpg",
+			"name": "OBSESSION IN DEATH",
+			"publisher": "Putnam",
+			"rank": 3
+		},
+		{
+			"author": "by Jonathan Kellerman",
+			"description": "The Los Angeles psychologist-detective Alex Delaware and Milo Sturgis, a homicide cop, realize that the murder they\u2019re investigating was committed by a serial killer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345541383.jpg",
+			"name": "MOTIVE",
+			"publisher": "Ballantine",
+			"rank": 4
+		},
+		{
+			"author": "by E. L. James",
+			"description": "Daunted by Christian\u2019s dark secrets, Anastasia ends their relationship \u2014 but desire still dominates her every thought; the second book in a trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345803498.jpg",
+			"name": "FIFTY SHADES DARKER",
+			"publisher": "Vintage",
+			"rank": 5
+		},
+		{
+			"author": "by Anne Tyler",
+			"description": "Four generations of a family are drawn to a house in the Baltimore suburbs.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101874288.jpg",
+			"name": "A SPOOL OF BLUE THREAD",
+			"publisher": "Knopf",
+			"rank": 6
+		},
+		{
+			"author": "by Anthony Doerr",
+			"description": "The lives of a blind French girl and a gadget-obsessed German boy before and during World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476746586.jpg",
+			"name": "ALL THE LIGHT WE CANNOT SEE",
+			"publisher": "Scribner",
+			"rank": 7
+		},
+		{
+			"author": "by E. L. James",
+			"description": "Reunited, Anastasia and Christian face a world of possibilities, and unexpected challenges; the final volume in a trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781612130606.jpg",
+			"name": "FIFTY SHADES FREED",
+			"publisher": "Vintage",
+			"rank": 8
+		},
+		{
+			"author": "by E. L. James",
+			"description": "The three \u201cFifty Shades\u201d novels in one bundle.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345803573.jpg",
+			"name": "FIFTY SHADES TRILOGY",
+			"publisher": "Vintage",
+			"rank": 9
+		},
+		{
+			"author": "by Gillian Flynn",
+			"description": "A woman disappears on the day of her fifth anniversary; is her husband a killer?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307588388.jpg",
+			"name": "GONE GIRL",
+			"publisher": "Crown",
+			"rank": 10
+		},
+		{
+			"author": "by Kristin Hannah",
+			"description": "Two sisters are separated in World War II France: one struggling to survive in the countryside, the other joining the Resistance in Paris.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781466850606.jpg",
+			"name": "THE NIGHTINGALE",
+			"publisher": "St. Martin's",
+			"rank": 11
+		},
+		{
+			"author": "by James Patterson and Maxine Paetro",
+			"description": "Jack Morgan, the head of an investigative firm, uncovers a murder ring in Las Vegas.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316211147.jpg",
+			"name": "PRIVATE VEGAS",
+			"publisher": "Little, Brown",
+			"rank": 12
+		},
+		{
+			"author": "by Liane Moriarty",
+			"description": "Who will end up dead, and how, when three mothers with children in the same school become friends?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698138636.jpg",
+			"name": "BIG LITTLE LIES",
+			"publisher": "Amy Einhorn/Putnam",
+			"rank": 13
+		},
+		{
+			"author": "by Jodi Ellen Malpas",
+			"description": "Miller and Livy's love proves stronger than the darkness that resides in their past.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455559381.jpg",
+			"name": "ONE NIGHT: UNVEILED",
+			"publisher": "Forever/Grand Central",
+			"rank": 14
+		},
+		{
+			"author": "by Alex Berenson",
+			"description": "The former C.I.A. operative John Wells discovers a plot to trick the president into invading Iran.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698187009.jpg",
+			"name": "TWELVE DAYS",
+			"publisher": "Putnam",
+			"rank": 15
+		}
+	]
+}

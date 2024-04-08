@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Michelle Obama",
+			"description": "The former first lady describes her journey from the South Side of Chicago to the White House, and how she balanced work, family and her husband\u2019s political ascent.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524763138.jpg",
+			"name": "BECOMING",
+			"publisher": "Crown",
+			"rank": 1
+		},
+		{
+			"author": "by Tara Westover",
+			"description": "The daughter of survivalists, who is kept out of school, educates herself enough to leave home for university.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399590504.jpg",
+			"name": "EDUCATED",
+			"publisher": "Random House",
+			"rank": 2
+		},
+		{
+			"author": "by Ben Shapiro",
+			"description": "The conservative political commentator reflects upon what he considers most impactful to Western civilization.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062857903.jpg",
+			"name": "THE RIGHT SIDE OF HISTORY",
+			"publisher": "Broadside",
+			"rank": 3
+		},
+		{
+			"author": "by John Carreyrou",
+			"description": "The rise and fall of Theranos, the biotech startup that failed to deliver on its promise to make blood testing more efficient.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524731663.jpg",
+			"name": "BAD BLOOD",
+			"publisher": "Knopf",
+			"rank": 4
+		},
+		{
+			"author": "by Preet Bharara",
+			"description": "The former U.S. Attorney for the Southern District of New York describes some of his career highlights and gives insights into our legal system.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525521129.jpg",
+			"name": "DOING JUSTICE",
+			"publisher": "Knopf",
+			"rank": 5
+		},
+		{
+			"author": "by Trevor Noah",
+			"description": "A memoir about growing up biracial in apartheid South Africa by the host of \u201cThe Daily Show.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399588181.jpg",
+			"name": "BORN A CRIME",
+			"publisher": "Spiegel & Grau",
+			"rank": 6
+		},
+		{
+			"author": "by Pete Buttigieg",
+			"description": "A memoir by the current mayor of South Bend, Ind., and the first openly gay Democratic candidate to run for president of the United States.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781631494369.jpg",
+			"name": "SHORTEST WAY HOME",
+			"publisher": "Liveright",
+			"rank": 7
+		},
+		{
+			"author": "by Tommy Lee, Vince Neil, Mick Mars, Nikki Sixx and Neil Strauss",
+			"description": "The story of M\u00f6tley Cr\u00fce as told by the four original members of the band.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780060989156.jpg",
+			"name": "THE DIRT",
+			"publisher": "Dey St.",
+			"rank": 8
+		},
+		{
+			"author": "by Yuval Noah Harari",
+			"description": "How Homo sapiens became Earth\u2019s dominant species.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062316097.jpg",
+			"name": "SAPIENS",
+			"publisher": "Harper",
+			"rank": 9
+		},
+		{
+			"author": "by Patrick Radden Keefe",
+			"description": "A look at the conflict in Northern Ireland known as the Troubles.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385521314.jpg",
+			"name": "SAY NOTHING",
+			"publisher": "Doubleday",
+			"rank": 10
+		},
+		{
+			"author": "by Nicholas A. Christakis",
+			"description": "The physician and sociologist makes his case that genes affect the ways we make societies and natural selection guides us toward creating a good society.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316230032.jpg",
+			"name": "BLUEPRINT",
+			"publisher": "Little, Brown Spark",
+			"rank": 11
+		},
+		{
+			"author": "by Stacey Abrams",
+			"description": "A memoir by the former minority leader of the Georgia House of Representatives who ran to be the state\u2019s governor in 2018.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250214805.jpg",
+			"name": "LEAD FROM THE OUTSIDE",
+			"publisher": "Picador",
+			"rank": 12
+		},
+		{
+			"author": "by Bob Klapisch and Paul Solotaroff",
+			"description": "The 2018 season provides a backdrop to an inside look at the New York Yankees.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781328589354.jpg",
+			"name": "INSIDE THE EMPIRE",
+			"publisher": "Houghton Mifflin Harcourt",
+			"rank": 13
+		},
+		{
+			"author": "by Lynne Olson",
+			"description": "A 31-year-old French mother led an intelligence organization that worked against Hitler and the Gestapo.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812994766.jpg",
+			"name": "MADAME FOURCADE'S SECRET WAR",
+			"publisher": "Random House",
+			"rank": 14
+		},
+		{
+			"author": "by John Grisham",
+			"description": "Grisham's first nonfiction book concerns a man wrongly sentenced to death.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780440243830.jpg",
+			"name": "THE INNOCENT MAN",
+			"publisher": "Bantam/Dell",
+			"rank": 15
+		}
+	]
+}

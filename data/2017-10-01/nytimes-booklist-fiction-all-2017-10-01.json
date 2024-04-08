@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Ken Follett",
+			"description": "The lovers Ned Willard and Margery Fitzgerald find themselves on opposite sides of a conflict between English Catholics and Protestants while Queen Elizabeth fights to maintain her throne.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735224476.jpg",
+			"name": "A COLUMN OF FIRE",
+			"publisher": "Viking",
+			"rank": 1
+		},
+		{
+			"author": "by Stephen King",
+			"description": "The collective clown phobias of seven teenagers are rekindled in their adult lives by the terrifying title character. Originally published in 1986.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501141232.jpg",
+			"name": "IT",
+			"publisher": "Scribner",
+			"rank": 2
+		},
+		{
+			"author": "by David Lagercrantz",
+			"description": "Lisbeth Salander teams up with an investigative journalist to uncover the secrets of her childhood. A continuation of Stieg Larsson's Millennium series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780451494337.jpg",
+			"name": "THE GIRL WHO TAKES AN EYE FOR AN EYE",
+			"publisher": "Knopf",
+			"rank": 3
+		},
+		{
+			"author": "by Catherine Coulter",
+			"description": "Agents Savich and Sherlock team up with Cam Wittier and Jack Cabot to capture an international criminal and solve a John Doe case.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501138065.jpg",
+			"name": "ENIGMA",
+			"publisher": "Gallery Books",
+			"rank": 4
+		},
+		{
+			"author": "by Clive Cussler and Robin Burcell",
+			"description": "Sam and Remi Fargo search for two missing filmmakers in North Africa and uncover a group seeking to create the Fourth Reich.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399575556.jpg",
+			"name": "THE ROMANOV RANSOM",
+			"publisher": "Putnam",
+			"rank": 5
+		},
+		{
+			"author": "by Kyle Mills",
+			"description": "Vince Flynn's character Mitch Rapp leaves the C.I.A. to go on a manhunt when the nephew of a Saudi King finances a terrorist group.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476783543.jpg",
+			"name": "ENEMY OF THE STATE",
+			"publisher": "Atria/Emily Bestler",
+			"rank": 6
+		},
+		{
+			"author": "by J.D. Robb",
+			"description": "Lt. Eve Dallas investigates the murder of a professional gossip who dabbled in blackmail; by Nora Roberts, writing pseudonymously.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250123152.jpg",
+			"name": "SECRETS IN DEATH",
+			"publisher": "St. Martin's",
+			"rank": 7
+		},
+		{
+			"author": "by Celeste Ng",
+			"description": "An artist with a mysterious past and a disregard for the status quo upends a quiet town outside Cleveland.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735224308.jpg",
+			"name": "LITTLE FIRES EVERYWHERE",
+			"publisher": "Penguin Press",
+			"rank": 8
+		},
+		{
+			"author": "by Lisa Wingate",
+			"description": "A South Carolina lawyer, researching her grandmother\u2019s past, learns about a Tennessee orphanage that kidnapped children and placed them for adoption with wealthy people. Based on a real-life scandal.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780425284681.jpg",
+			"name": "BEFORE WE WERE YOURS",
+			"publisher": "Ballantine",
+			"rank": 9
+		},
+		{
+			"author": "by John le Carr\u00e9",
+			"description": "Peter Guillam, formerly of the British Secret Service, is pulled out of retirement to defend intelligence operations during the cold war that resulted in the deaths of people close to him.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735225114.jpg",
+			"name": "A LEGACY OF SPIES",
+			"publisher": "Viking",
+			"rank": 10
+		},
+		{
+			"author": "by Sue Grafton",
+			"description": "The 25th Kinsey Millhone mystery novel. A former student from an elite private school is released from prison and a sociopath returns to haunt the detective.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101614358.jpg",
+			"name": "Y IS FOR YESTERDAY",
+			"publisher": "Marian Wood/Putnam",
+			"rank": 11
+		},
+		{
+			"author": "by Janet Evanovich",
+			"description": "The bounty hunter Stephanie Plum juggles the investigation of a crime in an ice cream factory and the two men in her life.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345543028.jpg",
+			"name": "TURBO TWENTY-THREE",
+			"publisher": "Bantam",
+			"rank": 12
+		},
+		{
+			"author": "by Ruth Ware",
+			"description": "A travel writer on a cruise is certain she has heard a body thrown overboard, but no one believes her.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501132940.jpg",
+			"name": "THE WOMAN IN CABIN 10",
+			"publisher": "Scout",
+			"rank": 13
+		},
+		{
+			"author": "by Reed Farrel Coleman",
+			"description": "Robert B. Parker's character; the police chief Jesse Stone enlists the help of a mobster and a private investigator to solve cases connected to a once-famous folk singer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698166615.jpg",
+			"name": "THE HANGMAN'S SONNET",
+			"publisher": "Putnam",
+			"rank": 14
+		},
+		{
+			"author": "by Vince Flynn",
+			"description": "In the wake of the Lockerbie bombing, Mitch Rapp takes on his first antiterrorist assignment for the C.I.A.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781439100516.jpg",
+			"name": "AMERICAN ASSASSIN",
+			"publisher": "Atria/Emily Bestler",
+			"rank": 15
+		}
+	]
+}

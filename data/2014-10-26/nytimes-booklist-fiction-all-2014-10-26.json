@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Gillian Flynn",
+			"description": "A woman disappears on the day of her fifth anniversary; is her husband a killer?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307588388.jpg",
+			"name": "GONE GIRL",
+			"publisher": "Crown",
+			"rank": 1
+		},
+		{
+			"author": "by John Sandford",
+			"description": "Dognappers and a murdered reporter draw the attention of the Minnesota investigator Virgil Flowers.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101597767.jpg",
+			"name": "DEADLINE",
+			"publisher": "Putnam",
+			"rank": 2
+		},
+		{
+			"author": "by Nicholas Sparks",
+			"description": "Twenty-five years after their high school romance ended, two classmates return to their North Carolina town for a funeral.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780446547642.jpg",
+			"name": "THE BEST OF ME",
+			"publisher": "Grand Central",
+			"rank": 3
+		},
+		{
+			"author": "by James Patterson and Michael Ledwidge",
+			"description": "Detective Michael Bennett, back in New York City, investigates a peculiar crime in Harlem.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316211024.jpg",
+			"name": "BURN",
+			"publisher": "Little, Brown",
+			"rank": 4
+		},
+		{
+			"author": "by Stuart Woods",
+			"description": "In the 31st Stone Barrington novel, the New York lawyer encounters an old enemy in Paris.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698154117.jpg",
+			"name": "PARIS MATCH",
+			"publisher": "Putnam",
+			"rank": 5
+		},
+		{
+			"author": "by Penelope Ward",
+			"description": "A bond, and an attraction, between two stepsiblings.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781942215035.jpg",
+			"name": "STEPBROTHER DEAREST",
+			"publisher": "Penelope Ward",
+			"rank": 6
+		},
+		{
+			"author": "by Ken Follett",
+			"description": "Five interrelated families grapple with the events of the 1960s through the 1980s; Book 3 of the Century Trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525953098.jpg",
+			"name": "EDGE OF ETERNITY",
+			"publisher": "Dutton",
+			"rank": 7
+		},
+		{
+			"author": "by Debbie Macomber",
+			"description": "A guardian angel helps a young woman find a second chance; a Christmas novel.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780553391626.jpg",
+			"name": "MR. MIRACLE",
+			"publisher": "Ballantine",
+			"rank": 8
+		},
+		{
+			"author": "by Joanna Wylde",
+			"description": "A woman responsible for her cousin's daughter needs help from the attractive president of Reaper's Motorcycle Club.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698144101.jpg",
+			"name": "REAPER'S STAND",
+			"publisher": "Berkley",
+			"rank": 9
+		},
+		{
+			"author": "by Lee Child",
+			"description": "Jack Reacher, a former military cop, helps the State Department and the C.I.A. stop a sniper who has targeted a G8 summit.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780804178747.jpg",
+			"name": "PERSONAL",
+			"publisher": "Delacorte",
+			"rank": 10
+		},
+		{
+			"author": "by Gillian Flynn",
+			"description": "A woman who, as a child, was spared when her mother and sisters were murdered begins to reinvestigate the case against her imprisoned brother.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307341570.jpg",
+			"name": "DARK PLACES",
+			"publisher": "Broadway",
+			"rank": 11
+		},
+		{
+			"author": "by Diana Gabaldon",
+			"description": "Claire Randall, an English nurse, is transported back to 1743 during a second honeymoon in the Scottish Highlands. There she begins an affair with James Fraser, a redheaded soldier. Originally published in 1991.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780440212560.jpg",
+			"name": "OUTLANDER",
+			"publisher": "Dell",
+			"rank": 12
+		},
+		{
+			"author": "by Zane",
+			"description": "A young wife who compulsively pursues affairs ultimately seeks counseling to save her marriage.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780743446570.jpg",
+			"name": "ADDICTED",
+			"publisher": "Simon & Schuster",
+			"rank": 13
+		},
+		{
+			"author": "by Gillian Flynn",
+			"description": "Fresh from a stay at a psychiatric hospital, a newspaper reporter returns (reluctantly) to her hometown to cover the murders of two girls.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307341556.jpg",
+			"name": "SHARP OBJECTS",
+			"publisher": "Broadway",
+			"rank": 14
+		},
+		{
+			"author": "by J. R. Ward",
+			"description": "A fight for souls in the ultimate choice over good or evil, from the Fallen Angels series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698158726.jpg",
+			"name": "IMMORTAL",
+			"publisher": "New American Library",
+			"rank": 15
+		}
+	]
+}

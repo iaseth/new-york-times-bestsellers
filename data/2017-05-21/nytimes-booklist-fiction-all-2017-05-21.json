@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by James Patterson and Maxine Paetro",
+			"description": "In San Francisco, Detective Lindsay Boxer and the Women\u2019s Murder Club face their toughest case yet.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316553452.jpg",
+			"name": "16TH SEDUCTION",
+			"publisher": "Little, Brown",
+			"rank": 1
+		},
+		{
+			"author": "by Paula Hawkins",
+			"description": "In this psychological thriller by the author of \u201cThe Girl on the Train,\u201d women are found drowned in a river in an English town.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735211216.jpg",
+			"name": "INTO THE WATER",
+			"publisher": "Riverhead",
+			"rank": 2
+		},
+		{
+			"author": "by Danielle Steel",
+			"description": "A mother must learn to let her adult children make their own decisions.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101883921.jpg",
+			"name": "AGAINST ALL ODDS",
+			"publisher": "Delacorte",
+			"rank": 3
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "The detective Amos Decker (\u201cMemory Man\u201d) witnesses a murder-suicide that turns out to be a matter of national security.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455586561.jpg",
+			"name": "THE FIX",
+			"publisher": "Grand Central",
+			"rank": 4
+		},
+		{
+			"author": "by Margaret Atwood",
+			"description": "In a dystopian future, men and women perform the services assigned to them.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780547345666.jpg",
+			"name": "THE HANDMAID'S TALE",
+			"publisher": "Houghton Mifflin Harcourt",
+			"rank": 5
+		},
+		{
+			"author": "by John Sandford",
+			"description": "Lucas Davenport, now a U.S. Marshal, pursues a thief who robbed a drug cartel and killed a child in Biloxi, Miss.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399184581.jpg",
+			"name": "GOLDEN PREY",
+			"publisher": "Putnam",
+			"rank": 6
+		},
+		{
+			"author": "by James Patterson",
+			"description": "Is a mad bomber the real thing or a twisted hoax artist? Alex Cross and his wife can't wait around to find out.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316469746.jpg",
+			"name": "DETECTIVE CROSS",
+			"publisher": "BookShots",
+			"rank": 7
+		},
+		{
+			"author": "by Neil Gaiman",
+			"description": "A man just out of prison becomes entangled in the schemes of an enigmatic grifter.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062109590.jpg",
+			"name": "AMERICAN GODS",
+			"publisher": "Morrow",
+			"rank": 8
+		},
+		{
+			"author": "by James Patterson and Jassy Mackenzie",
+			"description": "Joey Montague looks into his business partner's apparent suicide while protecting an American tourist.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316438834.jpg",
+			"name": "PRIVATE: GOLD",
+			"publisher": "BookShots",
+			"rank": 9
+		},
+		{
+			"author": "by James Patterson and David Ellis",
+			"description": "After a raid on a brothel that serviced Chicago\u2019s elite, two people are dead and the madam\u2019s black book has disappeared. Who is responsible?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316464147.jpg",
+			"name": "THE BLACK BOOK",
+			"publisher": "Little, Brown",
+			"rank": 10
+		},
+		{
+			"author": "by Martha Hall Kelly",
+			"description": "A story of three women\u2019s lives during and after World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101883075.jpg",
+			"name": "LILAC GIRLS",
+			"publisher": "Ballantine",
+			"rank": 11
+		},
+		{
+			"author": "by Fredrik Backman",
+			"description": "A curmudgeon's gruff exterior masks a generosity of spirit. Originally published in Sweden in 2014.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476738024.jpg",
+			"name": "A MAN CALLED OVE",
+			"publisher": "Washington Square",
+			"rank": 12
+		},
+		{
+			"author": "by Ruth Ware",
+			"description": "A travel writer on a cruise is certain she has heard a body thrown overboard, but no one believes her.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501132940.jpg",
+			"name": "THE WOMAN IN CABIN 10",
+			"publisher": "Scout",
+			"rank": 13
+		},
+		{
+			"author": "by Ace Atkins",
+			"description": "Spenser is on the trail of a con man who has duped lovers, investors and military contractors; a continuation of the series by Parker, who died in 2010.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698413061.jpg",
+			"name": "ROBERT B. PARKER'S LITTLE WHITE LIES",
+			"publisher": "Putnam",
+			"rank": 14
+		},
+		{
+			"author": "by Liane Moriarty",
+			"description": "Who will end up dead, and how, when three mothers with children in the same school become friends?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698138636.jpg",
+			"name": "BIG LITTLE LIES",
+			"publisher": "Berkley",
+			"rank": 15
+		}
+	]
+}

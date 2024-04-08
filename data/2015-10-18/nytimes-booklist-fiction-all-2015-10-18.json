@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Andy Weir",
+			"description": "Abandoned by his crew, an astronaut embarks on a dogged quest to stay alive.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780804139038.jpg",
+			"name": "THE MARTIAN",
+			"publisher": "Crown",
+			"rank": 1
+		},
+		{
+			"author": "by James Patterson and David Ellis",
+			"description": "When bodies are found at a Hamptons estate where a series of grisly murders once occurred, a local detective and former New York City cop investigates.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316337977.jpg",
+			"name": "THE MURDER HOUSE",
+			"publisher": "Little, Brown",
+			"rank": 2
+		},
+		{
+			"author": "by Jojo Moyes",
+			"description": "In a sequel to \u201cMe Before You,\u201d Louisa Clark tries to put her life back together after the death of Will Traynor, and joins a grief support group that may lead her to new love.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698152045.jpg",
+			"name": "AFTER YOU",
+			"publisher": "Pamela Dorman/Viking",
+			"rank": 3
+		},
+		{
+			"author": "by Lee Child",
+			"description": "Jack Reacher pries open a missing-persons case that takes him across the country and into the shadowy reaches of the Internet.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780804178785.jpg",
+			"name": "MAKE ME",
+			"publisher": "Delacorte",
+			"rank": 4
+		},
+		{
+			"author": "by David Lagercrantz",
+			"description": "Mikael Blomkvist and Lisbeth Salander are back in this continuation of Steig Larsson's Millennium series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385354288.jpg",
+			"name": "THE GIRL IN THE SPIDER'S WEB",
+			"publisher": "Knopf",
+			"rank": 5
+		},
+		{
+			"author": "by Jim Butcher",
+			"description": "In the first book of a steampunk fantasy series by the author of the Dresden Files novels, people live in spires that stretch into the sky and make use of airships.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698138001.jpg",
+			"name": "THE AERONAUT'S WINDLASS",
+			"publisher": "ROC",
+			"rank": 6
+		},
+		{
+			"author": "by Karin Slaughter",
+			"description": "When her husband is murdered, a wealthy Atlanta woman discovers shocking secrets about him that lead her to reconnect with her estranged sister; together they investigate the long-ago disappearance of a third sister.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062429063.jpg",
+			"name": "PRETTY GIRLS",
+			"publisher": "Morrow/HarperCollins",
+			"rank": 7
+		},
+		{
+			"author": "by Sherryl Woods",
+			"description": "A woman at a crossroad returns home, where an alluring stranger raising his nephew sets her on a new course.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781460390191.jpg",
+			"name": "WILLOW BROOK ROAD",
+			"publisher": "Mira",
+			"rank": 8
+		},
+		{
+			"author": "by Paula Hawkins",
+			"description": "A psychological thriller set in the environs of London is full of complications and betrayals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594633669.jpg",
+			"name": "THE GIRL ON THE TRAIN",
+			"publisher": "Riverhead",
+			"rank": 9
+		},
+		{
+			"author": "by J. D. Robb and others",
+			"description": "Five tales, including an Eve Dallas novella, inspired by \"Alice's Adventures in Wonderland.\"",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698175778.jpg",
+			"name": "DOWN THE RABBIT HOLE",
+			"publisher": "Jove",
+			"rank": 10
+		},
+		{
+			"author": "by Lynsay Sands",
+			"description": "When Bricker turns Holly into a vampire to save her life, she is forced to choose between two worlds.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062316035.jpg",
+			"name": "ABOUT A VAMPIRE",
+			"publisher": "Avon",
+			"rank": 11
+		},
+		{
+			"author": "by Iris Johansen",
+			"description": "A forensic sculptor becomes overly invested in her latest assignment, flushing a killer along the way.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250020093.jpg",
+			"name": "SHADOW PLAY",
+			"publisher": "St. Martin's",
+			"rank": 12
+		},
+		{
+			"author": "by Anthony Doerr",
+			"description": "The lives of a blind French girl and a gadget-obsessed German boy before and during World War II; the winner of the 2015 Pulitzer Prize.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476746586.jpg",
+			"name": "ALL THE LIGHT WE CANNOT SEE",
+			"publisher": "Scribner",
+			"rank": 13
+		},
+		{
+			"author": "by John Grisham",
+			"description": "A downsized Wall Street lawyer joins a legal clinic in a small Virginia town, and litigates against the coal-mining industry.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385537148.jpg",
+			"name": "GRAY MOUNTAIN",
+			"publisher": "Doubleday",
+			"rank": 14
+		},
+		{
+			"author": "by Heather Graham",
+			"description": "Copycat murders, committed 150 years apart, reunite a historian and her F.B.I. agent husband.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781460390207.jpg",
+			"name": "THE HIDDEN",
+			"publisher": "Mira",
+			"rank": 15
+		}
+	]
+}

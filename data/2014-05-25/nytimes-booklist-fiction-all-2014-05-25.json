@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by James Patterson and Maxine Paetro",
+			"description": "With the return of a killer who was presumed dead, the San Francisco detective Lindsay Boxer and the Women\u2019s Murder Club take action.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316211291.jpg",
+			"name": "UNLUCKY 13",
+			"publisher": "Little, Brown",
+			"rank": 1
+		},
+		{
+			"author": "by John Sandford",
+			"description": "Lucas Davenport investigates when multiple bodies are found in the middle of the Minnesota cornfields.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101597781.jpg",
+			"name": "FIELD OF PREY",
+			"publisher": "Putnam",
+			"rank": 2
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "As the government hit man Will Robie and his partner, Jessica Reel, prepare for a mission, they face a new adversary.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455521234.jpg",
+			"name": "THE TARGET",
+			"publisher": "Grand Central",
+			"rank": 3
+		},
+		{
+			"author": "by Donna Tartt",
+			"description": "A painting smuggled out of the Metropolitan Museum of Art after a bombing becomes a boy\u2019s prize, guilt and burden.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316248679.jpg",
+			"name": "THE GOLDFINCH",
+			"publisher": "Little, Brown",
+			"rank": 4
+		},
+		{
+			"author": "by Richard Paul Evans",
+			"description": "In the fifth and final book of the \u201cWalk\u201d series, Alan reaches Key West.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451628319.jpg",
+			"name": "WALKING ON WATER",
+			"publisher": "Simon & Schuster",
+			"rank": 5
+		},
+		{
+			"author": "by Gillian Flynn",
+			"description": "A woman disappears on the day of her fifth anniversary; is her husband a killer?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307588388.jpg",
+			"name": "GONE GIRL",
+			"publisher": "Crown",
+			"rank": 6
+		},
+		{
+			"author": "by Maya Banks",
+			"description": "Can Kylie, a victim of childhood violence and abuse, now give up total control and submit to a man? Book 2 of the Surrender trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698148178.jpg",
+			"name": "GIVING IN",
+			"publisher": "Berkley",
+			"rank": 7
+		},
+		{
+			"author": "by Greg Iles",
+			"description": "Penn Cage, a former prosecutor in Natchez, Miss., delves into the secrets of his father, a doctor who has been accused of murdering an African-American nurse.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062311078.jpg",
+			"name": "NATCHEZ BURNING",
+			"publisher": "Morrow/HarperCollins",
+			"rank": 8
+		},
+		{
+			"author": "by Nora Roberts",
+			"description": "A freelance writer who may have witnessed a murder-suicide joins the dead man\u2019s brother to learn what happened.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101617281.jpg",
+			"name": "THE COLLECTOR",
+			"publisher": "Putnam",
+			"rank": 9
+		},
+		{
+			"author": "by Mia Sheridan",
+			"description": "A woman looking for peace in a sleepy Maine town instead finds an isolated man with a secret agony of his own; a Sign of Love novel.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780692214848.jpg",
+			"name": "ARCHER'S VOICE",
+			"publisher": "Mia Sheridan",
+			"rank": 10
+		},
+		{
+			"author": "by Dan Brown",
+			"description": "The symbologist Robert Langdon, on the run in Florence, must decipher a series of codes created by a Dante-loving scientist.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400079155.jpg",
+			"name": "INFERNO",
+			"publisher": "Anchor",
+			"rank": 11
+		},
+		{
+			"author": "by Abbi Glines",
+			"description": "Rush Finlay\u2019s side of the story of how he and Blaire Wynn fell in love; a Rosemary Beach novel.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476775951.jpg",
+			"name": "RUSH TOO FAR",
+			"publisher": "Atria",
+			"rank": 12
+		},
+		{
+			"author": "by Christina Baker Kline",
+			"description": "A historical novel about orphans swept off the streets of New York and sent to the Midwest in the 1920s.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062101204.jpg",
+			"name": "ORPHAN TRAIN",
+			"publisher": "Morrow/HarperCollins",
+			"rank": 13
+		},
+		{
+			"author": "by J.S. Scott, M. Malone and others",
+			"description": "Alpha males, bad boys and billionaires: a set of 10 romances.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781939962447.jpg",
+			"name": "BEYOND DESIRE COLLECTION",
+			"publisher": "Golden Unicorn",
+			"rank": 14
+		},
+		{
+			"author": "by John Lescroart",
+			"description": "Dismas Hardy and Abe Glitsky hunt for clues about a woman who has gone missing.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476709208.jpg",
+			"name": "THE KEEPER",
+			"publisher": "Atria",
+			"rank": 15
+		}
+	]
+}

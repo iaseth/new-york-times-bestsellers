@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Rebecca Yarros",
+			"description": "Violet Sorrengail is urged by the commanding general, who also is her mother, to become a candidate for the elite dragon riders.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781649374042.jpg",
+			"name": "FOURTH WING",
+			"publisher": "Red Tower",
+			"rank": 1
+		},
+		{
+			"author": "by Rebecca Yarros",
+			"description": "The second book in the Empyrean series. Violet Sorrengail\u2019s next round of training might require her to betray the man she loves.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781649374172.jpg",
+			"name": "IRON FLAME",
+			"publisher": "Red Tower",
+			"rank": 2
+		},
+		{
+			"author": "by Patricia Cornwell",
+			"description": "The 27th book in the Kay Scarpetta series. Scarpetta must discover the murderer of two campers who were wanted by federal law enforcement.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538743164.jpg",
+			"name": "UNNATURAL DEATH",
+			"publisher": "Grand Central",
+			"rank": 3
+		},
+		{
+			"author": "by John Grisham",
+			"description": "In a sequel to \u201cThe Firm,\u201d Mitch McDeere, who is now a partner at the world\u2019s largest law firm, gets caught up in a sinister plot.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385548953.jpg",
+			"name": "THE EXCHANGE",
+			"publisher": "Doubleday",
+			"rank": 4
+		},
+		{
+			"author": "by James McBride",
+			"description": "Secrets held by the residents of a dilapidated neighborhood come to life when a skeleton is found at the bottom of a well.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593422946.jpg",
+			"name": "THE HEAVEN & EARTH GROCERY STORE",
+			"publisher": "Riverhead",
+			"rank": 5
+		},
+		{
+			"author": "by Bonnie Garmus",
+			"description": "A scientist and single mother living in California in the 1960s becomes a star on a TV cooking show.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385547345.jpg",
+			"name": "LESSONS IN CHEMISTRY",
+			"publisher": "Doubleday",
+			"rank": 6
+		},
+		{
+			"author": "by Hannah Grace",
+			"description": "Anastasia might need the help of the captain of a college hockey team to get on the Olympic figure skating team.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781668026038.jpg",
+			"name": "ICEBREAKER",
+			"publisher": "Atria",
+			"rank": 7
+		},
+		{
+			"author": "by James Patterson",
+			"description": "The 32nd book in the Alex Cross series. When a jet is gunned down, Cross goes back into action.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316402484.jpg",
+			"name": "ALEX CROSS MUST DIE",
+			"publisher": "Little, Brown",
+			"rank": 8
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "The second book in the 6:20 Man series. Travis Devine investigates the murder of the C.I.A. operative Jenny Silkwell in rural Maine.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538719916.jpg",
+			"name": "THE EDGE",
+			"publisher": "Grand Central",
+			"rank": 9
+		},
+		{
+			"author": "by Mitch Albom",
+			"description": "The actions of an 11-year-old boy help facilitate the delivery of Jewish residents, including his family, to Auschwitz.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062406651.jpg",
+			"name": "THE LITTLE LIAR",
+			"publisher": "Harper",
+			"rank": 10
+		},
+		{
+			"author": "by Nora Roberts",
+			"description": "After the death of her mysterious uncle, a graphic designer receives an inheritance that stipulates she must live in a haunted Victorian house for at least three years.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250288325.jpg",
+			"name": "INHERITANCE",
+			"publisher": "St. Martin's",
+			"rank": 11
+		},
+		{
+			"author": "by Michael Connelly",
+			"description": "The seventh book in the Lincoln Lawyer series. Haller and Bosch team up to prove the innocence of a woman in prison for killing her husband.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316563765.jpg",
+			"name": "RESURRECTION WALK",
+			"publisher": "Little, Brown",
+			"rank": 12
+		},
+		{
+			"author": "by Anthony Doerr",
+			"description": "The lives of a blind French girl and a gadget-obsessed German boy before and during World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476746586.jpg",
+			"name": "ALL THE LIGHT WE CANNOT SEE",
+			"publisher": "Scribner",
+			"rank": 13
+		},
+		{
+			"author": "by Stephen King",
+			"description": "The private detective Holly Gibney investigates whether a married pair of octogenarian academics had anything to do with Bonnie Dahl\u2019s disappearance.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781668016138.jpg",
+			"name": "HOLLY",
+			"publisher": "Scribner",
+			"rank": 14
+		},
+		{
+			"author": "by Freida McFadden",
+			"description": "Troubles surface when a woman looking to make a fresh start takes a job in the home of the Winchesters.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538742570.jpg",
+			"name": "THE HOUSEMAID",
+			"publisher": "Grand Central",
+			"rank": 15
+		}
+	]
+}

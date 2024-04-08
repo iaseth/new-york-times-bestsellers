@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by William P. Barr",
+			"description": "The former attorney general for George H.W. Bush and Donald Trump gives his account of those two tenures.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063158603.jpg",
+			"name": "ONE DAMN THING AFTER ANOTHER",
+			"publisher": "Morrow",
+			"rank": 1
+		},
+		{
+			"author": "by Bessel van der Kolk",
+			"description": "How trauma affects the body and mind, and innovative treatments for recovery.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780670785933.jpg",
+			"name": "THE BODY KEEPS THE SCORE",
+			"publisher": "Penguin",
+			"rank": 2
+		},
+		{
+			"author": "by Marie Yovanovitch",
+			"description": "The former U.S. ambassador to Ukraine chronicles her career in the post-Soviet world and her testimony during the first impeachment of President Trump.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780358457541.jpg",
+			"name": "LESSONS FROM THE EDGE",
+			"publisher": "Mariner",
+			"rank": 3
+		},
+		{
+			"author": "by Amy Bloom",
+			"description": "After her husband\u2019s Alzheimer\u2019s diagnosis, the author travels with him to Dignitas, a prominent Swiss right-to-die organization.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593243947.jpg",
+			"name": "IN LOVE",
+			"publisher": "Random House",
+			"rank": 4
+		},
+		{
+			"author": "by Erik Larson",
+			"description": "An examination of the leadership of the prime minister Winston Churchill.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385348713.jpg",
+			"name": "THE SPLENDID AND THE VILE",
+			"publisher": "Crown",
+			"rank": 5
+		},
+		{
+			"author": "by Michelle Zauner",
+			"description": "The daughter of a Korean mother and Jewish-American father, and leader of the indie rock project Japanese Breakfast, describes creating her own identity after losing her mother to cancer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525657743.jpg",
+			"name": "CRYING IN H MART",
+			"publisher": "Knopf",
+			"rank": 6
+		},
+		{
+			"author": "edited by Nikole Hannah-Jones, Caitlin Roper, Ilena Silverman and Jake Silverstein",
+			"description": "Viewing America\u2019s entanglement with slavery and its legacy, in essays adapted and expanded from The New York Times Magazine.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593230572.jpg",
+			"name": "THE 1619 PROJECT",
+			"publisher": "One World",
+			"rank": 7
+		},
+		{
+			"author": "by Tara Westover",
+			"description": "The daughter of survivalists, who is kept out of school, educates herself enough to leave home for university.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399590504.jpg",
+			"name": "EDUCATED",
+			"publisher": "Random House",
+			"rank": 8
+		},
+		{
+			"author": "by Will Smith with Mark Manson",
+			"description": "The actor, producer and musician tells his life story and lessons he learned along the way.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984877925.jpg",
+			"name": "WILL",
+			"publisher": "Penguin Press",
+			"rank": 9
+		},
+		{
+			"author": "by bell hooks",
+			"description": "The late feminist icon explores the causes of a polarized society and the meaning of love.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780060959470.jpg",
+			"name": "ALL ABOUT LOVE",
+			"publisher": "Morrow",
+			"rank": 10
+		},
+		{
+			"author": "by Alfred Lansing",
+			"description": "In 1914, the British explorer Ernest Shackleton and his crew set sail for Antarctica, but their ship became locked in an island of ice.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780465062881.jpg",
+			"name": "ENDURANCE",
+			"publisher": "Basic",
+			"rank": 11
+		},
+		{
+			"author": "by Rosemary Sullivan",
+			"description": "New technology was used to investigate who revealed the location of Anne Frank and her family to the Nazis.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062892355.jpg",
+			"name": "THE BETRAYAL OF ANNE FRANK",
+			"publisher": "Harper",
+			"rank": 12
+		},
+		{
+			"author": "by Robin Wall Kimmerer",
+			"description": "A botanist and member of the Citizen Potawatomi Nation espouses having an understanding and appreciation of plants and animals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781571313560.jpg",
+			"name": "BRAIDING SWEETGRASS",
+			"publisher": "Milkweed Editions",
+			"rank": 13
+		},
+		{
+			"author": "by Peter Schweizer",
+			"description": "The author of \u201cProfiles in Corruption\u201d portrays a conspiracy of how the Chinese government might infiltrate American institutions.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063061149.jpg",
+			"name": "RED-HANDED",
+			"publisher": "Harper",
+			"rank": 14
+		},
+		{
+			"author": "by Serhii Plokhy",
+			"description": "The historian details Ukraine\u2019s search for its identity and the turmoil over its sovereignty.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781541675643.jpg",
+			"name": "THE GATES OF EUROPE",
+			"publisher": "Basic",
+			"rank": 15
+		}
+	]
+}

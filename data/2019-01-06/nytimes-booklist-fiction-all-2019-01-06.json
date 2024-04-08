@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by John Grisham",
+			"description": "A decorated World War II veteran shoots and kills a pastor inside a Mississippi church.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385544160.jpg",
+			"name": "THE RECKONING",
+			"publisher": "Doubleday",
+			"rank": 1
+		},
+		{
+			"author": "by Nicholas Sparks",
+			"description": "Difficult choices surface when Hope Anderson and Tru Walls meet in a North Carolina seaside town.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538728529.jpg",
+			"name": "EVERY BREATH",
+			"publisher": "Grand Central",
+			"rank": 2
+		},
+		{
+			"author": "by George R.R. Martin",
+			"description": "Set 300 years before the events of \u201cA Game of Thrones,\u201d this is the first volume of the two-part history of the Targaryens in Westeros.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524796280.jpg",
+			"name": "FIRE AND BLOOD",
+			"publisher": "Bantam",
+			"rank": 3
+		},
+		{
+			"author": "by Delia Owens",
+			"description": "In a quiet town on the North Carolina coast in 1969, a young woman who survived alone in the marsh becomes a murder suspect.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735219090.jpg",
+			"name": "WHERE THE CRAWDADS SING",
+			"publisher": "Putnam",
+			"rank": 4
+		},
+		{
+			"author": "by James Patterson",
+			"description": "Alex Cross returns for the 26th book in the series bearing his name.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316417501.jpg",
+			"name": "TARGET: ALEX CROSS",
+			"publisher": "Little, Brown",
+			"rank": 5
+		},
+		{
+			"author": "by W. Bruce Cameron",
+			"description": "A dog sets out across 400 miles of wilderness to find the man who rescued her as a puppy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780765374653.jpg",
+			"name": "A DOG'S WAY HOME",
+			"publisher": "Forge",
+			"rank": 6
+		},
+		{
+			"author": "by Lee Child",
+			"description": "Jack Reacher explores the New England town where his father was born and a Canadian couple now find themselves stranded.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399593512.jpg",
+			"name": "PAST TENSE",
+			"publisher": "Delacorte",
+			"rank": 7
+		},
+		{
+			"author": "by Heather Morris",
+			"description": "A concentration camp detainee tasked with permanently marking fellow prisoners falls in love with one of them.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062797155.jpg",
+			"name": "THE TATTOOIST OF AUSCHWITZ",
+			"publisher": "Harper",
+			"rank": 8
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "Atlee Pine, an F.B.I. agent who is haunted by the childhood kidnapping of her twin sister, must choose between protecting her career or the United States' democracy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538761571.jpg",
+			"name": "LONG ROAD TO MERCY",
+			"publisher": "Grand Central Publishing",
+			"rank": 9
+		},
+		{
+			"author": "by Liane Moriarty",
+			"description": "A romance writer becomes fascinated by the owner and director of a health resort.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250069849.jpg",
+			"name": "NINE PERFECT STRANGERS",
+			"publisher": "Flatiron",
+			"rank": 10
+		},
+		{
+			"author": "by Mitch Albom",
+			"description": "The sequel to \"The Five People You Meet in Heaven\" follows Annie on her heavenly journey.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062294449.jpg",
+			"name": "THE NEXT PERSON YOU MEET IN HEAVEN",
+			"publisher": "Harper",
+			"rank": 11
+		},
+		{
+			"author": "by Fern Michaels",
+			"description": "Isabelle Flanders Tookus calls on a group of women known as the Sisterhood to save a millionaire's genius grandson.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781420146011.jpg",
+			"name": "SAFE AND SOUND",
+			"publisher": "Zebra",
+			"rank": 12
+		},
+		{
+			"author": "by Rupi Kaur",
+			"description": "Poetic approaches to surviving adversity and loss.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781449474256.jpg",
+			"name": "MILK AND HONEY",
+			"publisher": "Andrews McMeel",
+			"rank": 13
+		},
+		{
+			"author": "by Stephen King",
+			"description": "A man who is losing weight without getting thinner forms an unlikely alliance with his neighbors who are dealing with prejudices.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982102319.jpg",
+			"name": "ELEVATION",
+			"publisher": "Scribner",
+			"rank": 14
+		},
+		{
+			"author": "by Marc Cameron",
+			"description": "President Jack Ryan must contain the fallout of a flu epidemic, an undermining senator and two hijacked Russian nuclear missiles.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735215962.jpg",
+			"name": "TOM CLANCY: OATH OF OFFICE",
+			"publisher": "Putnam",
+			"rank": 15
+		}
+	]
+}

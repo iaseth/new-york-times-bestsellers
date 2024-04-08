@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Jonathan Allen and Amie Parnes",
+			"description": "An examination of Hillary Clinton\u2019s presidential campaign.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780553447095.jpg",
+			"name": "SHATTERED",
+			"publisher": "Crown",
+			"rank": 1
+		},
+		{
+			"author": "by Elizabeth Warren",
+			"description": "The Massachusetts senator offers a program for Democratic resistance to President Trump.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250120618.jpg",
+			"name": "THIS FIGHT IS OUR FIGHT",
+			"publisher": "Metropolitan/Holt",
+			"rank": 2
+		},
+		{
+			"author": "by David Grann",
+			"description": "The story of a murder spree in 1920s Oklahoma that targeted Osage Indians, whose lands contained oil.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385534246.jpg",
+			"name": "KILLERS OF THE FLOWER MOON",
+			"publisher": "Doubleday",
+			"rank": 3
+		},
+		{
+			"author": "by Diane Ackerman",
+			"description": "How a Warsaw couple sheltered Jews and members of the Resistance during World War II. Originally published in 2007; now the basis of a movie,",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780393333060.jpg",
+			"name": "THE ZOOKEEPER\u2019S WIFE",
+			"publisher": "Norton",
+			"rank": 4
+		},
+		{
+			"author": "by Bill O'Reilly and Bruce Feirstein",
+			"description": "A defense of \u201cold school\u201d traditional values versus \u201csnowflakes.\"",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250135797.jpg",
+			"name": "OLD SCHOOL",
+			"publisher": "Holt",
+			"rank": 5
+		},
+		{
+			"author": "by J.D. Vance",
+			"description": "A Yale Law School graduate looks at the struggles of the white working class through the story of his own childhood.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062300560.jpg",
+			"name": "HILLBILLY ELEGY",
+			"publisher": "HarperCollins",
+			"rank": 6
+		},
+		{
+			"author": "by Charlamagne Tha God",
+			"description": "The radio personality presents his life story and offers advice for success.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501145308.jpg",
+			"name": "BLACK PRIVILEGE",
+			"publisher": "Touchstone",
+			"rank": 7
+		},
+		{
+			"author": "by Connor Franta",
+			"description": "The internet personality discloses his struggles with depression and other issues in short essays and diarylike entries.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501158018.jpg",
+			"name": "NOTE TO SELF",
+			"publisher": "Atria/Keywords",
+			"rank": 8
+		},
+		{
+			"author": "by Rebecca Skloot",
+			"description": "The story of a woman whose cancer cells were cultured without her permission in 1951. Originally published in 2010 and the basis of the HBO movie.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400052189.jpg",
+			"name": "THE IMMORTAL LIFE OF HENRIETTA LACKS",
+			"publisher": "Broadway",
+			"rank": 9
+		},
+		{
+			"author": "by David McCullough",
+			"description": "A collection of speeches by the Pulitzer Prize-winning historian, focused on American values.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501174216.jpg",
+			"name": "THE AMERICAN SPIRIT",
+			"publisher": "Simon & Schuster",
+			"rank": 10
+		},
+		{
+			"author": "by Margot Lee Shetterly",
+			"description": "The story of the black women mathematicians at then-segregated NASA and its precursor. The basis of the movie.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062363619.jpg",
+			"name": "HIDDEN FIGURES",
+			"publisher": "Morrow/HarperCollins",
+			"rank": 11
+		},
+		{
+			"author": "by Steve Case",
+			"description": "In the current era, entrepreneurs will use technology to revolutionize various sectors of the economy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501132605.jpg",
+			"name": "THE THIRD WAVE",
+			"publisher": "Simon & Schuster",
+			"rank": 12
+		},
+		{
+			"author": "by David Limbaugh",
+			"description": "The four Gospel stories are combined into a unified account.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781621576372.jpg",
+			"name": "THE TRUE JESUS",
+			"publisher": "Regnery",
+			"rank": 13
+		},
+		{
+			"author": "by David Grann",
+			"description": "A New Yorker writer searches for a British explorer who disappeared in the Amazon in 1925. Originally published in 2009 and the basis of the 2017 movie.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385513531.jpg",
+			"name": "THE LOST CITY OF Z",
+			"publisher": "Vintage",
+			"rank": 14
+		},
+		{
+			"author": "by Paul Kalanithi",
+			"description": "A memoir by a physician who received a diagnosis of Stage IV lung cancer at the age of 36.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812988413.jpg",
+			"name": "WHEN BREATH BECOMES AIR",
+			"publisher": "Random House",
+			"rank": 15
+		}
+	]
+}

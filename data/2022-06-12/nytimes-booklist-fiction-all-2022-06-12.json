@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Nora Roberts",
+			"description": "Harry Booth, a master thief, breaks things off with Miranda when a dangerous contact might harm her.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250278197.jpg",
+			"name": "NIGHTWORK",
+			"publisher": "St. Martin's",
+			"rank": 1
+		},
+		{
+			"author": "by Delia Owens",
+			"description": "In a quiet town on the North Carolina coast in 1969, a young woman who survived alone in the marsh becomes a murder suspect.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735219090.jpg",
+			"name": "WHERE THE CRAWDADS SING",
+			"publisher": "Putnam",
+			"rank": 2
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "A battered wife raised in a violent home attempts to halt the cycle of abuse.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501110375.jpg",
+			"name": "IT ENDS WITH US",
+			"publisher": "Atria",
+			"rank": 3
+		},
+		{
+			"author": "by Emily Henry",
+			"description": "While on vacation in North Carolina, a literary agent keeps running into an editor.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593334836.jpg",
+			"name": "BOOK LOVERS",
+			"publisher": "Berkley",
+			"rank": 4
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "Lowen Ashleigh is hired by the husband of an injured writer to complete her popular series and uncovers a horrifying truth.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781791392796.jpg",
+			"name": "VERITY",
+			"publisher": "Grand Central",
+			"rank": 5
+		},
+		{
+			"author": "by Taylor Jenkins Reid",
+			"description": "A movie icon recounts stories of her loves and career to a struggling magazine writer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501161933.jpg",
+			"name": "THE SEVEN HUSBANDS OF EVELYN HUGO",
+			"publisher": "Washington Square/Atria",
+			"rank": 6
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "Tate Collins and Miles Archer,\u00a0an airline pilot, think they can handle a no strings attached arrangement. But they can't.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476753195.jpg",
+			"name": "UGLY LOVE",
+			"publisher": "Atria",
+			"rank": 7
+		},
+		{
+			"author": "by Graham Brown",
+			"description": "The 19th book in the NUMA Files series. A search for lost treasure puts Kurt Austin and Joe Zavala in the middle of a cyber-war.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593419670.jpg",
+			"name": "CLIVE CUSSLER'S DARK VECTOR",
+			"publisher": "Putnam",
+			"rank": 8
+		},
+		{
+			"author": "by Emily Henry",
+			"description": "Opposites Poppy and Alex meet to vacation together one more time in hopes of saving their relationship.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984806758.jpg",
+			"name": "PEOPLE WE MEET ON VACATION",
+			"publisher": "Berkley",
+			"rank": 9
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "Is Ben using his relationship with Fallon as fodder for his novel?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501110351.jpg",
+			"name": "NOVEMBER 9",
+			"publisher": "Atria",
+			"rank": 10
+		},
+		{
+			"author": "by James Patterson and Maxine Paetro",
+			"description": "The 22nd book in the Women\u2019s Murder Club series. Lindsay Boxer returns as word gets around about a shipment of drugs and weapons.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316499378.jpg",
+			"name": "22 SECONDS",
+			"publisher": "Little, Brown",
+			"rank": 11
+		},
+		{
+			"author": "by Jennifer Weiner",
+			"description": "A wedding between Ruby Danhauser and her pandemic boyfriend at a family beach house in Cape Cod brings to light family secrets.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501133572.jpg",
+			"name": "THE SUMMER PLACE",
+			"publisher": "Atria",
+			"rank": 12
+		},
+		{
+			"author": "by Taylor Jenkins Reid",
+			"description": "An epic party has serious outcomes for four famous siblings.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524798659.jpg",
+			"name": "MALIBU RISING",
+			"publisher": "Ballantine",
+			"rank": 13
+		},
+		{
+			"author": "by Chris Pavone",
+			"description": "Questions arise when Ariel Pryce\u2019s new husband goes missing.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780374604769.jpg",
+			"name": "TWO NIGHTS IN LISBON",
+			"publisher": "MCD",
+			"rank": 14
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "The third book in the Archer series. Archer, Dash and Callahan search for a missing screenwriter who had a dead body turn up in her home.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538719770.jpg",
+			"name": "DREAM TOWN",
+			"publisher": "Grand Central",
+			"rank": 15
+		}
+	]
+}

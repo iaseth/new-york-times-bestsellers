@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by James Patterson and Maxine Paetro",
+			"description": "The 23rd book in the Women\u2019s Murder Club series. Lindsay Boxer tracks a copycat killer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316402781.jpg",
+			"name": "THE 23RD MIDNIGHT",
+			"publisher": "Little, Brown",
+			"rank": 1
+		},
+		{
+			"author": "by Emily Henry",
+			"description": "A former couple pretend to be together for the sake of their friends during their annual getaway in Maine.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593441275.jpg",
+			"name": "HAPPY PLACE",
+			"publisher": "Berkley",
+			"rank": 2
+		},
+		{
+			"author": "by Carley Fortune",
+			"description": "A decade after a one-day adventure, Will appears again in Fern\u2019s life at her mother\u2019s lakeside resort.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593438558.jpg",
+			"name": "MEET ME AT THE LAKE",
+			"publisher": "Berkley",
+			"rank": 3
+		},
+		{
+			"author": "by Abraham Verghese",
+			"description": "Three generations of a family living on South India\u2019s Malabar Coast suffer the loss of a family member by drowning.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780802162175.jpg",
+			"name": "THE COVENANT OF WATER",
+			"publisher": "Grove",
+			"rank": 4
+		},
+		{
+			"author": "by Rebecca Yarros",
+			"description": "Violet Sorrengail is urged by the commanding general, who also is her mother, to become a candidate for the elite dragon riders.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781649374042.jpg",
+			"name": "FOURTH WING",
+			"publisher": "Red Tower",
+			"rank": 5
+		},
+		{
+			"author": "by Danielle Steel",
+			"description": "An unmarried wedding planner contends with problems, secrets and scandals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984821775.jpg",
+			"name": "THE WEDDING PLANNER",
+			"publisher": "Delacorte",
+			"rank": 6
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "A battered wife raised in a violent home attempts to halt the cycle of abuse.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501110375.jpg",
+			"name": "IT ENDS WITH US",
+			"publisher": "Atria",
+			"rank": 7
+		},
+		{
+			"author": "by Bonnie Garmus",
+			"description": "A scientist and single mother living in California in the 1960s becomes a star on a TV cooking show.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385547345.jpg",
+			"name": "LESSONS IN CHEMISTRY",
+			"publisher": "Doubleday",
+			"rank": 8
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "A former detective becomes the prime suspect in a murder case involving a man with mob ties who was in witness protection.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538750636.jpg",
+			"name": "SIMPLY LIES",
+			"publisher": "Grand Central",
+			"rank": 9
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "In the sequel to \u201cIt Ends With Us,\u201d Lily deals with her jealous ex-husband as she reconnects with her first boyfriend.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781668001226.jpg",
+			"name": "IT STARTS WITH US",
+			"publisher": "Atria",
+			"rank": 10
+		},
+		{
+			"author": "by Laura Dave",
+			"description": "Hannah Hall discovers truths about her missing husband and bonds with his daughter from a previous relationship.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501171345.jpg",
+			"name": "THE LAST THING HE TOLD ME",
+			"publisher": "Marysue Rucci",
+			"rank": 11
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "Lowen Ashleigh is hired by the husband of an injured writer to complete her popular series and uncovers a horrifying truth.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781791392796.jpg",
+			"name": "VERITY",
+			"publisher": "Grand Central",
+			"rank": 12
+		},
+		{
+			"author": "by Mo Xiang Tong Xiu",
+			"description": "The future of the entire cultivation world comes down to a showdown at Guanyin Temple.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781685798406.jpg",
+			"name": "GRANDMASTER OF DEMONIC CULTIVATION: MO DAO ZU SHI, VOL. 5",
+			"publisher": "Seven Seas Entertainment",
+			"rank": 13
+		},
+		{
+			"author": "by Taylor Jenkins Reid",
+			"description": "A movie icon recounts stories of her loves and career to a struggling magazine writer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501161933.jpg",
+			"name": "THE SEVEN HUSBANDS OF EVELYN HUGO",
+			"publisher": "Washington Square/Atria",
+			"rank": 14
+		},
+		{
+			"author": "by Ann Napolitano",
+			"description": "In a homage to Louisa May Alcott\u2019s \u201cLittle Women,\u201d a young man\u2019s dark past resurfaces as he gets to know the family of his college sweetheart.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593243732.jpg",
+			"name": "HELLO BEAUTIFUL",
+			"publisher": "Dial",
+			"rank": 15
+		}
+	]
+}

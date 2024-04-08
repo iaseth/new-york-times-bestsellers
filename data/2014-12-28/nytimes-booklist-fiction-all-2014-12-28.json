@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Anthony Doerr",
+			"description": "The lives of a blind French girl and a gadget-obsessed German boy before and during World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476746586.jpg",
+			"name": "ALL THE LIGHT WE CANNOT SEE",
+			"publisher": "Scribner",
+			"rank": 1
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "John Puller, a special agent with the Army, hunts for his brother, who was convicted of treason and has escaped from prison.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455521197.jpg",
+			"name": "THE ESCAPE",
+			"publisher": "Grand Central",
+			"rank": 2
+		},
+		{
+			"author": "by Gillian Flynn",
+			"description": "A woman disappears on the day of her fifth anniversary; is her husband a killer?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307588388.jpg",
+			"name": "GONE GIRL",
+			"publisher": "Crown",
+			"rank": 3
+		},
+		{
+			"author": "by John Grisham",
+			"description": "A lawyer joins a legal clinic in a small Virginia town, and becomes involved in litigation against the coal mining industry.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385537148.jpg",
+			"name": "GRAY MOUNTAIN",
+			"publisher": "Doubleday",
+			"rank": 4
+		},
+		{
+			"author": "by James Patterson",
+			"description": "Detective Alex Cross\u2019s family is kidnapped by a madman who wants to turn Cross into a perfect killer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316210942.jpg",
+			"name": "HOPE TO DIE",
+			"publisher": "Little, Brown",
+			"rank": 5
+		},
+		{
+			"author": "by Michael Connelly",
+			"description": "The Los Angeles detective Harry Bosch and his new partner investigate two long-unsolved cases.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316225939.jpg",
+			"name": "THE BURNING ROOM",
+			"publisher": "Little, Brown",
+			"rank": 6
+		},
+		{
+			"author": "by Meredith Wild",
+			"description": "Erica is preparing to marry Blake when she makes an unsettling discovery about his past; Book 4 of the Hacker series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/A00B00OO4WLNM.jpg",
+			"name": "HARD LIMIT",
+			"publisher": "Meredith Wild",
+			"rank": 7
+		},
+		{
+			"author": "by Stephen King",
+			"description": "The continuing relationship over five decades between a disgraced clergyman and a drug-addicted musician whom he mentored as a boy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476770406.jpg",
+			"name": "REVIVAL",
+			"publisher": "Scribner",
+			"rank": 8
+		},
+		{
+			"author": "by Mark Greaney",
+			"description": "A discovery of mineral deposits has changed North Korea\u2019s fortunes and made the country even more of a threat for President Jack Ryan.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698185364.jpg",
+			"name": "TOM CLANCY FULL FORCE AND EFFECT",
+			"publisher": "Putnam",
+			"rank": 9
+		},
+		{
+			"author": "by Liane Moriarty",
+			"description": "Who will end up dead, and how, when three mothers with children in the same school become friends?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698138636.jpg",
+			"name": "BIG LITTLE LIES",
+			"publisher": "Amy Einhorn/Putnam",
+			"rank": 10
+		},
+		{
+			"author": "by Mandy M. Roth, Michelle M. Pillow and others",
+			"description": "An anthology of alpha tales, including werewolves, shape-shifters, demons, vampires, dragons and wizards.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781625010957.jpg",
+			"name": "TAMING THE ALPHA",
+			"publisher": "The Raven Books",
+			"rank": 11
+		},
+		{
+			"author": "by Jodi Picoult",
+			"description": "After searching for her mother, who has disappeared, for more than 10 years, a woman employs a psychic and a private detective.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345544933.jpg",
+			"name": "LEAVING TIME",
+			"publisher": "Ballantine",
+			"rank": 12
+		},
+		{
+			"author": "by Sylvia Day",
+			"description": "Eva and Gideon's love is threatened by old wounds; a Crossfire novel.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698153462.jpg",
+			"name": "CAPTIVATED BY YOU",
+			"publisher": "Berkley",
+			"rank": 13
+		},
+		{
+			"author": "by Anita Diamant",
+			"description": "The daughter of Jewish immigrants grows up in early-20th century Boston; by the author of \u201cThe Red Tent.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781439199374.jpg",
+			"name": "THE BOSTON GIRL",
+			"publisher": "Scribner",
+			"rank": 14
+		},
+		{
+			"author": "by Christina Baker Kline",
+			"description": "A historical novel about orphans swept off the streets of New York and sent to the Midwest in the 1920s.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062101204.jpg",
+			"name": "ORPHAN TRAIN",
+			"publisher": "Morrow/HarperCollins",
+			"rank": 15
+		}
+	]
+}

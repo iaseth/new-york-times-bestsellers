@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Bob Woodward",
+			"description": "Based on hours of interviews with sources, the Pulitzer Prize-winning journalist describes debates and decision-making within the Trump White House.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501175534.jpg",
+			"name": "FEAR",
+			"publisher": "Simon & Schuster",
+			"rank": 1
+		},
+		{
+			"author": "by Sally Field",
+			"description": "A memoir by the two-time Academy Award and three-time Emmy Award winner.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538763025.jpg",
+			"name": "IN PIECES",
+			"publisher": "Grand Central",
+			"rank": 2
+		},
+		{
+			"author": "by Jocko Willink and Leif Babin",
+			"description": "Using combat and training experiences, former Navy SEALs explain some opposing forces in leading others.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250195777.jpg",
+			"name": "THE DICHOTOMY OF LEADERSHIP",
+			"publisher": "St. Martin's",
+			"rank": 3
+		},
+		{
+			"author": "by Tara Westover",
+			"description": "The daughter of survivalists, who is kept out of school, educates herself enough to leave home for university.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399590504.jpg",
+			"name": "EDUCATED",
+			"publisher": "Random House",
+			"rank": 4
+		},
+		{
+			"author": "by Doris Kearns Goodwin",
+			"description": "The challenges that shaped the leadership abilities of four presidents: Abraham Lincoln, Theodore Roosevelt, Franklin D. Roosevelt and Lyndon B. Johnson.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476795928.jpg",
+			"name": "LEADERSHIP",
+			"publisher": "Simon & Schuster",
+			"rank": 5
+		},
+		{
+			"author": "by Jill Lepore",
+			"description": "An investigation of truth in America traced through its intertwining histories of politics, law, technology and journalism.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780393635249.jpg",
+			"name": "THESE TRUTHS",
+			"publisher": "Norton",
+			"rank": 6
+		},
+		{
+			"author": "by Kai-Fu Lee",
+			"description": "How artificial intelligence might affect blue-collar jobs and human history in the near future.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781328545862.jpg",
+			"name": "AI SUPERPOWERS",
+			"publisher": "Houghton Mifflin Harcourt",
+			"rank": 7
+		},
+		{
+			"author": "by Yuval Noah Harari",
+			"description": "How Homo sapiens became Earth\u2019s dominant species.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062316097.jpg",
+			"name": "SAPIENS",
+			"publisher": "Harper",
+			"rank": 8
+		},
+		{
+			"author": "by Yuval Noah Harari",
+			"description": "Technological, political and social issues in the modern era, and the choices individuals might consider in facing them.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525512172.jpg",
+			"name": "21 LESSONS FOR THE 21ST CENTURY",
+			"publisher": "Spiegel & Grau",
+			"rank": 9
+		},
+		{
+			"author": "by Neil deGrasse Tyson",
+			"description": "A straightforward, easy-to-understand introduction to the laws that govern the universe.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780393609394.jpg",
+			"name": "ASTROPHYSICS FOR PEOPLE IN A HURRY",
+			"publisher": "Norton",
+			"rank": 10
+		},
+		{
+			"author": "by Ian O'Connor",
+			"description": "A biography of the head coach of the New England Patriots who led the team to five Super Bowl championship victories.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780544785748.jpg",
+			"name": "BELICHICK",
+			"publisher": "Houghton Mifflin Harcourt",
+			"rank": 11
+		},
+		{
+			"author": "by Jason Chaffetz",
+			"description": "The former Republican congressman alleges that parts of the federal bureaucracy try to undermine President Trump.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062851567.jpg",
+			"name": "THE DEEP STATE",
+			"publisher": "Broadside",
+			"rank": 12
+		},
+		{
+			"author": "by Sy Montgomery. Illustrated by Rebecca Green",
+			"description": "The naturalist\u2019s memoir covering lessons of empathy, gratitude and loss she learned while studying 13 animals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780544938328.jpg",
+			"name": "HOW TO BE A GOOD CREATURE",
+			"publisher": "Houghton Mifflin Harcourt",
+			"rank": 13
+		},
+		{
+			"author": "by Sam Kashner and Nancy Schoenberger",
+			"description": "The rivalry, jealousy and competition within the complicated relationship between Jackie Kennedy Onassis and Lee Radziwill.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062364982.jpg",
+			"name": "THE FABULOUS BOUVIER SISTERS",
+			"publisher": "Harper",
+			"rank": 14
+		},
+		{
+			"author": "by Gregg Jarrett",
+			"description": "The Fox News analyst makes his case against the F.B.I. investigation into collusion between the Trump campaign and Russia.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062872746.jpg",
+			"name": "THE RUSSIA HOAX",
+			"publisher": "Broadside",
+			"rank": 15
+		}
+	]
+}

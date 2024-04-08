@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Kathryn Stockett",
+			"description": "A young white woman and two black maids in 1960s Mississippi.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781440697661.jpg",
+			"name": "THE HELP",
+			"publisher": "Penguin Group",
+			"rank": 1
+		},
+		{
+			"author": "by Daniel Silva",
+			"description": "To stop a network of death, an international operative must reach into his violent past.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062072184.jpg",
+			"name": "PORTRAIT OF A SPY",
+			"publisher": "HarperCollins",
+			"rank": 2
+		},
+		{
+			"author": "by George R. R. Martin",
+			"description": "After a colossal battle, the Seven Kingdoms face new threats; Book 5 of \u201cA Song of Ice and Fire.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780553582017.jpg",
+			"name": "A DANCE WITH DRAGONS",
+			"publisher": "Random House",
+			"rank": 3
+		},
+		{
+			"author": "by James Patterson and Michael Ledwidge",
+			"description": "Nina Bloom, who years ago changed her identity to save her life, is forced to confront the past and the killer she thought she had escaped.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316127233.jpg",
+			"name": "NOW YOU SEE HER",
+			"publisher": "Little, Brown",
+			"rank": 4
+		},
+		{
+			"author": "by Catherine Coulter",
+			"description": "A serial killer is on the loose, and it\u2019s up to the F.B.I. agents Dillon Savich and Lacey Sherlock to bring him down.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101529201.jpg",
+			"name": "SPLIT SECOND",
+			"publisher": "Penguin Group",
+			"rank": 5
+		},
+		{
+			"author": "by Danielle Steel",
+			"description": "A woman, her daughter and a former football player arrive at their own crucial turning points on the same day.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385340304.jpg",
+			"name": "HAPPY BIRTHDAY",
+			"publisher": "Random House",
+			"rank": 6
+		},
+		{
+			"author": "by George R.R. Martin",
+			"description": "In the frozen wastes to the north of Winterfell, sinister and supernatural forces are mustering.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780553897845.jpg",
+			"name": "A GAME OF THRONES",
+			"publisher": "Random House",
+			"rank": 7
+		},
+		{
+			"author": "by Michael Connelly",
+			"description": "The Los Angeles homicide detective Hieronymus Bosch investigates the death of a fellow Vietnam veteran.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780759525771.jpg",
+			"name": "THE BLACK ECHO",
+			"publisher": "Little, Brown",
+			"rank": 8
+		},
+		{
+			"author": "by John Grisham",
+			"description": "A criminal wants to save an innocent man on death row, but he must convince the authorities he\u2019s telling the truth.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780440245117.jpg",
+			"name": "THE CONFESSION",
+			"publisher": "Knopf Doubleday",
+			"rank": 9
+		},
+		{
+			"author": "by Jennifer Weiner",
+			"description": "This timely tale delves into women\u2019s lives, with themes of class and entitlement, surrogacy and donorship.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451617726.jpg",
+			"name": "THEN CAME YOU",
+			"publisher": "Simon & Schuster",
+			"rank": 10
+		},
+		{
+			"author": "by Janet Evanovich",
+			"description": "A killer is after the bounty hunter Stephanie Plum, who faces further complications as she tries to choose a boyfriend.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345527691.jpg",
+			"name": "SMOKIN\u2019 SEVENTEEN",
+			"publisher": "Random House",
+			"rank": 11
+		},
+		{
+			"author": "by Sara Gruen",
+			"description": "After his parents are killed in a car accident, a young veterinary student \u2014 and an elephant \u2014 save a Depression-era circus.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781616200718.jpg",
+			"name": "WATER FOR ELEPHANTS",
+			"publisher": "Algonquin",
+			"rank": 12
+		},
+		{
+			"author": "by George R.R. Martin",
+			"description": "From the citadel of Dragonstone to the shores of Winterfell, factions vie for control of a divided land; Book 2 of \"A Song of Ice and Fire.\"",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780553579901.jpg",
+			"name": "A CLASH OF KINGS",
+			"publisher": "Random House",
+			"rank": 13
+		},
+		{
+			"author": "by Ann Patchett",
+			"description": "In the Amazon, a medical researcher seeks her former mentor, a despotic scientist developing a miracle fertility drug.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062049827.jpg",
+			"name": "STATE OF WONDER",
+			"publisher": "HarperCollins",
+			"rank": 14
+		},
+		{
+			"author": "by Tatiana de Rosnay",
+			"description": "A contemporary American journalist investigates what happened to a little girl and her family during the roundup of Jews in Paris in 1942.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780312370848.jpg",
+			"name": "SARAH\u2019S KEY",
+			"publisher": "St. Martin\u2019s",
+			"rank": 15
+		}
+	]
+}

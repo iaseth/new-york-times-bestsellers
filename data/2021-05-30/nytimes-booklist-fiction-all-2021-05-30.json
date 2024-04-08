@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Stacey Abrams",
+			"description": "When Justice Wynn slips into a coma, his law clerk, Avery Keene, must unravel the clues of a controversial case.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385546577.jpg",
+			"name": "WHILE JUSTICE SLEEPS",
+			"publisher": "Doubleday",
+			"rank": 1
+		},
+		{
+			"author": "by John Grisham",
+			"description": "Samuel Sooleymon receives a basketball scholarship to North Carolina Central and determines to bring his family over from a civil war-ravaged South Sudan.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385547680.jpg",
+			"name": "SOOLEY",
+			"publisher": "Doubleday",
+			"rank": 2
+		},
+		{
+			"author": "by Laura Dave",
+			"description": "Hannah Hall discovers truths about her missing husband and bonds with his daughter from a previous relationship.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501171345.jpg",
+			"name": "THE LAST THING HE TOLD ME",
+			"publisher": "Simon & Schuster",
+			"rank": 3
+		},
+		{
+			"author": "by Jennifer Weiner",
+			"description": "Daisy Shoemaker receives emails intended for a woman leading a more glamorous life and finds there was more to this accident.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501133541.jpg",
+			"name": "THAT SUMMER",
+			"publisher": "Atria",
+			"rank": 4
+		},
+		{
+			"author": "by Emily Henry",
+			"description": "Opposites Poppy and Alex meet to vacation together one more time in hopes of saving their relationship.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984806758.jpg",
+			"name": "PEOPLE WE MEET ON VACATION",
+			"publisher": "Berkley",
+			"rank": 5
+		},
+		{
+			"author": "by James Patterson and Maxine Paetro",
+			"description": "The 21st book in the Women\u2019s Murder Club series. New evidence changes the investigation of a missing mother.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316499347.jpg",
+			"name": "21ST BIRTHDAY",
+			"publisher": "Little, Brown",
+			"rank": 6
+		},
+		{
+			"author": "by Andy Weir",
+			"description": "Ryland Grace awakes from a long sleep alone and far from home, and the fate of humanity rests on his shoulders.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593135204.jpg",
+			"name": "PROJECT HAIL MARY",
+			"publisher": "Ballantine",
+			"rank": 7
+		},
+		{
+			"author": "by Delia Owens",
+			"description": "In a quiet town on the North Carolina coast in 1969, a young woman who survived alone in the marsh becomes a murder suspect.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735219090.jpg",
+			"name": "WHERE THE CRAWDADS SING",
+			"publisher": "Putnam",
+			"rank": 8
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "Aloysius Archer, a World War II veteran, seeks to apprentice with Willie Dash, a private eye, in a corrupt California town.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538719671.jpg",
+			"name": "A GAMBLING MAN",
+			"publisher": "Grand Central",
+			"rank": 9
+		},
+		{
+			"author": "by Kristin Hannah",
+			"description": "As dust storms roll during the Great Depression, Elsa must choose between saving the family and farm or heading West.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250178602.jpg",
+			"name": "THE FOUR WINDS",
+			"publisher": "St. Martin's",
+			"rank": 10
+		},
+		{
+			"author": "by Matt Haig",
+			"description": "Nora Seed finds a library beyond the edge of the universe that contains books with multiple possibilities of the lives one could have lived.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525559474.jpg",
+			"name": "THE MIDNIGHT LIBRARY",
+			"publisher": "Viking",
+			"rank": 11
+		},
+		{
+			"author": "by Amanda Gorman",
+			"description": "The poem read on President Joe Biden's Inauguration Day, by the youngest poet to write and perform an inaugural poem.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593465271.jpg",
+			"name": "THE HILL WE CLIMB",
+			"publisher": "Viking",
+			"rank": 12
+		},
+		{
+			"author": "by Mary Alice Monroe",
+			"description": "The seventh book in the Beach House series. A love triangle is complicated by Covid-19.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982148348.jpg",
+			"name": "THE SUMMER OF LOST AND FOUND",
+			"publisher": "Gallery",
+			"rank": 13
+		},
+		{
+			"author": "by Alex Michaelides",
+			"description": "Theo Faber looks into the mystery of a famous painter who stops speaking after shooting her husband.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250301697.jpg",
+			"name": "THE SILENT PATIENT",
+			"publisher": "Celadon",
+			"rank": 14
+		},
+		{
+			"author": "by Jake Tapper",
+			"description": "The second book in the Charlie and Margaret Marder Mystery series. Attorney General Robert Kennedy asks the Marders to look into a threat, which brings them into contact with the Rat Pack and the Church of Scientology.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316530231.jpg",
+			"name": "THE DEVIL MAY DANCE",
+			"publisher": "Little, Brown",
+			"rank": 15
+		}
+	]
+}

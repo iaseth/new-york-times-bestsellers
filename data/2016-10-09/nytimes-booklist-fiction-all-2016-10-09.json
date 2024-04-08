@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Paula Hawkins",
+			"description": "A psychological thriller set in the environs of London is full of complications and betrayals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594633669.jpg",
+			"name": "THE GIRL ON THE TRAIN",
+			"publisher": "Riverhead",
+			"rank": 1
+		},
+		{
+			"author": "by Harlan Coben",
+			"description": "Myron Bolitar and his friend Win locate a boy who was kidnapped 10 years earlier; the 11th Myron Bolitar novel.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698411449.jpg",
+			"name": "HOME",
+			"publisher": "Dutton",
+			"rank": 2
+		},
+		{
+			"author": "by Karin Slaughter",
+			"description": "Will Trent of the Georgia Bureau of Investigation and his lover, the medical examiner Sara Linton, pursue a case involving a dirty Atlanta cop.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062430236.jpg",
+			"name": "THE KEPT WOMAN",
+			"publisher": "Morrow/HarperCollins",
+			"rank": 3
+		},
+		{
+			"author": "by Ilona Andrews",
+			"description": "The mercenary Kate Daniels and the man she loves decide to marry, but there are steep obstacles standing in the way to the altar.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780425270691.jpg",
+			"name": "MAGIC BINDS",
+			"publisher": "Ace",
+			"rank": 4
+		},
+		{
+			"author": "by Ann Patchett",
+			"description": "Five decades in the lives of two families \u2014 parents, children, siblings, stepchildren \u2014 remade by divorce.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062491817.jpg",
+			"name": "COMMONWEALTH",
+			"publisher": "Harper/HarperCollins",
+			"rank": 5
+		},
+		{
+			"author": "by M. L. Stedman",
+			"description": "An Australian lighthouse keeper and his wife decide to keep a baby who has washed ashore.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451681758.jpg",
+			"name": "THE LIGHT BETWEEN OCEANS",
+			"publisher": "Scribner",
+			"rank": 6
+		},
+		{
+			"author": "by Lynsay Sands",
+			"description": "A kidnapped man is rescued by the woman of his dreams, then hunted by his kidnappers. An Argeneau novel.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062316073.jpg",
+			"name": "IMMORTAL NIGHTS",
+			"publisher": "Avon/HarperCollins",
+			"rank": 7
+		},
+		{
+			"author": "by Fredrik Backman",
+			"description": "A curmudgeon's gruff exterior masks a generosity of spirit. Originally published in Sweden in 2014.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476738024.jpg",
+			"name": "A MAN CALLED OVE",
+			"publisher": "Washington Square",
+			"rank": 8
+		},
+		{
+			"author": "by Alan Bradley",
+			"description": "In this eighth Flavia de Luce novel, the 12-year-old chemist-slash-sleuth goes home to England, finds a dead body and is on the trail again.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345539984.jpg",
+			"name": "THRICE THE BRINDED CAT HATH MEW'D",
+			"publisher": "Random House",
+			"rank": 9
+		},
+		{
+			"author": "by Ruth Ware",
+			"description": "A travel writer on a cruise is certain she has heard a body thrown overboard, but no one believes her.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501132940.jpg",
+			"name": "THE WOMAN IN CABIN 10",
+			"publisher": "Scout",
+			"rank": 10
+		},
+		{
+			"author": "by Carl Hiaasen",
+			"description": "The ex-cop Andrew Yancy\u200b from \u200b\u201cBad Monkey\u201d gets involved in a kidnapping gone wrong.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385349758.jpg",
+			"name": "RAZOR GIRL",
+			"publisher": "Knopf",
+			"rank": 11
+		},
+		{
+			"author": "by J. D. Robb",
+			"description": "Lt. Eve Dallas of the N.Y.P.D. calls on the technological expertise of her husband when three skaters are shot by a sniper.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101987971.jpg",
+			"name": "APPRENTICE IN DEATH",
+			"publisher": "Berkley",
+			"rank": 12
+		},
+		{
+			"author": "by Colson Whitehead",
+			"description": "A teenage girl heads north on the network that helped slaves escape to freedom, envisioned in this novel as a secret system of actual tracks and tunnels.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385542364.jpg",
+			"name": "THE UNDERGROUND RAILROAD",
+			"publisher": "Doubleday",
+			"rank": 13
+		},
+		{
+			"author": "by Amy Tan",
+			"description": "A Chinese-American woman struggles to understand her family and herself. Originally published in 2001.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101202951.jpg",
+			"name": "THE BONESETTER'S DAUGHTER",
+			"publisher": "Putnam",
+			"rank": 14
+		},
+		{
+			"author": "by Dan Brown",
+			"description": "The symbologist Robert Langdon, on the run in Florence, must decipher a series of codes created by a Dante-loving scientist.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400079155.jpg",
+			"name": "INFERNO",
+			"publisher": "Anchor",
+			"rank": 15
+		}
+	]
+}

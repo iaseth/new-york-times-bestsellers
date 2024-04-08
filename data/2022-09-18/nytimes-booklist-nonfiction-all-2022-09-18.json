@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Jennette McCurdy",
+			"description": "The actress and filmmaker describes her eating disorders and difficult relationship with her mother.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982185824.jpg",
+			"name": "I'M GLAD MY MOM DIED",
+			"publisher": "Simon & Schuster",
+			"rank": 1
+		},
+		{
+			"author": "by Bessel van der Kolk",
+			"description": "How trauma affects the body and mind, and innovative treatments for recovery.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780670785933.jpg",
+			"name": "THE BODY KEEPS THE SCORE",
+			"publisher": "Penguin",
+			"rank": 2
+		},
+		{
+			"author": "by Jared Kushner",
+			"description": "An account of time spent in the Trump White House by the former president\u2019s son-in-law and senior adviser.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063221482.jpg",
+			"name": "BREAKING HISTORY",
+			"publisher": "Broadside",
+			"rank": 3
+		},
+		{
+			"author": "by Michelle Zauner",
+			"description": "The daughter of a Korean mother and Jewish-American father, and leader of the indie rock project Japanese Breakfast, describes creating her own identity after losing her mother to cancer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525657743.jpg",
+			"name": "CRYING IN H MART",
+			"publisher": "Knopf",
+			"rank": 4
+		},
+		{
+			"author": "by James Patterson and Chris Mooney",
+			"description": "A biography of the late Princess of Wales and her sons.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780759554221.jpg",
+			"name": "DIANA, WILLIAM, AND HARRY",
+			"publisher": "Little, Brown",
+			"rank": 5
+		},
+		{
+			"author": "by Tara Westover",
+			"description": "The daughter of survivalists, who is kept out of school, educates herself enough to leave home for university.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399590504.jpg",
+			"name": "EDUCATED",
+			"publisher": "Random House",
+			"rank": 6
+		},
+		{
+			"author": "by David Maraniss",
+			"description": "The life story of the Olympic athlete, All-American football player and Major League Baseball player Jim Thorpe.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476748412.jpg",
+			"name": "PATH LIT BY LIGHTNING",
+			"publisher": "Simon & Schuster",
+			"rank": 7
+		},
+		{
+			"author": "by Viola Davis",
+			"description": "The multiple award-winning actress describes the difficulties she encountered before claiming her sense of self and achieving professional success.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063037328.jpg",
+			"name": "FINDING ME",
+			"publisher": "HarperOne",
+			"rank": 8
+		},
+		{
+			"author": "by Robin Wall Kimmerer",
+			"description": "A botanist and member of the Citizen Potawatomi Nation espouses having an understanding and appreciation of plants and animals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781571313560.jpg",
+			"name": "BRAIDING SWEETGRASS",
+			"publisher": "Milkweed Editions",
+			"rank": 9
+		},
+		{
+			"author": "by Trevor Noah",
+			"description": "A memoir about growing up biracial in apartheid South Africa by the host of \u201cThe Daily Show.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399588181.jpg",
+			"name": "BORN A CRIME",
+			"publisher": "One World",
+			"rank": 10
+		},
+		{
+			"author": "by Ed Yong",
+			"description": "The Pulitzer Prize\u2013winning science writer explains the sensory perceptions and ways of communication used by a variety of animals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593133231.jpg",
+			"name": "AN IMMENSE WORLD",
+			"publisher": "Random House",
+			"rank": 11
+		},
+		{
+			"author": "by bell hooks",
+			"description": "The late feminist icon explores the causes of a polarized society and the meaning of love.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780060959470.jpg",
+			"name": "ALL ABOUT LOVE",
+			"publisher": "Morrow",
+			"rank": 12
+		},
+		{
+			"author": "by Rinker Buck",
+			"description": "The author of \u201cThe Oregon Trail\u201d recounts his adventures on a wooden flatboat and challenges the myths of American expansion.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501106378.jpg",
+			"name": "LIFE ON THE MISSISSIPPI",
+			"publisher": "Avid Reader",
+			"rank": 13
+		},
+		{
+			"author": "by Matthew McConaughey",
+			"description": "The Academy Award-winning actor shares snippets from the diaries he kept over the last 35 years.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593139134.jpg",
+			"name": "GREENLIGHTS",
+			"publisher": "Crown",
+			"rank": 14
+		},
+		{
+			"author": "by Adam Grant",
+			"description": "An examination of the cognitive skills of rethinking and unlearning that could be used to adapt to a rapidly changing world.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984878106.jpg",
+			"name": "THINK AGAIN",
+			"publisher": "Viking",
+			"rank": 15
+		}
+	]
+}

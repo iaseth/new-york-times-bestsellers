@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by David Grann",
+			"description": "The story of a murder spree in 1920s Oklahoma that targeted Osage Indians, whose lands contained oil.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385534246.jpg",
+			"name": "KILLERS OF THE FLOWER MOON",
+			"publisher": "Doubleday",
+			"rank": 1
+		},
+		{
+			"author": "by David Grann",
+			"description": "The survivors of a shipwrecked British vessel on a secret mission during an imperial war with Spain have different accounts of events.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385534260.jpg",
+			"name": "THE WAGER",
+			"publisher": "Doubleday",
+			"rank": 2
+		},
+		{
+			"author": "by Peter Attia with Bill Gifford",
+			"description": "A look at recent scientific research on aging and longevity.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593236598.jpg",
+			"name": "OUTLIVE",
+			"publisher": "Harmony",
+			"rank": 3
+		},
+		{
+			"author": "by Bessel van der Kolk",
+			"description": "How trauma affects the body and mind, and innovative treatments for recovery.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780670785933.jpg",
+			"name": "THE BODY KEEPS THE SCORE",
+			"publisher": "Penguin",
+			"rank": 4
+		},
+		{
+			"author": "by Johnny Joey Jones",
+			"description": "The Fox News military analyst shares stories from working with veterans for over a decade.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063226081.jpg",
+			"name": "UNBROKEN BONDS OF BATTLE",
+			"publisher": "Broadside",
+			"rank": 5
+		},
+		{
+			"author": "by Jennette McCurdy",
+			"description": "The actress and filmmaker describes her eating disorders and difficult relationship with her mother.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982185824.jpg",
+			"name": "I'M GLAD MY MOM DIED",
+			"publisher": "Simon & Schuster",
+			"rank": 6
+		},
+		{
+			"author": "by Michael Finkel",
+			"description": "The author of \u201cThe Stranger in the Woods\u201d tells the story of St\u00e9phane Breitwieser, who stole art more than 200 times for the sake of admiring it.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525657323.jpg",
+			"name": "THE ART THIEF",
+			"publisher": "Knopf",
+			"rank": 7
+		},
+		{
+			"author": "by Hadley Vlahos",
+			"description": "A hospice nurse shares some of her most impactful experiences and questions some of society's beliefs around end-of-life care.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593499931.jpg",
+			"name": "THE IN-BETWEEN",
+			"publisher": "Ballantine",
+			"rank": 8
+		},
+		{
+			"author": "by Michelle Zauner",
+			"description": "The daughter of a Korean mother and Jewish American father, and leader of the indie rock project Japanese Breakfast, describes creating her own identity after losing her mother to cancer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525657743.jpg",
+			"name": "CRYING IN H MART",
+			"publisher": "Vintage",
+			"rank": 9
+		},
+		{
+			"author": "by Paul McCartney",
+			"description": "A collection of photographs taken with a 35-millimeter camera during the rise of the Beatles from the end of 1963 through early 1964.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781324093060.jpg",
+			"name": "1964",
+			"publisher": "Liveright",
+			"rank": 10
+		},
+		{
+			"author": "by Kai Bird and Martin J. Sherwin",
+			"description": "A biography of J. Robert Oppenheimer. Winner of the Pulitzer Prize in 2006 and an inspiration for the film \u201cOppenheimer.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780375726262.jpg",
+			"name": "AMERICAN PROMETHEUS",
+			"publisher": "Vintage",
+			"rank": 11
+		},
+		{
+			"author": "by bell hooks",
+			"description": "The late feminist icon explores the causes of a polarized society and the meaning of love.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780060959470.jpg",
+			"name": "ALL ABOUT LOVE",
+			"publisher": "Morrow",
+			"rank": 12
+		},
+		{
+			"author": "by Elliot Page",
+			"description": "The Oscar-nominated star details discovering himself as a trans person and navigating abuse in Hollywood.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250878359.jpg",
+			"name": "PAGEBOY",
+			"publisher": "Flatiron",
+			"rank": 13
+		},
+		{
+			"author": "by Robin Wall Kimmerer",
+			"description": "A botanist and member of the Citizen Potawatomi Nation espouses having an understanding and appreciation of plants and animals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781571313560.jpg",
+			"name": "BRAIDING SWEETGRASS",
+			"publisher": "Milkweed Editions",
+			"rank": 14
+		},
+		{
+			"author": "by David Sedaris",
+			"description": "The humorist portrays personal and public upheavals of his life in its seventh decade and the world in the time of a pandemic.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316392457.jpg",
+			"name": "HAPPY-GO-LUCKY",
+			"publisher": "Back Bay",
+			"rank": 15
+		}
+	]
+}

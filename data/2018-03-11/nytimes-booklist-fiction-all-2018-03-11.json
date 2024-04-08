@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Kristin Hannah",
+			"description": "A former prisoner of war returns from Vietnam and moves his family to Alaska, where they face tough conditions.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250165619.jpg",
+			"name": "THE GREAT ALONE",
+			"publisher": "St. Martin's",
+			"rank": 1
+		},
+		{
+			"author": "by James Patterson and Candice Fox",
+			"description": "Detective Harriet Blue tries to clear her brother's name and save a small Australian town from being massacred.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316513241.jpg",
+			"name": "FIFTY FIFTY",
+			"publisher": "Little, Brown",
+			"rank": 2
+		},
+		{
+			"author": "by Jason Matthews",
+			"description": "A Russian intelligence officer trained in the art of seduction becomes entangled with a young C.I.A. officer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476706122.jpg",
+			"name": "RED SPARROW",
+			"publisher": "Scribner",
+			"rank": 3
+		},
+		{
+			"author": "by A.J. Finn",
+			"description": "A recluse who drinks heavily and takes prescription drugs may have witnessed a crime across from her Harlem townhouse.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062678416.jpg",
+			"name": "THE WOMAN IN THE WINDOW",
+			"publisher": "Morrow",
+			"rank": 4
+		},
+		{
+			"author": "by Tayari Jones",
+			"description": "A newlywed couple's relationship is tested when the husband is sentenced to 12 years in prison.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781616207601.jpg",
+			"name": "AN AMERICAN MARRIAGE",
+			"publisher": "Algonquin",
+			"rank": 5
+		},
+		{
+			"author": "by Ernest Cline",
+			"description": "It\u2019s 2044, life on a resource-depleted Earth has grown increasingly grim, and the key to a vast fortune is hidden in a virtual-reality world.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307887443.jpg",
+			"name": "READY PLAYER ONE",
+			"publisher": "Broadway",
+			"rank": 6
+		},
+		{
+			"author": "by Mark Greaney",
+			"description": "The seventh book in the Gray Man series. Court Gentry gets the chance to end a brutal dictatorship.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780451488923.jpg",
+			"name": "AGENT IN PLACE",
+			"publisher": "Berkley",
+			"rank": 7
+		},
+		{
+			"author": "by Jojo Moyes",
+			"description": "Louisa Clark moves to New York and is torn between high society and the life she enjoys at a vintage clothing store.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399562471.jpg",
+			"name": "STILL ME",
+			"publisher": "Pamela Dorman/Viking",
+			"rank": 8
+		},
+		{
+			"author": "by Celeste Ng",
+			"description": "An artist upends a quiet town outside Cleveland.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735224308.jpg",
+			"name": "LITTLE FIRES EVERYWHERE",
+			"publisher": "Penguin Press",
+			"rank": 9
+		},
+		{
+			"author": "by Lisa Gardner",
+			"description": "Sergeant Detective D.\u2009D. Warren teams up with a torture survivor to find a missing teenager whose family was gunned down.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524742065.jpg",
+			"name": "LOOK FOR ME",
+			"publisher": "Dutton",
+			"rank": 10
+		},
+		{
+			"author": "by Penelope Ward",
+			"description": "Childhood friends reunited after college find their potential romance interrupted after one hires an escort.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781942215738.jpg",
+			"name": "GENTLEMAN NINE",
+			"publisher": "Penelope Ward",
+			"rank": 11
+		},
+		{
+			"author": "by Lisa Wingate",
+			"description": "A South Carolina lawyer learns about the questionable practices of a Tennessee orphanage.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780425284681.jpg",
+			"name": "BEFORE WE WERE YOURS",
+			"publisher": "Ballantine",
+			"rank": 12
+		},
+		{
+			"author": "by Jonathan Kellerman",
+			"description": "Homicide detective Milo Sturgis enlists the psychologist Alex Delaware to help solve a John Doe case.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345541475.jpg",
+			"name": "NIGHT MOVES",
+			"publisher": "Ballantine",
+			"rank": 13
+		},
+		{
+			"author": "by Greer Hendricks and Sarah Pekkanen",
+			"description": "The story of a love triangle is told from several points of view.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250130921.jpg",
+			"name": "THE WIFE BETWEEN US",
+			"publisher": "St. Martin's",
+			"rank": 14
+		},
+		{
+			"author": "by Rupi Kaur",
+			"description": "Poetic approaches to surviving adversity and loss.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781449474256.jpg",
+			"name": "MILK AND HONEY",
+			"publisher": "Andrews McMeel",
+			"rank": 15
+		}
+	]
+}

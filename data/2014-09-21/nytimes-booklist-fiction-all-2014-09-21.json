@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Lee Child",
+			"description": "Jack Reacher, a former military cop, helps the State Department and the C.I.A. stop a sniper who has targeted a G8 summit.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780804178747.jpg",
+			"name": "PERSONAL",
+			"publisher": "Delacorte",
+			"rank": 1
+		},
+		{
+			"author": "by Jan Karon",
+			"description": "The Mitford character Father Tim Kavanagh returns to his native town to find friends and family wrestling with difficulties.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399167447.jpg",
+			"name": "SOMEWHERE SAFE WITH SOMEBODY GOOD",
+			"publisher": "Putnam",
+			"rank": 2
+		},
+		{
+			"author": "by Clive Cussler and Russell Blake",
+			"description": "The treasure hunters Sam and Remi Fargo discover a Viking ship in the Arctic ice, full of artifacts from pre-Columbian Mexico.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698140745.jpg",
+			"name": "THE EYE OF HEAVEN",
+			"publisher": "Putnam",
+			"rank": 3
+		},
+		{
+			"author": "by Gillian Flynn",
+			"description": "A woman disappears on the day of her fifth anniversary; is her husband a killer?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307588388.jpg",
+			"name": "GONE GIRL",
+			"publisher": "Crown",
+			"rank": 4
+		},
+		{
+			"author": "by Tana French",
+			"description": "A clue to a murder on the grounds of a girls\u2019 school in the Dublin suburbs appears on a bulletin board, and Detectives Stephen Moran and Antoinette Conway investigate.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698170285.jpg",
+			"name": "THE SECRET PLACE",
+			"publisher": "Viking",
+			"rank": 5
+		},
+		{
+			"author": "by Diana Gabaldon",
+			"description": "Claire Randall, an English nurse, is transported back to 1743 during a second honeymoon in the Scottish Highlands. There she begins an affair with James Fraser, a redheaded soldier. Originally published in 1991.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780440212560.jpg",
+			"name": "OUTLANDER",
+			"publisher": "Dell",
+			"rank": 6
+		},
+		{
+			"author": "by Sandra Brown",
+			"description": "A North Carolina pediatrician is held captive by a mysterious man who forces her to question her life.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455581139.jpg",
+			"name": "MEAN STREAK",
+			"publisher": "Grand Central",
+			"rank": 7
+		},
+		{
+			"author": "by Christine Feehan",
+			"description": "In Book 26 (and part of a sub-trilogy) of the Dark series, Zev, an elite warrior, wonders about the future of the Carpathians.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698139350.jpg",
+			"name": "DARK BLOOD",
+			"publisher": "Berkley",
+			"rank": 8
+		},
+		{
+			"author": "by Liane Moriarty",
+			"description": "Who will end up dead, and how, when three mothers with children in the same school become friends?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698138636.jpg",
+			"name": "BIG LITTLE LIES",
+			"publisher": "Amy Einhorn/Putnam",
+			"rank": 9
+		},
+		{
+			"author": "by David Mitchell",
+			"description": "Stories from the medieval Swiss Alps to the 19th-century Australian bush to a hotel in Shanghai to Manhattan in the near future are stitched together.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400065677.jpg",
+			"name": "THE BONE CLOCKS",
+			"publisher": "Random House",
+			"rank": 10
+		},
+		{
+			"author": "by Abbi Glines",
+			"description": "The story of Grant and Harlow continues; Book 7 in the Rosemary Beach series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476756592.jpg",
+			"name": "ONE MORE CHANCE",
+			"publisher": "Atria",
+			"rank": 11
+		},
+		{
+			"author": "by Sherrilyn Kenyon",
+			"description": "Book 18 of the Dark-Hunter novels finds Cadegan, who has been damned for centuries, in pursuit of Josette Landry.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250029928.jpg",
+			"name": "SON OF NO ONE",
+			"publisher": "St. Martin's",
+			"rank": 12
+		},
+		{
+			"author": "by Fern Michaels",
+			"description": "The men in the Sisterhood\u2019s lives join forces to see justice served.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781420134964.jpg",
+			"name": "COUNTDOWN",
+			"publisher": "Kensington",
+			"rank": 13
+		},
+		{
+			"author": "by Nicholas Sparks",
+			"description": "Twenty-five years after their high school romance ended, a man and woman who have gone their separate ways return to their North Carolina town for the funeral of a friend.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780446547642.jpg",
+			"name": "THE BEST OF ME",
+			"publisher": "Grand Central",
+			"rank": 14
+		},
+		{
+			"author": "by John Grisham",
+			"description": "A sequel, about race and inheritance, to \u201cA Time to Kill.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385537926.jpg",
+			"name": "SYCAMORE ROW",
+			"publisher": "Doubleday",
+			"rank": 15
+		}
+	]
+}

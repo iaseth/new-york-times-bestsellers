@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by John Grisham",
+			"description": "A decorated World War II veteran shoots and kills a pastor inside a Mississippi church.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385544160.jpg",
+			"name": "THE RECKONING",
+			"publisher": "Doubleday",
+			"rank": 1
+		},
+		{
+			"author": "by Nicholas Sparks",
+			"description": "Difficult choices surface when Hope Anderson and Tru Walls meet in a North Carolina seaside town.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538728529.jpg",
+			"name": "EVERY BREATH",
+			"publisher": "Grand Central",
+			"rank": 2
+		},
+		{
+			"author": "by Delia Owens",
+			"description": "In a quiet town on the North Carolina coast in 1969, a young woman who survived alone in the marsh becomes a murder suspect.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735219090.jpg",
+			"name": "WHERE THE CRAWDADS SING",
+			"publisher": "Putnam",
+			"rank": 3
+		},
+		{
+			"author": "by George R.R. Martin",
+			"description": "Set 300 years before the events of \u201cA Game of Thrones,\u201d this is the first volume of the two-part history of the Targaryens in Westeros.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524796280.jpg",
+			"name": "FIRE AND BLOOD",
+			"publisher": "Bantam",
+			"rank": 4
+		},
+		{
+			"author": "by James Patterson",
+			"description": "Alex Cross returns for the 26th book in the series bearing his name.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316417501.jpg",
+			"name": "TARGET: ALEX CROSS",
+			"publisher": "Little, Brown",
+			"rank": 5
+		},
+		{
+			"author": "by Lee Child",
+			"description": "Jack Reacher explores the New England town where his father was born and a Canadian couple now find themselves stranded.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399593512.jpg",
+			"name": "PAST TENSE",
+			"publisher": "Delacorte",
+			"rank": 6
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "Atlee Pine, an F.B.I. agent who is haunted by the childhood kidnapping of her twin sister, must choose between protecting her career or the United States' democracy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538761571.jpg",
+			"name": "LONG ROAD TO MERCY",
+			"publisher": "Grand Central Publishing",
+			"rank": 7
+		},
+		{
+			"author": "by Nora Roberts",
+			"description": "While the people of New Hope face threats, Fallon Swift goes on three quests to discover her powers.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250123022.jpg",
+			"name": "OF BLOOD AND BONE",
+			"publisher": "St. Martin's",
+			"rank": 8
+		},
+		{
+			"author": "by Liane Moriarty",
+			"description": "A romance writer becomes fascinated by the owner and director of a health resort.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250069849.jpg",
+			"name": "NINE PERFECT STRANGERS",
+			"publisher": "Flatiron",
+			"rank": 9
+		},
+		{
+			"author": "by Heather Morris",
+			"description": "A concentration camp detainee tasked with permanently marking fellow prisoners falls in love with one of them.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062797155.jpg",
+			"name": "THE TATTOOIST OF AUSCHWITZ",
+			"publisher": "Harper",
+			"rank": 10
+		},
+		{
+			"author": "by W. Bruce Cameron",
+			"description": "A dog sets out across 400 miles of wilderness to find the man who rescued her as a puppy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780765374653.jpg",
+			"name": "A DOG'S WAY HOME",
+			"publisher": "Forge",
+			"rank": 11
+		},
+		{
+			"author": "by Janet Evanovich",
+			"description": "The 25th book in the Stephanie Plum series. When several managers of a deli in Trenton disappear, a bounty hunter and her detective boyfriend look for clues.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399179235.jpg",
+			"name": "LOOK ALIVE TWENTY-FIVE",
+			"publisher": "Putnam",
+			"rank": 12
+		},
+		{
+			"author": "by Mitch Albom",
+			"description": "The sequel to \"The Five People You Meet in Heaven\" follows Annie on her heavenly journey.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062294449.jpg",
+			"name": "THE NEXT PERSON YOU MEET IN HEAVEN",
+			"publisher": "Harper",
+			"rank": 13
+		},
+		{
+			"author": "by Louise Penny",
+			"description": "While on suspension, Chief Inspector Armand Gamache is made an executor of a stranger\u2019s will and tries to keep a deadly narcotic off Montreal\u2019s streets.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781466873698.jpg",
+			"name": "KINGDOM OF THE BLIND",
+			"publisher": "Minotaur",
+			"rank": 14
+		},
+		{
+			"author": "by Josie Silver",
+			"description": "A woman spends a year searching for a man in London she believes \u2014 after a single glance \u2014\u00a0is her true love.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525574682.jpg",
+			"name": "ONE DAY IN DECEMBER",
+			"publisher": "Broadway",
+			"rank": 15
+		}
+	]
+}

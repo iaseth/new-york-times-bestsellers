@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Janet Evanovich",
+			"description": "The 27th book in the Stephanie Plum series. Stephanie deals with a soldier of fortune from Little Havana.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982154837.jpg",
+			"name": "FORTUNE AND GLORY",
+			"publisher": "Atria",
+			"rank": 1
+		},
+		{
+			"author": "by John Grisham",
+			"description": "The third book in the Jake Brigance series. A 16-year-old is accused of killing a deputy in Clanton, Miss., in 1990.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385545969.jpg",
+			"name": "A TIME FOR MERCY",
+			"publisher": "Doubleday",
+			"rank": 2
+		},
+		{
+			"author": "by Lee Child and Andrew Child",
+			"description": "Jack Reacher intervenes on an ambush in Tennessee and uncovers a conspiracy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984818461.jpg",
+			"name": "THE SENTINEL",
+			"publisher": "Delacorte",
+			"rank": 3
+		},
+		{
+			"author": "by Nicholas Sparks",
+			"description": "A doctor serving in the Navy in Afghanistan goes back to North Carolina where two women change his life.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538728574.jpg",
+			"name": "THE RETURN",
+			"publisher": "Grand Central",
+			"rank": 4
+		},
+		{
+			"author": "by Ken Follett",
+			"description": "In a prequel to \u201cThe Pillars of the Earth,\u201d a boatbuilder, a Norman noblewoman and a monk live in England under attack by the Welsh and the Vikings.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525954989.jpg",
+			"name": "THE EVENING AND THE MORNING",
+			"publisher": "Viking",
+			"rank": 5
+		},
+		{
+			"author": "by Tana French",
+			"description": "After a divorce, a former Chicago police officer resettles in an Irish village where a boy goes missing.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735224650.jpg",
+			"name": "THE SEARCHER",
+			"publisher": "Viking",
+			"rank": 6
+		},
+		{
+			"author": "by V.E. Schwab",
+			"description": "A Faustian bargain comes with a curse that affects the adventure Addie LaRue has across centuries.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780765387561.jpg",
+			"name": "THE INVISIBLE LIFE OF ADDIE LARUE",
+			"publisher": "Tor/Forge",
+			"rank": 7
+		},
+		{
+			"author": "by Brit Bennett",
+			"description": "The lives of twin sisters who run away from a Southern Black community at age 16 diverge as one returns and the other takes on a different racial identity but their fates intertwine.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525536291.jpg",
+			"name": "THE VANISHING HALF",
+			"publisher": "Riverhead",
+			"rank": 8
+		},
+		{
+			"author": "by Susie Yang",
+			"description": "Years after being sent to China as a punishment by her mother, Ivy Lin reconnects with her teenage crush but her past threatens to catch up to her.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982100599.jpg",
+			"name": "WHITE IVY",
+			"publisher": "Simon & Schuster",
+			"rank": 9
+		},
+		{
+			"author": "by Fredrik Backman",
+			"description": "A failed bank robber holds a group of strangers hostage at an apartment open house.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501160837.jpg",
+			"name": "ANXIOUS PEOPLE",
+			"publisher": "Atria",
+			"rank": 10
+		},
+		{
+			"author": "by James Patterson and Shan Serafin",
+			"description": "Detective Sean Walsh must solve a case involving three missing women who had access to a home where a man was murdered.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316541619.jpg",
+			"name": "THREE WOMEN DISAPPEAR",
+			"publisher": "Little, Brown",
+			"rank": 11
+		},
+		{
+			"author": "by Fannie Flagg",
+			"description": "Bud Threadgoode returns to his hometown and sets off some life-changing events.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593133842.jpg",
+			"name": "THE WONDER BOY OF WHISTLE STOP",
+			"publisher": "Random House",
+			"rank": 12
+		},
+		{
+			"author": "by Jodi Picoult",
+			"description": "After surviving a plane crash, a death doula travels to Egypt to reconnect with an old flame who is an archaeologist.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984818355.jpg",
+			"name": "THE BOOK OF TWO WAYS",
+			"publisher": "Ballantine",
+			"rank": 13
+		},
+		{
+			"author": "by John Connolly",
+			"description": "The 18th book in the Charlie Parker series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982127565.jpg",
+			"name": "THE DIRTY SOUTH",
+			"publisher": "Emily Bestler/Atria",
+			"rank": 14
+		},
+		{
+			"author": "by Jeffrey Archer",
+			"description": "The second book in the William Warwick series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250200792.jpg",
+			"name": "HIDDEN IN PLAIN SIGHT",
+			"publisher": "St. Martin's",
+			"rank": 15
+		}
+	]
+}

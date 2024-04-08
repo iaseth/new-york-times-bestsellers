@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Bob Woodward",
+			"description": "Based on 17 on-the-record interviews with President Trump and other reporting, the Pulitzer Prize-winning journalist details the president\u2019s perspective on multiple crises.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982131739.jpg",
+			"name": "RAGE",
+			"publisher": "Simon & Schuster",
+			"rank": 1
+		},
+		{
+			"author": "by Ruth Bader Ginsburg with Mary Hartnett and Wendy W. Williams",
+			"description": "A collection of articles and speeches by the Supreme Court justice.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501145247.jpg",
+			"name": "MY OWN WORDS",
+			"publisher": "Simon & Schuster",
+			"rank": 2
+		},
+		{
+			"author": "by Candace Owens",
+			"description": "The conservative commentator makes her case that Black Americans should part ways with the Democratic Party.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982133276.jpg",
+			"name": "BLACKOUT",
+			"publisher": "Threshold Editions",
+			"rank": 3
+		},
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "The ninth book in the conservative commentator\u2019s Killing series focuses on conflicts with Native Americans.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781627797047.jpg",
+			"name": "KILLING CRAZY HORSE",
+			"publisher": "Holt",
+			"rank": 4
+		},
+		{
+			"author": "by Isabel Wilkerson",
+			"description": "The Pulitzer Prize-winning journalist examines aspects of caste systems across civilizations and reveals a rigid hierarchy in America today.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593230251.jpg",
+			"name": "CASTE",
+			"publisher": "Random House",
+			"rank": 5
+		},
+		{
+			"author": "by Michael Cohen",
+			"description": "An account of President Trump\u2019s business empire, political campaign and presidential administration by his former personal attorney.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781510764699.jpg",
+			"name": "DISLOYAL",
+			"publisher": "Skyhorse",
+			"rank": 6
+		},
+		{
+			"author": "by Glennon Doyle",
+			"description": "The activist and public speaker describes her journey of listening to her inner voice.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984801258.jpg",
+			"name": "UNTAMED",
+			"publisher": "Dial",
+			"rank": 7
+		},
+		{
+			"author": "by Irin Carmon and Shana Knizhnik",
+			"description": "A celebration of the life and career of Supreme Court Justice Ruth Bader Ginsburg.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062415837.jpg",
+			"name": "NOTORIOUS RBG",
+			"publisher": "Dey Street",
+			"rank": 8
+		},
+		{
+			"author": "by Jeanine Pirro",
+			"description": "The Fox News host asks how anyone could vote against President Trump in the 2020 election.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781546059738.jpg",
+			"name": "DON'T LIE TO ME AND STOP TRYING TO STEAL OUR FREEDOM",
+			"publisher": "Center Street",
+			"rank": 9
+		},
+		{
+			"author": "by Sean Hannity",
+			"description": "The Fox News host offers his assessment on what is at stake in the 2020 election.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982149970.jpg",
+			"name": "LIVE FREE OR DIE",
+			"publisher": "Threshold Editions",
+			"rank": 10
+		},
+		{
+			"author": "by Sarah Huckabee Sanders",
+			"description": "The former White House press secretary shares her perspective on her time working with President Trump.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250271334.jpg",
+			"name": "SPEAKING FOR MYSELF",
+			"publisher": "St. Martin's",
+			"rank": 11
+		},
+		{
+			"author": "by H.R. McMaster",
+			"description": "The former national security adviser gives his assessment of America\u2019s standing in the world and challenges to national and international security.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062899460.jpg",
+			"name": "BATTLEGROUNDS",
+			"publisher": "Harper",
+			"rank": 12
+		},
+		{
+			"author": "by Robin DiAngelo",
+			"description": "Historical and cultural analyses on what causes defensive moves by white people and how this inhibits cross-racial dialogue.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780807047415.jpg",
+			"name": "WHITE FRAGILITY",
+			"publisher": "Beacon Press",
+			"rank": 13
+		},
+		{
+			"author": "by Ibram X. Kendi",
+			"description": "A primer for creating a more just and equitable society through identifying and opposing racism.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525509288.jpg",
+			"name": "HOW TO BE AN ANTIRACIST",
+			"publisher": "One World",
+			"rank": 14
+		},
+		{
+			"author": "by Desus Nice and the Kid Mero",
+			"description": "The hosts of the late-night show \u201cDesus & Mero\u201d and the \u201cBodega Boys\u201d podcast impart wisdom they learned living in the Bronx.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525512332.jpg",
+			"name": "GOD-LEVEL KNOWLEDGE DARTS",
+			"publisher": "Random House",
+			"rank": 15
+		}
+	]
+}

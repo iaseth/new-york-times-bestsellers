@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by John Grisham",
+			"description": "A whistleblower alerts a Florida investigator to judicial corruption involving the Mob and Indian casinos.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385541206.jpg",
+			"name": "THE WHISTLER",
+			"publisher": "Doubleday",
+			"rank": 1
+		},
+		{
+			"author": "by James Patterson",
+			"description": "Detective Alex Cross and his wife, Bree, team up to catch a killer causing chaos in Washington, D.C.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316407168.jpg",
+			"name": "CROSS THE LINE",
+			"publisher": "Little, Brown",
+			"rank": 2
+		},
+		{
+			"author": "by Fredrik Backman",
+			"description": "A curmudgeon's gruff exterior masks a generosity of spirit. Originally published in Sweden in 2014.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476738024.jpg",
+			"name": "A MAN CALLED OVE",
+			"publisher": "Washington Square",
+			"rank": 3
+		},
+		{
+			"author": "by W. Bruce Cameron",
+			"description": "A canine narrator undergoes a series of reincarnations.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780765330345.jpg",
+			"name": "A DOG'S PURPOSE",
+			"publisher": "Forge Books",
+			"rank": 4
+		},
+		{
+			"author": "by James Rollins",
+			"description": "The 12th Sigma Force thriller follows a deadly pathogen in Egypt and a Russian assassin in the Arctic.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062381705.jpg",
+			"name": "THE SEVENTH PLAGUE",
+			"publisher": "Morrow/HarperCollins",
+			"rank": 5
+		},
+		{
+			"author": "by Mark Greaney",
+			"description": "Jack Ryan Sr. is still president, while Jack Jr., working for a secret organization, works to prevent complicated terrorist strikes set in motion by a hacker. Clancy died in 2013.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399176814.jpg",
+			"name": "TOM CLANCY TRUE FAITH AND ALLEGIANCE",
+			"publisher": "Putnam",
+			"rank": 6
+		},
+		{
+			"author": "by Paula Hawkins",
+			"description": "A psychological thriller set in the environs of London is full of complications and betrayals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594633669.jpg",
+			"name": "THE GIRL ON THE TRAIN",
+			"publisher": "Riverhead",
+			"rank": 7
+		},
+		{
+			"author": "by Colson Whitehead",
+			"description": "A teenage girl heads north on the network that helped slaves escape to freedom, envisioned in this novel as a secret system of actual tracks and tunnels.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385542364.jpg",
+			"name": "THE UNDERGROUND RAILROAD",
+			"publisher": "Doubleday",
+			"rank": 8
+		},
+		{
+			"author": "by Nicholas Sparks",
+			"description": "A man who became a single father when his marriage and business collapsed learns to take a chance on a new love.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455520701.jpg",
+			"name": "TWO BY TWO",
+			"publisher": "Grand Central",
+			"rank": 9
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "John Puller, a special agent with the Army, searches for the truth about his mother, who disappeared 30  years ago.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455586516.jpg",
+			"name": "NO MAN'S LAND",
+			"publisher": "Grand Central",
+			"rank": 10
+		},
+		{
+			"author": "by Nora Roberts",
+			"description": "A trilogy concludes with the guardians heading to Ireland in search of the Star of Ice.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698190757.jpg",
+			"name": "ISLAND OF GLASS",
+			"publisher": "Berkley",
+			"rank": 11
+		},
+		{
+			"author": "by Lee Child",
+			"description": "Jack Reacher, still in the Army, becomes involved in an investigation with elite agents from the F.B.I. and C.I.A.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780804178815.jpg",
+			"name": "NIGHT SCHOOL",
+			"publisher": "Delacorte",
+			"rank": 12
+		},
+		{
+			"author": "by Jodi Picoult",
+			"description": "A medical crisis entangles a black nurse, a white supremacist father and a white lawyer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345544964.jpg",
+			"name": "SMALL GREAT THINGS",
+			"publisher": "Ballantine",
+			"rank": 13
+		},
+		{
+			"author": "by Rupi Kaur",
+			"description": "Poetic approaches to surviving adversity and loss.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781449474256.jpg",
+			"name": "MILK AND HONEY",
+			"publisher": "Andrews McMeel",
+			"rank": 14
+		},
+		{
+			"author": "by Janet Evanovich",
+			"description": "The bounty hunter Stephanie Plum juggles the investigation of a crime in an ice cream factory and the two men in her life.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345543028.jpg",
+			"name": "TURBO TWENTY-THREE",
+			"publisher": "Bantam",
+			"rank": 15
+		}
+	]
+}

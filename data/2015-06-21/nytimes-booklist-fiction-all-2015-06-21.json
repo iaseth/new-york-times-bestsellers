@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Stephen King",
+			"description": "A deranged reader\u2019s infatuation with a Salingeresque novelist has dangerous and long-lasting consequences in a sequel to \u201cMr. Mercedes.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501100130.jpg",
+			"name": "FINDERS KEEPERS",
+			"publisher": "Scribner",
+			"rank": 1
+		},
+		{
+			"author": "by Paula Hawkins",
+			"description": "A psychological thriller set in the environs of London is full of complications and betrayals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594633669.jpg",
+			"name": "THE GIRL ON THE TRAIN",
+			"publisher": "Riverhead",
+			"rank": 2
+		},
+		{
+			"author": "by Judy Blume",
+			"description": "Secrets are revealed and love stories play out against the backdrop of a series of panic-inducing plane crashes in 1950s New Jersey.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101875056.jpg",
+			"name": "IN THE UNLIKELY EVENT",
+			"publisher": "Knopf",
+			"rank": 3
+		},
+		{
+			"author": "by Anthony Doerr",
+			"description": "The lives of a blind French girl and a gadget-obsessed German boy before and during World War II; the winner of the 2015 Pulitzer Prize.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476746586.jpg",
+			"name": "ALL THE LIGHT WE CANNOT SEE",
+			"publisher": "Scribner",
+			"rank": 4
+		},
+		{
+			"author": "by Nelson DeMille",
+			"description": "A surveillance expert monitors the activities of a newly resurgent Russia.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780446580854.jpg",
+			"name": "RADIANT ANGEL",
+			"publisher": "Grand Central",
+			"rank": 5
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "A police detective who left the force when his family was murdered teams up with his former partner to solve the case.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455586387.jpg",
+			"name": "MEMORY MAN",
+			"publisher": "Grand Central",
+			"rank": 6
+		},
+		{
+			"author": "by James Patterson and Maxine Paetro",
+			"description": "When a video of a shocking crime surfaces, it casts suspicion on a San Francisco detective's colleagues.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316407021.jpg",
+			"name": "14TH DEADLY SIN",
+			"publisher": "Little, Brown",
+			"rank": 7
+		},
+		{
+			"author": "by Jessica Knoll",
+			"description": "The life of a successful New York magazine writer is shaken when secrets from her past are revealed in a documentary.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476789651.jpg",
+			"name": "LUCKIEST GIRL ALIVE",
+			"publisher": "Simon & Schuster",
+			"rank": 8
+		},
+		{
+			"author": "by Kristin Hannah",
+			"description": "Two sisters are separated in World War II France: one in the countryside, the other in Paris.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781466850606.jpg",
+			"name": "THE NIGHTINGALE",
+			"publisher": "St. Martin's",
+			"rank": 9
+		},
+		{
+			"author": "by James Patterson and Michael Ledwidge",
+			"description": "A young biologist warns world leaders about the reasons for escalating animal attacks on cities.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780446571791.jpg",
+			"name": "ZOO",
+			"publisher": "Little, Brown",
+			"rank": 10
+		},
+		{
+			"author": "by K. Bromberg",
+			"description": "A rocker, once again saving his twin from legal troubles, agrees to become a guest lecturer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698186699.jpg",
+			"name": "SWEET ACHE",
+			"publisher": "Signet",
+			"rank": 11
+		},
+		{
+			"author": "by Nalini Singh",
+			"description": "When two psychics, Aden and Zaira, break out of prison, they turn to a pack of changelings for help.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101605219.jpg",
+			"name": "SHARDS OF HOPE",
+			"publisher": "Berkley",
+			"rank": 12
+		},
+		{
+			"author": "by Jamie McGuire",
+			"description": "A waitress finds herself the focus of a firefighter's attention.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781511847506.jpg",
+			"name": "BEAUTIFUL SACRIFICE",
+			"publisher": "CreateSpace",
+			"rank": 13
+		},
+		{
+			"author": "by Clive Cussler and Boyd Morrison",
+			"description": "A man sets out to thwart an American weapons designer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698140769.jpg",
+			"name": "PIRANHA",
+			"publisher": "Putnam",
+			"rank": 14
+		},
+		{
+			"author": "by Diana Gabaldon",
+			"description": "An English nurse, is transported back to 1743 during a second honeymoon in the Scottish Highlands.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780440212560.jpg",
+			"name": "OUTLANDER",
+			"publisher": "Dell",
+			"rank": 15
+		}
+	]
+}

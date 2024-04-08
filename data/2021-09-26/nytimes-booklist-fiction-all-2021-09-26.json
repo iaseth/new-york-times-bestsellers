@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by J.D. Robb",
+			"description": "The 53rd book of the In Death series. The property where a decades-old crime occurred belongs to the homicide detective Eve Dallas\u2019s husband.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250272812.jpg",
+			"name": "FORGOTTEN IN DEATH",
+			"publisher": "St. Martin's",
+			"rank": 1
+		},
+		{
+			"author": "by Sally Rooney",
+			"description": "A novelist, a warehouse worker, an editorial assistant and a political adviser deal with changes.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780374602604.jpg",
+			"name": "BEAUTIFUL WORLD, WHERE ARE YOU",
+			"publisher": "Farrar, Straus & Giroux",
+			"rank": 2
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "A battered wife raised in a violent home attempts to halt the cycle of abuse.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501110375.jpg",
+			"name": "IT ENDS WITH US",
+			"publisher": "Atria",
+			"rank": 3
+		},
+		{
+			"author": "by Stephen King",
+			"description": "A killer for hire who only takes out bad guys seeks redemption as he does one final job.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982173616.jpg",
+			"name": "BILLY SUMMERS",
+			"publisher": "Scribner",
+			"rank": 4
+		},
+		{
+			"author": "by Paula Hawkins",
+			"description": "Three women come under scrutiny when a young man is found gruesomely murdered in a London houseboat.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735211230.jpg",
+			"name": "A SLOW FIRE BURNING",
+			"publisher": "Riverhead",
+			"rank": 5
+		},
+		{
+			"author": "by Laura Dave",
+			"description": "Hannah Hall discovers truths about her missing husband and bonds with his daughter from a previous relationship.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501171345.jpg",
+			"name": "THE LAST THING HE TOLD ME",
+			"publisher": "Simon & Schuster",
+			"rank": 6
+		},
+		{
+			"author": "by Taylor Jenkins Reid",
+			"description": "A movie icon recounts stories of her loves and career to a struggling magazine writer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501161933.jpg",
+			"name": "THE SEVEN HUSBANDS OF EVELYN HUGO",
+			"publisher": "Washington Square/Atria",
+			"rank": 7
+		},
+		{
+			"author": "by Lisa Jewell",
+			"description": "A writer discovers a possible clue near an English country estate of what caused a young couple to go missing.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982137366.jpg",
+			"name": "THE NIGHT SHE DISAPPEARED",
+			"publisher": "Atria",
+			"rank": 8
+		},
+		{
+			"author": "by Louise Penny",
+			"description": "The 17th book in the Chief Inspector Gamache series. Gamache is tasked with providing security for a statistics professor whose views are repulsive to him.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250145260.jpg",
+			"name": "THE MADNESS OF CROWDS",
+			"publisher": "Minotaur",
+			"rank": 9
+		},
+		{
+			"author": "by Ann Cleeves",
+			"description": "The second book in the Two Rivers series. Detective Matthew Venn finds a staged murder at the home of a group of artists.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250204479.jpg",
+			"name": "THE HERON'S CRY",
+			"publisher": "Minotaur",
+			"rank": 10
+		},
+		{
+			"author": "by Lauren Groff",
+			"description": "Seventeen-year-old Marie de France is cast out of the royal court and sent to England to be the new prioress of an impoverished abbey.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594634499.jpg",
+			"name": "MATRIX",
+			"publisher": "Riverhead",
+			"rank": 11
+		},
+		{
+			"author": "by Matt Haig",
+			"description": "Nora Seed finds a library beyond the edge of the universe that contains books with multiple possibilities of the lives one could have lived.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525559474.jpg",
+			"name": "THE MIDNIGHT LIBRARY",
+			"publisher": "Viking",
+			"rank": 12
+		},
+		{
+			"author": "by Emily Henry",
+			"description": "Opposites Poppy and Alex meet to vacation together one more time in hopes of saving their relationship.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984806758.jpg",
+			"name": "PEOPLE WE MEET ON VACATION",
+			"publisher": "Berkley",
+			"rank": 13
+		},
+		{
+			"author": "by Alice Feeney",
+			"description": "A couple celebrating an anniversary take a trip to Scotland that will make or break their marriage.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250266101.jpg",
+			"name": "ROCK PAPER SCISSORS",
+			"publisher": "Flatiron",
+			"rank": 14
+		},
+		{
+			"author": "by Liane Moriarty",
+			"description": "A romance writer becomes fascinated by the owner and director of a health resort.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250069849.jpg",
+			"name": "NINE PERFECT STRANGERS",
+			"publisher": "Flatiron",
+			"rank": 15
+		}
+	]
+}

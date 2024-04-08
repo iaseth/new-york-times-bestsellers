@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Dan Brown",
+			"description": "The symbologist Robert Langdon, on the run in Florence, must decipher a series of codes created by a Dante-loving scientist.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400079155.jpg",
+			"name": "INFERNO",
+			"publisher": "Doubleday",
+			"rank": 1
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "The government hitman Will Robie uncovers a serious threat as he attempts to take out a fellow assassin who has gone rogue.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455521289.jpg",
+			"name": "THE HIT",
+			"publisher": "Grand Central",
+			"rank": 2
+		},
+		{
+			"author": "by Raine Miller",
+			"description": "Demons from the past threaten to destroy the passionate bond of Ethan and Brynne. Book 3 of the Blackstone Affair series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476735610.jpg",
+			"name": "EYES WIDE OPEN",
+			"publisher": "Atria",
+			"rank": 3
+		},
+		{
+			"author": "by James Patterson and Maxine Paetro",
+			"description": "A week after giving birth, Detective Lindsay Boxer returns to work to investigate some grisly murders.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316210843.jpg",
+			"name": "12TH OF NEVER",
+			"publisher": "Little, Brown",
+			"rank": 4
+		},
+		{
+			"author": "by Charlaine Harris",
+			"description": "The last book in the series about the telepathic waitress Sookie Stackhouse.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781937007881.jpg",
+			"name": "DEAD EVER AFTER",
+			"publisher": "Ace",
+			"rank": 5
+		},
+		{
+			"author": "by John Sandford",
+			"description": "Lucas Davenport is drawn into the investigation of a Minnesota political scandal and the disappearance of an operative.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780425267769.jpg",
+			"name": "SILKEN PREY",
+			"publisher": "Putnam",
+			"rank": 6
+		},
+		{
+			"author": "by Nora Roberts",
+			"description": "A former criminal attorney who has been acquitted of his wife\u2019s murder retreats to his family estate on a rocky New England cliff, where he is comforted by the house\u2019s caretaker amid continuing danger.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399159893.jpg",
+			"name": "WHISKEY BEACH",
+			"publisher": "Putnam",
+			"rank": 7
+		},
+		{
+			"author": "by Barbara Freethy",
+			"description": "A reckless photographer helps a woman delve into the mysteries of her past.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780983599357.jpg",
+			"name": "DON'T SAY A WORD",
+			"publisher": "Barbara Freethy",
+			"rank": 8
+		},
+		{
+			"author": "by Gillian Flynn",
+			"description": "A woman disappears on the day of her fifth anniversary; is her husband a killer?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307588388.jpg",
+			"name": "GONE GIRL",
+			"publisher": "Crown",
+			"rank": 9
+		},
+		{
+			"author": "by Rachel Van Dyken",
+			"description": "A Seattle millionaire asks a childhood friend to pretend to be engaged to him. But she reckoned without his brother.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780989078313.jpg",
+			"name": "THE BET",
+			"publisher": "Rachel Van Dyken",
+			"rank": 10
+		},
+		{
+			"author": "by H.M. Ward",
+			"description": "When Avery learns Sean\u2019s dark secret, everything changes.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/A00B00CR43UXG.jpg",
+			"name": "THE ARRANGEMENT 7",
+			"publisher": "Laree Bailey",
+			"rank": 11
+		},
+		{
+			"author": "by Matthew Quick",
+			"description": "A man recently released from a mental institution has two obsessions: his estranged wife and the Philadelphia Eagles. The basis of the movie.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780374533571.jpg",
+			"name": "THE SILVER LININGS PLAYBOOK",
+			"publisher": "Sarah Crichton/Farrar, Straus & Giroux",
+			"rank": 12
+		},
+		{
+			"author": "by Orson Scott Card",
+			"description": "Government agencies breed child geniuses and train them as soldiers.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812550702.jpg",
+			"name": "ENDER'S GAME",
+			"publisher": "Tor/Tom Doherty",
+			"rank": 13
+		},
+		{
+			"author": "by Lisa Jackson",
+			"description": "The detectives Selena Alvarez and Regan Pescoli investigate a series of sadistic killings.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781420106343.jpg",
+			"name": "LEFT TO DIE",
+			"publisher": "Zebra",
+			"rank": 14
+		},
+		{
+			"author": "by E. L. James",
+			"description": "An innocent college student falls in love with a tortured man with particular sexual tastes; the first of a trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345803481.jpg",
+			"name": "FIFTY SHADES OF GREY",
+			"publisher": "Vintage",
+			"rank": 15
+		}
+	]
+}

@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Delia Owens",
+			"description": "In a quiet town on the North Carolina coast in 1969, a young woman who survived alone in the marsh becomes a murder suspect.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735219090.jpg",
+			"name": "WHERE THE CRAWDADS SING",
+			"publisher": "Putnam",
+			"rank": 1
+		},
+		{
+			"author": "by Jennifer Weiner",
+			"description": "The story of two sisters, Jo and Bethie Kaufman, and their life experiences as the world around them changes drastically from the 1950s.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501133480.jpg",
+			"name": "MRS. EVERYTHING",
+			"publisher": "Atria",
+			"rank": 2
+		},
+		{
+			"author": "by Mike Maden",
+			"description": "Jack Ryan Jr.\u2019s latest adventures take him on a mission to stop an international criminal conspiracy and deal with tragic news.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525541691.jpg",
+			"name": "TOM CLANCY: ENEMY CONTACT",
+			"publisher": "Putnam",
+			"rank": 3
+		},
+		{
+			"author": "by Clive Cussler and Robin Burcell",
+			"description": "Treasure-hunting couple, Sam and Remi Fargo, embark on a new adventure to find a sacred ancient scroll and lift its curse.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525539612.jpg",
+			"name": "THE ORACLE",
+			"publisher": "Putnam",
+			"rank": 4
+		},
+		{
+			"author": "by James Patterson and David Ellis",
+			"description": "A string of seemingly accidental and unrelated deaths confound F.B.I. agent Emmy Dockery.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316419826.jpg",
+			"name": "UNSOLVED",
+			"publisher": "Little ,Brown",
+			"rank": 5
+		},
+		{
+			"author": "by Elizabeth Gilbert",
+			"description": "An 89-year-old Vivian Morris looks back at the direction her life took when she entered the 1940s New York theater scene.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594634734.jpg",
+			"name": "CITY OF GIRLS",
+			"publisher": "Riverhead",
+			"rank": 6
+		},
+		{
+			"author": "by Lisa Wingate",
+			"description": "A South Carolina lawyer learns about the questionable practices of a Tennessee orphanage.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780425284681.jpg",
+			"name": "BEFORE WE WERE YOURS",
+			"publisher": "Ballantine",
+			"rank": 7
+		},
+		{
+			"author": "by Blake Crouch",
+			"description": "A dark force alters people's memories so drastically that reality itself starts to shift. Barry and Helena team up to save the city.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524759780.jpg",
+			"name": "RECURSION",
+			"publisher": "Crown",
+			"rank": 8
+		},
+		{
+			"author": "by Mary Alice Monroe",
+			"description": "A hurricane threatening the coasts of Florida and South Carolina leads to a group of strangers sheltering together in a home.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501193644.jpg",
+			"name": "THE SUMMER GUESTS",
+			"publisher": "Gallery",
+			"rank": 9
+		},
+		{
+			"author": "by Celeste Ng",
+			"description": "An artist upends a quiet town outside Cleveland.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735224308.jpg",
+			"name": "LITTLE FIRES EVERYWHERE",
+			"publisher": "Penguin Press",
+			"rank": 10
+		},
+		{
+			"author": "by Heather Morris",
+			"description": "A concentration camp detainee tasked with permanently marking fellow prisoners falls in love with one of them.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062797155.jpg",
+			"name": "THE TATTOOIST OF AUSCHWITZ",
+			"publisher": "Harper",
+			"rank": 11
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "The fifth book in the Memory Man series. The first man Amos Decker put behind bars asks to have his name cleared.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538761434.jpg",
+			"name": "REDEMPTION",
+			"publisher": "Grand Central",
+			"rank": 12
+		},
+		{
+			"author": "by Lee Child",
+			"description": "Jack Reacher explores the New England town where his father was born and a Canadian couple now find themselves stranded.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399593512.jpg",
+			"name": "PAST TENSE",
+			"publisher": "Bantam/Dell",
+			"rank": 13
+		},
+		{
+			"author": "by Dorothea Benton Frank",
+			"description": "A beekeeper\u2019s quiet life is unsettled by her demanding mother, outgoing sister and neighboring widower.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062861214.jpg",
+			"name": "QUEEN BEE",
+			"publisher": "Morrow",
+			"rank": 14
+		},
+		{
+			"author": "by Susan Mallery",
+			"description": "Two sisters, Margot and Sunshine, will find themselves in new romantic settings that may end well for the first time.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781488096877.jpg",
+			"name": "THE SUMMER OF SUNSHINE AND MARGOT",
+			"publisher": "HQN",
+			"rank": 15
+		}
+	]
+}

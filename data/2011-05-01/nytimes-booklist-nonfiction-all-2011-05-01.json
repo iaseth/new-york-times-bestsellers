@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Todd Burpo with Lynn Vincent",
+			"description": "A father recounts his 3-year-old son\u2019s encounter with Jesus and the angels during an appendectomy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780849949203.jpg",
+			"name": "HEAVEN IS FOR REAL",
+			"publisher": "Thomas Nelson",
+			"rank": 1
+		},
+		{
+			"author": "by Tina Fey",
+			"description": "A memoir from the creator of \u201c30 Rock.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316056892.jpg",
+			"name": "BOSSYPANTS",
+			"publisher": "Little, Brown",
+			"rank": 2
+		},
+		{
+			"author": "by Laura Hillenbrand",
+			"description": "An Olympic runner\u2019s story of survival as a prisoner of the Japanese in World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400064168.jpg",
+			"name": "UNBROKEN",
+			"publisher": "Random House",
+			"rank": 3
+		},
+		{
+			"author": "by Rebecca Skloot",
+			"description": "The story of a woman whose cancer cells were extensively cultured without her permission in 1951.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400052189.jpg",
+			"name": "THE IMMORTAL LIFE OF HENRIETTA LACKS",
+			"publisher": "Crown",
+			"rank": 4
+		},
+		{
+			"author": "by Shirley MacLaine",
+			"description": "The actress offers observations on what remains important to her.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451607291.jpg",
+			"name": "I'M OVER ALL THAT",
+			"publisher": "Simon & Schuster",
+			"rank": 5
+		},
+		{
+			"author": "by Ashley Judd with Maryanne Vollers",
+			"description": "A memoir by the actress and humanitarian.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345523617.jpg",
+			"name": "ALL THAT IS BITTER AND SWEET",
+			"publisher": "Random House",
+			"rank": 6
+		},
+		{
+			"author": "by Jesse Ventura with Dick Russell",
+			"description": "The former governor of Minnesota implores Americans to challenge government secrecy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781616082260.jpg",
+			"name": "63 DOCUMENTS THE GOVERNMENT DOESN'T WANT YOU TO READ",
+			"publisher": "Skyhorse",
+			"rank": 7
+		},
+		{
+			"author": "by Manning Marable",
+			"description": "A biography that traces a path from Malcolm X\u2019s troubled youth to his conversion to Islam to his split with the Nation of Islam to his assassination in 1965.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101445273.jpg",
+			"name": "MALCOLM X",
+			"publisher": "Penguin Group",
+			"rank": 8
+		},
+		{
+			"author": "by David Brooks",
+			"description": "Brooks creates two imaginary people, Harold and Erica, to illustrate his understanding of the human mind, the wellsprings of action and the causes of success and failure.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400067602.jpg",
+			"name": "THE SOCIAL ANIMAL",
+			"publisher": "Random House",
+			"rank": 9
+		},
+		{
+			"author": "by Joshua Foer",
+			"description": "A journalist who covered a mnemonics championship tries competing himself.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780143120537.jpg",
+			"name": "MOONWALKING WITH EINSTEIN",
+			"publisher": "Penguin Group",
+			"rank": 10
+		},
+		{
+			"author": "by Sammy Hagar with Joel Selvin",
+			"description": "Hagar tells of his tear through rock, from his first break with Montrose to his role as the front man of Van Halen.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062009289.jpg",
+			"name": "RED",
+			"publisher": "HarperCollins",
+			"rank": 11
+		},
+		{
+			"author": "selected and introduced by Caroline Kennedy",
+			"description": "Poems that inspired the former first daughter.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781401341459.jpg",
+			"name": "SHE WALKS IN BEAUTY",
+			"publisher": "Hyperion",
+			"rank": 12
+		},
+		{
+			"author": "by Christopher McDougall",
+			"description": "Secrets of distance running from a Mexican Indian tribe.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307271914.jpg",
+			"name": "BORN TO RUN",
+			"publisher": "Knopf Doubleday",
+			"rank": 13
+		},
+		{
+			"author": "by Michio Kaku",
+			"description": "An examination of innovative developments in medicine, computers, quantum physics and space travel.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385530804.jpg",
+			"name": "PHYSICS OF THE FUTURE",
+			"publisher": "Knopf Doubleday",
+			"rank": 14
+		},
+		{
+			"author": "by Alexandra Horowitz",
+			"description": "What the world is like from a dog\u2019s point of view.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781416583431.jpg",
+			"name": "INSIDE OF A DOG",
+			"publisher": "Simon & Schuster",
+			"rank": 15
+		}
+	]
+}

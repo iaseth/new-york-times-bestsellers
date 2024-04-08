@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Neil deGrasse Tyson",
+			"description": "A straightforward, easy-to-understand introduction to the laws that govern the universe.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780393609394.jpg",
+			"name": "ASTROPHYSICS FOR PEOPLE IN A HURRY",
+			"publisher": "Norton",
+			"rank": 1
+		},
+		{
+			"author": "by Walter Isaacson",
+			"description": "A biography of the Italian Renaissance polymath which connects his work in various disciplines.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501139154.jpg",
+			"name": "LEONARDO DA VINCI",
+			"publisher": "Simon & Schuster",
+			"rank": 2
+		},
+		{
+			"author": "by Ron Chernow",
+			"description": "A biography of the Union general of the Civil War and two-term president of the United States.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594204876.jpg",
+			"name": "GRANT",
+			"publisher": "Penguin Press",
+			"rank": 3
+		},
+		{
+			"author": "by Margot Lee Shetterly",
+			"description": "The story of the black women mathematicians at then-segregated NASA and its precursor. The basis of the movie.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062363619.jpg",
+			"name": "HIDDEN FIGURES",
+			"publisher": "Morrow/HarperCollins",
+			"rank": 4
+		},
+		{
+			"author": "by Tiffany Haddish",
+			"description": "The comedian recounts growing up in South Central Los Angeles, exacting revenge on an ex-boyfriend and finding success after a period of homelessness.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501181825.jpg",
+			"name": "THE LAST BLACK UNICORN",
+			"publisher": "Gallery",
+			"rank": 5
+		},
+		{
+			"author": "by David Grann",
+			"description": "The story of a murder spree in 1920s Oklahoma that targeted Osage Indians, whose lands contained oil.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385534246.jpg",
+			"name": "KILLERS OF THE FLOWER MOON",
+			"publisher": "Doubleday",
+			"rank": 6
+		},
+		{
+			"author": "by Joe Biden",
+			"description": "The former vice president recalls his toughest year in office, as his son battled brain cancer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250171672.jpg",
+			"name": "PROMISE ME, DAD",
+			"publisher": "Flatiron Books",
+			"rank": 7
+		},
+		{
+			"author": "by Brian Kilmeade and Don Yaeger",
+			"description": "Major General Jackson takes on the British in Louisiana.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735213234.jpg",
+			"name": "ANDREW JACKSON AND THE MIRACLE OF NEW ORLEANS",
+			"publisher": "Sentinel",
+			"rank": 8
+		},
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "Major events and battles during the Revolutionary War are told from several perspectives.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781627790642.jpg",
+			"name": "KILLING ENGLAND",
+			"publisher": "Holt",
+			"rank": 9
+		},
+		{
+			"author": "by Pete Souza",
+			"description": "More than 300 pictures of the former president by his White House photographer, with behind-the-scenes stories.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316512589.jpg",
+			"name": "OBAMA",
+			"publisher": "Little, Brown",
+			"rank": 10
+		},
+		{
+			"author": "by Corey R. Lewandowski and David N. Bossie",
+			"description": "Insider accounts of the Republican presidential campaign and its outcome by two of its advisers.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781546083306.jpg",
+			"name": "LET TRUMP BE TRUMP",
+			"publisher": "Center Street",
+			"rank": 11
+		},
+		{
+			"author": "by Doug Stanton",
+			"description": "A small group of Special Forces operatives fought the Taliban on horseback shortly after Sept. 11.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781416580522.jpg",
+			"name": "HORSE SOLDIERS",
+			"publisher": "Scribner",
+			"rank": 12
+		},
+		{
+			"author": "by Chris Matthews",
+			"description": "The New York senator's journey from his formative years to his tragic run for president.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501111860.jpg",
+			"name": "BOBBY KENNEDY",
+			"publisher": "Simon & Schuster",
+			"rank": 13
+		},
+		{
+			"author": "by David Litt",
+			"description": "A comic memoir from a young presidential speechwriter who served in the Obama White House.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062568458.jpg",
+			"name": "THANKS, OBAMA",
+			"publisher": "Ecco",
+			"rank": 14
+		},
+		{
+			"author": "by J.D. Vance",
+			"description": "A Yale Law School graduate looks at the struggles of the white working class through the story of his own childhood.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062300560.jpg",
+			"name": "HILLBILLY ELEGY",
+			"publisher": "HarperCollins",
+			"rank": 15
+		}
+	]
+}

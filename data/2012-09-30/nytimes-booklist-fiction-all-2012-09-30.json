@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Lee Child",
+			"description": "A carload of people involved in a conspiracy pick up a disheveled hitchhiker, Child\u2019s vigilante hero Jack Reacher.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385344333.jpg",
+			"name": "A WANTED MAN",
+			"publisher": "Random House Publishing",
+			"rank": 1
+		},
+		{
+			"author": "by E. L. James",
+			"description": "An inexperienced college student falls in love with a tortured man who has particular sexual tastes; the first book in a trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345803481.jpg",
+			"name": "FIFTY SHADES OF GREY",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 2
+		},
+		{
+			"author": "by J. D. Robb",
+			"description": "Lt. Eve Dallas investigates a mass delusion caused by a cocktail of chemicals and illegal drugs at a bar her husband owns; by Nora Roberts, writing pseudonymously",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101600207.jpg",
+			"name": "DELUSION IN DEATH",
+			"publisher": "Penguin Group",
+			"rank": 3
+		},
+		{
+			"author": "by E. L. James",
+			"description": "The final book in an erotic trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781612130606.jpg",
+			"name": "FIFTY SHADES FREED",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 4
+		},
+		{
+			"author": "by E. L. James",
+			"description": "Ana Steele learns more about Christian Grey\u2019s troubled past; the second book in a trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345803498.jpg",
+			"name": "FIFTY SHADES DARKER",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 5
+		},
+		{
+			"author": "by Gillian Flynn",
+			"description": "A woman disappears on the day of her fifth anniversary; is her husband a killer?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307588388.jpg",
+			"name": "GONE GIRL",
+			"publisher": "Crown Publishing",
+			"rank": 6
+		},
+		{
+			"author": "by Richard Castle",
+			"description": "The N.Y.P.D. homicide detective Nikki Heat investigates the case of a woman whose body is found in a freezer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781401304720.jpg",
+			"name": "FROZEN HEAT",
+			"publisher": "Hyperion Press",
+			"rank": 7
+		},
+		{
+			"author": "by Mitch Albom",
+			"description": "A fable about the inventor of the world\u2019s first clock, who returns to our world after centuries of banishment; from the author of \u201cTuesdays With Morrie.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781401322786.jpg",
+			"name": "THE TIME KEEPER",
+			"publisher": "Hyperion Press",
+			"rank": 8
+		},
+		{
+			"author": "by James Patterson and Michael Ledwidge",
+			"description": "A young biologist warns world leaders about the reasons for escalating animal attacks on cities.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780446571791.jpg",
+			"name": "ZOO",
+			"publisher": "Little, Brown & Company",
+			"rank": 9
+		},
+		{
+			"author": "by Sylvia Day",
+			"description": "Two troubled people develop an intense, obsessive relationship.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780425263907.jpg",
+			"name": "BARED TO YOU",
+			"publisher": "Penguin Group",
+			"rank": 10
+		},
+		{
+			"author": "by Michael Chabon",
+			"description": "Fathers and sons in Berkeley and Oakland, Calif.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780061493348.jpg",
+			"name": "TELEGRAPH AVENUE",
+			"publisher": "HarperCollins Publishers",
+			"rank": 11
+		},
+		{
+			"author": "by Jill Shalvis",
+			"description": "Maddie leaves Los Angeles to take over a ramshackle inn left to her by her mother. A Lucky Harbor novel.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780446576468.jpg",
+			"name": "SIMPLY IRRESISTIBLE",
+			"publisher": "Grand Central Publishing",
+			"rank": 12
+		},
+		{
+			"author": "by Tina Reber",
+			"description": "A pub owner finds herself in a very public romance with a Hollywood actor; Book 2 in the Love Series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476718989.jpg",
+			"name": "LOVE UNREHEARSED",
+			"publisher": "Simon & Schuster",
+			"rank": 13
+		},
+		{
+			"author": "by Mark Helprin",
+			"description": "Heroic lives in Manhattan between the late 19th century and the year 2000. Originally published in 1983.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780547543864.jpg",
+			"name": "WINTER'S TALE",
+			"publisher": "Houghton Mifflin Harcourt Publishing",
+			"rank": 14
+		},
+		{
+			"author": "by Junot D\u00edaz",
+			"description": "Stories of love, loss and family history from a Pulitzer Prize-winning novelist.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594487361.jpg",
+			"name": "THIS IS HOW YOU LOSE HER",
+			"publisher": "Penguin Group",
+			"rank": 15
+		}
+	]
+}

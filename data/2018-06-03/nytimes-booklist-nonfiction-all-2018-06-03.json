@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Michael Pollan",
+			"description": "A personal account of how psychedelics might help the mentally ill and people dealing with everyday challenges.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594204227.jpg",
+			"name": "HOW TO CHANGE YOUR MIND",
+			"publisher": "Penguin Press",
+			"rank": 1
+		},
+		{
+			"author": "by Jon Meacham",
+			"description": "The Pulitzer Prize-winning biographer contextualizes the present political climate through the lens of difficult moments in American history.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399589812.jpg",
+			"name": "THE SOUL OF AMERICA",
+			"publisher": "Random House",
+			"rank": 2
+		},
+		{
+			"author": "by James Comey",
+			"description": "The former F.B.I. director recounts cases and personal events that shaped his outlook on justice, and analyzes the leadership styles of three presidents.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250192455.jpg",
+			"name": "A HIGHER LOYALTY",
+			"publisher": "Flatiron",
+			"rank": 3
+		},
+		{
+			"author": "by Zora Neale Hurston",
+			"description": "A previously unpublished, first-person account of Cudjo Lewis, a man who was transported and enslaved 50 years after the slave trade was banned.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062748201.jpg",
+			"name": "BARRACOON",
+			"publisher": "Amistad",
+			"rank": 4
+		},
+		{
+			"author": "by Bret Baier and Catherine Whitney",
+			"description": "The Fox News anchor describes Ronald Reagan\u2019s 1988 visit to the Soviet capital.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062748362.jpg",
+			"name": "THREE DAYS IN MOSCOW",
+			"publisher": "Morrow",
+			"rank": 5
+		},
+		{
+			"author": "by Yuval Noah Harari",
+			"description": "How Homo sapiens became Earth\u2019s dominant species.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062316097.jpg",
+			"name": "SAPIENS",
+			"publisher": "Harper",
+			"rank": 6
+		},
+		{
+			"author": "by Michelle McNamara",
+			"description": "The late true-crime journalist's search for the serial murderer and rapist known as \"the Golden State Killer.\"",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062319784.jpg",
+			"name": "I'LL BE GONE IN THE DARK",
+			"publisher": "Harper",
+			"rank": 7
+		},
+		{
+			"author": "by David Grann",
+			"description": "The story of a murder spree in 1920s Oklahoma that targeted Osage Indians, whose lands contained oil.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385534246.jpg",
+			"name": "KILLERS OF THE FLOWER MOON",
+			"publisher": "Doubleday",
+			"rank": 8
+		},
+		{
+			"author": "by Dave Itzkoff",
+			"description": "A New York Times journalist details the career and struggles of the actor and comedian Robin Williams.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781627794244.jpg",
+			"name": "ROBIN",
+			"publisher": "Holt",
+			"rank": 9
+		},
+		{
+			"author": "by Tara Westover",
+			"description": "The daughter of survivalists, who is kept out of school, educates herself enough to leave home for university.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399590504.jpg",
+			"name": "EDUCATED",
+			"publisher": "Random House",
+			"rank": 10
+		},
+		{
+			"author": "by J.D. Vance",
+			"description": "A Yale Law School graduate looks at the struggles of the white working class through the story of his own childhood.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062300560.jpg",
+			"name": "HILLBILLY ELEGY",
+			"publisher": "HarperCollins",
+			"rank": 11
+		},
+		{
+			"author": "by John Doerr",
+			"description": "How a goal-setting system helped large tech companies succeed.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525536222.jpg",
+			"name": "MEASURE WHAT MATTERS",
+			"publisher": "Portfolio/Penguin",
+			"rank": 12
+		},
+		{
+			"author": "by Ken Langone",
+			"description": "A memoir by a co-founder of Home Depot and a former director of the New York Stock Exchange.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735216242.jpg",
+			"name": "I LOVE CAPITALISM!",
+			"publisher": "Portfolio",
+			"rank": 13
+		},
+		{
+			"author": "by Ronan Farrow",
+			"description": "The Pulitzer Prize-winning journalist chronicles the deterioration of American diplomacy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780393652109.jpg",
+			"name": "WAR ON PEACE",
+			"publisher": "Norton",
+			"rank": 14
+		},
+		{
+			"author": "by Neil deGrasse Tyson",
+			"description": "A straightforward, easy-to-understand introduction to the laws that govern the universe.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780393609394.jpg",
+			"name": "ASTROPHYSICS FOR PEOPLE IN A HURRY",
+			"publisher": "Norton",
+			"rank": 15
+		}
+	]
+}

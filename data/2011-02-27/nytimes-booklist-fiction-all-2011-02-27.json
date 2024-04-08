@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by James Patterson and Michael Ledwidge",
+			"description": "The New York detective Michael Bennett enlists the help of a former colleague to solve a rash of horrifying crimes that are throwing the city into chaos.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780446584333.jpg",
+			"name": "TICK TOCK",
+			"publisher": "Little, Brown",
+			"rank": 1
+		},
+		{
+			"author": "by Lisa Gardner",
+			"description": "A woman who survived a horrible childhood abduction may have tricked the Massachusetts police sniper Bobby Dodge into killing her husband.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780553901139.jpg",
+			"name": "ALONE",
+			"publisher": "Random House",
+			"rank": 2
+		},
+		{
+			"author": "by Stieg Larsson",
+			"description": "A hacker and a journalist investigate the disappearance of a Swedish heiress 40 years earlier; the first volume in the Millennium trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307949486.jpg",
+			"name": "THE GIRL WITH THE DRAGON TATTOO",
+			"publisher": "Knopf Doubleday",
+			"rank": 3
+		},
+		{
+			"author": "by Deborah Harkness",
+			"description": "The recovery of a lost ancient manuscript in a library at Oxford sets a fantastical underworld stirring.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101475690.jpg",
+			"name": "A DISCOVERY OF WITCHES",
+			"publisher": "Penguin Group",
+			"rank": 4
+		},
+		{
+			"author": "by Stieg Larsson",
+			"description": "The third volume of the Millennium trilogy, about a Swedish hacker and a journalist.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307593672.jpg",
+			"name": "THE GIRL WHO KICKED THE HORNET\u2019S NEST",
+			"publisher": "Knopf Doubleday",
+			"rank": 5
+		},
+		{
+			"author": "by Stieg Larsson",
+			"description": "In the second volume of the Millennium trilogy, a Swedish hacker becomes a murder suspect.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307476159.jpg",
+			"name": "THE GIRL WHO PLAYED WITH FIRE",
+			"publisher": "Knopf Doubleday",
+			"rank": 6
+		},
+		{
+			"author": "by Sara Gruen",
+			"description": "After his parents die in a car accident, young veterinary student \u2014 and an elephant \u2014 save a Depression-era circus.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781616200718.jpg",
+			"name": "WATER FOR ELEPHANTS",
+			"publisher": "Algonquin",
+			"rank": 7
+		},
+		{
+			"author": "by Abraham Verghese",
+			"description": "Twin brothers, conjoined at birth and then separated, grow up amid the political turmoil of Ethiopia.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780375714368.jpg",
+			"name": "CUTTING FOR STONE",
+			"publisher": "Knopf Doubleday",
+			"rank": 8
+		},
+		{
+			"author": "by Kathryn Stockett",
+			"description": "A young white woman and two black maids in 1960s Mississippi.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781440697661.jpg",
+			"name": "THE HELP",
+			"publisher": "Penguin Group",
+			"rank": 9
+		},
+		{
+			"author": "by John Grisham",
+			"description": "A criminal wants to save an innocent man on death row, but he must convince the authorities he\u2019s telling the truth.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780440245117.jpg",
+			"name": "THE CONFESSION",
+			"publisher": "Knopf Doubleday",
+			"rank": 10
+		},
+		{
+			"author": "by Tom Clancy with Grant Blackwood",
+			"description": "Familiar Clancy characters appear as an intelligence group tracks a vicious terrorist called the Emir.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780425263532.jpg",
+			"name": "DEAD OR ALIVE",
+			"publisher": "Penguin Group",
+			"rank": 11
+		},
+		{
+			"author": "by Emma Donoghue",
+			"description": "The entire world of the 5-year-old boy who narrates this novel is the 11-by-11-foot room in which his mother is being held prisoner.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316223232.jpg",
+			"name": "ROOM",
+			"publisher": "Little, Brown",
+			"rank": 12
+		},
+		{
+			"author": "by Susan Wiggs",
+			"description": "A woman struggles for years to choose between two men. And then, one fateful day, the decision is made for her.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781426884269.jpg",
+			"name": "MARRYING DAISY BELLAMY",
+			"publisher": "Harlequin",
+			"rank": 13
+		},
+		{
+			"author": "by Alex Berenson",
+			"description": "When the king of Saudi Arabia is threatened, the former C.I.A. operative John Wells goes undercover to help.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101475713.jpg",
+			"name": "THE SECRET SOLDIER",
+			"publisher": "Penguin Group",
+			"rank": 14
+		},
+		{
+			"author": "by Stuart Woods",
+			"description": "In the 19th Stone Barrington novel, the New York lawyer works with the C.I.A. to transport a fugitive.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101486108.jpg",
+			"name": "STRATEGIC MOVES",
+			"publisher": "Penguin Group",
+			"rank": 15
+		}
+	]
+}

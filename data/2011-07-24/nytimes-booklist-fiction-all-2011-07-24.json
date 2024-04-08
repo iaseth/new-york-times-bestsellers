@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Kathryn Stockett",
+			"description": "A young white woman and two black maids in 1960s Mississippi.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781440697661.jpg",
+			"name": "THE HELP",
+			"publisher": "Penguin Group",
+			"rank": 1
+		},
+		{
+			"author": "by James Patterson and Michael Ledwidge",
+			"description": "Nina Bloom, who years ago changed her identity to save her life, is forced to confront the past and the killer she thought she had escaped.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316127233.jpg",
+			"name": "NOW YOU SEE HER",
+			"publisher": "Little, Brown",
+			"rank": 2
+		},
+		{
+			"author": "by Janet Evanovich",
+			"description": "A killer is after the bounty hunter Stephanie Plum, who faces further complications as she tries to choose a boyfriend.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345527691.jpg",
+			"name": "SMOKIN\u2019 SEVENTEEN",
+			"publisher": "Random House",
+			"rank": 3
+		},
+		{
+			"author": "by Tess Gerritsen",
+			"description": "A homicide cop and a medical examiner find a corpse and a severed hand in Boston\u2019s Chinatown.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345515506.jpg",
+			"name": "THE SILENT GIRL",
+			"publisher": "Random House",
+			"rank": 4
+		},
+		{
+			"author": "by Michael Connelly",
+			"description": "The Los Angeles homicide detective Hieronymus Bosch investigates the death of a fellow Vietnam veteran.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780759525771.jpg",
+			"name": "THE BLACK ECHO",
+			"publisher": "Little, Brown",
+			"rank": 5
+		},
+		{
+			"author": "by George R.R. Martin",
+			"description": "In the frozen wastes to the north of Winterfell, sinister and supernatural forces are mustering.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780553897845.jpg",
+			"name": "A GAME OF THRONES",
+			"publisher": "Random House",
+			"rank": 6
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "After the death of his devoted wife, a father struggles to keep his family together, and in the process learns to love again.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780446583145.jpg",
+			"name": "ONE SUMMER",
+			"publisher": "Grand Central",
+			"rank": 7
+		},
+		{
+			"author": "by Sara Gruen",
+			"description": "After his parents die in a car accident, a young veterinary student \u2014 and an elephant \u2014 save a Depression-era circus.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781616200718.jpg",
+			"name": "WATER FOR ELEPHANTS",
+			"publisher": "Algonquin",
+			"rank": 8
+		},
+		{
+			"author": "by Ann Patchett",
+			"description": "In the Amazon, a medical researcher seeks her former mentor, a despotic scientist developing a miracle fertility drug.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062049827.jpg",
+			"name": "STATE OF WONDER",
+			"publisher": "HarperCollins",
+			"rank": 9
+		},
+		{
+			"author": "by George R.R. Martin",
+			"description": "From the citadel of Dragonstone to the shores of Winterfell, factions vie for control of a divided land; Book 2 of \"A Song of Ice and Fire.\"",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780553579901.jpg",
+			"name": "A CLASH OF KINGS",
+			"publisher": "Random House",
+			"rank": 10
+		},
+		{
+			"author": "by Tom Clancy with Peter Telep",
+			"description": "Maxwell Moore pursues the terrorists who killed his C.I.A. colleagues in a bomb attack in Pakistan.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780425246061.jpg",
+			"name": "AGAINST ALL ENEMIES",
+			"publisher": "Penguin Group",
+			"rank": 11
+		},
+		{
+			"author": "by Emma Donoghue",
+			"description": "The entire world of the 5-year-old boy who narrates this novel is the 11-by-11-foot room in which his mother is being held prisoner.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316223232.jpg",
+			"name": "ROOM",
+			"publisher": "Little, Brown",
+			"rank": 12
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "The former assassin John Carr, aka Oliver Stone, teams with an MI-6 agent to search for the perpetrators of a terrorist attack against the British prime minister.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780446195522.jpg",
+			"name": "HELL'S CORNER",
+			"publisher": "Grand Central",
+			"rank": 13
+		},
+		{
+			"author": "by George R.R. Martin",
+			"description": "Wars continue to rage over the Iron Throne as alliances are made and broken; Book 3 of \u201cA Song of Ice and Fire.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780553573428.jpg",
+			"name": "A STORM OF SWORDS",
+			"publisher": "Random House",
+			"rank": 14
+		},
+		{
+			"author": "by Stieg Larsson",
+			"description": "The third volume of the Millennium trilogy, about a Swedish hacker and a journalist.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307593672.jpg",
+			"name": "THE GIRL WHO KICKED THE HORNET\u2019S NEST",
+			"publisher": "Knopf Doubleday",
+			"rank": 15
+		}
+	]
+}

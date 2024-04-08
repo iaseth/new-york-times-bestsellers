@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Amanda Gorman",
+			"description": "The poem read on President Joe Biden's Inauguration Day, by the youngest poet to write and perform an inaugural poem.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593465271.jpg",
+			"name": "THE HILL WE CLIMB",
+			"publisher": "Viking",
+			"rank": 1
+		},
+		{
+			"author": "by James Patterson and David Ellis",
+			"description": "The second book in the Black Book thriller series. Chicago detective Billy Harney investigates his own past.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316499408.jpg",
+			"name": "THE RED BOOK",
+			"publisher": "Little, Brown",
+			"rank": 2
+		},
+		{
+			"author": "by Kristin Hannah",
+			"description": "As dust storms roll during the Great Depression, Elsa must choose between saving the family and farm or heading West.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250178602.jpg",
+			"name": "THE FOUR WINDS",
+			"publisher": "St. Martin's",
+			"rank": 3
+		},
+		{
+			"author": "by Matt Haig",
+			"description": "Nora Seed finds a library beyond the edge of the universe that contains books with multiple possibilities of the lives one could have lived.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525559474.jpg",
+			"name": "THE MIDNIGHT LIBRARY",
+			"publisher": "Viking",
+			"rank": 4
+		},
+		{
+			"author": "by Delia Owens",
+			"description": "In a quiet town on the North Carolina coast in 1969, a young woman who survived alone in the marsh becomes a murder suspect.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735219090.jpg",
+			"name": "WHERE THE CRAWDADS SING",
+			"publisher": "Putnam",
+			"rank": 5
+		},
+		{
+			"author": "by Harlan Coben",
+			"description": "Windsor Horne Lockwood III might rectify cold cases connected to his family that have eluded the F.B.I. for decades.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538748213.jpg",
+			"name": "WIN",
+			"publisher": "Grand Central",
+			"rank": 6
+		},
+		{
+			"author": "by Stephen King",
+			"description": "An N.Y.P.D. detective asks the son of a struggling single mother to use his unnatural ability to track a killer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781789096491.jpg",
+			"name": "LATER",
+			"publisher": "Hard Case Crime",
+			"rank": 7
+		},
+		{
+			"author": "by Madeline Miller",
+			"description": "A reimagining of Homer\u2019s \u201cIliad\u201d that is narrated by Achilles' companion Patroclus.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062060624.jpg",
+			"name": "THE SONG OF ACHILLES",
+			"publisher": "Ecco",
+			"rank": 8
+		},
+		{
+			"author": "by Kazuo Ishiguro",
+			"description": "An \u201cArtificial Friend\u201d named Klara is purchased to serve as a companion to an ailing 14-year-old girl.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593318171.jpg",
+			"name": "KLARA AND THE SUN",
+			"publisher": "Knopf",
+			"rank": 9
+		},
+		{
+			"author": "by V.E. Schwab",
+			"description": "A Faustian bargain comes with a curse that affects the adventure Addie LaRue has across centuries.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780765387561.jpg",
+			"name": "THE INVISIBLE LIFE OF ADDIE LARUE",
+			"publisher": "Tor/Forge",
+			"rank": 10
+		},
+		{
+			"author": "by Eloisa James",
+			"description": "The sixth book in the Wildes of Lindow Castle series. Lady Joan plans to perform the role of a prince in the manner of Thaddeus Erskine Shaw, Viscount Greywick.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062877857.jpg",
+			"name": "WILDE CHILD",
+			"publisher": "Avon",
+			"rank": 11
+		},
+		{
+			"author": "by Julia Quinn",
+			"description": "The first book in the Bridgerton series. Daphne Bridgerton\u2019s reputation soars when she colludes with the Duke of Hastings. The basis of the Netflix series \u201cBridgerton.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062424037.jpg",
+			"name": "THE DUKE AND I",
+			"publisher": "Avon",
+			"rank": 12
+		},
+		{
+			"author": "by Kate Quinn",
+			"description": "As a post-World War II royal wedding approaches, an encrypted letter resurrects an alliance between three female code breakers.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062943477.jpg",
+			"name": "THE ROSE CODE",
+			"publisher": "Morrow",
+			"rank": 13
+		},
+		{
+			"author": "by Sarah Penner",
+			"description": "An aspiring historian in London finds a clue that might put to rest unsolved apothecary murders from 200 years ago.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780778311010.jpg",
+			"name": "THE LOST APOTHECARY",
+			"publisher": "Harlequin",
+			"rank": 14
+		},
+		{
+			"author": "by Martha Hall Kelly",
+			"description": "During the Civil War, sisters Georgeanna and Eliza join the war effort together while sisters Jemma and Patience are enslaved on separate plantations.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524796402.jpg",
+			"name": "SUNFLOWER SISTERS",
+			"publisher": "Ballantine",
+			"rank": 15
+		}
+	]
+}

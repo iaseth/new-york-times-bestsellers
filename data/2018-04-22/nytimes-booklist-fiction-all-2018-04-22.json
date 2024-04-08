@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Ernest Cline",
+			"description": "It\u2019s 2044, life on a resource-depleted Earth is grim, and the key to a vast fortune is hidden in a virtual-reality world.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307887443.jpg",
+			"name": "READY PLAYER ONE",
+			"publisher": "Broadway",
+			"rank": 1
+		},
+		{
+			"author": "by Mary Higgins Clark",
+			"description": "A high school guidance counselor tries to uncover the identity of her sister\u2019s murderer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501171697.jpg",
+			"name": "I'VE GOT MY EYES ON YOU",
+			"publisher": "Simon & Schuster",
+			"rank": 2
+		},
+		{
+			"author": "by John Grisham",
+			"description": "A search for stolen rare manuscripts leads to a Florida island.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385543057.jpg",
+			"name": "CAMINO ISLAND",
+			"publisher": "Doubleday",
+			"rank": 3
+		},
+		{
+			"author": "by Kristin Hannah",
+			"description": "A former prisoner of war returns from Vietnam and moves his family to Alaska, where they face tough conditions.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250165619.jpg",
+			"name": "THE GREAT ALONE",
+			"publisher": "St. Martin's",
+			"rank": 4
+		},
+		{
+			"author": "by James Patterson and Marshall Karp",
+			"description": "The fifth book in the NYPD Red series. Detectives Zach Jordan and Kylie MacDonald investigate the death of a documentary filmmaker and an explosion at a charity benefit.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316395588.jpg",
+			"name": "RED ALERT",
+			"publisher": "Little, Brown",
+			"rank": 5
+		},
+		{
+			"author": "by C.J. Box",
+			"description": "A Wyoming game warden teams up with his daughter to find a missing British businesswoman.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698410114.jpg",
+			"name": "THE DISAPPEARED",
+			"publisher": "Putnam",
+			"rank": 6
+		},
+		{
+			"author": "by Celeste Ng",
+			"description": "An artist upends a quiet town outside Cleveland.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735224308.jpg",
+			"name": "LITTLE FIRES EVERYWHERE",
+			"publisher": "Penguin Press",
+			"rank": 7
+		},
+		{
+			"author": "by Anne Hillerman",
+			"description": "Tribal police officers search the Navajo Nation for a missing instructor and investigate a troubled girl\u2019s story of finding human remains.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062391940.jpg",
+			"name": "CAVE OF BONES",
+			"publisher": "Harper",
+			"rank": 8
+		},
+		{
+			"author": "by Meg Wolitzer",
+			"description": "The relationship between a college freshman and a famous feminist reveals the challenges of intergenerational feminism.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525538530.jpg",
+			"name": "THE FEMALE PERSUASION",
+			"publisher": "Riverhead",
+			"rank": 9
+		},
+		{
+			"author": "by Lisa Wingate",
+			"description": "A South Carolina lawyer learns about the questionable practices of a Tennessee orphanage.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780425284681.jpg",
+			"name": "BEFORE WE WERE YOURS",
+			"publisher": "Ballantine",
+			"rank": 10
+		},
+		{
+			"author": "by Kevin Hearne",
+			"description": "The ninth book in the Iron Druid Chronicles series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345548559.jpg",
+			"name": "SCOURGED",
+			"publisher": "Del Rey",
+			"rank": 11
+		},
+		{
+			"author": "by John Sandford",
+			"description": "Lucas Davenport, now a U.S. Marshal, pursues a thief who robbed a drug cartel and killed a child in Biloxi, Miss.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399184581.jpg",
+			"name": "GOLDEN PREY",
+			"publisher": "Putnam",
+			"rank": 12
+		},
+		{
+			"author": "by Danielle Steel",
+			"description": "The author Alexandra Winslow, writing under the pseudonym Alexander Green, creates a double life that isolates her.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101883952.jpg",
+			"name": "THE RIGHT TIME",
+			"publisher": "Delacorte",
+			"rank": 13
+		},
+		{
+			"author": "by A.J. Finn",
+			"description": "A recluse who drinks heavily and takes prescription drugs may have witnessed a crime across from her Harlem townhouse.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062678416.jpg",
+			"name": "THE WOMAN IN THE WINDOW",
+			"publisher": "Morrow",
+			"rank": 14
+		},
+		{
+			"author": "by Mary Higgins Clark",
+			"description": "On a luxury cruise ship, a wealthy aristocrat is found murdered, and her emerald necklace has disappeared.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501131134.jpg",
+			"name": "ALL BY MYSELF, ALONE",
+			"publisher": "Simon & Schuster",
+			"rank": 15
+		}
+	]
+}

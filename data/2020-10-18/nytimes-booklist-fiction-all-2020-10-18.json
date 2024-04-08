@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Nicholas Sparks",
+			"description": "A doctor serving in the Navy in Afghanistan goes back to North Carolina where two women change his life.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538728574.jpg",
+			"name": "THE RETURN",
+			"publisher": "Grand Central",
+			"rank": 1
+		},
+		{
+			"author": "by Jim Butcher",
+			"description": "The 17th book in the Dresden Files series. Harry must save Chicago from destruction by the Last Titan.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593199305.jpg",
+			"name": "BATTLE GROUND",
+			"publisher": "Ace",
+			"rank": 2
+		},
+		{
+			"author": "by Ken Follett",
+			"description": "In a prequel to \u201cThe Pillars of the Earth,\u201d a boatbuilder, a Norman noblewoman and a monk live in England under attack by the Welsh and the Vikings.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525954989.jpg",
+			"name": "THE EVENING AND THE MORNING",
+			"publisher": "Viking",
+			"rank": 3
+		},
+		{
+			"author": "by Lana Del Rey",
+			"description": "A collection of poems by the singer and songwriter.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982167288.jpg",
+			"name": "VIOLET BENT BACKWARDS OVER THE GRASS",
+			"publisher": "Simon & Schuster",
+			"rank": 4
+		},
+		{
+			"author": "by Jodi Picoult",
+			"description": "After surviving a plane crash, a death doula travels to Egypt to reconnect with an old flame who is an archaeologist.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984818355.jpg",
+			"name": "THE BOOK OF TWO WAYS",
+			"publisher": "Ballantine",
+			"rank": 5
+		},
+		{
+			"author": "by James Patterson and J.D. Barker",
+			"description": "A detective and an F.B.I. agent are baffled by a cross-country killing spree.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316457422.jpg",
+			"name": "THE COAST-TO-COAST MURDERS",
+			"publisher": "Little, Brown",
+			"rank": 6
+		},
+		{
+			"author": "by Kyle Mills",
+			"description": "When America\u2019s power grid is shut down, Mitch Rapp goes after a cyber terrorist.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501190650.jpg",
+			"name": "VINCE FLYNN: TOTAL POWER",
+			"publisher": "Emily Bestler/Atria",
+			"rank": 7
+		},
+		{
+			"author": "by Fredrik Backman",
+			"description": "A failed bank robber holds a group of strangers hostage at an apartment open house.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501160837.jpg",
+			"name": "ANXIOUS PEOPLE",
+			"publisher": "Atria",
+			"rank": 8
+		},
+		{
+			"author": "by Brit Bennett",
+			"description": "The lives of twin sisters who run away from a Southern Black community at age 16 diverge as one returns and the other takes on a different racial identity but their fates intertwine.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525536291.jpg",
+			"name": "THE VANISHING HALF",
+			"publisher": "Riverhead",
+			"rank": 9
+		},
+		{
+			"author": "by Naomi Novik",
+			"description": "While others expect a dark sorceress to cause damage, she has other plans.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593128497.jpg",
+			"name": "A DEADLY EDUCATION",
+			"publisher": "Del Rey",
+			"rank": 10
+		},
+		{
+			"author": "by Lynsay Sands",
+			"description": "The 31st book in the Argeneau series. Can Joshua James Simpson Guiscard accept Ildaria Garcia as a life mate?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062956279.jpg",
+			"name": "IMMORTAL ANGEL",
+			"publisher": "Avon",
+			"rank": 11
+		},
+		{
+			"author": "by Joanne Fluke",
+			"description": "As the holidays approach, a fresh batch of mystery and misadventure is served up to Hannah Swensen.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781496729149.jpg",
+			"name": "CHRISTMAS CUPCAKE MURDER",
+			"publisher": "Kensington",
+			"rank": 12
+		},
+		{
+			"author": "by Robert Galbraith",
+			"description": "The fifth book in the Cormoran Strike series. A decades-old cold case might be connected to a serial killer; by J.K. Rowling, writing pseudonymously.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316498937.jpg",
+			"name": "TROUBLED BLOOD",
+			"publisher": "Little, Brown",
+			"rank": 13
+		},
+		{
+			"author": "by Ruth Ware",
+			"description": "An avalanche tests the bonds of coworkers from a London-based tech startup on a corporate retreat in the French Alps.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501188817.jpg",
+			"name": "ONE BY ONE",
+			"publisher": "Gallery/Scout",
+			"rank": 14
+		},
+		{
+			"author": "by Matt Haig",
+			"description": "Nora Seed finds a library beyond the edge of the universe that contains books with multiple possibilities of the lives one could have lived.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525559474.jpg",
+			"name": "THE MIDNIGHT LIBRARY",
+			"publisher": "Viking",
+			"rank": 15
+		}
+	]
+}

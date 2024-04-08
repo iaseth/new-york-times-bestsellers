@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Kristin Hannah",
+			"description": "As dust storms roll during the Great Depression, Elsa must choose between saving the family and farm or heading West.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250178602.jpg",
+			"name": "THE FOUR WINDS",
+			"publisher": "St. Martin's",
+			"rank": 1
+		},
+		{
+			"author": "by Harlan Coben",
+			"description": "Windsor Horne Lockwood III might rectify cold cases connected to his family that have eluded the F.B.I. for decades.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538748213.jpg",
+			"name": "WIN",
+			"publisher": "Grand Central",
+			"rank": 2
+		},
+		{
+			"author": "by Jacqueline Winspear",
+			"description": "The 16th book in the Maisie Dobbs series. As Nazi occupation increases, Maisie looks into a possible murder that might affect Britain\u2019s war efforts.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062868022.jpg",
+			"name": "THE CONSEQUENCES OF FEAR",
+			"publisher": "Harper",
+			"rank": 3
+		},
+		{
+			"author": "by Stuart Woods",
+			"description": "The 57th book in the Stone Barrington series. A double threat with friends in high places awaits Stone in Maine.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593188385.jpg",
+			"name": "DOUBLE JEOPARDY",
+			"publisher": "Putnam",
+			"rank": 4
+		},
+		{
+			"author": "by Janet Evanovich and Steve Hamilton",
+			"description": "The seventh book in the Fox and O\u2019Hare series. Kate and Nick seek help from their fathers as they go after a shadowy international organization in search of a lost train full of Nazi gold.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982157135.jpg",
+			"name": "THE BOUNTY",
+			"publisher": "Atria",
+			"rank": 5
+		},
+		{
+			"author": "by Stephen King",
+			"description": "An N.Y.P.D. detective asks the son of a struggling single mother to use his unnatural ability to track a killer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781789096491.jpg",
+			"name": "LATER",
+			"publisher": "Hard Case Crime",
+			"rank": 6
+		},
+		{
+			"author": "by Matt Haig",
+			"description": "Nora Seed finds a library beyond the edge of the universe that contains books with multiple possibilities of the lives one could have lived.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525559474.jpg",
+			"name": "THE MIDNIGHT LIBRARY",
+			"publisher": "Viking",
+			"rank": 7
+		},
+		{
+			"author": "by Lisa Scottoline",
+			"description": "Three people involved in a love triangle find everything they hold dear is tested as Mussolini\u2019s power grows and laws change in Rome.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525539766.jpg",
+			"name": "ETERNAL",
+			"publisher": "Putnam",
+			"rank": 8
+		},
+		{
+			"author": "by Kate Quinn",
+			"description": "As a post-World War II royal wedding approaches, an encrypted letter resurrects an alliance between three female code breakers.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062943477.jpg",
+			"name": "THE ROSE CODE",
+			"publisher": "Morrow",
+			"rank": 9
+		},
+		{
+			"author": "by Sister Souljah",
+			"description": "In a sequel to \u201cThe Coldest Winter Ever,\u201d Winter Santiaga emerges after time served and seeks revenge.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982139131.jpg",
+			"name": "LIFE AFTER DEATH",
+			"publisher": "Atria/Emily Bestler",
+			"rank": 10
+		},
+		{
+			"author": "by Kazuo Ishiguro",
+			"description": "An \u201cArtificial Friend\u201d named Klara is purchased to serve as a companion to an ailing 14-year-old girl.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593318171.jpg",
+			"name": "KLARA AND THE SUN",
+			"publisher": "Knopf",
+			"rank": 11
+		},
+		{
+			"author": "by Madeline Miller",
+			"description": "A reimagining of Homer\u2019s \u201cIliad\u201d that is narrated by Achilles' companion Patroclus.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062060624.jpg",
+			"name": "THE SONG OF ACHILLES",
+			"publisher": "Ecco",
+			"rank": 12
+		},
+		{
+			"author": "by Julia Quinn",
+			"description": "The first book in the Bridgerton series. Daphne Bridgerton\u2019s reputation soars when she colludes with the Duke of Hastings. The basis of the Netflix series \u201cBridgerton.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062424037.jpg",
+			"name": "THE DUKE AND I",
+			"publisher": "Avon",
+			"rank": 13
+		},
+		{
+			"author": "by Chris Whitaker",
+			"description": "Trouble might start for the chief of police and a self-proclaimed outlaw teenager when a man is released from prison.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250759665.jpg",
+			"name": "WE BEGIN AT THE END",
+			"publisher": "Holt",
+			"rank": 14
+		},
+		{
+			"author": "by V.E. Schwab",
+			"description": "A Faustian bargain comes with a curse that affects the adventure Addie LaRue has across centuries.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780765387561.jpg",
+			"name": "THE INVISIBLE LIFE OF ADDIE LARUE",
+			"publisher": "Tor/Forge",
+			"rank": 15
+		}
+	]
+}

@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Sheryl Sandberg with Nell Scovell",
+			"description": "The chief operating officer of Facebook urges women to pursue their careers without ambivalence and to cultivate a will to lead.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385349956.jpg",
+			"name": "LEAN IN",
+			"publisher": "Knopf",
+			"rank": 1
+		},
+		{
+			"author": "by Tina Fey",
+			"description": "A memoir from the former \"Saturday Night Live\" star and creator of \"30 Rock.\"",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316056892.jpg",
+			"name": "BOSSYPANTS",
+			"publisher": "Reagan Arthur/Little, Brown",
+			"rank": 2
+		},
+		{
+			"author": "by Eben Alexander",
+			"description": "A neurosurgeon recounts his near death experience during a coma from bacterial meningitis.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451695199.jpg",
+			"name": "PROOF OF HEAVEN",
+			"publisher": "Simon & Schuster",
+			"rank": 3
+		},
+		{
+			"author": "by Cheryl Strayed",
+			"description": "A woman\u2019s account of a life-changing 1,100-mile hike along the Pacific Crest Trail during the summer of 1995.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307476074.jpg",
+			"name": "WILD",
+			"publisher": "Knopf",
+			"rank": 4
+		},
+		{
+			"author": "by Susannah Cahalan",
+			"description": "A medical mystery in which doctors struggle to discover why a young reporter suddenly experiences seizures, hallucinations and eventually near catatonia.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451621389.jpg",
+			"name": "BRAIN ON FIRE",
+			"publisher": "Free Press",
+			"rank": 5
+		},
+		{
+			"author": "by John Gerzema and Michael D\u2019Antonio",
+			"description": "How feminine values of nurturing, listening and collaborating are redefining success for both genders.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781118452950.jpg",
+			"name": "ATHENA DOCTRINE",
+			"publisher": "Jossey-Bass",
+			"rank": 6
+		},
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "The host of \u201cThe O\u2019Reilly Factor\u201d recounts the assassination of John F. Kennedy, a tragedy that has left a lasting imprint on the nation.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780805096668.jpg",
+			"name": "KILLING KENNEDY",
+			"publisher": "Holt",
+			"rank": 7
+		},
+		{
+			"author": "by Chris Kyle with Scott McEwen and Jim DeFelice",
+			"description": "A member of the Navy SEALs who had the most career sniper kills in United States military history discusses his childhood, his marriage and his battlefield experiences during the Iraq war. Kyle was recently shot to death in Texas.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062082374.jpg",
+			"name": "AMERICAN SNIPER",
+			"publisher": "Morrow/HarperCollins",
+			"rank": 8
+		},
+		{
+			"author": "by Mary Roach",
+			"description": "A science writer\u2019s pilgrimage down the digestive tract; by the author of \u201cStiff,\u201d \u201cSpook,\u201d \u201cBonk\u201d and \u201cPacking for Mars.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780393240306.jpg",
+			"name": "GULP",
+			"publisher": "Norton",
+			"rank": 9
+		},
+		{
+			"author": "by Debbie Reynolds and Dorian Hannaway",
+			"description": "A second memoir by the actress, singer and dancer presents stories about her show-business friends, her man and money troubles, and her children.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062213655.jpg",
+			"name": "UNSINKABLE",
+			"publisher": "Morrow/HarperCollins",
+			"rank": 10
+		},
+		{
+			"author": "by Gabrielle Reece with Karen Karbo",
+			"description": "The athlete and fashion model discusses her marriage, relationship issues and aging gracefully.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451692662.jpg",
+			"name": "MY FOOT IS TOO BIG FOR THE GLASS SLIPPER",
+			"publisher": "Scribner",
+			"rank": 11
+		},
+		{
+			"author": "by Susan Cain",
+			"description": "Introverts \u2014 one-third of the population \u2014 are undervalued in American society.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307452207.jpg",
+			"name": "QUIET",
+			"publisher": "Crown",
+			"rank": 12
+		},
+		{
+			"author": "by Mark Mazzetti",
+			"description": "The Times\u2019s national security correspondent describes how the lines between the C.I.A. and the American military have been blurred.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594204807.jpg",
+			"name": "WAY OF THE KNIFE",
+			"publisher": "Penguin Press",
+			"rank": 13
+		},
+		{
+			"author": "by Charles Graeber",
+			"description": "A journalist tells the story of Charlie Cullen, the serial killer known as \u201cthe Angel of Death,\u201d implicated in the deaths of as many as 300 patients in a string of hospitals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780446505291.jpg",
+			"name": "THE GOOD NURSE",
+			"publisher": "Twelve",
+			"rank": 14
+		},
+		{
+			"author": "by Laura Hillenbrand",
+			"description": "An Olympic runner\u2019s story of survival as a prisoner of the Japanese in World War II after his plane went down over the Pacific.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400064168.jpg",
+			"name": "UNBROKEN",
+			"publisher": "Random House",
+			"rank": 15
+		}
+	]
+}

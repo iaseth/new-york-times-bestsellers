@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by E. L. James",
+			"description": "An inexperienced college student falls in love with a tortured man who has particular sexual tastes; the first book in a trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345803481.jpg",
+			"name": "FIFTY SHADES OF GREY",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 1
+		},
+		{
+			"author": "by E. L. James",
+			"description": "Ana Steele learns more about Christian Grey\u2019s troubled past; the second book in a trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345803498.jpg",
+			"name": "FIFTY SHADES DARKER",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 2
+		},
+		{
+			"author": "by E. L. James",
+			"description": "The final book in an erotic trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781612130606.jpg",
+			"name": "FIFTY SHADES FREED",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 3
+		},
+		{
+			"author": "by John Sandford",
+			"description": "When a Minnesota family is murdered, the investigator Lucas Davenport believes a Mexican drug gang is involved.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101584910.jpg",
+			"name": "STOLEN PREY",
+			"publisher": "Penguin Group",
+			"rank": 4
+		},
+		{
+			"author": "by James Patterson and Maxine Paetro",
+			"description": "Detective Lindsay Boxer and the Women\u2019s Murder Club investigate a possible serial killer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780446571821.jpg",
+			"name": "11TH HOUR",
+			"publisher": "Little, Brown & Company",
+			"rank": 5
+		},
+		{
+			"author": "by E. L. James",
+			"description": "The three \u201cFifty Shades\u201d novels in one bundle.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345803573.jpg",
+			"name": "FIFTY SHADES TRILOGY",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 6
+		},
+		{
+			"author": "by Steve Berry",
+			"description": "The daughter of a disgraced journalist is held by a man who wants to force her father to help him discover a secret left by Columbus.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345526526.jpg",
+			"name": "THE COLUMBUS AFFAIR",
+			"publisher": "Random House Publishing",
+			"rank": 7
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "A hitman who has become a target of the government rescues a teenage girl whose parents have been murdered.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780446573009.jpg",
+			"name": "THE INNOCENT",
+			"publisher": "Grand Central Publishing",
+			"rank": 8
+		},
+		{
+			"author": "by Nora Roberts",
+			"description": "As the Montgomery brothers renovate their historic inn in Boonsboro, Md., Owen Montgomery reconnects with his first girlfriend.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780515151480.jpg",
+			"name": "THE LAST BOYFRIEND",
+			"publisher": "Berkley",
+			"rank": 9
+		},
+		{
+			"author": "by Charlaine Harris",
+			"description": "The telepathic waitress Sookie Stackhouse investigates a murder that has more to do with her than she imagines.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781937007447.jpg",
+			"name": "DEADLOCKED",
+			"publisher": "Penguin Group",
+			"rank": 10
+		},
+		{
+			"author": "by Tracey Garvis-Graves",
+			"description": "An English teacher and the teenage boy she has agreed to tutor are stranded on an island in the Indian Ocean.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/A00B005L9B5YU.jpg",
+			"name": "ON THE ISLAND",
+			"publisher": "Tracey Garvis-Graves",
+			"rank": 11
+		},
+		{
+			"author": "by Nicholas Sparks",
+			"description": "A Marine returning home sets out to track down the woman whose photo he found in Iraq.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780446542180.jpg",
+			"name": "THE LUCKY ONE",
+			"publisher": "Grand Central Publishing",
+			"rank": 12
+		},
+		{
+			"author": "by Nora Roberts",
+			"description": "A programmer hides from the Russian mob in the Ozarks.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101580363.jpg",
+			"name": "THE WITNESS",
+			"publisher": "Putnam",
+			"rank": 13
+		},
+		{
+			"author": "by Jennifer Probst",
+			"description": "A billionaire who needs a wife offers a one-year marriage in name only to a bookstore owner.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781620612798.jpg",
+			"name": "THE MARRIAGE BARGAIN",
+			"publisher": "Entangled Publishing",
+			"rank": 14
+		},
+		{
+			"author": "by George R.R. Martin",
+			"description": "In the frozen wastes to the north of Winterfell, sinister and supernatural forces are mustering.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780553897845.jpg",
+			"name": "A GAME OF THRONES",
+			"publisher": "Random House Publishing",
+			"rank": 15
+		}
+	]
+}

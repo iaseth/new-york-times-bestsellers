@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by John Sandford",
+			"description": "Lucas Davenport, now a U.S. Marshal, pursues a thief who robbed a drug cartel and killed a child in Biloxi, Miss.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399184581.jpg",
+			"name": "GOLDEN PREY",
+			"publisher": "Putnam",
+			"rank": 1
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "The detective Amos Decker (\u201cMemory Man\u201d) witnesses a murder-suicide that turns out to be a matter of national security.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455586561.jpg",
+			"name": "THE FIX",
+			"publisher": "Grand Central",
+			"rank": 2
+		},
+		{
+			"author": "by Margaret Atwood",
+			"description": "In a dystopian future, men and women perform the services assigned to them.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780547345666.jpg",
+			"name": "THE HANDMAID'S TALE",
+			"publisher": "Houghton Mifflin Harcourt",
+			"rank": 3
+		},
+		{
+			"author": "by James Patterson and David Ellis",
+			"description": "After a raid on a brothel that serviced Chicago\u2019s elite, two people are dead and the madam\u2019s black book has disappeared. Who is responsible?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316464147.jpg",
+			"name": "THE BLACK BOOK",
+			"publisher": "Little, Brown",
+			"rank": 4
+		},
+		{
+			"author": "by Elizabeth Strout",
+			"description": "A novel-in-stories about the lives of the inhabitants of the rural Illinois hometown of Lucy Barton, the protagonist of Strout\u2019s previous novel.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812989427.jpg",
+			"name": "ANYTHING IS POSSIBLE",
+			"publisher": "Random House",
+			"rank": 5
+		},
+		{
+			"author": "by Liane Moriarty",
+			"description": "Who will end up dead, and how, when three mothers with children in the same school become friends?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698138636.jpg",
+			"name": "BIG LITTLE LIES",
+			"publisher": "Berkley",
+			"rank": 6
+		},
+		{
+			"author": "by Ruth Ware",
+			"description": "A travel writer on a cruise is certain she has heard a body thrown overboard, but no one believes her.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501132940.jpg",
+			"name": "THE WOMAN IN CABIN 10",
+			"publisher": "Scout",
+			"rank": 7
+		},
+		{
+			"author": "by Iris Johansen",
+			"description": "A woman with the ability to communicate with animals becomes caught in a cat-and-mouse game.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781466887220.jpg",
+			"name": "NO EASY TARGET",
+			"publisher": "St. Martin's",
+			"rank": 8
+		},
+		{
+			"author": "by Kresley Cole",
+			"description": "A legacy of deceit threatens Lila and Sian's already tenuous bond.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501120565.jpg",
+			"name": "WICKED ABYSS",
+			"publisher": "Gallery Books",
+			"rank": 9
+		},
+		{
+			"author": "by Fredrik Backman",
+			"description": "A curmudgeon's gruff exterior masks a generosity of spirit. Originally published in Sweden in 2014.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476738024.jpg",
+			"name": "A MAN CALLED OVE",
+			"publisher": "Washington Square",
+			"rank": 10
+		},
+		{
+			"author": "by Martha Hall Kelly",
+			"description": "A story of three women\u2019s lives during and after World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101883075.jpg",
+			"name": "LILAC GIRLS",
+			"publisher": "Ballantine",
+			"rank": 11
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "In a sequel to \u201cMemory Man,\u201d Amos Decker, a detective with an extraordinary memory, investigates the case of a convicted killer who wins a last-minute reprieve.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455586455.jpg",
+			"name": "THE LAST MILE",
+			"publisher": "Grand Central",
+			"rank": 12
+		},
+		{
+			"author": "by Fredrik Backman",
+			"description": "Its hockey team\u2019s success will revive a dying town, but its star is caught up in a scandal.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501160783.jpg",
+			"name": "BEARTOWN",
+			"publisher": "Atria",
+			"rank": 13
+		},
+		{
+			"author": "by Rupi Kaur",
+			"description": "Poetic approaches to surviving adversity and loss.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781449474256.jpg",
+			"name": "MILK AND HONEY",
+			"publisher": "Andrews McMeel",
+			"rank": 14
+		},
+		{
+			"author": "by Kristin Hannah",
+			"description": "Two sisters are separated in World War II France: one in the countryside, the other in Paris.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781466850606.jpg",
+			"name": "THE NIGHTINGALE",
+			"publisher": "St. Martin's",
+			"rank": 15
+		}
+	]
+}

@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Paula Hawkins",
+			"description": "A psychological thriller set in London is full of complications and betrayals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594633669.jpg",
+			"name": "THE GIRL ON THE TRAIN",
+			"publisher": "Riverhead",
+			"rank": 1
+		},
+		{
+			"author": "by E. L. James",
+			"description": "An innocent college student falls in love with a tortured man with particular sexual tastes; the first of a trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345803481.jpg",
+			"name": "FIFTY SHADES OF GREY",
+			"publisher": "Vintage",
+			"rank": 2
+		},
+		{
+			"author": "by Kristin Hannah",
+			"description": "Two sisters in World War II France: one struggling to survive in the countryside, the other  joining the Resistance in Paris.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781466850606.jpg",
+			"name": "THE NIGHTINGALE",
+			"publisher": "St. Martin's",
+			"rank": 3
+		},
+		{
+			"author": "by Lisa Gardner",
+			"description": "A luxury car is found at the bottom of a ravine in New Hampshire, and the investigation of the accident leads to the discovery of a string of crimes.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698186170.jpg",
+			"name": "CRASH AND BURN",
+			"publisher": "Dutton",
+			"rank": 4
+		},
+		{
+			"author": "by Anthony Doerr",
+			"description": "The lives of a blind French girl and a gadget-obsessed German boy before and during World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476746586.jpg",
+			"name": "ALL THE LIGHT WE CANNOT SEE",
+			"publisher": "Scribner",
+			"rank": 5
+		},
+		{
+			"author": "by James Patterson and Maxine Paetro",
+			"description": "Jack Morgan, the head of an investigative firm, uncovers a murder ring in Las Vegas.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316211147.jpg",
+			"name": "PRIVATE VEGAS",
+			"publisher": "Little, Brown",
+			"rank": 6
+		},
+		{
+			"author": "by Gillian Flynn",
+			"description": "A woman disappears on the day of her fifth anniversary; is her husband a killer?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307588388.jpg",
+			"name": "GONE GIRL",
+			"publisher": "Crown",
+			"rank": 7
+		},
+		{
+			"author": "by E. L. James",
+			"description": "Daunted by Christian\u2019s dark secrets, Anastasia ends their relationship \u2014 but desire still dominates her every thought; the second book in a trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345803498.jpg",
+			"name": "FIFTY SHADES DARKER",
+			"publisher": "Vintage",
+			"rank": 8
+		},
+		{
+			"author": "by E. L. James",
+			"description": "The three \u201cFifty Shades\u201d novels in one bundle.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345803573.jpg",
+			"name": "FIFTY SHADES TRILOGY",
+			"publisher": "Vintage",
+			"rank": 9
+		},
+		{
+			"author": "by Liane Moriarty",
+			"description": "Who will end up dead, and how, when three mothers with children in the same school become friends?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698138636.jpg",
+			"name": "BIG LITTLE LIES",
+			"publisher": "Amy Einhorn/Putnam",
+			"rank": 10
+		},
+		{
+			"author": "by E. L. James",
+			"description": "Reunited, Anastasia and Christian face a world of possibilities, and unexpected challenges; the final volume in a trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781612130606.jpg",
+			"name": "FIFTY SHADES FREED",
+			"publisher": "Vintage",
+			"rank": 11
+		},
+		{
+			"author": "by Lisa Genova",
+			"description": "A 50-year-old Harvard professor learns she has early-onset Alzheimer's disease; now a movie.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781439102817.jpg",
+			"name": "STILL ALICE",
+			"publisher": "Pocket Books",
+			"rank": 12
+		},
+		{
+			"author": "by Christina Lauren",
+			"description": "In the seventh book in the Beautiful series, Sara and Max face parenthood.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476791654.jpg",
+			"name": "BEAUTIFUL BELOVED",
+			"publisher": "Pocket Star",
+			"rank": 13
+		},
+		{
+			"author": "by J. A. Huss",
+			"description": "Two millionaires rescue a girl, and a relationship among the three of them evolves.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781936413782.jpg",
+			"name": "THREE, TWO, ONE (321)",
+			"publisher": "Science Future Press",
+			"rank": 14
+		},
+		{
+			"author": "by John Grisham",
+			"description": "A downsized Wall Street lawyer joins a legal clinic in a small Virginia town, and litigates against the coal-mining industry.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385537148.jpg",
+			"name": "GRAY MOUNTAIN",
+			"publisher": "Doubleday",
+			"rank": 15
+		}
+	]
+}

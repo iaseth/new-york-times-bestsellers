@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Hillary Clinton",
+			"description": "The first woman nominated for president by a major political party details her campaign, mistakes she made, outside forces that affected the outcome and how she recovered in its aftermath.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501175565.jpg",
+			"name": "WHAT HAPPENED",
+			"publisher": "Simon & Schuster",
+			"rank": 1
+		},
+		{
+			"author": "by Katy Tur",
+			"description": "The NBC News correspondent describes her work covering the 2016 campaign of the Republican nominee for president and his behavior toward her.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062684929.jpg",
+			"name": "UNBELIEVABLE",
+			"publisher": "Dey St.",
+			"rank": 2
+		},
+		{
+			"author": "by Jeannette Walls",
+			"description": "The author recalls a bizarre childhood. Originally published in 2005 and the basis of the movie.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780743247542.jpg",
+			"name": "THE GLASS CASTLE",
+			"publisher": "Scribner",
+			"rank": 3
+		},
+		{
+			"author": "by Neil deGrasse Tyson",
+			"description": "A straightforward, easy-to-understand introduction to the laws that govern the universe.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780393609394.jpg",
+			"name": "ASTROPHYSICS FOR PEOPLE IN A HURRY",
+			"publisher": "Norton",
+			"rank": 4
+		},
+		{
+			"author": "by J.D. Vance",
+			"description": "A Yale Law School graduate looks at the struggles of the white working class through the story of his own childhood.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062300560.jpg",
+			"name": "HILLBILLY ELEGY",
+			"publisher": "HarperCollins",
+			"rank": 5
+		},
+		{
+			"author": "by Kurt Andersen",
+			"description": "The politics and culture of 21st-century America are put in the context of five centuries of historical events and movements, including elements of conspiracy theories, crackpot ideas and hucksterism.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400067213.jpg",
+			"name": "FANTASYLAND",
+			"publisher": "Random House",
+			"rank": 6
+		},
+		{
+			"author": "by Al Franken",
+			"description": "A memoir by the Democratic senator from Minnesota and former \u201cSaturday Night Live\u201d writer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455540419.jpg",
+			"name": "AL FRANKEN, GIANT OF THE SENATE",
+			"publisher": "Twelve",
+			"rank": 7
+		},
+		{
+			"author": "by Timothy Snyder",
+			"description": "Twenty lessons from the 20th century about the course of tyranny.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780804190114.jpg",
+			"name": "ON TYRANNY",
+			"publisher": "Tim Duggan",
+			"rank": 8
+		},
+		{
+			"author": "by Atul Gawande",
+			"description": "The surgeon and New Yorker writer considers how doctors fail patients at the end of life, and how they can do better.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780805095159.jpg",
+			"name": "BEING MORTAL",
+			"publisher": "Metropolitan/Holt",
+			"rank": 9
+		},
+		{
+			"author": "by Maria Sharapova with Rich Cohen",
+			"description": "A memoir by the Russian-American Grand Slam tennis champion and Olympic medalist.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780374279790.jpg",
+			"name": "UNSTOPPABLE",
+			"publisher": "Farrar, Straus & Giroux",
+			"rank": 10
+		},
+		{
+			"author": "by Robert Wright",
+			"description": "The latest research in neuroscience and psychology is used to support the assertion that Buddhist meditation and practice can lead to a deeper understanding of the world.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781439195451.jpg",
+			"name": "WHY BUDDHISM IS TRUE",
+			"publisher": "Simon & Schuster",
+			"rank": 11
+		},
+		{
+			"author": "by David Grann",
+			"description": "The story of a murder spree in 1920s Oklahoma that targeted Osage Indians, whose lands contained oil.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385534246.jpg",
+			"name": "KILLERS OF THE FLOWER MOON",
+			"publisher": "Doubleday",
+			"rank": 12
+		},
+		{
+			"author": "by Yuval Noah Harari",
+			"description": "How Homo sapiens became Earth\u2019s dominant species.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062316097.jpg",
+			"name": "SAPIENS",
+			"publisher": "Harper",
+			"rank": 13
+		},
+		{
+			"author": "by Douglas Preston",
+			"description": "A frightening search for a lost civilization in the Honduran rain forest.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455540020.jpg",
+			"name": "THE LOST CITY OF THE MONKEY GOD",
+			"publisher": "Grand Central",
+			"rank": 14
+		},
+		{
+			"author": "by Trevor Noah",
+			"description": "A memoir about growing up biracial in apartheid South Africa by the comedian, now the host of \u201cThe Daily Show.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399588181.jpg",
+			"name": "BORN A CRIME",
+			"publisher": "Spiegel & Grau",
+			"rank": 15
+		}
+	]
+}

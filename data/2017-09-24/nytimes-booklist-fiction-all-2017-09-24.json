@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by J.D. Robb",
+			"description": "Lt. Eve Dallas investigates the murder of a professional gossip who dabbled in blackmail; by Nora Roberts, writing pseudonymously.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250123152.jpg",
+			"name": "SECRETS IN DEATH",
+			"publisher": "St. Martin's",
+			"rank": 1
+		},
+		{
+			"author": "by Kyle Mills",
+			"description": "Vince Flynn's character Mitch Rapp leaves the C.I.A. to go on a manhunt when the nephew of a Saudi King finances a terrorist group.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476783543.jpg",
+			"name": "ENEMY OF THE STATE",
+			"publisher": "Emily Bestler/Atria",
+			"rank": 2
+		},
+		{
+			"author": "by John le Carr\u00e9",
+			"description": "Peter Guillam, formerly of the British Secret Service, is pulled out of retirement to defend intelligence operations during the cold war that resulted in the deaths of people close to him.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735225114.jpg",
+			"name": "A LEGACY OF SPIES",
+			"publisher": "Viking",
+			"rank": 3
+		},
+		{
+			"author": "by Stephen King",
+			"description": "The collective clown phobias of seven teenagers are rekindled in their adult lives by the terrifying title character. Originally published in 1986.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501141232.jpg",
+			"name": "IT",
+			"publisher": "Scribner",
+			"rank": 4
+		},
+		{
+			"author": "by Christine Feehan",
+			"description": "Emeline Sanchez fights to recover from exchanging blood with a master vampire, even as she tries to heal the children she saved from him. A Carpathian novel.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399583995.jpg",
+			"name": "DARK LEGACY",
+			"publisher": "Berkley",
+			"rank": 5
+		},
+		{
+			"author": "by Sue Grafton",
+			"description": "The 25th Kinsey Millhone mystery novel. A former student from an elite private school is released from prison and a sociopath returns to haunt the detective.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101614358.jpg",
+			"name": "Y IS FOR YESTERDAY",
+			"publisher": "Marian Wood/Putnam",
+			"rank": 6
+		},
+		{
+			"author": "by Craig Johnson",
+			"description": "The 13th Walt Longmire novel. A parole hearing of a serial killer and the decades-old memory of a train ride with Wyoming sheriffs put Longmire on a collision course between past and present.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698157545.jpg",
+			"name": "THE WESTERN STAR",
+			"publisher": "Viking",
+			"rank": 7
+		},
+		{
+			"author": "by J. A. Jance",
+			"description": "When J. P. Beaumont is asked to investigate the death of his nemesis, it leads to an old case once thought solved.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062657565.jpg",
+			"name": "PROOF OF LIFE",
+			"publisher": "Morrow",
+			"rank": 8
+		},
+		{
+			"author": "by Lisa Wingate",
+			"description": "A South Carolina lawyer, researching her grandmother\u2019s past, learns about a Tennessee orphanage that kidnapped children and placed them for adoption with wealthy people. Based on a real-life scandal.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780425284681.jpg",
+			"name": "BEFORE WE WERE YOURS",
+			"publisher": "Ballantine",
+			"rank": 9
+		},
+		{
+			"author": "by Louise Penny",
+			"description": "Chief Superintendent Gamache regrets not acting on a hunch when a body is discovered.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781466873681.jpg",
+			"name": "GLASS HOUSES",
+			"publisher": "Minotaur",
+			"rank": 10
+		},
+		{
+			"author": "by Ruth Ware",
+			"description": "A travel writer on a cruise is certain she has heard a body thrown overboard, but no one believes her.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501132940.jpg",
+			"name": "THE WOMAN IN CABIN 10",
+			"publisher": "Scout",
+			"rank": 11
+		},
+		{
+			"author": "by John Grisham",
+			"description": "A whistleblower alerts a Florida investigator to judicial corruption involving the Mob and Indian casinos.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385541206.jpg",
+			"name": "THE WHISTLER",
+			"publisher": "Doubleday",
+			"rank": 12
+		},
+		{
+			"author": "by Danielle Steel",
+			"description": "The author Alexandra Winslow, writing under the pseudonym Alexander Green, creates a double life that isolates her.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101883952.jpg",
+			"name": "THE RIGHT TIME",
+			"publisher": "Delacorte",
+			"rank": 13
+		},
+		{
+			"author": "by Diana Gabaldon",
+			"description": "An English nurse is transported back to 1743 during a second honeymoon in the Scottish Highlands.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780440212560.jpg",
+			"name": "OUTLANDER",
+			"publisher": "Dell",
+			"rank": 14
+		},
+		{
+			"author": "by Janet Evanovich",
+			"description": "The bounty hunter Stephanie Plum juggles the investigation of a crime in an ice cream factory and the two men in her life.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345543028.jpg",
+			"name": "TURBO TWENTY-THREE",
+			"publisher": "Bantam",
+			"rank": 15
+		}
+	]
+}

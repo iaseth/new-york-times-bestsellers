@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by John Grisham",
+			"description": "Three students at a sleazy for-profit law school hope to expose the student-loan banker who runs it.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385541183.jpg",
+			"name": "THE ROOSTER BAR",
+			"publisher": "Doubleday",
+			"rank": 1
+		},
+		{
+			"author": "by Dan Brown",
+			"description": "A symbology professor goes on a perilous quest with a beautiful museum director.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385542692.jpg",
+			"name": "ORIGIN",
+			"publisher": "Doubleday",
+			"rank": 2
+		},
+		{
+			"author": "by Stuart Woods",
+			"description": "The New York lawyer Stone Barrington is hired to recover a stolen Van Gogh painting.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735217164.jpg",
+			"name": "QUICK & DIRTY",
+			"publisher": "Putnam",
+			"rank": 3
+		},
+		{
+			"author": "by John Sandford",
+			"description": "Virgil Flowers is called to investigate in Trippton, Minn., when a local bank's president is found dead in a nearly frozen river.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698407114.jpg",
+			"name": "DEEP FREEZE",
+			"publisher": "Putnam",
+			"rank": 4
+		},
+		{
+			"author": "by Christine Feehan",
+			"description": "Joshua takes over the crime syndicate back home in Louisiana, but can he resist Sonia?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399583988.jpg",
+			"name": "LEOPARD'S BLOOD",
+			"publisher": "Berkley",
+			"rank": 5
+		},
+		{
+			"author": "by Rupi Kaur",
+			"description": "A new collection of poetry from the author of \"Milk and Honey.\"",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781449486792.jpg",
+			"name": "THE SUN AND HER FLOWERS",
+			"publisher": "Andrews McMeel",
+			"rank": 6
+		},
+		{
+			"author": "by Rupi Kaur",
+			"description": "Poetic approaches to surviving adversity and loss.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781449474256.jpg",
+			"name": "MILK AND HONEY",
+			"publisher": "Andrews McMeel",
+			"rank": 7
+		},
+		{
+			"author": "by Iris Johansen",
+			"description": "Jane continues her hunt for treasure in Scotland, but dreams of a girl in trouble plague her.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781466887237.jpg",
+			"name": "MIND GAME",
+			"publisher": "St. Martin's",
+			"rank": 8
+		},
+		{
+			"author": "by Ken Follett",
+			"description": "A pair of lovers find themselves on opposite sides of a conflict while Queen Elizabeth fights to maintain her throne.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735224476.jpg",
+			"name": "A COLUMN OF FIRE",
+			"publisher": "Viking",
+			"rank": 9
+		},
+		{
+			"author": "by Stephen King",
+			"description": "The fears of seven teenagers are rekindled in their adult lives by the terrifying title character. Originally published in 1986.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501141232.jpg",
+			"name": "IT",
+			"publisher": "Scribner",
+			"rank": 10
+		},
+		{
+			"author": "by Nelson DeMille",
+			"description": "A Miami lawyer solicits an Army veteran to go on a secret mission to recover $60 million stashed away in Cuba.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501101748.jpg",
+			"name": "THE CUBAN AFFAIR",
+			"publisher": "Simon & Schuster",
+			"rank": 11
+		},
+		{
+			"author": "by Sandra Brown",
+			"description": "The TV journalist Kerra Bailey and former federal agent John Trapper join forces to expose a web of conspiracy behind a hotel bombing in Dallas.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455572106.jpg",
+			"name": "SEEING RED",
+			"publisher": "Grand Central",
+			"rank": 12
+		},
+		{
+			"author": "by Lisa Wingate",
+			"description": "A South Carolina lawyer learns about the questionable practices of a Tennessee orphanage.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780425284681.jpg",
+			"name": "BEFORE WE WERE YOURS",
+			"publisher": "Ballantine",
+			"rank": 13
+		},
+		{
+			"author": "by David Lagercrantz",
+			"description": "Stieg Larsson's character Lisbeth Salander seeks to uncover the secrets of her childhood.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780451494337.jpg",
+			"name": "THE GIRL WHO TAKES AN EYE FOR AN EYE",
+			"publisher": "Knopf",
+			"rank": 14
+		},
+		{
+			"author": "by Jo Nesbo",
+			"description": "The Oslo detective Harry Hole searches for a serial killer who builds snowmen outside the homes of his victims.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307599575.jpg",
+			"name": "THE SNOWMAN",
+			"publisher": "Vintage",
+			"rank": 15
+		}
+	]
+}

@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Michael Connelly",
+			"description": "While he investigates the murder of two pharmacists, an old case comes back to haunt Harry Bosch.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316225915.jpg",
+			"name": "TWO KINDS OF TRUTH",
+			"publisher": "Little, Brown",
+			"rank": 1
+		},
+		{
+			"author": "by John Grisham",
+			"description": "Three students at a sleazy for-profit law school hope to expose the student-loan banker who runs it.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385541183.jpg",
+			"name": "THE ROOSTER BAR",
+			"publisher": "Doubleday",
+			"rank": 2
+		},
+		{
+			"author": "by Dan Brown",
+			"description": "A symbology professor goes on a perilous quest with a beautiful museum director.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385542692.jpg",
+			"name": "ORIGIN",
+			"publisher": "Doubleday",
+			"rank": 3
+		},
+		{
+			"author": "by Margaret Atwood",
+			"description": "Men and women in a dystopian future. The basis of the Hulu series; originally published in 1985.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780547345666.jpg",
+			"name": "THE HANDMAID'S TALE",
+			"publisher": "Houghton Mifflin Harcourt",
+			"rank": 4
+		},
+		{
+			"author": "by Rupi Kaur",
+			"description": "A new collection of poetry from the author of \"Milk and Honey.\"",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781449486792.jpg",
+			"name": "THE SUN AND HER FLOWERS",
+			"publisher": "Andrews McMeel",
+			"rank": 5
+		},
+		{
+			"author": "by John Sandford",
+			"description": "Virgil Flowers is called to investigate in Trippton, Minn., when a local bank's president is found dead in a nearly frozen river.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698407114.jpg",
+			"name": "DEEP FREEZE",
+			"publisher": "Putnam",
+			"rank": 6
+		},
+		{
+			"author": "by Eloisa James",
+			"description": "Lord Alaric Wilde retreats from public attention to his father's castle and encounters Miss Willa Ffynche.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062389480.jpg",
+			"name": "WILDE IN LOVE",
+			"publisher": "Avon",
+			"rank": 7
+		},
+		{
+			"author": "by Mark Frost",
+			"description": "Updated profiles on the residents of Twin Peaks are assembled by special agent Tamara Preston.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250163301.jpg",
+			"name": "TWIN PEAKS: THE FINAL DOSSIER",
+			"publisher": "Flatiron Books",
+			"rank": 8
+		},
+		{
+			"author": "by Stephen King",
+			"description": "The fears of seven teenagers are rekindled in their adult lives by the terrifying title character. Originally published in 1986.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501141232.jpg",
+			"name": "IT",
+			"publisher": "Scribner",
+			"rank": 9
+		},
+		{
+			"author": "by Rupi Kaur",
+			"description": "Poetic approaches to surviving adversity and loss.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781449474256.jpg",
+			"name": "MILK AND HONEY",
+			"publisher": "Andrews McMeel",
+			"rank": 10
+		},
+		{
+			"author": "by Christine Feehan",
+			"description": "Joshua takes over the crime syndicate back home in Louisiana, but can he resist Sonia?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399583988.jpg",
+			"name": "LEOPARD'S BLOOD",
+			"publisher": "Berkley",
+			"rank": 11
+		},
+		{
+			"author": "by Lisa Wingate",
+			"description": "A South Carolina lawyer learns about the questionable practices of a Tennessee orphanage.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780425284681.jpg",
+			"name": "BEFORE WE WERE YOURS",
+			"publisher": "Ballantine",
+			"rank": 12
+		},
+		{
+			"author": "by Ken Follett",
+			"description": "A pair of lovers find themselves on opposite sides of a conflict while Queen Elizabeth fights to maintain her throne.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735224476.jpg",
+			"name": "A COLUMN OF FIRE",
+			"publisher": "Viking",
+			"rank": 13
+		},
+		{
+			"author": "by Diana Palmer",
+			"description": "In the freezing mountain west, a band of criminals track a security expert and the woman who wrecked his life.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780373803729.jpg",
+			"name": "WYOMING WINTER",
+			"publisher": "HQN",
+			"rank": 14
+		},
+		{
+			"author": "by Tom Hanks",
+			"description": "Seventeen short stories, each incorporating a typewriter, by the Academy Award-winning actor.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101946152.jpg",
+			"name": "UNCOMMON TYPE",
+			"publisher": "Knopf",
+			"rank": 15
+		}
+	]
+}

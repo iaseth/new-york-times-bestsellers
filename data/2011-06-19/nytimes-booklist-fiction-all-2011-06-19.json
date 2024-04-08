@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Kathryn Stockett",
+			"description": "A young white woman and two black maids in 1960s Mississippi.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781440697661.jpg",
+			"name": "THE HELP",
+			"publisher": "Penguin Group",
+			"rank": 1
+		},
+		{
+			"author": "by Emily Giffin",
+			"description": "A maid of honor to her charmed friend, Rachel White has always played by the rules. But that changes on her 30th birthday.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780312600723.jpg",
+			"name": "SOMETHING BORROWED",
+			"publisher": "St. Martin's",
+			"rank": 2
+		},
+		{
+			"author": "by James Patterson and Maxine Paetro",
+			"description": "Detective Lindsay Boxer and the Women\u2019s Murder Club race to find a missing baby.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316126946.jpg",
+			"name": "10TH ANNIVERSARY",
+			"publisher": "Little, Brown",
+			"rank": 3
+		},
+		{
+			"author": "by Barbara Freethy",
+			"description": "Three sailboat-racing sisters close ranks against a tenacious reporter who digs into a devastating secret from their past.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780983599333.jpg",
+			"name": "SUMMER SECRETS",
+			"publisher": "Recorded Books",
+			"rank": 4
+		},
+		{
+			"author": "by Julia Quinn",
+			"description": "A Regency-era tale featuring the romantic exploits of the well-meaning but less-than-accomplished Smythe-Smith musicians.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062079534.jpg",
+			"name": "JUST LIKE HEAVEN",
+			"publisher": "HarperCollins",
+			"rank": 5
+		},
+		{
+			"author": "by Sara Gruen",
+			"description": "After his parents are killed in a car accident, a young veterinary student \u2014 and an elephant \u2014 save a Depression-era circus.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781616200718.jpg",
+			"name": "WATER FOR ELEPHANTS",
+			"publisher": "Algonquin",
+			"rank": 6
+		},
+		{
+			"author": "by John Sandford",
+			"description": "The Minneapolis detective Lucas Davenport investigates the murders of two girls who were kidnapped in 1985.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780425247891.jpg",
+			"name": "BURIED PREY",
+			"publisher": "Penguin Group",
+			"rank": 7
+		},
+		{
+			"author": "by George R.R. Martin",
+			"description": "In the frozen wastes to the north of Winterfell, sinister and supernatural forces are mustering.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780553897845.jpg",
+			"name": "A GAME OF THRONES",
+			"publisher": "Random House",
+			"rank": 8
+		},
+		{
+			"author": "by Lisa See",
+			"description": "A young woman angry at her mother and aunt over family secrets runs away to Shanghai in search of her birth father.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400067121.jpg",
+			"name": "DREAMS OF JOY",
+			"publisher": "Random House",
+			"rank": 9
+		},
+		{
+			"author": "by Linda Lael Miller",
+			"description": "Conner Creed, a hard-working rancher in Lonesome Bend, is reunited with the identical twin brother he\u2019s been estranged from for years.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781459205291.jpg",
+			"name": "CREED'S HONOR",
+			"publisher": "Harlequin",
+			"rank": 10
+		},
+		{
+			"author": "by Sherryl Woods",
+			"description": "In the close-knit community of Chesapeake Shores, personal crises may keep Susie and Mack\u2019s happily-ever-after just beyond reach.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781459205239.jpg",
+			"name": "BEACH LANE",
+			"publisher": "Mira",
+			"rank": 11
+		},
+		{
+			"author": "by Ilona Andrews",
+			"description": "Kate Daniels has quit the Order of Merciful Aid, but she\u2019s still knee-deep in paranormal problems in Atlanta.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101515259.jpg",
+			"name": "MAGIC SLAYS",
+			"publisher": "Penguin Group",
+			"rank": 12
+		},
+		{
+			"author": "by Charlaine Harris",
+			"description": "The telepathic waitress Sookie Stackhouse seeks the culprit in a firebombing.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781937007355.jpg",
+			"name": "DEAD RECKONING",
+			"publisher": "Penguin Group",
+			"rank": 13
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "The lawyer for an alleged serial killer is murdered, and two former Secret Service agents are on the case.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780446573092.jpg",
+			"name": "THE SIXTH MAN",
+			"publisher": "Grand Central",
+			"rank": 14
+		},
+		{
+			"author": "by Emily Giffin",
+			"description": "After being betrayed by her fianc\u00e9  and her best friend, Darcy Rhone flees to London.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780312548070.jpg",
+			"name": "SOMETHING BLUE",
+			"publisher": "St. Martin\u2019s",
+			"rank": 15
+		}
+	]
+}

@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Mark Owen with Kevin Maurer",
+			"description": "An account by a former member of the Navy SEALs, written pseudonymously, of the mission that killed Osama bin Laden.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101611302.jpg",
+			"name": "NO EASY DAY",
+			"publisher": "Penguin Group",
+			"rank": 1
+		},
+		{
+			"author": "by Bob Woodward",
+			"description": "Inside the debt-ceiling negotations of 2011 with the Washington Post journalist.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451651102.jpg",
+			"name": "THE PRICE OF POLITICS",
+			"publisher": "Simon & Schuster",
+			"rank": 2
+		},
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "The anchor of \u201cThe O\u2019Reilly Factor\u201d recounts the assassination of Abraham Lincoln.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780805093070.jpg",
+			"name": "KILLING LINCOLN",
+			"publisher": "Henry Holt & Company",
+			"rank": 3
+		},
+		{
+			"author": "by Laura Hillenbrand",
+			"description": "An Olympic runner\u2019s story of survival as a prisoner of the Japanese in World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400064168.jpg",
+			"name": "UNBROKEN",
+			"publisher": "Random House Publishing",
+			"rank": 4
+		},
+		{
+			"author": "by Edward Klein",
+			"description": "A journalist argues that President Obama is callow, arrogant and unable to lead.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781596983144.jpg",
+			"name": "AMATEUR",
+			"publisher": "Regnery Publishing",
+			"rank": 5
+		},
+		{
+			"author": "by Dinesh D'Souza",
+			"description": "An argument that President Obama is the architect of American decline.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781596983168.jpg",
+			"name": "OBAMA'S AMERICA",
+			"publisher": "Regnery Publishing",
+			"rank": 6
+		},
+		{
+			"author": "by Cheryl Strayed",
+			"description": "A woman\u2019s account of a life-changing 1,100-mile hike along the Pacific Crest Trail.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307476074.jpg",
+			"name": "WILD",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 7
+		},
+		{
+			"author": "by Christopher Hitchens",
+			"description": "Reports and reflections on his illness and impending death by the writer, who died in December 2011.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455502752.jpg",
+			"name": "MORTALITY",
+			"publisher": "Grand Central Publishing",
+			"rank": 8
+		},
+		{
+			"author": "by Rebecca Skloot",
+			"description": "The story of a woman whose cancer cells were cultured without her permission in 1951.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400052189.jpg",
+			"name": "THE IMMORTAL LIFE OF HENRIETTA LACKS",
+			"publisher": "Crown Publishing",
+			"rank": 9
+		},
+		{
+			"author": "by Paul Tough",
+			"description": "An argument that the qualities that matter most have to do with character, not intelligence.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780544104402.jpg",
+			"name": "HOW CHILDREN SUCCEED",
+			"publisher": "Houghton Mifflin Harcourt Publishing",
+			"rank": 10
+		},
+		{
+			"author": "by Kurt Eichenwald",
+			"description": "A global account of the 18 months after 9/11, with emphasis on the Bush administration\u2019s panicked response.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451674132.jpg",
+			"name": "500 DAYS",
+			"publisher": "Touchstone",
+			"rank": 11
+		},
+		{
+			"author": "by Tyler Hamilton and Daniel Coyle",
+			"description": "An account of the world of professional cycling and its doping issues, focused on the Tour de France, by an Olympic gold medalist.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345530417.jpg",
+			"name": "THE SECRET RACE",
+			"publisher": "Random House Publishing",
+			"rank": 12
+		},
+		{
+			"author": "by Chris Kyle with Scott McEwen and Jim DeFelice",
+			"description": "A member of the Navy SEALs discusses his battlefield experiences.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062082374.jpg",
+			"name": "AMERICAN SNIPER",
+			"publisher": "HarperCollins Publishers",
+			"rank": 13
+		},
+		{
+			"author": "by Charles Duhigg",
+			"description": "A Times reporter\u2019s account of the science behind how we form, and break, habits.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812981605.jpg",
+			"name": "THE POWER OF HABIT",
+			"publisher": "Random House Publishing",
+			"rank": 14
+		},
+		{
+			"author": "by Robert D. Kaplan",
+			"description": "Predicting the next cycle of conflict on the basis of temperature and topography.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400069835.jpg",
+			"name": "REVENGE OF GEOGRAPHY",
+			"publisher": "Random House Publishing",
+			"rank": 15
+		}
+	]
+}

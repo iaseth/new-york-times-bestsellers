@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Dan Brown",
+			"description": "After reconnecting with one of his first students, who is now a billionaire futurist, symbology professor Robert Langdon must go on a perilous quest with a beautiful museum director.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385542692.jpg",
+			"name": "ORIGIN",
+			"publisher": "Doubleday",
+			"rank": 1
+		},
+		{
+			"author": "by Rupi Kaur",
+			"description": "A new collection of poetry from the author of \"Milk and Honey.\"",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781449486792.jpg",
+			"name": "THE SUN AND HER FLOWERS",
+			"publisher": "Andrews McMeel",
+			"rank": 2
+		},
+		{
+			"author": "by Stephen King and Owen King",
+			"description": "In a small Appalachian town, women who fall asleep don't wake up and become shrouded in mysterious cocoons while the men battle one another.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501163401.jpg",
+			"name": "SLEEPING BEAUTIES",
+			"publisher": "Scribner",
+			"rank": 3
+		},
+		{
+			"author": "by Stephen King",
+			"description": "The fears of seven teenagers are rekindled in their adult lives by the terrifying title character. Originally published in 1986.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501141232.jpg",
+			"name": "IT",
+			"publisher": "Scribner",
+			"rank": 4
+		},
+		{
+			"author": "by Nelson DeMille",
+			"description": "A Miami lawyer solicits an Army veteran to go on a secret mission to recover $60 million stashed away in Cuba.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501101748.jpg",
+			"name": "THE CUBAN AFFAIR",
+			"publisher": "Simon & Schuster",
+			"rank": 5
+		},
+		{
+			"author": "by Jennifer Egan",
+			"description": "Anna Kerrigan, the first female diver at the Brooklyn Naval Yard during World War II, meets with a man who helps her understand why her father disappeared.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476716732.jpg",
+			"name": "MANHATTAN BEACH",
+			"publisher": "Scribner",
+			"rank": 6
+		},
+		{
+			"author": "by Harlan Coben",
+			"description": "Det. Napoleon Dumas investigates a murder and uncovers clues about personal events that happened 15 years ago.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698411661.jpg",
+			"name": "DON'T LET GO",
+			"publisher": "Dutton",
+			"rank": 7
+		},
+		{
+			"author": "by Ken Follett",
+			"description": "A pair of lovers find themselves on opposite sides of a conflict while Queen Elizabeth fights to maintain her throne.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735224476.jpg",
+			"name": "A COLUMN OF FIRE",
+			"publisher": "Viking",
+			"rank": 8
+		},
+		{
+			"author": "by Debbie Macomber",
+			"description": "A temp, who works for a strict and stressed boss is given a social life when family members create an online dating profile for her.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399181238.jpg",
+			"name": "MERRY AND BRIGHT",
+			"publisher": "Ballantine",
+			"rank": 9
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "When Merit Voss learns a family secret, she tries to escape the family but fails and must face the consequences.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501170638.jpg",
+			"name": "WITHOUT MERIT",
+			"publisher": "Atria",
+			"rank": 10
+		},
+		{
+			"author": "by David Lagercrantz",
+			"description": "Stieg Larsson's character Lisbeth Salander seeks to uncover the secrets of her childhood.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780451494337.jpg",
+			"name": "THE GIRL WHO TAKES AN EYE FOR AN EYE",
+			"publisher": "Knopf",
+			"rank": 11
+		},
+		{
+			"author": "by Celeste Ng",
+			"description": "An artist upends a quiet town outside Cleveland.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735224308.jpg",
+			"name": "LITTLE FIRES EVERYWHERE",
+			"publisher": "Penguin Press",
+			"rank": 12
+		},
+		{
+			"author": "by Elin Hilderbrand",
+			"description": "The Quinns celebrate the holidays when one family member returns from the war in Afghanistan but the gathering turns rocky.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316435482.jpg",
+			"name": "WINTER SOLSTICE",
+			"publisher": "Little, Brown",
+			"rank": 13
+		},
+		{
+			"author": "by James Patterson and James O. Born",
+			"description": "A New York detective on vacation in Maine is enlisted to help solve a crime in the woods.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316466479.jpg",
+			"name": "HAUNTED",
+			"publisher": "Little, Brown",
+			"rank": 14
+		},
+		{
+			"author": "by Lisa Wingate",
+			"description": "A South Carolina lawyer learns about the questionable practices of a Tennessee orphanage.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780425284681.jpg",
+			"name": "BEFORE WE WERE YOURS",
+			"publisher": "Ballantine",
+			"rank": 15
+		}
+	]
+}

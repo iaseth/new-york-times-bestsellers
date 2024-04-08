@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Barack Obama",
+			"description": "In the first volume of his presidential memoirs, Barack Obama offers personal reflections on his formative years and pivotal moments through his first term.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524763169.jpg",
+			"name": "A PROMISED LAND",
+			"publisher": "Crown",
+			"rank": 1
+		},
+		{
+			"author": "by Matthew McConaughey",
+			"description": "The Academy Award-winning actor shares snippets from the diaries he kept over the last 35 years.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593139134.jpg",
+			"name": "GREENLIGHTS",
+			"publisher": "Crown",
+			"rank": 2
+		},
+		{
+			"author": "by Glennon Doyle",
+			"description": "The activist and public speaker describes her journey of listening to her inner voice.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984801258.jpg",
+			"name": "UNTAMED",
+			"publisher": "Dial",
+			"rank": 3
+		},
+		{
+			"author": "by Isabel Wilkerson",
+			"description": "The Pulitzer Prize-winning journalist examines aspects of caste systems across civilizations and reveals a rigid hierarchy in America today.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593230251.jpg",
+			"name": "CASTE",
+			"publisher": "Random House",
+			"rank": 4
+		},
+		{
+			"author": "by Bessel van der Kolk",
+			"description": "How trauma affects the body and mind, and innovative treatments for recovery.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780670785933.jpg",
+			"name": "THE BODY KEEPS THE SCORE",
+			"publisher": "Penguin",
+			"rank": 5
+		},
+		{
+			"author": "by Michelle Obama",
+			"description": "The former first lady describes her journey from the South Side of Chicago to the White House, and how she balanced work, family and her husband\u2019s political ascent.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524763138.jpg",
+			"name": "BECOMING",
+			"publisher": "Crown",
+			"rank": 6
+		},
+		{
+			"author": "by Aimee Nezhukumatathil",
+			"description": "In a collection of essays, the poet celebrates various aspects of the natural world and its inhabitants.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781571311931.jpg",
+			"name": "WORLD OF WONDERS",
+			"publisher": "Milkweed",
+			"rank": 7
+		},
+		{
+			"author": "by Erik Larson",
+			"description": "An examination of the leadership of the prime minister Winston Churchill.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385348713.jpg",
+			"name": "THE SPLENDID AND THE VILE",
+			"publisher": "Crown",
+			"rank": 8
+		},
+		{
+			"author": "by Jerry Seinfeld",
+			"description": "The comedian shares material he collected in an accordion folder over the last 45 years.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982112691.jpg",
+			"name": "IS THIS ANYTHING?",
+			"publisher": "Simon & Schuster",
+			"rank": 9
+		},
+		{
+			"author": "by Alex Trebek",
+			"description": "A memoir by the host of the TV game show \u201cJeopardy!,\u201d from 1984 to 2020.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982157999.jpg",
+			"name": "THE ANSWER IS ...",
+			"publisher": "Simon & Schuster",
+			"rank": 10
+		},
+		{
+			"author": "by Rachel Maddow and Michael Yarvitz",
+			"description": "The MSNBC host gives an account of the 1973 investigation of then Vice President Spiro T. Agnew and its impact on politics and the media.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593136683.jpg",
+			"name": "BAG MAN",
+			"publisher": "Crown",
+			"rank": 11
+		},
+		{
+			"author": "by Robin Wall Kimmerer",
+			"description": "A botanist and member of the Citizen Potawatomi Nation espouses having an understanding and appreciation of plants and animals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781571313560.jpg",
+			"name": "BRAIDING SWEETGRASS",
+			"publisher": "Milkweed Editions",
+			"rank": 12
+		},
+		{
+			"author": "by James Nestor",
+			"description": "A re-examination of a basic biological function and a look at the science behind ancient breathing practices.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735213616.jpg",
+			"name": "BREATH",
+			"publisher": "Riverhead",
+			"rank": 13
+		},
+		{
+			"author": "by Brandon Stanton",
+			"description": "Photos and stories of people from over 40 countries collected by the creator of \u201cHumans of New York.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250114297.jpg",
+			"name": "HUMANS",
+			"publisher": "St. Martin's",
+			"rank": 14
+		},
+		{
+			"author": "by James Patterson with Casey Sherman and Dave Wedge",
+			"description": "The story of the killing of the former member of the Beatles by Mark David Chapman in 1980 and interviews with some of Lennon\u2019s friends and associates.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316429061.jpg",
+			"name": "THE LAST DAYS OF JOHN LENNON",
+			"publisher": "Little, Brown",
+			"rank": 15
+		}
+	]
+}

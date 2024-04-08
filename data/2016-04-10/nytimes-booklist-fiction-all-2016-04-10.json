@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Harlan Coben",
+			"description": "A retired Army helicopter pilot faces combat-related nightmares and mysteries concerning the deaths of her husband and sister.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525955092.jpg",
+			"name": "FOOL ME ONCE",
+			"publisher": "Dutton",
+			"rank": 1
+		},
+		{
+			"author": "by James Patterson and Mark Sullivan",
+			"description": "Jack Morgan, the head of the Private global investigative agency, probes the murders of members of the French cultural elite.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316408998.jpg",
+			"name": "PRIVATE PARIS",
+			"publisher": "Little, Brown",
+			"rank": 2
+		},
+		{
+			"author": "by Cynthia D'Aprix Sweeney",
+			"description": "Siblings in a dysfunctional New York family must grapple with a reduced inheritance.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062414236.jpg",
+			"name": "THE NEST",
+			"publisher": "Ecco/HarperCollins",
+			"rank": 3
+		},
+		{
+			"author": "by Jojo Moyes",
+			"description": "A woman who has barely been beyond her English village finds herself while caring for a wealthy, embittered quadriplegic.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780143124542.jpg",
+			"name": "ME BEFORE YOU",
+			"publisher": "Penguin",
+			"rank": 4
+		},
+		{
+			"author": "by Danielle Steel",
+			"description": "Two New Yorkers searching for the owner of an abandoned safe-deposit box reconstruct the history of a young woman and a forbidden love affair at the time of World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780804179669.jpg",
+			"name": "PROPERTY OF A NOBLEWOMAN",
+			"publisher": "Delacorte",
+			"rank": 5
+		},
+		{
+			"author": "by Kristin Hannah",
+			"description": "Two sisters are separated in World War II France: one in the countryside, the other in Paris.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781466850606.jpg",
+			"name": "THE NIGHTINGALE",
+			"publisher": "St. Martin's",
+			"rank": 6
+		},
+		{
+			"author": "by Helen Simonson",
+			"description": "Life in Sussex, England, at the beginning of World War I.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780679644644.jpg",
+			"name": "THE SUMMER BEFORE THE WAR",
+			"publisher": "Random House",
+			"rank": 7
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "The government hit man Will Robie investigates murder charges against his estranged father in their Mississippi hometown.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455586431.jpg",
+			"name": "THE GUILTY",
+			"publisher": "Grand Central",
+			"rank": 8
+		},
+		{
+			"author": "by Rachel Hauck",
+			"description": "With her own wedding approaching, Charlotte pieces together the history of a vintage gown she finds.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781401686314.jpg",
+			"name": "THE WEDDING DRESS",
+			"publisher": "Thomas Nelson",
+			"rank": 9
+		},
+		{
+			"author": "by Nicholas Sparks",
+			"description": "A regretful careerist seeks to make amends.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780759507913.jpg",
+			"name": "THE WEDDING",
+			"publisher": "Grand Central",
+			"rank": 10
+		},
+		{
+			"author": "by Paula Hawkins",
+			"description": "A psychological thriller set in the environs of London is full of complications and betrayals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594633669.jpg",
+			"name": "THE GIRL ON THE TRAIN",
+			"publisher": "Riverhead",
+			"rank": 11
+		},
+		{
+			"author": "by Lincoln Child",
+			"description": "Professor Jeremy Logan, an \u201cenigmalogist,\u201d is called to Egypt to help make sense of peculiar happenings at a pharaoh\u2019s newly discovered tomb.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385531399.jpg",
+			"name": "THE THIRD GATE",
+			"publisher": "Anchor",
+			"rank": 12
+		},
+		{
+			"author": "by Anthony Doerr",
+			"description": "The lives of a blind French girl and a gadget-obsessed German boy before and during World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476746586.jpg",
+			"name": "ALL THE LIGHT WE CANNOT SEE",
+			"publisher": "Scribner",
+			"rank": 13
+		},
+		{
+			"author": "by Nora Roberts",
+			"description": "A woman returning to her hometown discovers that her husband was a fraud who implicated her in his deceptions.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698161351.jpg",
+			"name": "THE LIAR",
+			"publisher": "Putnam",
+			"rank": 14
+		},
+		{
+			"author": "by C. J. Box",
+			"description": "The 16th Joe Pickett novel features Nate Romanowski and a search for a domestic terror cell.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399176609.jpg",
+			"name": "OFF THE GRID",
+			"publisher": "Putnam",
+			"rank": 15
+		}
+	]
+}

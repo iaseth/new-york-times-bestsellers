@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Jojo Moyes",
+			"description": "A woman who has barely been beyond her English village finds herself while caring for a wealthy, embittered quadriplegic.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780143124542.jpg",
+			"name": "ME BEFORE YOU",
+			"publisher": "Penguin",
+			"rank": 1
+		},
+		{
+			"author": "by Clive Cussler and Boyd Morrison",
+			"description": "Juan Cabrillo teams up with a former C.I.A. colleague to thwart a plan involving the death of millions and international economic meltdown.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399175961.jpg",
+			"name": "THE EMPEROR'S REVENGE",
+			"publisher": "Putnam",
+			"rank": 2
+		},
+		{
+			"author": "by Lisa Kleypas",
+			"description": "A commoner rises above his station and seeks a wife reflective of his standing.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062371850.jpg",
+			"name": "MARRYING WINTERBORNE",
+			"publisher": "Avon",
+			"rank": 3
+		},
+		{
+			"author": "by Noah Hawley",
+			"description": "After a private jet crashes, a firestorm of media madness ensues.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455561803.jpg",
+			"name": "BEFORE THE FALL",
+			"publisher": "Grand Central",
+			"rank": 4
+		},
+		{
+			"author": "by Dorothea Benton Frank",
+			"description": "An interior decorator with a billionaire client list balks at retiring with her husband to a South Carolina island.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062390776.jpg",
+			"name": "ALL SUMMER LONG",
+			"publisher": "Morrow/HarperCollins",
+			"rank": 5
+		},
+		{
+			"author": "by Jojo Moyes",
+			"description": "After the death of Will Traynor, Louisa Clark joins a grief support group that may lead her to new love.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698152045.jpg",
+			"name": "AFTER YOU",
+			"publisher": "Pamela Dorman/Viking",
+			"rank": 6
+		},
+		{
+			"author": "by James Patterson and Maxine Paetro",
+			"description": "When a brutal murder threatens the domestic happiness of the San Francisco police detective Lindsay Boxer, she turns for help to the Women\u2019s Murder Club.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316407076.jpg",
+			"name": "15TH AFFAIR",
+			"publisher": "Little, Brown",
+			"rank": 7
+		},
+		{
+			"author": "by Alan Furst",
+			"description": "A Resistance leader aids the wartime effort without losing sight of the simple and essential pleasures of life.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812996500.jpg",
+			"name": "A HERO OF FRANCE",
+			"publisher": "Random House",
+			"rank": 8
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "In a sequel to \u201cMemory Man,\u201d Amos Decker, a detective with an extraordinary memory, investigates the case of a convicted killer who wins a last-minute reprieve.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455586455.jpg",
+			"name": "THE LAST MILE",
+			"publisher": "Grand Central",
+			"rank": 9
+		},
+		{
+			"author": "by Mary Kay Andrews",
+			"description": "On North Carolina\u2019s Belle Isle, a woman investigates her husband\u2019s shady financial affairs after his mysterious death.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781466872929.jpg",
+			"name": "THE WEEKENDERS",
+			"publisher": "St. Martin's",
+			"rank": 10
+		},
+		{
+			"author": "by Paula Hawkins",
+			"description": "A psychological thriller set in the environs of London is full of complications and betrayals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594633669.jpg",
+			"name": "THE GIRL ON THE TRAIN",
+			"publisher": "Riverhead",
+			"rank": 11
+		},
+		{
+			"author": "by Kat Martin",
+			"description": "A woman turns to her former bodyguard when her young son is kidnapped.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781420139037.jpg",
+			"name": "INTO THE WHIRLWIND",
+			"publisher": "Zebra",
+			"rank": 12
+		},
+		{
+			"author": "by Fredrik Backman",
+			"description": "A curmudgeon's gruff exterior masks a generosity of spirit. Originally published in Sweden in 2014.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476738024.jpg",
+			"name": "A MAN CALLED OVE",
+			"publisher": "Washington Square",
+			"rank": 13
+		},
+		{
+			"author": "by Cynthia D'Aprix Sweeney",
+			"description": "Siblings in a dysfunctional New York family must grapple with a reduced inheritance.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062414236.jpg",
+			"name": "THE NEST",
+			"publisher": "Ecco/HarperCollins",
+			"rank": 14
+		},
+		{
+			"author": "by Justin Cronin",
+			"description": "In the conclusion to the trilogy that included \u201cThe Passage\u201d and \u201cThe Twelve,\u201d the virals bent on destroying humanity seem to have been vanquished, only to rise again.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780804177641.jpg",
+			"name": "THE CITY OF MIRRORS",
+			"publisher": "Ballantine",
+			"rank": 15
+		}
+	]
+}

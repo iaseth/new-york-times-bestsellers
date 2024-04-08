@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Paula Hawkins",
+			"description": "A psychological thriller set in the environs of London is full of complications and betrayals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594633669.jpg",
+			"name": "THE GIRL ON THE TRAIN",
+			"publisher": "Riverhead",
+			"rank": 1
+		},
+		{
+			"author": "by James Patterson and Maxine Paetro",
+			"description": "A video of a shocking crime surfaces, casting suspicion on a San Francisco detective's colleagues.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316407021.jpg",
+			"name": "14TH DEADLY SIN",
+			"publisher": "Little, Brown",
+			"rank": 2
+		},
+		{
+			"author": "by Anthony Doerr",
+			"description": "The lives of a blind French girl and a gadget-obsessed German boy before and during World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476746586.jpg",
+			"name": "ALL THE LIGHT WE CANNOT SEE",
+			"publisher": "Scribner",
+			"rank": 3
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "A police detective who left the force when his family was murdered teams up with his former partner to solve the case.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455586387.jpg",
+			"name": "MEMORY MAN",
+			"publisher": "Grand Central",
+			"rank": 4
+		},
+		{
+			"author": "by Neal Stephenson",
+			"description": "Five thousand years after a small number of survivors of the moon\u2019s explosion took refuge on an international space station, their descendants contemplate a return to Earth.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062190413.jpg",
+			"name": "SEVENEVES",
+			"publisher": "Morrow/HarperCollins",
+			"rank": 5
+		},
+		{
+			"author": "by Mary Kay Andrews",
+			"description": "Complications arise when a Hollywood location scout tries to arrange a shoot in a Florida Gulf Coast town.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250065933.jpg",
+			"name": "BEACH TOWN",
+			"publisher": "St. Martin's",
+			"rank": 6
+		},
+		{
+			"author": "by John Sandford",
+			"description": "Lucas Davenport is on the trail of killers who have targeted a group of vagabonds called the Travelers.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399168796.jpg",
+			"name": "GATHERING PREY",
+			"publisher": "Putnam",
+			"rank": 7
+		},
+		{
+			"author": "by Jessica Knoll",
+			"description": "The life of a successful New York magazine writer is shaken when secrets from her past are revealed.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476789651.jpg",
+			"name": "LUCKIEST GIRL ALIVE",
+			"publisher": "Simon & Schuster",
+			"rank": 8
+		},
+		{
+			"author": "by Kristin Hannah",
+			"description": "Two sisters are separated in World War II France: one in the countryside, the other in Paris.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781466850606.jpg",
+			"name": "THE NIGHTINGALE",
+			"publisher": "St. Martin's",
+			"rank": 9
+		},
+		{
+			"author": "by Bella Andre, Melissa Foster and others",
+			"description": "A collection of 10 romance novels by 10 different authors.",
+			"imageSrc": "https://s1.nyt.com/du/books/images/default-image.png",
+			"name": "LOVE, LAUGHTER, AND STEAMY EVER AFTERS",
+			"publisher": "Bella Andre, Melissa Foster and others",
+			"rank": 10
+		},
+		{
+			"author": "by Ace Atkins",
+			"description": "Spenser defends a high school student wrongly accused of terrorism and sentenced to a brutal bootcamp; a continuation of the series by Parker, who died in 2010.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698161214.jpg",
+			"name": "ROBERT B. PARKER'S KICKBACK",
+			"publisher": "Putnam",
+			"rank": 11
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "After a car accident, two children are sent to live on their great-grandmother's Virginia farm. Originally published in 2000.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780759520127.jpg",
+			"name": "WISH YOU WELL",
+			"publisher": "Grand Central",
+			"rank": 12
+		},
+		{
+			"author": "by Nora Roberts",
+			"description": "A woman returning to her hometown discovers that her husband was a fraud who implicated her in his deceptions.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698161351.jpg",
+			"name": "THE LIAR",
+			"publisher": "Putnam",
+			"rank": 13
+		},
+		{
+			"author": "by Darynda Jones",
+			"description": "A woman explores a long-ago murder while seeking shelter in an abandoned convent.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781466845282.jpg",
+			"name": "EIGHTH GRAVE AFTER DARK",
+			"publisher": "St. Martin's",
+			"rank": 14
+		},
+		{
+			"author": "by Mary Alice Monroe",
+			"description": "Three half sisters face transition and loss when the family's estate on a South Carolina island must be sold.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476709055.jpg",
+			"name": "THE SUMMER'S END",
+			"publisher": "Gallery",
+			"rank": 15
+		}
+	]
+}

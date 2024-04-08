@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Sylvia Day",
+			"description": "Eva and Gideon, of \u201cBared to You,\u201d continue to struggle to make their relationship work.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101604915.jpg",
+			"name": "REFLECTED IN YOU",
+			"publisher": "Penguin Group",
+			"rank": 1
+		},
+		{
+			"author": "by J. K. Rowling",
+			"description": "The sudden death of a parish councilman reveals bitter social divisions in an idyllic English town; a novel for adults by the creator of Harry Potter.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316228558.jpg",
+			"name": "THE CASUAL VACANCY",
+			"publisher": "Little, Brown & Company",
+			"rank": 2
+		},
+		{
+			"author": "by John Sandford",
+			"description": "Virgil Flowers joins the hunt for a teenage Bonnie and Clyde.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399157707.jpg",
+			"name": "MAD RIVER",
+			"publisher": "Penguin Group",
+			"rank": 3
+		},
+		{
+			"author": "by E. L. James",
+			"description": "A college student falls in love with a tortured man with particular sexual tastes; the first of a trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345803481.jpg",
+			"name": "FIFTY SHADES OF GREY",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 4
+		},
+		{
+			"author": "by E. L. James",
+			"description": "Daunted by Christian\u2019s dark secrets, Ana Steele ends their relationship, but desire still dominates her every thought; the second book in a trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345803498.jpg",
+			"name": "FIFTY SHADES DARKER",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 5
+		},
+		{
+			"author": "by E. L. James",
+			"description": "The final book in an erotic trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781612130606.jpg",
+			"name": "FIFTY SHADES FREED",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 6
+		},
+		{
+			"author": "by Gillian Flynn",
+			"description": "A woman disappears on the day of her fifth anniversary; is her husband a killer?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307588388.jpg",
+			"name": "GONE GIRL",
+			"publisher": "Crown Publishing",
+			"rank": 7
+		},
+		{
+			"author": "by Ken Follett",
+			"description": "n Book 2 of the Century trilogy, members of five interrelated families from five countries grapple with the tumultuous historical events of the years 1939-49.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101591437.jpg",
+			"name": "WINTER OF THE WORLD",
+			"publisher": "Penguin Group",
+			"rank": 8
+		},
+		{
+			"author": "by Christine Feehan",
+			"description": "In the 23rd book in the Dark series, the Carpathian Dax fights a vampire and meets his life mate.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780425255803.jpg",
+			"name": "DARK STORM",
+			"publisher": "Berkley Books",
+			"rank": 9
+		},
+		{
+			"author": "by Sylvia Day",
+			"description": "Two troubled people develop an intense, obsessive relationship.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780425263907.jpg",
+			"name": "BARED TO YOU",
+			"publisher": "Penguin Group",
+			"rank": 10
+		},
+		{
+			"author": "by Lee Child",
+			"description": "A carload of people involved in a conspiracy pick up a disheveled hitchhiker, Child\u2019s vigilante hero Jack Reacher.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385344333.jpg",
+			"name": "A WANTED MAN",
+			"publisher": "Random House Publishing",
+			"rank": 11
+		},
+		{
+			"author": "by M. Leighton",
+			"description": "The life of a college student, home to help her father run his business, is turned upside down when she falls in love with twins.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/A00B009FG00N2.jpg",
+			"name": "DOWN TO YOU",
+			"publisher": "M. Leighton",
+			"rank": 12
+		},
+		{
+			"author": "by Dennis Lehane",
+			"description": "A South Boston punk becomes a Florida crime boss.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062200297.jpg",
+			"name": "LIVE BY NIGHT",
+			"publisher": "HarperCollins Publishers",
+			"rank": 13
+		},
+		{
+			"author": "by Jo Nesbo",
+			"description": "The Oslo detective Harry Hole returns after three years away to find the social fabric in tatters.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307951151.jpg",
+			"name": "PHANTOM",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 14
+		},
+		{
+			"author": "by Hugh Howey",
+			"description": "Contains the five Wool science fiction books about people who live underground in a dystopian world.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/A00B0071XO8RA.jpg",
+			"name": "WOOL OMNIBUS EDITION",
+			"publisher": "Broad Reach Publishing",
+			"rank": 15
+		}
+	]
+}

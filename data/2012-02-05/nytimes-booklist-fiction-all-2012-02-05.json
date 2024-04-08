@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Jonathan Safran Foer",
+			"description": "A 9-year-old boy searches New York City for the lock that fits a key belonging to his father, who died on Sept. 11.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780618711659.jpg",
+			"name": "EXTREMELY LOUD AND INCREDIBLY CLOSE",
+			"publisher": "Houghton Mifflin Harcourt Publishing",
+			"rank": 1
+		},
+		{
+			"author": "by Stieg Larsson",
+			"description": "A hacker and a journalist investigate the disappearance of a Swedish heiress 40 years earlier.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307949486.jpg",
+			"name": "THE GIRL WITH THE DRAGON TATTOO",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 2
+		},
+		{
+			"author": "by Kathryn Stockett",
+			"description": "A young white woman and two black maids in 1960s Mississippi.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781440697661.jpg",
+			"name": "THE HELP",
+			"publisher": "Penguin Group",
+			"rank": 3
+		},
+		{
+			"author": "by Stieg Larsson",
+			"description": "In Volume 2 of the Millennium trilogy, a Swedish hacker becomes a murder suspect.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307476159.jpg",
+			"name": "THE GIRL WHO PLAYED WITH FIRE",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 4
+		},
+		{
+			"author": "by James Patterson and Maxine Paetro",
+			"description": "Jack Morgan, the head of an investigative firm, is accused of murder.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316097413.jpg",
+			"name": "PRIVATE: #1 SUSPECT",
+			"publisher": "Grand Central Publishing",
+			"rank": 5
+		},
+		{
+			"author": "by Neil Gaiman",
+			"description": "A man just out of prison becomes entangled in the schemes of an enigmatic grifter.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062109590.jpg",
+			"name": "AMERICAN GODS",
+			"publisher": "HarperCollins Publishers",
+			"rank": 6
+		},
+		{
+			"author": "by Stieg Larsson",
+			"description": "Volume 3 of the Millennium trilogy, about a Swedish hacker and a journalist.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307593672.jpg",
+			"name": "THE GIRL WHO KICKED THE HORNET\u2019S NEST",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 7
+		},
+		{
+			"author": "by Stephen King",
+			"description": "An English teacher travels back to 1958 by way of a time portal in a Maine diner. His assignment is to stop Lee Harvey Oswald.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451627299.jpg",
+			"name": "11/22/63",
+			"publisher": "Scribner",
+			"rank": 8
+		},
+		{
+			"author": "by John Grisham",
+			"description": "Partners in a small law firm take on a big case after a fast-track burnout joins them.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385535137.jpg",
+			"name": "THE LITIGATORS",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 9
+		},
+		{
+			"author": "by Jennifer McMahon",
+			"description": "A kidnapping stirs memories in a woman whose childhood best friend disappeared.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780061807589.jpg",
+			"name": "ISLAND OF LOST GIRLS",
+			"publisher": "HarperCollins Publishers",
+			"rank": 10
+		},
+		{
+			"author": "by Elmore Leonard",
+			"description": "A United States marshal sent to Harlan County, Ky., confronts organ trafficking, strip mining, gambling and bank robberies.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062119469.jpg",
+			"name": "RAYLAN",
+			"publisher": "HarperCollins Publishers",
+			"rank": 11
+		},
+		{
+			"author": "by Bernard Cornwell",
+			"description": "The Saxon warrior Uhtred must decide whether to support a united England or reclaim his ancestral lands.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780061969652.jpg",
+			"name": "DEATH OF KINGS",
+			"publisher": "HarperCollins Publishers",
+			"rank": 12
+		},
+		{
+			"author": "by Nevada Barr",
+			"description": "Barr returns to 1995 to explore why the National Park Service ranger Anna Pigeon decided to go into law enforcement.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250008671.jpg",
+			"name": "THE ROPE",
+			"publisher": "St. Martin's Press",
+			"rank": 13
+		},
+		{
+			"author": "by James Patterson",
+			"description": "Alex Cross investigates when the president\u2019s children are kidnapped, but the F.BI. and C.I.A. interfere.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455510207.jpg",
+			"name": "KILL ALEX CROSS",
+			"publisher": "Little, Brown & Company",
+			"rank": 14
+		},
+		{
+			"author": "by P. D. James",
+			"description": "Six years after Elizabeth Bennet and Darcy marry, their comfortable life is shaken by a murder, as James recreates the world of \u201cPride and Prejudice\u201d with a mysterious twist.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307950659.jpg",
+			"name": "DEATH COMES TO PEMBERLEY",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 15
+		}
+	]
+}

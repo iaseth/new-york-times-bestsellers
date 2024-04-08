@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Delia Owens",
+			"description": "In a quiet town on the North Carolina coast in 1969, a young woman who survived alone in the marsh becomes a murder suspect.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735219090.jpg",
+			"name": "WHERE THE CRAWDADS SING",
+			"publisher": "Putnam",
+			"rank": 1
+		},
+		{
+			"author": "by Bobby Hall",
+			"description": "A depressed young man\u2019s secrets are exposed when the grocery store where he works becomes a crime scene.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982127138.jpg",
+			"name": "SUPERMARKET",
+			"publisher": "Simon & Schuster",
+			"rank": 2
+		},
+		{
+			"author": "by James S.A. Corey",
+			"description": "The eighth book in the Expanse series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316332873.jpg",
+			"name": "TIAMAT'S WRATH",
+			"publisher": "Orbit",
+			"rank": 3
+		},
+		{
+			"author": "by Stuart Woods",
+			"description": "The 49th book in the Stone Barrington series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735219304.jpg",
+			"name": "WILD CARD",
+			"publisher": "Putnam",
+			"rank": 4
+		},
+		{
+			"author": "by James Patterson and Brendan DuBois",
+			"description": "An Army intelligence officer must commit a crime or lose her kidnapped husband and daughter.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316485555.jpg",
+			"name": "THE CORNWALLS ARE GONE",
+			"publisher": "Little, Brown",
+			"rank": 5
+		},
+		{
+			"author": "by Catherine Coulter and J.T. Ellison",
+			"description": "The sixth book in the A Brit in the F.B.I. series. Special agents must prevent the use of a deadly weapon on a French satellite.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501138249.jpg",
+			"name": "THE LAST SECOND",
+			"publisher": "Gallery",
+			"rank": 6
+		},
+		{
+			"author": "by Harlan Coben",
+			"description": "A family is torn apart when the daughter becomes addicted to drugs and goes missing.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538748466.jpg",
+			"name": "RUN AWAY",
+			"publisher": "Grand Central",
+			"rank": 7
+		},
+		{
+			"author": "by Jacqueline Winspear",
+			"description": "The 15th book in the Maisie Dobbs series. While the Germans attack the British Isles, Maisie must solve a case and protect a young evacuee.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062436696.jpg",
+			"name": "THE AMERICAN AGENT",
+			"publisher": "Harper",
+			"rank": 8
+		},
+		{
+			"author": "by James Patterson and Brendan DuBois",
+			"description": "Sally Grissom investigates the disappearance of President Harrison Tucker\u2019s wife.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538714928.jpg",
+			"name": "THE FIRST LADY",
+			"publisher": "Grand Central",
+			"rank": 9
+		},
+		{
+			"author": "by A.J. Finn",
+			"description": "A recluse who drinks heavily and takes prescription drugs may have witnessed a crime across from her Harlem townhouse.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062678416.jpg",
+			"name": "THE WOMAN IN THE WINDOW",
+			"publisher": "Morrow",
+			"rank": 10
+		},
+		{
+			"author": "by Clive Cussler and Dirk Cussler",
+			"description": "The 25th book in the Dirk Pitt series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735219007.jpg",
+			"name": "CELTIC EMPIRE",
+			"publisher": "Putnam",
+			"rank": 11
+		},
+		{
+			"author": "by Iris Johansen",
+			"description": "The 24th book in the Eve Duncan series. A violin prodigy with a tragic past is kidnapped.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781466887268.jpg",
+			"name": "DARK TRIBUTE",
+			"publisher": "St. Martin's",
+			"rank": 12
+		},
+		{
+			"author": "by Heather Morris",
+			"description": "A concentration camp detainee tasked with permanently marking fellow prisoners falls in love with one of them.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062797155.jpg",
+			"name": "THE TATTOOIST OF AUSCHWITZ",
+			"publisher": "Harper",
+			"rank": 13
+		},
+		{
+			"author": "by Alex Michaelides",
+			"description": "Theo Faber looks into the mystery of a famous painter who stops speaking after shooting her husband.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250301697.jpg",
+			"name": "THE SILENT PATIENT",
+			"publisher": "Celadon",
+			"rank": 14
+		},
+		{
+			"author": "by Marie Force",
+			"description": "The 14th book in the Fatal series. Washington Metro Police lieutenant Sam Holland gets a tip about her father's murder.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781488034206.jpg",
+			"name": "FATAL RECKONING",
+			"publisher": "HQN",
+			"rank": 15
+		}
+	]
+}

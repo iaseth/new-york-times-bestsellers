@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Matthew McConaughey",
+			"description": "The Academy Award-winning actor shares snippets from the diaries he kept over the last 35 years.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593139134.jpg",
+			"name": "GREENLIGHTS",
+			"publisher": "Crown",
+			"rank": 1
+		},
+		{
+			"author": "by Glennon Doyle",
+			"description": "The activist and public speaker describes her journey of listening to her inner voice.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984801258.jpg",
+			"name": "UNTAMED",
+			"publisher": "Dial",
+			"rank": 2
+		},
+		{
+			"author": "by Isabel Wilkerson",
+			"description": "The Pulitzer Prize-winning journalist examines aspects of caste systems across civilizations and reveals a rigid hierarchy in America today.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593230251.jpg",
+			"name": "CASTE",
+			"publisher": "Random House",
+			"rank": 3
+		},
+		{
+			"author": "by Christie Tate",
+			"description": "A law student grappling with feelings of sadness and isolation is invited to join a psychotherapy group.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982154615.jpg",
+			"name": "GROUP",
+			"publisher": "Avid Reader",
+			"rank": 4
+		},
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "The ninth book in the conservative commentator\u2019s Killing series focuses on conflicts with Native Americans.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781627797047.jpg",
+			"name": "KILLING CRAZY HORSE",
+			"publisher": "Holt",
+			"rank": 5
+		},
+		{
+			"author": "by Pete Souza",
+			"description": "The former White House photographer juxtaposes pictures of former President Obama with tweets, headlines and quotes from the Trump administration.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316421829.jpg",
+			"name": "SHADE",
+			"publisher": "Voracious/Little, Brown",
+			"rank": 6
+		},
+		{
+			"author": "by Ted Cruz",
+			"description": "The Republican senator from Texas gives his views on what might happen if liberals gain a simple majority on the Supreme Court.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781684511341.jpg",
+			"name": "ONE VOTE AWAY",
+			"publisher": "Regnery",
+			"rank": 7
+		},
+		{
+			"author": "by Candace Owens",
+			"description": "The conservative commentator makes her case that Black Americans should part ways with the Democratic Party.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982133276.jpg",
+			"name": "BLACKOUT",
+			"publisher": "Threshold Editions",
+			"rank": 8
+		},
+		{
+			"author": "by Pete Souza",
+			"description": "More than 300 pictures of the former president by his White House photographer, with behind-the-scenes stories.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316512589.jpg",
+			"name": "OBAMA",
+			"publisher": "Little, Brown",
+			"rank": 9
+		},
+		{
+			"author": "by Bessel van der Kolk",
+			"description": "How trauma affects the body and mind, and innovative treatments for recovery.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780670785933.jpg",
+			"name": "THE BODY KEEPS THE SCORE",
+			"publisher": "Penguin",
+			"rank": 10
+		},
+		{
+			"author": "by Ruth Bader Ginsburg with Mary Hartnett and Wendy W. Williams",
+			"description": "A collection of articles and speeches by the Supreme Court justice.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501145247.jpg",
+			"name": "MY OWN WORDS",
+			"publisher": "Simon & Schuster",
+			"rank": 11
+		},
+		{
+			"author": "by Andrew Cuomo",
+			"description": "The New York State governor gives his perspective on the Covid-19 crisis and prescribes ways to deal with future disasters.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593239261.jpg",
+			"name": "AMERICAN CRISIS",
+			"publisher": "Crown",
+			"rank": 12
+		},
+		{
+			"author": "by Bob Woodward",
+			"description": "Based on 17 on-the-record interviews with President Trump and other reporting, the Pulitzer Prize-winning journalist details the president\u2019s perspective on multiple crises.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982131739.jpg",
+			"name": "RAGE",
+			"publisher": "Simon & Schuster",
+			"rank": 13
+		},
+		{
+			"author": "by Jerry Seinfeld",
+			"description": "The comedian shares material he collected in an accordion folder over the last 45 years.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982112691.jpg",
+			"name": "IS THIS ANYTHING?",
+			"publisher": "Simon & Schuster",
+			"rank": 14
+		},
+		{
+			"author": "by Ibram X. Kendi",
+			"description": "A primer for creating a more just and equitable society through identifying and opposing racism.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525509288.jpg",
+			"name": "HOW TO BE AN ANTIRACIST",
+			"publisher": "One World",
+			"rank": 15
+		}
+	]
+}

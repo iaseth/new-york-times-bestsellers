@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Erik Larson",
+			"description": "An examination of the leadership of the prime minister Winston Churchill.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385348713.jpg",
+			"name": "THE SPLENDID AND THE VILE",
+			"publisher": "Crown",
+			"rank": 1
+		},
+		{
+			"author": "by Kobe Bryant",
+			"description": "Various skills and techniques used on the court by the late Los Angeles Lakers player.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780374201234.jpg",
+			"name": "THE MAMBA MENTALITY",
+			"publisher": "Melcher Media/MCD/Farrar, Straus & Giroux",
+			"rank": 2
+		},
+		{
+			"author": "by Martha MacCallum",
+			"description": "The Fox News anchor weaves stories of combat veterans who fought during World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062853851.jpg",
+			"name": "UNKNOWN VALOR",
+			"publisher": "Harper",
+			"rank": 3
+		},
+		{
+			"author": "by Jon Meacham",
+			"description": "The Pulitzer Prize-winning biographer delves into the seven last sayings of Jesus as recorded in the Gospels.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593236666.jpg",
+			"name": "THE HOPE OF GLORY",
+			"publisher": "Convergent",
+			"rank": 4
+		},
+		{
+			"author": "by Jessica Simpson with Kevin Carr O\u2019Leary",
+			"description": "The singer, actress and fashion designer discloses times of success, trauma and addiction.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062899965.jpg",
+			"name": "OPEN BOOK",
+			"publisher": "Dey St.",
+			"rank": 5
+		},
+		{
+			"author": "by Tara Westover",
+			"description": "The daughter of survivalists, who is kept out of school, educates herself enough to leave home for university.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399590504.jpg",
+			"name": "EDUCATED",
+			"publisher": "Random House",
+			"rank": 6
+		},
+		{
+			"author": "by Philip Rucker and Carol Leonnig",
+			"description": "The Pulitzer Prize-winning journalists use firsthand accounts to chart patterns of behavior within the Trump administration.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984877499.jpg",
+			"name": "A VERY STABLE GENIUS",
+			"publisher": "Penguin Press",
+			"rank": 7
+		},
+		{
+			"author": "by Malcolm Gladwell",
+			"description": "Famous examples of miscommunication serve as the backdrop to explain potential conflicts and misunderstandings.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316478526.jpg",
+			"name": "TALKING TO STRANGERS",
+			"publisher": "Little, Brown",
+			"rank": 8
+		},
+		{
+			"author": "by Patrick Radden Keefe",
+			"description": "A look at the conflict in Northern Ireland known as the Troubles.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385521314.jpg",
+			"name": "SAY NOTHING",
+			"publisher": "Doubleday",
+			"rank": 9
+		},
+		{
+			"author": "by Bryan Stevenson",
+			"description": "A law professor and MacArthur grant recipient\u2019s memoir of his decades of work to free innocent people condemned to death.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812994520.jpg",
+			"name": "JUST MERCY",
+			"publisher": "Spiegel & Grau",
+			"rank": 10
+		},
+		{
+			"author": "by Michelle Obama",
+			"description": "The former first lady describes her journey from the South Side of Chicago to the White House, and how she balanced work, family and her husband\u2019s political ascent.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524763138.jpg",
+			"name": "BECOMING",
+			"publisher": "Crown",
+			"rank": 11
+		},
+		{
+			"author": "by Brian Greene",
+			"description": "A physicist gives an overview of how we got here, where we are and directions we might go.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524731670.jpg",
+			"name": "UNTIL THE END OF TIME",
+			"publisher": "Knopf",
+			"rank": 12
+		},
+		{
+			"author": "by Bessel van der Kolk",
+			"description": "How trauma affects the body and mind, and innovative treatments for recovery.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780670785933.jpg",
+			"name": "THE BODY KEEPS THE SCORE",
+			"publisher": "Penguin",
+			"rank": 13
+		},
+		{
+			"author": "by Peter Schweizer",
+			"description": "The author of \u201cClinton Cash\u201d gives his evaluations of members of the Democratic Party.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062897909.jpg",
+			"name": "PROFILES IN CORRUPTION",
+			"publisher": "Harper",
+			"rank": 14
+		},
+		{
+			"author": "by Yuval Noah Harari",
+			"description": "How Homo sapiens became Earth\u2019s dominant species.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062316097.jpg",
+			"name": "SAPIENS",
+			"publisher": "Harper",
+			"rank": 15
+		}
+	]
+}

@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Colleen Hoover",
+			"description": "In the sequel to \u201cIt Ends With Us,\u201d Lily deals with her jealous ex-husband as she reconnects with her first boyfriend.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781668001226.jpg",
+			"name": "IT STARTS WITH US",
+			"publisher": "Atria",
+			"rank": 1
+		},
+		{
+			"author": "by Bonnie Garmus",
+			"description": "A scientist and single mother living in California in the 1960s becomes a star on a TV cooking show.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385547345.jpg",
+			"name": "LESSONS IN CHEMISTRY",
+			"publisher": "Doubleday",
+			"rank": 2
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "A battered wife raised in a violent home attempts to halt the cycle of abuse.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501110375.jpg",
+			"name": "IT ENDS WITH US",
+			"publisher": "Atria",
+			"rank": 3
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "Lowen Ashleigh is hired by the husband of an injured writer to complete her popular series and uncovers a horrifying truth.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781791392796.jpg",
+			"name": "VERITY",
+			"publisher": "Grand Central",
+			"rank": 4
+		},
+		{
+			"author": "by Taylor Jenkins Reid",
+			"description": "A movie icon recounts stories of her loves and career to a struggling magazine writer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501161933.jpg",
+			"name": "THE SEVEN HUSBANDS OF EVELYN HUGO",
+			"publisher": "Washington Square/Atria",
+			"rank": 5
+		},
+		{
+			"author": "by Jodi Picoult and Jennifer Finney Boylan",
+			"description": "After returning to her hometown, Olivia McAfee\u2019s son gets accused of killing his crush.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984818386.jpg",
+			"name": "MAD HONEY",
+			"publisher": "Ballantine",
+			"rank": 6
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "Tate Collins and Miles Archer,\u00a0an airline pilot, think they can handle a no strings attached arrangement. But they can't.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476753195.jpg",
+			"name": "UGLY LOVE",
+			"publisher": "Atria",
+			"rank": 7
+		},
+		{
+			"author": "by Gabrielle Zevin",
+			"description": "Two friends find their partnership challenged in the world of video game design.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593321201.jpg",
+			"name": "TOMORROW, AND TOMORROW, AND TOMORROW",
+			"publisher": "Knopf",
+			"rank": 8
+		},
+		{
+			"author": "by John Grisham",
+			"description": "Two childhood friends follow in their fathers\u2019 footsteps, which puts them on opposite sides of the law.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385548922.jpg",
+			"name": "THE BOYS FROM BILOXI",
+			"publisher": "Doubleday",
+			"rank": 9
+		},
+		{
+			"author": "by Michael Connelly",
+			"description": "Ballard and Bosch bury old resentments as they go after two killers.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316485654.jpg",
+			"name": "DESERT STAR",
+			"publisher": "Little, Brown",
+			"rank": 10
+		},
+		{
+			"author": "by Nicholas Sparks",
+			"description": "Musicians from different backgrounds are attracted to each other and a mother flees with her son from an abusive husband.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593449554.jpg",
+			"name": "DREAMLAND",
+			"publisher": "Random House",
+			"rank": 11
+		},
+		{
+			"author": "by Barbara Kingsolver",
+			"description": "A reimagining of Charles Dickens\u2019s \u201cDavid Copperfield\u201d set in the mountains of southern Appalachia.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063251922.jpg",
+			"name": "DEMON COPPERHEAD",
+			"publisher": "Harper",
+			"rank": 12
+		},
+		{
+			"author": "by Alex Michaelides",
+			"description": "Theo Faber looks into the mystery of a famous painter who stops speaking after shooting her husband.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250301697.jpg",
+			"name": "THE SILENT PATIENT",
+			"publisher": "Celadon",
+			"rank": 13
+		},
+		{
+			"author": "by Stephen King",
+			"description": "A high school kid inherits a shed that is a portal to another world where good and evil are at war.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781668002179.jpg",
+			"name": "FAIRY TALE",
+			"publisher": "Scribner",
+			"rank": 14
+		},
+		{
+			"author": "by R.F. Kuang",
+			"description": "In 1828, Robin Swift studies at Oxford University\u2019s Royal Institute of Translation and faces a choice when Britain pursues a war with China.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063021426.jpg",
+			"name": "BABEL",
+			"publisher": "Harper Voyager",
+			"rank": 15
+		}
+	]
+}

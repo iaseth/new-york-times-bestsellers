@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "with related materials by The Washington Post",
+			"description": "Redacted findings from the special counsel\u2019s investigation into Russian interference in the 2016 presidential election and potential obstruction of justice by the president.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982129736.jpg",
+			"name": "THE MUELLER REPORT",
+			"publisher": "Scribner",
+			"rank": 1
+		},
+		{
+			"author": "by Tara Westover",
+			"description": "The daughter of survivalists, who is kept out of school, educates herself enough to leave home for university.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399590504.jpg",
+			"name": "EDUCATED",
+			"publisher": "Random House",
+			"rank": 2
+		},
+		{
+			"author": "by Michelle Obama",
+			"description": "The former first lady describes her journey from the South Side of Chicago to the White House, and how she balanced work, family and her husband\u2019s political ascent.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524763138.jpg",
+			"name": "BECOMING",
+			"publisher": "Crown",
+			"rank": 3
+		},
+		{
+			"author": "by Melinda Gates",
+			"description": "The philanthropist shares stories of empowering women to improve society.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250240521.jpg",
+			"name": "THE MOMENT OF LIFT",
+			"publisher": "Flatiron",
+			"rank": 4
+		},
+		{
+			"author": "by David Brooks",
+			"description": "A New York Times Op-Ed columnist espouses having an outward focus to attain a meaningful life.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812993264.jpg",
+			"name": "THE SECOND MOUNTAIN",
+			"publisher": "Random House",
+			"rank": 5
+		},
+		{
+			"author": "by Chelsea Handler",
+			"description": "The comedian chronicles going into therapy and becoming an advocate for change.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525511779.jpg",
+			"name": "LIFE WILL BE THE DEATH OF ME",
+			"publisher": "Spiegel & Grau",
+			"rank": 6
+		},
+		{
+			"author": "by Lori Gottlieb",
+			"description": "A psychotherapist gains unexpected insights when she becomes another therapist\u2019s patient.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781328662057.jpg",
+			"name": "MAYBE YOU SHOULD TALK TO SOMEONE",
+			"publisher": "Houghton Mifflin Harcourt",
+			"rank": 7
+		},
+		{
+			"author": "by Graham Hancock",
+			"description": "The author of \u201cMagicians of the Gods\u201d makes his case about the origins of civilizations.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250153739.jpg",
+			"name": "AMERICA BEFORE",
+			"publisher": "St. Martin's",
+			"rank": 8
+		},
+		{
+			"author": "by John Carreyrou",
+			"description": "The rise and fall of Theranos, the biotech startup that failed to deliver on its promise to make blood testing more efficient.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524731663.jpg",
+			"name": "BAD BLOOD",
+			"publisher": "Knopf",
+			"rank": 9
+		},
+		{
+			"author": "by Susan Page",
+			"description": "A biography of the former first lady Barbara Bush, based on interviews and her private diaries.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538713648.jpg",
+			"name": "THE MATRIARCH",
+			"publisher": "Twelve",
+			"rank": 10
+		},
+		{
+			"author": "with an introduction by Alan Dershowitz",
+			"description": "Redacted findings from the special counsel\u2019s investigation into Russian interference in the 2016 presidential election and potential obstruction of justice by the president.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781510750173.jpg",
+			"name": "THE MUELLER REPORT",
+			"publisher": "Skyhorse",
+			"rank": 11
+		},
+		{
+			"author": "by Trevor Noah",
+			"description": "A memoir about growing up biracial in apartheid South Africa by the host of \u201cThe Daily Show.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399588181.jpg",
+			"name": "BORN A CRIME",
+			"publisher": "Spiegel & Grau",
+			"rank": 12
+		},
+		{
+			"author": "by Yuval Noah Harari",
+			"description": "How Homo sapiens became Earth\u2019s dominant species.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062316097.jpg",
+			"name": "SAPIENS",
+			"publisher": "Harper",
+			"rank": 13
+		},
+		{
+			"author": "by Anna Quindlen",
+			"description": "The Pulitzer Prize-winning columnist observes the joys of being a grandmother.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812996104.jpg",
+			"name": "NANAVILLE",
+			"publisher": "Random House",
+			"rank": 14
+		},
+		{
+			"author": "by Ruth Reichl",
+			"description": "A memoir by the former restaurant critic of The New York Times and editor in chief of Gourmet.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400069996.jpg",
+			"name": "SAVE ME THE PLUMS",
+			"publisher": "Random House",
+			"rank": 15
+		}
+	]
+}

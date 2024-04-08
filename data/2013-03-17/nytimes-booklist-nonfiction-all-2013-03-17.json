@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Ben C. Carson and Candy Carson",
+			"description": "A doctor explores what makes America great.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780310330714.jpg",
+			"name": "AMERICA THE BEAUTIFUL",
+			"publisher": "Zondervan",
+			"rank": 1
+		},
+		{
+			"author": "by Chris Kyle with Scott McEwen and Jim DeFelice",
+			"description": "A member of the Navy SEALs, recently shot to death in Texas, discusses his battlefield experiences.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062082374.jpg",
+			"name": "AMERICAN SNIPER",
+			"publisher": "HarperCollins Publishers",
+			"rank": 2
+		},
+		{
+			"author": "by Eben Alexander",
+			"description": "A neurosurgeon recounts his near death experience during a coma from bacterial meningitis.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451695199.jpg",
+			"name": "PROOF OF HEAVEN",
+			"publisher": "Simon & Schuster",
+			"rank": 3
+		},
+		{
+			"author": "by Mark Owen with Kevin Maurer",
+			"description": "An account of the mission that killed Osama bin Laden, by a former member of the Navy SEALs.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101611302.jpg",
+			"name": "NO EASY DAY",
+			"publisher": "Penguin Group",
+			"rank": 4
+		},
+		{
+			"author": "by Michael Moss",
+			"description": "A New York Times reporter reveals how food companies encourage us to consume more of their products.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780679604778.jpg",
+			"name": "SALT SUGAR FAT",
+			"publisher": "Random House Publishing",
+			"rank": 5
+		},
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "The host of \u201cThe O\u2019Reilly Factor\u201d recounts the assassination of John F. Kennedy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780805096668.jpg",
+			"name": "KILLING KENNEDY",
+			"publisher": "Henry Holt & Company",
+			"rank": 6
+		},
+		{
+			"author": "by Brandi Glanville with Leslie Bruce",
+			"description": "One of the \u201cReal Housewives of Beverly Hills\u201d describes her adventures.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476707648.jpg",
+			"name": "DRINKING AND TWEETING",
+			"publisher": "Gallery Books",
+			"rank": 7
+		},
+		{
+			"author": "by Susan Cain",
+			"description": "Introverts \u2014 one-third of the population \u2014 are undervalued in American society.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307452207.jpg",
+			"name": "QUIET",
+			"publisher": "Crown Publishing",
+			"rank": 8
+		},
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "The host of \u201cThe O\u2019Reilly Factor\u201d recounts the assassination of Abraham Lincoln.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780805093070.jpg",
+			"name": "KILLING LINCOLN",
+			"publisher": "Henry Holt & Company",
+			"rank": 9
+		},
+		{
+			"author": "by Sonia Sotomayor",
+			"description": "The Supreme Court justice recalls growing up in the Bronx and other aspects of her early life.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307594884.jpg",
+			"name": "MY BELOVED WORLD",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 10
+		},
+		{
+			"author": "by Laura Hillenbrand",
+			"description": "An Olympic runner\u2019s story of survival as a prisoner of the Japanese in World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400064168.jpg",
+			"name": "UNBROKEN",
+			"publisher": "Random House Publishing",
+			"rank": 11
+		},
+		{
+			"author": "by Antonio Mendez and Matt Baglio",
+			"description": "An account of the daring rescue of six Americans from Tehran that inspired the Oscar-winning film; Mendez was the C.I.A. operative played by Ben Affleck.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780670026227.jpg",
+			"name": "ARGO",
+			"publisher": "Penguin Group",
+			"rank": 12
+		},
+		{
+			"author": "by Clive Davis with Anthony DeCurtis",
+			"description": "The music industry executive\u2019s memoir offers an insider\u2019s look at the last fifty years of popular music.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476714806.jpg",
+			"name": "SOUNDTRACK OF MY LIFE",
+			"publisher": "Simon & Schuster",
+			"rank": 13
+		},
+		{
+			"author": "by Ronald Reagan",
+			"description": "Selections from the 40th president\u2019s daily White House diaries; originally published in 2007.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780061558337.jpg",
+			"name": "THE REAGAN DIARIES",
+			"publisher": "HarperCollins Publishers",
+			"rank": 14
+		},
+		{
+			"author": "by Kevin Cullen and Shelley Murphy",
+			"description": "The criminal career of the notorious Boston gangster, and the manhunt that led to his capture.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780393240917.jpg",
+			"name": "WHITEY BULGER",
+			"publisher": "W. W. Norton & Company",
+			"rank": 15
+		}
+	]
+}

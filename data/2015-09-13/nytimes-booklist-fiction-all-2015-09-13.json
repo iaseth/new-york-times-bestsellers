@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Sue Grafton",
+			"description": "A variety of X\u2019s lead Kinsey Millhone into deep secrets and a cold case.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399163845.jpg",
+			"name": "X",
+			"publisher": "Marian Wood/Putnam",
+			"rank": 1
+		},
+		{
+			"author": "by Paula Hawkins",
+			"description": "A psychological thriller set in the environs of London is full of complications and betrayals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594633669.jpg",
+			"name": "THE GIRL ON THE TRAIN",
+			"publisher": "Riverhead",
+			"rank": 2
+		},
+		{
+			"author": "by Andy Weir",
+			"description": "Abandoned by his crew, an astronaut embarks on a dogged quest to stay alive.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780804139038.jpg",
+			"name": "THE MARTIAN",
+			"publisher": "Crown",
+			"rank": 3
+		},
+		{
+			"author": "by Louise Penny",
+			"description": "Retired from the S\u00fbret\u00e9 du Qu\u00e9bec to the village of Three Pines, Armand Gamache is faced with the murder of a troublesome 9-year-old boy in the 11th book in this series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250022097.jpg",
+			"name": "THE NATURE OF THE BEAST",
+			"publisher": "Minotaur",
+			"rank": 4
+		},
+		{
+			"author": "by Robyn Carr",
+			"description": "An overprotective mother finds her defensiveness waning when her son befriends the triathlete next door.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781460390153.jpg",
+			"name": "WILDEST DREAMS",
+			"publisher": "Mira",
+			"rank": 5
+		},
+		{
+			"author": "by Harper Lee",
+			"description": "In the mid-1950s, a grown-up Jean Louise Finch returns to Maycomb and realizes that her adored father is a racist.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062409850.jpg",
+			"name": "GO SET A WATCHMAN",
+			"publisher": "Harper",
+			"rank": 6
+		},
+		{
+			"author": "by Sandra Brown",
+			"description": "A Texas Ranger fights for custody of his daughter amid complications stemming from his attraction to the judge.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455581160.jpg",
+			"name": "FRICTION",
+			"publisher": "Grand Central",
+			"rank": 7
+		},
+		{
+			"author": "by John Grisham",
+			"description": "A downsized Wall Street lawyer joins a legal clinic in a small Virginia town, and litigates against the coal-mining industry.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385537148.jpg",
+			"name": "GRAY MOUNTAIN",
+			"publisher": "Doubleday",
+			"rank": 8
+		},
+		{
+			"author": "by Lee Child",
+			"description": "In an e-book short story set in 1989, Jack Reacher must solve the murder of a young officer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780804178846.jpg",
+			"name": "SMALL WARS",
+			"publisher": "Delacorte",
+			"rank": 9
+		},
+		{
+			"author": "by Philippa Gregory",
+			"description": "The relationship between Henry VIII and Catherine Parr, his sixth wife, who survived him.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476758824.jpg",
+			"name": "THE TAMING OF THE QUEEN",
+			"publisher": "Touchstone",
+			"rank": 10
+		},
+		{
+			"author": "by E. L. James",
+			"description": "A sequel, told from Christian\u2019s point of view, revisits the tortured romance between the controlling billionaire and the unassuming Ana.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101946350.jpg",
+			"name": "GREY",
+			"publisher": "Vintage",
+			"rank": 11
+		},
+		{
+			"author": "by Anthony Doerr",
+			"description": "The lives of a blind French girl and a gadget-obsessed German boy before and during World War II; the winner of the 2015 Pulitzer Prize.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476746586.jpg",
+			"name": "ALL THE LIGHT WE CANNOT SEE",
+			"publisher": "Scribner",
+			"rank": 12
+		},
+		{
+			"author": "by James Patterson and Michael Ledwidge",
+			"description": "Detective Michael Bennett and the F.B.I.\u2019s Emily Parker must save New York City from a deadly threat.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316407038.jpg",
+			"name": "ALERT",
+			"publisher": "Little, Brown",
+			"rank": 13
+		},
+		{
+			"author": "by Kristin Hannah",
+			"description": "Two sisters are separated in World War II France: one in the countryside, the other in Paris.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781466850606.jpg",
+			"name": "THE NIGHTINGALE",
+			"publisher": "St. Martin's",
+			"rank": 14
+		},
+		{
+			"author": "by Jennifer Weiner",
+			"description": "Andy and Rachel meet as children, then come together and separate repeatedly over the years.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451617832.jpg",
+			"name": "WHO DO YOU LOVE",
+			"publisher": "Atria",
+			"rank": 15
+		}
+	]
+}

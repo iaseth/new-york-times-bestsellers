@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Bessel van der Kolk",
+			"description": "How trauma affects the body and mind, and innovative treatments for recovery.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780670785933.jpg",
+			"name": "THE BODY KEEPS THE SCORE",
+			"publisher": "Penguin",
+			"rank": 1
+		},
+		{
+			"author": "by Peter Schweizer",
+			"description": "The author of \u201cProfiles in Corruption\u201d portrays a conspiracy of how the Chinese government might infiltrate American institutions.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063061149.jpg",
+			"name": "RED-HANDED",
+			"publisher": "Harper",
+			"rank": 2
+		},
+		{
+			"author": "by Bob Odenkirk",
+			"description": "The actor and writer, known for his work in sketch comedy and dramatic roles, charts his path.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399180514.jpg",
+			"name": "COMEDY COMEDY COMEDY DRAMA",
+			"publisher": "Random House",
+			"rank": 3
+		},
+		{
+			"author": "edited by Nikole Hannah-Jones, Caitlin Roper, Ilena Silverman and Jake Silverstein",
+			"description": "Viewing America\u2019s entanglement with slavery and its legacy, in essays adapted and expanded from The New York Times Magazine.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593230572.jpg",
+			"name": "THE 1619 PROJECT",
+			"publisher": "One World",
+			"rank": 4
+		},
+		{
+			"author": "by Frank Bruni",
+			"description": "A New York Times columnist describes his medical journey and shifting priorities after a rare stroke affected his vision.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982108571.jpg",
+			"name": "THE BEAUTY OF DUSK",
+			"publisher": "Avid Reader",
+			"rank": 5
+		},
+		{
+			"author": "by Arthur C. Brooks",
+			"description": "A columnist for The Atlantic espouses ways to shift priorities and habits to overcome waning abilities in later life.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593191484.jpg",
+			"name": "FROM STRENGTH TO STRENGTH",
+			"publisher": "Portfolio",
+			"rank": 6
+		},
+		{
+			"author": "by Ric Prado",
+			"description": "The Cuban refugee and retired C.I.A. officer depicts his career fighting what he describes as shadow wars for the United States.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250271846.jpg",
+			"name": "BLACK OPS",
+			"publisher": "St. Martin's",
+			"rank": 7
+		},
+		{
+			"author": "by Erik Larson",
+			"description": "An examination of the leadership of the prime minister Winston Churchill.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385348713.jpg",
+			"name": "THE SPLENDID AND THE VILE",
+			"publisher": "Crown",
+			"rank": 8
+		},
+		{
+			"author": "by Meghan O'Rourke",
+			"description": "An examination of the rise of chronic illnesses and autoimmune diseases.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594633799.jpg",
+			"name": "THE INVISIBLE KINGDOM",
+			"publisher": "Riverhead",
+			"rank": 9
+		},
+		{
+			"author": "by Tara Westover",
+			"description": "The daughter of survivalists, who is kept out of school, educates herself enough to leave home for university.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399590504.jpg",
+			"name": "EDUCATED",
+			"publisher": "Random House",
+			"rank": 10
+		},
+		{
+			"author": "by Michelle Zauner",
+			"description": "The daughter of a Korean mother and Jewish-American father, and leader of the indie rock project Japanese Breakfast, describes creating her own identity after losing her mother to cancer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525657743.jpg",
+			"name": "CRYING IN H MART",
+			"publisher": "Knopf",
+			"rank": 11
+		},
+		{
+			"author": "by Elie Mystal",
+			"description": "The Nation\u2019s legal analyst and justice correspondent posits ways to protect the rights of women and people of color.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781620976814.jpg",
+			"name": "ALLOW ME TO RETORT",
+			"publisher": "New Press",
+			"rank": 12
+		},
+		{
+			"author": "by Harvey Fierstein",
+			"description": "A memoir by the four-time Tony Award\u2013winning actor and playwright.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593320525.jpg",
+			"name": "I WAS BETTER LAST NIGHT",
+			"publisher": "Knopf",
+			"rank": 13
+		},
+		{
+			"author": "by bell hooks",
+			"description": "The late feminist icon explores the causes of a polarized society and the meaning of love.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780060959470.jpg",
+			"name": "ALL ABOUT LOVE",
+			"publisher": "Morrow",
+			"rank": 14
+		},
+		{
+			"author": "by Chuck Klosterman",
+			"description": "An overview of the cultural and historical impact of the 1990s.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735217959.jpg",
+			"name": "THE NINETIES",
+			"publisher": "Penguin Press",
+			"rank": 15
+		}
+	]
+}

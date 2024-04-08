@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Glenn Beck and others",
+			"description": "An argument against gun restriction laws.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476739885.jpg",
+			"name": "CONTROL",
+			"publisher": "Threshold Editions/Mercury Radio Arts",
+			"rank": 1
+		},
+		{
+			"author": "by Amanda Knox",
+			"description": "Knox, who was convicted of the murder of her roommate in 2009 when she was an American student in Italy, a conviction that was overturned in 2011, tells her story.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062217226.jpg",
+			"name": "WAITING TO BE HEARD",
+			"publisher": "Harper",
+			"rank": 2
+		},
+		{
+			"author": "by Sheryl Sandberg with Nell Scovell",
+			"description": "The chief operating officer of Facebook urges women to pursue their careers without ambivalence.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385349956.jpg",
+			"name": "LEAN IN",
+			"publisher": "Knopf",
+			"rank": 3
+		},
+		{
+			"author": "by David Sedaris",
+			"description": "Essays from the humorist on subjects like French dentistry and a North Carolina Costco.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316125680.jpg",
+			"name": "LET'S EXPLORE DIABETES WITH OWLS",
+			"publisher": "Little, Brown",
+			"rank": 4
+		},
+		{
+			"author": "by Eben Alexander",
+			"description": "A neurosurgeon recounts his near death experience during a coma from bacterial meningitis.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451695199.jpg",
+			"name": "PROOF OF HEAVEN",
+			"publisher": "Simon & Schuster",
+			"rank": 5
+		},
+		{
+			"author": "by Michael Pollan",
+			"description": "The writer masters recipes and argues that regaining control of cooking will make Americans healthier.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594204210.jpg",
+			"name": "COOKED",
+			"publisher": "Penguin Press",
+			"rank": 6
+		},
+		{
+			"author": "by Nathaniel Philbrick",
+			"description": "The story of the battle that marked the point of no return for the rebellious American colonists.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101622704.jpg",
+			"name": "BUNKER HILL",
+			"publisher": "Viking",
+			"rank": 7
+		},
+		{
+			"author": "by Susannah Cahalan",
+			"description": "A medical mystery in which doctors struggle to discover why a young reporter experiences seizures and hallucinations.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451621389.jpg",
+			"name": "BRAIN ON FIRE",
+			"publisher": "Free Press",
+			"rank": 8
+		},
+		{
+			"author": "by Cheryl Strayed",
+			"description": "A woman\u2019s account of a life-changing 1,100-mile hike along the Pacific Crest Trail during the summer of 1995.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307476074.jpg",
+			"name": "WILD",
+			"publisher": "Knopf",
+			"rank": 9
+		},
+		{
+			"author": "by Dave Liniger with Laura Morton",
+			"description": "The founder of Re/Max recounts his ordeal with a staph infection that left him paralyzed.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781401943417.jpg",
+			"name": "MY NEXT STEP",
+			"publisher": "Hay House",
+			"rank": 10
+		},
+		{
+			"author": "by Chris Kyle with Scott McEwen and Jim DeFelice",
+			"description": "A member of the Navy SEALs who had the most career sniper kills in United States military history discusses his childhood, his marriage and his battlefield experiences during the Iraq war. Kyle was recently shot to death in Texas.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062082374.jpg",
+			"name": "AMERICAN SNIPER",
+			"publisher": "Morrow/HarperCollins",
+			"rank": 11
+		},
+		{
+			"author": "by Charles Graeber",
+			"description": "A journalist tells the story of Charlie Cullen, the serial killer known as \u201cthe Angel of Death,\u201d implicated in the deaths of as many as 300 patients in a string of hospitals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780446505291.jpg",
+			"name": "THE GOOD NURSE",
+			"publisher": "Twelve",
+			"rank": 12
+		},
+		{
+			"author": "by Eric Schmidt and Jared Cohen",
+			"description": "The promise and peril of the continuing information and technology revolution.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307961105.jpg",
+			"name": "THE NEW DIGITAL AGE",
+			"publisher": "Knopf",
+			"rank": 13
+		},
+		{
+			"author": "by Alison Weir",
+			"description": "An account of the powerful English king and his court.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307415479.jpg",
+			"name": "HENRY VIII",
+			"publisher": "Ballantine",
+			"rank": 14
+		},
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "The host of \u201cThe O\u2019Reilly Factor\u201d recounts the assassination of John F. Kennedy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780805096668.jpg",
+			"name": "KILLING KENNEDY",
+			"publisher": "Holt",
+			"rank": 15
+		}
+	]
+}

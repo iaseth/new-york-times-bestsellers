@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Delia Owens",
+			"description": "In a quiet town on the North Carolina coast in 1969, a young woman who survived alone in the marsh becomes a murder suspect.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735219090.jpg",
+			"name": "WHERE THE CRAWDADS SING",
+			"publisher": "Putnam",
+			"rank": 1
+		},
+		{
+			"author": "by J.R. Ward",
+			"description": "The 17th book in the Black Dagger Brotherhood series. Secrets about inhumane experiments surface at a biomedical firm.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501194962.jpg",
+			"name": "THE SAVIOR",
+			"publisher": "Gallery",
+			"rank": 2
+		},
+		{
+			"author": "by Amor Towles",
+			"description": "A Russian count undergoes 30 years of house arrest in the Metropol hotel, across from the Kremlin.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780670026197.jpg",
+			"name": "A GENTLEMAN IN MOSCOW",
+			"publisher": "Penguin",
+			"rank": 3
+		},
+		{
+			"author": "by Bobby Hall",
+			"description": "A depressed young man\u2019s secrets are exposed when the grocery store where he works becomes a crime scene.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982127138.jpg",
+			"name": "SUPERMARKET",
+			"publisher": "Simon & Schuster",
+			"rank": 4
+		},
+		{
+			"author": "by James Patterson and Brendan DuBois",
+			"description": "An Army intelligence officer must commit a crime or lose her kidnapped husband and daughter.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316485555.jpg",
+			"name": "THE CORNWALLS ARE GONE",
+			"publisher": "Little, Brown",
+			"rank": 5
+		},
+		{
+			"author": "by Heather Morris",
+			"description": "A concentration camp detainee tasked with permanently marking fellow prisoners falls in love with one of them.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062797155.jpg",
+			"name": "THE TATTOOIST OF AUSCHWITZ",
+			"publisher": "Harper",
+			"rank": 6
+		},
+		{
+			"author": "by A.J. Finn",
+			"description": "A recluse who drinks heavily and takes prescription drugs may have witnessed a crime across from her Harlem townhouse.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062678416.jpg",
+			"name": "THE WOMAN IN THE WINDOW",
+			"publisher": "Morrow",
+			"rank": 7
+		},
+		{
+			"author": "by Harlan Coben",
+			"description": "A family is torn apart when the daughter becomes addicted to drugs and goes missing.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538748466.jpg",
+			"name": "RUN AWAY",
+			"publisher": "Grand Central",
+			"rank": 8
+		},
+		{
+			"author": "by James Patterson and Brendan DuBois",
+			"description": "Sally Grissom investigates the disappearance of President Harrison Tucker\u2019s wife.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538714928.jpg",
+			"name": "THE FIRST LADY",
+			"publisher": "Grand Central",
+			"rank": 9
+		},
+		{
+			"author": "by Clive Cussler and Dirk Cussler",
+			"description": "The 25th book in the Dirk Pitt series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735219007.jpg",
+			"name": "CELTIC EMPIRE",
+			"publisher": "Putnam",
+			"rank": 10
+		},
+		{
+			"author": "by Alex Michaelides",
+			"description": "Theo Faber looks into the mystery of a famous painter who stops speaking after shooting her husband.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250301697.jpg",
+			"name": "THE SILENT PATIENT",
+			"publisher": "Celadon",
+			"rank": 11
+		},
+		{
+			"author": "by Pam Jenoff",
+			"description": "Grace Healey investigates the fates of 12 women who were sent to occupied Europe to help the resistance during World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780778330271.jpg",
+			"name": "THE LOST GIRLS OF PARIS",
+			"publisher": "Park Row",
+			"rank": 12
+		},
+		{
+			"author": "by J.A. Jance",
+			"description": "The 14th book in the Ali Reynolds Series. An imprisoned fertility doctor seeks revenge.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501151033.jpg",
+			"name": "THE A LIST",
+			"publisher": "Gallery",
+			"rank": 13
+		},
+		{
+			"author": "by Gail Honeyman",
+			"description": "A young woman\u2019s well-ordered life is disrupted by the I.T. guy from her office.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735220690.jpg",
+			"name": "ELEANOR OLIPHANT IS COMPLETELY FINE",
+			"publisher": "Penguin",
+			"rank": 14
+		},
+		{
+			"author": "by Greg Iles",
+			"description": "The journalist Marshall McEwan returns to his hometown, which is shaken by two deaths and an economy on the brink.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062824639.jpg",
+			"name": "CEMETERY ROAD",
+			"publisher": "Morrow",
+			"rank": 15
+		}
+	]
+}

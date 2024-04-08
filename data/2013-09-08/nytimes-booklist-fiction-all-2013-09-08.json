@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Robert Galbraith",
+			"description": "The struggling detective Cormoran Strike investigates a supermodel\u2019s suicide; by J.K. Rowling, writing pseudonymously.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316206860.jpg",
+			"name": "THE CUCKOO'S CALLING",
+			"publisher": "Mulholland/Little, Brown",
+			"rank": 1
+		},
+		{
+			"author": "by Liane Moriarty",
+			"description": "A woman\u2019s life is upended when she discovers a letter from her husband she was not meant to read.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101636237.jpg",
+			"name": "THE HUSBAND'S SECRET",
+			"publisher": "Amy Einhorn/Putnam",
+			"rank": 2
+		},
+		{
+			"author": "by Elisabeth Naughton and others",
+			"description": "Six stories of first loves and first times.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780988986220.jpg",
+			"name": "WICKED FIRSTS",
+			"publisher": "Indie Six",
+			"rank": 3
+		},
+		{
+			"author": "by James Patterson and David Ellis",
+			"description": "When he begins to investigate a friend\u2019s mysterious death, a man discovers she was leading a double life.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316211079.jpg",
+			"name": "MISTRESS",
+			"publisher": "Little, Brown",
+			"rank": 4
+		},
+		{
+			"author": "by Lee Child",
+			"description": "With New York City blacked out, a 16-year-old Jack Reacher helps a woman with a problem; a Jack Reacher novella.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345546647.jpg",
+			"name": "HIGH HEAT",
+			"publisher": "Delacorte",
+			"rank": 5
+		},
+		{
+			"author": "by A. S. A. Harrison",
+			"description": "A chilling portrait of a marriage gone terribly awry is presented in alternating voices.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101608067.jpg",
+			"name": "THE SILENT WIFE",
+			"publisher": "Penguin",
+			"rank": 6
+		},
+		{
+			"author": "by Dan Brown",
+			"description": "The symbologist Robert Langdon, on the run in Florence, must decipher a series of codes created by a Dante-loving scientist.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400079155.jpg",
+			"name": "INFERNO",
+			"publisher": "Doubleday",
+			"rank": 7
+		},
+		{
+			"author": "by Marisha Pessl",
+			"description": "Investigators pursue a master horror film auteur after his daughter is found dead.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400067886.jpg",
+			"name": "NIGHT FILM",
+			"publisher": "Random House",
+			"rank": 8
+		},
+		{
+			"author": "by Samantha Shannon",
+			"description": "A young clairvoyant discovers her powers in a dystopian England in 2059; the first pick of the \u201cToday\u201d show book club.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781620401408.jpg",
+			"name": "THE BONE SEASON",
+			"publisher": "Bloomsbury",
+			"rank": 9
+		},
+		{
+			"author": "by Maya Cross",
+			"description": "The conclusion of the Alpha Group trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/2940148592525.jpg",
+			"name": "UNLOCKED",
+			"publisher": "Maya Cross",
+			"rank": 10
+		},
+		{
+			"author": "by Terry Goodkind",
+			"description": "A sequel to \u201cThe Omen Machine.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781466826274.jpg",
+			"name": "THE THIRD KINGDOM",
+			"publisher": "Tor/Tom Doherty",
+			"rank": 11
+		},
+		{
+			"author": "by Khaled Hosseini",
+			"description": "A multigenerational family saga centers on a brother and sister born in Afghanistan; by the author of \"The Kite Runner.\"",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594632389.jpg",
+			"name": "AND THE MOUNTAINS ECHOED",
+			"publisher": "Riverhead",
+			"rank": 12
+		},
+		{
+			"author": "by Gillian Flynn",
+			"description": "A woman disappears on the day of her fifth anniversary; is her husband a killer?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307588388.jpg",
+			"name": "GONE GIRL",
+			"publisher": "Crown",
+			"rank": 13
+		},
+		{
+			"author": "by Orson Scott Card",
+			"description": "Government agencies breed child geniuses and train them as soldiers. Originally published in 1985.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812550702.jpg",
+			"name": "ENDER'S GAME",
+			"publisher": "Tor/Tom Doherty",
+			"rank": 14
+		},
+		{
+			"author": "by Lene Kaaberbol",
+			"description": "A nurse makes a shocking discovery: a naked and drugged boy hidden in a locker at the Copenhagen train station.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781569479827.jpg",
+			"name": "THE BOY IN THE SUITCASE",
+			"publisher": "Soho Press",
+			"rank": 15
+		}
+	]
+}

@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Laura Hillenbrand",
+			"description": "An Olympic runner\u2019s story of survival as a prisoner of the Japanese in World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400064168.jpg",
+			"name": "UNBROKEN",
+			"publisher": "Random House",
+			"rank": 1
+		},
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "The host of \u201cThe O\u2019Reilly Factor\u201d recounts the strange death of Gen. George S. Patton in December 1945.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780805096699.jpg",
+			"name": "KILLING PATTON",
+			"publisher": "Holt",
+			"rank": 2
+		},
+		{
+			"author": "by George W. Bush",
+			"description": "The 43rd president\u2019s portrait of his father, George H.\u2009W. Bush, the 41st.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780553447798.jpg",
+			"name": "41",
+			"publisher": "Crown",
+			"rank": 3
+		},
+		{
+			"author": "by Amy Poehler",
+			"description": "A humorous miscellany from the comedian and actress, the \u201cSaturday Night Live\u201d alumna and star of \u201cParks and Recreation.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062268341.jpg",
+			"name": "YES PLEASE",
+			"publisher": "Dey Street/Morrow",
+			"rank": 4
+		},
+		{
+			"author": "by Cheryl Strayed",
+			"description": "A woman\u2019s account of a life-changing 1,100-mile hike along the Pacific Crest Trail during the summer of 1995.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307476074.jpg",
+			"name": "WILD",
+			"publisher": "Knopf",
+			"rank": 5
+		},
+		{
+			"author": "by Daniel James Brown",
+			"description": "The University of Washington\u2019s eight-oar crew and their quest for gold at the 1936 Berlin Olympics.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101622742.jpg",
+			"name": "THE BOYS IN THE BOAT",
+			"publisher": "Viking",
+			"rank": 6
+		},
+		{
+			"author": "by Andy Cohen",
+			"description": "One year in the (social) life of the TV producer and host of \u201cWatch What Happens Live.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781627792295.jpg",
+			"name": "THE ANDY COHEN DIARIES",
+			"publisher": "Holt",
+			"rank": 7
+		},
+		{
+			"author": "by Randall Munroe",
+			"description": "Scientific (but often humorous) answers to hypothetical questions, based in part on the author\u2019s website, xkcd.com.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780544272644.jpg",
+			"name": "WHAT IF?",
+			"publisher": "Houghton Mifflin Harcourt",
+			"rank": 8
+		},
+		{
+			"author": "by Ann Rule",
+			"description": "Volume 17 of the Crime Files true-crime series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451648317.jpg",
+			"name": "LYING IN WAIT",
+			"publisher": "Pocket Books",
+			"rank": 9
+		},
+		{
+			"author": "by Al Michaels with L. Jon Wertheim",
+			"description": "The veteran sportscaster, the voice of \u201cSunday Night Football,\u201d recalls players and games he has observed.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062314987.jpg",
+			"name": "YOU CAN'T MAKE THIS UP",
+			"publisher": "Morrow/HarperCollins",
+			"rank": 10
+		},
+		{
+			"author": "by Lena Dunham",
+			"description": "A collection of revealing and often humorous personal essays from the creator and star of \u201cGirls.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812995008.jpg",
+			"name": "NOT THAT KIND OF GIRL",
+			"publisher": "Random House",
+			"rank": 11
+		},
+		{
+			"author": "by Atul Gawande",
+			"description": "The surgeon and New Yorker writer considers how doctors fail patients at the end of life, and how they can do better.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780805095159.jpg",
+			"name": "BEING MORTAL",
+			"publisher": "Metropolitan/Holt",
+			"rank": 12
+		},
+		{
+			"author": "by Brandon Stanton",
+			"description": "Four hundred color photos of New Yorkers, with brief commentary by Stanton.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250038821.jpg",
+			"name": "HUMANS OF NEW YORK",
+			"publisher": "St. Martin's",
+			"rank": 13
+		},
+		{
+			"author": "by Chris Kyle with Scott McEwen and Jim DeFelice",
+			"description": "A former member of the Navy SEALs discusses his battlefield experiences during the Iraq war. Kyle was shot to death in Texas in 2013.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062082374.jpg",
+			"name": "AMERICAN SNIPER",
+			"publisher": "Morrow/HarperCollins",
+			"rank": 14
+		},
+		{
+			"author": "by Edmund Morris",
+			"description": "The first volume of a biography of the 26th president, covering the years 1858 to 1901; a version of a volume first published in 1979.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307777829.jpg",
+			"name": "THE RISE OF THEODORE ROOSEVELT",
+			"publisher": "Modern Library",
+			"rank": 15
+		}
+	]
+}

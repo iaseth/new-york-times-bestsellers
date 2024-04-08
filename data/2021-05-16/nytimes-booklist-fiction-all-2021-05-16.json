@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by John Grisham",
+			"description": "Samuel Sooleymon receives a basketball scholarship to North Carolina Central and determines to bring his family over from a civil war-ravaged South Sudan.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385547680.jpg",
+			"name": "SOOLEY",
+			"publisher": "Doubleday",
+			"rank": 1
+		},
+		{
+			"author": "by Danielle Steel",
+			"description": "Two estranged sisters, one a former best-selling author, the other a nun, reconnect as one searches for the child the other gave up.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984821461.jpg",
+			"name": "FINDING ASHLEY",
+			"publisher": "Delacorte",
+			"rank": 2
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "Aloysius Archer, a World War II veteran, seeks to apprentice with Willie Dash, a private eye, in a corrupt California town.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538719671.jpg",
+			"name": "A GAMBLING MAN",
+			"publisher": "Grand Central",
+			"rank": 3
+		},
+		{
+			"author": "by Martha Wells",
+			"description": "The sixth book in the Murderbot Diaries series. When a dead body turns up on Preservation Station, Murderbot must speak to humans.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250765376.jpg",
+			"name": "FUGITIVE TELEMETRY",
+			"publisher": "Tor.com",
+			"rank": 4
+		},
+		{
+			"author": "by Amanda Gorman",
+			"description": "The poem read on President Joe Biden's Inauguration Day, by the youngest poet to write and perform an inaugural poem.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593465271.jpg",
+			"name": "THE HILL WE CLIMB",
+			"publisher": "Viking",
+			"rank": 5
+		},
+		{
+			"author": "by Kristin Hannah",
+			"description": "As dust storms roll during the Great Depression, Elsa must choose between saving the family and farm or heading West.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250178602.jpg",
+			"name": "THE FOUR WINDS",
+			"publisher": "St. Martin's",
+			"rank": 6
+		},
+		{
+			"author": "by Delia Owens",
+			"description": "In a quiet town on the North Carolina coast in 1969, a young woman who survived alone in the marsh becomes a murder suspect.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735219090.jpg",
+			"name": "WHERE THE CRAWDADS SING",
+			"publisher": "Putnam",
+			"rank": 7
+		},
+		{
+			"author": "by John Sandford",
+			"description": "The 31st book in the Prey series. When federal officers are killed, Lucas Davenport and Virgil Flowers team up to investigate matters.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593087022.jpg",
+			"name": "OCEAN PREY",
+			"publisher": "Putnam",
+			"rank": 8
+		},
+		{
+			"author": "by Matt Haig",
+			"description": "Nora Seed finds a library beyond the edge of the universe that contains books with multiple possibilities of the lives one could have lived.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525559474.jpg",
+			"name": "THE MIDNIGHT LIBRARY",
+			"publisher": "Viking",
+			"rank": 9
+		},
+		{
+			"author": "by Lee Child and Andrew Child",
+			"description": "Jack Reacher intervenes on an ambush in Tennessee and uncovers a conspiracy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984818461.jpg",
+			"name": "THE SENTINEL",
+			"publisher": "Dell",
+			"rank": 10
+		},
+		{
+			"author": "by Karen Kingsbury",
+			"description": "A secret agent with the F.B.I. and a young woman betrothed by her father to a drug lord pretend to be in love for a mission.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982104351.jpg",
+			"name": "A DISTANT SHORE",
+			"publisher": "Atria",
+			"rank": 11
+		},
+		{
+			"author": "by Lynsay Sands",
+			"description": "The 32nd book in the Argeneau series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062956392.jpg",
+			"name": "MEANT TO BE IMMORTAL",
+			"publisher": "Avon",
+			"rank": 12
+		},
+		{
+			"author": "by Timothy Zahn",
+			"description": "In this Star Wars saga, Thrawn and the Expansionary Defense Fleet discover how their enemy truly operates.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593158296.jpg",
+			"name": "THRAWN ASCENDANCY: GREATER GOOD",
+			"publisher": "Del Rey",
+			"rank": 13
+		},
+		{
+			"author": "by Jhumpa Lahiri",
+			"description": "A woman who feels lost in life finds solace in the city she calls home and gets a new outlook while visiting the sea.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593318317.jpg",
+			"name": "WHEREABOUTS",
+			"publisher": "Knopf",
+			"rank": 14
+		},
+		{
+			"author": "by Madeline Miller",
+			"description": "A reimagining of Homer\u2019s \u201cIliad\u201d that is narrated by Achilles' companion Patroclus.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062060624.jpg",
+			"name": "THE SONG OF ACHILLES",
+			"publisher": "Ecco",
+			"rank": 15
+		}
+	]
+}

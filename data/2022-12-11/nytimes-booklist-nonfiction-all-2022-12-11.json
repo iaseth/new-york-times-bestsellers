@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Michelle Obama",
+			"description": "The former first lady shares personal stories and the tools she uses to deal with difficult situations.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593237465.jpg",
+			"name": "THE LIGHT WE CARRY",
+			"publisher": "Crown",
+			"rank": 1
+		},
+		{
+			"author": "by Matthew Perry",
+			"description": "The actor, known for playing Chandler Bing on \u201cFriends,\u201d shares stories from his childhood and his struggles with sobriety.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250866448.jpg",
+			"name": "FRIENDS, LOVERS, AND THE BIG TERRIBLE THING",
+			"publisher": "Flatiron",
+			"rank": 2
+		},
+		{
+			"author": "by Jennette McCurdy",
+			"description": "The actress and filmmaker describes her eating disorders and difficult relationship with her mother.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982185824.jpg",
+			"name": "I'M GLAD MY MOM DIED",
+			"publisher": "Simon & Schuster",
+			"rank": 3
+		},
+		{
+			"author": "by Mike Pence",
+			"description": "The former vice president gives an account of his career, including his time in the Oval Office and during the Jan. 6 insurrection.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982190330.jpg",
+			"name": "SO HELP ME GOD",
+			"publisher": "Simon & Schuster",
+			"rank": 4
+		},
+		{
+			"author": "by Bessel van der Kolk",
+			"description": "How trauma affects the body and mind, and innovative treatments for recovery.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780670785933.jpg",
+			"name": "THE BODY KEEPS THE SCORE",
+			"publisher": "Penguin",
+			"rank": 5
+		},
+		{
+			"author": "by Bono",
+			"description": "The lead singer of the Irish rock band U2 offers details of his life, career and activism.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525521044.jpg",
+			"name": "SURRENDER",
+			"publisher": "Knopf",
+			"rank": 6
+		},
+		{
+			"author": "by Jerry Seinfeld",
+			"description": "Behind-the-scenes photos and stories of the streaming series about the art of comedy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982112769.jpg",
+			"name": "THE COMEDIANS IN CARS GETTING COFFEE BOOK",
+			"publisher": "Simon & Schuster",
+			"rank": 7
+		},
+		{
+			"author": "by Jon Meacham",
+			"description": "The Pulitzer Prize-winning biographer portrays the life of Abraham Lincoln.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780553393965.jpg",
+			"name": "AND THERE WAS LIGHT",
+			"publisher": "Random House",
+			"rank": 8
+		},
+		{
+			"author": "by Siddhartha Mukherjee",
+			"description": "The Pulitzer Prize-winning author chronicles the discovery of cells and describes how modern medicine uses them.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982117351.jpg",
+			"name": "THE SONG OF THE CELL",
+			"publisher": "Scribner",
+			"rank": 9
+		},
+		{
+			"author": "by Stacy Schiff",
+			"description": "The Pulitzer Prize-winning biographer details Samuel Adams\u2019s contributions to the American Revolution.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316441117.jpg",
+			"name": "THE REVOLUTIONARY",
+			"publisher": "Little, Brown",
+			"rank": 10
+		},
+		{
+			"author": "by Quentin Tarantino",
+			"description": "The filmmaker shares his love of cinema with special attention given to key American films of the 1970s.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063112582.jpg",
+			"name": "CINEMA SPECULATION",
+			"publisher": "Harper",
+			"rank": 11
+		},
+		{
+			"author": "by Andrew Morton",
+			"description": "A biography of Queen Elizabeth II, which explores her influence on Britain and the rest of the world.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538700433.jpg",
+			"name": "THE QUEEN",
+			"publisher": "Grand Central",
+			"rank": 12
+		},
+		{
+			"author": "by Benjamin Netanyahu",
+			"description": "An autobiography by the former prime minister of Israel.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781668008447.jpg",
+			"name": "BIBI",
+			"publisher": "Threshold Editions",
+			"rank": 13
+		},
+		{
+			"author": "by Bob Dylan",
+			"description": "In a collection of more than 60 essays, the musician and winner of the Nobel Prize in Literature explores the nature of popular music.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451648706.jpg",
+			"name": "THE PHILOSOPHY OF MODERN SONG",
+			"publisher": "Simon & Schuster",
+			"rank": 14
+		},
+		{
+			"author": "by Randall Munroe",
+			"description": "The creator of the web comic \u201cxkcd\u201d and former NASA roboticist looks into hypothetical and oddball scenarios.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525537113.jpg",
+			"name": "WHAT IF? 2",
+			"publisher": "Riverhead",
+			"rank": 15
+		}
+	]
+}

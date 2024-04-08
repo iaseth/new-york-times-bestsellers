@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "The host of \"The O'Reilly Factor\" recounts the events leading up to Jesus' execution.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780805098549.jpg",
+			"name": "KILLING JESUS",
+			"publisher": "Holt",
+			"rank": 1
+		},
+		{
+			"author": "by Charles Krauthammer",
+			"description": "Three decades\u2019 worth of essays from the conservative columnist.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385349178.jpg",
+			"name": "THINGS THAT MATTER",
+			"publisher": "Crown Forum",
+			"rank": 2
+		},
+		{
+			"author": "by Malcolm Gladwell",
+			"description": "How disadvantages can work in our favor; from the author of \"The Tipping Point\" and \"Outliers.\"",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316204361.jpg",
+			"name": "DAVID AND GOLIATH",
+			"publisher": "Little, Brown",
+			"rank": 3
+		},
+		{
+			"author": "by Malala Yousafzai with Christina Lamb",
+			"description": "The experience of the Pakistani girl who advocated for women\u2019s education and was shot by the Taliban.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316322409.jpg",
+			"name": "I AM MALALA",
+			"publisher": "Little, Brown",
+			"rank": 4
+		},
+		{
+			"author": "by Henry Bushkin",
+			"description": "A recollection by Carson\u2019s lawyer and confidant for 18 years.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780544217737.jpg",
+			"name": "JOHNNY CARSON",
+			"publisher": "Eamon Dolan/Houghton Mifflin Harcourt",
+			"rank": 5
+		},
+		{
+			"author": "by Solomon Northup",
+			"description": "The narrative, first published in 1853, of a freeman who was sold into slavery and spent 12 years in bondage before escaping.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781443433099.jpg",
+			"name": "TWELVE YEARS A SLAVE",
+			"publisher": "Various publishers",
+			"rank": 6
+		},
+		{
+			"author": "by Howard G. Buffett and Howard W. Buffett",
+			"description": "What Warren Buffett\u2019s son and grandson have learned in their efforts to feed the hungry.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451687866.jpg",
+			"name": "40 CHANCES",
+			"publisher": "Simon & Schuster",
+			"rank": 7
+		},
+		{
+			"author": "by Elizabeth Smart with Chris Stewart",
+			"description": "A woman kidnapped from her Utah home in 2002 at age 14 describes her captivity and rescue.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781466835405.jpg",
+			"name": "MY STORY",
+			"publisher": "St. Martin's",
+			"rank": 8
+		},
+		{
+			"author": "by Naoki Higashida",
+			"description": "A 13-year-old boy with autism answers questions.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812994865.jpg",
+			"name": "THE REASON I JUMP",
+			"publisher": "Random House",
+			"rank": 9
+		},
+		{
+			"author": "by Peter Schweizer",
+			"description": "A Hoover Institution fellow argues that politicians shape legislation in order to extract donations.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780544103306.jpg",
+			"name": "EXTORTION",
+			"publisher": "Houghton Mifflin Harcourt",
+			"rank": 10
+		},
+		{
+			"author": "by Brad Meltzer with Keith Ferrell",
+			"description": "Ten historical mysteries, based on the History Channel show \u201cBrad Meltzer\u2019s Decoded.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780761177456.jpg",
+			"name": "HISTORY DECODED",
+			"publisher": "Workman",
+			"rank": 11
+		},
+		{
+			"author": "by Piper Kerman",
+			"description": "A memoir by a Brooklyn woman whose relationship with a drug runner gets her sentenced to a year in prison. The basis for the Netflix series, originally published in 2010.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385530262.jpg",
+			"name": "ORANGE IS THE NEW BLACK",
+			"publisher": "Spiegel & Grau",
+			"rank": 12
+		},
+		{
+			"author": "by Bill Bryson",
+			"description": "The author of \"A Short History of Nearly Everything\" describes the events of the summer of 1927: Charles Lindbergh\u2019s trans-Atlantic flight, Babe Ruth\u2019s 60 homers, the great Mississippi flood.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385537827.jpg",
+			"name": "ONE SUMMER",
+			"publisher": "Doubleday",
+			"rank": 13
+		},
+		{
+			"author": "by Sheryl Sandberg with Nell Scovell",
+			"description": "The chief operating officer of Facebook urges women to pursue their careers without ambivalence.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385349956.jpg",
+			"name": "LEAN IN",
+			"publisher": "Knopf",
+			"rank": 14
+		},
+		{
+			"author": "by Si Robertson with Mark Schlabach",
+			"description": "Tales from Phil\u2019s youngest brother, retired from the Army, who works in the Duck Commander workshop.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476745398.jpg",
+			"name": "SI-COLOGY 1",
+			"publisher": "Howard Books",
+			"rank": 15
+		}
+	]
+}

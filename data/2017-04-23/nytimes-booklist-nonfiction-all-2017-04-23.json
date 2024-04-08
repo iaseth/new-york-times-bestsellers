@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Bill O'Reilly and Bruce Feirstein",
+			"description": "A defense of \u201cold school\u201d traditional values versus \u201csnowflakes.\"",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250135797.jpg",
+			"name": "OLD SCHOOL",
+			"publisher": "Holt",
+			"rank": 1
+		},
+		{
+			"author": "by Diane Ackerman",
+			"description": "How a Warsaw couple sheltered Jews and members of the Resistance during World War II. Originally published in 2007; now the basis of a movie,",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780393333060.jpg",
+			"name": "THE ZOOKEEPER\u2019S WIFE",
+			"publisher": "Norton",
+			"rank": 2
+		},
+		{
+			"author": "by Anne Lamott",
+			"description": "The importance of mercy in our lives.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735213586.jpg",
+			"name": "HALLELUJAH ANYWAY",
+			"publisher": "Riverhead",
+			"rank": 3
+		},
+		{
+			"author": "by J.D. Vance",
+			"description": "A Yale Law School graduate looks at the struggles of the white working class through the story of his own childhood.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062300560.jpg",
+			"name": "HILLBILLY ELEGY",
+			"publisher": "HarperCollins",
+			"rank": 4
+		},
+		{
+			"author": "by Mayte Garcia",
+			"description": "A reminiscence by Prince\u2019s first wife.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316468978.jpg",
+			"name": "THE MOST BEAUTIFUL",
+			"publisher": "Hachette Bools",
+			"rank": 5
+		},
+		{
+			"author": "by Margot Lee Shetterly",
+			"description": "The story of the black women mathematicians at then-segregated NASA and its precursor. The basis of the movie.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062363619.jpg",
+			"name": "HIDDEN FIGURES",
+			"publisher": "Morrow/HarperCollins",
+			"rank": 6
+		},
+		{
+			"author": "by Timothy Snyder",
+			"description": "Twenty lessons from the 20th century about the course of tyranny.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780804190114.jpg",
+			"name": "ON TYRANNY",
+			"publisher": "Tim Duggan",
+			"rank": 7
+		},
+		{
+			"author": "by Sally Bedell Smith",
+			"description": "A life of the heir to the British throne, by the author of biographies of Queen Elizabeth II and Diana, Princess of Wales.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400067909.jpg",
+			"name": "PRINCE CHARLES",
+			"publisher": "Random House",
+			"rank": 8
+		},
+		{
+			"author": "by Alec Baldwin",
+			"description": "A memoir by the actor.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062409706.jpg",
+			"name": "NEVERTHELESS",
+			"publisher": "Harper/HarperCollins",
+			"rank": 9
+		},
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "The host of \u201cThe O\u2019Reilly Factor\u201d recounts the final years of World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781627790635.jpg",
+			"name": "KILLING THE RISING SUN",
+			"publisher": "Holt",
+			"rank": 10
+		},
+		{
+			"author": "by Paul Kalanithi",
+			"description": "A memoir by a physician who received a diagnosis of Stage IV lung cancer at the age of 36.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812988413.jpg",
+			"name": "WHEN BREATH BECOMES AIR",
+			"publisher": "Random House",
+			"rank": 11
+		},
+		{
+			"author": "by Chipper Jones with Carroll Rogers Walton",
+			"description": "Recollections of a 19-year career with the Atlanta Braves by the eight-time All-Star switch hitter.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101984406.jpg",
+			"name": "BALLPLAYER",
+			"publisher": "Dutton",
+			"rank": 12
+		},
+		{
+			"author": "by David Horowitz",
+			"description": "A battle plan for the Trump White House.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781630060879.jpg",
+			"name": "BIG AGENDA",
+			"publisher": "Humanix",
+			"rank": 13
+		},
+		{
+			"author": "by Yuval Noah Harari",
+			"description": "How Homo sapiens became Earth\u2019s dominant species.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062316097.jpg",
+			"name": "SAPIENS",
+			"publisher": "Harper",
+			"rank": 14
+		},
+		{
+			"author": "by Chip Gaines and Joanna Gaines with Mark Dagostino",
+			"description": "The couple who star in the HGTV show \u201cFixer Upper.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780718081539.jpg",
+			"name": "THE MAGNOLIA STORY",
+			"publisher": "W Publishing/Thomas Nelson",
+			"rank": 15
+		}
+	]
+}

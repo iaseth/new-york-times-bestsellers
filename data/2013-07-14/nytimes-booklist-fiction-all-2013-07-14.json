@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by James Patterson and Howard Roughan",
+			"description": "As he investigates the murder of a pair of newlyweds, the F.B.I. agent John O\u2019Hara, last seen in \u201cHoneymoon\u201d (2005), is targeted by a serial killer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455515967.jpg",
+			"name": "SECOND HONEYMOON",
+			"publisher": "Little, Brown",
+			"rank": 1
+		},
+		{
+			"author": "by H. M. Ward",
+			"description": "Sidney wants to set things right with her family, but she doesn\u2019t realize she\u2019s dragging Peter into a collision course with his past.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780985547349.jpg",
+			"name": "DAMAGED 2",
+			"publisher": "Laree Bailey",
+			"rank": 2
+		},
+		{
+			"author": "by Dan Brown",
+			"description": "The symbologist Robert Langdon, on the run in Florence, must decipher a series of codes created by a Dante-loving scientist.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400079155.jpg",
+			"name": "INFERNO",
+			"publisher": "Doubleday",
+			"rank": 3
+		},
+		{
+			"author": "by Robyn Carr",
+			"description": "Mac McCain, a single father and Thunder Point\u2019s deputy sheriff, has finally found happiness with a longtime friend. But his life is thrown into chaos when his ex-wife returns.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781460315064.jpg",
+			"name": "THE NEWCOMER",
+			"publisher": "Harlequin Mira",
+			"rank": 4
+		},
+		{
+			"author": "by Khaled Hosseini",
+			"description": "A multigenerational family saga centers on a brother and sister born in Afghanistan.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594632389.jpg",
+			"name": "AND THE MOUNTAINS ECHOED",
+			"publisher": "Riverhead",
+			"rank": 5
+		},
+		{
+			"author": "by Elin Hilderbrand",
+			"description": "Various sorts of disaster threaten a Nantucket wedding.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316227186.jpg",
+			"name": "BEAUTIFUL DAY",
+			"publisher": "Reagan Arthur/Little, Brown",
+			"rank": 6
+		},
+		{
+			"author": "by Max Brooks",
+			"description": "An \u201coral history\u201d of an imagined Zombie War that nearly destroys civilization.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307351937.jpg",
+			"name": "WORLD WAR Z",
+			"publisher": "Broadway",
+			"rank": 7
+		},
+		{
+			"author": "by James Rollins",
+			"description": "As the end of the world looms, Cmdr. Gray Pierce and Sigma Force race to uncover an ancient mystery.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780061784804.jpg",
+			"name": "THE EYE OF GOD",
+			"publisher": "Morrow/HarperCollins",
+			"rank": 8
+		},
+		{
+			"author": "by Susan Mallery",
+			"description": "In Fool\u2019s Gold, Calif., two misfits \u2014 Felicia and the former military operative Gideon \u2014 discover that passion isn\u2019t the only thing they have in common.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780373777686.jpg",
+			"name": "TWO OF A KIND",
+			"publisher": "Harlequin",
+			"rank": 9
+		},
+		{
+			"author": "by Sylvia Day",
+			"description": "Eva and Gideon face the demons of their pasts and accept the consequences of their obsessive desires; a Crossfire novel.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780425263921.jpg",
+			"name": "ENTWINED WITH YOU",
+			"publisher": "Berkley",
+			"rank": 10
+		},
+		{
+			"author": "by Neil Gaiman",
+			"description": "A middle-aged man recalls his lonely boyhood and his friendship with a remarkable girl.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062255662.jpg",
+			"name": "THE OCEAN AT THE END OF THE LANE",
+			"publisher": "Morrow/HarperCollins",
+			"rank": 11
+		},
+		{
+			"author": "by Maya Banks",
+			"description": "Steele, a team leader in an elite task force, is determined not to allow Maren past his icy exterior. But when she\u2019s in danger, there\u2019s no way he\u2019ll allow anyone else to protect her.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780425263389.jpg",
+			"name": "FORGED IN STEELE",
+			"publisher": "Berkley",
+			"rank": 12
+		},
+		{
+			"author": "by J.C. Reed",
+			"description": "Brooke Stewart, a New Yorker who avoids relationships, embarks on an affair with Jeff Mayfield, a millionaire playboy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/A00B00BTJQZNC.jpg",
+			"name": "SURRENDER YOUR LOVE",
+			"publisher": "J.C. Reed",
+			"rank": 13
+		},
+		{
+			"author": "by Carl Hiaasen",
+			"description": "A defrocked Miami cop turned restaurant inspector investigates a grisly murder.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780446556149.jpg",
+			"name": "BAD MONKEY",
+			"publisher": "Knopf",
+			"rank": 14
+		},
+		{
+			"author": "by Sandra Brown",
+			"description": "A public defender who seems happy in her work and her marriage is plunged into a morass of bigotry and hate.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455546442.jpg",
+			"name": "THE WITNESS",
+			"publisher": "Grand Central",
+			"rank": 15
+		}
+	]
+}

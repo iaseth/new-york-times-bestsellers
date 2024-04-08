@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by David Baldacci",
+			"description": "As the government hit man Will Robie and his partner, Jessica Reel, prepare for a mission, they face a new adversary.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455521234.jpg",
+			"name": "THE TARGET",
+			"publisher": "Grand Central",
+			"rank": 1
+		},
+		{
+			"author": "by Greg Iles",
+			"description": "Penn Cage, a former prosecutor in Natchez, Miss., delves into the secrets of his father, a doctor who has been accused of murdering an African-American nurse.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062311078.jpg",
+			"name": "NATCHEZ BURNING",
+			"publisher": "Morrow/HarperCollins",
+			"rank": 2
+		},
+		{
+			"author": "by Donna Tartt",
+			"description": "A painting smuggled out of the Metropolitan Museum of Art after a bombing becomes a boy\u2019s prize, guilt and burden.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316248679.jpg",
+			"name": "THE GOLDFINCH",
+			"publisher": "Little, Brown",
+			"rank": 3
+		},
+		{
+			"author": "by Gillian Flynn",
+			"description": "A woman disappears on the day of her fifth anniversary; is her husband a killer?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307588388.jpg",
+			"name": "GONE GIRL",
+			"publisher": "Crown",
+			"rank": 4
+		},
+		{
+			"author": "by Nora Roberts",
+			"description": "A freelance writer who may have witnessed a murder-suicide joins the dead man\u2019s brother to learn what happened.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101617281.jpg",
+			"name": "THE COLLECTOR",
+			"publisher": "Putnam",
+			"rank": 5
+		},
+		{
+			"author": "by Susan Mallery",
+			"description": "In Fool\u2019s Gold, Calif., Angel Whittaker, a bodyguard trainer, meets his match in Taryn Crawford, a tough-talking public relations executive.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781460331187.jpg",
+			"name": "WHEN WE MET",
+			"publisher": "Harlequin",
+			"rank": 6
+		},
+		{
+			"author": "by Jasinda Wilder",
+			"description": "A desperate woman learns that her mysterious benefactor demands something in return.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/A00B00IRGU5OU.jpg",
+			"name": "ALPHA",
+			"publisher": "Jasinda Wilder",
+			"rank": 7
+		},
+		{
+			"author": "by Iris Johansen",
+			"description": "The C.I.A. operative Catherine Ling must spearhead the rescue of an American journalist kidnapped in Tibet.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250020048.jpg",
+			"name": "LIVE TO SEE TOMORROW",
+			"publisher": "St. Martin's",
+			"rank": 8
+		},
+		{
+			"author": "by Jay Crownover",
+			"description": "Sparks fly between a nurse and a chastened bad boy; a Marked Men novel.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062333049.jpg",
+			"name": "NASH",
+			"publisher": "Morrow/HarperCollins",
+			"rank": 9
+		},
+		{
+			"author": "by Christina Baker Kline",
+			"description": "A historical novel about orphans swept off the streets of New York and sent to the Midwest in the 1920s.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062101204.jpg",
+			"name": "ORPHAN TRAIN",
+			"publisher": "Morrow/HarperCollins",
+			"rank": 10
+		},
+		{
+			"author": "by Gena Showalter",
+			"description": "An Angels of the Dark tale featuring the winged warrior Thane and Elin Vale, the rescued slave who becomes his obsession.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780373778447.jpg",
+			"name": "BURNING DAWN",
+			"publisher": "Harlequin",
+			"rank": 11
+		},
+		{
+			"author": "by Bella Andre, Barbara Freethy and others",
+			"description": "A collection of 14 contemporary romances.",
+			"imageSrc": "https://s1.nyt.com/du/books/images/default-image.png",
+			"name": "A SWEET LIFE",
+			"publisher": "Smashwords",
+			"rank": 12
+		},
+		{
+			"author": "by Liane Moriarty",
+			"description": "A woman\u2019s life is upended when she discovers a letter from her husband she was not meant to read.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101636237.jpg",
+			"name": "THE HUSBAND'S SECRET",
+			"publisher": "Amy Einhorn/Putnam",
+			"rank": 13
+		},
+		{
+			"author": "by Stephanie Laurens",
+			"description": "Violet Matcham and Montague \u2014 London\u2019s \u201cmost experienced man-of-business\u201d \u2014 race to expose a cunning and cold-blooded killer; a Casebook of Barnaby Adair novel.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062066299.jpg",
+			"name": "THE MASTERFUL MR. MONTAGUE",
+			"publisher": "Avon/HarperCollins",
+			"rank": 14
+		},
+		{
+			"author": "by James Patterson and Marshall Karp",
+			"description": "Zach Jordan and his partner are called when the body of a wealthy woman is discovered in Central Park.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316211239.jpg",
+			"name": "NYPD RED 2",
+			"publisher": "Little, Brown",
+			"rank": 15
+		}
+	]
+}

@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Colleen Hoover",
+			"description": "A battered wife raised in a violent home attempts to halt the cycle of abuse.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501110375.jpg",
+			"name": "IT ENDS WITH US",
+			"publisher": "Atria",
+			"rank": 1
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "The third book in the Archer series. Archer, Dash and Callahan search for a missing screenwriter who had a dead body turn up in her home.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538719770.jpg",
+			"name": "DREAM TOWN",
+			"publisher": "Grand Central",
+			"rank": 2
+		},
+		{
+			"author": "by Don Winslow",
+			"description": "Two rival crime families that control all of New England start a war against each other.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062851192.jpg",
+			"name": "CITY ON FIRE",
+			"publisher": "Morrow",
+			"rank": 3
+		},
+		{
+			"author": "by Delia Owens",
+			"description": "In a quiet town on the North Carolina coast in 1969, a young woman who survived alone in the marsh becomes a murder suspect.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735219090.jpg",
+			"name": "WHERE THE CRAWDADS SING",
+			"publisher": "Putnam",
+			"rank": 4
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "Lowen Ashleigh is hired by the husband of an injured writer to complete her popular series and uncovers a horrifying truth.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781791392796.jpg",
+			"name": "VERITY",
+			"publisher": "Grand Central",
+			"rank": 5
+		},
+		{
+			"author": "by Taylor Jenkins Reid",
+			"description": "A movie icon recounts stories of her loves and career to a struggling magazine writer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501161933.jpg",
+			"name": "THE SEVEN HUSBANDS OF EVELYN HUGO",
+			"publisher": "Washington Square/Atria",
+			"rank": 6
+		},
+		{
+			"author": "by Christine Feehan",
+			"description": "The seventh book in the Shadow Riders series. Elie Archambault decides to marry a woman he has never met.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593439128.jpg",
+			"name": "SHADOW FIRE",
+			"publisher": "Berkley",
+			"rank": 7
+		},
+		{
+			"author": "by Adriana Trigiani",
+			"description": "The matriarch of the Cabrelli family, who is near the end of her life, shares her mother\u2019s love story with her family.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593183328.jpg",
+			"name": "THE GOOD LEFT UNDONE",
+			"publisher": "Dutton",
+			"rank": 8
+		},
+		{
+			"author": "by Dolly Parton and James Patterson",
+			"description": "A singer-songwriter goes to Nashville seeking stardom but is followed by her dark past.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780759554344.jpg",
+			"name": "RUN, ROSE, RUN",
+			"publisher": "Little, Brown",
+			"rank": 9
+		},
+		{
+			"author": "by John Sandford",
+			"description": "Letty Davenport, the adopted daughter of Lucas Davenport, looks into oil thefts in Texas.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593328682.jpg",
+			"name": "THE INVESTIGATOR",
+			"publisher": "Putnam",
+			"rank": 10
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "Tate Collins and Miles Archer,\u00a0an airline pilot, think they can handle a no strings attached arrangement. But they can't.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476753195.jpg",
+			"name": "UGLY LOVE",
+			"publisher": "Atria",
+			"rank": 11
+		},
+		{
+			"author": "by Lee Child and Andrew Child",
+			"description": "The 26th book in the Jack Reacher series. Reacher helps an F.B.I. agent look for her missing brother and takes on a foe named Dendoncker.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984818508.jpg",
+			"name": "BETTER OFF DEAD",
+			"publisher": "Dell",
+			"rank": 12
+		},
+		{
+			"author": "by Emily St. John Mandel",
+			"description": "A detective investigating in the wilderness discovers that his actions might affect the timeline of the universe.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593321447.jpg",
+			"name": "SEA OF TRANQUILITY",
+			"publisher": "Knopf",
+			"rank": 13
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "Is Ben using his relationship with Fallon as fodder for his novel?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501110351.jpg",
+			"name": "NOVEMBER 9",
+			"publisher": "Atria",
+			"rank": 14
+		},
+		{
+			"author": "by Lucy Foley",
+			"description": "Jess has suspicions about her half-brother\u2019s neighbors when he goes missing.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063003057.jpg",
+			"name": "THE PARIS APARTMENT",
+			"publisher": "Morrow",
+			"rank": 15
+		}
+	]
+}

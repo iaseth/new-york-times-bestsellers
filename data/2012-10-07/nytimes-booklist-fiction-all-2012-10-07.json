@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Ken Follett",
+			"description": "n Book 2 of the Century trilogy, members of five interrelated families from five countries grapple with the tumultuous historical events of the years 1939-49.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101591437.jpg",
+			"name": "WINTER OF THE WORLD",
+			"publisher": "Penguin Group",
+			"rank": 1
+		},
+		{
+			"author": "by E. L. James",
+			"description": "An inexperienced college student falls in love with a tortured man who has particular sexual tastes; the first book in a trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345803481.jpg",
+			"name": "FIFTY SHADES OF GREY",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 2
+		},
+		{
+			"author": "by E. L. James",
+			"description": "Ana Steele learns more about Christian Grey\u2019s troubled past; the second book in a trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345803498.jpg",
+			"name": "FIFTY SHADES DARKER",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 3
+		},
+		{
+			"author": "by E. L. James",
+			"description": "The final book in an erotic trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781612130606.jpg",
+			"name": "FIFTY SHADES FREED",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 4
+		},
+		{
+			"author": "by Gillian Flynn",
+			"description": "A woman disappears on the day of her fifth anniversary; is her husband a killer?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307588388.jpg",
+			"name": "GONE GIRL",
+			"publisher": "Crown Publishing",
+			"rank": 5
+		},
+		{
+			"author": "by Lee Child",
+			"description": "A carload of people involved in a conspiracy pick up a disheveled hitchhiker, Child\u2019s vigilante hero Jack Reacher.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385344333.jpg",
+			"name": "A WANTED MAN",
+			"publisher": "Random House Publishing",
+			"rank": 6
+		},
+		{
+			"author": "by Sandra Brown",
+			"description": "A woman makes disturbing discoveries \u2014 and acquires a stalker \u2014 when she writes a book about her sister\u2019s murder.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455501533.jpg",
+			"name": "LOW PRESSURE",
+			"publisher": "Grand Central Publishing",
+			"rank": 7
+		},
+		{
+			"author": "by Stuart Woods",
+			"description": "Stone Barrington travels to Bel-Air for the opening of a luxury hotel, where terrorists have targeted the president.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101600535.jpg",
+			"name": "SEVERE CLEAR",
+			"publisher": "Penguin Group",
+			"rank": 8
+		},
+		{
+			"author": "by Mitch Albom",
+			"description": "A fable about the inventor of the world\u2019s first clock; from the author of \u201cTuesdays With Morrie.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781401322786.jpg",
+			"name": "THE TIME KEEPER",
+			"publisher": "Hyperion Press",
+			"rank": 9
+		},
+		{
+			"author": "by Sylvia Day",
+			"description": "Two troubled people develop an intense, obsessive relationship.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780425263907.jpg",
+			"name": "BARED TO YOU",
+			"publisher": "Penguin Group",
+			"rank": 10
+		},
+		{
+			"author": "by Ken Follett",
+			"description": "Five interrelated families from five countries are caught in the upheavals of World War I and the Russian Revolution.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780451232854.jpg",
+			"name": "FALL OF GIANTS",
+			"publisher": "Penguin Group",
+			"rank": 11
+		},
+		{
+			"author": "by James Patterson and Michael Ledwidge",
+			"description": "A young biologist warns world leaders about the reasons for escalating animal attacks on cities.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780446571791.jpg",
+			"name": "ZOO",
+			"publisher": "Little, Brown & Company",
+			"rank": 12
+		},
+		{
+			"author": "by J. D. Robb",
+			"description": "Lt. Eve Dallas investigates a mass delusion at a bar her husband owns; by Nora Roberts, writing pseudonymously",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101600207.jpg",
+			"name": "DELUSION IN DEATH",
+			"publisher": "Penguin Group",
+			"rank": 13
+		},
+		{
+			"author": "by Beth Kery",
+			"description": "Two more chapters in the serial erotic novel about Francesca Arno and Ian Noble\u2019s passionate affair.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101608562.jpg",
+			"name": "BECAUSE YOU ARE MINE, PART VIII",
+			"publisher": "Penguin Group",
+			"rank": 14
+		},
+		{
+			"author": "by Jill Shalvis",
+			"description": "Maddie leaves Los Angeles to take over a ramshackle inn left to her by her mother. A Lucky Harbor novel.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780446576468.jpg",
+			"name": "SIMPLY IRRESISTIBLE",
+			"publisher": "Grand Central Publishing",
+			"rank": 15
+		}
+	]
+}

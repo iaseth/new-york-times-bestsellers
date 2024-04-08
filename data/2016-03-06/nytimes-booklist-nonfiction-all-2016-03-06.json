@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Paul Kalanithi",
+			"description": "A memoir by a physician who received a diagnosis of Stage IV lung cancer at the age of 36.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812988413.jpg",
+			"name": "WHEN BREATH BECOMES AIR",
+			"publisher": "Random House",
+			"rank": 1
+		},
+		{
+			"author": "by Sue Klebold",
+			"description": "The mother of one of the Columbine shooters wrestles with her grief and guilt and discusses how parents can become more aware of the signs of mental illness in teenagers.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101902769.jpg",
+			"name": "A MOTHER'S RECKONING",
+			"publisher": "Crown",
+			"rank": 2
+		},
+		{
+			"author": "by Betty DeGeneres",
+			"description": "The mother of the comedian and actress describes how she came to accept her daughter's sexuality. Originally published in 2013.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062276100.jpg",
+			"name": "LOVE, ELLEN",
+			"publisher": "It Books",
+			"rank": 3
+		},
+		{
+			"author": "by Juan Martinez",
+			"description": "An Arizona prosecutor describes building the case against Jodi Arias, who was found guilty of murdering her ex-boyfriend, Travis Alexander, in 2013.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062444301.jpg",
+			"name": "CONVICTION",
+			"publisher": "Morrow/HarperCollins",
+			"rank": 4
+		},
+		{
+			"author": "by Dyan Cannon",
+			"description": "Cannon\u2019s memoir discusses her romance with the actor Cary Grant, their glamorous careers and stormy marriage, and his dark family secrets. Originally published in 2011.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062079138.jpg",
+			"name": "DEAR CARY",
+			"publisher": "It Books",
+			"rank": 5
+		},
+		{
+			"author": "by Malala Yousafzai with Christina Lamb",
+			"description": "The experience of the Pakistani girl who campaigned for women\u2019s education and was shot by the Taliban.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316322409.jpg",
+			"name": "I AM MALALA",
+			"publisher": "Little, Brown",
+			"rank": 6
+		},
+		{
+			"author": "by Ta-Nehisi Coates",
+			"description": "A meditation on race in America as well as a personal story by The Atlantic's national correspondent; a National Book Award winner.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780679645986.jpg",
+			"name": "BETWEEN THE WORLD AND ME",
+			"publisher": "Spiegel & Grau",
+			"rank": 7
+		},
+		{
+			"author": "by Richard Engel",
+			"description": "NBC\u2019s chief foreign correspondent discusses the Arab Spring and war in the Middle East.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451635133.jpg",
+			"name": "AND THEN ALL HELL BROKE LOOSE",
+			"publisher": "Simon & Schuster",
+			"rank": 8
+		},
+		{
+			"author": "by Pope Francis with Andrea Tornielli",
+			"description": "In a conversation with a Vatican reporter, the pontiff explores his faith.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399588648.jpg",
+			"name": "THE NAME OF GOD IS MERCY",
+			"publisher": "Random House",
+			"rank": 9
+		},
+		{
+			"author": "by Bill Bryson",
+			"description": "An American expatriate travels around his adopted country, Britain.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385539296.jpg",
+			"name": "THE ROAD TO LITTLE DRIBBLING",
+			"publisher": "Doubleday",
+			"rank": 10
+		},
+		{
+			"author": "by Ron Chernow",
+			"description": "A biography of the first Treasury secretary, a major author of the Federalist Papers and an advocate of strong central government.  Originally published in 2004 and the basis of the Broadway play.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780143034759.jpg",
+			"name": "ALEXANDER HAMILTON",
+			"publisher": "Penguin",
+			"rank": 11
+		},
+		{
+			"author": "by Mitchell Zuckoff with members of the Annex Security Team",
+			"description": "Six C.I.A. contract employees discuss their experience during the attack on the State Department compound and the C.I.A. station called the \u201cannex\u201d in Benghazi in 2012.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455582297.jpg",
+			"name": "13 HOURS",
+			"publisher": "Twelve",
+			"rank": 12
+		},
+		{
+			"author": "by Tina Fey",
+			"description": "A memoir from the former \"Saturday Night Live\" star and creator of \"30 Rock.\" Originally published in 2011.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316056892.jpg",
+			"name": "BOSSYPANTS",
+			"publisher": "Reagan Arthur/Little, Brown",
+			"rank": 13
+		},
+		{
+			"author": "by Jane Mayer",
+			"description": "An account of how the Koch brothers and other super-wealthy donors deployed their money to change American politics.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385535601.jpg",
+			"name": "DARK MONEY",
+			"publisher": "Doubleday",
+			"rank": 14
+		},
+		{
+			"author": "by Adam Grant",
+			"description": "A Wharton School professor argues that innovators are made, not born, and offers suggestions for how to become one.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525429562.jpg",
+			"name": "ORIGINALS",
+			"publisher": "Viking",
+			"rank": 15
+		}
+	]
+}

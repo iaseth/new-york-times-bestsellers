@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Sue Grafton",
+			"description": "A homeless man inexplicably leaves $600,000 to Kinsey Millhone.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399158988.jpg",
+			"name": "W IS FOR WASTED",
+			"publisher": "Marian Wood/Putnam",
+			"rank": 1
+		},
+		{
+			"author": "by Lee Child",
+			"description": "Jack Reacher is thrown into jail on trumped-up charges and must clear his name.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780440339373.jpg",
+			"name": "NEVER GO BACK",
+			"publisher": "Delacorte",
+			"rank": 2
+		},
+		{
+			"author": "by Liane Moriarty",
+			"description": "A woman\u2019s life is upended when she discovers a letter from her husband she was not meant to read.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101636237.jpg",
+			"name": "THE HUSBAND'S SECRET",
+			"publisher": "Amy Einhorn/Putnam",
+			"rank": 3
+		},
+		{
+			"author": "by Robert Galbraith",
+			"description": "A detective investigates a supermodel\u2019s suicide; by J.K. Rowling, writing pseudonymously.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316206860.jpg",
+			"name": "THE CUCKOO'S CALLING",
+			"publisher": "Mulholland/Little, Brown",
+			"rank": 4
+		},
+		{
+			"author": "by J. A. Jance",
+			"description": "The investigator J. P. Beaumont has disturbing dreams about his early days on the Seattle P.D. and his time in Vietnam.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062134691.jpg",
+			"name": "SECOND WATCH",
+			"publisher": "Morrow/HarperCollins",
+			"rank": 5
+		},
+		{
+			"author": "by E. L. James",
+			"description": "An innocent college student falls in love with a tortured man with particular sexual tastes; the first of a trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345803481.jpg",
+			"name": "FIFTY SHADES OF GREY",
+			"publisher": "Vintage",
+			"rank": 6
+		},
+		{
+			"author": "by John Grisham",
+			"description": "An imprisoned ex-lawyer schemes to exchange information about who murdered a judge for his freedom.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385536882.jpg",
+			"name": "THE RACKETEER",
+			"publisher": "Doubleday",
+			"rank": 7
+		},
+		{
+			"author": "by Michael Brandman",
+			"description": "A continuation of Parker\u2019s series featuring Jesse Stone, the chief of police in Paradise, Mass.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399159503.jpg",
+			"name": "ROBERT B. PARKER\u2019S DAMNED IF YOU DO",
+			"publisher": "Putnam",
+			"rank": 8
+		},
+		{
+			"author": "by Dan Brown",
+			"description": "The symbologist Robert Langdon, on the run in Florence, must decipher a series of codes created by a Dante-loving scientist.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400079155.jpg",
+			"name": "INFERNO",
+			"publisher": "Doubleday",
+			"rank": 9
+		},
+		{
+			"author": "by Darcie Chan",
+			"description": "Only one man knows an abused widow\u2019s secrets, which revealed will change lives in her small Vermont town.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780615523774.jpg",
+			"name": "THE MILL RIVER RECLUSE",
+			"publisher": "Darcie Chan",
+			"rank": 10
+		},
+		{
+			"author": "by E. L. James",
+			"description": "Daunted by Christian\u2019s dark secrets, Anastasia ends their relationship \u2014 but desire still dominates her every thought; the second book in a trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345803498.jpg",
+			"name": "FIFTY SHADES DARKER",
+			"publisher": "Vintage",
+			"rank": 11
+		},
+		{
+			"author": "by Orson Scott Card",
+			"description": "Government agencies breed child geniuses and train them as soldiers. Originally published in 1985.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812550702.jpg",
+			"name": "ENDER'S GAME",
+			"publisher": "Tor/Tom Doherty",
+			"rank": 12
+		},
+		{
+			"author": "by Fern Michaels",
+			"description": "To help her daughter, a Southern belle calls on her trusted friends to pull some strings at a Hollywood tabloid.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781420124644.jpg",
+			"name": "THE SCOOP",
+			"publisher": "Zebra/Kensington",
+			"rank": 13
+		},
+		{
+			"author": "by Clive Cussler and Thomas Perry",
+			"description": "Sam and Remi Fargo, a husband-and-wife treasure-hunting team, discover a Mayan codex.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399162497.jpg",
+			"name": "THE MAYAN SECRETS",
+			"publisher": "Putnam",
+			"rank": 14
+		},
+		{
+			"author": "by E. L. James",
+			"description": "Reunited, Anastasia and Christian face a world of possibilities, and unexpected challenges; the final volume in a trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781612130606.jpg",
+			"name": "FIFTY SHADES FREED",
+			"publisher": "Vintage",
+			"rank": 15
+		}
+	]
+}

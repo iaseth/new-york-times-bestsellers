@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by RuPaul",
+			"description": "The multiple Emmy Award-winning producer of \u201cRuPaul\u2019s Drag Race\u201d traces his journey from his childhood in San Diego to becoming a pop culture icon.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063263901.jpg",
+			"name": "THE HOUSE OF HIDDEN MEANINGS",
+			"publisher": "Dey Street",
+			"rank": 1
+		},
+		{
+			"author": "by Peter Schweizer",
+			"description": "The author of \u201cRed-Handed\u201d depicts a scheme involving the Chinese Communist Party\u2019s covert operations in America.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063061194.jpg",
+			"name": "BLOOD MONEY",
+			"publisher": "Harper",
+			"rank": 2
+		},
+		{
+			"author": "by David Grann",
+			"description": "The survivors of a shipwrecked British vessel on a secret mission during an imperial war with Spain have different accounts of events.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385534260.jpg",
+			"name": "THE WAGER",
+			"publisher": "Doubleday",
+			"rank": 3
+		},
+		{
+			"author": "with an introduction, annotations and supporting materials by Melissa Murray and Andrew Weissmann",
+			"description": "Four criminal indictments against the former president.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781324079200.jpg",
+			"name": "THE TRUMP INDICTMENTS",
+			"publisher": "Norton",
+			"rank": 4
+		},
+		{
+			"author": "by David Grann",
+			"description": "The story of a murder spree in 1920s Oklahoma that targeted Osage Indians, whose lands contained oil.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385534246.jpg",
+			"name": "KILLERS OF THE FLOWER MOON",
+			"publisher": "Doubleday",
+			"rank": 5
+		},
+		{
+			"author": "by Peter Attia with Bill Gifford",
+			"description": "A look at recent scientific research on aging and longevity.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593236598.jpg",
+			"name": "OUTLIVE",
+			"publisher": "Harmony",
+			"rank": 6
+		},
+		{
+			"author": "by Bessel van der Kolk",
+			"description": "How trauma affects the body and mind, and innovative treatments for recovery.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780670785933.jpg",
+			"name": "THE BODY KEEPS THE SCORE",
+			"publisher": "Penguin",
+			"rank": 7
+		},
+		{
+			"author": "by Kara Swisher",
+			"description": "The tech journalist and podcast host gives an overview of the tech industry and the foibles of its founders.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982163891.jpg",
+			"name": "BURN BOOK",
+			"publisher": "Simon & Schuster",
+			"rank": 8
+		},
+		{
+			"author": "by Liz Cheney",
+			"description": "The former congresswoman from Wyoming recounts how she helped lead the Select Committee to Investigate the Jan. 6. Attack on the United States Capitol.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316572064.jpg",
+			"name": "OATH AND HONOR",
+			"publisher": "Little, Brown",
+			"rank": 9
+		},
+		{
+			"author": "by Abigail Shrier",
+			"description": "Shrier makes her case that the mental health industry has a negative impact on American children.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593542927.jpg",
+			"name": "BAD THERAPY",
+			"publisher": "Sentinel",
+			"rank": 10
+		},
+		{
+			"author": "by Daniel James Brown",
+			"description": "The story of the American rowers who pursued gold at the 1936 Berlin Olympic Games; the basis of the film.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101622742.jpg",
+			"name": "THE BOYS IN THE BOAT",
+			"publisher": "Penguin",
+			"rank": 11
+		},
+		{
+			"author": "by Tom Schaller and Paul Waldman",
+			"description": "A look at the factors that exacerbate the difficulties and grievances of white rural voters.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593729144.jpg",
+			"name": "WHITE RURAL RAGE",
+			"publisher": "Random House",
+			"rank": 12
+		},
+		{
+			"author": "by Dan Harris",
+			"description": "In the 10th-anniversary edition of this book, a former co-anchor of \"Nightline\" reports on the science and spiritual dimensions of meditation.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063356474.jpg",
+			"name": "10% HAPPIER",
+			"publisher": "Dey Street",
+			"rank": 13
+		},
+		{
+			"author": "by Adam Grant",
+			"description": "An examination of the cognitive skills of rethinking and unlearning that could be used to adapt to a rapidly changing world.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984878106.jpg",
+			"name": "THINK AGAIN",
+			"publisher": "Viking",
+			"rank": 14
+		},
+		{
+			"author": "by Dolly Alderton",
+			"description": "The British journalist shares stories and observations; the basis of the TV series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062968791.jpg",
+			"name": "EVERYTHING I KNOW ABOUT LOVE",
+			"publisher": "Harper Perennial",
+			"rank": 15
+		}
+	]
+}

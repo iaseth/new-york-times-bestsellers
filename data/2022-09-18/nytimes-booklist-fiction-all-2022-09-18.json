@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Colleen Hoover",
+			"description": "A battered wife raised in a violent home attempts to halt the cycle of abuse.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501110375.jpg",
+			"name": "IT ENDS WITH US",
+			"publisher": "Atria",
+			"rank": 1
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "Lowen Ashleigh is hired by the husband of an injured writer to complete her popular series and uncovers a horrifying truth.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781791392796.jpg",
+			"name": "VERITY",
+			"publisher": "Grand Central",
+			"rank": 2
+		},
+		{
+			"author": "by Robert Galbraith",
+			"description": "The sixth book in the Cormoran Strike series. When a cartoonist is murdered, Cormoran and Robin go after a mysterious online figure known as Anomie.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316413039.jpg",
+			"name": "THE INK BLACK HEART",
+			"publisher": "Mulholland",
+			"rank": 3
+		},
+		{
+			"author": "by Delia Owens",
+			"description": "In a quiet town on the North Carolina coast in 1969, a young woman who survived alone in the marsh becomes a murder suspect.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735219090.jpg",
+			"name": "WHERE THE CRAWDADS SING",
+			"publisher": "Putnam",
+			"rank": 4
+		},
+		{
+			"author": "by Taylor Jenkins Reid",
+			"description": "A tennis player comes out of retirement and trains with her father to defend her record.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593158685.jpg",
+			"name": "CARRIE SOTO IS BACK",
+			"publisher": "Ballantine",
+			"rank": 5
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "Tate Collins and Miles Archer,\u00a0an airline pilot, think they can handle a no strings attached arrangement. But they can't.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476753195.jpg",
+			"name": "UGLY LOVE",
+			"publisher": "Atria",
+			"rank": 6
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "Is Ben using his relationship with Fallon as fodder for his novel?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501110351.jpg",
+			"name": "NOVEMBER 9",
+			"publisher": "Atria",
+			"rank": 7
+		},
+		{
+			"author": "by Taylor Jenkins Reid",
+			"description": "A movie icon recounts stories of her loves and career to a struggling magazine writer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501161933.jpg",
+			"name": "THE SEVEN HUSBANDS OF EVELYN HUGO",
+			"publisher": "Washington Square/Atria",
+			"rank": 8
+		},
+		{
+			"author": "by Ali Hazelwood",
+			"description": "Heartbeats quicken and neurons fire when a pair of antagonistic scientists work together on a project.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593336847.jpg",
+			"name": "LOVE ON THE BRAIN",
+			"publisher": "Berkley",
+			"rank": 9
+		},
+		{
+			"author": "by Sarah Addison Allen",
+			"description": "When she takes over her deceased mother\u2019s apartment, Zoey has strange encounters with her new neighbors.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250019868.jpg",
+			"name": "OTHER BIRDS",
+			"publisher": "St. Martin's",
+			"rank": 10
+		},
+		{
+			"author": "by George R.R. Martin",
+			"description": "Set 300 years before the events of \u201cA Game of Thrones,\u201d this is the first volume of the two-part history of the Targaryens in Westeros.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524796280.jpg",
+			"name": "FIRE AND BLOOD",
+			"publisher": "Bantam",
+			"rank": 11
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "When his ex-girlfriend turns up dead in his office building, an entry-level investment analyst delves into the halls of economic power.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538719848.jpg",
+			"name": "THE 6:20 MAN",
+			"publisher": "Grand Central",
+			"rank": 12
+		},
+		{
+			"author": "by John Grisham",
+			"description": "The second book in the Whistler series. Investigator Lacy Stoltz goes after a serial killer and closes in on a sitting judge.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385546027.jpg",
+			"name": "THE JUDGE'S LIST",
+			"publisher": "Vintage",
+			"rank": 13
+		},
+		{
+			"author": "by Ashley Flowers with Alex Kiester",
+			"description": "A journalist who returns to her hometown vows to find a missing girl and solve a 20-year-old cold case.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593496473.jpg",
+			"name": "ALL GOOD PEOPLE HERE",
+			"publisher": "Bantam",
+			"rank": 14
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "Quinn and Graham\u2019s marriage depends on past promises.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501171604.jpg",
+			"name": "ALL YOUR PERFECTS",
+			"publisher": "Atria",
+			"rank": 15
+		}
+	]
+}

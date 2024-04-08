@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Michael Connelly",
+			"description": "Ren\u00e9e Ballard, a young detective with the L.A.P.D., investigates crimes against two women.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316225984.jpg",
+			"name": "THE LATE SHOW",
+			"publisher": "Little, Brown",
+			"rank": 1
+		},
+		{
+			"author": "by John Grisham",
+			"description": "A whistleblower alerts a Florida investigator to judicial corruption involving the Mob and Indian casinos.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385541206.jpg",
+			"name": "THE WHISTLER",
+			"publisher": "Doubleday",
+			"rank": 2
+		},
+		{
+			"author": "by Ilona Andrews",
+			"description": "The conclusion to the Hidden Legacy series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062289285.jpg",
+			"name": "WILDFIRE",
+			"publisher": "Avon",
+			"rank": 3
+		},
+		{
+			"author": "by John Grisham",
+			"description": "A search for stolen rare manuscripts leads to a Florida island.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385543057.jpg",
+			"name": "CAMINO ISLAND",
+			"publisher": "Doubleday",
+			"rank": 4
+		},
+		{
+			"author": "by Daniel Silva",
+			"description": "Gabriel Allon, the Israeli art restorer and spy, now the head of Israel\u2019s secret intelligence service, pursues an ISIS mastermind",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062354365.jpg",
+			"name": "HOUSE OF SPIES",
+			"publisher": "Harper",
+			"rank": 5
+		},
+		{
+			"author": "by Ernest Cline",
+			"description": "It\u2019s 2044, life on a resource-depleted Earth has grown increasingly grim, and the key to a vast fortune is hidden in a virtual-reality world.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307887443.jpg",
+			"name": "READY PLAYER ONE",
+			"publisher": "Broadway",
+			"rank": 6
+		},
+		{
+			"author": "by C J. Box",
+			"description": "A North Dakota investigator pursues a trucker who preys on prostitutes.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250051042.jpg",
+			"name": "PARADISE VALLEY",
+			"publisher": "Minotaur",
+			"rank": 7
+		},
+		{
+			"author": "by Ruth Ware",
+			"description": "A travel writer on a cruise is certain she has heard a body thrown overboard, but no one believes her.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501132940.jpg",
+			"name": "THE WOMAN IN CABIN 10",
+			"publisher": "Scout",
+			"rank": 8
+		},
+		{
+			"author": "by Ruth Ware",
+			"description": "Four school friends come together as their long-held secret threatens to emerge.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501156007.jpg",
+			"name": "THE LYING GAME",
+			"publisher": "Scout",
+			"rank": 9
+		},
+		{
+			"author": "by James Patterson and others",
+			"description": "A collection of three novels, each written with a different co-author.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781478971634.jpg",
+			"name": "THE MOORES ARE MISSING",
+			"publisher": "Grand Central",
+			"rank": 10
+		},
+		{
+			"author": "by James Patterson and Howard Roughan",
+			"description": "An expert on serial murder becomes involved in the hunt for a New York City killer who leaves a playing card at the crime scene.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316553476.jpg",
+			"name": "MURDER GAMES",
+			"publisher": "Little, Brown",
+			"rank": 11
+		},
+		{
+			"author": "by Rupi Kaur",
+			"description": "Poetic approaches to surviving adversity and loss.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781449474256.jpg",
+			"name": "MILK AND HONEY",
+			"publisher": "Andrews McMeel",
+			"rank": 12
+		},
+		{
+			"author": "by Margaret Atwood",
+			"description": "Men and women in a dystopian future. The basis of the Hulu series; originally published in 1985.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780547345666.jpg",
+			"name": "THE HANDMAID'S TALE",
+			"publisher": "Houghton Mifflin Harcourt",
+			"rank": 13
+		},
+		{
+			"author": "by Lisa Jackson, Nancy Bush and Rosalind Noonan",
+			"description": "Three friends reunite in Prairie Creek, Wyo., and are menaced by a killer from their past.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781420137897.jpg",
+			"name": "OMINOUS",
+			"publisher": "Zebra",
+			"rank": 14
+		},
+		{
+			"author": "by Marie Force",
+			"description": "In the 11th book in the Fatal series of romantic thrillers, a lieutenant in the Washington Metro Police investigates a murder and defends the reputation of her husband, the vice president.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781460399989.jpg",
+			"name": "FATAL THREAT",
+			"publisher": "HQN",
+			"rank": 15
+		}
+	]
+}

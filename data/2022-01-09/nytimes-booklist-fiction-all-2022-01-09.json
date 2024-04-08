@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by John Grisham",
+			"description": "The second book in the Whistler series. Investigator Lacy Stoltz goes after a serial killer and closes in on a sitting judge.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385546027.jpg",
+			"name": "THE JUDGE'S LIST",
+			"publisher": "Doubleday",
+			"rank": 1
+		},
+		{
+			"author": "by Mitch Albom",
+			"description": "After a ship explodes, 10 people struggling to survive pull a man who claims to be the Lord out of the sea.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062888341.jpg",
+			"name": "THE STRANGER IN THE LIFEBOAT",
+			"publisher": "Harper",
+			"rank": 2
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "A battered wife raised in a violent home attempts to halt the cycle of abuse.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501110375.jpg",
+			"name": "IT ENDS WITH US",
+			"publisher": "Atria",
+			"rank": 3
+		},
+		{
+			"author": "by Amor Towles",
+			"description": "Two friends who escaped from a juvenile work farm take Emmett Watson on an unexpected journey to New York City in 1954.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735222359.jpg",
+			"name": "THE LINCOLN HIGHWAY",
+			"publisher": "Viking",
+			"rank": 4
+		},
+		{
+			"author": "by Amanda Gorman",
+			"description": "A debut collection of poems on identity and history by the presidential inaugural poet who wrote \u201cThe Hill We Climb.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593465066.jpg",
+			"name": "CALL US WHAT WE CARRY",
+			"publisher": "Viking",
+			"rank": 5
+		},
+		{
+			"author": "by Nicholas Sparks",
+			"description": "Maggie Dawes, a renowned travel photographer, struggles with a medical diagnosis over Christmas.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538728628.jpg",
+			"name": "THE WISH",
+			"publisher": "Grand Central",
+			"rank": 6
+		},
+		{
+			"author": "by Diana Gabaldon",
+			"description": "The ninth book in the Outlander series. As the Revolutionary War moves closer to Fraser\u2019s Ridge, Claire and Jamie reunite with their daughter and her family.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101885680.jpg",
+			"name": "GO TELL THE BEES THAT I AM GONE",
+			"publisher": "Delacorte",
+			"rank": 7
+		},
+		{
+			"author": "by Jodi Picoult",
+			"description": "Diana O\u2019Toole re-evaluates her seemingly perfect life when a pandemic disrupts her vacation in the Gal\u00e1pagos Islands.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984818416.jpg",
+			"name": "WISH YOU WERE HERE",
+			"publisher": "Ballantine",
+			"rank": 8
+		},
+		{
+			"author": "by Anthony Doerr",
+			"description": "An interconnected cast of dreamers and outsiders are in dangerous and disparate settings past, present and future.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982168438.jpg",
+			"name": "CLOUD CUCKOO LAND",
+			"publisher": "Scribner",
+			"rank": 9
+		},
+		{
+			"author": "by Matt Haig",
+			"description": "Nora Seed finds a library beyond the edge of the universe that contains books with multiple possibilities of the lives one could have lived.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525559474.jpg",
+			"name": "THE MIDNIGHT LIBRARY",
+			"publisher": "Viking",
+			"rank": 10
+		},
+		{
+			"author": "by Taylor Jenkins Reid",
+			"description": "A movie icon recounts stories of her loves and career to a struggling magazine writer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501161933.jpg",
+			"name": "THE SEVEN HUSBANDS OF EVELYN HUGO",
+			"publisher": "Washington Square/Atria",
+			"rank": 11
+		},
+		{
+			"author": "by James Patterson",
+			"description": "The 29th book in the Alex Cross series. Cross fights the mastermind who has stalked him for years.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316499149.jpg",
+			"name": "FEAR NO EVIL",
+			"publisher": "Little, Brown",
+			"rank": 12
+		},
+		{
+			"author": "by Stephen King",
+			"description": "A killer for hire who only takes out bad guys seeks redemption as he does one final job.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982173616.jpg",
+			"name": "BILLY SUMMERS",
+			"publisher": "Scribner",
+			"rank": 13
+		},
+		{
+			"author": "by Madeline Miller",
+			"description": "A reimagining of Homer\u2019s \u201cIliad\u201d that is narrated by Achilles' companion Patroclus.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062060624.jpg",
+			"name": "THE SONG OF ACHILLES",
+			"publisher": "Ecco",
+			"rank": 14
+		},
+		{
+			"author": "by Laura Dave",
+			"description": "Hannah Hall discovers truths about her missing husband and bonds with his daughter from a previous relationship.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501171345.jpg",
+			"name": "THE LAST THING HE TOLD ME",
+			"publisher": "Simon & Schuster",
+			"rank": 15
+		}
+	]
+}

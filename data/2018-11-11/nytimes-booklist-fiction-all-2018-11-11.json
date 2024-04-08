@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by John Grisham",
+			"description": "A decorated World War II veteran shoots and kills a pastor inside a Mississippi church.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385544160.jpg",
+			"name": "THE RECKONING",
+			"publisher": "Doubleday",
+			"rank": 1
+		},
+		{
+			"author": "by Nicholas Sparks",
+			"description": "Difficult choices surface when Hope Anderson and Tru Walls meet in a North Carolina seaside town.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538728529.jpg",
+			"name": "EVERY BREATH",
+			"publisher": "Grand Central",
+			"rank": 2
+		},
+		{
+			"author": "by James Patterson and Bill Clinton",
+			"description": "President Jonathan Duncan, a Gulf War veteran and widower, takes on adversaries at home and abroad.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316412698.jpg",
+			"name": "THE PRESIDENT IS MISSING",
+			"publisher": "Little, Brown and Knopf",
+			"rank": 3
+		},
+		{
+			"author": "by Susan Mallery",
+			"description": "The fourth book in the Happily Inc. series. Silver Tesdal must reveal a secret she has been keeping from Drew Lovato.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781488096853.jpg",
+			"name": "NOT QUITE OVER YOU",
+			"publisher": "HQN",
+			"rank": 4
+		},
+		{
+			"author": "by Mitch Albom",
+			"description": "The sequel to \"The Five People You Meet in Heaven\" follows Annie on her heavenly journey.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062294449.jpg",
+			"name": "THE NEXT PERSON YOU MEET IN HEAVEN",
+			"publisher": "Harper",
+			"rank": 5
+		},
+		{
+			"author": "by John Sandford",
+			"description": "Virgil Flowers investigates shootings in a Minnesota town following an attempt to revive its ailing economy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735217331.jpg",
+			"name": "HOLY GHOST",
+			"publisher": "Putnam",
+			"rank": 6
+		},
+		{
+			"author": "by Jodi Picoult",
+			"description": "The lives of patients, doctors and activists intersect when a gunman holds them all hostage in a woman's health center in Mississippi.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345544995.jpg",
+			"name": "A SPARK OF LIGHT",
+			"publisher": "Ballantine",
+			"rank": 7
+		},
+		{
+			"author": "by Delia Owens",
+			"description": "In a quiet town on the North Carolina coast in 1969, a young woman who survived alone in the marsh becomes a murder suspect.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735219090.jpg",
+			"name": "WHERE THE CRAWDADS SING",
+			"publisher": "Putnam",
+			"rank": 8
+		},
+		{
+			"author": "by Barbara Kingsolver",
+			"description": "Intertwined stories of two families who live in different centuries on the same street corner in Vineland, N.J.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062684561.jpg",
+			"name": "UNSHELTERED",
+			"publisher": "Harper",
+			"rank": 9
+		},
+		{
+			"author": "by James Patterson and James O. Born",
+			"description": "Michael Bennett discovers that an assassin is targeting him and his family.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316414692.jpg",
+			"name": "AMBUSH",
+			"publisher": "Little, Brown",
+			"rank": 10
+		},
+		{
+			"author": "by Heather Morris",
+			"description": "A concentration camp detainee tasked with permanently marking fellow prisoners falls in love with one of them.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062797155.jpg",
+			"name": "THE TATTOOIST OF AUSCHWITZ",
+			"publisher": "Harper",
+			"rank": 11
+		},
+		{
+			"author": "by Iris Johansen",
+			"description": "An attraction develops between Jude Brandon and Rachel Venable as they take on the head of a terrorist group.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781466887251.jpg",
+			"name": "VENDETTA",
+			"publisher": "St. Martin's",
+			"rank": 12
+		},
+		{
+			"author": "by Kristen Ashley",
+			"description": "An anthology of three short stories and two novellas.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/A00B07F45YS2J.jpg",
+			"name": "LOOSE ENDS",
+			"publisher": "Kristen Ashley",
+			"rank": 13
+		},
+		{
+			"author": "by Tana French",
+			"description": "After Toby Hennessy retreats to his family\u2019s ancestral home, a skull discovered in the backyard exposes his family's past.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735224636.jpg",
+			"name": "THE WITCH ELM",
+			"publisher": "Viking",
+			"rank": 14
+		},
+		{
+			"author": "by Meghan March",
+			"description": "The final book in the Sin trilogy. A man determines to prove he is worthy of Whitney Gable.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781943796182.jpg",
+			"name": "REVELING IN SIN",
+			"publisher": "Meghan March",
+			"rank": 15
+		}
+	]
+}

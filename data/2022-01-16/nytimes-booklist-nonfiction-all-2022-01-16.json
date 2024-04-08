@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "edited by Nikole Hannah-Jones, Caitlin Roper, Ilena Silverman and Jake Silverstein",
+			"description": "Viewing America\u2019s entanglement with slavery and its legacy, in essays adapted and expanded from The New York Times Magazine.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593230572.jpg",
+			"name": "THE 1619 PROJECT",
+			"publisher": "One World",
+			"rank": 1
+		},
+		{
+			"author": "by Will Smith with Mark Manson",
+			"description": "The actor, producer and musician tells his life story and lessons he learned along the way.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984877925.jpg",
+			"name": "WILL",
+			"publisher": "Penguin Press",
+			"rank": 2
+		},
+		{
+			"author": "by Joan Didion",
+			"description": "Winner of the National Book Award in 2005. The late writer recounts her daughter\u2019s illness and husband\u2019s death.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400078431.jpg",
+			"name": "THE YEAR OF MAGICAL THINKING",
+			"publisher": "Vintage",
+			"rank": 3
+		},
+		{
+			"author": "by Bessel van der Kolk",
+			"description": "How trauma affects the body and mind, and innovative treatments for recovery.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780670785933.jpg",
+			"name": "THE BODY KEEPS THE SCORE",
+			"publisher": "Penguin",
+			"rank": 4
+		},
+		{
+			"author": "by Dave Grohl",
+			"description": "A memoir by the musician known for his work with Foo Fighters and Nirvana.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063076099.jpg",
+			"name": "THE STORYTELLER",
+			"publisher": "Dey Street",
+			"rank": 5
+		},
+		{
+			"author": "by Michelle Zauner",
+			"description": "The daughter of a Korean mother and Jewish-American father, and leader of the indie rock project Japanese Breakfast, describes creating her own identity after losing her mother to cancer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525657743.jpg",
+			"name": "CRYING IN H MART",
+			"publisher": "Knopf",
+			"rank": 6
+		},
+		{
+			"author": "by Matthew McConaughey",
+			"description": "The Academy Award-winning actor shares snippets from the diaries he kept over the last 35 years.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593139134.jpg",
+			"name": "GREENLIGHTS",
+			"publisher": "Crown",
+			"rank": 7
+		},
+		{
+			"author": "by Stanley Tucci",
+			"description": "The award-winning actor reflects on his career, Italian-American heritage, meals and mishaps.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982168018.jpg",
+			"name": "TASTE",
+			"publisher": "Gallery",
+			"rank": 8
+		},
+		{
+			"author": "by Glennon Doyle",
+			"description": "The activist and public speaker describes her journey of listening to her inner voice.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984801258.jpg",
+			"name": "UNTAMED",
+			"publisher": "Dial",
+			"rank": 9
+		},
+		{
+			"author": "by bell hooks",
+			"description": "The late feminist icon explores the causes of a polarized society and the meaning of love.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780060959470.jpg",
+			"name": "ALL ABOUT LOVE",
+			"publisher": "Morrow",
+			"rank": 10
+		},
+		{
+			"author": "by Paul McCartney",
+			"description": "A two-volume celebration of 154 songs, with handwritten texts, paintings and photographs from the songwriter\u2019s archives.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781324094098.jpg",
+			"name": "THE LYRICS: 1956 TO THE PRESENT",
+			"publisher": "Liveright",
+			"rank": 11
+		},
+		{
+			"author": "by David Graeber and David Wengrow",
+			"description": "A reinvestigation of social evolution and suggestions for new ways of organizing society.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780374157357.jpg",
+			"name": "THE DAWN OF EVERYTHING",
+			"publisher": "Farrar, Straus & Giroux",
+			"rank": 12
+		},
+		{
+			"author": "by Robert F. Kennedy Jr.",
+			"description": "The anti-vaccine advocate gives his take on the chief medical advisor to the president.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781510766808.jpg",
+			"name": "THE REAL ANTHONY FAUCI",
+			"publisher": "Skyhorse",
+			"rank": 13
+		},
+		{
+			"author": "by Mel Brooks",
+			"description": "The EGOT and Kennedy Center honoree shares stories about making comedy for the stage, film and television.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593159118.jpg",
+			"name": "ALL ABOUT ME!",
+			"publisher": "Ballantine",
+			"rank": 14
+		},
+		{
+			"author": "by Anderson Cooper and Katherine Howe",
+			"description": "The CNN host and descendant of the Vanderbilt family charts the rise and fall of this American dynasty.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062964618.jpg",
+			"name": "VANDERBILT",
+			"publisher": "Harper",
+			"rank": 15
+		}
+	]
+}

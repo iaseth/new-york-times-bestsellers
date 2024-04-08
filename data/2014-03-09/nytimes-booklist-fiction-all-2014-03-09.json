@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by J. D. Robb",
+			"description": "Lt. Eve Dallas is on the case when the demolition of a building that once sheltered troubled teenagers reveals skeletons hidden in the walls; by Nora Roberts, writing pseudonymously.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399164439.jpg",
+			"name": "CONCEALED IN DEATH",
+			"publisher": "Penguin Group (USA) Incorporated",
+			"rank": 1
+		},
+		{
+			"author": "by James Patterson and Mark Sullivan",
+			"description": "Jack Morgan and Justine Smith search for a high-powered celebrity couple who have disappeared.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316211123.jpg",
+			"name": "PRIVATE L.A.",
+			"publisher": "Little, Brown",
+			"rank": 2
+		},
+		{
+			"author": "by Donna Tartt",
+			"description": "A painting smuggled out of the Metropolitan Museum of Art after a bombing becomes a boy\u2019s prize, guilt and burden.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316248679.jpg",
+			"name": "THE GOLDFINCH",
+			"publisher": "Little, Brown",
+			"rank": 3
+		},
+		{
+			"author": "by John Grisham",
+			"description": "A sequel, about race and inheritance, to \u201cA Time to Kill.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385537926.jpg",
+			"name": "SYCAMORE ROW",
+			"publisher": "Doubleday",
+			"rank": 4
+		},
+		{
+			"author": "by Sue Monk Kidd",
+			"description": "The relationship between a wealthy Charleston girl, Sarah Grimk\u00e9, who will grow up to become a prominent abolitionist, and the slave she is given for her 11th birthday.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780670024780.jpg",
+			"name": "THE INVENTION OF WINGS",
+			"publisher": "Viking",
+			"rank": 5
+		},
+		{
+			"author": "by Liane Moriarty",
+			"description": "A woman\u2019s life is upended when she discovers a letter from her husband she was not meant to read.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101636237.jpg",
+			"name": "THE HUSBAND'S SECRET",
+			"publisher": "Amy Einhorn/Putnam",
+			"rank": 6
+		},
+		{
+			"author": "by Jonathan Kellerman",
+			"description": "The psychologist and police consultant Alex Delaware becomes embroiled in a child custody dispute that escalates into murder.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345548412.jpg",
+			"name": "KILLER",
+			"publisher": "Ballantine",
+			"rank": 7
+		},
+		{
+			"author": "by Lynsay Sands",
+			"description": "Marcus Notte, an immortal, has been tasked with bringing Basha Argeneau back to the powerful clan.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062078094.jpg",
+			"name": "VAMPIRE MOST WANTED",
+			"publisher": "Avon/HarperCollins",
+			"rank": 8
+		},
+		{
+			"author": "by Jill Shalvis",
+			"description": "In the little town of Lucky Harbor, an unlikely couple try to defy the odds: Ben, grieving over a wrenching loss; and Aubrey, determined to right the wrongs of her past.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455521142.jpg",
+			"name": "ONCE IN A LIFETIME",
+			"publisher": "Grand Central",
+			"rank": 9
+		},
+		{
+			"author": "by Anna Quindlen",
+			"description": "An aging photographer rents a rural cottage and discovers sparks of creativity and desire.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812995756.jpg",
+			"name": "STILL LIFE WITH BREAD CRUMBS",
+			"publisher": "Random House",
+			"rank": 10
+		},
+		{
+			"author": "by David Weber",
+			"description": "In Book 7 of the Safehold science fiction series, the empire of Charis fights for self-determination.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781429945080.jpg",
+			"name": "LIKE A MIGHTY ARMY",
+			"publisher": "Tor/Tom Doherty",
+			"rank": 11
+		},
+		{
+			"author": "by J. A. Jance",
+			"description": "Ali Reynolds discovers a connection between an attack on a jailed computer hacker and a cold-case murder in Britain.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476745039.jpg",
+			"name": "MOVING TARGET",
+			"publisher": "Touchstone",
+			"rank": 12
+		},
+		{
+			"author": "by Christina Baker Kline",
+			"description": "A historical novel about orphans swept off the streets of New York and sent to the Midwest in the 1920s.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062101204.jpg",
+			"name": "ORPHAN TRAIN",
+			"publisher": "Morrow/HarperCollins",
+			"rank": 13
+		},
+		{
+			"author": "by J. S. Cooper and Helen Cooper",
+			"description": "The first of three erotic novellas about Katie Raymond and the compelling billionaire Brandon Hastings.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781940218083.jpg",
+			"name": "THE EX GAMES",
+			"publisher": "Helen Cooper",
+			"rank": 14
+		},
+		{
+			"author": "by Gillian Flynn",
+			"description": "A woman disappears on the day of her fifth anniversary; is her husband a killer?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307588388.jpg",
+			"name": "GONE GIRL",
+			"publisher": "Crown",
+			"rank": 15
+		}
+	]
+}

@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Catherine Coulter",
+			"description": "Two cases \u2014 one concerning an attempted poisoning in Washington and another about the hunt for a serial killer in Los Angeles \u2014 are the focus of Coulter\u2019s 20th F.B.I. thriller.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501150319.jpg",
+			"name": "INSIDIOUS",
+			"publisher": "Gallery Books",
+			"rank": 1
+		},
+		{
+			"author": "by Paula Hawkins",
+			"description": "A psychological thriller set in the environs of London is full of complications and betrayals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594633669.jpg",
+			"name": "THE GIRL ON THE TRAIN",
+			"publisher": "Riverhead",
+			"rank": 2
+		},
+		{
+			"author": "by Colson Whitehead",
+			"description": "A teenage girl heads north on the network that helped slaves escape to freedom, envisioned in this novel as a secret system of actual tracks and tunnels.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385542364.jpg",
+			"name": "THE UNDERGROUND RAILROAD",
+			"publisher": "Doubleday",
+			"rank": 3
+		},
+		{
+			"author": "by Liane Moriarty",
+			"description": "Tense turning points for three couples at a backyard barbecue gone wrong.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250069818.jpg",
+			"name": "TRULY MADLY GUILTY",
+			"publisher": "Flatiron",
+			"rank": 4
+		},
+		{
+			"author": "by James Patterson and Michael Ledwidge",
+			"description": "While the president of the United States is in New York to meet with his Russian counterpart, Detective Michael Bennett must stop a team of assassins prowling the Upper West Side.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316407083.jpg",
+			"name": "BULLSEYE",
+			"publisher": "Little, Brown",
+			"rank": 5
+		},
+		{
+			"author": "by Philippa Gregory",
+			"description": "Henry VIII's two sisters and Katherine of Aragon find themselves pitted against one another.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476758756.jpg",
+			"name": "THREE SISTERS, THREE QUEENS",
+			"publisher": "Touchstone",
+			"rank": 6
+		},
+		{
+			"author": "by Diana Gabaldon",
+			"description": "An English nurse, is transported back to 1743 during a second honeymoon in the Scottish Highlands.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780440212560.jpg",
+			"name": "OUTLANDER",
+			"publisher": "Dell",
+			"rank": 7
+		},
+		{
+			"author": "by John Grisham",
+			"description": "The attorney Sebastian Rudd is a \u201clone gunman\u201d who hates injustice and the system and defends unpopular clients.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385539449.jpg",
+			"name": "ROGUE LAWYER",
+			"publisher": "Doubleday",
+			"rank": 8
+		},
+		{
+			"author": "by J. A. Jance",
+			"description": "An investigator offers help to Sheriff Joanna Brady when her mother and stepfather's R.V. is run off the road.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062499042.jpg",
+			"name": "RANDOM ACTS",
+			"publisher": "Witness Impulse",
+			"rank": 9
+		},
+		{
+			"author": "by Fredrik Backman",
+			"description": "A curmudgeon's gruff exterior masks a generosity of spirit. Originally published in Sweden in 2014.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476738024.jpg",
+			"name": "A MAN CALLED OVE",
+			"publisher": "Washington Square",
+			"rank": 10
+		},
+		{
+			"author": "by Kristen Proby",
+			"description": "In this second installment in the Fusion series, a childhood crush becomes adult infatuation for a fighter pilot and a restaurateur.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062434784.jpg",
+			"name": "CLOSE TO YOU",
+			"publisher": "Morrow/HarperCollins",
+			"rank": 11
+		},
+		{
+			"author": "by Jojo Moyes",
+			"description": "After the death of Will Traynor, Louisa Clark joins a grief support group that may lead her to new love.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698152045.jpg",
+			"name": "AFTER YOU",
+			"publisher": "Pamela Dorman/Viking",
+			"rank": 12
+		},
+		{
+			"author": "by Ruth Ware",
+			"description": "A travel writer on a cruise is certain she has heard a body thrown overboard, but no one believes her.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501132940.jpg",
+			"name": "THE WOMAN IN CABIN 10",
+			"publisher": "Scout",
+			"rank": 13
+		},
+		{
+			"author": "by Daniel Silva",
+			"description": "Gabriel Allon, the Israeli art restorer and spy, trains a doctor from Jerusalem to help capture a secret ISIS terrorist in France.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062320247.jpg",
+			"name": "THE BLACK WIDOW",
+			"publisher": "Harper",
+			"rank": 14
+		},
+		{
+			"author": "by Jojo Moyes",
+			"description": "A woman who has barely been beyond her English village finds herself while caring for a wealthy, embittered quadriplegic.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780143124542.jpg",
+			"name": "ME BEFORE YOU",
+			"publisher": "Penguin",
+			"rank": 15
+		}
+	]
+}

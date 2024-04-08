@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Pierce Brown",
+			"description": "In Book 3 of the Red Rising trilogy, set in a dystopian future, Darrow incites a rebellion.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345539854.jpg",
+			"name": "MORNING STAR",
+			"publisher": "Del Rey",
+			"rank": 1
+		},
+		{
+			"author": "by Lisa Gardner",
+			"description": "The detective D.\u2009D. Warren hunts for a missing woman who was kidnapped and abused as a student and may have become a vigilante.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525954576.jpg",
+			"name": "FIND HER",
+			"publisher": "Dutton",
+			"rank": 2
+		},
+		{
+			"author": "by Jojo Moyes",
+			"description": "A woman who has barely been beyond her English village finds herself while caring for a wealthy, embittered quadriplegic.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780143124542.jpg",
+			"name": "ME BEFORE YOU",
+			"publisher": "Penguin",
+			"rank": 3
+		},
+		{
+			"author": "by J. D. Robb",
+			"description": "Lt. Eve Dallas of the N.Y.P.D. helps a friend and her husband solve a mystery involving politics and real estate; by Nora Roberts, writing pseudonymously.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399170898.jpg",
+			"name": "BROTHERHOOD IN DEATH",
+			"publisher": "Berkley",
+			"rank": 4
+		},
+		{
+			"author": "by James Patterson and Marshall Karp",
+			"description": "Detective Zach Gordon and his partner pursue a cold-blooded killer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316407069.jpg",
+			"name": "NYPD RED 4",
+			"publisher": "Little, Brown",
+			"rank": 5
+		},
+		{
+			"author": "by Nicholas Sparks",
+			"description": "When Travis meets his new neighbor, his bachelor status erodes.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780446698337.jpg",
+			"name": "THE CHOICE",
+			"publisher": "Grand Central",
+			"rank": 6
+		},
+		{
+			"author": "by Jonathan Kellerman",
+			"description": "The psychologist Alex Delaware and the L.A.P.D. Lt. Milo Sturgis search for the missing son of a fragile actress.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345541406.jpg",
+			"name": "BREAKDOWN",
+			"publisher": "Ballatine",
+			"rank": 7
+		},
+		{
+			"author": "by Kristin Hannah",
+			"description": "Two sisters are separated in World War II France: one in the countryside, the other in Paris.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781466850606.jpg",
+			"name": "THE NIGHTINGALE",
+			"publisher": "St. Martin's",
+			"rank": 8
+		},
+		{
+			"author": "by Paula Hawkins",
+			"description": "A psychological thriller set in the environs of London is full of complications and betrayals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594633669.jpg",
+			"name": "THE GIRL ON THE TRAIN",
+			"publisher": "Riverhead",
+			"rank": 9
+		},
+		{
+			"author": "by Alex Berenson",
+			"description": "The former C.I.A. agent John Wells sets out to kill the American billionaire who tried to trick the United States into invading Iran (in \u201cTwelve Days\u201d), but the Russians and Chinese become involved.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399176142.jpg",
+			"name": "THE WOLVES",
+			"publisher": "Putnam",
+			"rank": 10
+		},
+		{
+			"author": "by Anthony Doerr",
+			"description": "The lives of a blind French girl and a gadget-obsessed German boy before and during World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476746586.jpg",
+			"name": "ALL THE LIGHT WE CANNOT SEE",
+			"publisher": "Scribner",
+			"rank": 11
+		},
+		{
+			"author": "by Elizabeth Strout",
+			"description": "A woman struggles with memories of her impoverished and disturbing childhood and its effect on the present as she attempts to reconcile with her mother.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812989076.jpg",
+			"name": "MY NAME IS LUCY BARTON",
+			"publisher": "Random House",
+			"rank": 12
+		},
+		{
+			"author": "by Andy Weir",
+			"description": "Abandoned by his crew, an astronaut embarks on a dogged quest to stay alive.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780804139038.jpg",
+			"name": "THE MARTIAN",
+			"publisher": "Crown",
+			"rank": 13
+		},
+		{
+			"author": "by Michael Punke",
+			"description": "Left for dead after a mauling, a master tracker is consumed by a singular desire for revenge; an inspiration for the 2015 film.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250101198.jpg",
+			"name": "THE REVENANT",
+			"publisher": "Picador",
+			"rank": 14
+		},
+		{
+			"author": "by P. D. James",
+			"description": "Comdr. Adam Dalgliesh investigates a double murder.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307758989.jpg",
+			"name": "A TASTE FOR DEATH",
+			"publisher": "Vintage",
+			"rank": 15
+		}
+	]
+}

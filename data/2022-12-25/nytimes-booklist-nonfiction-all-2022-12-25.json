@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Michelle Obama",
+			"description": "The former first lady shares personal stories and the tools she uses to deal with difficult situations.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593237465.jpg",
+			"name": "THE LIGHT WE CARRY",
+			"publisher": "Crown",
+			"rank": 1
+		},
+		{
+			"author": "by Jennette McCurdy",
+			"description": "The actress and filmmaker describes her eating disorders and difficult relationship with her mother.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982185824.jpg",
+			"name": "I'M GLAD MY MOM DIED",
+			"publisher": "Simon & Schuster",
+			"rank": 2
+		},
+		{
+			"author": "by Matthew Perry",
+			"description": "The actor, known for playing Chandler Bing on \u201cFriends,\u201d shares stories from his childhood and his struggles with sobriety.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250866448.jpg",
+			"name": "FRIENDS, LOVERS, AND THE BIG TERRIBLE THING",
+			"publisher": "Flatiron",
+			"rank": 3
+		},
+		{
+			"author": "by Bessel van der Kolk",
+			"description": "How trauma affects the body and mind, and innovative treatments for recovery.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780670785933.jpg",
+			"name": "THE BODY KEEPS THE SCORE",
+			"publisher": "Penguin",
+			"rank": 4
+		},
+		{
+			"author": "by Bono",
+			"description": "The lead singer of the Irish rock band U2 offers details of his life, career and activism.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525521044.jpg",
+			"name": "SURRENDER",
+			"publisher": "Knopf",
+			"rank": 5
+		},
+		{
+			"author": "by Jon Meacham",
+			"description": "The Pulitzer Prize-winning biographer portrays the life of Abraham Lincoln.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780553393965.jpg",
+			"name": "AND THERE WAS LIGHT",
+			"publisher": "Random House",
+			"rank": 6
+		},
+		{
+			"author": "by Stacy Schiff",
+			"description": "The Pulitzer Prize-winning biographer details Samuel Adams\u2019s contributions to the American Revolution.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316441117.jpg",
+			"name": "THE REVOLUTIONARY",
+			"publisher": "Little, Brown",
+			"rank": 7
+		},
+		{
+			"author": "by Mike Pence",
+			"description": "The former vice president gives an account of his career, including his time in the Oval Office and during the Jan. 6 insurrection.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982190330.jpg",
+			"name": "SO HELP ME GOD",
+			"publisher": "Simon & Schuster",
+			"rank": 8
+		},
+		{
+			"author": "by Siddhartha Mukherjee",
+			"description": "The Pulitzer Prize-winning author chronicles the discovery of cells and describes how modern medicine uses them.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982117351.jpg",
+			"name": "THE SONG OF THE CELL",
+			"publisher": "Scribner",
+			"rank": 9
+		},
+		{
+			"author": "by Bob Dylan",
+			"description": "In a collection of more than 60 essays, the musician and winner of the Nobel Prize in Literature explores the nature of popular music.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451648706.jpg",
+			"name": "THE PHILOSOPHY OF MODERN SONG",
+			"publisher": "Simon & Schuster",
+			"rank": 10
+		},
+		{
+			"author": "by Randall Munroe",
+			"description": "The creator of the web comic \u201cxkcd\u201d and former NASA roboticist looks into hypothetical and oddball scenarios.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525537113.jpg",
+			"name": "WHAT IF? 2",
+			"publisher": "Riverhead",
+			"rank": 11
+		},
+		{
+			"author": "by Patti Smith",
+			"description": "More than 365 images and reflections by the National Book Award\u2013winning author and Rock and Roll Hall of Fame inductee.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593448540.jpg",
+			"name": "A BOOK OF DAYS",
+			"publisher": "Random House",
+			"rank": 12
+		},
+		{
+			"author": "by Rush Limbaugh with Kathryn Adams Limbaugh and David Limbaugh",
+			"description": "A collection of the late conservative commentator\u2019s on-air moments, with memories from his widow and brother.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781668001844.jpg",
+			"name": "RADIO'S GREATEST OF ALL TIME",
+			"publisher": "Threshold Editions",
+			"rank": 13
+		},
+		{
+			"author": "by Quentin Tarantino",
+			"description": "The filmmaker shares his love of cinema with special attention given to key American films of the 1970s.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063112582.jpg",
+			"name": "CINEMA SPECULATION",
+			"publisher": "Harper",
+			"rank": 14
+		},
+		{
+			"author": "by Robin Wall Kimmerer",
+			"description": "A botanist and member of the Citizen Potawatomi Nation espouses having an understanding and appreciation of plants and animals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781571313560.jpg",
+			"name": "BRAIDING SWEETGRASS",
+			"publisher": "Milkweed Editions",
+			"rank": 15
+		}
+	]
+}

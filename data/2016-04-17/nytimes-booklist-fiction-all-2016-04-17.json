@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Harlan Coben",
+			"description": "A retired Army helicopter pilot faces combat-related nightmares and mysteries concerning the deaths of her husband and sister.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525955092.jpg",
+			"name": "FOOL ME ONCE",
+			"publisher": "Dutton",
+			"rank": 1
+		},
+		{
+			"author": "by Julia Quinn",
+			"description": "Billie finds that, despite herself, she's drifting toward the arrogant George.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062388155.jpg",
+			"name": "BECAUSE OF MISS BRIDGERTON",
+			"publisher": "Avon",
+			"rank": 2
+		},
+		{
+			"author": "by Jojo Moyes",
+			"description": "A woman who has barely been beyond her English village finds herself while caring for a wealthy, embittered quadriplegic.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780143124542.jpg",
+			"name": "ME BEFORE YOU",
+			"publisher": "Penguin",
+			"rank": 3
+		},
+		{
+			"author": "by Cynthia D'Aprix Sweeney",
+			"description": "Siblings in a dysfunctional New York family must grapple with a reduced inheritance.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062414236.jpg",
+			"name": "THE NEST",
+			"publisher": "Ecco/HarperCollins",
+			"rank": 4
+		},
+		{
+			"author": "by Jacqueline Winspear",
+			"description": "In 1938, the psychologist Maisie Dobbs travels to Germany to impersonate the daughter of a prisoner.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062220622.jpg",
+			"name": "JOURNEY TO MUNICH",
+			"publisher": "Harper/HarperCollins",
+			"rank": 5
+		},
+		{
+			"author": "by James Patterson and Mark Sullivan",
+			"description": "Jack Morgan, the head of the Private global investigative agency, probes the murders of members of the French cultural elite.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316408998.jpg",
+			"name": "PRIVATE PARIS",
+			"publisher": "Little, Brown",
+			"rank": 6
+		},
+		{
+			"author": "by Lee Child",
+			"description": "Jack Reacher pries open a missing-persons case that takes him across the country and into the shadowy reaches of the Internet.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780804178785.jpg",
+			"name": "MAKE ME",
+			"publisher": "Delacorte",
+			"rank": 7
+		},
+		{
+			"author": "by John Grisham",
+			"description": "The defense attorney Sebastian Rudd develops a close working relationship with his bodyguard and sidekick, Partner. A standalone digital short-story prequel to \"Rogue Lawyer.\"",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385541923.jpg",
+			"name": "PARTNERS",
+			"publisher": "Doubleday",
+			"rank": 8
+		},
+		{
+			"author": "by Kristin Hannah",
+			"description": "Two sisters are separated in World War II France: one in the countryside, the other in Paris.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781466850606.jpg",
+			"name": "THE NIGHTINGALE",
+			"publisher": "St. Martin's",
+			"rank": 9
+		},
+		{
+			"author": "by Linda Lael Miller",
+			"description": "A troubled teenager helps bring together his harried guardian and a filmmaker who has returned to the family ranch.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781459292529.jpg",
+			"name": "ONCE A RANCHER",
+			"publisher": "HQN",
+			"rank": 10
+		},
+		{
+			"author": "by Jill Shalvis",
+			"description": "After a disastrous mission, a soldier heads to a lakeside cabin where a wayward woman has docked her boat.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455586806.jpg",
+			"name": "NOBODY BUT YOU",
+			"publisher": "Grand Central",
+			"rank": 11
+		},
+		{
+			"author": "by Lisa Scottoline",
+			"description": "A law professor caught in a prison riot must defend herself when she is unjustly accused of murder.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780061797767.jpg",
+			"name": "DADDY'S GIRL",
+			"publisher": "HarperCollins",
+			"rank": 12
+		},
+		{
+			"author": "by Tijan",
+			"description": "Taylor sees the stress and struggle that give rise to Logan's rebellious behavior.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/A00B01DIE5R3Y.jpg",
+			"name": "LOGAN KADE",
+			"publisher": "Tijan",
+			"rank": 13
+		},
+		{
+			"author": "by Karen Kingsbury",
+			"description": "A baseball player intercedes when an ailing orphanage worker in Uganda needs a transplant.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451687545.jpg",
+			"name": "A BRUSH OF WINGS",
+			"publisher": "Howard Books",
+			"rank": 14
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "The government hit man Will Robie investigates murder charges against his estranged father in their Mississippi hometown.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455586431.jpg",
+			"name": "THE GUILTY",
+			"publisher": "Grand Central",
+			"rank": 15
+		}
+	]
+}

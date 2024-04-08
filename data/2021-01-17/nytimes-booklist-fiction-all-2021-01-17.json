@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Julia Quinn",
+			"description": "The first book in the Bridgerton series. Daphne Bridgerton\u2019s reputation soars when she colludes with the Duke of Hastings. The basis of the Netflix series \u201cBridgerton.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062424037.jpg",
+			"name": "THE DUKE AND I",
+			"publisher": "Avon",
+			"rank": 1
+		},
+		{
+			"author": "by Brit Bennett",
+			"description": "The lives of twin sisters who run away from a Southern Black community at age 16 diverge as one returns and the other takes on a different racial identity but their fates intertwine.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525536291.jpg",
+			"name": "THE VANISHING HALF",
+			"publisher": "Riverhead",
+			"rank": 2
+		},
+		{
+			"author": "by Stuart Woods",
+			"description": "The 56th book in the Stone Barrington series. Old friends come to Stone\u2019s aid as he takes on an expanding cabal of enemies.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593188354.jpg",
+			"name": "HUSH-HUSH",
+			"publisher": "Putnam",
+			"rank": 3
+		},
+		{
+			"author": "by V.E. Schwab",
+			"description": "A Faustian bargain comes with a curse that affects the adventure Addie LaRue has across centuries.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780765387561.jpg",
+			"name": "THE INVISIBLE LIFE OF ADDIE LARUE",
+			"publisher": "Tor/Forge",
+			"rank": 4
+		},
+		{
+			"author": "by Michael Connelly",
+			"description": "The sixth book in the Mickey Haller series. Haller defends himself when police find the body of a former client in his car\u2019s trunk.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316485623.jpg",
+			"name": "THE LAW OF INNOCENCE",
+			"publisher": "Little, Brown",
+			"rank": 5
+		},
+		{
+			"author": "by John Grisham",
+			"description": "The third book in the Jake Brigance series. A 16-year-old is accused of killing a deputy in Clanton, Miss., in 1990.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385545969.jpg",
+			"name": "A TIME FOR MERCY",
+			"publisher": "Doubleday",
+			"rank": 6
+		},
+		{
+			"author": "by Julia Quinn",
+			"description": "The second book in the Bridgerton series. Kate Sheffield gets in the way of Anthony Bridgerton's intent to marry.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062424075.jpg",
+			"name": "THE VISCOUNT WHO LOVED ME",
+			"publisher": "Avon",
+			"rank": 7
+		},
+		{
+			"author": "by Fredrik Backman",
+			"description": "A failed bank robber holds a group of strangers hostage at an apartment open house.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501160837.jpg",
+			"name": "ANXIOUS PEOPLE",
+			"publisher": "Atria",
+			"rank": 8
+		},
+		{
+			"author": "by Jeanine Cummins",
+			"description": "A bookseller flees Mexico for the United States with her son while pursued by the head of a drug cartel.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250209764.jpg",
+			"name": "AMERICAN DIRT",
+			"publisher": "Flatiron",
+			"rank": 9
+		},
+		{
+			"author": "by Nicholas Sparks",
+			"description": "A doctor serving in the Navy in Afghanistan goes back to North Carolina where two women change his life.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538728574.jpg",
+			"name": "THE RETURN",
+			"publisher": "Grand Central",
+			"rank": 10
+		},
+		{
+			"author": "by Matt Haig",
+			"description": "Nora Seed finds a library beyond the edge of the universe that contains books with multiple possibilities of the lives one could have lived.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525559474.jpg",
+			"name": "THE MIDNIGHT LIBRARY",
+			"publisher": "Viking",
+			"rank": 11
+		},
+		{
+			"author": "by Lucy Foley",
+			"description": "A wedding between a TV star and a magazine publisher on an island off the coast of Ireland turns deadly.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062868930.jpg",
+			"name": "THE GUEST LIST",
+			"publisher": "Morrow",
+			"rank": 12
+		},
+		{
+			"author": "by Julia Quinn",
+			"description": "The fourth book in the Bridgerton series. Penelope Featherington and Colin Bridgerton discover each other's secrets.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062424105.jpg",
+			"name": "ROMANCING MISTER BRIDGERTON",
+			"publisher": "Avon",
+			"rank": 13
+		},
+		{
+			"author": "by Ernest Cline",
+			"description": "In a sequel to \u201cReady Player One,\u201d Wade Watts discovers a technological advancement and goes on a new quest.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524761332.jpg",
+			"name": "READY PLAYER TWO",
+			"publisher": "Ballantine",
+			"rank": 14
+		},
+		{
+			"author": "by Marie Benedict",
+			"description": "What might have happened during the 11 days in which a rising mystery author went missing in 1926.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781492682721.jpg",
+			"name": "THE MYSTERY OF MRS. CHRISTIE",
+			"publisher": "Sourcebooks Landmark",
+			"rank": 15
+		}
+	]
+}

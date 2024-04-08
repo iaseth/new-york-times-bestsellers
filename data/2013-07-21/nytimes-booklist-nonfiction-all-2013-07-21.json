@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Eben Alexander",
+			"description": "A neurosurgeon recounts his near death experience during a coma from bacterial meningitis.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451695199.jpg",
+			"name": "PROOF OF HEAVEN",
+			"publisher": "Simon & Schuster",
+			"rank": 1
+		},
+		{
+			"author": "by Sheryl Sandberg with Nell Scovell",
+			"description": "The chief operating officer of Facebook urges women to pursue their careers without ambivalence.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385349956.jpg",
+			"name": "LEAN IN",
+			"publisher": "Knopf",
+			"rank": 2
+		},
+		{
+			"author": "by Phil Robertson with Mark Schlabach",
+			"description": "The Duck Commander pays tribute to \u201cfaith, family and ducks.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476726090.jpg",
+			"name": "HAPPY, HAPPY, HAPPY",
+			"publisher": "Howard Books",
+			"rank": 3
+		},
+		{
+			"author": "by Jenni Rivera with Marissa Mateo",
+			"description": "A life of the Mexican-American singer, who was killed in a plane crash in December 2012, describes raising children as a single mother and succeeding as a woman in a male-dominated industry.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476744766.jpg",
+			"name": "UNBREAKABLE",
+			"publisher": "Atria Books",
+			"rank": 4
+		},
+		{
+			"author": "by David Sedaris",
+			"description": "Essays from the humorist on subjects like French dentistry and a North Carolina Costco.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316125680.jpg",
+			"name": "LET'S EXPLORE DIABETES WITH OWLS",
+			"publisher": "Little, Brown",
+			"rank": 5
+		},
+		{
+			"author": "by Cheryl Strayed",
+			"description": "A woman\u2019s account of a life-changing 1,100-mile hike along the Pacific Crest Trail during the summer of 1995.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307476074.jpg",
+			"name": "WILD",
+			"publisher": "Knopf",
+			"rank": 6
+		},
+		{
+			"author": "by Jim Gaffigan",
+			"description": "The comedian\u2019s life with five kids in a two-bedroom New York City apartment.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385349079.jpg",
+			"name": "DAD IS FAT",
+			"publisher": "Crown Archetype",
+			"rank": 7
+		},
+		{
+			"author": "by Tina Fey",
+			"description": "A memoir from the former \"Saturday Night Live\" star and creator of \"30 Rock.\"",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316056892.jpg",
+			"name": "BOSSYPANTS",
+			"publisher": "Reagan Arthur/Little, Brown",
+			"rank": 8
+		},
+		{
+			"author": "by Jeannette Walls",
+			"description": "The author recalls a bizarre childhood during which she was constantly moved from place to place.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780743247542.jpg",
+			"name": "THE GLASS CASTLE",
+			"publisher": "Simon & Schuster",
+			"rank": 9
+		},
+		{
+			"author": "by Laura Hillenbrand",
+			"description": "An Olympic runner\u2019s story of survival as a prisoner of the Japanese in World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400064168.jpg",
+			"name": "UNBROKEN",
+			"publisher": "Random House",
+			"rank": 10
+		},
+		{
+			"author": "by Rick Atkinson",
+			"description": "The final volume of the Liberation Trilogy describes the Allied victory in Europe, from D-Day in June 1944 to the German surrender 11 months later.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780805062908.jpg",
+			"name": "THE GUNS AT LAST LIGHT",
+			"publisher": "Holt",
+			"rank": 11
+		},
+		{
+			"author": "by Lily Koppel",
+			"description": "The wives of the Mercury Seven astronauts, friends for more than 50 years.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455503254.jpg",
+			"name": "THE ASTRONAUT WIVES CLUB",
+			"publisher": "Grand Central",
+			"rank": 12
+		},
+		{
+			"author": "by Malcolm Gladwell",
+			"description": "Why some people succeed \u2014 it has to do with luck and opportunities as well as talent. From the author of \"Blink\" and \"the Tipping Point.\"",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316017930.jpg",
+			"name": "OUTLIERS",
+			"publisher": "Little, Brown",
+			"rank": 13
+		},
+		{
+			"author": "by James O'Keefe",
+			"description": "O\u2019Keefe describes Project Veritas and its \u201cguerrilla war to expose fraud and save democracy.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476706191.jpg",
+			"name": "BREAKTHROUGH",
+			"publisher": "Threshold Editions",
+			"rank": 14
+		},
+		{
+			"author": "by Daniel James Brown",
+			"description": "The University of Washington\u2019s eight-oar crew and their quest for gold at the 1936 Berlin Olympics.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101622742.jpg",
+			"name": "THE BOYS IN THE BOAT",
+			"publisher": "Viking",
+			"rank": 15
+		}
+	]
+}

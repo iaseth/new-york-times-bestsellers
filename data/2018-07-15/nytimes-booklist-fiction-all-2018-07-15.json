@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by James Patterson and Bill Clinton",
+			"description": "President Jonathan Duncan, a Gulf War veteran and widower, takes on adversaries at home and abroad.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316412698.jpg",
+			"name": "THE PRESIDENT IS MISSING",
+			"publisher": "Little, Brown and Knopf",
+			"rank": 1
+		},
+		{
+			"author": "by Emily Giffin",
+			"description": "A scandal sends members of two Nashville families into chaos.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399178931.jpg",
+			"name": "ALL WE EVER WANTED",
+			"publisher": "Ballantine",
+			"rank": 2
+		},
+		{
+			"author": "by A.J. Finn",
+			"description": "A recluse who drinks heavily and takes prescription drugs may have witnessed a crime across from her Harlem townhouse.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062678416.jpg",
+			"name": "THE WOMAN IN THE WINDOW",
+			"publisher": "Morrow",
+			"rank": 3
+		},
+		{
+			"author": "by Elin Hilderbrand",
+			"description": "A body is found in Nantucket Harbor hours before a picture-perfect wedding.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316375269.jpg",
+			"name": "THE PERFECT COUPLE",
+			"publisher": "Little, Brown",
+			"rank": 4
+		},
+		{
+			"author": "by John Grisham",
+			"description": "Three students at a sleazy for-profit law school hope to expose the student-loan banker who runs it.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385541183.jpg",
+			"name": "THE ROOSTER BAR",
+			"publisher": "Bantam/Dell",
+			"rank": 5
+		},
+		{
+			"author": "by Stephen King",
+			"description": "A detective investigates a seemingly wholesome member of the community when an 11-year-old boy\u2019s body is found.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501180989.jpg",
+			"name": "THE OUTSIDER",
+			"publisher": "Scribner",
+			"rank": 6
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "Amos Decker, known as the Memory Man, puts his talents toward solving a string of murders in a Rust Belt town.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538761397.jpg",
+			"name": "THE FALLEN",
+			"publisher": "Grand Central",
+			"rank": 7
+		},
+		{
+			"author": "by Fern Michaels",
+			"description": "The fourth book in the Men of the Sisterhood series. Joe Espinosa discovers children are in danger.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781420140729.jpg",
+			"name": "TRUTH OR DARE",
+			"publisher": "Zebra",
+			"rank": 8
+		},
+		{
+			"author": "by Ilona Andrews",
+			"description": "Hugh d\u2019Ambray and Elara Harper join forces to take on their enemies.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781641970358.jpg",
+			"name": "IRON AND MAGIC",
+			"publisher": "NYLA",
+			"rank": 9
+		},
+		{
+			"author": "by Gillian Flynn",
+			"description": "After a stay at a psychiatric hospital, a reporter returns (reluctantly) to her hometown to cover the murders of two girls.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307341556.jpg",
+			"name": "SHARP OBJECTS",
+			"publisher": "Broadway",
+			"rank": 10
+		},
+		{
+			"author": "by James Patterson",
+			"description": "Three suspense stories: \u201cThe Lawyer Lifeguard,\u201d \u201cThe Doctor\u2019s Plot\u201d and \u201cThe Shut-In.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538730577.jpg",
+			"name": "MURDER IN PARADISE",
+			"publisher": "Grand Central",
+			"rank": 11
+		},
+		{
+			"author": "by Gail Honeyman",
+			"description": "A young woman\u2019s well-ordered life is disrupted by the I.T. guy from her office.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735220690.jpg",
+			"name": "ELEANOR OLIPHANT IS COMPLETELY FINE",
+			"publisher": "Penguin",
+			"rank": 12
+		},
+		{
+			"author": "by Andrew Sean Greer",
+			"description": "Winner of the 2018 Pulitzer Prize in fiction. To avoid an ex-boyfriend's wedding, a failed novelist attends literary events around the world.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316316132.jpg",
+			"name": "LESS",
+			"publisher": "Back Bay",
+			"rank": 13
+		},
+		{
+			"author": "by Lauren Weisberger",
+			"description": "Emily Charlton plans a comeback from the suburbs. From the author of \"The Devil Wears Prada.\"",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476778464.jpg",
+			"name": "WHEN LIFE GIVES YOU LULULEMONS",
+			"publisher": "Simon & Schuster",
+			"rank": 14
+		},
+		{
+			"author": "by Madeline Miller",
+			"description": "Zeus banishes Helios' daughter to an island, where she must choose between living with gods or mortals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316556347.jpg",
+			"name": "CIRCE",
+			"publisher": "Little, Brown",
+			"rank": 15
+		}
+	]
+}

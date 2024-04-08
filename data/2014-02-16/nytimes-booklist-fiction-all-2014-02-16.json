@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Donna Tartt",
+			"description": "A painting smuggled out of the Metropolitan Museum of Art after a bombing becomes a boy\u2019s prize, guilt and burden.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316248679.jpg",
+			"name": "THE GOLDFINCH",
+			"publisher": "Little, Brown",
+			"rank": 1
+		},
+		{
+			"author": "by Sue Monk Kidd",
+			"description": "The relationship between a wealthy Charleston girl, Sarah Grimk\u00e9, who will grow up to become a prominent abolitionist, and the slave she is given for her 11th birthday.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780670024780.jpg",
+			"name": "THE INVENTION OF WINGS",
+			"publisher": "Viking",
+			"rank": 2
+		},
+		{
+			"author": "by Anna Quindlen",
+			"description": "An aging photographer rents a rural cottage and discovers sparks of creativity and desire.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812995756.jpg",
+			"name": "STILL LIFE WITH BREAD CRUMBS",
+			"publisher": "Random House",
+			"rank": 3
+		},
+		{
+			"author": "by Jeaniene Frost",
+			"description": "A rogue C.I.A. agent\u2019s secret activities threaten to raise tensions between humans and the undead, and the vampires Cat Crawfield and Bones must stop an all-out war; a Night Huntress novel.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062075840.jpg",
+			"name": "UP FROM THE GRAVE",
+			"publisher": "Avon/HarperCollins",
+			"rank": 4
+		},
+		{
+			"author": "by John Grisham",
+			"description": "A sequel, about race and inheritance, to \u201cA Time to Kill.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385537926.jpg",
+			"name": "SYCAMORE ROW",
+			"publisher": "Doubleday",
+			"rank": 5
+		},
+		{
+			"author": "by Joyce Maynard",
+			"description": "One holiday weekend in New Hampshire, the lives of a single mother and her son are irrevocably changed when they show kindness to a stranger with a terrible secret. Originally published in 2009; now a movie.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780061843419.jpg",
+			"name": "LABOR DAY",
+			"publisher": "HarperCollins",
+			"rank": 6
+		},
+		{
+			"author": "by Jeffrey Archer",
+			"description": "The first volume of the Clifton Chronicles introduces Harry Clifton, who searches for the truth about his father.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781429984379.jpg",
+			"name": "ONLY TIME WILL TELL",
+			"publisher": "St. Martin's",
+			"rank": 7
+		},
+		{
+			"author": "by Graeme Simsion",
+			"description": "A man with Asperger's syndrome becomes involved with an unconventional woman.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476729091.jpg",
+			"name": "THE ROSIE PROJECT",
+			"publisher": "Simon & Schuster",
+			"rank": 8
+		},
+		{
+			"author": "by Liane Moriarty",
+			"description": "A woman\u2019s life is upended when she discovers a letter from her husband she was not meant to read.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101636237.jpg",
+			"name": "THE HUSBAND'S SECRET",
+			"publisher": "Amy Einhorn/Putnam",
+			"rank": 9
+		},
+		{
+			"author": "by Joanna Wylde",
+			"description": "A biker takes over when his stepbrother turns out to be a deadbeat dad. A Reaper\u2019s Motorcycle Club book.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698144088.jpg",
+			"name": "REAPER'S LEGACY",
+			"publisher": "Berkley",
+			"rank": 10
+		},
+		{
+			"author": "by Sherryl Woods",
+			"description": "Abby Miller, recently divorced and having returned to Seaview Key, falls for a handsome ex-soldier.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781460325278.jpg",
+			"name": "HOME TO SEAVIEW KEY",
+			"publisher": "Harlequin Mira",
+			"rank": 11
+		},
+		{
+			"author": "by James Patterson and Emily Raymond",
+			"description": "Sixteen-year-old Axi Moore invites her best friend, whom she secretly loves, on a cross-country road trip.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316207041.jpg",
+			"name": "FIRST LOVE",
+			"publisher": "Little, Brown",
+			"rank": 12
+		},
+		{
+			"author": "by Jeffrey Archer",
+			"description": "In Book 3 of the Clifton Chronicles, the focus shifts to a new generation \u2014 Sebastian, the son of Harry and Emma Clifton.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250022370.jpg",
+			"name": "BEST KEPT SECRET",
+			"publisher": "St. Martin's",
+			"rank": 13
+		},
+		{
+			"author": "by Jeffrey Archer",
+			"description": "In the second volume of the Clifton Chronicles, it\u2019s 1939 and Harry Clifton seizes a chance to bury his past.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250000972.jpg",
+			"name": "THE SINS OF THE FATHER",
+			"publisher": "St. Martin's",
+			"rank": 14
+		},
+		{
+			"author": "by Gillian Flynn",
+			"description": "A woman disappears on the day of her fifth anniversary; is her husband a killer?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307588388.jpg",
+			"name": "GONE GIRL",
+			"publisher": "Crown",
+			"rank": 15
+		}
+	]
+}

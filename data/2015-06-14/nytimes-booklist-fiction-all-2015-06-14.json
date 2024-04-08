@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Nelson DeMille",
+			"description": "A surveillance expert monitors the activities of a newly resurgent Russia.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780446580854.jpg",
+			"name": "RADIANT ANGEL",
+			"publisher": "Grand Central",
+			"rank": 1
+		},
+		{
+			"author": "by Paula Hawkins",
+			"description": "A psychological thriller set in the environs of London is full of complications and betrayals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594633669.jpg",
+			"name": "THE GIRL ON THE TRAIN",
+			"publisher": "Riverhead",
+			"rank": 2
+		},
+		{
+			"author": "by Clive Cussler and Boyd Morrison",
+			"description": "A man sets out to thwart an American weapons designer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698140769.jpg",
+			"name": "PIRANHA",
+			"publisher": "Putnam",
+			"rank": 3
+		},
+		{
+			"author": "by Anthony Doerr",
+			"description": "The lives of a blind French girl and a gadget-obsessed German boy before and during World War II; the winner of the 2015 Pulitzer Prize.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476746586.jpg",
+			"name": "ALL THE LIGHT WE CANNOT SEE",
+			"publisher": "Scribner",
+			"rank": 4
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "A police detective who left the force when his family was murdered teams up with his former partner to solve the case.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455586387.jpg",
+			"name": "MEMORY MAN",
+			"publisher": "Grand Central",
+			"rank": 5
+		},
+		{
+			"author": "by James Patterson and Maxine Paetro",
+			"description": "When a video of a shocking crime surfaces, it casts suspicion on a San Francisco detective's colleagues.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316407021.jpg",
+			"name": "14TH DEADLY SIN",
+			"publisher": "Little, Brown",
+			"rank": 6
+		},
+		{
+			"author": "by Jessica Knoll",
+			"description": "The life of a successful New York magazine writer is shaken when secrets from her past are revealed in a documentary.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476789651.jpg",
+			"name": "LUCKIEST GIRL ALIVE",
+			"publisher": "Simon & Schuster",
+			"rank": 7
+		},
+		{
+			"author": "by Kristin Hannah",
+			"description": "Two sisters are separated in World War II France: one in the countryside, the other in Paris.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781466850606.jpg",
+			"name": "THE NIGHTINGALE",
+			"publisher": "St. Martin's",
+			"rank": 8
+		},
+		{
+			"author": "by Stephanie Laurens",
+			"description": "A couple must vault personal resistance before accepting each other's affection.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780992278984.jpg",
+			"name": "A MATCH FOR MARCUS CYNSTER",
+			"publisher": "Mira",
+			"rank": 9
+		},
+		{
+			"author": "by Linda Lael Miller",
+			"description": "Marriage is the metric when a single father moves into town.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780373779338.jpg",
+			"name": "THE MARRIAGE SEASON",
+			"publisher": "Harlequin",
+			"rank": 10
+		},
+		{
+			"author": "by Sydney Landon",
+			"description": "A dot-com Lothario may mend his lascivious ways.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/A00B00U1X88OQ.jpg",
+			"name": "MENDED",
+			"publisher": "Sydney Landon",
+			"rank": 11
+		},
+		{
+			"author": "by Jamie McGuire",
+			"description": "A waitress finds herself the focus of a firefighter's attention.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781511847506.jpg",
+			"name": "BEAUTIFUL SACRIFICE",
+			"publisher": "CreateSpace",
+			"rank": 12
+		},
+		{
+			"author": "by John Sandford",
+			"description": "Lucas Davenport is on the trail of killers who have targeted a group of vagabonds called the Travelers.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399168796.jpg",
+			"name": "GATHERING PREY",
+			"publisher": "Putnam",
+			"rank": 13
+		},
+		{
+			"author": "by Lisa Jewell",
+			"description": "Tragedy visits a group of girls in the Cotswolds.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476703015.jpg",
+			"name": "THE HOUSE WE GREW UP IN",
+			"publisher": "Atria Books",
+			"rank": 14
+		},
+		{
+			"author": "by Kat Martin",
+			"description": "A woman's infatuation with a charter-boat captain is compounded by murder.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781420133875.jpg",
+			"name": "AGAINST THE TIDE",
+			"publisher": "Zebra",
+			"rank": 15
+		}
+	]
+}

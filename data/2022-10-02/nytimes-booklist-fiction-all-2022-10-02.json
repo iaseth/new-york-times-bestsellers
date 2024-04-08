@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Delia Owens",
+			"description": "In a quiet town on the North Carolina coast in 1969, a young woman who survived alone in the marsh becomes a murder suspect.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735219090.jpg",
+			"name": "WHERE THE CRAWDADS SING",
+			"publisher": "Putnam",
+			"rank": 1
+		},
+		{
+			"author": "by Kyle Mills",
+			"description": "The 21st book in the Mitch Rapp series. President Cook, a team of assassins and a killer known as Legion confront Rapp on different fronts.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982164911.jpg",
+			"name": "VINCE FLYNN: OATH OF LOYALTY",
+			"publisher": "Atria/Emily Bestler",
+			"rank": 2
+		},
+		{
+			"author": "by Stephen King",
+			"description": "A high school kid inherits a shed that is a portal to another world where good and evil are at war.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781668002179.jpg",
+			"name": "FAIRY TALE",
+			"publisher": "Scribner",
+			"rank": 3
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "Lowen Ashleigh is hired by the husband of an injured writer to complete her popular series and uncovers a horrifying truth.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781791392796.jpg",
+			"name": "VERITY",
+			"publisher": "Grand Central",
+			"rank": 4
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "A battered wife raised in a violent home attempts to halt the cycle of abuse.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501110375.jpg",
+			"name": "IT ENDS WITH US",
+			"publisher": "Atria",
+			"rank": 5
+		},
+		{
+			"author": "by Alaina Urquhart",
+			"description": "A forensic pathologist is on the trail of a serial killer in the Louisiana bayou.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781638930143.jpg",
+			"name": "THE BUTCHER AND THE WREN",
+			"publisher": "Zando",
+			"rank": 6
+		},
+		{
+			"author": "by James Patterson and Brendan DuBois",
+			"description": "President Keegan Barrett\u2019s power grab tests the loyalties of two C.I.A. agents.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316499637.jpg",
+			"name": "BLOWBACK",
+			"publisher": "Little, Brown",
+			"rank": 7
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "Tate Collins and Miles Archer,\u00a0an airline pilot, think they can handle a no strings attached arrangement. But they can't.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476753195.jpg",
+			"name": "UGLY LOVE",
+			"publisher": "Atria",
+			"rank": 8
+		},
+		{
+			"author": "by Tamsyn Muir",
+			"description": "Six months after waking up in a stranger\u2019s body, Nona is torn between living an ordinary life or saving those around her from strange forces.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250854117.jpg",
+			"name": "NONA THE NINTH",
+			"publisher": "Tordotcom",
+			"rank": 9
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "Is Ben using his relationship with Fallon as fodder for his novel?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501110351.jpg",
+			"name": "NOVEMBER 9",
+			"publisher": "Atria",
+			"rank": 10
+		},
+		{
+			"author": "by Taylor Jenkins Reid",
+			"description": "A movie icon recounts stories of her loves and career to a struggling magazine writer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501161933.jpg",
+			"name": "THE SEVEN HUSBANDS OF EVELYN HUGO",
+			"publisher": "Washington Square/Atria",
+			"rank": 11
+		},
+		{
+			"author": "by George R.R. Martin",
+			"description": "Set 300 years before the events of \u201cA Game of Thrones,\u201d this is the first volume of the two-part history of the Targaryens in Westeros.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524796280.jpg",
+			"name": "FIRE AND BLOOD",
+			"publisher": "Bantam",
+			"rank": 12
+		},
+		{
+			"author": "by Alex Michaelides",
+			"description": "Theo Faber looks into the mystery of a famous painter who stops speaking after shooting her husband.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250301697.jpg",
+			"name": "THE SILENT PATIENT",
+			"publisher": "Celadon",
+			"rank": 13
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "Quinn and Graham\u2019s marriage depends on past promises.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501171604.jpg",
+			"name": "ALL YOUR PERFECTS",
+			"publisher": "Atria",
+			"rank": 14
+		},
+		{
+			"author": "by Sarah J. Maas",
+			"description": "The fifth book in the Court of Thorns and Roses series. Nesta Archeron is forced into close quarters with a warrior named Cassian.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781681196282.jpg",
+			"name": "A COURT OF SILVER FLAMES",
+			"publisher": "Bloomsbury",
+			"rank": 15
+		}
+	]
+}

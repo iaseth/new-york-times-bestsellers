@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Danielle Steel",
+			"description": "A woman whose life has been shattered befriends a homeless boy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345531056.jpg",
+			"name": "BLUE",
+			"publisher": "Delacorte",
+			"rank": 1
+		},
+		{
+			"author": "by Karen Marie Moning",
+			"description": "Solving an ancient riddle to prevent the Earth from vanishing on the streets of a dangerously magical Dublin; a Fever novel.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780440339823.jpg",
+			"name": "FEVERBORN",
+			"publisher": "Delacorte",
+			"rank": 2
+		},
+		{
+			"author": "by Nicholas Sparks",
+			"description": "When Travis meets his new neighbor, his bachelor status erodes.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780446698337.jpg",
+			"name": "THE CHOICE",
+			"publisher": "Grand Central",
+			"rank": 3
+		},
+		{
+			"author": "by Elizabeth Strout",
+			"description": "A woman struggles with memories of her impoverished and disturbing childhood and its effect on the present as she attempts to reconcile with her mother.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812989076.jpg",
+			"name": "MY NAME IS LUCY BARTON",
+			"publisher": "Random House",
+			"rank": 4
+		},
+		{
+			"author": "by Michael Punke",
+			"description": "Left for dead after a mauling, a master tracker is consumed by a singular desire for revenge; an inspiration for the 2015 film.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250101198.jpg",
+			"name": "THE REVENANT",
+			"publisher": "Picador",
+			"rank": 5
+		},
+		{
+			"author": "by Vi Keeland",
+			"description": "After a locker-room interview of a Super Bowl M.V.P., a sportscaster decides to alter her dating rules.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781942215356.jpg",
+			"name": "THE BALLER",
+			"publisher": "Vi Keeland",
+			"rank": 6
+		},
+		{
+			"author": "by Paula Hawkins",
+			"description": "A psychological thriller set in the environs of London is full of complications and betrayals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594633669.jpg",
+			"name": "THE GIRL ON THE TRAIN",
+			"publisher": "Riverhead",
+			"rank": 7
+		},
+		{
+			"author": "by Kristin Hannah",
+			"description": "Two sisters are separated in World War II France: one in the countryside, the other in Paris.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781466850606.jpg",
+			"name": "THE NIGHTINGALE",
+			"publisher": "St. Martin's",
+			"rank": 8
+		},
+		{
+			"author": "by Andy Weir",
+			"description": "Abandoned by his crew, an astronaut embarks on a dogged quest to stay alive.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780804139038.jpg",
+			"name": "THE MARTIAN",
+			"publisher": "Crown",
+			"rank": 9
+		},
+		{
+			"author": "by Liane Moriarty",
+			"description": "A family home on an Australian island is bequeathed to an outsider, and the clan's conflicts come with it.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062008671.jpg",
+			"name": "THE LAST ANNIVERSARY",
+			"publisher": "Harper Perennial",
+			"rank": 10
+		},
+		{
+			"author": "by J. A. Jance",
+			"description": "In the 10th Ali Reynolds novel, Ali and her new husband try to help a girl who has escaped from a polygamous cult and an old woman who is being driven from her farm.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476745077.jpg",
+			"name": "COLD BETRAYAL",
+			"publisher": "Touchstone",
+			"rank": 11
+		},
+		{
+			"author": "by Anthony Doerr",
+			"description": "The lives of a blind French girl and a gadget-obsessed German boy before and during World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476746586.jpg",
+			"name": "ALL THE LIGHT WE CANNOT SEE",
+			"publisher": "Scribner",
+			"rank": 12
+		},
+		{
+			"author": "by John Grisham",
+			"description": "The attorney Sebastian Rudd is a \u201clone gunman\u201d who hates injustice and the system and defends unpopular clients.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385539449.jpg",
+			"name": "ROGUE LAWYER",
+			"publisher": "Doubleday",
+			"rank": 13
+		},
+		{
+			"author": "by Audrey Carlan",
+			"description": "Mia becomes a high-priced escort to pay off her father's gambling debts.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/A00B013CVOJEG.jpg",
+			"name": "JANUARY",
+			"publisher": "Waterhouse",
+			"rank": 14
+		},
+		{
+			"author": "by Bernard Cornwell",
+			"description": "Forces are gathering against Uhtred, the greatest warrior of the kingdoms of Wessex, Mercia and East Anglia; the ninth book of the Saxon Tales.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062250964.jpg",
+			"name": "WARRIORS OF THE STORM",
+			"publisher": "Harper",
+			"rank": 15
+		}
+	]
+}

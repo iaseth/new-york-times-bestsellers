@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Dan Brown",
+			"description": "The symbologist Robert Langdon, on the run in Florence, must decipher a series of codes created by a Dante-loving scientist.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400079155.jpg",
+			"name": "INFERNO",
+			"publisher": "Doubleday",
+			"rank": 1
+		},
+		{
+			"author": "by Neil Gaiman",
+			"description": "A middle-aged man recalls his lonely boyhood and his friendship with a remarkable girl.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062255662.jpg",
+			"name": "THE OCEAN AT THE END OF THE LANE",
+			"publisher": "Morrow/HarperCollins",
+			"rank": 2
+		},
+		{
+			"author": "by Khaled Hosseini",
+			"description": "A multigenerational family saga centers on a brother and sister born in Afghanistan.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594632389.jpg",
+			"name": "AND THE MOUNTAINS ECHOED",
+			"publisher": "Riverhead",
+			"rank": 3
+		},
+		{
+			"author": "by Janet Evanovich and Lee Goldberg",
+			"description": "In the first book of a new series, Kate O\u2019Hare, an F.B.I. special agent, teams up with Nicolas Fox, a handsome con man, to catch a corrupt investment banker in hiding.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345543042.jpg",
+			"name": "THE HEIST",
+			"publisher": "Bantam",
+			"rank": 4
+		},
+		{
+			"author": "by Sylvia Day",
+			"description": "Eva and Gideon face the demons of their pasts and accept the consequences of their obsessive desires; a Crossfire novel.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780425263921.jpg",
+			"name": "ENTWINED WITH YOU",
+			"publisher": "Berkley",
+			"rank": 5
+		},
+		{
+			"author": "by Max Brooks",
+			"description": "An \u201coral history\u201d of an imagined Zombie War that nearly destroys civilization.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307351937.jpg",
+			"name": "WORLD WAR Z",
+			"publisher": "Broadway",
+			"rank": 6
+		},
+		{
+			"author": "by Carl Hiaasen",
+			"description": "A defrocked Miami cop turned restaurant inspector investigates a grisly murder.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780446556149.jpg",
+			"name": "BAD MONKEY",
+			"publisher": "Knopf",
+			"rank": 7
+		},
+		{
+			"author": "by J.C. Reed",
+			"description": "Brooke Stewart, a New Yorker who avoids relationships, embarks on an affair with Jeff Mayfield, a millionaire playboy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/A00B00BTJQZNC.jpg",
+			"name": "SURRENDER YOUR LOVE",
+			"publisher": "J.C. Reed",
+			"rank": 8
+		},
+		{
+			"author": "by  J.C. Reed",
+			"description": "In a sequel to \"Surrender Your Love,\" Jett Mayfield wins a second chance with Brooke Stewart by protecting her from a secret from her past.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/A00B00D9A2NZ8.jpg",
+			"name": "CONQUER YOUR LOVE",
+			"publisher": "J.C. Reed",
+			"rank": 9
+		},
+		{
+			"author": "by Abbi Glines",
+			"description": "The final book in a trilogy, following \"Fallen Too Far\" and \"Never Too Far,\" brings a happy ending for Blaire and Rush.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780988301337.jpg",
+			"name": "FOREVER TOO FAR",
+			"publisher": "Abbi Glines",
+			"rank": 10
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "The government hitman Will Robie uncovers a serious threat as he attempts to take out a fellow assassin who has gone rogue.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455521289.jpg",
+			"name": "THE HIT",
+			"publisher": "Grand Central",
+			"rank": 11
+		},
+		{
+			"author": "by George R.R. Martin",
+			"description": "In the frozen wastes to the north of Winterfell, sinister and supernatural forces are mustering.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780553897845.jpg",
+			"name": "A GAME OF THRONES",
+			"publisher": "Bantam",
+			"rank": 12
+		},
+		{
+			"author": "by Tami Hoag",
+			"description": "Two Minneapolis detectives try to discover the identity of the city\u2019s ninth unidentified female murder victim of the year.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101606599.jpg",
+			"name": "THE 9TH GIRL",
+			"publisher": "Dutton",
+			"rank": 13
+		},
+		{
+			"author": "by Stephen King",
+			"description": "In North Carolina in 1973, a college student working at an amusement park confronts the legacy of a vicious murder, the fate of a dying child, and the ways both will change his life forever.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781781167694.jpg",
+			"name": "JOYLAND",
+			"publisher": "Hard Case Crime",
+			"rank": 14
+		},
+		{
+			"author": "by Gillian Flynn",
+			"description": "A woman disappears on the day of her fifth anniversary; is her husband a killer?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307588388.jpg",
+			"name": "GONE GIRL",
+			"publisher": "Crown",
+			"rank": 15
+		}
+	]
+}

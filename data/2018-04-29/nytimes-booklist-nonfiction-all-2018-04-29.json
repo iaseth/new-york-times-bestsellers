@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Madeleine Albright with Bill Woodward",
+			"description": "The former secretary of state examines the legacy of fascism in the 20th century and its potential revival.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062802187.jpg",
+			"name": "FASCISM: A Warning",
+			"publisher": "Harper",
+			"rank": 1
+		},
+		{
+			"author": "by David Grann",
+			"description": "The story of a murder spree in 1920s Oklahoma that targeted Osage Indians, whose lands contained oil.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385534246.jpg",
+			"name": "KILLERS OF THE FLOWER MOON",
+			"publisher": "Doubleday",
+			"rank": 2
+		},
+		{
+			"author": "by Tara Westover",
+			"description": "The daughter of survivalists, who is kept out of school, educates herself enough to leave home for university.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399590504.jpg",
+			"name": "EDUCATED",
+			"publisher": "Random House",
+			"rank": 3
+		},
+		{
+			"author": "by Michael Isikoff and David Corn",
+			"description": "Details of the 2016 presidential election, with an emphasis on Russia's possible involvement.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538728758.jpg",
+			"name": "RUSSIAN ROULETTE",
+			"publisher": "Twelve",
+			"rank": 4
+		},
+		{
+			"author": "by Michelle McNamara",
+			"description": "The late true-crime journalist's search for the serial murderer and rapist known as \"the Golden State Killer.\"",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062319784.jpg",
+			"name": "I'LL BE GONE IN THE DARK",
+			"publisher": "Harper",
+			"rank": 5
+		},
+		{
+			"author": "by Hans Rosling with Ola Rosling and Anna Rosling Ronnlund",
+			"description": "A look at our biases and the argument for why the world is in a better state than we might think.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250123817.jpg",
+			"name": "FACTFULNESS",
+			"publisher": "Flatiron",
+			"rank": 6
+		},
+		{
+			"author": "by Barbara Ehrenreich",
+			"description": "A look at aging, the ways people try to control the inevitable and strategies for accepting mortality.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455535910.jpg",
+			"name": "NATURAL CAUSES",
+			"publisher": "Twelve",
+			"rank": 7
+		},
+		{
+			"author": "by Jeff Benedict and Armen Keteyian",
+			"description": "A deeper look at the personal and professional triumphs and disasters of the champion golfer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501126420.jpg",
+			"name": "TIGER WOODS",
+			"publisher": "Simon & Schuster",
+			"rank": 8
+		},
+		{
+			"author": "by Neil deGrasse Tyson",
+			"description": "A straightforward, easy-to-understand introduction to the laws that govern the universe.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780393609394.jpg",
+			"name": "ASTROPHYSICS FOR PEOPLE IN A HURRY",
+			"publisher": "Norton",
+			"rank": 9
+		},
+		{
+			"author": "by Yuval Noah Harari",
+			"description": "A provocative look into the future by the author of \u201cSapiens.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062464316.jpg",
+			"name": "HOMO DEUS",
+			"publisher": "Harper/HarperCollins",
+			"rank": 10
+		},
+		{
+			"author": "by Peter Schweizer",
+			"description": "The author of \u201cClinton Cash\u201d describes what some politicians might do to enrich themselves while in office.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062569363.jpg",
+			"name": "SECRET EMPIRES",
+			"publisher": "Harper",
+			"rank": 11
+		},
+		{
+			"author": "by Jerome R. Corsi",
+			"description": "The conservative commentator describes a secret conspiracy to undermine the Trump presidency. From the author of \"The Obama Nation.\"",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781630061029.jpg",
+			"name": "KILLING THE DEEP STATE",
+			"publisher": "Humanix",
+			"rank": 12
+		},
+		{
+			"author": "by Chrissy Metz",
+			"description": "A star of \u201cThis Is Us\u201d describes her journey toward self-acceptance.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062837875.jpg",
+			"name": "THIS IS ME",
+			"publisher": "Dey St.",
+			"rank": 13
+		},
+		{
+			"author": "by Michael Wolff",
+			"description": "A journalist offers an inside account of the first year of the Trump White House.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250158079.jpg",
+			"name": "FIRE AND FURY",
+			"publisher": "Holt",
+			"rank": 14
+		},
+		{
+			"author": "by Stephen Hawking",
+			"description": "The British cosmologist reviews efforts to create a unified theory of the universe; first published in 1988.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780553380163.jpg",
+			"name": "A BRIEF HISTORY OF TIME",
+			"publisher": "Bantam",
+			"rank": 15
+		}
+	]
+}

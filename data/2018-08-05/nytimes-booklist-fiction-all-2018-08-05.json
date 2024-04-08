@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Daniel Silva",
+			"description": "Gabriel Allon, the art restorer and assassin, fights the Russians to decide the fate of postwar global order.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062834881.jpg",
+			"name": "THE OTHER WOMAN",
+			"publisher": "HarperCollins",
+			"rank": 1
+		},
+		{
+			"author": "by James Patterson and Bill Clinton",
+			"description": "President Jonathan Duncan, a Gulf War veteran and widower, takes on adversaries at home and abroad.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316412698.jpg",
+			"name": "THE PRESIDENT IS MISSING",
+			"publisher": "Little, Brown and Knopf",
+			"rank": 2
+		},
+		{
+			"author": "by Clint McElroy et al. Illustrated by Carey Pietsch",
+			"description": "Based on the podcast from the McElroy family, a graphic novel featuring an elf wizard, a dwarf cleric and a human fighter who go on a journey.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250153708.jpg",
+			"name": "THE ADVENTURE ZONE: HERE THERE BE GERBLINS",
+			"publisher": "First Second",
+			"rank": 3
+		},
+		{
+			"author": "by Gillian Flynn",
+			"description": "After a stay at a psychiatric hospital, a reporter returns (reluctantly) to her hometown to cover the murders of two girls.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307341556.jpg",
+			"name": "SHARP OBJECTS",
+			"publisher": "Broadway",
+			"rank": 4
+		},
+		{
+			"author": "by Debbie Macomber",
+			"description": "Annie Marlow forms new relationships in the Pacific Northwest as she tries to recover from tragedy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399181269.jpg",
+			"name": "COTTAGE BY THE SEA",
+			"publisher": "Ballantine",
+			"rank": 5
+		},
+		{
+			"author": "by Dan Brown",
+			"description": "A symbology professor goes on a perilous quest with a beautiful museum director.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385542692.jpg",
+			"name": "ORIGIN",
+			"publisher": "Doubleday",
+			"rank": 6
+		},
+		{
+			"author": "by Stephen King",
+			"description": "A detective investigates a seemingly wholesome member of the community when an 11-year-old boy\u2019s body is found.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501180989.jpg",
+			"name": "THE OUTSIDER",
+			"publisher": "Scribner",
+			"rank": 7
+		},
+		{
+			"author": "by Elin Hilderbrand",
+			"description": "A body is found in Nantucket Harbor hours before a picture-perfect wedding.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316375269.jpg",
+			"name": "THE PERFECT COUPLE",
+			"publisher": "Little, Brown",
+			"rank": 8
+		},
+		{
+			"author": "by Emily Giffin",
+			"description": "A scandal sends members of two Nashville families into chaos.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399178931.jpg",
+			"name": "ALL WE EVER WANTED",
+			"publisher": "Ballantine",
+			"rank": 9
+		},
+		{
+			"author": "by John Grisham",
+			"description": "Three students at a sleazy for-profit law school hope to expose the student-loan banker who runs it.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385541183.jpg",
+			"name": "THE ROOSTER BAR",
+			"publisher": "Bantam/Dell",
+			"rank": 10
+		},
+		{
+			"author": "by Kevin Kwan",
+			"description": "A New Yorker gets a surprise when she spends the summer with her boyfriend in Singapore.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345803788.jpg",
+			"name": "CRAZY RICH ASIANS",
+			"publisher": "Anchor",
+			"rank": 11
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "Quinn and Graham\u2019s marriage depends on past promises.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501171604.jpg",
+			"name": "ALL YOUR PERFECTS",
+			"publisher": "Atria",
+			"rank": 12
+		},
+		{
+			"author": "by Brad Thor",
+			"description": "The 18th book in the Scot Harvath series. As a war looms, a counterterrorism operative takes on a new role his own way.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476789439.jpg",
+			"name": "SPYMASTER",
+			"publisher": "Emily Bestler/Atria",
+			"rank": 13
+		},
+		{
+			"author": "by James Patterson",
+			"description": "Three short detective stories: \"Detective Cross,\" \"The Medical Examiner\" (written with Maxine Paetro) and \"Manhunt\" (written with James O. Born).",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538730737.jpg",
+			"name": "TRIPLE HOMICIDE",
+			"publisher": "Grand Central",
+			"rank": 14
+		},
+		{
+			"author": "by Gail Honeyman",
+			"description": "A young woman\u2019s well-ordered life is disrupted by the I.T. guy from her office.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735220690.jpg",
+			"name": "ELEANOR OLIPHANT IS COMPLETELY FINE",
+			"publisher": "Penguin",
+			"rank": 15
+		}
+	]
+}

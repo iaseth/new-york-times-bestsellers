@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Leah Remini and Rebecca Paley",
+			"description": "The actress describes her life in Scientology and the aftermath of her break with the church in 2013.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101886977.jpg",
+			"name": "TROUBLEMAKER",
+			"publisher": "Ballantine",
+			"rank": 1
+		},
+		{
+			"author": "by Jon Meacham",
+			"description": "A biography of George H.W. Bush.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812998207.jpg",
+			"name": "DESTINY AND POWER",
+			"publisher": "Random House",
+			"rank": 2
+		},
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "The host of \u201cThe O\u2019Reilly Factor\u201d recounts the events surrounding the attempted assassination of President Reagan in 1981.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781627792424.jpg",
+			"name": "KILLING REAGAN",
+			"publisher": "Holt",
+			"rank": 3
+		},
+		{
+			"author": "by Brian Kilmeade and Don Yaeger",
+			"description": "The war against the Barbary pirates in 1801.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698197411.jpg",
+			"name": "THOMAS JEFFERSON AND THE TRIPOLI PIRATES",
+			"publisher": "Sentinel",
+			"rank": 4
+		},
+		{
+			"author": "by Ron Chernow",
+			"description": "A biography of the first Treasury secretary, a major author of the Federalist Papers and an advocate of strong central government.  Originally published in 2004 and the basis of the Broadway play.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780143034759.jpg",
+			"name": "ALEXANDER HAMILTON",
+			"publisher": "Penguin",
+			"rank": 5
+		},
+		{
+			"author": "by Stacy Schiff",
+			"description": "An account of the Salem witch trials of 1692.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316200615.jpg",
+			"name": "THE WITCHES",
+			"publisher": "Little, Brown",
+			"rank": 6
+		},
+		{
+			"author": "by Donald J. Trump",
+			"description": "The real estate developer and candidate for the Republican presidential nomination shares his ideas for making America great again.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501137983.jpg",
+			"name": "CRIPPLED AMERICA",
+			"publisher": "Threshold Editions",
+			"rank": 7
+		},
+		{
+			"author": "by Daniel James Brown",
+			"description": "The University of Washington\u2019s eight-oar crew and their quest for gold at the 1936 Berlin Olympics.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101622742.jpg",
+			"name": "THE BOYS IN THE BOAT",
+			"publisher": "Penguin",
+			"rank": 8
+		},
+		{
+			"author": "by Gloria Steinem",
+			"description": "A memoir by the feminist writer and activist is also a history of the movement.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780679456209.jpg",
+			"name": "MY LIFE ON THE ROAD",
+			"publisher": "Random House",
+			"rank": 9
+		},
+		{
+			"author": "by Drew Barrymore",
+			"description": "The actress shares stories about her life.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101983805.jpg",
+			"name": "WILDFLOWER",
+			"publisher": "Dutton",
+			"rank": 10
+		},
+		{
+			"author": "by Ta-Nehisi Coates",
+			"description": "A meditation on race in America as well as a personal story by the Atlantic's national correspondent.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780679645986.jpg",
+			"name": "BETWEEN THE WORLD AND ME",
+			"publisher": "Spiegel & Grau",
+			"rank": 11
+		},
+		{
+			"author": "by Mindy Kaling",
+			"description": "More personal essays from the comedian and actress.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780804138154.jpg",
+			"name": "WHY NOT ME?",
+			"publisher": "Crown Archetype",
+			"rank": 12
+		},
+		{
+			"author": "by Ted Koppel",
+			"description": "The journalist describes how a cyberattack on the nation\u2019s power grids could paralyze our infrastructure, warns that government has not planned for the possibility, and visits \u201cpreppers\u201d who are taking their own precautions.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780553419979.jpg",
+			"name": "LIGHTS OUT",
+			"publisher": "Crown",
+			"rank": 13
+		},
+		{
+			"author": "by Ben Carson with Candy Carson",
+			"description": "A discussion of the Constitution by the candidate for the Republican presidential nomination.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781591848042.jpg",
+			"name": "A MORE PERFECT UNION",
+			"publisher": "Sentinel",
+			"rank": 14
+		},
+		{
+			"author": "by Tyler Oakley",
+			"description": "Personal essays from the L.G.B.T.Q. YouTube personality.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501117718.jpg",
+			"name": "BINGE",
+			"publisher": "Gallery Books",
+			"rank": 15
+		}
+	]
+}

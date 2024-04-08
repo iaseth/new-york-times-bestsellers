@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Kim and Krickitt Carpenter with Dana Wilkerson",
+			"description": "After a horrific car crash, a couple embark on a journey to fall in love all over again. The true events that inspired the movie.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781433675942.jpg",
+			"name": "THE VOW",
+			"publisher": "B&H Publishing Group",
+			"rank": 1
+		},
+		{
+			"author": "by Todd Burpo with Lynn Vincent",
+			"description": "A father recounts his 3-year-old son\u2019s encounter with Jesus and the angels during an appendectomy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780849949203.jpg",
+			"name": "HEAVEN IS FOR REAL",
+			"publisher": "Thomas Nelson",
+			"rank": 2
+		},
+		{
+			"author": "by Chris Kyle with Scott McEwen and Jim DeFelice",
+			"description": "A member of the Navy SEALs discusses his childhood, his marriage and his battlefield experiences.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062082374.jpg",
+			"name": "AMERICAN SNIPER",
+			"publisher": "HarperCollins Publishers",
+			"rank": 3
+		},
+		{
+			"author": "by Walter Isaacson",
+			"description": "A biography of the recently deceased entrepreneur, based on 40 interviews with Jobs conducted over two years.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451648553.jpg",
+			"name": "STEVE JOBS",
+			"publisher": "Simon & Schuster",
+			"rank": 4
+		},
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "The anchor of \u201cThe O\u2019Reilly Factor\u201d recounts the assassination of Abraham Lincoln.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780805093070.jpg",
+			"name": "KILLING LINCOLN",
+			"publisher": "Holt",
+			"rank": 5
+		},
+		{
+			"author": "by David Hackett Fischer",
+			"description": "A historian\u2019s account of the crucial Revolutionary battles at Trenton and Princeton, beginning on Christmas night in 1776; winner of the 2005 Pulitzer Prize in history.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780199756674.jpg",
+			"name": "WASHINGTON\u2019S CROSSING",
+			"publisher": "Oxford University Press",
+			"rank": 6
+		},
+		{
+			"author": "by Laura Hillenbrand",
+			"description": "An Olympic runner\u2019s story of survival as a prisoner of the Japanese in World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400064168.jpg",
+			"name": "UNBROKEN",
+			"publisher": "Random House Publishing",
+			"rank": 7
+		},
+		{
+			"author": "by Mimi Alford",
+			"description": "A former White House intern recounts her affair with John F. Kennedy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400069101.jpg",
+			"name": "ONCE UPON A SECRET",
+			"publisher": "Random House Publishing",
+			"rank": 8
+		},
+		{
+			"author": "by Katherine Boo",
+			"description": "A journalist reports on families striving for better lives in a Mumbai slum.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812979329.jpg",
+			"name": "BEHIND THE BEAUTIFUL FOREVERS",
+			"publisher": "Random House Publishing",
+			"rank": 9
+		},
+		{
+			"author": "by Tina Fey",
+			"description": "A memoir from the former \"Saturday Night Live\" star and creator of \"30 Rock.\"",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316056892.jpg",
+			"name": "BOSSYPANTS",
+			"publisher": "Little, Brown & Company",
+			"rank": 10
+		},
+		{
+			"author": "by Susan Cain",
+			"description": "Introverts \u2014 one-third of the population \u2014 are undervalued in American society.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307452207.jpg",
+			"name": "QUIET",
+			"publisher": "Crown Publishing",
+			"rank": 11
+		},
+		{
+			"author": "by Peter H. Diamandis and Steven Kotler",
+			"description": "An entrepreneur argues that innovations in water, food and energy will solve society\u2019s biggest problems.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451614213.jpg",
+			"name": "ABUNDANCE",
+			"publisher": "Free Press",
+			"rank": 12
+		},
+		{
+			"author": "by Mark R. Levin",
+			"description": "A talk-show host surveys the history of utopias and warns that Americans must choose between utopianism and liberty.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781439173282.jpg",
+			"name": "AMERITOPIA",
+			"publisher": "Threshold Editions",
+			"rank": 13
+		},
+		{
+			"author": "by Deborah Feldman",
+			"description": "A woman breaks free of the Satmar Hasidic community in Brooklyn in which she was raised.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781439187012.jpg",
+			"name": "UNORTHODOX",
+			"publisher": "Simon & Schuster",
+			"rank": 14
+		},
+		{
+			"author": "by Pamela Druckerman",
+			"description": "An American mother discovers the principles of French parenting.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101563144.jpg",
+			"name": "BRINGING UP B\u00c9B\u00c9",
+			"publisher": "Penguin Group",
+			"rank": 15
+		}
+	]
+}

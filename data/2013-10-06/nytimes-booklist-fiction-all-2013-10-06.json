@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Nicholas Sparks",
+			"description": "The lives of two couples converge unexpectedly.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455520640.jpg",
+			"name": "THE LONGEST RIDE",
+			"publisher": "Grand Central",
+			"rank": 1
+		},
+		{
+			"author": "by J. D. Robb",
+			"description": "Lt. Eve Dallas searches for a young man who murdered his parents; by Nora Roberts, writing pseudonymously.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101617250.jpg",
+			"name": "THANKLESS IN DEATH",
+			"publisher": "Putnam",
+			"rank": 2
+		},
+		{
+			"author": "by Catherine Coulter and J.T. Ellison",
+			"description": "A Scotland Yard chief inspector teams up with two special agents from the F.B.I. to hunt for an international jewel thief.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399164736.jpg",
+			"name": "THE FINAL CUT",
+			"publisher": "Putnam",
+			"rank": 3
+		},
+		{
+			"author": "by Nelson DeMille",
+			"description": "An elderly priest, recently escaped from an Ethiopian jail, is joined by two journalists in a search for a holy relic.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455576425.jpg",
+			"name": "THE QUEST",
+			"publisher": "Center Street",
+			"rank": 4
+		},
+		{
+			"author": "by Lee Child",
+			"description": "Jack Reacher is thrown into jail on trumped-up charges and must clear his name.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780440339373.jpg",
+			"name": "NEVER GO BACK",
+			"publisher": "Delacorte",
+			"rank": 5
+		},
+		{
+			"author": "by Liane Moriarty",
+			"description": "A woman\u2019s life is upended when she discovers a letter from her husband she was not meant to read until after his death.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101636237.jpg",
+			"name": "THE HUSBAND'S SECRET",
+			"publisher": "Amy Einhorn/Putnam",
+			"rank": 6
+		},
+		{
+			"author": "by Sue Grafton",
+			"description": "A homeless man inexplicably leaves $600,000 to Kinsey Millhone.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399158988.jpg",
+			"name": "W IS FOR WASTED",
+			"publisher": "Marian Wood/Putnam",
+			"rank": 7
+		},
+		{
+			"author": "by Richard Castle",
+			"description": "The N.Y.P.D. homicide detective Nikki Heat and the journalist Jameson Rook search for the former C.I.A. station chief who ordered her mother\u2019s execution.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781401305925.jpg",
+			"name": "DEADLY HEAT",
+			"publisher": "Hyperion",
+			"rank": 8
+		},
+		{
+			"author": "by John Grisham",
+			"description": "An imprisoned ex-lawyer schemes to exchange information about who murdered a judge for his freedom.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385536882.jpg",
+			"name": "THE RACKETEER",
+			"publisher": "Doubleday",
+			"rank": 9
+		},
+		{
+			"author": "by Jen McLaughlin",
+			"description": "A young woman meets a Marine at her first college party, and her life is turned upside down.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780989668408.jpg",
+			"name": "OUT OF LINE",
+			"publisher": "Jen McLaughlin",
+			"rank": 10
+		},
+		{
+			"author": "by Robert Galbraith",
+			"description": "A detective investigates a supermodel\u2019s suicide; by J.K. Rowling, writing pseudonymously.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316206860.jpg",
+			"name": "THE CUCKOO'S CALLING",
+			"publisher": "Mulholland/Little, Brown",
+			"rank": 11
+		},
+		{
+			"author": "by E. L. James",
+			"description": "An innocent college student falls in love with a tortured man with particular sexual tastes; the first of a trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345803481.jpg",
+			"name": "FIFTY SHADES OF GREY",
+			"publisher": "Vintage",
+			"rank": 12
+		},
+		{
+			"author": "by Thomas Pynchon",
+			"description": "In 2001, a fraud investigator and Upper West Side mom looks into a suspicious computer security company.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594204234.jpg",
+			"name": "BLEEDING EDGE",
+			"publisher": "Penguin Press",
+			"rank": 13
+		},
+		{
+			"author": "by Dan Brown",
+			"description": "The symbologist Robert Langdon, on the run in Florence, must decipher a series of codes created by a Dante-loving scientist.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400079155.jpg",
+			"name": "INFERNO",
+			"publisher": "Doubleday",
+			"rank": 14
+		},
+		{
+			"author": "by Gillian Flynn",
+			"description": "A woman disappears on the day of her fifth anniversary; is her husband a killer?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307588388.jpg",
+			"name": "GONE GIRL",
+			"publisher": "Crown",
+			"rank": 15
+		}
+	]
+}

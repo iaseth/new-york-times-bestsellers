@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "A look at the postwar manhunt for members of Hitler\u2019s inner circle.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250165541.jpg",
+			"name": "KILLING THE SS",
+			"publisher": "Holt",
+			"rank": 1
+		},
+		{
+			"author": "by Tucker Carlson",
+			"description": "The Fox News anchor argues that America\u2019s ruling class is out of touch with everyday citizens.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501183669.jpg",
+			"name": "SHIP OF FOOLS",
+			"publisher": "Free Press",
+			"rank": 2
+		},
+		{
+			"author": "by Pete Souza",
+			"description": "The former White House photographer juxtaposes pictures of former President Obama with tweets, headlines and quotes from the Trump administration.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316421829.jpg",
+			"name": "SHADE",
+			"publisher": "Little, Brown",
+			"rank": 3
+		},
+		{
+			"author": "by Stephen Hawking",
+			"description": "A collection of essays from the late scientist\u2019s personal archive that address 10 imponderables.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984819192.jpg",
+			"name": "BRIEF ANSWERS TO THE BIG QUESTIONS",
+			"publisher": "Bantam",
+			"rank": 4
+		},
+		{
+			"author": "by Busy Philipps",
+			"description": "A memoir by the actress and host of the late-night talk show \u201cBusy Tonight.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501184710.jpg",
+			"name": "THIS WILL ONLY HURT A LITTLE",
+			"publisher": "Touchstone",
+			"rank": 5
+		},
+		{
+			"author": "by Bob Woodward",
+			"description": "Based on hours of interviews with sources, the Pulitzer Prize-winning journalist describes debates and decision-making within the Trump White House.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501175534.jpg",
+			"name": "FEAR",
+			"publisher": "Simon & Schuster",
+			"rank": 6
+		},
+		{
+			"author": "by Michael Lewis",
+			"description": "The author of \"The Big Short\" examines how the Trump administration staffs its federal agencies.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781324002642.jpg",
+			"name": "THE FIFTH RISK",
+			"publisher": "Norton",
+			"rank": 7
+		},
+		{
+			"author": "by Tara Westover",
+			"description": "The daughter of survivalists, who is kept out of school, educates herself enough to leave home for university.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399590504.jpg",
+			"name": "EDUCATED",
+			"publisher": "Random House",
+			"rank": 8
+		},
+		{
+			"author": "by Michael Beschloss",
+			"description": "How American presidents waged wars and expanded the power of the executive branch.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307409607.jpg",
+			"name": "PRESIDENTS OF WAR",
+			"publisher": "Crown",
+			"rank": 9
+		},
+		{
+			"author": "by Anne Lamott",
+			"description": "Brief explorations into finding hope and wisdom in times of despair and uncertainty.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525537441.jpg",
+			"name": "ALMOST EVERYTHING",
+			"publisher": "Riverhead",
+			"rank": 10
+		},
+		{
+			"author": "by Sally Field",
+			"description": "A memoir by the two-time Academy Award and three-time Emmy Award winner.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538763025.jpg",
+			"name": "IN PIECES",
+			"publisher": "Grand Central",
+			"rank": 11
+		},
+		{
+			"author": "by Susan Orlean",
+			"description": "The story of the 1986 fire at the Los Angeles Public Library provides a backdrop to the evolution and purpose of libraries.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476740188.jpg",
+			"name": "THE LIBRARY BOOK",
+			"publisher": "Simon & Schuster",
+			"rank": 12
+		},
+		{
+			"author": "by Nathaniel Philbrick",
+			"description": "Important battles that led to the end of the American Revolution.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525426769.jpg",
+			"name": "IN THE HURRICANE'S EYE",
+			"publisher": "Viking",
+			"rank": 13
+		},
+		{
+			"author": "by Doris Kearns Goodwin",
+			"description": "The challenges that shaped the leadership abilities of four presidents: Abraham Lincoln, Theodore Roosevelt, Franklin D. Roosevelt and Lyndon B. Johnson.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476795928.jpg",
+			"name": "LEADERSHIP",
+			"publisher": "Simon & Schuster",
+			"rank": 14
+		},
+		{
+			"author": "by Dale Earnhardt Jr. with Ryan McGee",
+			"description": "A memoir by the professional stock car racing driver and television sports analyst.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780785221609.jpg",
+			"name": "RACING TO THE FINISH",
+			"publisher": "Thomas Nelson",
+			"rank": 15
+		}
+	]
+}

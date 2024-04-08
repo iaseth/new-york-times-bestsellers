@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by David Baldacci",
+			"description": "The third book in the Archer series. Archer, Dash and Callahan search for a missing screenwriter who had a dead body turn up in her home.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538719770.jpg",
+			"name": "DREAM TOWN",
+			"publisher": "Grand Central",
+			"rank": 1
+		},
+		{
+			"author": "by Danielle Steel",
+			"description": "A supermodel deals with the effects of a terror attack at an airport in Brussels on her life and appearance.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984821645.jpg",
+			"name": "BEAUTIFUL",
+			"publisher": "Delacorte",
+			"rank": 2
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "A battered wife raised in a violent home attempts to halt the cycle of abuse.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501110375.jpg",
+			"name": "IT ENDS WITH US",
+			"publisher": "Atria",
+			"rank": 3
+		},
+		{
+			"author": "by Taylor Jenkins Reid",
+			"description": "A movie icon recounts stories of her loves and career to a struggling magazine writer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501161933.jpg",
+			"name": "THE SEVEN HUSBANDS OF EVELYN HUGO",
+			"publisher": "Washington Square/Atria",
+			"rank": 4
+		},
+		{
+			"author": "by Delia Owens",
+			"description": "In a quiet town on the North Carolina coast in 1969, a young woman who survived alone in the marsh becomes a murder suspect.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735219090.jpg",
+			"name": "WHERE THE CRAWDADS SING",
+			"publisher": "Putnam",
+			"rank": 5
+		},
+		{
+			"author": "by James Rollins",
+			"description": "The 16th book in the Sigma Force series. An unknown force is putting people in a catatonic state in a village in the Congo.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062892980.jpg",
+			"name": "KINGDOM OF BONES",
+			"publisher": "Morrow",
+			"rank": 6
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "Lowen Ashleigh is hired by the husband of an injured writer to complete her popular series and uncovers a horrifying truth.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781791392796.jpg",
+			"name": "VERITY",
+			"publisher": "Grand Central",
+			"rank": 7
+		},
+		{
+			"author": "by James Patterson and J.D. Barker",
+			"description": "Detective Walter O\u2019Brien is obsessed with an escape artist who bludgeoned her kidnapper and avoided police custody.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538753095.jpg",
+			"name": "DEATH OF THE BLACK WIDOW",
+			"publisher": "Grand Central",
+			"rank": 8
+		},
+		{
+			"author": "by John Sandford",
+			"description": "Letty Davenport, the adopted daughter of Lucas Davenport, looks into oil thefts in Texas.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593328682.jpg",
+			"name": "THE INVESTIGATOR",
+			"publisher": "Putnam",
+			"rank": 9
+		},
+		{
+			"author": "by Dolly Parton and James Patterson",
+			"description": "A singer-songwriter goes to Nashville seeking stardom but is followed by her dark past.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780759554344.jpg",
+			"name": "RUN, ROSE, RUN",
+			"publisher": "Little, Brown",
+			"rank": 10
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "Tate Collins and Miles Archer,\u00a0an airline pilot, think they can handle a no strings attached arrangement. But they can't.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476753195.jpg",
+			"name": "UGLY LOVE",
+			"publisher": "Atria",
+			"rank": 11
+		},
+		{
+			"author": "by Emily St. John Mandel",
+			"description": "A detective investigating in the wilderness discovers that his actions might affect the timeline of the universe.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593321447.jpg",
+			"name": "SEA OF TRANQUILITY",
+			"publisher": "Knopf",
+			"rank": 12
+		},
+		{
+			"author": "by Abby Jimenez",
+			"description": "A city doctor must choose between her family\u2019s wishes of becoming a world-renowned surgeon or having a life with a ridiculously hot carpenter.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538704370.jpg",
+			"name": "PART OF YOUR WORLD",
+			"publisher": "Forever",
+			"rank": 13
+		},
+		{
+			"author": "by Lucy Foley",
+			"description": "Jess has suspicions about her half-brother\u2019s neighbors when he goes missing.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063003057.jpg",
+			"name": "THE PARIS APARTMENT",
+			"publisher": "Morrow",
+			"rank": 14
+		},
+		{
+			"author": "by Lisa Scottoline",
+			"description": "A brush with members of a drug-trafficking organization ushers a suburban family to go into the witness protection program.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525539674.jpg",
+			"name": "WHAT HAPPENED TO THE BENNETTS",
+			"publisher": "Putnam",
+			"rank": 15
+		}
+	]
+}

@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by David Baldacci",
+			"description": "When Atlee Pine returns to her hometown to investigate her sister\u2019s kidnapping from 30 years ago, she winds up tracking a potential serial killer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538761601.jpg",
+			"name": "A MINUTE TO MIDNIGHT",
+			"publisher": "Grand Central",
+			"rank": 1
+		},
+		{
+			"author": "by John Grisham",
+			"description": "Cullen Post, a lawyer and Episcopal minister, antagonizes some ruthless killers when he takes on a wrongful conviction case.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385544184.jpg",
+			"name": "THE GUARDIANS",
+			"publisher": "Doubleday",
+			"rank": 2
+		},
+		{
+			"author": "by Delia Owens",
+			"description": "In a quiet town on the North Carolina coast in 1969, a young woman who survived alone in the marsh becomes a murder suspect.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735219090.jpg",
+			"name": "WHERE THE CRAWDADS SING",
+			"publisher": "Putnam",
+			"rank": 3
+		},
+		{
+			"author": "by Janet Evanovich",
+			"description": "The 26th book in the Stephanie Plum series. A New Jersey gangster\u2019s associates go after a bounty hunter\u2019s widowed grandmother.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399180194.jpg",
+			"name": "TWISTED TWENTY-SIX",
+			"publisher": "Putnam",
+			"rank": 4
+		},
+		{
+			"author": "by Lee Child",
+			"description": "Jack Reacher gets caught up in a turf war between Ukrainian and Albanian gangs.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399593543.jpg",
+			"name": "BLUE MOON",
+			"publisher": "Delacorte",
+			"rank": 5
+		},
+		{
+			"author": "by Marc Cameron",
+			"description": "President Jack Ryan learns of a plot against America when he tries to help an old friend who has been arrested in Indonesia.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525541745.jpg",
+			"name": "TOM CLANCY: CODE OF HONOR",
+			"publisher": "Putnam",
+			"rank": 6
+		},
+		{
+			"author": "by Kristin Hannah",
+			"description": "A former prisoner of war returns from Vietnam and moves his family to Alaska, where they face tough conditions.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250165619.jpg",
+			"name": "THE GREAT ALONE",
+			"publisher": "St. Martin's",
+			"rank": 7
+		},
+		{
+			"author": "by Ann Patchett",
+			"description": "A sibling relationship is impacted when the family goes from poverty to wealth and back again over the course of many decades.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062963673.jpg",
+			"name": "THE DUTCH HOUSE",
+			"publisher": "Harper",
+			"rank": 8
+		},
+		{
+			"author": "by Michael Connelly",
+			"description": "Harry Bosch and Ren\u00e9e Ballard return to take up a case that held the attention of Bosch\u2019s mentor.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316485616.jpg",
+			"name": "THE NIGHT FIRE",
+			"publisher": "Little, Brown",
+			"rank": 9
+		},
+		{
+			"author": "by Jojo Moyes",
+			"description": "In Depression-era Kentucky, five women refuse to be cowed by men or convention as they deliver books.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399562501.jpg",
+			"name": "THE GIVER OF STARS",
+			"publisher": "Pamela Dorman/Viking",
+			"rank": 10
+		},
+		{
+			"author": "by Elizabeth Strout",
+			"description": "In a follow-up to the Pulitzer Prize-winning novel \u201cOlive Kitteridge,\u201d new relationships, including a second marriage, are encountered in a seaside town in Maine.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812996548.jpg",
+			"name": "OLIVE, AGAIN",
+			"publisher": "Random House",
+			"rank": 11
+		},
+		{
+			"author": "by Ace Atkins",
+			"description": "The private investigator Spenser encounters powerful people as he looks for a missing woman in Hollywood.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525536840.jpg",
+			"name": "ROBERT B. PARKER'S ANGEL EYES",
+			"publisher": "Putnam",
+			"rank": 12
+		},
+		{
+			"author": "by Stephen King",
+			"description": "Children with special talents are abducted and sequestered in an institution where the sinister staff seeks to extract their gifts through harsh methods.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982110567.jpg",
+			"name": "THE INSTITUTE",
+			"publisher": "Scribner",
+			"rank": 13
+		},
+		{
+			"author": "by Heather Morris",
+			"description": "A concentration camp detainee tasked with permanently marking fellow prisoners falls in love with one of them.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062797155.jpg",
+			"name": "THE TATTOOIST OF AUSCHWITZ",
+			"publisher": "Harper",
+			"rank": 14
+		},
+		{
+			"author": "by Ta-Nehisi Coates",
+			"description": "A young man who was gifted with a mysterious power becomes part of a war between slavers and the enslaved.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399590597.jpg",
+			"name": "THE WATER DANCER",
+			"publisher": "One World",
+			"rank": 15
+		}
+	]
+}

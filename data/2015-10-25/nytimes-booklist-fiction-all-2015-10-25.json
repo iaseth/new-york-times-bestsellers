@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Vince Flynn and Kyle Mills",
+			"description": "The counterterrorism operative Mitch Rapp must control the damage from a leak of C.I.A. documents. Mills finished the book for Flynn, who died in 2013.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476783475.jpg",
+			"name": "THE SURVIVOR",
+			"publisher": "Emily Bestler/Atria",
+			"rank": 1
+		},
+		{
+			"author": "by Andy Weir",
+			"description": "Abandoned by his crew, an astronaut embarks on a dogged quest to stay alive.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780804139038.jpg",
+			"name": "THE MARTIAN",
+			"publisher": "Crown",
+			"rank": 2
+		},
+		{
+			"author": "by George R. R. Martin",
+			"description": "A collection of three official prequels to \u201cA Song of Ice and Fire.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345539113.jpg",
+			"name": "A KNIGHT OF THE SEVEN KINGDOMS",
+			"publisher": "Bantam",
+			"rank": 3
+		},
+		{
+			"author": "by James Patterson and David Ellis",
+			"description": "When bodies are found at a Hamptons estate where a series of grisly murders once occurred, a local detective and former New York City cop investigates.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316337977.jpg",
+			"name": "THE MURDER HOUSE",
+			"publisher": "Little, Brown",
+			"rank": 4
+		},
+		{
+			"author": "by Brandon Sanderson",
+			"description": "In a follow-up to \u201cThe Alloy of Law,\u201d the Mistborn world is shaken by terrorism and assassination.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780765378552.jpg",
+			"name": "SHADOWS OF SELF",
+			"publisher": "Tor/Tom Doherty",
+			"rank": 5
+		},
+		{
+			"author": "by David Lagercrantz",
+			"description": "Mikael Blomkvist and Lisbeth Salander are back in this continuation of Steig Larsson's Millennium series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385354288.jpg",
+			"name": "THE GIRL IN THE SPIDER'S WEB",
+			"publisher": "Knopf",
+			"rank": 6
+		},
+		{
+			"author": "by Lee Child",
+			"description": "Jack Reacher pries open a missing-persons case that takes him across the country and into the shadowy reaches of the Internet.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780804178785.jpg",
+			"name": "MAKE ME",
+			"publisher": "Delacorte",
+			"rank": 7
+		},
+		{
+			"author": "by Debbie Macomber",
+			"description": "Two strangers trying to reach Seattle for Christmas share a rental car, and much else.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780553391701.jpg",
+			"name": "DASHING THROUGH THE SNOW",
+			"publisher": "Ballantine",
+			"rank": 8
+		},
+		{
+			"author": "by Paula Hawkins",
+			"description": "A psychological thriller set in the environs of London is full of complications and betrayals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594633669.jpg",
+			"name": "THE GIRL ON THE TRAIN",
+			"publisher": "Riverhead",
+			"rank": 9
+		},
+		{
+			"author": "by Jojo Moyes",
+			"description": "In a sequel to \u201cMe Before You,\u201d Louisa Clark tries to put her life back together after the death of Will Traynor, and joins a grief support group that may lead her to new love.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698152045.jpg",
+			"name": "AFTER YOU",
+			"publisher": "Pamela Dorman/Viking",
+			"rank": 10
+		},
+		{
+			"author": "by Anthony Doerr",
+			"description": "The lives of a blind French girl and a gadget-obsessed German boy before and during World War II; the winner of the 2015 Pulitzer Prize.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476746586.jpg",
+			"name": "ALL THE LIGHT WE CANNOT SEE",
+			"publisher": "Scribner",
+			"rank": 11
+		},
+		{
+			"author": "by John Sandford and Ctein",
+			"description": "Americans and Chinese compete to take control of what may be a spaceship approaching Saturn.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698411678.jpg",
+			"name": "SATURN RUN",
+			"publisher": "Putnam",
+			"rank": 12
+		},
+		{
+			"author": "by Karin Slaughter",
+			"description": "When her husband is murdered, a wealthy Atlanta woman discovers shocking secrets about him that lead her to reconnect with her estranged sister; together they investigate the long-ago disappearance of a third sister.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062429063.jpg",
+			"name": "PRETTY GIRLS",
+			"publisher": "Morrow/HarperCollins",
+			"rank": 13
+		},
+		{
+			"author": "by John Grisham",
+			"description": "A downsized Wall Street lawyer joins a legal clinic in a small Virginia town, and litigates against the coal-mining industry.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385537148.jpg",
+			"name": "GRAY MOUNTAIN",
+			"publisher": "Doubleday",
+			"rank": 14
+		},
+		{
+			"author": "by Harper Lee",
+			"description": "In the mid-1950s, a grown-up Jean Louise Finch returns to Maycomb and realizes that her adored father is a racist.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062409850.jpg",
+			"name": "GO SET A WATCHMAN",
+			"publisher": "Harper",
+			"rank": 15
+		}
+	]
+}

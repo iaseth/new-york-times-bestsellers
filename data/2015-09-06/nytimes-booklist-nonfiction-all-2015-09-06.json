@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Glenn Beck",
+			"description": "The talk-radio host looks to Muslim teachings for the roots of Islamic extremism.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501126130.jpg",
+			"name": "IT IS ABOUT ISLAM",
+			"publisher": "Threshold Editions/Mercury Radio Arts",
+			"rank": 1
+		},
+		{
+			"author": "by Mark R. Levin",
+			"description": "The talk-radio host urges young Americans to resist the statist masterminds who he says are burdening them with debt, inferior education and illegal immigration.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451606409.jpg",
+			"name": "PLUNDER AND DECEIT",
+			"publisher": "Threshold Editions",
+			"rank": 2
+		},
+		{
+			"author": "by Ta-Nehisi Coates",
+			"description": "A meditation on race in America as well as a personal story by the national correspondent of The Atlantic, framed as a letter to his teenage son.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780679645986.jpg",
+			"name": "BETWEEN THE WORLD AND ME",
+			"publisher": "Spiegel & Grau",
+			"rank": 3
+		},
+		{
+			"author": "by Daniel James Brown",
+			"description": "The University of Washington\u2019s eight-oar crew and their quest for gold at the 1936 Berlin Olympics.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101622742.jpg",
+			"name": "THE BOYS IN THE BOAT",
+			"publisher": "Penguin",
+			"rank": 4
+		},
+		{
+			"author": "by Erik Larson",
+			"description": "How an architect and a serial killer were linked by the Chicago World's Fair of 1893.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780375725609.jpg",
+			"name": "THE DEVIL IN THE WHITE CITY",
+			"publisher": "Vintage",
+			"rank": 5
+		},
+		{
+			"author": "by Erik Larson",
+			"description": "The last voyage of the Lusitania, the passenger liner sunk by a German torpedo in 1915; by the author of \u201cThe Devil in the White City.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307408860.jpg",
+			"name": "DEAD WAKE",
+			"publisher": "Crown",
+			"rank": 6
+		},
+		{
+			"author": "by David McCullough",
+			"description": "The story of the bicycle mechanics from Ohio who ushered in the age of flight.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476728742.jpg",
+			"name": "THE WRIGHT BROTHERS",
+			"publisher": "Simon & Schuster",
+			"rank": 7
+		},
+		{
+			"author": "by Aziz Ansari with Eric Klinenberg",
+			"description": "The comedian enlists a sociologist to help him understand today\u2019s dating scene.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698179967.jpg",
+			"name": "MODERN ROMANCE",
+			"publisher": "Penguin Press",
+			"rank": 8
+		},
+		{
+			"author": "by Bill Bryson",
+			"description": "A journey to rediscover America by trekking the 2,100 miles of the Appalachian Trail. First published in 1998; now a movie.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307717832.jpg",
+			"name": "A WALK IN THE WOODS",
+			"publisher": "Broadway",
+			"rank": 9
+		},
+		{
+			"author": "by Regina Calcaterra",
+			"description": "Five siblings survive childhood abuse, foster care and homelessness on Long Island.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062218841.jpg",
+			"name": "ETCHED IN SAND",
+			"publisher": "Morrow/HarperCollins",
+			"rank": 10
+		},
+		{
+			"author": "by Atul Gawande",
+			"description": "The surgeon and New Yorker writer considers how doctors fail patients at the end of life, and how they can do better.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780805095159.jpg",
+			"name": "BEING MORTAL",
+			"publisher": "Metropolitan/Holt",
+			"rank": 11
+		},
+		{
+			"author": "by Malala Yousafzai with Christina Lamb",
+			"description": "The experience of the Pakistani girl who advocated for women\u2019s education and was shot by the Taliban.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316322409.jpg",
+			"name": "I AM MALALA",
+			"publisher": "Little, Brown",
+			"rank": 12
+		},
+		{
+			"author": "by Bryan Stevenson",
+			"description": "A law professor and MacArthur grant recipient\u2019s memoir of his decades of work to free innocent people condemned to death.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812994520.jpg",
+			"name": "JUST MERCY",
+			"publisher": "Spiegel & Grau",
+			"rank": 13
+		},
+		{
+			"author": "by Jerry Lewis and James Kaplan",
+			"description": "The funnier half of Martin and Lewis remembers his time with the man he calls \"my partner\"; first published in 2005.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307423559.jpg",
+			"name": "DEAN & ME (A LOVE STORY)",
+			"publisher": "Broadway",
+			"rank": 14
+		},
+		{
+			"author": "by Miklos Nyiszli",
+			"description": "An eyewitness account of the Nazi death camp, written shortly after the war by a doctor who was a prisoner there.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781611450118.jpg",
+			"name": "AUSCHWITZ",
+			"publisher": "Skyhorse",
+			"rank": 15
+		}
+	]
+}

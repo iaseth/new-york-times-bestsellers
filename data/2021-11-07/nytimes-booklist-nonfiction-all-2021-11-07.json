@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Dave Quinn",
+			"description": "An oral history of the reality TV franchise \u201cThe Real Housewives.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250765789.jpg",
+			"name": "NOT ALL DIAMONDS AND ROS\u00c9",
+			"publisher": "Andy Cohen",
+			"rank": 1
+		},
+		{
+			"author": "by Bret Baier with Catherine Whitney",
+			"description": "The Fox News chief political anchor recounts challenges faced by Ulysses S. Grant.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063039544.jpg",
+			"name": "TO RESCUE THE REPUBLIC",
+			"publisher": "Custom House",
+			"rank": 2
+		},
+		{
+			"author": "by Dave Grohl",
+			"description": "A memoir by the musician known for his work with Foo Fighters and Nirvana.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063076099.jpg",
+			"name": "THE STORYTELLER",
+			"publisher": "Dey Street",
+			"rank": 3
+		},
+		{
+			"author": "by Bob Woodward and Robert Costa",
+			"description": "The Washington Post journalists detail the dangers and challenges during the transition to the Biden presidency.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982182915.jpg",
+			"name": "PERIL",
+			"publisher": "Simon & Schuster",
+			"rank": 4
+		},
+		{
+			"author": "by Adam Schiff",
+			"description": "The congressman from California describes risks to our democracy and the resurgence of autocracy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593231524.jpg",
+			"name": "MIDNIGHT IN WASHINGTON",
+			"publisher": "Random House",
+			"rank": 5
+		},
+		{
+			"author": "by Ron Howard and Clint Howard",
+			"description": "The Howard brothers credit their success in Hollywood to their Midwestern parents, Rance and Jean.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063065246.jpg",
+			"name": "THE BOYS",
+			"publisher": "Morrow",
+			"rank": 6
+		},
+		{
+			"author": "by James Patterson and Matt Eversmann with Chris Mooney",
+			"description": "A collection of stories from people working in big-city and small-town hospitals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780759554269.jpg",
+			"name": "E.R. NURSES",
+			"publisher": "Little, Brown",
+			"rank": 7
+		},
+		{
+			"author": "by Bessel van der Kolk",
+			"description": "How trauma affects the body and mind, and innovative treatments for recovery.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780670785933.jpg",
+			"name": "THE BODY KEEPS THE SCORE",
+			"publisher": "Penguin",
+			"rank": 8
+		},
+		{
+			"author": "by Anderson Cooper and Katherine Howe",
+			"description": "The CNN host and descendant of the Vanderbilt family charts the rise and fall of this American dynasty.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062964618.jpg",
+			"name": "VANDERBILT",
+			"publisher": "Harper",
+			"rank": 9
+		},
+		{
+			"author": "by Stanley Tucci",
+			"description": "The award-winning actor reflects on his career, Italian-American heritage, meals and mishaps.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982168018.jpg",
+			"name": "TASTE",
+			"publisher": "Gallery",
+			"rank": 10
+		},
+		{
+			"author": "by Frank Feranna and Nikki Sixx",
+			"description": "The founding member of M\u00f6tley Cr\u00fce chronicles his journey to finding his rock persona and years of sobriety.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780306923708.jpg",
+			"name": "THE FIRST 21",
+			"publisher": "Hachette",
+			"rank": 11
+		},
+		{
+			"author": "by Jane Goodall and Douglas Abrams with Gail Hudson",
+			"description": "The naturalist explores an element of human nature during a time of multiple crises in areas of health, climate and politics.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250784094.jpg",
+			"name": "THE BOOK OF HOPE",
+			"publisher": "Celadon",
+			"rank": 12
+		},
+		{
+			"author": "by Mark R. Levin",
+			"description": "The Fox News host gives his take on the Green New Deal, critical race theory and social activism.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501135972.jpg",
+			"name": "AMERICAN MARXISM",
+			"publisher": "Threshold Editions",
+			"rank": 13
+		},
+		{
+			"author": "by Stephanie Land",
+			"description": "An unexpected pregnancy forces the author to navigate challenges faced by the working poor.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316505116.jpg",
+			"name": "MAID",
+			"publisher": "Legacy Lit",
+			"rank": 14
+		},
+		{
+			"author": "by the Beatles",
+			"description": "The story of the making of the band\u2019s final album, gathered from transcripts of their conversations.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780935112962.jpg",
+			"name": "THE BEATLES: GET BACK",
+			"publisher": "Callaway",
+			"rank": 15
+		}
+	]
+}

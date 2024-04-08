@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "The host of \u201cThe O\u2019Reilly Factor\u201d recounts the events surrounding the assassination of John F. Kennedy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780805096668.jpg",
+			"name": "KILLING KENNEDY",
+			"publisher": "Henry Holt & Company",
+			"rank": 1
+		},
+		{
+			"author": "by Eben Alexander",
+			"description": "A neurosurgeon recounts his near death experience during a coma from bacterial meningitis.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451695199.jpg",
+			"name": "PROOF OF HEAVEN",
+			"publisher": "Simon & Schuster",
+			"rank": 2
+		},
+		{
+			"author": "by Mark Owen with Kevin Maurer",
+			"description": "An account of the mission that killed Osama bin Laden, by a former member of the Navy SEALs.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101611302.jpg",
+			"name": "NO EASY DAY",
+			"publisher": "Penguin Group",
+			"rank": 3
+		},
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "The host of \u201cThe O\u2019Reilly Factor\u201d recounts the assassination of Abraham Lincoln.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780805093070.jpg",
+			"name": "KILLING LINCOLN",
+			"publisher": "Henry Holt & Company",
+			"rank": 4
+		},
+		{
+			"author": "by Nate Silver",
+			"description": "An examination of predictions, the ones that come true and the ones that don\u2019t.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594204111.jpg",
+			"name": "THE SIGNAL AND THE NOISE",
+			"publisher": "Penguin Group",
+			"rank": 5
+		},
+		{
+			"author": "by William Manchester and Paul Reid",
+			"description": "This biography of Winston Churchill, reaching from World War II until his death in 1965, stresses his courage, intellect and will to action.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316244855.jpg",
+			"name": "LAST LION",
+			"publisher": "Little, Brown & Company",
+			"rank": 6
+		},
+		{
+			"author": "by Oliver Sacks",
+			"description": "The renowned neurologist considers his patients\u2019 hallucinatory experiences, and his own.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307957252.jpg",
+			"name": "HALLUCINATIONS",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 7
+		},
+		{
+			"author": "by Todd Burpo with Lynn Vincent",
+			"description": "A father recounts his 3-year-old son\u2019s encounter with Jesus and the angels during an emergency appendectomy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780849949203.jpg",
+			"name": "HEAVEN IS FOR REAL",
+			"publisher": "Thomas Nelson",
+			"rank": 8
+		},
+		{
+			"author": "by Laura Hillenbrand",
+			"description": "An Olympic runner\u2019s story of survival as a prisoner of the Japanese in World War II after his plane went down over the Pacific.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400064168.jpg",
+			"name": "UNBROKEN",
+			"publisher": "Random House Publishing",
+			"rank": 9
+		},
+		{
+			"author": "by Peter Ames Carlin",
+			"description": "A biography of Bruce Springsteen looks at his family, his music and his drive for fame and influence.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781439191842.jpg",
+			"name": "BRUCE",
+			"publisher": "Simon & Schuster",
+			"rank": 10
+		},
+		{
+			"author": "by Doris Kearns Goodwin",
+			"description": "The political genius of Abraham Lincoln, revealed in his relationship with his cabinet; originally published in 2005.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780743270755.jpg",
+			"name": "TEAM OF RIVALS",
+			"publisher": "Simon & Schuster",
+			"rank": 11
+		},
+		{
+			"author": "by Thomas E. Ricks",
+			"description": "A history of American military command from World War II to the present.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101595930.jpg",
+			"name": "GENERALS",
+			"publisher": "Penguin Group",
+			"rank": 12
+		},
+		{
+			"author": "by David Frum",
+			"description": "A former speechwriter for George W. Bush argues that the Republican Party has become too ideologically extreme.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781625399366.jpg",
+			"name": "WHY ROMNEY LOST",
+			"publisher": "Newsweek",
+			"rank": 13
+		},
+		{
+			"author": "by Kirstie Alley",
+			"description": "The actress's life and loves.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451673609.jpg",
+			"name": "THE ART OF MEN",
+			"publisher": "Simon & Schuster",
+			"rank": 14
+		},
+		{
+			"author": "by Cheryl Strayed",
+			"description": "A woman\u2019s account of a life-changing 1,100-mile hike along the Pacific Crest Trail.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307476074.jpg",
+			"name": "WILD",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 15
+		}
+	]
+}

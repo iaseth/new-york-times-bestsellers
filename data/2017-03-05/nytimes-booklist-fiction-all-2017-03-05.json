@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Jonathan Kellerman",
+			"description": "The psychologist Alex Delaware and the L.A.P.D. Lt. Milo Sturgis investigate the mysterious death of an elderly woman.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345541444.jpg",
+			"name": "HEARTBREAK HOTEL",
+			"publisher": "Ballantine",
+			"rank": 1
+		},
+		{
+			"author": "by George Saunders",
+			"description": "Visiting the grave of his recently deceased young son in 1862, Lincoln encounters a cemetery full of ghosts.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812995343.jpg",
+			"name": "LINCOLN IN THE BARDO",
+			"publisher": "Random House",
+			"rank": 2
+		},
+		{
+			"author": "by Helen Hardt",
+			"description": "Jonah falls for his brother's therapist while trying to unravel his family's abduction.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/A00B01LBPLEG6.jpg",
+			"name": "BURN",
+			"publisher": "Waterhouse Press",
+			"rank": 3
+		},
+		{
+			"author": "by William P. Young",
+			"description": "A man whose daughter was abducted is invited to an isolated shack, apparently by God.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780964729230.jpg",
+			"name": "THE SHACK",
+			"publisher": "Windblown Media",
+			"rank": 4
+		},
+		{
+			"author": "by W. Bruce Cameron",
+			"description": "A canine narrator undergoes a series of reincarnations.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780765330345.jpg",
+			"name": "A DOG'S PURPOSE",
+			"publisher": "Forge Books",
+			"rank": 5
+		},
+		{
+			"author": "by Fredrik Backman",
+			"description": "A curmudgeon's gruff exterior masks a generosity of spirit. Originally published in Sweden in 2014.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476738024.jpg",
+			"name": "A MAN CALLED OVE",
+			"publisher": "Washington Square",
+			"rank": 6
+		},
+		{
+			"author": "by J. D. Robb",
+			"description": "Lt. Eve Dallas of the N.Y.P.D. investigates a fatal home invasion. By Nora Roberts, writing pseudonymously.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250123145.jpg",
+			"name": "ECHOES IN DEATH",
+			"publisher": "St. Martin's",
+			"rank": 7
+		},
+		{
+			"author": "by Liane Moriarty",
+			"description": "Who will end up dead, and how, when three mothers with children in the same school become friends?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698138636.jpg",
+			"name": "BIG LITTLE LIES",
+			"publisher": "Berkley",
+			"rank": 8
+		},
+		{
+			"author": "by Neil Gaiman",
+			"description": "A retelling of Norse folklore.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780393609097.jpg",
+			"name": "NORSE MYTHOLOGY",
+			"publisher": "Norton",
+			"rank": 9
+		},
+		{
+			"author": "by Mark Greaney",
+			"description": "Court Gentry, now working for the C.I.A., pursues a Chinese hacker who is on the run.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698406858.jpg",
+			"name": "GUNMETAL GRAY",
+			"publisher": "Berkley",
+			"rank": 10
+		},
+		{
+			"author": "by E. L. James",
+			"description": "Daunted by Christian\u2019s dark secrets, Anastasia ends their relationship \u2014 but desire still dominates her every thought.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345803498.jpg",
+			"name": "FIFTY SHADES DARKER",
+			"publisher": "Vintage",
+			"rank": 11
+		},
+		{
+			"author": "by Lisa Gardner",
+			"description": "The former F.B.I. profiler Pierce Quincy and his partner, Rainie Conner, foster a girl whose older brother murdered their drunken father. Now, eight years later, he has killed again.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698411432.jpg",
+			"name": "RIGHT BEHIND YOU",
+			"publisher": "Dutton",
+			"rank": 12
+		},
+		{
+			"author": "by Margaret Atwood",
+			"description": "In the Republic of Gilead's dystopian future, men and women perform the services assigned to them. Originally published in 1986.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780547345666.jpg",
+			"name": "THE HANDMAID'S TALE",
+			"publisher": "Houghton Mifflin Harcourt",
+			"rank": 13
+		},
+		{
+			"author": "by Rupi Kaur",
+			"description": "Poetic approaches to surviving adversity and loss.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781449474256.jpg",
+			"name": "MILK AND HONEY",
+			"publisher": "Andrews McMeel",
+			"rank": 14
+		},
+		{
+			"author": "by James Patterson and Candice Fox",
+			"description": "Harriet Blue, a Sydney sex crimes detective, is sent to the outback (the never never) to investigate the disappearance of a mine worker. The first in a new series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316434720.jpg",
+			"name": "NEVER NEVER",
+			"publisher": "Little, Brown",
+			"rank": 15
+		}
+	]
+}

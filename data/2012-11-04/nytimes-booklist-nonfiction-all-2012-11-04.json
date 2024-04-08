@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "The host of \u201cThe O\u2019Reilly Factor\u201d recounts the events surrounding the assassination of John F. Kennedy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780805096668.jpg",
+			"name": "KILLING KENNEDY",
+			"publisher": "Henry Holt & Company",
+			"rank": 1
+		},
+		{
+			"author": "by Mark Owen with Kevin Maurer",
+			"description": "An account of the mission that killed Osama bin Laden, by a former member of the Navy SEALs.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101611302.jpg",
+			"name": "NO EASY DAY",
+			"publisher": "Penguin Group",
+			"rank": 2
+		},
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "The host of \u201cThe O\u2019Reilly Factor\u201d recounts the assassination of Abraham Lincoln.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780805093070.jpg",
+			"name": "KILLING LINCOLN",
+			"publisher": "Henry Holt & Company",
+			"rank": 3
+		},
+		{
+			"author": "by Mark Bowden",
+			"description": "From 9/11 to the killing of Osama bin Laden, from the author of \u201cBlack Hawk Down.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780802194107.jpg",
+			"name": "THE FINISH",
+			"publisher": "Atlantic Monthly Press",
+			"rank": 4
+		},
+		{
+			"author": "by Timothy Keller with Kathy Keller",
+			"description": "The pastor of New York\u2019s Redeemer Presbyterian church relies on the Bible to argue that marriage is meant to bring us closer to God.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101548042.jpg",
+			"name": "THE MEANING OF MARRIAGE",
+			"publisher": "Penguin Group",
+			"rank": 5
+		},
+		{
+			"author": "by Pete Townshend",
+			"description": "The rocker's memoir.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062127242.jpg",
+			"name": "WHO I AM",
+			"publisher": "HarperCollins Publishers",
+			"rank": 6
+		},
+		{
+			"author": "by John Taylor with Tom Sykes",
+			"description": "A memoir by the bass player and founding member of Duran Duran.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525958000.jpg",
+			"name": "IN THE PLEASURE GROOVE",
+			"publisher": "Penguin Group",
+			"rank": 7
+		},
+		{
+			"author": "by Stephen Colbert and others",
+			"description": "The mock pundit of Comedy Central\u2019s \u201cColbert Report\u201d tells how to bring America back from the brink.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780446583978.jpg",
+			"name": "AMERICA AGAIN",
+			"publisher": "Grand Central Publishing",
+			"rank": 8
+		},
+		{
+			"author": "by Nate Silver",
+			"description": "An examination of predictions, the ones that come true and the ones that don\u2019t.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594204111.jpg",
+			"name": "THE SIGNAL AND THE NOISE",
+			"publisher": "Penguin Group",
+			"rank": 9
+		},
+		{
+			"author": "by Laura Hillenbrand",
+			"description": "An Olympic runner\u2019s story of survival as a prisoner of the Japanese in World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400064168.jpg",
+			"name": "UNBROKEN",
+			"publisher": "Random House Publishing",
+			"rank": 10
+		},
+		{
+			"author": "by Antonio J. Mendez with Malcolm McConnell",
+			"description": "Recollections, first published in 1999,  by the C.I.A. officer who helped six Americans escape from Tehran in 1980; he is played by Ben Affleck in the movie \u201cArgo.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780061865305.jpg",
+			"name": "THE MASTER OF DISGUISE",
+			"publisher": "HarperCollins Publishers",
+			"rank": 11
+		},
+		{
+			"author": "by Todd Burpo with Lynn Vincent",
+			"description": "A father recounts his 3-year-old son\u2019s encounter with Jesus and the angels during an appendectomy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780849949203.jpg",
+			"name": "HEAVEN IS FOR REAL",
+			"publisher": "Thomas Nelson",
+			"rank": 12
+		},
+		{
+			"author": "by Cheryl Strayed",
+			"description": "A woman\u2019s account of a life-changing 1,100-mile hike along the Pacific Crest Trail.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307476074.jpg",
+			"name": "WILD",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 13
+		},
+		{
+			"author": "by Neil Young",
+			"description": "The rocker\u2019s memoir ranges over his personal life and his music.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399159466.jpg",
+			"name": "WAGING HEAVY PEACE",
+			"publisher": "Penguin Group",
+			"rank": 14
+		},
+		{
+			"author": "by Paul Tough",
+			"description": "An argument that the qualities that matter most have to do with character, not intelligence.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780544104402.jpg",
+			"name": "HOW CHILDREN SUCCEED",
+			"publisher": "Houghton Mifflin Harcourt Publishing",
+			"rank": 15
+		}
+	]
+}

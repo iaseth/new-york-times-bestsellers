@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Nicholas Sparks",
+			"description": "The arrival of a mysterious young woman in a small North Carolina town raises questions about her past.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455523542.jpg",
+			"name": "SAFE HAVEN",
+			"publisher": "Grand Central Publishing",
+			"rank": 1
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "The man who has been relentlessly pursuing Sky Davis is not who he pretends to be.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781481251884.jpg",
+			"name": "HOPELESS",
+			"publisher": "Colleen Hoover",
+			"rank": 2
+		},
+		{
+			"author": "by Gillian Flynn",
+			"description": "A woman disappears on the day of her fifth anniversary; is her husband a killer?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307588388.jpg",
+			"name": "GONE GIRL",
+			"publisher": "Crown Publishing",
+			"rank": 3
+		},
+		{
+			"author": "by Brad Meltzer",
+			"description": "Tracking an assassin who is recreating the crimes of the four men who murdered presidents, Beecher White discovers that they all were working together.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780446553971.jpg",
+			"name": "THE FIFTH ASSASSIN",
+			"publisher": "Grand Central Publishing",
+			"rank": 4
+		},
+		{
+			"author": "by E. L. James",
+			"description": "A college student falls in love with a tortured man with particular sexual tastes; the first of a trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345803481.jpg",
+			"name": "FIFTY SHADES OF GREY",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 5
+		},
+		{
+			"author": "by Addison Moore",
+			"description": "A one-night stand turns into love for two college students.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781624300004.jpg",
+			"name": "SOMEONE TO LOVE",
+			"publisher": "Addison Moore",
+			"rank": 6
+		},
+		{
+			"author": "by E. L. James",
+			"description": "The final book in an erotic trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781612130606.jpg",
+			"name": "FIFTY SHADES FREED",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 7
+		},
+		{
+			"author": "by E. L. James",
+			"description": "Ana Steele learns more about Christian Grey\u2019s troubled past; the second book in a trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345803498.jpg",
+			"name": "FIFTY SHADES DARKER",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 8
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "The military investigator John Puller probes his aunt\u2019s mysterious death in Florida.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455523153.jpg",
+			"name": "THE FORGOTTEN",
+			"publisher": "Grand Central Publishing",
+			"rank": 9
+		},
+		{
+			"author": "by Robert Jordan and Brandon Sanderson",
+			"description": "The 14th and final novel in the Wheel of Time fantasy series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781429997171.jpg",
+			"name": "A MEMORY OF LIGHT",
+			"publisher": "Tor/Tom Doherty Associates",
+			"rank": 10
+		},
+		{
+			"author": "by Jessica Sorensen",
+			"description": "A boy and girl, both with tragedy in their past, come together after a chance encounter.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/A00B00ANDLC6K.jpg",
+			"name": "THE COINCIDENCE OF CALLIE AND KAYDEN",
+			"publisher": "Jessica Sorensen",
+			"rank": 11
+		},
+		{
+			"author": "by Stephen Hunter",
+			"description": "The veteran sniper Bob Lee Swagger investigates the assassination of John F. Kennedy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451640250.jpg",
+			"name": "THE THIRD BULLET",
+			"publisher": "Simon & Schuster",
+			"rank": 12
+		},
+		{
+			"author": "by John Grisham",
+			"description": "An imprisoned ex-lawyer schemes to exchange this information about who murdered a judge for his freedom.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385536882.jpg",
+			"name": "THE RACKETEER",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 13
+		},
+		{
+			"author": "by James Rollins",
+			"description": "The discovery of a lost colony reveals a conspiracy from the nation's founding; a Sigma Force novel.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062000125.jpg",
+			"name": "THE DEVIL COLONY",
+			"publisher": "HarperCollins",
+			"rank": 14
+		},
+		{
+			"author": "by Yann Martel",
+			"description": "A teenage boy and a 450-pound tiger are thrown together in a lifeboat after a shipwreck; originally published in 2002 and now a movie.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780156027328.jpg",
+			"name": "LIFE OF PI",
+			"publisher": "Houghton Mifflin Harcourt",
+			"rank": 15
+		}
+	]
+}

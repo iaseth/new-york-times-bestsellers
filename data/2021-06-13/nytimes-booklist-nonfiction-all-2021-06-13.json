@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "The 10th book in the conservative commentator\u2019s Killing series looks at organized crime in the United States during the 20th century.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250273659.jpg",
+			"name": "KILLING THE MOB",
+			"publisher": "St. Martin's",
+			"rank": 1
+		},
+		{
+			"author": "by Bruce D. Perry and Oprah Winfrey",
+			"description": "An approach to dealing with trauma that shifts an essential question used to investigate it.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250223180.jpg",
+			"name": "WHAT HAPPENED TO YOU?",
+			"publisher": "Flatiron",
+			"rank": 2
+		},
+		{
+			"author": "by John Green",
+			"description": "A collection of personal essays that review different facets of the human-centered planet.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525555216.jpg",
+			"name": "THE ANTHROPOCENE REVIEWED",
+			"publisher": "Dutton",
+			"rank": 3
+		},
+		{
+			"author": "by Carol Leonnig",
+			"description": "The three-time Pulitzer Prize winner brings to light the secrets, scandals and shortcomings of the Secret Service.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399589010.jpg",
+			"name": "ZERO FAIL",
+			"publisher": "Random House",
+			"rank": 4
+		},
+		{
+			"author": "by Michael Lewis",
+			"description": "Stories of skeptics who went against the official response of the Trump administration to the outbreak of Covid-19. The profiles include a local public-health officer and a group of doctors nicknamed the Wolverines.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780393881554.jpg",
+			"name": "THE PREMONITION",
+			"publisher": "Norton",
+			"rank": 5
+		},
+		{
+			"author": "by Bessel van der Kolk",
+			"description": "How trauma affects the body and mind, and innovative treatments for recovery.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780670785933.jpg",
+			"name": "THE BODY KEEPS THE SCORE",
+			"publisher": "Penguin",
+			"rank": 6
+		},
+		{
+			"author": "by Matthew McConaughey",
+			"description": "The Academy Award-winning actor shares snippets from the diaries he kept over the last 35 years.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593139134.jpg",
+			"name": "GREENLIGHTS",
+			"publisher": "Crown",
+			"rank": 7
+		},
+		{
+			"author": "by Malcolm Gladwell",
+			"description": "A look at the key players and outcomes of precision bombing during World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316296618.jpg",
+			"name": "THE BOMBER MAFIA",
+			"publisher": "Little, Brown",
+			"rank": 8
+		},
+		{
+			"author": "by Seth Rogen",
+			"description": "A collection of personal essays by the actor, writer, producer, director, entrepreneur and philanthropist.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984825407.jpg",
+			"name": "YEARBOOK",
+			"publisher": "Crown",
+			"rank": 9
+		},
+		{
+			"author": "by Daniel Kahneman, Olivier Sibony and Cass R. Sunstein",
+			"description": "What might cause variability in judgments that should be identical and potential ways to remedy this.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316451406.jpg",
+			"name": "NOISE",
+			"publisher": "Little, Brown Spark",
+			"rank": 10
+		},
+		{
+			"author": "by Isabel Wilkerson",
+			"description": "The Pulitzer Prize-winning journalist examines aspects of caste systems across civilizations and reveals a rigid hierarchy in America today.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593230251.jpg",
+			"name": "CASTE",
+			"publisher": "Random House",
+			"rank": 11
+		},
+		{
+			"author": "by Jordan Ellenberg",
+			"description": "The ways geometry might give a better understanding of scientific, political and philosophical problems.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984879059.jpg",
+			"name": "SHAPE",
+			"publisher": "Penguin Press",
+			"rank": 12
+		},
+		{
+			"author": "by Brian Moylan",
+			"description": "Major onscreen moments, behind-the-scenes dramas, product offshoots and cultural impact of the reality television franchise.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250807601.jpg",
+			"name": "THE HOUSEWIVES",
+			"publisher": "Flatiron",
+			"rank": 13
+		},
+		{
+			"author": "by Tom Coyne",
+			"description": "Stories and insights of more than 200 golf courses in all 50 states, including every course to ever host a U.S. Open.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982128050.jpg",
+			"name": "A COURSE CALLED AMERICA",
+			"publisher": "Avid Reader/Simon & Schuster",
+			"rank": 14
+		},
+		{
+			"author": "by Glennon Doyle",
+			"description": "The activist and public speaker describes her journey of listening to her inner voice.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984801258.jpg",
+			"name": "UNTAMED",
+			"publisher": "Dial",
+			"rank": 15
+		}
+	]
+}

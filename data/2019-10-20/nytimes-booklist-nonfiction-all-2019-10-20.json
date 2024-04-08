@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Rachel Maddow",
+			"description": "The MSNBC host argues that the global oil and gas industry has weakened democracies and bolstered authoritarians.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525575474.jpg",
+			"name": "BLOWOUT",
+			"publisher": "Crown",
+			"rank": 1
+		},
+		{
+			"author": "by Hillary Rodham Clinton and Chelsea Clinton",
+			"description": "Profiles of women from around the world who have blazed trails and challenged the status quo.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501178412.jpg",
+			"name": "THE BOOK OF GUTSY WOMEN",
+			"publisher": "Simon & Schuster",
+			"rank": 2
+		},
+		{
+			"author": "by Malcolm Gladwell",
+			"description": "Famous examples of miscommunication serve as the backdrop to explain potential conflicts and misunderstandings.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316478526.jpg",
+			"name": "TALKING TO STRANGERS",
+			"publisher": "Little, Brown",
+			"rank": 3
+		},
+		{
+			"author": "by Bill O'Reilly",
+			"description": "The conservative commentator weaves interviews and personal history to portray the power and influence of the 45th president.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250237224.jpg",
+			"name": "THE UNITED STATES OF TRUMP",
+			"publisher": "Holt",
+			"rank": 4
+		},
+		{
+			"author": "by Demi Moore",
+			"description": "The Hollywood star chronicles the rocky relationships, body image issues and public perceptions that affected her attempts to balance family and fame.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062049537.jpg",
+			"name": "INSIDE OUT",
+			"publisher": "Harper",
+			"rank": 5
+		},
+		{
+			"author": "by Tara Westover",
+			"description": "The daughter of survivalists, who is kept out of school, educates herself enough to leave home for university.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399590504.jpg",
+			"name": "EDUCATED",
+			"publisher": "Random House",
+			"rank": 6
+		},
+		{
+			"author": "by Jonathan Van Ness",
+			"description": "How the hairstylist, comedian and \"Queer Eye\" star overcame ridicule and trauma.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062906373.jpg",
+			"name": "OVER THE TOP",
+			"publisher": "HarperOne",
+			"rank": 7
+		},
+		{
+			"author": "by Jim Mattis and Bing West",
+			"description": "The former Marine infantry officer and secretary of defense recounts key moments from his career and imparts his leadership philosophy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812996838.jpg",
+			"name": "CALL SIGN CHAOS",
+			"publisher": "Random House",
+			"rank": 8
+		},
+		{
+			"author": "by Edward Snowden",
+			"description": "A memoir by the former National Security Agency contractor who exposed the government\u2019s mass surveillance program.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250237231.jpg",
+			"name": "PERMANENT RECORD",
+			"publisher": "Metropolitan/Holt",
+			"rank": 9
+		},
+		{
+			"author": "by Timothy Snyder",
+			"description": "Twenty lessons from the 20th century about the course of tyranny.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780804190114.jpg",
+			"name": "ON TYRANNY",
+			"publisher": "Tim Duggan",
+			"rank": 10
+		},
+		{
+			"author": "by Chanel Miller",
+			"description": "A sexual assault victim reclaims her identity and challenges our culture and criminal justice system as they relate to this issue.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735223707.jpg",
+			"name": "KNOW MY NAME",
+			"publisher": "Viking",
+			"rank": 11
+		},
+		{
+			"author": "by Elvis Duran",
+			"description": "The syndicated morning radio host recalls the highlights and ignominious moments of his career.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982106331.jpg",
+			"name": "WHERE DO I BEGIN?",
+			"publisher": "Atria",
+			"rank": 12
+		},
+		{
+			"author": "by Michelle Obama",
+			"description": "The former first lady describes her journey from the South Side of Chicago to the White House, and how she balanced work, family and her husband\u2019s political ascent.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524763138.jpg",
+			"name": "BECOMING",
+			"publisher": "Crown",
+			"rank": 13
+		},
+		{
+			"author": "by Debbie Harry",
+			"description": "A memoir by the lead singer of Blondie and downtown New York City icon.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780060749583.jpg",
+			"name": "FACE IT",
+			"publisher": "Dey St.",
+			"rank": 14
+		},
+		{
+			"author": "by Jeannie Gaffigan",
+			"description": "Challenges the Grammy-nominated comedy writer and mother of five faced after being diagnosed with a brain tumor.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538751046.jpg",
+			"name": "WHEN LIFE GIVES YOU PEARS",
+			"publisher": "Grand Central",
+			"rank": 15
+		}
+	]
+}

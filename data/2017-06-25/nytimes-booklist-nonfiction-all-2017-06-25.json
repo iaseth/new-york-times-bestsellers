@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Kevin Hart with Neil Strauss",
+			"description": "The comedian\u2019s personal and professional life.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501155567.jpg",
+			"name": "I CAN'T MAKE THIS UP",
+			"publisher": "37 INK/Atria",
+			"rank": 1
+		},
+		{
+			"author": "by Al Franken",
+			"description": "A memoir by the Democratic senator from Minnesota and former \u201cSaturday Night Live\u201d writer and performer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455540419.jpg",
+			"name": "AL FRANKEN, GIANT OF THE SENATE",
+			"publisher": "Twelve",
+			"rank": 2
+		},
+		{
+			"author": "by Neil deGrasse Tyson",
+			"description": "A straightforward, easy-to-understand introduction to the laws that govern the universe.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780393609394.jpg",
+			"name": "ASTROPHYSICS FOR PEOPLE IN A HURRY",
+			"publisher": "Norton",
+			"rank": 3
+		},
+		{
+			"author": "by David Sedaris",
+			"description": "Excerpts from the writer\u2019s diaries, 1977-2002.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316154727.jpg",
+			"name": "THEFT BY FINDING",
+			"publisher": "Little, Brown",
+			"rank": 4
+		},
+		{
+			"author": "by Sheryl Sandberg and Adam Grant",
+			"description": "Sandberg\u2019s experience after her husband\u2019s sudden death and Grant\u2019s psychological research combine to provide insight on facing adversity and building resilience.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524732684.jpg",
+			"name": "OPTION B",
+			"publisher": "Knopf",
+			"rank": 5
+		},
+		{
+			"author": "by J.D. Vance",
+			"description": "A Yale Law School graduate looks at the struggles of the white working class through the story of his own childhood.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062300560.jpg",
+			"name": "HILLBILLY ELEGY",
+			"publisher": "HarperCollins",
+			"rank": 6
+		},
+		{
+			"author": "by David Fisher",
+			"description": "Stories of the Civil War; a companion to the Fox historical docudrama.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250109842.jpg",
+			"name": "BILL O'REILLY'S LEGENDS AND LIES: THE CIVIL WAR",
+			"publisher": "Holt",
+			"rank": 7
+		},
+		{
+			"author": "by Timothy Snyder",
+			"description": "Twenty lessons from the 20th century about the course of tyranny.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780804190114.jpg",
+			"name": "ON TYRANNY",
+			"publisher": "Tim Duggan",
+			"rank": 8
+		},
+		{
+			"author": "by Mark Bowden",
+			"description": "An account of the Tet Offensive battle that was a turning point in the American war in Vietnam.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780802127006.jpg",
+			"name": "HUE 1968",
+			"publisher": "Atlantic Monthly",
+			"rank": 9
+		},
+		{
+			"author": "by Alan Alda",
+			"description": "The actor\u2019s efforts to help people learn to communicate more effectively.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812989144.jpg",
+			"name": "IF I UNDERSTOOD YOU, WOULD I HAVE THIS LOOK ON MY FACE?",
+			"publisher": "Random House",
+			"rank": 10
+		},
+		{
+			"author": "by David Grann",
+			"description": "The story of a murder spree in 1920s Oklahoma that targeted Osage Indians, whose lands contained oil.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385534246.jpg",
+			"name": "KILLERS OF THE FLOWER MOON",
+			"publisher": "Doubleday",
+			"rank": 11
+		},
+		{
+			"author": "by Diane Ackerman",
+			"description": "How a Warsaw couple sheltered Jews and members of the Resistance during World War II. Originally published in 2007; now the basis of a movie.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780393333060.jpg",
+			"name": "THE ZOOKEEPER\u2019S WIFE",
+			"publisher": "Norton",
+			"rank": 12
+		},
+		{
+			"author": "by Ben Sasse",
+			"description": "The Nebraska Republican senator\u2019s advice on how to raise resilient, responsible children.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250114402.jpg",
+			"name": "THE VANISHING AMERICAN ADULT",
+			"publisher": "St. Martin's",
+			"rank": 13
+		},
+		{
+			"author": "by Nina Riggs",
+			"description": "An account of a woman\u2019s struggle with metastatic breast cancer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501169359.jpg",
+			"name": "THE BRIGHT HOUR",
+			"publisher": "Simon & Schuster",
+			"rank": 14
+		},
+		{
+			"author": "by Yuval Noah Harari",
+			"description": "How Homo sapiens became Earth\u2019s dominant species.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062316097.jpg",
+			"name": "SAPIENS",
+			"publisher": "Harper",
+			"rank": 15
+		}
+	]
+}

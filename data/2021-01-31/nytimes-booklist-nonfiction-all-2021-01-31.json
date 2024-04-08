@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Barack Obama",
+			"description": "In the first volume of his presidential memoirs, Barack Obama offers personal reflections on his formative years and pivotal moments through his first term.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524763169.jpg",
+			"name": "A PROMISED LAND",
+			"publisher": "Crown",
+			"rank": 1
+		},
+		{
+			"author": "by Isabel Wilkerson",
+			"description": "The Pulitzer Prize-winning journalist examines aspects of caste systems across civilizations and reveals a rigid hierarchy in America today.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593230251.jpg",
+			"name": "CASTE",
+			"publisher": "Random House",
+			"rank": 2
+		},
+		{
+			"author": "by Matthew McConaughey",
+			"description": "The Academy Award-winning actor shares snippets from the diaries he kept over the last 35 years.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593139134.jpg",
+			"name": "GREENLIGHTS",
+			"publisher": "Crown",
+			"rank": 3
+		},
+		{
+			"author": "by Timothy Snyder",
+			"description": "Twenty lessons from the 20th century about the course of tyranny.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780804190114.jpg",
+			"name": "ON TYRANNY",
+			"publisher": "Tim Duggan",
+			"rank": 4
+		},
+		{
+			"author": "by Glennon Doyle",
+			"description": "The activist and public speaker describes her journey of listening to her inner voice.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984801258.jpg",
+			"name": "UNTAMED",
+			"publisher": "Dial",
+			"rank": 5
+		},
+		{
+			"author": "by George Saunders",
+			"description": "A collection of essays examining the functions and importance of works of fiction.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984856029.jpg",
+			"name": "A SWIM IN A POND IN THE RAIN",
+			"publisher": "Random House",
+			"rank": 6
+		},
+		{
+			"author": "by Kurt Andersen",
+			"description": "The author of \u201cFantasyland\u201d looks at the economic, cultural and political forces to which he ascribes the undermining and dismantling of the American middle class.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984801340.jpg",
+			"name": "EVIL GENIUSES",
+			"publisher": "Random House",
+			"rank": 7
+		},
+		{
+			"author": "by Bessel van der Kolk",
+			"description": "How trauma affects the body and mind, and innovative treatments for recovery.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780670785933.jpg",
+			"name": "THE BODY KEEPS THE SCORE",
+			"publisher": "Penguin",
+			"rank": 8
+		},
+		{
+			"author": "by Amber Ruffin and Lacey Lamar",
+			"description": "A pair of sisters who live in different parts of the country share their perspectives on the absurdities and everyday experiences of racism.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538719367.jpg",
+			"name": "YOU'LL NEVER BELIEVE WHAT HAPPENED TO LACEY",
+			"publisher": "Grand Central",
+			"rank": 9
+		},
+		{
+			"author": "by Michelle Obama",
+			"description": "The former first lady describes her journey from the South Side of Chicago to the White House, and how she balanced work, family and her husband\u2019s political ascent.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524763138.jpg",
+			"name": "BECOMING",
+			"publisher": "Crown",
+			"rank": 10
+		},
+		{
+			"author": "by Ibram X. Kendi",
+			"description": "A primer for creating a more just and equitable society through identifying and opposing racism.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525509288.jpg",
+			"name": "HOW TO BE AN ANTIRACIST",
+			"publisher": "One World",
+			"rank": 11
+		},
+		{
+			"author": "by Robin Wall Kimmerer",
+			"description": "A botanist and member of the Citizen Potawatomi Nation espouses having an understanding and appreciation of plants and animals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781571313560.jpg",
+			"name": "BRAIDING SWEETGRASS",
+			"publisher": "Milkweed Editions",
+			"rank": 12
+		},
+		{
+			"author": "by Tara Westover",
+			"description": "The daughter of survivalists, who is kept out of school, educates herself enough to leave home for university.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399590504.jpg",
+			"name": "EDUCATED",
+			"publisher": "Random House",
+			"rank": 13
+		},
+		{
+			"author": "by James Comey",
+			"description": "The former F.B.I. director incorporates his experiences into lessons on how the federal justice system functions.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250799128.jpg",
+			"name": "SAVING JUSTICE",
+			"publisher": "Flatiron",
+			"rank": 14
+		},
+		{
+			"author": "by Erik Larson",
+			"description": "An examination of the leadership of the prime minister Winston Churchill.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385348713.jpg",
+			"name": "THE SPLENDID AND THE VILE",
+			"publisher": "Crown",
+			"rank": 15
+		}
+	]
+}

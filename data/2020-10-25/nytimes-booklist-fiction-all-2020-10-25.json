@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Elin Hilderbrand",
+			"description": "The final installment of the trilogy that includes \u201cWinter in Paradise\u201d and \u201cWhat Happens in Paradise.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316435581.jpg",
+			"name": "TROUBLES IN PARADISE",
+			"publisher": "Little, Brown",
+			"rank": 1
+		},
+		{
+			"author": "by Tana French",
+			"description": "After a divorce, a former Chicago police officer resettles in an Irish village where a boy goes missing.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735224650.jpg",
+			"name": "THE SEARCHER",
+			"publisher": "Viking",
+			"rank": 2
+		},
+		{
+			"author": "by Nicholas Sparks",
+			"description": "A doctor serving in the Navy in Afghanistan goes back to North Carolina where two women change his life.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538728574.jpg",
+			"name": "THE RETURN",
+			"publisher": "Grand Central",
+			"rank": 3
+		},
+		{
+			"author": "by Rumaan Alam",
+			"description": "A family vacation in an isolated part of Long Island is thrown into confusion when the home\u2019s owners return claiming New York City is having a blackout.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062667632.jpg",
+			"name": "LEAVE THE WORLD BEHIND",
+			"publisher": "Ecco",
+			"rank": 4
+		},
+		{
+			"author": "by V.E. Schwab",
+			"description": "A Faustian bargain comes with a curse that affects the adventure Addie LaRue has across centuries.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780765387561.jpg",
+			"name": "THE INVISIBLE LIFE OF ADDIE LARUE",
+			"publisher": "Tor/Forge",
+			"rank": 5
+		},
+		{
+			"author": "by Ken Follett",
+			"description": "In a prequel to \u201cThe Pillars of the Earth,\u201d a boatbuilder, a Norman noblewoman and a monk live in England under attack by the Welsh and the Vikings.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525954989.jpg",
+			"name": "THE EVENING AND THE MORNING",
+			"publisher": "Viking",
+			"rank": 6
+		},
+		{
+			"author": "by Alice Hoffman",
+			"description": "In a prequel to \u201cPractical Magic,\u201d Maria Owens invokes a curse that will haunt her family in Salem, Mass.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982108847.jpg",
+			"name": "MAGIC LESSONS",
+			"publisher": "Simon & Schuster",
+			"rank": 7
+		},
+		{
+			"author": "by Fredrik Backman",
+			"description": "A failed bank robber holds a group of strangers hostage at an apartment open house.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501160837.jpg",
+			"name": "ANXIOUS PEOPLE",
+			"publisher": "Atria",
+			"rank": 8
+		},
+		{
+			"author": "by Jodi Picoult",
+			"description": "After surviving a plane crash, a death doula travels to Egypt to reconnect with an old flame who is an archaeologist.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984818355.jpg",
+			"name": "THE BOOK OF TWO WAYS",
+			"publisher": "Ballantine",
+			"rank": 9
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "The sixth book in the Memory Man series. Decker and Jamison investigate a murder in a North Dakota town in a fracking boom.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538761465.jpg",
+			"name": "WALK THE WIRE",
+			"publisher": "Grand Central",
+			"rank": 10
+		},
+		{
+			"author": "by James Patterson and J.D. Barker",
+			"description": "A detective and an F.B.I. agent are baffled by a cross-country killing spree.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316457422.jpg",
+			"name": "THE COAST-TO-COAST MURDERS",
+			"publisher": "Little, Brown",
+			"rank": 11
+		},
+		{
+			"author": "by Brit Bennett",
+			"description": "The lives of twin sisters who run away from a Southern Black community at age 16 diverge as one returns and the other takes on a different racial identity but their fates intertwine.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525536291.jpg",
+			"name": "THE VANISHING HALF",
+			"publisher": "Riverhead",
+			"rank": 12
+		},
+		{
+			"author": "by Lucy Foley",
+			"description": "A wedding between a TV star and a magazine publisher on an island off the coast of Ireland turns deadly.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062868930.jpg",
+			"name": "THE GUEST LIST",
+			"publisher": "Morrow",
+			"rank": 13
+		},
+		{
+			"author": "by Delia Owens",
+			"description": "In a quiet town on the North Carolina coast in 1969, a young woman who survived alone in the marsh becomes a murder suspect.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735219090.jpg",
+			"name": "WHERE THE CRAWDADS SING",
+			"publisher": "Putnam",
+			"rank": 14
+		},
+		{
+			"author": "by Kyle Mills",
+			"description": "When America\u2019s power grid is shut down, Mitch Rapp goes after a cyber terrorist.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501190650.jpg",
+			"name": "VINCE FLYNN: TOTAL POWER",
+			"publisher": "Emily Bestler/Atria",
+			"rank": 15
+		}
+	]
+}

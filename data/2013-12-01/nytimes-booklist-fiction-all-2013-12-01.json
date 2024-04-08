@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by John Grisham",
+			"description": "A sequel, about race and inheritance, to \u201cA Time to Kill.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385537926.jpg",
+			"name": "SYCAMORE ROW",
+			"publisher": "Doubleday",
+			"rank": 1
+		},
+		{
+			"author": "by Patricia Cornwell",
+			"description": "The murder of a computer engineer at M.I.T. leads the Massachusetts Chief Medical Examiner Kay Scarpetta in unexpected directions.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101636428.jpg",
+			"name": "DUST",
+			"publisher": "Putnam",
+			"rank": 2
+		},
+		{
+			"author": "by Douglas Preston and Lincoln Child",
+			"description": "Special Agent Pendergast learns that the killing of several miners 150 years ago may be related to deadly arson attacks at a Colorado ski resort.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455525843.jpg",
+			"name": "WHITE FIRE",
+			"publisher": "Grand Central",
+			"rank": 3
+		},
+		{
+			"author": "by Mitch Albom",
+			"description": "A small Michigan town is transformed when its residents receive phone calls said to be from heaven.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062294395.jpg",
+			"name": "THE FIRST PHONE CALL FROM HEAVEN",
+			"publisher": "Harper",
+			"rank": 4
+		},
+		{
+			"author": "by Donna Tartt",
+			"description": "A painting smuggled out of the Metropolitan Museum of Art after a bombing becomes a boy\u2019s prize, guilt and burden.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316248679.jpg",
+			"name": "THE GOLDFINCH",
+			"publisher": "Little, Brown",
+			"rank": 5
+		},
+		{
+			"author": "by Melody Anne",
+			"description": "Book 4 of the Surrender series concludes the stories of three women, Rachel, Lia and Ari.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781938786945.jpg",
+			"name": "SCORCHED",
+			"publisher": "Gossamer",
+			"rank": 6
+		},
+		{
+			"author": "by Nora Roberts",
+			"description": "In the first book of the Cousins O'Dwyer trilogy, Iona Sheehan moves to Ireland to investigate her family's history.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101626368.jpg",
+			"name": "DARK WITCH",
+			"publisher": "Berkley",
+			"rank": 7
+		},
+		{
+			"author": "by Orson Scott Card",
+			"description": "Government agencies breed child geniuses and train them as soldiers. Originally published in 1985; now a movie.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812550702.jpg",
+			"name": "ENDER'S GAME",
+			"publisher": "Tor/Tom Doherty",
+			"rank": 8
+		},
+		{
+			"author": "by Nicholas Sparks",
+			"description": "The lives of two couples converge unexpectedly.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455520640.jpg",
+			"name": "THE LONGEST RIDE",
+			"publisher": "Grand Central",
+			"rank": 9
+		},
+		{
+			"author": "by Stephen King",
+			"description": "Now grown up, Dan, the boy with psycho-intuitive powers in \u201cThe Shining,\u201d helps another child with a spectacular gift.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451698855.jpg",
+			"name": "DOCTOR SLEEP",
+			"publisher": "Scribner",
+			"rank": 10
+		},
+		{
+			"author": "by Liane Moriarty",
+			"description": "A woman\u2019s life is upended when she discovers a letter from her husband she was not meant to read.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101636237.jpg",
+			"name": "THE HUSBAND'S SECRET",
+			"publisher": "Amy Einhorn/Putnam",
+			"rank": 11
+		},
+		{
+			"author": "by Amy Tan",
+			"description": "The author of \u201cThe Joy Luck Club\u201d follows mother and daughter courtesans over four decades.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062107312.jpg",
+			"name": "THE VALLEY OF AMAZEMENT",
+			"publisher": "Ecco/HarperCollins",
+			"rank": 12
+		},
+		{
+			"author": "by George R. R. Martin",
+			"description": "After a colossal battle, the Seven Kingdoms face new threats; Book 5 of \u201cA Song of Ice and Fire.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780553582017.jpg",
+			"name": "A DANCE WITH DRAGONS",
+			"publisher": "Random House",
+			"rank": 13
+		},
+		{
+			"author": "by Clive Cussler with Jack Du Brul",
+			"description": "Juan Cabrillo and the crew of the Oregon probe the disappearance of an American destroyer in 1943.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399158087.jpg",
+			"name": "MIRAGE",
+			"publisher": "Putnam",
+			"rank": 14
+		},
+		{
+			"author": "by George R.R. Martin",
+			"description": "In the frozen wastes to the north of Winterfell, sinister and supernatural forces are mustering.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780553897845.jpg",
+			"name": "A GAME OF THRONES",
+			"publisher": "Bantam",
+			"rank": 15
+		}
+	]
+}

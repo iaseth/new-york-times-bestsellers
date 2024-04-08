@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Mark Owen with Kevin Maurer",
+			"description": "An account by a former member of the Navy SEALs, written pseudonymously, of the mission that killed Osama bin Laden.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101611302.jpg",
+			"name": "NO EASY DAY",
+			"publisher": "Penguin Group",
+			"rank": 1
+		},
+		{
+			"author": "by Bob Woodward",
+			"description": "Inside the debt-ceiling negotiations of 2011 with the Washington Post journalist.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451651102.jpg",
+			"name": "THE PRICE OF POLITICS",
+			"publisher": "Simon & Schuster",
+			"rank": 2
+		},
+		{
+			"author": "by Salman Rushdie",
+			"description": "The novelist\u2019s life for nearly 10 years under the Ayatollah Khomeini\u2019s death sentence for writing \u201cThe Satanic Verses.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780679643883.jpg",
+			"name": "JOSEPH ANTON",
+			"publisher": "Random House Publishing",
+			"rank": 3
+		},
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "The anchor of \u201cThe O\u2019Reilly Factor\u201d recounts the assassination of Abraham Lincoln.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780805093070.jpg",
+			"name": "KILLING LINCOLN",
+			"publisher": "Henry Holt & Company",
+			"rank": 4
+		},
+		{
+			"author": "by Damien Echols",
+			"description": "The boyhood and prison life of a man who was released last year after serving 17 years on a wrongful conviction for the murder of three boys in Arkansas.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101598580.jpg",
+			"name": "LIFE AFTER DEATH",
+			"publisher": "Penguin Group",
+			"rank": 5
+		},
+		{
+			"author": "by Jeffrey Toobin",
+			"description": "The ideological battles between President Obama and the Supreme Court.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385536301.jpg",
+			"name": "OATH",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 6
+		},
+		{
+			"author": "by Laura Hillenbrand",
+			"description": "An Olympic runner\u2019s story of survival as a prisoner of the Japanese in World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400064168.jpg",
+			"name": "UNBROKEN",
+			"publisher": "Random House Publishing",
+			"rank": 7
+		},
+		{
+			"author": "by Cheryl Strayed",
+			"description": "A woman\u2019s account of a life-changing 1,100-mile hike along the Pacific Crest Trail.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307476074.jpg",
+			"name": "WILD",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 8
+		},
+		{
+			"author": "by Edward Klein",
+			"description": "A journalist argues that President Obama is callow, arrogant and unable to lead.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781596983144.jpg",
+			"name": "AMATEUR",
+			"publisher": "Regnery Publishing",
+			"rank": 9
+		},
+		{
+			"author": "by Paul Tough",
+			"description": "An argument that the qualities that matter most have to do with character, not intelligence.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780544104402.jpg",
+			"name": "HOW CHILDREN SUCCEED",
+			"publisher": "Houghton Mifflin Harcourt Publishing",
+			"rank": 10
+		},
+		{
+			"author": "by Todd Burpo with Lynn Vincent",
+			"description": "A father recounts his 3-year-old son\u2019s encounter with Jesus and the angels during an appendectomy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780849949203.jpg",
+			"name": "HEAVEN IS FOR REAL",
+			"publisher": "Thomas Nelson",
+			"rank": 11
+		},
+		{
+			"author": "by Christopher Hitchens",
+			"description": "Reports and reflections on his illness and impending death by the writer, who died in December 2011.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455502752.jpg",
+			"name": "MORTALITY",
+			"publisher": "Grand Central Publishing",
+			"rank": 12
+		},
+		{
+			"author": "by Dinesh D'Souza",
+			"description": "An argument that President Obama is the architect of American decline.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781596983168.jpg",
+			"name": "OBAMA'S AMERICA",
+			"publisher": "Regnery Publishing",
+			"rank": 13
+		},
+		{
+			"author": "by Rebecca Skloot",
+			"description": "The story of a woman whose cancer cells were cultured without her permission in 1951.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400052189.jpg",
+			"name": "THE IMMORTAL LIFE OF HENRIETTA LACKS",
+			"publisher": "Crown Publishing",
+			"rank": 14
+		},
+		{
+			"author": "by Charles Duhigg",
+			"description": "A Times reporter\u2019s account of the science behind how we form, and break, habits.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812981605.jpg",
+			"name": "THE POWER OF HABIT",
+			"publisher": "Random House Publishing",
+			"rank": 15
+		}
+	]
+}

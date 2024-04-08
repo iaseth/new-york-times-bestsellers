@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by E. L. James",
+			"description": "A sequel told from Christian's point of view.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101946350.jpg",
+			"name": "GREY",
+			"publisher": "Vintage",
+			"rank": 1
+		},
+		{
+			"author": "by Paula Hawkins",
+			"description": "A psychological thriller set in the environs of London is full of complications and betrayals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594633669.jpg",
+			"name": "THE GIRL ON THE TRAIN",
+			"publisher": "Riverhead",
+			"rank": 2
+		},
+		{
+			"author": "by Catherine Coulter",
+			"description": "In Coulter\u2019s 18th F.B.I. suspense thriller, the agents Lacey Sherlock and Dillon Savich must discover who is responsible for bombings in New York City.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698164895.jpg",
+			"name": "NEMESIS",
+			"publisher": "Putnam",
+			"rank": 3
+		},
+		{
+			"author": "by Brad Thor",
+			"description": "In Thor\u2019s 15th thriller, the counterterrorism operative Scot Harvath undertakes a deadly assignment set in motion by a leaked video.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476717159.jpg",
+			"name": "CODE OF CONDUCT",
+			"publisher": "Emily Bestler/Atria",
+			"rank": 4
+		},
+		{
+			"author": "by Christine Feehan",
+			"description": "A stranger becomes infatuated with Lexi after freeing her from a cult's clutches.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698180529.jpg",
+			"name": "EARTH BOUND",
+			"publisher": "Jove",
+			"rank": 5
+		},
+		{
+			"author": "by Daniel Silva",
+			"description": "Gabriel Allon, an art restorer and occasional spy for the Israeli secret service, helps British intelligence track down the killer of a beautiful former member of the royal family.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062320155.jpg",
+			"name": "THE ENGLISH SPY",
+			"publisher": "Harper",
+			"rank": 6
+		},
+		{
+			"author": "by Anthony Doerr",
+			"description": "The lives of a blind French girl and a gadget-obsessed German boy before and during World War II; the winner of the 2015 Pulitzer Prize.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476746586.jpg",
+			"name": "ALL THE LIGHT WE CANNOT SEE",
+			"publisher": "Scribner",
+			"rank": 7
+		},
+		{
+			"author": "by Andy Weir",
+			"description": "Abandoned by his crew, an astronaut embarks on a dogged quest to stay alive.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780804139038.jpg",
+			"name": "THE MARTIAN",
+			"publisher": "Crown",
+			"rank": 8
+		},
+		{
+			"author": "by Nora Roberts",
+			"description": "A former criminal attorney who has been acquitted of his wife\u2019s murder retreats to his family estate on a rocky New England cliff, where he is comforted by the house\u2019s caretaker amid continuing danger.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399159893.jpg",
+			"name": "WHISKEY BEACH",
+			"publisher": "Putnam",
+			"rank": 9
+		},
+		{
+			"author": "by Elin Hilderbrand",
+			"description": "Two friends on Nantucket must deal with damaging gossip about themselves and their husbands.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316334501.jpg",
+			"name": "THE RUMOR",
+			"publisher": "Little, Brown",
+			"rank": 10
+		},
+		{
+			"author": "by Jessica Knoll",
+			"description": "The life of a successful magazine writer is shaken when secrets from her past are revealed in a documentary.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476789651.jpg",
+			"name": "LUCKIEST GIRL ALIVE",
+			"publisher": "Simon & Schuster",
+			"rank": 11
+		},
+		{
+			"author": "by Kristin Hannah",
+			"description": "Two sisters are separated in World War II France: one in the countryside, the other in Paris.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781466850606.jpg",
+			"name": "THE NIGHTINGALE",
+			"publisher": "St. Martin's",
+			"rank": 12
+		},
+		{
+			"author": "by James Patterson and Howard Roughan",
+			"description": "An attorney discovers a shocking secret that must be kept out of the wrong hands.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316408738.jpg",
+			"name": "TRUTH OR DIE",
+			"publisher": "Little, Brown",
+			"rank": 13
+		},
+		{
+			"author": "by Robyn Carr",
+			"description": "After a man makes a spectacle of himself at his sister's wedding, will he be able to make amends?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780778317876.jpg",
+			"name": "A NEW HOPE",
+			"publisher": "Mira",
+			"rank": 14
+		},
+		{
+			"author": "by James Patterson and Michael Ledwidge",
+			"description": "A young biologist warns world leaders about the reasons for escalating animal attacks on cities.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780446571791.jpg",
+			"name": "ZOO",
+			"publisher": "Little, Brown",
+			"rank": 15
+		}
+	]
+}

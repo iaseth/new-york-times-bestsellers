@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Nora Roberts",
+			"description": "A woman is haunted by her father\u2019s crimes as she tries to pursue love and her work as a photographer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399175169.jpg",
+			"name": "THE OBSESSION",
+			"publisher": "Berkley",
+			"rank": 1
+		},
+		{
+			"author": "by Sylvia Day",
+			"description": "The chronicle of a tempestuous marriage comes to a close.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250109309.jpg",
+			"name": "ONE WITH YOU",
+			"publisher": "St. Martin's Griffin",
+			"rank": 2
+		},
+		{
+			"author": "by Vi Keeland and Penelope Ward",
+			"description": "An arrogant businessman's phone, lost on a commuter train, leads to an unexpected affair.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781942215394.jpg",
+			"name": "STUCK-UP SUIT",
+			"publisher": "EverAfter Romance",
+			"rank": 3
+		},
+		{
+			"author": "by Harlan Coben",
+			"description": "A retired Army helicopter pilot faces combat-related nightmares and mysteries concerning the deaths of her husband and sister.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525955092.jpg",
+			"name": "FOOL ME ONCE",
+			"publisher": "Dutton",
+			"rank": 4
+		},
+		{
+			"author": "by Jojo Moyes",
+			"description": "A woman who has barely been beyond her English village finds herself while caring for a wealthy, embittered quadriplegic.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780143124542.jpg",
+			"name": "ME BEFORE YOU",
+			"publisher": "Penguin",
+			"rank": 5
+		},
+		{
+			"author": "by Cynthia D'Aprix Sweeney",
+			"description": "Siblings in a dysfunctional New York family must grapple with a reduced inheritance.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062414236.jpg",
+			"name": "THE NEST",
+			"publisher": "Ecco/HarperCollins",
+			"rank": 6
+		},
+		{
+			"author": "by Lisa Scottoline",
+			"description": "A woman discovers that her sperm donor is a murderer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250088123.jpg",
+			"name": "MOST WANTED",
+			"publisher": "St. Martin's",
+			"rank": 7
+		},
+		{
+			"author": "by Bella Andre",
+			"description": "An artist breaks his rule of never painting women when he meets a reality TV star.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781938127892.jpg",
+			"name": "NOW THAT I'VE FOUND YOU",
+			"publisher": "Oak Press",
+			"rank": 8
+		},
+		{
+			"author": "by Mary Higgins Clark",
+			"description": "Secrets emerge when a television journalist searching for her birth mother covers the trial of the widow of a wealthy doctor.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501131103.jpg",
+			"name": "AS TIME GOES BY",
+			"publisher": "Simon & Schuster",
+			"rank": 9
+		},
+		{
+			"author": "by Kristin Hannah",
+			"description": "Two sisters are separated in World War II France: one in the countryside, the other in Paris.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781466850606.jpg",
+			"name": "THE NIGHTINGALE",
+			"publisher": "St. Martin's",
+			"rank": 10
+		},
+		{
+			"author": "by Lee Child",
+			"description": "Jack Reacher pries open a missing-persons case that takes him across the country and into the shadowy reaches of the Internet.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780804178785.jpg",
+			"name": "MAKE ME",
+			"publisher": "Delacorte",
+			"rank": 11
+		},
+		{
+			"author": "by James Patterson and David Ellis",
+			"description": "When bodies are found at a Hamptons estate where a series of grisly murders once occurred, a local detective and former New York City cop investigates.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316337977.jpg",
+			"name": "THE MURDER HOUSE",
+			"publisher": "Little, Brown",
+			"rank": 12
+		},
+		{
+			"author": "by Kresley Cole",
+			"description": "A grifter weds a man with a shadowy past in the third installment of the Game Maker series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780997215106.jpg",
+			"name": "THE PLAYER",
+			"publisher": "Valkyrie Press",
+			"rank": 13
+		},
+		{
+			"author": "by Steve Berry",
+			"description": "The covert operative Cotton Malone must thwart an agent loyal to the former Soviet Union.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781466862616.jpg",
+			"name": "THE 14TH COLONY",
+			"publisher": "Minotaur",
+			"rank": 14
+		},
+		{
+			"author": "by Kristen Proby",
+			"description": "Everything changes for a restaurateur when a former rock star walks into her Portland hotspot.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062434777.jpg",
+			"name": "LISTEN TO ME",
+			"publisher": "Morrow/HarperCollins",
+			"rank": 15
+		}
+	]
+}

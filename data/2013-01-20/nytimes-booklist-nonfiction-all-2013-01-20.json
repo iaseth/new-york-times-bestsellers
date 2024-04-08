@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Eben Alexander",
+			"description": "A neurosurgeon recounts his near death experience during a coma from bacterial meningitis.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451695199.jpg",
+			"name": "PROOF OF HEAVEN",
+			"publisher": "Simon & Schuster",
+			"rank": 1
+		},
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "The host of \u201cThe O\u2019Reilly Factor\u201d recounts the events surrounding the assassination of John F. Kennedy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780805096668.jpg",
+			"name": "KILLING KENNEDY",
+			"publisher": "Henry Holt & Company",
+			"rank": 2
+		},
+		{
+			"author": "by Mark Owen with Kevin Maurer",
+			"description": "An account of the mission that killed Osama bin Laden, by a former member of the Navy SEALs, writing pseudonymously.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101611302.jpg",
+			"name": "NO EASY DAY",
+			"publisher": "Penguin Group",
+			"rank": 3
+		},
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "The host of \u201cThe O\u2019Reilly Factor\u201d recounts the assassination of Abraham Lincoln.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780805093070.jpg",
+			"name": "KILLING LINCOLN",
+			"publisher": "Henry Holt & Company",
+			"rank": 4
+		},
+		{
+			"author": "by Jon Meacham",
+			"description": "The Pulitzer Prize-winning biographer celebrates Jefferson\u2019s skills as a practical politician.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780679645368.jpg",
+			"name": "THOMAS JEFFERSON",
+			"publisher": "Random House Publishing",
+			"rank": 5
+		},
+		{
+			"author": "by Doris Kearns Goodwin",
+			"description": "The political genius of Abraham Lincoln, revealed in his relationship with his cabinet; originally published in 2005.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780743270755.jpg",
+			"name": "TEAM OF RIVALS",
+			"publisher": "Simon & Schuster",
+			"rank": 6
+		},
+		{
+			"author": "by Michael Pollan",
+			"description": "Tracking dinner from the soil to the plate, a journalist juggles appetite and conscience; originally published in 2006.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780803735002.jpg",
+			"name": "THE OMNIVORE\u2019S DILEMMA",
+			"publisher": "Penguin Group",
+			"rank": 7
+		},
+		{
+			"author": "by Jared Diamond",
+			"description": "The author of \u201cGuns, Germs, and Steel\u201d examines what we can learn from traditional societies.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101606001.jpg",
+			"name": "THE WORLD UNTIL YESTERDAY",
+			"publisher": "Penguin Group",
+			"rank": 8
+		},
+		{
+			"author": "by Katherine Boo",
+			"description": "A journalist reports on families striving for better lives in a Mumbai slum.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812979329.jpg",
+			"name": "BEHIND THE BEAUTIFUL FOREVERS",
+			"publisher": "Random House Publishing",
+			"rank": 9
+		},
+		{
+			"author": "by Jenny Lawson",
+			"description": "A blogger recalls her unusual upbringing.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101573082.jpg",
+			"name": "LET'S PRETEND THIS NEVER HAPPENED",
+			"publisher": "Penguin Group",
+			"rank": 10
+		},
+		{
+			"author": "by Cheryl Strayed",
+			"description": "A woman\u2019s account of a life-changing 1,100-mile hike along the Pacific Crest Trail.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307476074.jpg",
+			"name": "WILD",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 11
+		},
+		{
+			"author": "by Laura Hillenbrand",
+			"description": "An Olympic runner\u2019s story of survival as a prisoner of the Japanese in World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400064168.jpg",
+			"name": "UNBROKEN",
+			"publisher": "Random House Publishing",
+			"rank": 12
+		},
+		{
+			"author": "by Charles Duhigg",
+			"description": "A Times reporter\u2019s account of the science behind how we form, and break, habits.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812981605.jpg",
+			"name": "THE POWER OF HABIT",
+			"publisher": "Random House Publishing",
+			"rank": 13
+		},
+		{
+			"author": "by Todd Burpo with Lynn Vincent",
+			"description": "A father recounts his 3-year-old son\u2019s encounter with Jesus and the angels during an appendectomy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780849949203.jpg",
+			"name": "HEAVEN IS FOR REAL",
+			"publisher": "Thomas Nelson",
+			"rank": 14
+		},
+		{
+			"author": "by Nate Silver",
+			"description": "An examination of predictions, the ones that come true and the ones that don\u2019t.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594204111.jpg",
+			"name": "THE SIGNAL AND THE NOISE",
+			"publisher": "Penguin Group",
+			"rank": 15
+		}
+	]
+}

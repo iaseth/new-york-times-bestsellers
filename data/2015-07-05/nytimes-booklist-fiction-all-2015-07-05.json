@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by E. L. James",
+			"description": "A sequel told from Christian's point of view.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101946350.jpg",
+			"name": "GREY",
+			"publisher": "Vintage",
+			"rank": 1
+		},
+		{
+			"author": "by Paula Hawkins",
+			"description": "A psychological thriller set in the environs of London is full of complications and betrayals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594633669.jpg",
+			"name": "THE GIRL ON THE TRAIN",
+			"publisher": "Riverhead",
+			"rank": 2
+		},
+		{
+			"author": "by Elin Hilderbrand",
+			"description": "Two friends on Nantucket must deal with damaging gossip about themselves and their husbands.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316334501.jpg",
+			"name": "THE RUMOR",
+			"publisher": "Little, Brown",
+			"rank": 3
+		},
+		{
+			"author": "by Grant Blackwood",
+			"description": "A former collaborator continues Clancy\u2019s series about the covert intelligent expert Jack Ryan Jr. (Clancy died in 2013.)",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698404861.jpg",
+			"name": "TOM CLANCY UNDER FIRE",
+			"publisher": "Putnam",
+			"rank": 4
+		},
+		{
+			"author": "by Danielle Steel",
+			"description": "After her husband\u2019s sudden death, a woman falls in love with a country music superstar.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345531025.jpg",
+			"name": "COUNTRY",
+			"publisher": "Delacorte",
+			"rank": 5
+		},
+		{
+			"author": "by Brad Meltzer",
+			"description": "In the third Culper Ring novel, a member of a secret society charged with protecting the presidency becomes involved when a severed arm is found in the White House Rose Garden.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780446553957.jpg",
+			"name": "THE PRESIDENT'S SHADOW",
+			"publisher": "Grand Central",
+			"rank": 6
+		},
+		{
+			"author": "by Andy Weir",
+			"description": "Abandoned by his crew, an astronaut embarks on a dogged quest to stay alive.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780804139038.jpg",
+			"name": "THE MARTIAN",
+			"publisher": "Crown",
+			"rank": 7
+		},
+		{
+			"author": "by Anthony Doerr",
+			"description": "The lives of a blind French girl and a gadget-obsessed German boy before and during World War II; the winner of the 2015 Pulitzer Prize.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476746586.jpg",
+			"name": "ALL THE LIGHT WE CANNOT SEE",
+			"publisher": "Scribner",
+			"rank": 8
+		},
+		{
+			"author": "by Stephen King",
+			"description": "A deranged reader\u2019s infatuation with a Salingeresque novelist has dangerous and long-lasting consequences.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501100130.jpg",
+			"name": "FINDERS KEEPERS",
+			"publisher": "Scribner",
+			"rank": 9
+		},
+		{
+			"author": "by Judy Blume",
+			"description": "Secrets are revealed and love stories play out against the backdrop of a series of plane crashes in 1950s New Jersey.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101875056.jpg",
+			"name": "IN THE UNLIKELY EVENT",
+			"publisher": "Knopf",
+			"rank": 10
+		},
+		{
+			"author": "by Nelson DeMille",
+			"description": "A surveillance expert monitors the activities of a newly resurgent Russia.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780446580854.jpg",
+			"name": "RADIANT ANGEL",
+			"publisher": "Grand Central",
+			"rank": 11
+		},
+		{
+			"author": "by Kristin Hannah",
+			"description": "Two sisters are separated in World War II France: one in the countryside, the other in Paris.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781466850606.jpg",
+			"name": "THE NIGHTINGALE",
+			"publisher": "St. Martin's",
+			"rank": 12
+		},
+		{
+			"author": "by Jessica Knoll",
+			"description": "The life of a successful New York magazine writer is shaken when secrets from her past are revealed in a documentary.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476789651.jpg",
+			"name": "LUCKIEST GIRL ALIVE",
+			"publisher": "Simon & Schuster",
+			"rank": 13
+		},
+		{
+			"author": "by George R.R. Martin",
+			"description": "In the frozen wastes to the north of Winterfell, sinister and supernatural forces are mustering.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780553897845.jpg",
+			"name": "A GAME OF THRONES",
+			"publisher": "Bantam",
+			"rank": 14
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "A police detective who left the force when his family was murdered teams up with his former partner to solve the case.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455586387.jpg",
+			"name": "MEMORY MAN",
+			"publisher": "Grand Central",
+			"rank": 15
+		}
+	]
+}

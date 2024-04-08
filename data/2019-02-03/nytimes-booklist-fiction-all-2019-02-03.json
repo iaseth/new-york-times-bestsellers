@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Delia Owens",
+			"description": "In a quiet town on the North Carolina coast in 1969, a young woman who survived alone in the marsh becomes a murder suspect.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735219090.jpg",
+			"name": "WHERE THE CRAWDADS SING",
+			"publisher": "Putnam",
+			"rank": 1
+		},
+		{
+			"author": "by James Patterson and Candice Fox",
+			"description": "Detective Harriet Blue has become a dangerous fugitive from the law as she pursues the murderer Regan Banks.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316418256.jpg",
+			"name": "LIAR LIAR",
+			"publisher": "Little, Brown",
+			"rank": 2
+		},
+		{
+			"author": "by Heather Morris",
+			"description": "A concentration camp detainee tasked with permanently marking fellow prisoners falls in love with one of them.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062797155.jpg",
+			"name": "THE TATTOOIST OF AUSCHWITZ",
+			"publisher": "Harper",
+			"rank": 3
+		},
+		{
+			"author": "by John Grisham",
+			"description": "A decorated World War II veteran shoots and kills a pastor inside a Mississippi church.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385544160.jpg",
+			"name": "THE RECKONING",
+			"publisher": "Doubleday",
+			"rank": 4
+		},
+		{
+			"author": "by Danielle Steel",
+			"description": "Four American trauma doctors face difficult choices when they join a mass-casualty training program in Paris.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399179365.jpg",
+			"name": "TURNING POINT",
+			"publisher": "Delacorte",
+			"rank": 5
+		},
+		{
+			"author": "by Greer Hendricks and Sarah Pekkanen",
+			"description": "Jessica Farris\u2019s life unravels when she signs up for Dr. Shields\u2019s psychology study.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250133731.jpg",
+			"name": "AN ANONYMOUS GIRL",
+			"publisher": "St. Martin's",
+			"rank": 6
+		},
+		{
+			"author": "by Meghan March",
+			"description": "The first book in the Forge trilogy. Jericho Forge goes after a new conquest.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781943796229.jpg",
+			"name": "DEAL WITH THE DEVIL",
+			"publisher": "Red Dress Press",
+			"rank": 7
+		},
+		{
+			"author": "by Gail Honeyman",
+			"description": "A young woman\u2019s well-ordered life is disrupted by the I.T. guy from her office.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735220690.jpg",
+			"name": "ELEANOR OLIPHANT IS COMPLETELY FINE",
+			"publisher": "Penguin",
+			"rank": 8
+		},
+		{
+			"author": "by W. Bruce Cameron",
+			"description": "A dog sets out across 400 miles of wilderness to find the man who rescued her as a puppy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780765374653.jpg",
+			"name": "A DOG'S WAY HOME",
+			"publisher": "Forge",
+			"rank": 9
+		},
+		{
+			"author": "by James Patterson",
+			"description": "Three stories: \u201cThe House Next Door\u201d (written with Susan DiLallo), \u201cThe Killer\u2019s Wife\u201d (written with Max DiLallo) and \u201cWe. Are. Not. Alone\u201d (written with Tim Arnold).",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538713891.jpg",
+			"name": "THE HOUSE NEXT DOOR",
+			"publisher": "Grand Central",
+			"rank": 10
+		},
+		{
+			"author": "by Darynda Jones",
+			"description": "Charley Davidson returns to the earthly plane after 100 years in exile to find her killer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250149435.jpg",
+			"name": "SUMMONED TO THE THIRTEENTH GRAVE",
+			"publisher": "St. Martin's",
+			"rank": 11
+		},
+		{
+			"author": "by Susan Stoker",
+			"description": "The first book of the SEAL of Protection: Legacy series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/A00B07DVT7K5M.jpg",
+			"name": "SECURING CAITE",
+			"publisher": "Stoker Aces",
+			"rank": 12
+		},
+		{
+			"author": "by Liane Moriarty",
+			"description": "A romance writer becomes fascinated by the owner and director of a health resort.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250069849.jpg",
+			"name": "NINE PERFECT STRANGERS",
+			"publisher": "Flatiron",
+			"rank": 13
+		},
+		{
+			"author": "by RaeAnne Thayne",
+			"description": "Melissa Fielding returns to Cannon Beach to find that a handsome doctor is also back in town.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781488041778.jpg",
+			"name": "A SOLDIER'S RETURN",
+			"publisher": "Harlequin",
+			"rank": 14
+		},
+		{
+			"author": "by James Lee Burke",
+			"description": "Detective Dave Robicheaux and his new partner Bailey Ribbons investigate the death of a young woman by crucifixion.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501176883.jpg",
+			"name": "THE NEW IBERIA BLUES",
+			"publisher": "Simon & Schuster",
+			"rank": 15
+		}
+	]
+}

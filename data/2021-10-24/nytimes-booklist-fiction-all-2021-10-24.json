@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Amor Towles",
+			"description": "Two friends who escaped from a juvenile work farm take Emmett Watson on an unexpected journey to New York City in 1954.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735222359.jpg",
+			"name": "THE LINCOLN HIGHWAY",
+			"publisher": "Viking",
+			"rank": 1
+		},
+		{
+			"author": "by Nicholas Sparks",
+			"description": "Maggie Dawes, a renowned travel photographer, struggles with a medical diagnosis over Christmas.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538728628.jpg",
+			"name": "THE WISH",
+			"publisher": "Grand Central",
+			"rank": 2
+		},
+		{
+			"author": "by Anthony Doerr",
+			"description": "An interconnected cast of dreamers and outsiders are in dangerous and disparate settings past, present and future.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982168438.jpg",
+			"name": "CLOUD CUCKOO LAND",
+			"publisher": "Scribner",
+			"rank": 3
+		},
+		{
+			"author": "by Liane Moriarty",
+			"description": "The Delaney siblings suspect their father of causing the disappearance of their mother.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250220257.jpg",
+			"name": "APPLES NEVER FALL",
+			"publisher": "Holt",
+			"rank": 4
+		},
+		{
+			"author": "by Danielle Steel",
+			"description": "The working relationship between a man and woman from different worlds develops into something new for them.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984821522.jpg",
+			"name": "THE BUTLER",
+			"publisher": "Delacorte",
+			"rank": 5
+		},
+		{
+			"author": "by Jonathan Franzen",
+			"description": "Members of a Midwestern family find themselves at a pivotal moment of moral crisis in 1971.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780374181178.jpg",
+			"name": "CROSSROADS",
+			"publisher": "Farrar, Straus & Giroux",
+			"rank": 6
+		},
+		{
+			"author": "by Colson Whitehead",
+			"description": "Ray Carney, a family man who sells furniture on 125th Street, gets a new clientele made up of vicious and unsavory characters.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385545136.jpg",
+			"name": "HARLEM SHUFFLE",
+			"publisher": "Doubleday",
+			"rank": 7
+		},
+		{
+			"author": "by James Patterson and Candice Fox",
+			"description": "The attorney Rhonda Bird investigates a case involving overprivileged young adults and a former assassin.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538704585.jpg",
+			"name": "2 SISTERS DETECTIVE AGENCY",
+			"publisher": "Grand Central",
+			"rank": 8
+		},
+		{
+			"author": "by Stuart Woods",
+			"description": "The 59th book in the Stone Barrington series. A new client and the safety of New York City are at risk.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593331798.jpg",
+			"name": "FOUL PLAY",
+			"publisher": "Putnam",
+			"rank": 9
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "A battered wife raised in a violent home attempts to halt the cycle of abuse.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501110375.jpg",
+			"name": "IT ENDS WITH US",
+			"publisher": "Atria",
+			"rank": 10
+		},
+		{
+			"author": "by Anthony Doerr",
+			"description": "The lives of a blind French girl and a gadget-obsessed German boy before and during World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476746586.jpg",
+			"name": "ALL THE LIGHT WE CANNOT SEE",
+			"publisher": "Scribner",
+			"rank": 11
+		},
+		{
+			"author": "by Laura Dave",
+			"description": "Hannah Hall discovers truths about her missing husband and bonds with his daughter from a previous relationship.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501171345.jpg",
+			"name": "THE LAST THING HE TOLD ME",
+			"publisher": "Simon & Schuster",
+			"rank": 12
+		},
+		{
+			"author": "by Ali Hazelwood",
+			"description": "A young professor agrees to pretend to be a third-year Ph.D. candidate\u2019s boyfriend.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593336823.jpg",
+			"name": "THE LOVE HYPOTHESIS",
+			"publisher": "Berkley",
+			"rank": 13
+		},
+		{
+			"author": "by Taylor Jenkins Reid",
+			"description": "A movie icon recounts stories of her loves and career to a struggling magazine writer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501161933.jpg",
+			"name": "THE SEVEN HUSBANDS OF EVELYN HUGO",
+			"publisher": "Washington Square/Atria",
+			"rank": 14
+		},
+		{
+			"author": "by James Patterson and Nancy Allen",
+			"description": "A young lawyer winds up in an Alabama jail that remains mysteriously crowded.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316276627.jpg",
+			"name": "THE JAILHOUSE LAWYER",
+			"publisher": "Little, Brown",
+			"rank": 15
+		}
+	]
+}

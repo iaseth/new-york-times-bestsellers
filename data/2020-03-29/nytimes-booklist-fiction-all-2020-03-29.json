@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Hilary Mantel",
+			"description": "The third book in the Wolf Hall trilogy. After Anne Boleyn\u2019s execution, Thomas Cromwell\u2019s enemies assemble.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780805096606.jpg",
+			"name": "THE MIRROR & THE LIGHT",
+			"publisher": "Holt",
+			"rank": 1
+		},
+		{
+			"author": "by Clive Cussler and Graham Brown",
+			"description": "The 17th book of the NUMA Files series. The NUMA squad teams with British MI5 to stop arms dealers from stealing ancient relics.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593083086.jpg",
+			"name": "JOURNEY OF THE PHARAOHS",
+			"publisher": "Putnam",
+			"rank": 2
+		},
+		{
+			"author": "by Delia Owens",
+			"description": "In a quiet town on the North Carolina coast in 1969, a young woman who survived alone in the marsh becomes a murder suspect.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735219090.jpg",
+			"name": "WHERE THE CRAWDADS SING",
+			"publisher": "Putnam",
+			"rank": 3
+		},
+		{
+			"author": "by Jeanine Cummins",
+			"description": "A bookseller flees Mexico for the United States with her son while pursued by the head of a drug cartel.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250209764.jpg",
+			"name": "AMERICAN DIRT",
+			"publisher": "Flatiron",
+			"rank": 4
+		},
+		{
+			"author": "by Celeste Ng",
+			"description": "An artist upends a quiet town outside Cleveland.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735224308.jpg",
+			"name": "LITTLE FIRES EVERYWHERE",
+			"publisher": "Penguin Press",
+			"rank": 5
+		},
+		{
+			"author": "by C.J. Box",
+			"description": "The 20th book in the Joe Pickett series. A grizzly bear attack and an attempted assassination of a local judge baffle the Wyoming game warden.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525538233.jpg",
+			"name": "LONG RANGE",
+			"publisher": "Putnam",
+			"rank": 6
+		},
+		{
+			"author": "by Kate Elizabeth Russell",
+			"description": "A woman re-evaluates the relationship she had at age 15 with her 42-year-old English teacher 17 years ago.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062941503.jpg",
+			"name": "MY DARK VANESSA",
+			"publisher": "Morrow",
+			"rank": 7
+		},
+		{
+			"author": "by Therese Anne Fowler",
+			"description": "A property line and a teenage romance strain relations between two North Carolina families.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250237279.jpg",
+			"name": "A GOOD NEIGHBORHOOD",
+			"publisher": "St. Martin's",
+			"rank": 8
+		},
+		{
+			"author": "by Sarah J. Maas",
+			"description": "Passion arises between Bryce Quinlan and Hunt Athalar as they seek to avenge the deaths of Bryce\u2019s friends.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781635574043.jpg",
+			"name": "HOUSE OF EARTH AND BLOOD",
+			"publisher": "Bloomsbury",
+			"rank": 9
+		},
+		{
+			"author": "by Rebecca Serle",
+			"description": "A Manhattan lawyer finds herself confronting a vision she had when elements of it come to life on schedule.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982137441.jpg",
+			"name": "IN FIVE YEARS",
+			"publisher": "Atria",
+			"rank": 10
+		},
+		{
+			"author": "by James Patterson and James O. Born",
+			"description": "The 12th book in the Michael Bennett series. A serial-killing spree might impact national security.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316420334.jpg",
+			"name": "BLINDSIDE",
+			"publisher": "Little, Brown",
+			"rank": 11
+		},
+		{
+			"author": "by Danielle Steel",
+			"description": "An affair wrecks a marriage and a daughter seeks to get out from her family\u2019s shadow while old dreams and new love are pursued.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399179563.jpg",
+			"name": "THE NUMBERS GAME",
+			"publisher": "Delacorte",
+			"rank": 12
+		},
+		{
+			"author": "by Alex Michaelides",
+			"description": "Theo Faber looks into the mystery of a famous painter who stops speaking after shooting her husband.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250301697.jpg",
+			"name": "THE SILENT PATIENT",
+			"publisher": "Celadon",
+			"rank": 13
+		},
+		{
+			"author": "by Heather Morris",
+			"description": "A concentration camp detainee tasked with permanently marking fellow prisoners falls in love with one of them.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062797155.jpg",
+			"name": "THE TATTOOIST OF AUSCHWITZ",
+			"publisher": "Harper",
+			"rank": 14
+		},
+		{
+			"author": "by Jojo Moyes",
+			"description": "In Depression-era Kentucky, five women refuse to be cowed by men or convention as they deliver books.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399562501.jpg",
+			"name": "THE GIVER OF STARS",
+			"publisher": "Pamela Dorman/Viking",
+			"rank": 15
+		}
+	]
+}

@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Teresa J. Rhyne",
+			"description": "Her beagle\u2019s life-threatening illness prepared the author to face her own.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781402271731.jpg",
+			"name": "THE DOG LIVED (AND SO WILL I)",
+			"publisher": "Sourcebooks",
+			"rank": 1
+		},
+		{
+			"author": "by Phil Robertson with Mark Schlabach",
+			"description": "The Duck Commander pays tribute to \u201cfaith, family and ducks.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476726090.jpg",
+			"name": "HAPPY, HAPPY, HAPPY",
+			"publisher": "Howard Books",
+			"rank": 2
+		},
+		{
+			"author": "by Sheryl Sandberg with Nell Scovell",
+			"description": "The chief operating officer of Facebook urges women to pursue their careers without ambivalence.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385349956.jpg",
+			"name": "LEAN IN",
+			"publisher": "Knopf",
+			"rank": 3
+		},
+		{
+			"author": "by Eben Alexander",
+			"description": "A neurosurgeon recounts his near death experience during a coma from bacterial meningitis.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451695199.jpg",
+			"name": "PROOF OF HEAVEN",
+			"publisher": "Simon & Schuster",
+			"rank": 4
+		},
+		{
+			"author": "by Chris Kyle with William Doyle",
+			"description": "Kyle, a former member of the Navy SEALs who was shot to death in Texas in February, tells how 10 firearms changed United States history.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062242730.jpg",
+			"name": "AMERICAN GUN",
+			"publisher": "Morrow/HarperCollins",
+			"rank": 5
+		},
+		{
+			"author": "by David Sedaris",
+			"description": "Essays from the humorist on subjects like French dentistry and a North Carolina Costco.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316125680.jpg",
+			"name": "LET'S EXPLORE DIABETES WITH OWLS",
+			"publisher": "Little, Brown",
+			"rank": 6
+		},
+		{
+			"author": "by Rick Atkinson",
+			"description": "The final volume of the Liberation Trilogy describes the Allied victory in Europe, from D-Day in June 1944.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780805062908.jpg",
+			"name": "THE GUNS AT LAST LIGHT",
+			"publisher": "Holt",
+			"rank": 7
+		},
+		{
+			"author": "by Phil Jackson and Hugh Delehanty",
+			"description": "An autobiography by the coach known for his multiple N.B.A. championships.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101617960.jpg",
+			"name": "ELEVEN RINGS",
+			"publisher": "Penguin Press",
+			"rank": 8
+		},
+		{
+			"author": "by George Packer",
+			"description": "The collapse of American institutions, politics and culture and their replacement by organized money, told through the stories of ordinary people and significant figures.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781466836952.jpg",
+			"name": "THE UNWINDING",
+			"publisher": "Farrar, Straus & Giroux",
+			"rank": 9
+		},
+		{
+			"author": "by Chris Kyle with Scott McEwen and Jim DeFelice",
+			"description": "A member of the Navy SEALs discusses his childhood, his marriage and his battlefield experiences during the Iraq war. Kyle was recently shot to death in Texas.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062082374.jpg",
+			"name": "AMERICAN SNIPER",
+			"publisher": "Morrow/HarperCollins",
+			"rank": 10
+		},
+		{
+			"author": "by Jim Gaffigan",
+			"description": "The comedian\u2019s life with five kids in a two-bedroom New York City apartment.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385349079.jpg",
+			"name": "DAD IS FAT",
+			"publisher": "Crown Archetype",
+			"rank": 11
+		},
+		{
+			"author": "by Cheryl Strayed",
+			"description": "A woman\u2019s account of a life-changing 1,100-mile hike along the Pacific Crest Trail during the summer of 1995.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307476074.jpg",
+			"name": "WILD",
+			"publisher": "Knopf",
+			"rank": 12
+		},
+		{
+			"author": "by Bill O'Reilly",
+			"description": "A \u201chighlight reel\u201d of previous writings, updated, from the host of \u201cThe O\u2019Reilly Factor.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385346627.jpg",
+			"name": "KEEP IT PITHY",
+			"publisher": "Crown Archetype",
+			"rank": 13
+		},
+		{
+			"author": "by Jen Lancaster",
+			"description": "An improbable Martha Stewart-inspired quest for self-improvement.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780451417633.jpg",
+			"name": "THE TAO OF MARTHA",
+			"publisher": "New American Library",
+			"rank": 14
+		},
+		{
+			"author": "by Jonathan Alter",
+			"description": "Barack Obama\u2019s political battles, from the 2010 midterms through the 2013 inauguration.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451646078.jpg",
+			"name": "THE CENTER HOLDS",
+			"publisher": "Simon & Schuster",
+			"rank": 15
+		}
+	]
+}

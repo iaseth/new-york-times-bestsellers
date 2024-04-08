@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Mark R. Levin",
+			"description": "The Fox News host gives his take on the Green New Deal, critical race theory and social activism.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501135972.jpg",
+			"name": "AMERICAN MARXISM",
+			"publisher": "Threshold Editions",
+			"rank": 1
+		},
+		{
+			"author": "by Carol Leonnig and Philip Rucker",
+			"description": "The Pulitzer Prize-winning reporters examine Trump\u2019s final year in office, with a focus on the key players around him.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593298947.jpg",
+			"name": "I ALONE CAN FIX IT",
+			"publisher": "Penguin Press",
+			"rank": 2
+		},
+		{
+			"author": "by Ben Shapiro",
+			"description": "The conservative commentator describes what he perceives as threats to American business, education and politics.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063001824.jpg",
+			"name": "THE AUTHORITARIAN MOMENT",
+			"publisher": "Broadside",
+			"rank": 3
+		},
+		{
+			"author": "by Jesse Watters",
+			"description": "The Fox News host recounts his career and prescribes ways to defend against what he considers left-wing radicalism.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063049086.jpg",
+			"name": "HOW I SAVED THE WORLD",
+			"publisher": "Broadside",
+			"rank": 4
+		},
+		{
+			"author": "by Bessel van der Kolk",
+			"description": "How trauma affects the body and mind, and innovative treatments for recovery.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780670785933.jpg",
+			"name": "THE BODY KEEPS THE SCORE",
+			"publisher": "Penguin",
+			"rank": 5
+		},
+		{
+			"author": "by Isabel Wilkerson",
+			"description": "An account of the Great Migration of 1915-70, in which nearly six million African-Americans abandoned the South.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780679763888.jpg",
+			"name": "THE WARMTH OF OTHER SUNS",
+			"publisher": "Vintage",
+			"rank": 6
+		},
+		{
+			"author": "by Michael Wolff",
+			"description": "The author of \u201cFire and Fury\u201d and \u201cSiege\u201d portrays events during the final days of Trump\u2019s presidency.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250830012.jpg",
+			"name": "LANDSLIDE",
+			"publisher": "Holt",
+			"rank": 7
+		},
+		{
+			"author": "by Matthew McConaughey",
+			"description": "The Academy Award-winning actor shares snippets from the diaries he kept over the last 35 years.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593139134.jpg",
+			"name": "GREENLIGHTS",
+			"publisher": "Crown",
+			"rank": 8
+		},
+		{
+			"author": "by Glennon Doyle",
+			"description": "The activist and public speaker describes her journey of listening to her inner voice.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984801258.jpg",
+			"name": "UNTAMED",
+			"publisher": "Dial",
+			"rank": 9
+		},
+		{
+			"author": "by Michael C. Bender",
+			"description": "A senior White House reporter for The Wall Street Journal looks at Trump\u2019s 2020 campaign and final year in office.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538734803.jpg",
+			"name": "FRANKLY, WE DID WIN THIS ELECTION",
+			"publisher": "Twelve",
+			"rank": 10
+		},
+		{
+			"author": "by Bruce D. Perry and Oprah Winfrey",
+			"description": "An approach to dealing with trauma that shifts an essential question used to investigate it.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250223180.jpg",
+			"name": "WHAT HAPPENED TO YOU?",
+			"publisher": "Flatiron",
+			"rank": 11
+		},
+		{
+			"author": "by Michael Pollan",
+			"description": "A look at arbitrary beliefs surrounding opium, caffeine and mescaline, which are derived from plants.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593296905.jpg",
+			"name": "THIS IS YOUR MIND ON PLANTS",
+			"publisher": "Penguin Press",
+			"rank": 12
+		},
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "The 10th book in the conservative commentator\u2019s Killing series looks at organized crime in the United States during the 20th century.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250273659.jpg",
+			"name": "KILLING THE MOB",
+			"publisher": "St. Martin's",
+			"rank": 13
+		},
+		{
+			"author": "by Isabel Wilkerson",
+			"description": "The Pulitzer Prize-winning journalist examines aspects of caste systems across civilizations and reveals a rigid hierarchy in America today.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593230251.jpg",
+			"name": "CASTE",
+			"publisher": "Random House",
+			"rank": 14
+		},
+		{
+			"author": "by Robin Wall Kimmerer",
+			"description": "A botanist and member of the Citizen Potawatomi Nation espouses having an understanding and appreciation of plants and animals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781571313560.jpg",
+			"name": "BRAIDING SWEETGRASS",
+			"publisher": "Milkweed Editions",
+			"rank": 15
+		}
+	]
+}

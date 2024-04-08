@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by John McCain and Mark Salter",
+			"description": "A memoir by the Republican senator from Arizona.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501178009.jpg",
+			"name": "THE RESTLESS WAVE",
+			"publisher": "Simon & Schuster",
+			"rank": 1
+		},
+		{
+			"author": "by James R. Clapper with Trey Brown",
+			"description": "The former director of national intelligence describes events that challenged the intelligence community and considers some ethical questions around its efforts.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525558644.jpg",
+			"name": "FACTS AND FEARS",
+			"publisher": "Viking",
+			"rank": 2
+		},
+		{
+			"author": "by Jon Meacham",
+			"description": "The Pulitzer Prize-winning biographer contextualizes the present political climate through the lens of difficult moments in American history.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399589812.jpg",
+			"name": "THE SOUL OF AMERICA",
+			"publisher": "Random House",
+			"rank": 3
+		},
+		{
+			"author": "by Michael Pollan",
+			"description": "A personal account of how psychedelics might help the mentally ill and people dealing with everyday challenges.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594204227.jpg",
+			"name": "HOW TO CHANGE YOUR MIND",
+			"publisher": "Penguin Press",
+			"rank": 4
+		},
+		{
+			"author": "by Zora Neale Hurston",
+			"description": "A previously unpublished, first-person account of Cudjo Lewis, a man who was transported and enslaved 50 years after the slave trade was banned.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062748201.jpg",
+			"name": "BARRACOON",
+			"publisher": "Amistad",
+			"rank": 5
+		},
+		{
+			"author": "by John Carreyrou",
+			"description": "The rise and fall of Theranos, the biotech startup that failed to deliver on its promise to make blood testing more efficient.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524731663.jpg",
+			"name": "BAD BLOOD",
+			"publisher": "Knopf",
+			"rank": 6
+		},
+		{
+			"author": "by James Comey",
+			"description": "The former F.B.I. director recounts cases and personal events that shaped his outlook on justice, and analyzes the leadership styles of three presidents.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250192455.jpg",
+			"name": "A HIGHER LOYALTY",
+			"publisher": "Flatiron",
+			"rank": 7
+		},
+		{
+			"author": "by David Grann",
+			"description": "The story of a murder spree in 1920s Oklahoma that targeted Osage Indians, whose lands contained oil.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385534246.jpg",
+			"name": "KILLERS OF THE FLOWER MOON",
+			"publisher": "Doubleday",
+			"rank": 8
+		},
+		{
+			"author": "by Yuval Noah Harari",
+			"description": "How Homo sapiens became Earth\u2019s dominant species.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062316097.jpg",
+			"name": "SAPIENS",
+			"publisher": "Harper",
+			"rank": 9
+		},
+		{
+			"author": "by Tara Westover",
+			"description": "The daughter of survivalists, who is kept out of school, educates herself enough to leave home for university.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399590504.jpg",
+			"name": "EDUCATED",
+			"publisher": "Random House",
+			"rank": 10
+		},
+		{
+			"author": "by J.D. Vance",
+			"description": "A Yale Law School graduate looks at the struggles of the white working class through the story of his own childhood.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062300560.jpg",
+			"name": "HILLBILLY ELEGY",
+			"publisher": "HarperCollins",
+			"rank": 11
+		},
+		{
+			"author": "by Michelle McNamara",
+			"description": "The late true-crime journalist's search for the serial murderer and rapist known as \"the Golden State Killer.\"",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062319784.jpg",
+			"name": "I'LL BE GONE IN THE DARK",
+			"publisher": "Harper",
+			"rank": 12
+		},
+		{
+			"author": "by Bret Baier and Catherine Whitney",
+			"description": "The Fox News anchor describes Ronald Reagan\u2019s 1988 visit to the Soviet capital.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062748362.jpg",
+			"name": "THREE DAYS IN MOSCOW",
+			"publisher": "Morrow",
+			"rank": 13
+		},
+		{
+			"author": "by Hans Rosling with Ola Rosling and Anna Rosling Ronnlund",
+			"description": "A look at our biases and the argument for why the world is in a better state than we might think.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250123817.jpg",
+			"name": "FACTFULNESS",
+			"publisher": "Flatiron",
+			"rank": 14
+		},
+		{
+			"author": "by Dave Itzkoff",
+			"description": "A New York Times journalist details the career and struggles of the actor and comedian Robin Williams.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781627794244.jpg",
+			"name": "ROBIN",
+			"publisher": "Holt",
+			"rank": 15
+		}
+	]
+}

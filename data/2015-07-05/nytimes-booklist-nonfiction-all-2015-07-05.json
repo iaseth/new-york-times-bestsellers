@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by David McCullough",
+			"description": "The story of the bicycle mechanics from Ohio who ushered in the age of flight; by the author of \u201c1776\u201d and \u201cThe Greater Journey.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476728742.jpg",
+			"name": "THE WRIGHT BROTHERS",
+			"publisher": "Simon & Schuster",
+			"rank": 1
+		},
+		{
+			"author": "by Aziz Ansari with Eric Klinenberg",
+			"description": "The comedian enlists a sociologist to help him understand today\u2019s dating scene.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698179967.jpg",
+			"name": "MODERN ROMANCE",
+			"publisher": "Penguin Press",
+			"rank": 2
+		},
+		{
+			"author": "by Daniel James Brown",
+			"description": "The University of Washington\u2019s eight-oar crew and their quest for gold at the 1936 Berlin Olympics.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101622742.jpg",
+			"name": "THE BOYS IN THE BOAT",
+			"publisher": "Penguin",
+			"rank": 3
+		},
+		{
+			"author": "by Erik Larson",
+			"description": "The last voyage of the Lusitania, the passenger liner sunk by a German torpedo in 1915; by the author of \u201cThe Devil in the White City.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307408860.jpg",
+			"name": "DEAD WAKE",
+			"publisher": "Crown",
+			"rank": 4
+		},
+		{
+			"author": "by David Fisher",
+			"description": "Stories of the American West; a companion volume to the Fox News series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781627795081.jpg",
+			"name": "BILL O'REILLY'S LEGENDS AND LIES",
+			"publisher": "Holt",
+			"rank": 5
+		},
+		{
+			"author": "by Judd Apatow",
+			"description": "Thirty years\u2019 worth of the filmmaker\u2019s interviews with comedians.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812997583.jpg",
+			"name": "SICK IN THE HEAD",
+			"publisher": "Random House",
+			"rank": 6
+		},
+		{
+			"author": "by Bill Bryson",
+			"description": "A celebration of the resilience of the English language; first published in 1990 and just reissued.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062417442.jpg",
+			"name": "THE MOTHER TONGUE",
+			"publisher": "Morrow",
+			"rank": 7
+		},
+		{
+			"author": "by Willie Nelson with David Ritz",
+			"description": "The country music star discusses his life\u2019s journey, from selling encyclopedias to professional fame.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316403566.jpg",
+			"name": "IT'S A LONG STORY",
+			"publisher": "Little, Brown",
+			"rank": 8
+		},
+		{
+			"author": "by David Brooks",
+			"description": "The Times columnist extols personal virtues like kindness and honesty in a materialistic age.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812993257.jpg",
+			"name": "THE ROAD TO CHARACTER",
+			"publisher": "Random House",
+			"rank": 9
+		},
+		{
+			"author": "by Malala Yousafzai with Christina Lamb",
+			"description": "The experience of the Pakistani girl who advocated for women\u2019s education and was shot by the Taliban.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316322409.jpg",
+			"name": "I AM MALALA",
+			"publisher": "Little, Brown",
+			"rank": 10
+		},
+		{
+			"author": "by Atul Gawande",
+			"description": "The surgeon and New Yorker writer considers how doctors fail patients at the end of life, and how they can do better.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780805095159.jpg",
+			"name": "BEING MORTAL",
+			"publisher": "Metropolitan/Holt",
+			"rank": 11
+		},
+		{
+			"author": "by Laura Hillenbrand",
+			"description": "An Olympic runner\u2019s story of survival as a prisoner of the Japanese in World War II; a 2014 movie.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400064168.jpg",
+			"name": "UNBROKEN",
+			"publisher": "Random House",
+			"rank": 12
+		},
+		{
+			"author": "by Wednesday Martin",
+			"description": "A memoir of life among the wealthy women of the Upper East Side, in the satirical guise of an anthropological study.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476762722.jpg",
+			"name": "PRIMATES OF PARK AVENUE",
+			"publisher": "Simon & Schuster",
+			"rank": 13
+		},
+		{
+			"author": "by Piper Kerman",
+			"description": "A Brooklyn woman\u2019s prison memoir. The basis for the Netflix series, originally published in 2010.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385530262.jpg",
+			"name": "ORANGE IS THE NEW BLACK",
+			"publisher": "Spiegel & Grau",
+			"rank": 14
+		},
+		{
+			"author": "by Chris Kyle with Scott McEwen and Jim DeFelice",
+			"description": "A former member of the Navy SEALs discusses his battlefield experiences during the Iraq war; a 2014 movie.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062082374.jpg",
+			"name": "AMERICAN SNIPER",
+			"publisher": "Morrow/HarperCollins",
+			"rank": 15
+		}
+	]
+}

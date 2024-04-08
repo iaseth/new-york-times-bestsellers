@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Michelle Obama",
+			"description": "The former first lady shares personal stories and the tools she uses to deal with difficult situations.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593237465.jpg",
+			"name": "THE LIGHT WE CARRY",
+			"publisher": "Crown",
+			"rank": 1
+		},
+		{
+			"author": "by Jennette McCurdy",
+			"description": "The actress and filmmaker describes her eating disorders and difficult relationship with her mother.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982185824.jpg",
+			"name": "I'M GLAD MY MOM DIED",
+			"publisher": "Simon & Schuster",
+			"rank": 2
+		},
+		{
+			"author": "by the House January 6th Committee",
+			"description": "The final report of the Select Committee to Investigate the Jan. 6. Attack on the United States Capitol; with a foreword by Ari Melber.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063315501.jpg",
+			"name": "THE JANUARY 6 REPORT",
+			"publisher": "Harper",
+			"rank": 3
+		},
+		{
+			"author": "by Bessel van der Kolk",
+			"description": "How trauma affects the body and mind, and innovative treatments for recovery.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780670785933.jpg",
+			"name": "THE BODY KEEPS THE SCORE",
+			"publisher": "Penguin",
+			"rank": 4
+		},
+		{
+			"author": "by the Select Committee to Investigate the Jan. 6 Attack on the United States Capitol",
+			"description": "The final report of the Select Committee to Investigate the Jan. 6. Attack on the United States Capitol; with a preface by David Remnick and epilogue by Representative Jamie Raskin.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250877529.jpg",
+			"name": "THE JANUARY 6TH REPORT",
+			"publisher": "Celadon",
+			"rank": 5
+		},
+		{
+			"author": "by Matthew Perry",
+			"description": "The actor, known for playing Chandler Bing on \u201cFriends,\u201d shares stories from his childhood and his struggles with sobriety.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250866448.jpg",
+			"name": "FRIENDS, LOVERS, AND THE BIG TERRIBLE THING",
+			"publisher": "Flatiron",
+			"rank": 6
+		},
+		{
+			"author": "by bell hooks",
+			"description": "The late feminist icon explores the causes of a polarized society and the meaning of love.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780060959470.jpg",
+			"name": "ALL ABOUT LOVE",
+			"publisher": "Morrow",
+			"rank": 7
+		},
+		{
+			"author": "edited by Kevin M. Kruse and Julian E. Zelizer",
+			"description": "A collection of essays by historians who separate fact from fiction as they detail our nation\u2019s past.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781541601390.jpg",
+			"name": "MYTH AMERICA",
+			"publisher": "Basic",
+			"rank": 8
+		},
+		{
+			"author": "by Ed Yong",
+			"description": "The Pulitzer Prize\u2013winning science writer explains the sensory perceptions and ways of communication used by a variety of animals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593133231.jpg",
+			"name": "AN IMMENSE WORLD",
+			"publisher": "Random House",
+			"rank": 9
+		},
+		{
+			"author": "by Stacy Schiff",
+			"description": "The Pulitzer Prize-winning biographer details Samuel Adams\u2019s contributions to the American Revolution.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316441117.jpg",
+			"name": "THE REVOLUTIONARY",
+			"publisher": "Little, Brown",
+			"rank": 10
+		},
+		{
+			"author": "by Jon Meacham",
+			"description": "The Pulitzer Prize-winning biographer portrays the life of Abraham Lincoln.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780553393965.jpg",
+			"name": "AND THERE WAS LIGHT",
+			"publisher": "Random House",
+			"rank": 11
+		},
+		{
+			"author": "by Siddhartha Mukherjee",
+			"description": "The Pulitzer Prize-winning author chronicles the discovery of cells and describes how modern medicine uses them.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982117351.jpg",
+			"name": "THE SONG OF THE CELL",
+			"publisher": "Scribner",
+			"rank": 12
+		},
+		{
+			"author": "by Bono",
+			"description": "The lead singer of the Irish rock band U2 offers details of his life, career and activism.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525521044.jpg",
+			"name": "SURRENDER",
+			"publisher": "Knopf",
+			"rank": 13
+		},
+		{
+			"author": "by Robin Wall Kimmerer",
+			"description": "A botanist and member of the Citizen Potawatomi Nation espouses having an understanding and appreciation of plants and animals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781571313560.jpg",
+			"name": "BRAIDING SWEETGRASS",
+			"publisher": "Milkweed Editions",
+			"rank": 14
+		},
+		{
+			"author": "by Gabor Mat\u00e9 with Daniel Mat\u00e9",
+			"description": "The potential ways in which trauma and stress from modern-day living can affect our physical health.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593083888.jpg",
+			"name": "THE MYTH OF NORMAL",
+			"publisher": "Avery",
+			"rank": 15
+		}
+	]
+}

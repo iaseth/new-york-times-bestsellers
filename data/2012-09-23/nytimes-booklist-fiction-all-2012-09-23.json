@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by E. L. James",
+			"description": "An inexperienced college student falls in love with a tortured man who has particular sexual tastes; the first book in a trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345803481.jpg",
+			"name": "FIFTY SHADES OF GREY",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 1
+		},
+		{
+			"author": "by E. L. James",
+			"description": "The final book in an erotic trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781612130606.jpg",
+			"name": "FIFTY SHADES FREED",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 2
+		},
+		{
+			"author": "by E. L. James",
+			"description": "Ana Steele learns more about Christian Grey\u2019s troubled past; the second book in a trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345803498.jpg",
+			"name": "FIFTY SHADES DARKER",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 3
+		},
+		{
+			"author": "by James Patterson and Michael Ledwidge",
+			"description": "A young biologist warns world leaders about the reasons for escalating animal attacks on cities.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780446571791.jpg",
+			"name": "ZOO",
+			"publisher": "Little, Brown & Company",
+			"rank": 4
+		},
+		{
+			"author": "by Gillian Flynn",
+			"description": "A woman disappears on the day of her fifth anniversary; is her husband a killer?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307588388.jpg",
+			"name": "GONE GIRL",
+			"publisher": "Crown Publishing",
+			"rank": 5
+		},
+		{
+			"author": "by Mitch Albom",
+			"description": "A fable about the inventor of the world\u2019s first clock, who returns to our world after centuries of banishment; from the author of \u201cTuesdays With Morrie.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781401322786.jpg",
+			"name": "THE TIME KEEPER",
+			"publisher": "Hyperion Press",
+			"rank": 6
+		},
+		{
+			"author": "by Sylvia Day",
+			"description": "Two troubled people develop an intense, obsessive relationship.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780425263907.jpg",
+			"name": "BARED TO YOU",
+			"publisher": "Penguin Group",
+			"rank": 7
+		},
+		{
+			"author": "by Clive Cussler and Thomas Perry",
+			"description": "Sam and Remi Fargo, a husband-and-wife treasure-hunting team, search for the tomb of Attila the Hun.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399159268.jpg",
+			"name": "THE TOMBS",
+			"publisher": "Penguin Group",
+			"rank": 8
+		},
+		{
+			"author": "by Jayne Castle",
+			"description": "Rachel, who can detect the auras of psychic criminals, may lose her sanctuary; by Jayne Ann Krentz, writing pseudonymously.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780515152845.jpg",
+			"name": "THE LOST NIGHT",
+			"publisher": "Penguin Group",
+			"rank": 9
+		},
+		{
+			"author": "by M. L. Stedman",
+			"description": "An Australian lighthouse keeper and his wife decide to keep a baby who has washed ashore.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451681758.jpg",
+			"name": "THE LIGHT BETWEEN OCEANS",
+			"publisher": "Scribner",
+			"rank": 10
+		},
+		{
+			"author": "by Tess Gerritsen",
+			"description": "The detective Jane Rizzoli and the medical examiner Maura Isles protect a boy whose family have all been murdered.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345535955.jpg",
+			"name": "LAST TO DIE",
+			"publisher": "Random House Publishing",
+			"rank": 11
+		},
+		{
+			"author": "by Sylvain Reynard",
+			"description": "Gabriel Emerson, a Dante specialist with a dark past, struggles to unravel his mysterious connection to Julia, a sweet and innocent graduate student.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780425265963.jpg",
+			"name": "GABRIEL\u2019S INFERNO",
+			"publisher": "Penguin Group",
+			"rank": 12
+		},
+		{
+			"author": "by Katee Robert",
+			"description": "A prim art gallery coordinator\u2019s night of seduction winds up hooking the wrong man.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/2940014977647.jpg",
+			"name": "WRONG BED, RIGHT GUY",
+			"publisher": "Entangled Publishing",
+			"rank": 13
+		},
+		{
+			"author": "by Debbie Macomber",
+			"description": "A young widow buys a bed-and-breakfast.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345535115.jpg",
+			"name": "THE INN AT ROSE HARBOR",
+			"publisher": "Random House Publishing",
+			"rank": 14
+		},
+		{
+			"author": "by  Beth Kery",
+			"description": "Two more chapters in the serial erotic novel aout Francesc Arno and Ian Noble's passionate affair.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101608548.jpg",
+			"name": "BECAUSE YOU ARE MINE, PART VI",
+			"publisher": "Penguin Group",
+			"rank": 15
+		}
+	]
+}

@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Paula Hawkins",
+			"description": "A psychological thriller set in the environs of London is full of complications and betrayals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594633669.jpg",
+			"name": "THE GIRL ON THE TRAIN",
+			"publisher": "Riverhead",
+			"rank": 1
+		},
+		{
+			"author": "by Ann Patchett",
+			"description": "Five decades in the lives of two families \u2014 parents, children, siblings, stepchildren \u2014 remade by divorce.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062491817.jpg",
+			"name": "COMMONWEALTH",
+			"publisher": "Harper",
+			"rank": 2
+		},
+		{
+			"author": "by Clive Cussler and Robin Burcell",
+			"description": "Sam and Remi Fargo pursue an ancient treasure.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399183973.jpg",
+			"name": "PIRATE",
+			"publisher": "Putnam",
+			"rank": 3
+		},
+		{
+			"author": "by M. L. Stedman",
+			"description": "An Australian lighthouse keeper and his wife decide to keep a baby who has washed ashore.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451681758.jpg",
+			"name": "THE LIGHT BETWEEN OCEANS",
+			"publisher": "Scribner",
+			"rank": 4
+		},
+		{
+			"author": "by Craig Johnson",
+			"description": "Sheriff Walt Longmire and his friend Henry Standing Bear investigate a motorcycle accident. The basis of the Netflix series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525426943.jpg",
+			"name": "AN OBVIOUS FACT",
+			"publisher": "Viking",
+			"rank": 5
+		},
+		{
+			"author": "by J. D. Robb",
+			"description": "Lt. Eve Dallas of the N.Y.P.D. calls on the technological expertise of her husband when three skaters are shot by a sniper.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101987971.jpg",
+			"name": "APPRENTICE IN DEATH",
+			"publisher": "Berkley",
+			"rank": 6
+		},
+		{
+			"author": "by Fredrik Backman",
+			"description": "A curmudgeon's gruff exterior masks a generosity of spirit. Originally published in Sweden in 2014.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476738024.jpg",
+			"name": "A MAN CALLED OVE",
+			"publisher": "Washington Square",
+			"rank": 7
+		},
+		{
+			"author": "by Lauren Blakely",
+			"description": "The witty and wealthy Wyatt marries his off-limits assistant after a drunken spree in Las Vegas.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/A00B01LYRXJ0I.jpg",
+			"name": "WELL HUNG",
+			"publisher": "Lauren Blakely",
+			"rank": 8
+		},
+		{
+			"author": "by Carl Hiaasen",
+			"description": "The ex-cop Andrew Yancy\u200b from \u200b\u201cBad Monkey\u201d gets involved in a kidnapping gone wrong.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385349758.jpg",
+			"name": "RAZOR GIRL",
+			"publisher": "Knopf",
+			"rank": 9
+		},
+		{
+			"author": "by Colson Whitehead",
+			"description": "A teenage girl heads north on the network that helped slaves escape to freedom, envisioned in this novel as a secret system of actual tracks and tunnels.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385542364.jpg",
+			"name": "THE UNDERGROUND RAILROAD",
+			"publisher": "Doubleday",
+			"rank": 10
+		},
+		{
+			"author": "by Ruth Ware",
+			"description": "A travel writer on a cruise is certain she has heard a body thrown overboard, but no one believes her.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501132940.jpg",
+			"name": "THE WOMAN IN CABIN 10",
+			"publisher": "Scout",
+			"rank": 11
+		},
+		{
+			"author": "by Reed Farrel Coleman",
+			"description": "Jesse Stone pursues a psychotic assassin out for revenge; a continuation of the series by Parker, who died in 2010.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399171437.jpg",
+			"name": "ROBERT B. PARKER'S DEBT TO PAY",
+			"publisher": "Putnam",
+			"rank": 12
+		},
+		{
+			"author": "by Ian McEwan",
+			"description": "A fetus in utero overhears his mother plotting with his uncle to kill his father.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385542081.jpg",
+			"name": "NUTSHELL",
+			"publisher": "Nan A. Talese/Doubleday",
+			"rank": 13
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "In a sequel to \u201cMemory Man,\u201d Amos Decker, a detective with an extraordinary memory, investigates the case of a convicted killer who wins a last-minute reprieve.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455586455.jpg",
+			"name": "THE LAST MILE",
+			"publisher": "Grand Central",
+			"rank": 14
+		},
+		{
+			"author": "by Louise Penny",
+			"description": "A police academy instructor is murdered, perhaps by a cadet favored by the retired homicide chief Armand Gamache.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250022134.jpg",
+			"name": "A GREAT RECKONING",
+			"publisher": "Minotaur",
+			"rank": 15
+		}
+	]
+}

@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Kathryn Stockett",
+			"description": "A young white woman and two black maids in 1960s Mississippi.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781440697661.jpg",
+			"name": "THE HELP",
+			"publisher": "Penguin Group",
+			"rank": 1
+		},
+		{
+			"author": "by Tom Clancy with Peter Telep",
+			"description": "Maxwell Moore pursues the terrorists who killed his C.I.A. colleagues in a bomb attack in Pakistan.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780425246061.jpg",
+			"name": "AGAINST ALL ENEMIES",
+			"publisher": "Penguin Group",
+			"rank": 2
+		},
+		{
+			"author": "by Sara Gruen",
+			"description": "After his parents are killed in a car accident, a young veterinary student \u2014 and an elephant \u2014 save a Depression-era circus.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781616200718.jpg",
+			"name": "WATER FOR ELEPHANTS",
+			"publisher": "Algonquin",
+			"rank": 3
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "As Christmas nears, a terminally ill man is preparing his family for his death when another tragedy strikes.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780446583145.jpg",
+			"name": "ONE SUMMER",
+			"publisher": "Grand Central",
+			"rank": 4
+		},
+		{
+			"author": "by George R.R. Martin",
+			"description": "In the frozen wastes to the north of Winterfell, sinister and supernatural forces are mustering.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780553897845.jpg",
+			"name": "A GAME OF THRONES",
+			"publisher": "Random House",
+			"rank": 5
+		},
+		{
+			"author": "by Ann Patchett",
+			"description": "In the Amazon basin, a medical researcher searches for her former mentor, a despotic scientist who is developing a miracle fertility drug.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062049827.jpg",
+			"name": "STATE OF WONDER",
+			"publisher": "HarperCollins",
+			"rank": 6
+		},
+		{
+			"author": "by Jeffery Deaver",
+			"description": "A young James Bond, on a global mission for a unit of British security, must foil a plot to kill thousands of citizens.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451620696.jpg",
+			"name": "CARTE BLANCHE",
+			"publisher": "Simon & Schuster",
+			"rank": 7
+		},
+		{
+			"author": "by James Patterson and Maxine Paetro",
+			"description": "Detective Lindsay Boxer and the Women\u2019s Murder Club race to find a missing baby.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316126946.jpg",
+			"name": "10TH ANNIVERSARY",
+			"publisher": "Little, Brown",
+			"rank": 8
+		},
+		{
+			"author": "by John Sandford",
+			"description": "The Minneapolis detective Lucas Davenport investigates the murders of two girls who were kidnapped in 1985.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780425247891.jpg",
+			"name": "BURIED PREY",
+			"publisher": "Penguin Group",
+			"rank": 9
+		},
+		{
+			"author": "by Dorothea Benton Frank",
+			"description": "A widow returns to her childhood home in South Carolina and finds love and a literary puzzle.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780061961274.jpg",
+			"name": "FOLLY BEACH",
+			"publisher": "HarperCollins",
+			"rank": 10
+		},
+		{
+			"author": "by S. J. Watson",
+			"description": "After a mysterious accident, an amnesiac cannot remember her past or form new memories.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062060570.jpg",
+			"name": "BEFORE I GO TO SLEEP",
+			"publisher": "HarperCollins",
+			"rank": 11
+		},
+		{
+			"author": "by Stieg Larsson",
+			"description": "A hacker and a journalist investigate the disappearance of a Swedish heiress 40 years earlier; the first volume in the Millennium trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307949486.jpg",
+			"name": "THE GIRL WITH THE DRAGON TATTOO",
+			"publisher": "Knopf Doubleday",
+			"rank": 12
+		},
+		{
+			"author": "by George R.R. Martin",
+			"description": "From the citadel of Dragonstone to the shores of Winterfell, factions vie for control of a divided land; Book 2 of \"A Song of Ice and Fire.\"",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780553579901.jpg",
+			"name": "A CLASH OF KINGS",
+			"publisher": "Random House",
+			"rank": 13
+		},
+		{
+			"author": "by Ann Brashares",
+			"description": "The friends from the Traveling Pants series, now in their late 20s, plan a reunion in Greece.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780679605096.jpg",
+			"name": "SISTERHOOD EVERLASTING",
+			"publisher": "Random House",
+			"rank": 14
+		},
+		{
+			"author": "by Emma Donoghue",
+			"description": "The entire world of the 5-year-old boy who narrates this novel is the 11-by-11-foot room in which his mother is being held prisoner.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316223232.jpg",
+			"name": "ROOM",
+			"publisher": "Little, Brown",
+			"rank": 15
+		}
+	]
+}

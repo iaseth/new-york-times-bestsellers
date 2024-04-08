@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Jojo Moyes",
+			"description": "A woman who has barely been beyond her English village finds herself while caring for a wealthy, embittered quadriplegic.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780143124542.jpg",
+			"name": "ME BEFORE YOU",
+			"publisher": "Penguin",
+			"rank": 1
+		},
+		{
+			"author": "by David Lagercrantz",
+			"description": "Mikael Blomkvist and Lisbeth Salander are back in this continuation of Steig Larsson's Millennium series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385354288.jpg",
+			"name": "THE GIRL IN THE SPIDER'S WEB",
+			"publisher": "Knopf",
+			"rank": 2
+		},
+		{
+			"author": "by Debbie Macomber",
+			"description": "A mother and her daughter-in-law both leave unhappy marriages and take up with new men.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780553391930.jpg",
+			"name": "A GIRL'S GUIDE TO MOVING ON",
+			"publisher": "Ballantine",
+			"rank": 3
+		},
+		{
+			"author": "by Lynsay Sands",
+			"description": "Mary becomes embroiled in Dante's search for his twin after running him over with her R.V.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062316059.jpg",
+			"name": "RUNAWAY VAMPIRE",
+			"publisher": "Avon",
+			"rank": 4
+		},
+		{
+			"author": "by Kristin Hannah",
+			"description": "Two sisters are separated in World War II France: one in the countryside, the other in Paris.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781466850606.jpg",
+			"name": "THE NIGHTINGALE",
+			"publisher": "St. Martin's",
+			"rank": 5
+		},
+		{
+			"author": "by Rachel Hauck",
+			"description": "With her own wedding approaching, Charlotte pieces together the history of a vintage gown she finds.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781401686314.jpg",
+			"name": "THE WEDDING DRESS",
+			"publisher": "Thomas Nelson",
+			"rank": 6
+		},
+		{
+			"author": "by Jeffrey Archer",
+			"description": "The sixth and penultimate book of the Clifton Chronicles brings the Cliftons and the Barringtons into the 1970s.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781466867505.jpg",
+			"name": "COMETH THE HOUR",
+			"publisher": "St. Martin's",
+			"rank": 7
+		},
+		{
+			"author": "by Paula Hawkins",
+			"description": "A psychological thriller set in the environs of London is full of complications and betrayals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594633669.jpg",
+			"name": "THE GIRL ON THE TRAIN",
+			"publisher": "Riverhead",
+			"rank": 8
+		},
+		{
+			"author": "by Tess Gerritsen",
+			"description": "The medical examiner Kat Novak fears that a serial killer is stalking the streets, and one of the town\u2019s most prominent citizens is her chief suspect; previously published as \"Peggy Sue Got Murdered.\"",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345549631.jpg",
+			"name": "GIRL MISSING",
+			"publisher": "Ballantine",
+			"rank": 9
+		},
+		{
+			"author": "by Penelope Ward",
+			"description": "A woman must share an inherited house with the man she dumped long ago.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781942215363.jpg",
+			"name": "ROOMHATE",
+			"publisher": "Penelope Ward",
+			"rank": 10
+		},
+		{
+			"author": "by Joanne Fluke",
+			"description": "The Lake Eden, Minn., baker Hannah Swensen is about to get married, but first she must solve the murder of a visiting celebrity chef. Recipes included.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781617732171.jpg",
+			"name": "WEDDING CAKE MURDER",
+			"publisher": "Kensington",
+			"rank": 11
+		},
+		{
+			"author": "by Lori Foster",
+			"description": "Armie must balance his budding career as an M.M.A. fighter with his growing feelings for his best friend's sister.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781459292413.jpg",
+			"name": "FIGHTING DIRTY",
+			"publisher": "HQN",
+			"rank": 12
+		},
+		{
+			"author": "by Lisa Gardner",
+			"description": "The detective D. \u2009D. Warren hunts for a missing woman who was kidnapped and abused as a student and may have become a vigilante.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525954576.jpg",
+			"name": "FIND HER",
+			"publisher": "Dutton",
+			"rank": 13
+		},
+		{
+			"author": "by Anthony Doerr",
+			"description": "The lives of a blind French girl and a gadget-obsessed German boy before and during World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476746586.jpg",
+			"name": "ALL THE LIGHT WE CANNOT SEE",
+			"publisher": "Scribner",
+			"rank": 14
+		},
+		{
+			"author": "by Fiona Barton",
+			"description": "When a suspect in a missing-child case dies, reporters and the police think they\u2019ll get the real story from his widow. They\u2019re wrong.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101990469.jpg",
+			"name": "THE WIDOW",
+			"publisher": "New American Library",
+			"rank": 15
+		}
+	]
+}

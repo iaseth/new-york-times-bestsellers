@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Sara Gruen",
+			"description": "After his parents die in a car accident, a young veterinary student \u2014 and an elephant \u2014 save a Depression-era circus.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781616200718.jpg",
+			"name": "WATER FOR ELEPHANTS",
+			"publisher": "Algonquin",
+			"rank": 1
+		},
+		{
+			"author": "by Emily Giffin",
+			"description": "A maid of honor to her charmed friend, Rachel White has always played by the rules. But that changes on her 30th birthday.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780312600723.jpg",
+			"name": "SOMETHING BORROWED",
+			"publisher": "St. Martin's",
+			"rank": 2
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "The lawyer for an alleged serial killer is murdered, and two former Secret Service agents are on the case.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780446573092.jpg",
+			"name": "THE SIXTH MAN",
+			"publisher": "Grand Central",
+			"rank": 3
+		},
+		{
+			"author": "by Kathryn Stockett",
+			"description": "A young white woman and two black maids in 1960s Mississippi.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781440697661.jpg",
+			"name": "THE HELP",
+			"publisher": "Penguin Group",
+			"rank": 4
+		},
+		{
+			"author": "by George R.R. Martin",
+			"description": "In the frozen wastes to the north of Winterfell, sinister and supernatural forces are mustering.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780553897845.jpg",
+			"name": "A GAME OF THRONES",
+			"publisher": "Random House",
+			"rank": 5
+		},
+		{
+			"author": "by Michael Connelly",
+			"description": "Routinely doing business from his Lincoln Town Cars, the bottom-feeding attorney Mickey Haller is asked to defend the scion of a wealthy family who might not be guilty of a murderous crime.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455500239.jpg",
+			"name": "THE LINCOLN LAWYER",
+			"publisher": "Little, Brown",
+			"rank": 6
+		},
+		{
+			"author": "by Michael Connelly",
+			"description": "The defense lawyer Mickey Haller represents a woman facing home foreclosure who is accused of killing a banker.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455510313.jpg",
+			"name": "THE FIFTH WITNESS",
+			"publisher": "Little, Brown",
+			"rank": 7
+		},
+		{
+			"author": "by Christine Feehan",
+			"description": "In the Louisiana bayou near her home, Saria Boudreaux finds a corpse that appears to have been mauled \u2014 and her brothers are all shape-shifting leopards.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101477755.jpg",
+			"name": "SAVAGE NATURE",
+			"publisher": "Penguin Group",
+			"rank": 8
+		},
+		{
+			"author": "by Stuart Woods",
+			"description": "In this Stone Barrington novel, the New York lawyer makes enemies when he represents a widow in the sale of a movie studio.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399157363.jpg",
+			"name": "BEL-AIR DEAD",
+			"publisher": "Penguin Group",
+			"rank": 9
+		},
+		{
+			"author": "by Nora Roberts",
+			"description": "A smoke jumper faces a new season of firefighting in Montana after the loss of her partner.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780515150636.jpg",
+			"name": "CHASING FIRE",
+			"publisher": "Penguin Group",
+			"rank": 10
+		},
+		{
+			"author": "by Debbie Macomber",
+			"description": "A middle-aged woman takes a cross-country road trip with her daughter and former mother-in-law.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780778313250.jpg",
+			"name": "A TURN IN THE ROAD",
+			"publisher": "Harlequin",
+			"rank": 11
+		},
+		{
+			"author": "by Sherryl Woods",
+			"description": "Will Lincoln is finally ready to win the heart of his childhood friend, Jess O\u2019Brien.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780778329794.jpg",
+			"name": "MOONLIGHT COVE",
+			"publisher": "Harlequin",
+			"rank": 12
+		},
+		{
+			"author": "by Rachel Gibson",
+			"description": "Autumn Haven\u2019s Las Vegas \u201cto-do\u201d list included catching a show and playing the slots, not waking up married to a heartbreaker like Sam LeClaire.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062079169.jpg",
+			"name": "ANY MAN OF MINE",
+			"publisher": "HarperCollins",
+			"rank": 13
+		},
+		{
+			"author": "by Paula McLain",
+			"description": "Ernest Hemingway\u2019s first wife, Hadley, narrates this novel set in Paris.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345521323.jpg",
+			"name": "THE PARIS WIFE",
+			"publisher": "Random House",
+			"rank": 14
+		},
+		{
+			"author": "by Mary Higgins Clark",
+			"description": "A woman haunted by the disappearance of her young son discovers that someone has stolen her identity.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781439180976.jpg",
+			"name": "I\u2019LL WALK ALONE",
+			"publisher": "Simon & Schuster",
+			"rank": 15
+		}
+	]
+}

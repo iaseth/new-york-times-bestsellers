@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Malcolm Gladwell",
+			"description": "Famous examples of miscommunication serve as the backdrop to explain potential conflicts and misunderstandings.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316478526.jpg",
+			"name": "TALKING TO STRANGERS",
+			"publisher": "Little, Brown",
+			"rank": 1
+		},
+		{
+			"author": "by Jim Mattis and Bing West",
+			"description": "The former Marine infantry officer and secretary of defense recounts key moments from his career and imparts his leadership philosophy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812996838.jpg",
+			"name": "CALL SIGN CHAOS",
+			"publisher": "Random House",
+			"rank": 2
+		},
+		{
+			"author": "by Tara Westover",
+			"description": "The daughter of survivalists, who is kept out of school, educates herself enough to leave home for university.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399590504.jpg",
+			"name": "EDUCATED",
+			"publisher": "Random House",
+			"rank": 3
+		},
+		{
+			"author": "by Garrett M. Graff",
+			"description": "An oral history of the events that occurred on Sept. 11, 2001, based on transcripts, declassified documents and interviews.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501182204.jpg",
+			"name": "THE ONLY PLANE IN THE SKY",
+			"publisher": "Avid Reader",
+			"rank": 4
+		},
+		{
+			"author": "by Jodi Kantor and Megan Twohey",
+			"description": "Two reporters for The New York Times recount their investigation into Harvey Weinstein\u2019s alleged abuses of power and the subsequent global disclosure of women\u2019s traumatic stories.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525560340.jpg",
+			"name": "SHE SAID",
+			"publisher": "Penguin Press",
+			"rank": 5
+		},
+		{
+			"author": "by Samantha Power",
+			"description": "The Pulitzer Prize-winning author's journey from being an immigrant to being an activist outsider to serving in President Obama\u2019s cabinet.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062820693.jpg",
+			"name": "THE EDUCATION OF AN IDEALIST",
+			"publisher": "Dey St.",
+			"rank": 6
+		},
+		{
+			"author": "by Randall Munroe",
+			"description": "The former NASA roboticist dispenses complex and excessive solutions to common problems; reclassified this week as nonfiction.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525537090.jpg",
+			"name": "HOW TO",
+			"publisher": "Riverhead",
+			"rank": 7
+		},
+		{
+			"author": "by Michelle Obama",
+			"description": "The former first lady describes her journey from the South Side of Chicago to the White House, and how she balanced work, family and her husband\u2019s political ascent.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524763138.jpg",
+			"name": "BECOMING",
+			"publisher": "Crown",
+			"rank": 8
+		},
+		{
+			"author": "by David A. Sinclair and Matthew D. LaPlante",
+			"description": "A professor of genetics at Harvard Medical School expounds on some new technologies and lifestyle changes that may affect aging.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501191978.jpg",
+			"name": "LIFESPAN",
+			"publisher": "Atria",
+			"rank": 9
+		},
+		{
+			"author": "by Caitlin Doughty",
+			"description": "A funeral director answers 35 questions from children about death.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780393652703.jpg",
+			"name": "WILL MY CAT EAT MY EYEBALLS?",
+			"publisher": "Norton",
+			"rank": 10
+		},
+		{
+			"author": "by Lisa Taddeo",
+			"description": "The inequality of female desire is explored through the sex lives of a homemaker, a high school student and a restaurant owner.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451642292.jpg",
+			"name": "THREE WOMEN",
+			"publisher": "Avid Reader",
+			"rank": 11
+		},
+		{
+			"author": "by Jeanine Pirro",
+			"description": "The Fox News host posits those she labels anti-Trump conspirators have committed possible crimes and a plot to destroy liberty.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781546085188.jpg",
+			"name": "RADICALS, RESISTANCE AND REVENGE",
+			"publisher": "Center Street",
+			"rank": 12
+		},
+		{
+			"author": "by Trevor Noah",
+			"description": "A memoir about growing up biracial in apartheid South Africa by the host of \u201cThe Daily Show.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399588181.jpg",
+			"name": "BORN A CRIME",
+			"publisher": "Spiegel & Grau",
+			"rank": 13
+		},
+		{
+			"author": "by Michelle Malkin",
+			"description": "The conservative syndicated columnist blames liberals and Silicon Valley for what she calls an immigration crisis.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781621579717.jpg",
+			"name": "OPEN BORDERS INC.",
+			"publisher": "Regnery",
+			"rank": 14
+		},
+		{
+			"author": "by Sean Carroll",
+			"description": "The theoretical physicist puts forward the theory that there is more than one of us in the universe.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524743017.jpg",
+			"name": "SOMETHING DEEPLY HIDDEN",
+			"publisher": "Dutton",
+			"rank": 15
+		}
+	]
+}

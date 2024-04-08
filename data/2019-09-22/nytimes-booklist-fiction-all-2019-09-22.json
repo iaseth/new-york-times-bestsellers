@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by J.D. Robb",
+			"description": "The 49th book of the In Death series. Eve Dallas looks into the misdeeds of a wealthy businessman while a vigilante named Lady Justice uses disguises to avenge women who were wronged.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250207180.jpg",
+			"name": "VENDETTA IN DEATH",
+			"publisher": "St. Martin's",
+			"rank": 1
+		},
+		{
+			"author": "by Delia Owens",
+			"description": "In a quiet town on the North Carolina coast in 1969, a young woman who survived alone in the marsh becomes a murder suspect.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735219090.jpg",
+			"name": "WHERE THE CRAWDADS SING",
+			"publisher": "Putnam",
+			"rank": 2
+		},
+		{
+			"author": "by Christine Feehan",
+			"description": "The 33rd book in the Carpathian series. A mage and an ancient warrior must stop a threat against all Carpathians.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984803474.jpg",
+			"name": "DARK ILLUSION",
+			"publisher": "Berkley",
+			"rank": 3
+		},
+		{
+			"author": "by Louise Penny",
+			"description": "The 15th book in the Chief Inspector Gamache series. The search for a missing girl is imperiled by rising floodwaters across the province.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250066213.jpg",
+			"name": "A BETTER MAN",
+			"publisher": "Minotaur",
+			"rank": 4
+		},
+		{
+			"author": "by Donna Tartt",
+			"description": "A painting smuggled out of the Metropolitan Museum of Art after a bombing becomes a boy\u2019s prize, guilt and burden.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316248679.jpg",
+			"name": "THE GOLDFINCH",
+			"publisher": "Little, Brown",
+			"rank": 5
+		},
+		{
+			"author": "by William Kent Krueger",
+			"description": "Four orphans escape a Minnesota school and encounter a cross-section of different people struggling during the Great Depression.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476749297.jpg",
+			"name": "THIS TENDER LAND",
+			"publisher": "Atria",
+			"rank": 6
+		},
+		{
+			"author": "by David Lagercrantz",
+			"description": "Mikael Blomkvist helps Lisbeth Salander put her past behind her in the latest installment of Stieg Larsson's Millennium series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780451494351.jpg",
+			"name": "THE GIRL WHO LIVED TWICE",
+			"publisher": "Knopf",
+			"rank": 7
+		},
+		{
+			"author": "by Lara Prescott",
+			"description": "During the Cold War, members of the C.I.A.\u2019s typing pool aid its mission to smuggle the banned book \u201cDoctor Zhivago\u201d behind the Iron Curtain.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525656159.jpg",
+			"name": "THE SECRETS WE KEPT",
+			"publisher": "Knopf",
+			"rank": 8
+		},
+		{
+			"author": "by Jonathan Cahn",
+			"description": "A traveler discovers mysteries hidden behind seven locked doors.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781629996295.jpg",
+			"name": "THE ORACLE",
+			"publisher": "Front Line",
+			"rank": 9
+		},
+		{
+			"author": "by Jeffrey Archer",
+			"description": "While investigating the theft of a Rembrandt painting from the Fitzmolean Museum, the Scotland Yard detective William Warwick falls in love with a research assistant.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250200778.jpg",
+			"name": "NOTHING VENTURED",
+			"publisher": "St. Martin's",
+			"rank": 10
+		},
+		{
+			"author": "by Ann Cleeves",
+			"description": "Detective Matthew Venn faces his past in North Devon while he investigates the death of a man with an albatross tattoo.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250204462.jpg",
+			"name": "THE LONG CALL",
+			"publisher": "Minotaur",
+			"rank": 11
+		},
+		{
+			"author": "by Janet Evanovich",
+			"description": "The 25th book in the Stephanie Plum series. When several managers of a deli in Trenton disappear, a bounty hunter and her detective boyfriend look for clues.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399179235.jpg",
+			"name": "LOOK ALIVE TWENTY-FIVE",
+			"publisher": "Putnam",
+			"rank": 12
+		},
+		{
+			"author": "by James Patterson with Candice Fox",
+			"description": "A former Boston police detective who is now an innkeeper must shield a seaside town from a crew of criminals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316528429.jpg",
+			"name": "THE INN",
+			"publisher": "Little, Brown",
+			"rank": 13
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "A World War II veteran on parole must find the real killer in a small town or face going back to jail.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538750568.jpg",
+			"name": "ONE GOOD DEED",
+			"publisher": "Grand Central",
+			"rank": 14
+		},
+		{
+			"author": "by Heather Morris",
+			"description": "A concentration camp detainee tasked with permanently marking fellow prisoners falls in love with one of them.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062797155.jpg",
+			"name": "THE TATTOOIST OF AUSCHWITZ",
+			"publisher": "Harper",
+			"rank": 15
+		}
+	]
+}

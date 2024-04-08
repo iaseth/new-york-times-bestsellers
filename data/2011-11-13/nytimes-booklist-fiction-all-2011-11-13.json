@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by John Grisham",
+			"description": "Partners in a small law firm take on a big case after a fast-track burnout joins them.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385535137.jpg",
+			"name": "THE LITIGATORS",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 1
+		},
+		{
+			"author": "by Nicholas Sparks",
+			"description": "A man and woman who have gone their separate ways return to their Southern town for the funeral of a friend.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455502547.jpg",
+			"name": "THE BEST OF ME",
+			"publisher": "Grand Central Publishing",
+			"rank": 2
+		},
+		{
+			"author": "by Haruki Murakami",
+			"description": "In 1980s Tokyo, a woman who punishes perpetrators of domestic violence has ties to an aspiring novelist who takes on an unusual ghostwriting project.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307593313.jpg",
+			"name": "1Q84",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 3
+		},
+		{
+			"author": "by Kathryn Stockett",
+			"description": "A young white woman and two black maids in 1960s Mississippi.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781440697661.jpg",
+			"name": "THE HELP",
+			"publisher": "Penguin Group",
+			"rank": 4
+		},
+		{
+			"author": "by James Patterson and Richard DiLallo",
+			"description": "A widow keeps the identity of the new man she is about to marry a secret as her children gather for Christmas.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316097390.jpg",
+			"name": "THE CHRISTMAS WEDDING",
+			"publisher": "Little, Brown & Company",
+			"rank": 5
+		},
+		{
+			"author": "by Robyn Carr",
+			"description": "A woman discovers that the boy she once loved has become a strong and confident man.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780778312710.jpg",
+			"name": "BRING ME HOME FOR CHRISTMAS",
+			"publisher": "Mira",
+			"rank": 6
+		},
+		{
+			"author": "by Lee Child",
+			"description": "For Jack Reacher, an elite military police officer, it all started in 1997. A lonely railroad track. A crime scene. A cover-up.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780440339359.jpg",
+			"name": "THE AFFAIR",
+			"publisher": "Delacorte",
+			"rank": 7
+		},
+		{
+			"author": "by Ted Dekker",
+			"description": "Ryan Evans faces a serial killer who murders his young victims in a highly idiosyncratic way.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781599951959.jpg",
+			"name": "BONEMAN'S DAUGHTERS",
+			"publisher": "Center Street",
+			"rank": 8
+		},
+		{
+			"author": "by Sophie Kinsella",
+			"description": "A woman reveals the most intimate details of her life to a man who turns out to be the C.E.O. of the company for which she works.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780440334866.jpg",
+			"name": "CAN YOU KEEP A SECRET?",
+			"publisher": "Random House Publishing",
+			"rank": 9
+		},
+		{
+			"author": "by Glenn Beck",
+			"description": "A woman re-evaluates her life.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781439187203.jpg",
+			"name": "THE SNOW ANGEL",
+			"publisher": "Threshold Editions",
+			"rank": 10
+		},
+		{
+			"author": "by Chris Culver",
+			"description": "Against orders, a former homicide detective begins an investigation into his niece's murder.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/A00B004M18ZRS.jpg",
+			"name": "THE ABBEY",
+			"publisher": "Chris Culver",
+			"rank": 11
+		},
+		{
+			"author": "by Darcie Chan",
+			"description": "Only one man knows an abused widow, which revealed will change many lives in her small Vermont town.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780615523774.jpg",
+			"name": "THE MILL RIVER RECLUSE",
+			"publisher": "Darcie Chan",
+			"rank": 12
+		},
+		{
+			"author": "by John Sandford",
+			"description": "Virgil Flowers investigates bombings directed against a superstore chain seeking to open a store in a Minnesota river town.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780425250488.jpg",
+			"name": "SHOCK WAVE",
+			"publisher": "Penguin Group",
+			"rank": 13
+		},
+		{
+			"author": "by Guillermo del Toro and Chuck Hogan",
+			"description": "A small band fights the vampire who unleashed a devastating virus; the final volume of the Strain trilogy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062066046.jpg",
+			"name": "THE NIGHT ETERNAL",
+			"publisher": "HarperCollins Publishers",
+			"rank": 14
+		},
+		{
+			"author": "by Jeffrey Eugenides",
+			"description": "Three Brown graduates in the early 1980s wrestle with love, religion and coming of age.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781429969185.jpg",
+			"name": "THE MARRIAGE PLOT",
+			"publisher": "Farrar, Straus & Giroux",
+			"rank": 15
+		}
+	]
+}

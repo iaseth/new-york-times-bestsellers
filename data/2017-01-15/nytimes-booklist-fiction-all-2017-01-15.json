@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Michael Connelly",
+			"description": "Harry Bosch helps track a serial rapist, while as a P.I. he aids a billionaire in search of a possible heir.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316225953.jpg",
+			"name": "THE WRONG SIDE OF GOODBYE",
+			"publisher": "Little, Brown",
+			"rank": 1
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "John Puller, a special agent with the Army, searches for the truth about his mother, who disappeared 30  years ago.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455586516.jpg",
+			"name": "NO MAN'S LAND",
+			"publisher": "Grand Central",
+			"rank": 2
+		},
+		{
+			"author": "by John Grisham",
+			"description": "A whistleblower alerts a Florida investigator to judicial corruption involving the Mob and Indian casinos.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385541206.jpg",
+			"name": "THE WHISTLER",
+			"publisher": "Doubleday",
+			"rank": 3
+		},
+		{
+			"author": "by W. Bruce Cameron",
+			"description": "A canine narrator undergoes a series of reincarnations.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780765330345.jpg",
+			"name": "A DOG'S PURPOSE",
+			"publisher": "Forge Books",
+			"rank": 4
+		},
+		{
+			"author": "by Fern Michaels",
+			"description": "In the Sisterhood's latest outing, the cohort faces a mudslinging Capitol Hill divorce.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781420140651.jpg",
+			"name": "CRASH AND BURN",
+			"publisher": "Zebra",
+			"rank": 5
+		},
+		{
+			"author": "by Paula Hawkins",
+			"description": "A psychological thriller set in the environs of London is full of complications and betrayals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594633669.jpg",
+			"name": "THE GIRL ON THE TRAIN",
+			"publisher": "Riverhead",
+			"rank": 6
+		},
+		{
+			"author": "by James Patterson",
+			"description": "Detective Alex Cross and his wife, Bree, team up to catch a killer causing chaos in Washington, D.C.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316407168.jpg",
+			"name": "CROSS THE LINE",
+			"publisher": "Little, Brown",
+			"rank": 7
+		},
+		{
+			"author": "by Liane Moriarty",
+			"description": "Tense turning points for three couples at a backyard barbecue gone wrong.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250069818.jpg",
+			"name": "TRULY MADLY GUILTY",
+			"publisher": "Flatiron",
+			"rank": 8
+		},
+		{
+			"author": "by Fredrik Backman",
+			"description": "A curmudgeon's gruff exterior masks a generosity of spirit. Originally published in Sweden in 2014.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476738024.jpg",
+			"name": "A MAN CALLED OVE",
+			"publisher": "Washington Square",
+			"rank": 9
+		},
+		{
+			"author": "by Nicholas Sparks",
+			"description": "A man who became a single father when his marriage and business collapsed learns to take a chance on a new love.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455520701.jpg",
+			"name": "TWO BY TWO",
+			"publisher": "Grand Central",
+			"rank": 10
+		},
+		{
+			"author": "by Rupi Kaur",
+			"description": "Poetic approaches to surviving adversity and loss.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781449474256.jpg",
+			"name": "MILK AND HONEY",
+			"publisher": "Andrews McMeel",
+			"rank": 11
+		},
+		{
+			"author": "by Paulo Coelho",
+			"description": "In this fable, a Spanish shepherd boy ventures to Egypt in search of treasure and his destiny. First  published in 1993.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780061122415.jpg",
+			"name": "THE ALCHEMIST",
+			"publisher": "HarperCollins",
+			"rank": 12
+		},
+		{
+			"author": "by Jodi Picoult",
+			"description": "A medical crisis entangles a black nurse, a white supremacist father and a white lawyer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345544964.jpg",
+			"name": "SMALL GREAT THINGS",
+			"publisher": "Ballantine",
+			"rank": 13
+		},
+		{
+			"author": "by James Patterson and David Ellis",
+			"description": "When bodies are found at a Hamptons estate where a series of grisly murders once occurred, a local detective and former New York City cop investigates.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316337977.jpg",
+			"name": "THE MURDER HOUSE",
+			"publisher": "Little, Brown",
+			"rank": 14
+		},
+		{
+			"author": "by Colson Whitehead",
+			"description": "A teenage girl heads north on the network that helped slaves escape to freedom, envisioned in this novel as a secret system of actual tracks and tunnels.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385542364.jpg",
+			"name": "THE UNDERGROUND RAILROAD",
+			"publisher": "Doubleday",
+			"rank": 15
+		}
+	]
+}

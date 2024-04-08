@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Liane Moriarty",
+			"description": "Tense turning points for three couples at a backyard barbecue gone wrong.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250069818.jpg",
+			"name": "TRULY MADLY GUILTY",
+			"publisher": "Flatiron",
+			"rank": 1
+		},
+		{
+			"author": "by Paula Hawkins",
+			"description": "A psychological thriller set in the environs of London is full of complications and betrayals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594633669.jpg",
+			"name": "THE GIRL ON THE TRAIN",
+			"publisher": "Riverhead",
+			"rank": 2
+		},
+		{
+			"author": "by Daniel Silva",
+			"description": "Gabriel Allon, the Israeli art restorer and spy, recruits and trains a doctor from Jerusalem to help capture a secret ISIS terrorist in France.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062320247.jpg",
+			"name": "THE BLACK WIDOW",
+			"publisher": "Harper",
+			"rank": 3
+		},
+		{
+			"author": "by Jayne Castle",
+			"description": "A couple on the run wake up married with no memory of their wedding and the need to retrace their steps.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780515155754.jpg",
+			"name": "ILLUSION TOWN",
+			"publisher": "Jove",
+			"rank": 4
+		},
+		{
+			"author": "by Jojo Moyes",
+			"description": "A woman who has barely been beyond her English village finds herself while caring for a wealthy, embittered quadriplegic.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780143124542.jpg",
+			"name": "ME BEFORE YOU",
+			"publisher": "Penguin",
+			"rank": 5
+		},
+		{
+			"author": "by John Grisham",
+			"description": "The attorney Sebastian Rudd is a \u201clone gunman\u201d who hates injustice and the system and defends unpopular clients.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385539449.jpg",
+			"name": "ROGUE LAWYER",
+			"publisher": "Doubleday",
+			"rank": 6
+		},
+		{
+			"author": "by Jojo Moyes",
+			"description": "After the death of Will Traynor, Louisa Clark joins a grief support group that may lead her to new love.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698152045.jpg",
+			"name": "AFTER YOU",
+			"publisher": "Pamela Dorman/Viking",
+			"rank": 7
+		},
+		{
+			"author": "by Vi Keeland",
+			"description": "Reese dismisses a chance encounter with a smug stranger, until he turns out to be her new boss.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781942215462.jpg",
+			"name": "BOSSMAN",
+			"publisher": "Vi Keeland",
+			"rank": 8
+		},
+		{
+			"author": "by Marie Force",
+			"description": "A lieutenant investigates a snatched-baby cover-up.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781459294929.jpg",
+			"name": "FATAL IDENTITY",
+			"publisher": "HQN",
+			"rank": 9
+		},
+		{
+			"author": "by Fredrik Backman",
+			"description": "A curmudgeon's gruff exterior masks a generosity of spirit. Originally published in Sweden in 2014.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476738024.jpg",
+			"name": "A MAN CALLED OVE",
+			"publisher": "Washington Square",
+			"rank": 10
+		},
+		{
+			"author": "by Robyn Carr",
+			"description": "Four women come together after the death of a friend to sort her belongings and take stock.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780778328681.jpg",
+			"name": "THE HOUSE ON OLIVE STREET",
+			"publisher": "Mira",
+			"rank": 11
+		},
+		{
+			"author": "by Heather Graham",
+			"description": "A cruise ship entertainer and a member of the F.B.I.'s paranormal unit search for a killer in Alaska.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781460395646.jpg",
+			"name": "DEADLY FATE",
+			"publisher": "Mira",
+			"rank": 12
+		},
+		{
+			"author": "by Linda Fairstein",
+			"description": "After a designer's death, Alex Cooper tries to flush a murderer from New York's fashion world.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101984017.jpg",
+			"name": "KILLER LOOK",
+			"publisher": "Dutton",
+			"rank": 13
+		},
+		{
+			"author": "by J. R. Ward",
+			"description": "The suicide of a Kentucky distiller may be murder after all.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780451475282.jpg",
+			"name": "THE ANGELS' SHARE",
+			"publisher": "New American Library",
+			"rank": 14
+		},
+		{
+			"author": "by Emma Cline",
+			"description": "In the summer of 1969, a California teenager is drawn to a Manson-like cult.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812998610.jpg",
+			"name": "THE GIRLS",
+			"publisher": "Random House",
+			"rank": 15
+		}
+	]
+}

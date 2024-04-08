@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by David Baldacci",
+			"description": "The fifth book in the Memory Man series. The first man Amos Decker put behind bars asks to have his name cleared.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538761434.jpg",
+			"name": "REDEMPTION",
+			"publisher": "Grand Central",
+			"rank": 1
+		},
+		{
+			"author": "by E L James",
+			"description": "Maxim Trevelyan inherits several estates and beds his cleaner Alessia Demachi, an Albanian piano prodigy who has been trafficked into England.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984898326.jpg",
+			"name": "THE MISTER",
+			"publisher": "Vintage",
+			"rank": 2
+		},
+		{
+			"author": "by Delia Owens",
+			"description": "In a quiet town on the North Carolina coast in 1969, a young woman who survived alone in the marsh becomes a murder suspect.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735219090.jpg",
+			"name": "WHERE THE CRAWDADS SING",
+			"publisher": "Putnam",
+			"rank": 3
+		},
+		{
+			"author": "by Sally Rooney",
+			"description": "The connection between a high school star athlete and a loner ebbs and flows when they go to Trinity College in Dublin.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984822178.jpg",
+			"name": "NORMAL PEOPLE",
+			"publisher": "Hogarth",
+			"rank": 4
+		},
+		{
+			"author": "by George R.R. Martin",
+			"description": "In the frozen wastes to the north of Winterfell, sinister and supernatural forces are mustering. Basis of the HBO series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780553897845.jpg",
+			"name": "A GAME OF THRONES",
+			"publisher": "Bantam",
+			"rank": 5
+		},
+		{
+			"author": "by Heather Morris",
+			"description": "A concentration camp detainee tasked with permanently marking fellow prisoners falls in love with one of them.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062797155.jpg",
+			"name": "THE TATTOOIST OF AUSCHWITZ",
+			"publisher": "Harper",
+			"rank": 6
+		},
+		{
+			"author": "by James Patterson",
+			"description": "Three stories: \"Dead Man Running\" (written with Christopher Farnsworth), \"113 Minutes\" (written with Max DiLallo) and \"The 13-Minute Murder\" (written with Shan Serafin).",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538733035.jpg",
+			"name": "THE 13-MINUTE MURDER",
+			"publisher": "Grand Central",
+			"rank": 7
+		},
+		{
+			"author": "by A.J. Finn",
+			"description": "A recluse who drinks heavily and takes prescription drugs may have witnessed a crime across from her Harlem townhouse.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062678416.jpg",
+			"name": "THE WOMAN IN THE WINDOW",
+			"publisher": "Morrow",
+			"rank": 8
+		},
+		{
+			"author": "by Richard Powers",
+			"description": "Winner of the 2019 Pulitzer Prize for fiction. Nine people drawn to trees for different reasons fight for the last of the remaining acres of virgin forest.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780393635522.jpg",
+			"name": "THE OVERSTORY",
+			"publisher": "Norton",
+			"rank": 9
+		},
+		{
+			"author": "by Martha Hall Kelly",
+			"description": "In 1914, the New York socialite Eliza Ferriday works to help White Russian families escape from the revolution.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524796372.jpg",
+			"name": "LOST ROSES",
+			"publisher": "Ballantine",
+			"rank": 10
+		},
+		{
+			"author": "by Anna Todd",
+			"description": "A college freshman leaves behind a reliable boyfriend in her hometown and falls for a bad boy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982111007.jpg",
+			"name": "AFTER",
+			"publisher": "Gallery",
+			"rank": 11
+		},
+		{
+			"author": "by Amor Towles",
+			"description": "A Russian count undergoes 30 years of house arrest in the Metropol hotel, across from the Kremlin.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780670026197.jpg",
+			"name": "A GENTLEMAN IN MOSCOW",
+			"publisher": "Penguin",
+			"rank": 12
+		},
+		{
+			"author": "by Lisa Scottoline",
+			"description": "A dark secret emerges when Allie Garvey returns home to attend a childhood friend\u2019s funeral.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525539643.jpg",
+			"name": "SOMEONE KNOWS",
+			"publisher": "Putnam",
+			"rank": 13
+		},
+		{
+			"author": "by Pam Jenoff",
+			"description": "Grace Healey investigates the fates of 12 women who were sent to occupied Europe to help the resistance during World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780778330271.jpg",
+			"name": "THE LOST GIRLS OF PARIS",
+			"publisher": "Park Row",
+			"rank": 14
+		},
+		{
+			"author": "by Claudia Gray",
+			"description": "The bond between Qui-Gon Jinn and Obi-Wan Kenobi is tested when they go on a mission to the royal court of Pijal.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525619376.jpg",
+			"name": "STAR WARS: MASTER & APPRENTICE",
+			"publisher": "Del Rey",
+			"rank": 15
+		}
+	]
+}

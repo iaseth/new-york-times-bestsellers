@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Jeannette Walls",
+			"description": "The author recalls a bizarre childhood during which she was constantly moved from place to place.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780743247542.jpg",
+			"name": "THE GLASS CASTLE",
+			"publisher": "Simon & Schuster",
+			"rank": 1
+		},
+		{
+			"author": "by Laura Hillenbrand",
+			"description": "An Olympic runner\u2019s story of survival as a prisoner of the Japanese in World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400064168.jpg",
+			"name": "UNBROKEN",
+			"publisher": "Random House Publishing",
+			"rank": 2
+		},
+		{
+			"author": "by Cheryl Strayed",
+			"description": "A woman\u2019s account of a life-changing 1,100-mile hike along the Pacific Crest Trail.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307476074.jpg",
+			"name": "WILD",
+			"publisher": "Knopf Doubleday Publishing",
+			"rank": 3
+		},
+		{
+			"author": "by Dinesh D'Souza",
+			"description": "An argument that President Obama is the architect of American decline.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781596983168.jpg",
+			"name": "OBAMA'S AMERICA",
+			"publisher": "Regnery Publishing",
+			"rank": 4
+		},
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "The anchor of \u201cThe O\u2019Reilly Factor\u201d recounts the assassination of Abraham Lincoln.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780805093070.jpg",
+			"name": "KILLING LINCOLN",
+			"publisher": "Henry Holt & Company",
+			"rank": 5
+		},
+		{
+			"author": "by Edward Klein",
+			"description": "A journalist argues that President Obama is callow, arrogant and unable to lead.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781596983144.jpg",
+			"name": "AMATEUR",
+			"publisher": "Regnery Publishing",
+			"rank": 6
+		},
+		{
+			"author": "by Rebecca Skloot",
+			"description": "The story of a woman whose cancer cells were cultured without her permission in 1951.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781400052189.jpg",
+			"name": "THE IMMORTAL LIFE OF HENRIETTA LACKS",
+			"publisher": "Crown Publishing",
+			"rank": 7
+		},
+		{
+			"author": "by Joe Posnanski",
+			"description": "A biography of the legendary Penn State football coach.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451657494.jpg",
+			"name": "PATERNO",
+			"publisher": "Simon & Schuster",
+			"rank": 8
+		},
+		{
+			"author": "by Ben Macintyre",
+			"description": "How the Allies tricked the Nazis into believing that on D-Day they would attack somewhere other than Normandy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307888761.jpg",
+			"name": "DOUBLE CROSS",
+			"publisher": "Crown Publishing",
+			"rank": 9
+		},
+		{
+			"author": "by Jaycee Dugard",
+			"description": "A woman describes being kidnapped at the age of 11 and held prisoner for 18 years by a convicted rapist and his wife.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451629194.jpg",
+			"name": "A STOLEN LIFE",
+			"publisher": "Simon & Schuster",
+			"rank": 10
+		},
+		{
+			"author": "by Todd Burpo with Lynn Vincent",
+			"description": "A father recounts his 3-year-old son\u2019s encounter with Jesus and the angels during an emergency appendectomy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780849949203.jpg",
+			"name": "HEAVEN IS FOR REAL",
+			"publisher": "Thomas Nelson",
+			"rank": 11
+		},
+		{
+			"author": "by Malcolm Gladwell",
+			"description": "Why some people succeed \u2014 it has to do with luck and opportunities as well as talent. From the author of \"Blink\" and \"the Tipping Point.\"",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316017930.jpg",
+			"name": "OUTLIERS",
+			"publisher": "Little, Brown & Company",
+			"rank": 12
+		},
+		{
+			"author": "by Erik Larson",
+			"description": "This portrait of Berlin during the rise of the Nazis centers on William E. Dodd, the U.S. ambassador to Germany, and his daughter, Martha.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307887955.jpg",
+			"name": "IN THE GARDEN OF BEASTS",
+			"publisher": "Crown Publishing",
+			"rank": 13
+		},
+		{
+			"author": "by Walter Isaacson",
+			"description": "A biography of the entrepreneur and Apple visionary who died in October 2011.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451648553.jpg",
+			"name": "STEVE JOBS",
+			"publisher": "Simon & Schuster",
+			"rank": 14
+		},
+		{
+			"author": "by Charles Duhigg",
+			"description": "A Times reporter\u2019s account of the science behind how we form, and break, habits.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812981605.jpg",
+			"name": "THE POWER OF HABIT",
+			"publisher": "Random House Publishing",
+			"rank": 15
+		}
+	]
+}

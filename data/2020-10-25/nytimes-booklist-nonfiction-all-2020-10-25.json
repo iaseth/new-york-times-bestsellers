@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Brandon Stanton",
+			"description": "Photos and stories of people from over 40 countries collected by the creator of \u201cHumans of New York.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250114297.jpg",
+			"name": "HUMANS",
+			"publisher": "St. Martin's",
+			"rank": 1
+		},
+		{
+			"author": "by Jerry Seinfeld",
+			"description": "The comedian shares material he collected in an accordion folder over the last 45 years.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982112691.jpg",
+			"name": "IS THIS ANYTHING?",
+			"publisher": "Simon & Schuster",
+			"rank": 2
+		},
+		{
+			"author": "by Roman Mars and Kurt Kohlstedt",
+			"description": "A look at the design and architecture of various and sometimes unexpected elements that make cities function.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780358126607.jpg",
+			"name": "THE 99% INVISIBLE CITY",
+			"publisher": "Houghton Mifflin Harcourt",
+			"rank": 3
+		},
+		{
+			"author": "by Bob Woodward",
+			"description": "Based on 17 on-the-record interviews with President Trump and other reporting, the Pulitzer Prize-winning journalist details the president\u2019s perspective on multiple crises.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982131739.jpg",
+			"name": "RAGE",
+			"publisher": "Simon & Schuster",
+			"rank": 4
+		},
+		{
+			"author": "by Isabel Wilkerson",
+			"description": "The Pulitzer Prize-winning journalist examines aspects of caste systems across civilizations and reveals a rigid hierarchy in America today.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593230251.jpg",
+			"name": "CASTE",
+			"publisher": "Random House",
+			"rank": 5
+		},
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "The ninth book in the conservative commentator\u2019s Killing series focuses on conflicts with Native Americans.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781627797047.jpg",
+			"name": "KILLING CRAZY HORSE",
+			"publisher": "Holt",
+			"rank": 6
+		},
+		{
+			"author": "by Candace Owens",
+			"description": "The conservative commentator makes her case that Black Americans should part ways with the Democratic Party.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982133276.jpg",
+			"name": "BLACKOUT",
+			"publisher": "Threshold Editions",
+			"rank": 7
+		},
+		{
+			"author": "by John O. Brennan",
+			"description": "The former C.I.A. director recounts key moments from his career and evaluates national security policies and actions.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250241771.jpg",
+			"name": "UNDAUNTED",
+			"publisher": "Celadon",
+			"rank": 8
+		},
+		{
+			"author": "by Mariah Carey with Michaela Angela Davis",
+			"description": "The career highlights, public life and private struggles of the singer and songwriter.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250164681.jpg",
+			"name": "THE MEANING OF MARIAH CAREY",
+			"publisher": "Andy Cohen/Holt",
+			"rank": 9
+		},
+		{
+			"author": "by Glennon Doyle",
+			"description": "The activist and public speaker describes her journey of listening to her inner voice.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984801258.jpg",
+			"name": "UNTAMED",
+			"publisher": "Dial",
+			"rank": 10
+		},
+		{
+			"author": "by Ted Cruz",
+			"description": "The Republican senator from Texas gives his views on what might happen if liberals gain a simple majority on the Supreme Court.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781684511341.jpg",
+			"name": "ONE VOTE AWAY",
+			"publisher": "Regnery",
+			"rank": 11
+		},
+		{
+			"author": "by Fareed Zakaria",
+			"description": "The CNN host posits what might happen on the other side of the Covid-19 pandemic.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780393542134.jpg",
+			"name": "TEN LESSONS FOR A POST-PANDEMIC WORLD",
+			"publisher": "Norton",
+			"rank": 12
+		},
+		{
+			"author": "by Pete Buttigieg",
+			"description": "The former mayor of South Bend and 2020 Democratic presidential candidate prescribes ways to restore what he considers an essential element of America\u2019s democracy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781631498770.jpg",
+			"name": "TRUST",
+			"publisher": "Liveright",
+			"rank": 13
+		},
+		{
+			"author": "by Robin DiAngelo",
+			"description": "Historical and cultural analyses on what causes defensive moves by white people and how this inhibits cross-racial dialogue.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780807047415.jpg",
+			"name": "WHITE FRAGILITY",
+			"publisher": "Beacon Press",
+			"rank": 14
+		},
+		{
+			"author": "by Lenny Kravitz with David Ritz",
+			"description": "The musician reflects on how opposing elements created balance in his life.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250113085.jpg",
+			"name": "LET LOVE RULE",
+			"publisher": "Holt",
+			"rank": 15
+		}
+	]
+}

@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by David Lagercrantz",
+			"description": "Mikael Blomkvist and Lisbeth Salander are back in this continuation of Steig Larsson's Millennium series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385354288.jpg",
+			"name": "THE GIRL IN THE SPIDER'S WEB",
+			"publisher": "Knopf",
+			"rank": 1
+		},
+		{
+			"author": "by Andy Weir",
+			"description": "Abandoned by his crew, an astronaut embarks on a dogged quest to stay alive.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780804139038.jpg",
+			"name": "THE MARTIAN",
+			"publisher": "Crown",
+			"rank": 2
+		},
+		{
+			"author": "by Paula Hawkins",
+			"description": "A psychological thriller set in the environs of London is full of complications and betrayals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781594633669.jpg",
+			"name": "THE GIRL ON THE TRAIN",
+			"publisher": "Riverhead",
+			"rank": 3
+		},
+		{
+			"author": "by Jonathan Franzen",
+			"description": "A debt-crushed woman named Pip becomes involved with a WikiLeaks-style organization.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780374239213.jpg",
+			"name": "PURITY",
+			"publisher": "Farrar, Straus & Giroux",
+			"rank": 4
+		},
+		{
+			"author": "by Danielle Steel",
+			"description": "A woman recovering from an act of violence in Buenos Aires crosses paths with a D.E.A. agent in Paris, and both are in danger.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780804179638.jpg",
+			"name": "UNDERCOVER",
+			"publisher": "Delacorte",
+			"rank": 5
+		},
+		{
+			"author": "by Clive Cussler and Russell Blake",
+			"description": "The wealthy couple Sam and Remi Fargo investigate a dangerous legend in the Solomon Islands.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698192096.jpg",
+			"name": "THE SOLOMON CURSE",
+			"publisher": "Putnam",
+			"rank": 6
+		},
+		{
+			"author": "by Chuck Wendig",
+			"description": "In this continuation of the 'Star Wars' series, the Imperial elite haven't reckoned on the former rebel fighter Norra Wexley.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780804177665.jpg",
+			"name": "STAR WARS: AFTERMATH",
+			"publisher": "Del Ray",
+			"rank": 7
+		},
+		{
+			"author": "by Sue Grafton",
+			"description": "A variety of X\u2019s lead Kinsey Millhone into deep secrets and a cold case.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399163845.jpg",
+			"name": "X",
+			"publisher": "Marian Wood/Putnam",
+			"rank": 8
+		},
+		{
+			"author": "by Christine Feehan",
+			"description": "A vampire slayer disappears in the Carpathians.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698180536.jpg",
+			"name": "DARK GHOST",
+			"publisher": "Berkley",
+			"rank": 9
+		},
+		{
+			"author": "by Harper Lee",
+			"description": "In the mid-1950s, a grown-up Jean Louise Finch returns to Maycomb and realizes that her adored father is a racist.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062409850.jpg",
+			"name": "GO SET A WATCHMAN",
+			"publisher": "Harper",
+			"rank": 10
+		},
+		{
+			"author": "by Sandra Brown",
+			"description": "A Texas Ranger fights for custody of his daughter amid complications stemming from his attraction to the judge.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455581160.jpg",
+			"name": "FRICTION",
+			"publisher": "Grand Central",
+			"rank": 11
+		},
+		{
+			"author": "by John Grisham",
+			"description": "A downsized Wall Street lawyer joins a legal clinic in a small Virginia town, and litigates against the coal-mining industry.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385537148.jpg",
+			"name": "GRAY MOUNTAIN",
+			"publisher": "Doubleday",
+			"rank": 12
+		},
+		{
+			"author": "by Lee Child",
+			"description": "In an e-book short story set in 1989, Jack Reacher must solve the murder of a young officer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780804178846.jpg",
+			"name": "SMALL WARS",
+			"publisher": "Delacorte",
+			"rank": 13
+		},
+		{
+			"author": "by Anthony Doerr",
+			"description": "The lives of a blind French girl and a gadget-obsessed German boy before and during World War II; the winner of the 2015 Pulitzer Prize.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476746586.jpg",
+			"name": "ALL THE LIGHT WE CANNOT SEE",
+			"publisher": "Scribner",
+			"rank": 14
+		},
+		{
+			"author": "by Mary Balogh",
+			"description": "An earl returns to his manor in Cornwall to find a reclusive widow in residence.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698156104.jpg",
+			"name": "ONLY A KISS",
+			"publisher": "Signet",
+			"rank": 15
+		}
+	]
+}

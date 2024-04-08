@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Donna Tartt",
+			"description": "A painting smuggled out of the Metropolitan Museum of Art after a bombing becomes a boy\u2019s prize, guilt and burden.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316248679.jpg",
+			"name": "THE GOLDFINCH",
+			"publisher": "Little, Brown",
+			"rank": 1
+		},
+		{
+			"author": "by Sue Monk Kidd",
+			"description": "The relationship between a wealthy Charleston girl, Sarah Grimk\u00e9, who will grow up to become a prominent abolitionist, and the slave she is given for her 11th birthday.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780670024780.jpg",
+			"name": "THE INVENTION OF WINGS",
+			"publisher": "Viking",
+			"rank": 2
+		},
+		{
+			"author": "by Maya Banks",
+			"description": "A widow and her late husband\u2019s best friend encounter each other in a club devoted to the darker edges of desire.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698148161.jpg",
+			"name": "LETTING GO",
+			"publisher": "Berkley",
+			"rank": 3
+		},
+		{
+			"author": "by John Grisham",
+			"description": "A sequel, about race and inheritance, to \u201cA Time to Kill.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385537926.jpg",
+			"name": "SYCAMORE ROW",
+			"publisher": "Doubleday",
+			"rank": 4
+		},
+		{
+			"author": "by J. Lynn",
+			"description": "As tragedy strikes a college campus, a star-crossed couple must decide what they are willing to risk to be together.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062294791.jpg",
+			"name": "BE WITH ME",
+			"publisher": "Morrow/HarperCollins",
+			"rank": 5
+		},
+		{
+			"author": "by Liane Moriarty",
+			"description": "A woman\u2019s life is upended when she discovers a letter from her husband she was not meant to read.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101636237.jpg",
+			"name": "THE HUSBAND'S SECRET",
+			"publisher": "Amy Einhorn/Putnam",
+			"rank": 6
+		},
+		{
+			"author": "by David Baldacci",
+			"description": "In this short story, the government assassin Will Robie is caught in the crossfire with Oliver Stone and the Camel Club.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455557288.jpg",
+			"name": "BULLSEYE",
+			"publisher": "Grand Central",
+			"rank": 7
+		},
+		{
+			"author": "by H. M. Ward",
+			"description": "A glimpse into Sean Ferro\u2019s mind; the Ferro Family erotic series continues.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781630350147.jpg",
+			"name": "THE ARRANGEMENT 13",
+			"publisher": "Laree Bailey",
+			"rank": 8
+		},
+		{
+			"author": "by Anna Quindlen",
+			"description": "An aging photographer rents a rural cottage and discovers sparks of creativity and desire.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812995756.jpg",
+			"name": "STILL LIFE WITH BREAD CRUMBS",
+			"publisher": "Random House",
+			"rank": 9
+		},
+		{
+			"author": "by Kristen Ashley",
+			"description": "Emme Holmes catches the P.I. Jacob Decker off guard when she walks back into his life after nine years.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455599158.jpg",
+			"name": "KALEIDOSCOPE",
+			"publisher": "Forever",
+			"rank": 10
+		},
+		{
+			"author": "by Lora Leigh",
+			"description": "A Lion Breed and enforcer uncharacteristically breaks the rules for a human woman; a novel of the Breeds.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101612491.jpg",
+			"name": "RULE BREAKER",
+			"publisher": "Berkley",
+			"rank": 11
+		},
+		{
+			"author": "by Christina Baker Kline",
+			"description": "A historical novel about orphans swept off the streets of New York and sent to the Midwest in the 1920s.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062101204.jpg",
+			"name": "ORPHAN TRAIN",
+			"publisher": "Morrow/HarperCollins",
+			"rank": 12
+		},
+		{
+			"author": "by James Patterson and Emily Raymond",
+			"description": "Sixteen-year-old Axi Moore invites her best friend, whom she secretly loves, on a cross-country road trip.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316207041.jpg",
+			"name": "FIRST LOVE",
+			"publisher": "Little, Brown",
+			"rank": 13
+		},
+		{
+			"author": "by Marie Force",
+			"description": "A website designer finds herself caught up in a family dispute over a country store; a Green Mountain romance.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101636350.jpg",
+			"name": "ALL YOU NEED IS LOVE",
+			"publisher": "Berkley Sensation",
+			"rank": 14
+		},
+		{
+			"author": "by Joyce Maynard",
+			"description": "One holiday weekend in New Hampshire, the lives of a single mother and her son are irrevocably changed when they show kindness to a stranger with a terrible secret. Originally published in 2009; now a movie.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780061843419.jpg",
+			"name": "LABOR DAY",
+			"publisher": "HarperCollins",
+			"rank": 15
+		}
+	]
+}

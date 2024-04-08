@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Jesse Watters",
+			"description": "The Fox News host recounts his career and prescribes ways to defend against what he considers left-wing radicalism.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063049086.jpg",
+			"name": "HOW I SAVED THE WORLD",
+			"publisher": "Broadside",
+			"rank": 1
+		},
+		{
+			"author": "by Michael Pollan",
+			"description": "A look at arbitrary beliefs surrounding opium, caffeine and mescaline, which are derived from plants.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593296905.jpg",
+			"name": "THIS IS YOUR MIND ON PLANTS",
+			"publisher": "Penguin Press",
+			"rank": 2
+		},
+		{
+			"author": "by Bessel van der Kolk",
+			"description": "How trauma affects the body and mind, and innovative treatments for recovery.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780670785933.jpg",
+			"name": "THE BODY KEEPS THE SCORE",
+			"publisher": "Penguin",
+			"rank": 3
+		},
+		{
+			"author": "by Danny Trejo with Donal Logue",
+			"description": "The screen actor describes how his past, which includes heroin addiction and prison time, has informed some of his roles.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982150822.jpg",
+			"name": "TREJO",
+			"publisher": "Atria",
+			"rank": 4
+		},
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "The 10th book in the conservative commentator\u2019s Killing series looks at organized crime in the United States during the 20th century.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250273659.jpg",
+			"name": "KILLING THE MOB",
+			"publisher": "St. Martin's",
+			"rank": 5
+		},
+		{
+			"author": "by Glennon Doyle",
+			"description": "The activist and public speaker describes her journey of listening to her inner voice.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984801258.jpg",
+			"name": "UNTAMED",
+			"publisher": "Dial",
+			"rank": 6
+		},
+		{
+			"author": "by Matthew McConaughey",
+			"description": "The Academy Award-winning actor shares snippets from the diaries he kept over the last 35 years.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593139134.jpg",
+			"name": "GREENLIGHTS",
+			"publisher": "Crown",
+			"rank": 7
+		},
+		{
+			"author": "by Catherine Raven",
+			"description": "A former national park ranger details her friendship with a wild fox in an isolated part of Montana.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781954118003.jpg",
+			"name": "FOX AND I",
+			"publisher": "Spiegel & Grau",
+			"rank": 8
+		},
+		{
+			"author": "by Malcolm Gladwell",
+			"description": "A look at the key players and outcomes of precision bombing during World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316296618.jpg",
+			"name": "THE BOMBER MAFIA",
+			"publisher": "Little, Brown",
+			"rank": 9
+		},
+		{
+			"author": "by Bryan Burrough, Chris Tomlinson and Jason Stanford",
+			"description": "A re-examination of the events of the Battle of the Alamo that challenges a commonly understood version of them.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984880093.jpg",
+			"name": "FORGET THE ALAMO",
+			"publisher": "Penguin Press",
+			"rank": 10
+		},
+		{
+			"author": "by Isabel Wilkerson",
+			"description": "The Pulitzer Prize-winning journalist examines aspects of caste systems across civilizations and reveals a rigid hierarchy in America today.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593230251.jpg",
+			"name": "CASTE",
+			"publisher": "Random House",
+			"rank": 11
+		},
+		{
+			"author": "by Bruce D. Perry and Oprah Winfrey",
+			"description": "An approach to dealing with trauma that shifts an essential question used to investigate it.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250223180.jpg",
+			"name": "WHAT HAPPENED TO YOU?",
+			"publisher": "Flatiron",
+			"rank": 12
+		},
+		{
+			"author": "by Michael Lewis",
+			"description": "Stories of skeptics who went against the official response of the Trump administration to the outbreak of Covid-19. The profiles include a local public-health officer and a group of doctors nicknamed the Wolverines.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780393881554.jpg",
+			"name": "THE PREMONITION",
+			"publisher": "Norton",
+			"rank": 13
+		},
+		{
+			"author": "by Robin Wall Kimmerer",
+			"description": "A botanist and member of the Citizen Potawatomi Nation espouses having an understanding and appreciation of plants and animals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781571313560.jpg",
+			"name": "BRAIDING SWEETGRASS",
+			"publisher": "Milkweed Editions",
+			"rank": 14
+		},
+		{
+			"author": "by Michelle Zauner",
+			"description": "The daughter of a Korean mother and Jewish-American father, and leader of the indie rock project Japanese Breakfast, describes creating her own identity after losing her mother to cancer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525657743.jpg",
+			"name": "CRYING IN H MART",
+			"publisher": "Knopf",
+			"rank": 15
+		}
+	]
+}

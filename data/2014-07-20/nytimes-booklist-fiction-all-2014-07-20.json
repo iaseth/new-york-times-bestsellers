@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by James Patterson and David Ellis",
+			"description": "Searching for her sister\u2019s killer, a former F.B.I. researcher finds a link between scores of unsolved cases.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316405409.jpg",
+			"name": "INVISIBLE",
+			"publisher": "Little, Brown",
+			"rank": 1
+		},
+		{
+			"author": "by Janet Evanovich",
+			"description": "The New Jersey bounty hunter Stephanie Plum pursues a dealer who sells more than used cars.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345542946.jpg",
+			"name": "TOP SECRET TWENTY-ONE",
+			"publisher": "Bantam",
+			"rank": 2
+		},
+		{
+			"author": "by Robert Galbraith",
+			"description": "The private detective Cormoran Strike steps in when the author of a roman \u00e0 clef set in literary London is murdered; by J.\u2009K. Rowling, writing pseudonymously.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316206914.jpg",
+			"name": "THE SILKWORM",
+			"publisher": "Mulholland/Little, Brown",
+			"rank": 3
+		},
+		{
+			"author": "by Jamie McGuire",
+			"description": "Just when Trenton Maddox thinks his life is returning to normal, he sets eyes on Cami Camlin; a Maddox Brothers novel.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476759593.jpg",
+			"name": "BEAUTIFUL OBLIVION",
+			"publisher": "Atria",
+			"rank": 4
+		},
+		{
+			"author": "by Dean Koontz",
+			"description": "A musician, part of a famous family, looks back over the events of his life, beginning during his childhood in the 1960s.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345545947.jpg",
+			"name": "THE CITY",
+			"publisher": "Bantam",
+			"rank": 5
+		},
+		{
+			"author": "by Donna Tartt",
+			"description": "A painting smuggled out of the Metropolitan Museum of Art after a bombing becomes a boy\u2019s prize, guilt and burden.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316248679.jpg",
+			"name": "THE GOLDFINCH",
+			"publisher": "Little, Brown",
+			"rank": 6
+		},
+		{
+			"author": "by Dean Koontz",
+			"description": "In 1967, a secretive new neighbor takes up residence next door to a young brother and sister in a troubled family; an e-book short-story prequel to \"The City.\"",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780804180672.jpg",
+			"name": "THE NEIGHBOR",
+			"publisher": "Bantam",
+			"rank": 7
+		},
+		{
+			"author": "by Gillian Flynn",
+			"description": "A woman disappears on the day of her fifth anniversary; is her husband a killer?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307588388.jpg",
+			"name": "GONE GIRL",
+			"publisher": "Crown",
+			"rank": 8
+		},
+		{
+			"author": "by Raine Miller, Cathryn Fox and others",
+			"description": "A collection of 16 steamy stories.",
+			"imageSrc": "https://s1.nyt.com/du/books/images/default-image.png",
+			"name": "SPICE BOX",
+			"publisher": "Various publishers",
+			"rank": 9
+		},
+		{
+			"author": "by Stephen King",
+			"description": "A driver plows into a crowd at a job fair, killing eight. The killer then taunts a suicidal ex-cop, who must stop a deadlier attack.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781476754468.jpg",
+			"name": "MR. MERCEDES",
+			"publisher": "Scribner",
+			"rank": 10
+		},
+		{
+			"author": "by Jennifer Weiner",
+			"description": "A woman becomes addicted to pain medication.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781451617801.jpg",
+			"name": "ALL FALL DOWN",
+			"publisher": "Atria",
+			"rank": 11
+		},
+		{
+			"author": "by Mary Balogh",
+			"description": "After the Napoleonic wars, a hopeful widow and a resilient war hero discover the promise of love\u2019s magic and new beginnings.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345535917.jpg",
+			"name": "THE ESCAPE",
+			"publisher": "Dell",
+			"rank": 12
+		},
+		{
+			"author": "by Jojo Moyes",
+			"description": "An obnoxious tech millionaire comes to the rescue of a single mom and her kids heading for a math contest.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698152007.jpg",
+			"name": "ONE PLUS ONE",
+			"publisher": "Pamela Dorman/Viking",
+			"rank": 13
+		},
+		{
+			"author": "by Christina Baker Kline",
+			"description": "A historical novel about orphans swept off the streets of New York and sent to the Midwest in the 1920s.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062101204.jpg",
+			"name": "ORPHAN TRAIN",
+			"publisher": "Morrow/HarperCollins",
+			"rank": 14
+		},
+		{
+			"author": "by Diana Gabaldon",
+			"description": "In the eighth Outlander time-traveling romance, Jamie Fraser and his family face challenges in the 18th and 20th centuries.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780440246442.jpg",
+			"name": "WRITTEN IN MY OWN HEART'S BLOOD",
+			"publisher": "Delacorte",
+			"rank": 15
+		}
+	]
+}

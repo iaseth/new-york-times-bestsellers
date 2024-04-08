@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "The host of \u201cThe O\u2019Reilly Factor\u201d recounts the events surrounding the attempted assassination of President Reagan in 1981.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781627792424.jpg",
+			"name": "KILLING REAGAN",
+			"publisher": "Holt",
+			"rank": 1
+		},
+		{
+			"author": "by Tyler Oakley",
+			"description": "Personal essays from the L.G.B.T.Q. YouTube personality.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501117718.jpg",
+			"name": "BINGE",
+			"publisher": "Gallery Books",
+			"rank": 2
+		},
+		{
+			"author": "by Ben Carson with Candy Carson",
+			"description": "A discussion of the Constitution by the candidate for the Republican presidential nomination.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781591848042.jpg",
+			"name": "A MORE PERFECT UNION",
+			"publisher": "Sentinel",
+			"rank": 3
+		},
+		{
+			"author": "by Jocko Willink and Leif Babin",
+			"description": "Applying the principles of Navy SEALs leadership training to any organization.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781466874961.jpg",
+			"name": "EXTREME OWNERSHIP",
+			"publisher": "St. Martin's",
+			"rank": 4
+		},
+		{
+			"author": "by Brandon Stanton",
+			"description": "More photographs, this time accompanied by interviews, from the creator of the blog and the book \u201cHumans of New York.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250058904.jpg",
+			"name": "HUMANS OF NEW YORK: STORIES",
+			"publisher": "St. Martin's",
+			"rank": 5
+		},
+		{
+			"author": "by Daniel James Brown",
+			"description": "The University of Washington\u2019s eight-oar crew and their quest for gold at the 1936 Berlin Olympics.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101622742.jpg",
+			"name": "THE BOYS IN THE BOAT",
+			"publisher": "Penguin",
+			"rank": 6
+		},
+		{
+			"author": "by Mindy Kaling",
+			"description": "More personal essays from the comedian and actress.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780804138154.jpg",
+			"name": "WHY NOT ME?",
+			"publisher": "Crown Archetype",
+			"rank": 7
+		},
+		{
+			"author": "by Dan Harris",
+			"description": "A co-anchor of \"Nightline\" reports on the science and spiritual dimensions of meditation and how it has improved his life.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062265425.jpg",
+			"name": "10% HAPPIER",
+			"publisher": "It Books",
+			"rank": 8
+		},
+		{
+			"author": "by Ta-Nehisi Coates",
+			"description": "A meditation on race in America as well as a personal story by the Atlantic's national correspondent.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780679645986.jpg",
+			"name": "BETWEEN THE WORLD AND ME",
+			"publisher": "Spiegel & Grau",
+			"rank": 9
+		},
+		{
+			"author": "by Bob Woodward",
+			"description": "More revelations from the Nixon White House, based on documents supplied by Alexander Butterfield, the aide who disclosed Nixon\u2019s taping system.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501116469.jpg",
+			"name": "THE LAST OF THE PRESIDENT'S MEN",
+			"publisher": "Simon & Schuster",
+			"rank": 10
+		},
+		{
+			"author": "by Sarah Vowell",
+			"description": "A look at the American Revolution through the lens of the Marquis de Lafayette",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101624012.jpg",
+			"name": "LAFAYETTE IN THE SOMEWHAT UNITED STATES",
+			"publisher": "Riverhead",
+			"rank": 11
+		},
+		{
+			"author": "by Patti Smith",
+			"description": "A meditation on art, loss and the past by the musician and author of \u201cJust Kids.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101875100.jpg",
+			"name": "M TRAIN",
+			"publisher": "Knopf",
+			"rank": 12
+		},
+		{
+			"author": "by Elvis Costello",
+			"description": "The musician describes his childhood, life and career.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399167256.jpg",
+			"name": "UNFAITHFUL MUSIC AND DISAPPEARING INK",
+			"publisher": "Blue Rider",
+			"rank": 13
+		},
+		{
+			"author": "by Patrick J. Kennedy and Stephen Fried",
+			"description": "The former Rhode Island representative describes his troubles with bipolar disorder and addiction and his subsequent advocacy for mental health care and research.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399173325.jpg",
+			"name": "A COMMON STRUGGLE",
+			"publisher": "Blue Rider",
+			"rank": 14
+		},
+		{
+			"author": "by Jenny Lawson",
+			"description": "A humorous treatment of the author\u2019s experience of depression and anxiety disorder.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250077004.jpg",
+			"name": "FURIOUSLY HAPPY",
+			"publisher": "Flatiron",
+			"rank": 15
+		}
+	]
+}

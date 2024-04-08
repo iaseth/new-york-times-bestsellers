@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Robin DiAngelo",
+			"description": "Historical and cultural analyses on what causes defensive moves by white people and how this inhibits cross-racial dialogue.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780807047415.jpg",
+			"name": "WHITE FRAGILITY",
+			"publisher": "Beacon Press",
+			"rank": 1
+		},
+		{
+			"author": "by Ijeoma Oluo",
+			"description": "A look at the contemporary racial landscape of the United States.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781580056786.jpg",
+			"name": "SO YOU WANT TO TALK ABOUT RACE",
+			"publisher": "Seal",
+			"rank": 2
+		},
+		{
+			"author": "by Ibram X. Kendi",
+			"description": "A primer for creating a more just and equitable society through identifying and opposing racism.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525509288.jpg",
+			"name": "HOW TO BE AN ANTIRACIST",
+			"publisher": "One World",
+			"rank": 3
+		},
+		{
+			"author": "by Ibram X. Kendi",
+			"description": "Winner of the 2016 National Book Award for nonfiction. A look at anti-black racist ideas and their effect on the course of American history.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781568584638.jpg",
+			"name": "STAMPED FROM THE BEGINNING",
+			"publisher": "Bold Type",
+			"rank": 4
+		},
+		{
+			"author": "by Chris Wallace with Mitch Weiss",
+			"description": "The Fox News Sunday anchor gives an account of the key people involved in and events leading up to America\u2019s attack on Hiroshima in 1945.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982143343.jpg",
+			"name": "COUNTDOWN 1945",
+			"publisher": "Avid Reader",
+			"rank": 5
+		},
+		{
+			"author": "by Beverly Daniel Tatum",
+			"description": "The president emerita of Spelman College examines whether self-segregation is a problem or a coping strategy.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780465060689.jpg",
+			"name": "WHY ARE ALL THE BLACK KIDS SITTING TOGETHER IN THE CAFETERIA?",
+			"publisher": "Basic",
+			"rank": 6
+		},
+		{
+			"author": "by Michelle Alexander",
+			"description": "A law professor takes aim at the \u201cwar on drugs,\u201d mass incarceration and their impact on black men.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781595586438.jpg",
+			"name": "THE NEW JIM CROW",
+			"publisher": "New Press",
+			"rank": 7
+		},
+		{
+			"author": "by Bryan Stevenson",
+			"description": "A law professor and MacArthur grant recipient\u2019s memoir of his decades of work to free innocent people condemned to death.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812994520.jpg",
+			"name": "JUST MERCY",
+			"publisher": "Spiegel & Grau",
+			"rank": 8
+		},
+		{
+			"author": "by Layla F. Saad",
+			"description": "Ways to understand and possibly counteract white privilege.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781728209807.jpg",
+			"name": "ME AND WHITE SUPREMACY",
+			"publisher": "Sourcebooks",
+			"rank": 9
+		},
+		{
+			"author": "by Richard Rothstein",
+			"description": "An examination of the ways in which the government caused residential segregation through racial zoning and other systemic practices.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781631494536.jpg",
+			"name": "THE COLOR OF LAW",
+			"publisher": "Liveright",
+			"rank": 10
+		},
+		{
+			"author": "by Ta-Nehisi Coates",
+			"description": "Winner of the 2015 National Book Award for nonfiction. A meditation on race in America as well as a personal\u2028 story, framed as a letter to the author's teenage son.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780679645986.jpg",
+			"name": "BETWEEN THE WORLD AND ME",
+			"publisher": "Spiegel & Grau",
+			"rank": 11
+		},
+		{
+			"author": "by Glennon Doyle",
+			"description": "The activist and public speaker describes her journey of listening to her inner voice.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984801258.jpg",
+			"name": "UNTAMED",
+			"publisher": "Dial",
+			"rank": 12
+		},
+		{
+			"author": "by Michelle Obama",
+			"description": "The former first lady describes her journey from the South Side of Chicago to the White House, and how she balanced work, family and her husband\u2019s political ascent.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524763138.jpg",
+			"name": "BECOMING",
+			"publisher": "Crown",
+			"rank": 13
+		},
+		{
+			"author": "by Erik Larson",
+			"description": "An examination of the leadership of the prime minister Winston Churchill.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385348713.jpg",
+			"name": "THE SPLENDID AND THE VILE",
+			"publisher": "Crown",
+			"rank": 14
+		},
+		{
+			"author": "by Trevor Noah",
+			"description": "A memoir about growing up biracial in apartheid South Africa by the host of \u201cThe Daily Show.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399588181.jpg",
+			"name": "BORN A CRIME",
+			"publisher": "Spiegel & Grau",
+			"rank": 15
+		}
+	]
+}

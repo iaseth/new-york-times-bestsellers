@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Michelle Obama",
+			"description": "The former first lady describes her journey from the South Side of Chicago to the White House, and how she balanced work, family and her husband\u2019s political ascent.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524763138.jpg",
+			"name": "BECOMING",
+			"publisher": "Crown",
+			"rank": 1
+		},
+		{
+			"author": "by Tara Westover",
+			"description": "The daughter of survivalists, who is kept out of school, educates herself enough to leave home for university.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399590504.jpg",
+			"name": "EDUCATED",
+			"publisher": "Random House",
+			"rank": 2
+		},
+		{
+			"author": "by John Carreyrou",
+			"description": "The rise and fall of Theranos, the biotech startup that failed to deliver on its promise to make blood testing more efficient.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781524731663.jpg",
+			"name": "BAD BLOOD",
+			"publisher": "Knopf",
+			"rank": 3
+		},
+		{
+			"author": "by Trevor Noah",
+			"description": "A memoir about growing up biracial in apartheid South Africa by the host of \u201cThe Daily Show.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399588181.jpg",
+			"name": "BORN A CRIME",
+			"publisher": "Spiegel & Grau",
+			"rank": 4
+		},
+		{
+			"author": "by Frans de Waal",
+			"description": "The death of a chimpanzee matriarch frames a broader look into the world of animal and human emotions.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780393635065.jpg",
+			"name": "MAMA'S LAST HUG",
+			"publisher": "Norton",
+			"rank": 5
+		},
+		{
+			"author": "by David Wallace-Wells",
+			"description": "How climate-related crises may cause food shortages, refugee emergencies and other catastrophes.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525576709.jpg",
+			"name": "THE UNINHABITABLE EARTH",
+			"publisher": "Tim Duggan",
+			"rank": 6
+		},
+		{
+			"author": "by Yuval Noah Harari",
+			"description": "How Homo sapiens became Earth\u2019s dominant species.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062316097.jpg",
+			"name": "SAPIENS",
+			"publisher": "Harper",
+			"rank": 7
+		},
+		{
+			"author": "by Patrick Radden Keefe",
+			"description": "A look at the conflict in Northern Ireland known as the Troubles.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385521314.jpg",
+			"name": "SAY NOTHING",
+			"publisher": "Doubleday",
+			"rank": 8
+		},
+		{
+			"author": "by Andrew G. McCabe",
+			"description": "The former deputy director of the F.B.I. describes major events of his career and the ways the agency works to protect Americans.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250207579.jpg",
+			"name": "THE THREAT",
+			"publisher": "St. Martin's",
+			"rank": 9
+		},
+		{
+			"author": "by Victor Davis Hanson",
+			"description": "A defense stating that the current president adopted several traditional conservative positions.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781541673540.jpg",
+			"name": "THE CASE FOR TRUMP",
+			"publisher": "Basic",
+			"rank": 10
+		},
+		{
+			"author": "by Charles Duhigg",
+			"description": "An examination of the science behind habits, how we form them and break them.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812981605.jpg",
+			"name": "THE POWER OF HABIT",
+			"publisher": "Random House",
+			"rank": 11
+		},
+		{
+			"author": "by Adam Makos",
+			"description": "An American tank gunner faces enemies in Cologne, Germany, during World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780804176729.jpg",
+			"name": "SPEARHEAD",
+			"publisher": "Ballantine",
+			"rank": 12
+		},
+		{
+			"author": "by Janice Dean",
+			"description": "The \"Fox & Friends\" meteorologist describes overcoming sexist bosses and health issues.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062877574.jpg",
+			"name": "MOSTLY SUNNY",
+			"publisher": "Harper",
+			"rank": 13
+		},
+		{
+			"author": "by Lynne Olson",
+			"description": "A 31-year-old French mother led an intelligence organization that worked against Hitler and the Gestapo.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812994766.jpg",
+			"name": "MADAME FOURCADE'S SECRET WAR",
+			"publisher": "Random House",
+			"rank": 14
+		},
+		{
+			"author": "by Olivia Newton-John",
+			"description": "The Grammy Award-winner discusses her success in music and movies, and how she contended with recurrent breast cancer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982122249.jpg",
+			"name": "DON'T STOP BELIEVIN'",
+			"publisher": "Gallery",
+			"rank": 15
+		}
+	]
+}

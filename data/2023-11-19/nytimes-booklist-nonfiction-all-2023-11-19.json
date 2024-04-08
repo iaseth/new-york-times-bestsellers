@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Britney Spears",
+			"description": "The Grammy Award-winning pop star details her personal and professional experiences, including the years she spent under a conservatorship overseen by her father.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781668009048.jpg",
+			"name": "THE WOMAN IN ME",
+			"publisher": "Gallery",
+			"rank": 1
+		},
+		{
+			"author": "by Matthew Perry",
+			"description": "The late actor, known for playing Chandler Bing on \u201cFriends,\u201d shares stories from his childhood and his struggles with sobriety.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250866448.jpg",
+			"name": "FRIENDS, LOVERS, AND THE BIG TERRIBLE THING",
+			"publisher": "Flatiron",
+			"rank": 2
+		},
+		{
+			"author": "by David Grann",
+			"description": "The story of a murder spree in 1920s Oklahoma that targeted Osage Indians, whose lands contained oil.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385534246.jpg",
+			"name": "KILLERS OF THE FLOWER MOON",
+			"publisher": "Doubleday",
+			"rank": 3
+		},
+		{
+			"author": "by Henry Winkler with James Kaplan",
+			"description": "The Emmy Award-winning actor shares how playing roles such as the Fonz and his struggles with dyslexia affected his life.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250888099.jpg",
+			"name": "BEING HENRY",
+			"publisher": "Celadon",
+			"rank": 4
+		},
+		{
+			"author": "by Peter Attia with Bill Gifford",
+			"description": "A look at recent scientific research on aging and longevity.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593236598.jpg",
+			"name": "OUTLIVE",
+			"publisher": "Harmony",
+			"rank": 5
+		},
+		{
+			"author": "by Rachel Maddow",
+			"description": "The MSNBC host and co-author of \u201cBag Man\u201d details a campaign to overthrow the U.S. government and install authoritarian rule prior to and during our involvement in World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593444511.jpg",
+			"name": "PREQUEL",
+			"publisher": "Crown",
+			"rank": 6
+		},
+		{
+			"author": "by Walter Isaacson",
+			"description": "The author of \u201cThe Code Breaker\u201d traces Musk\u2019s life and summarizes his work on electric vehicles, private space exploration and artificial intelligence.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982181284.jpg",
+			"name": "ELON MUSK",
+			"publisher": "Simon & Schuster",
+			"rank": 7
+		},
+		{
+			"author": "by Adam Kinzinger with Michael D\u2019Antonio",
+			"description": "The former congressman from Illinois gives an account of his time serving in the military and on the Jan. 6 committee.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593654163.jpg",
+			"name": "RENEGADE",
+			"publisher": "The Open Field",
+			"rank": 8
+		},
+		{
+			"author": "by Bessel van der Kolk",
+			"description": "How trauma affects the body and mind, and innovative treatments for recovery.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780670785933.jpg",
+			"name": "THE BODY KEEPS THE SCORE",
+			"publisher": "Penguin",
+			"rank": 9
+		},
+		{
+			"author": "by McKay Coppins",
+			"description": "A staff writer at The Atlantic profiles the Republican senator from Utah and former governor of Massachusetts.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982196202.jpg",
+			"name": "ROMNEY",
+			"publisher": "Scribner",
+			"rank": 10
+		},
+		{
+			"author": "by Michael Lewis",
+			"description": "The author of \u201cThe Big Short\u201d and \u201cThe Premonition\u201d chronicles the rise and fall of Sam Bankman-Fried and FTX.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781324074335.jpg",
+			"name": "GOING INFINITE",
+			"publisher": "Norton",
+			"rank": 11
+		},
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "The 13th book in the conservative commentator\u2019s Killing series gives a portrayal of the events of 1692 and 1693 in Salem Village, Mass.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250283320.jpg",
+			"name": "KILLING THE WITCHES",
+			"publisher": "St. Martin's",
+			"rank": 12
+		},
+		{
+			"author": "by Rashid Khalidi",
+			"description": "An account of the history of settler colonialism and resistance, based on untapped archival materials and reports.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250787651.jpg",
+			"name": "THE HUNDRED YEARS' WAR ON PALESTINE",
+			"publisher": "Metropolitan",
+			"rank": 13
+		},
+		{
+			"author": "by David Grann",
+			"description": "The survivors of a shipwrecked British vessel on a secret mission during an imperial war with Spain have different accounts of events.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385534260.jpg",
+			"name": "THE WAGER",
+			"publisher": "Doubleday",
+			"rank": 14
+		},
+		{
+			"author": "by Heather Cox Richardson",
+			"description": "The historian and author of the newsletter \u201cLetters From an American\u201d shares her views on the current political moment.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593652961.jpg",
+			"name": "DEMOCRACY AWAKENING",
+			"publisher": "Viking",
+			"rank": 15
+		}
+	]
+}

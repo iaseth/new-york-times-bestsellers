@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by J. D. Robb",
+			"description": "Eve Dallas and her partner, Peabody, investigate a grocer\u2019s murder.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399157035.jpg",
+			"name": "TREACHERY IN DEATH",
+			"publisher": "Penguin Group",
+			"rank": 1
+		},
+		{
+			"author": "by Lisa Gardner",
+			"description": "A woman who survived a childhood abduction may have tricked the Massachusetts police sniper Bobby Dodge into killing her husband.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780553901139.jpg",
+			"name": "ALONE",
+			"publisher": "Random House",
+			"rank": 2
+		},
+		{
+			"author": "by Sara Gruen",
+			"description": "After his parents die in a car accident, young veterinary student \u2014 and an elephant \u2014 save a Depression-era circus.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781616200718.jpg",
+			"name": "WATER FOR ELEPHANTS",
+			"publisher": "Algonquin",
+			"rank": 3
+		},
+		{
+			"author": "by Kim Harrison",
+			"description": "The witch Rachel Morgan has three days to clear her name; Book 9 in the Hollows series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780061138065.jpg",
+			"name": "PALE DEMON",
+			"publisher": "HarperCollins",
+			"rank": 4
+		},
+		{
+			"author": "by Stieg Larsson",
+			"description": "A hacker and a journalist investigate the disappearance of a Swedish heiress 40 years earlier.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307949486.jpg",
+			"name": "THE GIRL WITH THE DRAGON TATTOO",
+			"publisher": "Knopf Doubleday",
+			"rank": 5
+		},
+		{
+			"author": "by James Patterson and Michael Ledwidge",
+			"description": "The New York detective Michael Bennett enlists the help of a former colleague to solve a rash of horrifying crimes that are throwing the city into chaos.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780446584333.jpg",
+			"name": "TICK TOCK",
+			"publisher": "Little, Brown",
+			"rank": 6
+		},
+		{
+			"author": "by Stieg Larsson",
+			"description": "In the second volume of the Millennium trilogy, a Swedish hacker becomes a murder suspect.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307476159.jpg",
+			"name": "THE GIRL WHO PLAYED WITH FIRE",
+			"publisher": "Knopf Doubleday",
+			"rank": 7
+		},
+		{
+			"author": "by Stieg Larsson",
+			"description": "The third volume of the Millennium trilogy, about a Swedish hacker and a journalist.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307593672.jpg",
+			"name": "THE GIRL WHO KICKED THE HORNET\u2019S NEST",
+			"publisher": "Knopf Doubleday",
+			"rank": 8
+		},
+		{
+			"author": "by Douglas Preston and Lincoln Child",
+			"description": "Gideon Crew avenges his father\u2019s death and is sent on a mission by a government contractor.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780446564311.jpg",
+			"name": "GIDEON\u2019S SWORD",
+			"publisher": "Grand Central",
+			"rank": 9
+		},
+		{
+			"author": "by Deborah Harkness",
+			"description": "The recovery of a lost ancient manuscript in a library at Oxford sets a fantastical underworld stirring.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101475690.jpg",
+			"name": "A DISCOVERY OF WITCHES",
+			"publisher": "Penguin Group",
+			"rank": 10
+		},
+		{
+			"author": "by Jeaniene Frost",
+			"description": "Cat Crawfield and her vampire husband, Bones, are forced to seek help from a dangerous \u201cally.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780061783180.jpg",
+			"name": "THIS SIDE OF THE GRAVE",
+			"publisher": "HarperCollins",
+			"rank": 11
+		},
+		{
+			"author": "by Abraham Verghese",
+			"description": "Twin brothers, conjoined at birth and then separated, grow up amid the political turmoil of Ethiopia.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780375714368.jpg",
+			"name": "CUTTING FOR STONE",
+			"publisher": "Knopf Doubleday",
+			"rank": 12
+		},
+		{
+			"author": "by Linda Lael Miller",
+			"description": "Steven Creed becomes the guardian of a 5-year-old boy, trading his law firm for a ranch near his McKettrick family in Stone Creek, Ariz.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781426887697.jpg",
+			"name": "A CREED IN STONE CREEK",
+			"publisher": "Harlequin",
+			"rank": 13
+		},
+		{
+			"author": "by Robyn Carr",
+			"description": "Disillusioned and burned out as a chef, Kelly Matlock retreats to her sister\u2019s house in Virgin River, where she meets a handsome widower and his rebellious stepdaughter.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780778329428.jpg",
+			"name": "HARVEST MOON",
+			"publisher": "Harlequin",
+			"rank": 14
+		},
+		{
+			"author": "by Kathryn Stockett",
+			"description": "A young white woman and two black maids in 1960s Mississippi.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781440697661.jpg",
+			"name": "THE HELP",
+			"publisher": "Penguin Group",
+			"rank": 15
+		}
+	]
+}

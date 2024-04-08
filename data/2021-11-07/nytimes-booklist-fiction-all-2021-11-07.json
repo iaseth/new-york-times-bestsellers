@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by John Grisham",
+			"description": "The second book in the Whistler series. Investigator Lacy Stoltz goes after a serial killer and closes in on a sitting judge.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385546027.jpg",
+			"name": "THE JUDGE'S LIST",
+			"publisher": "Doubleday",
+			"rank": 1
+		},
+		{
+			"author": "by Amor Towles",
+			"description": "Two friends who escaped from a juvenile work farm take Emmett Watson on an unexpected journey to New York City in 1954.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735222359.jpg",
+			"name": "THE LINCOLN HIGHWAY",
+			"publisher": "Viking",
+			"rank": 2
+		},
+		{
+			"author": "by Nicholas Sparks",
+			"description": "Maggie Dawes, a renowned travel photographer, struggles with a medical diagnosis over Christmas.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538728628.jpg",
+			"name": "THE WISH",
+			"publisher": "Grand Central",
+			"rank": 3
+		},
+		{
+			"author": "by Hillary Rodham Clinton and Louise Penny",
+			"description": "In the wake of the previous administration\u2019s mishandling of international affairs, the new Secretary of State Ellen Adams confronts interconnected global threats.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982173678.jpg",
+			"name": "STATE OF TERROR",
+			"publisher": "Simon & Schuster, St. Martin\u2019s",
+			"rank": 4
+		},
+		{
+			"author": "by Colleen Hoover",
+			"description": "A battered wife raised in a violent home attempts to halt the cycle of abuse.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501110375.jpg",
+			"name": "IT ENDS WITH US",
+			"publisher": "Atria",
+			"rank": 5
+		},
+		{
+			"author": "by Frank Herbert",
+			"description": "The 1965 science fiction novel that is the basis of several adaptations, including the recent film directed by Denis Villeneuve.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593438374.jpg",
+			"name": "DUNE",
+			"publisher": "Ace",
+			"rank": 6
+		},
+		{
+			"author": "by Liane Moriarty",
+			"description": "The Delaney siblings suspect their father of causing the disappearance of their mother.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250220257.jpg",
+			"name": "APPLES NEVER FALL",
+			"publisher": "Holt",
+			"rank": 7
+		},
+		{
+			"author": "by Debbie Macomber",
+			"description": "A special letter to Santa brings about hope, love and second chances for Lindy Carmichael.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781984818812.jpg",
+			"name": "DEAR SANTA",
+			"publisher": "Ballantine",
+			"rank": 8
+		},
+		{
+			"author": "by Anthony Doerr",
+			"description": "An interconnected cast of dreamers and outsiders are in dangerous and disparate settings past, present and future.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982168438.jpg",
+			"name": "CLOUD CUCKOO LAND",
+			"publisher": "Scribner",
+			"rank": 9
+		},
+		{
+			"author": "by Elizabeth Strout",
+			"description": "Lucy Barton joins her ex-husband on a trip to look into a family secret.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812989434.jpg",
+			"name": "OH WILLIAM!",
+			"publisher": "Random House",
+			"rank": 10
+		},
+		{
+			"author": "by Taylor Jenkins Reid",
+			"description": "A movie icon recounts stories of her loves and career to a struggling magazine writer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501161933.jpg",
+			"name": "THE SEVEN HUSBANDS OF EVELYN HUGO",
+			"publisher": "Washington Square/Atria",
+			"rank": 11
+		},
+		{
+			"author": "by Laura Dave",
+			"description": "Hannah Hall discovers truths about her missing husband and bonds with his daughter from a previous relationship.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501171345.jpg",
+			"name": "THE LAST THING HE TOLD ME",
+			"publisher": "Simon & Schuster",
+			"rank": 12
+		},
+		{
+			"author": "by Ali Hazelwood",
+			"description": "A young professor agrees to pretend to be a third-year Ph.D. candidate\u2019s boyfriend.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593336823.jpg",
+			"name": "THE LOVE HYPOTHESIS",
+			"publisher": "Berkley",
+			"rank": 13
+		},
+		{
+			"author": "by John Le Carr\u00e9",
+			"description": "A London spy chief\u2019s investigation brings him to a quiet seaside town where Julian Lawndsley has relocated and opened a bookstore.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593490594.jpg",
+			"name": "SILVERVIEW",
+			"publisher": "Viking",
+			"rank": 14
+		},
+		{
+			"author": "by Jeffrey Archer",
+			"description": "The fourth book in the William Warwick series. A detective and former undercover agent are at the center of three investigations.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780008476380.jpg",
+			"name": "OVER MY DEAD BODY",
+			"publisher": "HarperCollins",
+			"rank": 15
+		}
+	]
+}

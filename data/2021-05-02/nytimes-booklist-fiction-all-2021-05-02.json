@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by John Sandford",
+			"description": "The 31st book in the Prey series. When federal officers are killed, Lucas Davenport and Virgil Flowers team up to investigate matters.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593087022.jpg",
+			"name": "OCEAN PREY",
+			"publisher": "Putnam",
+			"rank": 1
+		},
+		{
+			"author": "by Amanda Gorman",
+			"description": "The poem read on President Joe Biden's Inauguration Day, by the youngest poet to write and perform an inaugural poem.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593465271.jpg",
+			"name": "THE HILL WE CLIMB",
+			"publisher": "Viking",
+			"rank": 2
+		},
+		{
+			"author": "by Jack Carr",
+			"description": "The fourth book in the Terminal List series. James Reece is given a top-secret C.I.A. mission.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982123741.jpg",
+			"name": "THE DEVIL'S HAND",
+			"publisher": "Emily Bestler/Atria",
+			"rank": 3
+		},
+		{
+			"author": "by Kristin Hannah",
+			"description": "As dust storms roll during the Great Depression, Elsa must choose between saving the family and farm or heading West.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250178602.jpg",
+			"name": "THE FOUR WINDS",
+			"publisher": "St. Martin's",
+			"rank": 4
+		},
+		{
+			"author": "by Delia Owens",
+			"description": "In a quiet town on the North Carolina coast in 1969, a young woman who survived alone in the marsh becomes a murder suspect.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780735219090.jpg",
+			"name": "WHERE THE CRAWDADS SING",
+			"publisher": "Putnam",
+			"rank": 5
+		},
+		{
+			"author": "by Matt Haig",
+			"description": "Nora Seed finds a library beyond the edge of the universe that contains books with multiple possibilities of the lives one could have lived.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525559474.jpg",
+			"name": "THE MIDNIGHT LIBRARY",
+			"publisher": "Viking",
+			"rank": 6
+		},
+		{
+			"author": "by Anne Hillerman",
+			"description": "Can Leaphorn give Chee and Manuelito the guidance they need to find the justice they seek?",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062908339.jpg",
+			"name": "STARGAZER",
+			"publisher": "Harper",
+			"rank": 7
+		},
+		{
+			"author": "by Sally Hepworth",
+			"description": "Past secrets come up when Fern decides to pay back her twin sister, Rose, by having a baby for her.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250120953.jpg",
+			"name": "THE GOOD SISTER",
+			"publisher": "St. Martin's",
+			"rank": 8
+		},
+		{
+			"author": "by James Patterson and David Ellis",
+			"description": "The second book in the Black Book thriller series. Chicago detective Billy Harney investigates his own past.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316499408.jpg",
+			"name": "THE RED BOOK",
+			"publisher": "Little, Brown",
+			"rank": 9
+		},
+		{
+			"author": "by Paula McLain",
+			"description": "Personal tragedy ushers a missing persons detective back to where she grew up and onto a new case.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593237892.jpg",
+			"name": "WHEN THE STARS GO DARK",
+			"publisher": "Ballantine",
+			"rank": 10
+		},
+		{
+			"author": "by Madeline Miller",
+			"description": "A reimagining of Homer\u2019s \u201cIliad\u201d that is narrated by Achilles' companion Patroclus.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062060624.jpg",
+			"name": "THE SONG OF ACHILLES",
+			"publisher": "Ecco",
+			"rank": 11
+		},
+		{
+			"author": "by Harlan Coben",
+			"description": "Windsor Horne Lockwood III might rectify cold cases connected to his family that have eluded the F.B.I. for decades.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538748213.jpg",
+			"name": "WIN",
+			"publisher": "Grand Central",
+			"rank": 12
+		},
+		{
+			"author": "by Kate Quinn",
+			"description": "As a post-World War II royal wedding approaches, an encrypted letter resurrects an alliance between three female code breakers.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062943477.jpg",
+			"name": "THE ROSE CODE",
+			"publisher": "Morrow",
+			"rank": 13
+		},
+		{
+			"author": "by Stephen King",
+			"description": "An N.Y.P.D. detective asks the son of a struggling single mother to use his unnatural ability to track a killer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781789096491.jpg",
+			"name": "LATER",
+			"publisher": "Hard Case Crime",
+			"rank": 14
+		},
+		{
+			"author": "by V.E. Schwab",
+			"description": "A Faustian bargain comes with a curse that affects the adventure Addie LaRue has across centuries.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780765387561.jpg",
+			"name": "THE INVISIBLE LIFE OF ADDIE LARUE",
+			"publisher": "Tor/Forge",
+			"rank": 15
+		}
+	]
+}

@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Elton John",
+			"description": "The multi-award-winning solo artist's first autobiography chronicles his career, relationships and private struggles.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250147608.jpg",
+			"name": "ME",
+			"publisher": "Holt",
+			"rank": 1
+		},
+		{
+			"author": "by Ronan Farrow",
+			"description": "The Pulitzer Prize-winning reporter details some surveillance and intimidation tactics used to pressure journalists and elude consequences by certain wealthy and connected men.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316486637.jpg",
+			"name": "CATCH AND KILL",
+			"publisher": "Little, Brown",
+			"rank": 2
+		},
+		{
+			"author": "by Rachel Maddow",
+			"description": "The MSNBC host argues that the global oil and gas industry has weakened democracies and bolstered authoritarians.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525575474.jpg",
+			"name": "BLOWOUT",
+			"publisher": "Crown",
+			"rank": 3
+		},
+		{
+			"author": "by Mike Rowe",
+			"description": "The television personality relays stories from his podcast and personal anecdotes.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982130855.jpg",
+			"name": "THE WAY I HEARD IT",
+			"publisher": "Gallery",
+			"rank": 4
+		},
+		{
+			"author": "by Bill Bryson",
+			"description": "An owner\u2019s manual of the human body covering various parts, functions and what happens when things go wrong.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780385539302.jpg",
+			"name": "THE BODY",
+			"publisher": "Doubleday",
+			"rank": 5
+		},
+		{
+			"author": "by Julie Andrews and Emma Walton Hamilton",
+			"description": "The musical theater icon's second installment of her memoir describes her arrival in Hollywood, becoming a mother and her relationship with Blake Edwards.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316349253.jpg",
+			"name": "HOME WORK",
+			"publisher": "Hachette",
+			"rank": 6
+		},
+		{
+			"author": "by Malcolm Gladwell",
+			"description": "Famous examples of miscommunication serve as the backdrop to explain potential conflicts and misunderstandings.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780316478526.jpg",
+			"name": "TALKING TO STRANGERS",
+			"publisher": "Little, Brown",
+			"rank": 7
+		},
+		{
+			"author": "by Ali Wong",
+			"description": "The comedian dispenses her brand of wisdom through letters to her children.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525508830.jpg",
+			"name": "DEAR GIRLS",
+			"publisher": "Random House",
+			"rank": 8
+		},
+		{
+			"author": "by Tara Westover",
+			"description": "The daughter of survivalists, who is kept out of school, educates herself enough to leave home for university.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399590504.jpg",
+			"name": "EDUCATED",
+			"publisher": "Random House",
+			"rank": 9
+		},
+		{
+			"author": "by Bill O'Reilly",
+			"description": "The conservative commentator weaves interviews and personal history to portray the power and influence of the 45th president.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250237224.jpg",
+			"name": "THE UNITED STATES OF TRUMP",
+			"publisher": "Holt",
+			"rank": 10
+		},
+		{
+			"author": "by Timothy Snyder",
+			"description": "Twenty lessons from the 20th century about the course of tyranny.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780804190114.jpg",
+			"name": "ON TYRANNY",
+			"publisher": "Tim Duggan",
+			"rank": 11
+		},
+		{
+			"author": "by Demi Moore",
+			"description": "The Hollywood star chronicles the rocky relationships, body image issues and public perceptions that affected her attempts to balance family and fame.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062049537.jpg",
+			"name": "INSIDE OUT",
+			"publisher": "Harper",
+			"rank": 12
+		},
+		{
+			"author": "by Hillary Rodham Clinton and Chelsea Clinton",
+			"description": "Profiles of women from around the world who have blazed trails and challenged the status quo.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501178412.jpg",
+			"name": "THE BOOK OF GUTSY WOMEN",
+			"publisher": "Simon & Schuster",
+			"rank": 13
+		},
+		{
+			"author": "by Amaryllis Fox",
+			"description": "When her writing mentor Daniel Pearl is captured and beheaded, an Oxford student's life changes course and she becomes a member of a clandestine ops unit of the C.I.A.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780525654971.jpg",
+			"name": "LIFE UNDERCOVER",
+			"publisher": "Knopf",
+			"rank": 14
+		},
+		{
+			"author": "by Kimberley Strassel",
+			"description": "The Wall Street Journal columnist makes her case that critics of President Trump are undermining our country's foundations.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538701775.jpg",
+			"name": "RESISTANCE (AT ALL COSTS)",
+			"publisher": "Twelve",
+			"rank": 15
+		}
+	]
+}

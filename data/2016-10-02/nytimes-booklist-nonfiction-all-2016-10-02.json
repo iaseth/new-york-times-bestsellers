@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "The host of \u201cThe O\u2019Reilly Factor\u201d recounts the final years of World War II.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781627790635.jpg",
+			"name": "KILLING THE RISING SUN",
+			"publisher": "Holt",
+			"rank": 1
+		},
+		{
+			"author": "by Glennon Doyle Melton",
+			"description": "After her husband confesses to multiple infidelities, a woman who has overcome bulimia and alcoholism struggles to grow \u2014 and so does he.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250075741.jpg",
+			"name": "LOVE WARRIOR",
+			"publisher": "Flatiron",
+			"rank": 2
+		},
+		{
+			"author": "by Elizabeth Vargas",
+			"description": "The co-anchor of \u201cWorld News Tonight\u201d and \u201c20/20\u201d describes her long struggle with acute anxiety and panic attacks, which she attempted to medicate with alcohol.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455559640.jpg",
+			"name": "BETWEEN BREATHS",
+			"publisher": "Grand Central",
+			"rank": 3
+		},
+		{
+			"author": "by Amy Schumer",
+			"description": "Humorous personal essays by the comedian, actor and writer.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781501139901.jpg",
+			"name": "THE GIRL WITH THE LOWER BACK TATTOO",
+			"publisher": "Gallery Books",
+			"rank": 4
+		},
+		{
+			"author": "by J.D. Vance",
+			"description": "A Yale Law School graduate looks at the struggles of the white working class through the story of his own childhood in the Rust Belt.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062300560.jpg",
+			"name": "HILLBILLY ELEGY",
+			"publisher": "HarperCollins",
+			"rank": 5
+		},
+		{
+			"author": "by Michael Savage",
+			"description": "The radio host discusses what will happen after the administration of \u201cPresident Maobama.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455568246.jpg",
+			"name": "SCORCHED EARTH",
+			"publisher": "Center Street",
+			"rank": 6
+		},
+		{
+			"author": "by Peter Wohlleben",
+			"description": "A forester presents scientific research on the way trees interact with one another. A best seller in Germany.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781771642484.jpg",
+			"name": "THE HIDDEN LIFE OF TREES",
+			"publisher": "Greystone",
+			"rank": 7
+		},
+		{
+			"author": "by Carol Burnett",
+			"description": "Burnett looks back on \u201cThe Carol Burnett Show\u201d (1967-78), describing sketches and favorite guests as well as directors, musicians and members of the crew.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101904664.jpg",
+			"name": "IN SUCH GOOD COMPANY",
+			"publisher": "Crown/Archetype",
+			"rank": 8
+		},
+		{
+			"author": "by Edward Conard",
+			"description": "A former managing director at Bain Capital argues that the concern about inequality is misguided and will slow growth.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781595231239.jpg",
+			"name": "THE UPSIDE OF INEQUALITY",
+			"publisher": "Portfolio/Penguin",
+			"rank": 9
+		},
+		{
+			"author": "by Abby Wambach",
+			"description": "A memoir by the soccer player, the highest scorer on the United States women\u2019s national team.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780062467010.jpg",
+			"name": "FORWARD",
+			"publisher": "Dey Street/ Morrow",
+			"rank": 10
+		},
+		{
+			"author": "by Paul Kalanithi",
+			"description": "A memoir by a physician who received a diagnosis of Stage IV lung cancer at the age of 36.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780812988413.jpg",
+			"name": "WHEN BREATH BECOMES AIR",
+			"publisher": "Random House",
+			"rank": 11
+		},
+		{
+			"author": "by Chesley B. Sullenberger III with Jeffrey Zaslow",
+			"description": "A memoir by the pilot who performed the successful emergency landing of a plane with 155 passengers on the Hudson River in 2009. The basis for the movie.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780061924682.jpg",
+			"name": "SULLY",
+			"publisher": "William Morrow/HarperCollins",
+			"rank": 12
+		},
+		{
+			"author": "by Mike Love",
+			"description": "The rise and fall of the Beach Boys, by one of the band\u2019s original members.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780698408869.jpg",
+			"name": "GOOD VIBRATIONS",
+			"publisher": "Blue Rider",
+			"rank": 13
+		},
+		{
+			"author": "by Ron Chernow",
+			"description": "A biography of the first Treasury secretary. Originally published in 2004 and the basis of the Broadway musical.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780143034759.jpg",
+			"name": "ALEXANDER HAMILTON",
+			"publisher": "Penguin",
+			"rank": 14
+		},
+		{
+			"author": "by Kathryn Hall and Craig Hall",
+			"description": "A couple\u2019s experience in building a successful Napa Valley winery.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455535767.jpg",
+			"name": "A PERFECT SCORE",
+			"publisher": "Center Street",
+			"rank": 15
+		}
+	]
+}

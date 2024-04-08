@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Tom Felton",
+			"description": "The actor known for playing the villain Draco Malfoy in the \u201cHarry Potter\u201d movies recounts his life on and off the set of the film series.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781538741368.jpg",
+			"name": "BEYOND THE WAND",
+			"publisher": "Grand Central",
+			"rank": 1
+		},
+		{
+			"author": "by Jon Meacham",
+			"description": "The Pulitzer Prize\u2013winning biographer portrays the life of Abraham Lincoln.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780553393965.jpg",
+			"name": "AND THERE WAS LIGHT",
+			"publisher": "Random House",
+			"rank": 2
+		},
+		{
+			"author": "by Jennette McCurdy",
+			"description": "The actress and filmmaker describes her eating disorders and difficult relationship with her mother.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781982185824.jpg",
+			"name": "I'M GLAD MY MOM DIED",
+			"publisher": "Simon & Schuster",
+			"rank": 3
+		},
+		{
+			"author": "by Paul Newman",
+			"description": "The late movie star\u2019s memoir reveals intimate details about his personal relationships and professional rivalries; compiled and edited by David Rosenthal.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593534502.jpg",
+			"name": "THE EXTRAORDINARY LIFE OF AN ORDINARY MAN",
+			"publisher": "Knopf",
+			"rank": 4
+		},
+		{
+			"author": "by Alan Rickman",
+			"description": "The late stage and screen actor\u2019s diaries from 1993 to 2016; edited by Alan Taylor.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250847959.jpg",
+			"name": "MADLY, DEEPLY",
+			"publisher": "Holt",
+			"rank": 5
+		},
+		{
+			"author": "by Maggie Haberman",
+			"description": "The New York Times White House correspondent traces events from Donald Trump\u2019s rise in New York City through to his post-presidency.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593297346.jpg",
+			"name": "CONFIDENCE MAN",
+			"publisher": "Penguin Press",
+			"rank": 6
+		},
+		{
+			"author": "by Bill O'Reilly and Martin Dugard",
+			"description": "The conservative commentator\u2019s Killing series profiles Elvis Presley, John Lennon and Muhammad Ali.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250283306.jpg",
+			"name": "KILLING THE LEGENDS",
+			"publisher": "St. Martin's",
+			"rank": 7
+		},
+		{
+			"author": "by Bessel van der Kolk",
+			"description": "How trauma affects the body and mind, and innovative treatments for recovery.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780670785933.jpg",
+			"name": "THE BODY KEEPS THE SCORE",
+			"publisher": "Penguin",
+			"rank": 8
+		},
+		{
+			"author": "by Benjamin Netanyahu",
+			"description": "An autobiography by the former prime minister of Israel.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781668008447.jpg",
+			"name": "BIBI",
+			"publisher": "Threshold Editions",
+			"rank": 9
+		},
+		{
+			"author": "by Ralph Macchio",
+			"description": "The star of \u201cCobra Kai\u201d discusses the personal and pop culture impact of \u201cThe Karate Kid.\u201d",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593185834.jpg",
+			"name": "WAXING ON",
+			"publisher": "Dutton",
+			"rank": 10
+		},
+		{
+			"author": "by Kelly Ripa",
+			"description": "The Daytime Emmy Award-winning TV host shares stories from her life on and off screen.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780063073302.jpg",
+			"name": "LIVE WIRE",
+			"publisher": "Dey Street",
+			"rank": 11
+		},
+		{
+			"author": "by Gabrielle Blair",
+			"description": "Arguments on the subject of abortion that focus on men\u2019s lack of accountability in preventing unwanted pregnancies.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781523523184.jpg",
+			"name": "EJACULATE RESPONSIBLY",
+			"publisher": "Workman",
+			"rank": 12
+		},
+		{
+			"author": "by Robin Wall Kimmerer",
+			"description": "A botanist and member of the Citizen Potawatomi Nation espouses having an understanding and appreciation of plants and animals.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781571313560.jpg",
+			"name": "BRAIDING SWEETGRASS",
+			"publisher": "Milkweed Editions",
+			"rank": 13
+		},
+		{
+			"author": "by Neil deGrasse Tyson",
+			"description": "The astrophysicist and director of the Hayden Planetarium delves into subjects including politics, religion, gender and race.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781250861504.jpg",
+			"name": "STARRY MESSENGER",
+			"publisher": "Holt",
+			"rank": 14
+		},
+		{
+			"author": "by Anand Giridharadas",
+			"description": "The author of \u201cWinners Take All\u201d profiles people working to use persuasion during a time of polarization.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780593318997.jpg",
+			"name": "THE PERSUADERS",
+			"publisher": "Knopf",
+			"rank": 15
+		}
+	]
+}

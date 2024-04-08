@@ -1,0 +1,124 @@
+{
+	"books": [
+		{
+			"author": "by Sara Gruen",
+			"description": "After the death of his parents in a car accident, a young veterinary student \u2014 and an elephant \u2014 save a Depression-era circus.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781616200718.jpg",
+			"name": "WATER FOR ELEPHANTS",
+			"publisher": "Algonquin",
+			"rank": 1
+		},
+		{
+			"author": "by Clive Cussler with Jack Du Brul",
+			"description": "Juan Cabrillo and the crew of the Oregon undertake rescue operations from Afghanistan to Myanmar.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780425246542.jpg",
+			"name": "THE JUNGLE",
+			"publisher": "Penguin Group",
+			"rank": 2
+		},
+		{
+			"author": "by Jodi Picoult",
+			"description": "Picoult takes on the issue of gay rights in this novel about a music therapist who desperately wants a child.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781439102732.jpg",
+			"name": "SING YOU HOME",
+			"publisher": "Simon & Schuster",
+			"rank": 3
+		},
+		{
+			"author": "by Lisa Gardner",
+			"description": "Detective D. D. Warren must solve the case of a dead husband, a battered wife and a missing child.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780553908114.jpg",
+			"name": "LOVE YOU MORE",
+			"publisher": "Random House",
+			"rank": 4
+		},
+		{
+			"author": "by Stieg Larsson",
+			"description": "The third volume of the Millennium trilogy, about a Swedish hacker and a journalist.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307593672.jpg",
+			"name": "THE GIRL WHO KICKED THE HORNET\u2019S NEST",
+			"publisher": "Knopf Doubleday",
+			"rank": 5
+		},
+		{
+			"author": "by Stieg Larsson",
+			"description": "A hacker and a journalist investigate the disappearance of a Swedish heiress 40 years earlier.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307949486.jpg",
+			"name": "THE GIRL WITH THE DRAGON TATTOO",
+			"publisher": "Knopf Doubleday",
+			"rank": 6
+		},
+		{
+			"author": "by Stieg Larsson",
+			"description": "In the second volume of the Millennium trilogy, a Swedish hacker becomes a murder suspect.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780307476159.jpg",
+			"name": "THE GIRL WHO PLAYED WITH FIRE",
+			"publisher": "Knopf Doubleday",
+			"rank": 7
+		},
+		{
+			"author": "by James Patterson and Michael Ledwidge",
+			"description": "The New York detective Michael Bennett enlists the help of a former colleague to solve a rash of horrifying crimes that are throwing the city into chaos.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780446584333.jpg",
+			"name": "TICK TOCK",
+			"publisher": "Little, Brown",
+			"rank": 8
+		},
+		{
+			"author": "by Deborah Harkness",
+			"description": "The recovery of a lost ancient manuscript in a library at Oxford sets a fantastical underworld stirring.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781101475690.jpg",
+			"name": "A DISCOVERY OF WITCHES",
+			"publisher": "Penguin Group",
+			"rank": 9
+		},
+		{
+			"author": "by Michael Connelly",
+			"description": "Routinely doing business from his Lincoln Town Cars, the bottom-feeding attorney Mickey Haller is asked to defend the scion of a wealthy family who might not be guilty of a murderous crime.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781455500239.jpg",
+			"name": "THE LINCOLN LAWYER",
+			"publisher": "Little, Brown",
+			"rank": 10
+		},
+		{
+			"author": "by Patrick Rothfuss",
+			"description": "In this sequel to \u201cThe Name of the Wind,\u201d the magician Kvothe continues to narrate his fantastical life story.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780756407124.jpg",
+			"name": "THE WISE MAN'S FEAR",
+			"publisher": "Penguin Group",
+			"rank": 11
+		},
+		{
+			"author": "by Abraham Verghese",
+			"description": "Twin brothers, conjoined at birth and then separated, grow up amid the political turmoil of Ethiopia.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780375714368.jpg",
+			"name": "CUTTING FOR STONE",
+			"publisher": "Knopf Doubleday",
+			"rank": 12
+		},
+		{
+			"author": "by Paula McLain",
+			"description": "Ernest Hemingway\u2019s first wife, Hadley, narrates this novel set in Paris.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780345521323.jpg",
+			"name": "THE PARIS WIFE",
+			"publisher": "Random House",
+			"rank": 13
+		},
+		{
+			"author": "by Kathryn Stockett",
+			"description": "A young white woman and two black maids in 1960s Mississippi.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9781440697661.jpg",
+			"name": "THE HELP",
+			"publisher": "Penguin Group",
+			"rank": 14
+		},
+		{
+			"author": "by J. D. Robb",
+			"description": "Eve Dallas and her partner, Peabody, investigate a grocer\u2019s murder.",
+			"imageSrc": "https://storage.googleapis.com/du-prd/books/images/9780399157035.jpg",
+			"name": "TREACHERY IN DEATH",
+			"publisher": "Penguin Group",
+			"rank": 15
+		}
+	]
+}
